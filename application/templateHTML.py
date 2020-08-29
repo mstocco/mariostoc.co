@@ -117,18 +117,18 @@ class Navigation(NAV):
 		for attrs in self.links:
 			anchor = A({'href':attrs['href']})
 			anchor.innerHTML = attrs['label']
+
 			li = LI({"class":"item"})
 			li.append(anchor)
-			ul.append(anchor)
+			ul.append(li)
 		self.append(ul)
-		del self.links
 		return HTML5Tag.tohtml(self)
 
 
 class SocialIcon(LI):
 	""" This is this list item element that contains an
-	    anchor tag that points to an account that I have
-	    somewhere else on the inter-webs.
+		anchor tag that points to an account that I have
+		somewhere else on the inter-webs.
 	"""
 	def __init__(self, alt, href):
 		self._class = 'icon'		
