@@ -113,7 +113,6 @@ class Navigation(NAV):
 		self.innerHTML = google.tohtml()
 
 	def tohtml(self):
-		print(self.links)
 		ul = UL({"class":"alt"})
 		for attrs in self.links:
 			anchor = A({'href':attrs['href']})
