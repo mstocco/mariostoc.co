@@ -43,6 +43,7 @@ class HTML5Tag:
 	"""
 	def __init__(self, arg=''):
 		self.innerHTML = ''
+		self.length = 0
 		if (type(arg) == dict):
 			for key, value in arg.items():
 				if key in ('id', 'class', 'type'):
@@ -74,6 +75,8 @@ class HTML5Tag:
 		else:
 			self.innerHTML = self.innerHTML + (arg)
 		self.length = len(self.innerHTML)
+		print(self.innerHTML)
+		print(self.length)
 		return
 
 	def prepend(self, arg):
