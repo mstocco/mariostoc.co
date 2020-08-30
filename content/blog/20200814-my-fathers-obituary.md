@@ -1,4 +1,4 @@
-![1941 - 2020](/assets/pictures/IMG_1857/309x550.jpg Joe Stocco)
+![1941 - 2020](/assets/pictures/IMG_1857/393x550.jpg Joe Stocco)
 
 # Obituary for Joseph Stocco
 
