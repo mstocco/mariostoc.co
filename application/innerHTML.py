@@ -75,8 +75,6 @@ class HTML5Tag:
 		else:
 			self.innerHTML = self.innerHTML + (arg)
 		self.length = len(self.innerHTML)
-		print(self.innerHTML)
-		print(self.length)
 		return
 
 	def prepend(self, arg):
