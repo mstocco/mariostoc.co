@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 import os
+import time
 from templateDocument import *
 from html.parser import HTMLParser
 
@@ -20,6 +21,7 @@ class Website:
 	def __init__(self):
 		self.content = os.getcwd() + '/../content/'
 		self.public = os.getcwd() + '/../docs'
+		self.today = int(time.strftime('%Y%m%d', time.localtime()))
 
 	def publish(self):
 		for root, dirs, files in os.walk(self.content):
