@@ -26,13 +26,27 @@ ul.alt li:first-child {border-top:0;padding-top:0;}
 .carousel  {background-color:white;}
 .carousel-cell  {width:340px;margin-left:5px;margin-right:5px;padding:0;counter-increment:gallery-cell;text-align:left;}
 .text {padding:0 0 0 10px;}
+.image {background-size:contain;}
 .brightcrimson {color:#F92C33;}
 .social {position:absolute;bottom:0;}
 .social p {border-top:1px solid #ccc;font-size:0.75em;color:#aaa;margin:0;}
 .social ul {list-style:disc inside none;margin:0 7px;}
 .social ul li.icon {-webkit-transition:opacity 0.3s ease;-moz-transition:opacity 0.3s ease;-ms-transition:opacity 0.3s ease;-o-transition:opacity 0.3s ease;transition:opacity 0.3s ease;cursor:pointer;display:inline-block;margin:0 30px 0 -25px;padding:0 1px;position:relative;width:auto;height:20px;zoom:1;}
-.imagebanner {position:relative;height:550px;}
-.banner {position:absolute;background-color:rgba(0,0,0,.2);color:rgb(255,255,255);bottom:0;height:30px;margin:0 0 0 -8px;padding:8px 8px 0 8px;width:100%;}
+
+.imagebanner { position:relative; height:550px; }
+.banner {
+ position:absolute;
+ background-color:rgba(0,0,0,.34);
+ color:white;
+ bottom:0;
+ height:30px;
+ margin:0;
+ padding:10px;
+ width:100%;
+}
+.banner h3 {color:white;}
+.banner p {color:white;font-size:0.8em;}
+
 .photogallery {background-color:#EEEEEE;position:relative;height:100%;width:280px;margin:0;}
 .gallerytitle {position:absolute;background-color:rgba(0,0,0,.3);bottom:0;height:48px;width:280px;margin:0;padding-top:30px;text-align:center;}
 .gallerytitle a {color:white;text-align:center;font-family:AgencyVC-Bold,sans-serif;font-size:1.45rem;text-transform:uppercase;}

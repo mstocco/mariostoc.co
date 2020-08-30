@@ -54,7 +54,7 @@ class CarouselText(SECTION):
 		if text.find('```') == -1:
 			lines = []
 			for line in markdown(text).split('\n'):
-				lines.append(line.strip())
+				lines.append(line.strip() + ' ')
 			self.innerHTML = ''.join(lines)
 		else:
 			self.innerHTML = markdown(text)
@@ -73,7 +73,7 @@ class CarouselImage(SECTION):
 		self.innerHTML = ''
 		text = text.strip()
 		alttext = text[2:].split(']')[0].strip()
-		url = text.split('(')[1].split(' ')[0]
+		url = text.split('(')[1].split(')')[0].split(' ')[0]
 		title = text.split(url)[1].split(')')[0].strip()
 		try:
 			self.width = int(url.split('/')[-1].split('x')[0])
@@ -85,13 +85,20 @@ class CarouselImage(SECTION):
 		style.append('background-image:url(%s)' % url)
 		self.style = ';'.join(style)
 		
-		div = DIV({'class':'imagetext'})
+		banner = DIV({'class':'banner'})
+		div_height = 0
+		div_width = (self.width - 20)
 		if len(title) > 0:
-			div.append(H3(title))
+			banner.append(H3(title))
+			div_height = (div_height + 20)
 		if len(alttext) > 0:
-			div.append(P(alttext))
-		if div.length > 0:
-			self.append(div)
+			banner.append(P(alttext))
+			div_height = (div_height + 20)
+		if banner.length > 0:
+			banner.style = 'height:%dpx;width:%dpx;' % (div_height, div_width)
+			imagebanner = DIV({'class':'imagebanner'})
+			imagebanner.append(banner)
+			self.append(imagebanner)
 
 
 class Navigation(NAV):

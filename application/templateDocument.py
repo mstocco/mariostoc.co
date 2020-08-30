@@ -57,6 +57,7 @@ class TemplateDocument(HTML5Document):
 		firstCell.append(self.navigation)
 		firstCell.append(self.socialIcons)
 		self.carousel.prepend(firstCell)
+		self.carousel.append(SECTION({'class':'carousel-cell'}))
 		self.version = self.getSHA1(content.encode('utf-8'))
 	
 	def getSHA1(self, content):
