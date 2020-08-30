@@ -37,9 +37,9 @@ class Website:
 		except:
 			pass
 
-
 	def publish(self):
 		print('\npublishing...')
+		latestWritten = False
 		for root, dirs, files in os.walk(self.content):
 			directory = '/%s' % os.path.basename(root)
 			print('->', directory)
@@ -53,6 +53,18 @@ class Website:
 					webpage = TemplateDocument()
 					webpage.handleMarkdown('%s%s' % (self.content, basename))
 					self.saveDocument(directory, filename, webpage)
+					if directory == '/traininglog':
+						if not latestWritten:
+							if self.today >= int(filename[:8]):
+								redirect = RedirectDocument()
+								redirect.title = 'Training Log Current Week'
+								redirect.url = '/traininglog/%s' % filename.split('.md')[0]
+								
+								webpage = TemplateDocument()
+								webpage.handleMarkdown('%s%s' % (self.content, basename))
+								self.saveDocument(directory, 'index', webpage)
+								latestWritten = True
+				
 		print('\ndone.')
 
 	def saveDocument(self, directory, filename, webpage):
