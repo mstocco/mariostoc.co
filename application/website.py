@@ -58,6 +58,7 @@ class Website:
 				os.makedirs(directorypath)
 			except FileExistsError:
 				pass
+		if target == 'index': target = '%s.html' % target
 		print('  -> %s' % target)
 		html = webpage.tohtml()
 		fileobj = open(targetpath, 'w', encoding='utf-8')
