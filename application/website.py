@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 import os
+import time
 from templateDocument import *
 from html.parser import HTMLParser
 
@@ -19,7 +20,8 @@ class MetaTagParser(HTMLParser):
 class Website:
 	def __init__(self):
 		self.content = os.getcwd() + '/../content/'
-		self.public = os.getcwd() + '/../public'
+		self.public = os.getcwd() + '/../docs'
+		self.today = int(time.strftime('%Y%m%d', time.localtime()))
 
 	def publish(self):
 		for root, dirs, files in os.walk(self.content):
@@ -42,24 +44,19 @@ class Website:
 		if len(target) > 9:
 			if target[:8].isnumeric():
 				target = '-'.join(target.split('-')[1:])
-
 		directorypath = '%s%s' % (self.public, directory)
 		targetpath = '%s/%s' % (directorypath, target)
 		if os.path.isfile(targetpath):
 			with open(targetpath, 'r', encoding='utf-8') as htmlObj:
-				print(target)
 				parser = MetaTagParser()
 				parser.parseHead(htmlObj.read())
 				if hasattr(parser, 'version'):
 					if parser.version == webpage.version:
-						#print('  -> %s (unchanged)' % filename)
 						return
-
 		if not os.path.isdir(directorypath):
 			try:
 				os.makedirs(directorypath)
 			except FileExistsError:
-				# directory already exists
 				pass
 		print('  -> %s' % target)
 		html = webpage.tohtml()

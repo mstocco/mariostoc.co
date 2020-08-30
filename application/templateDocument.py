@@ -8,7 +8,10 @@ class TemplateDocument(HTML5Document):
 	""" This is how my webage gets built.
 	"""
 	def template(self):
+		self.domain = 'mariostoc.co'
+		self.documentURI = '/'
 		self.description = ''
+		self.lastModified = 20200814
 		self.masthead = Masthead()
 		self.navigation = Navigation()
 		self.carousel = Carousel()
@@ -17,6 +20,15 @@ class TemplateDocument(HTML5Document):
 		self.socialIcons = SocialIcons()
 	
 	def handleMarkdown(self, contentPath):
+		self.documentURI = contentPath.split('content')[1]
+		filename = self.documentURI.split('/')[-1]
+		target = filename.split('.md')[0] 
+		if len(target) > 9:
+			if target[:8].isnumeric():
+				self.lastModified = int(target[:8])
+				target = '-'.join(target.split('-')[1:])
+		self.documentURI = self.documentURI.replace(filename, target) 
+
 		with open(contentPath, 'r', encoding='utf-8') as fileobj:
 			content = fileobj.read().strip()
 		

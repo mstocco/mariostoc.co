@@ -13,7 +13,7 @@ class Masthead(HEADER):
 	def __init__(self):
 		self._class = 'masthead'
 		a1 = A({"href":"javascript:toggle();"})
-		a1.append(IMG({"src":"/assets/img/hamburger.svg","class":"guide-icon"}))
+		a1.append(IMG({"src":"/assets/img/guideicon.svg","class":"guide-icon"}))
 		self.innerHTML = a1.tohtml()
 		
 		a2 = A({"href":"/","class":"mariostocco"})
@@ -62,7 +62,7 @@ class CarouselText(SECTION):
 
 class CarouselImage(SECTION):
 	""" Unlike other HTML5Tag definitions, this class processes
-	    a markdowned reference to an image.  Instead of creating 
+	    the markdown reference to an image.  Instead of creating 
 	    an IMG tag, this website displays the image as the 
 	    background image contains within the _x550 dimensions of
 	    a carousel cell.
@@ -70,7 +70,7 @@ class CarouselImage(SECTION):
 	def __init__(self, text):
 		""" ![alt text](url "title") """
 		self._class = 'carousel-cell image'
-		
+		self.innerHTML = ''
 		text = text.strip()
 		alttext = text[2:].split(']')[0].strip()
 		url = text.split('(')[1].split(' ')[0]
@@ -78,7 +78,7 @@ class CarouselImage(SECTION):
 		try:
 			self.width = int(url.split('/')[-1].split('x')[0])
 		except:
-			self.width = 200
+			self.width = 340
 	
 		style = []
 		style.append('width:%dpx' % self.width)
@@ -113,23 +113,22 @@ class Navigation(NAV):
 		self.innerHTML = google.tohtml()
 
 	def tohtml(self):
-		print(self.links)
 		ul = UL({"class":"alt"})
 		for attrs in self.links:
 			anchor = A({'href':attrs['href']})
 			anchor.innerHTML = attrs['label']
+
 			li = LI({"class":"item"})
 			li.append(anchor)
-			ul.append(anchor)
+			ul.append(li)
 		self.append(ul)
-		del self.links
 		return HTML5Tag.tohtml(self)
 
 
 class SocialIcon(LI):
 	""" This is this list item element that contains an
-	    anchor tag that points to an account that I have
-	    somewhere else on the inter-webs.
+		anchor tag that points to an account that I have
+		somewhere else on the inter-webs.
 	"""
 	def __init__(self, alt, href):
 		self._class = 'icon'		
