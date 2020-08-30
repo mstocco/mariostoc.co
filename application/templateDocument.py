@@ -32,6 +32,10 @@ class TemplateDocument(HTML5Document):
 		with open(contentPath, 'r', encoding='utf-8') as fileobj:
 			content = fileobj.read().strip()
 		
+		for line in content.split('\n'):
+			if len(line) > 1 and line[0] == '#':
+				self.title = line.replace('#', '').strip()
+				break
 		lines = []
 		for line in content.split('\n'):
 			if getattr(self, 'title', None):
@@ -40,10 +44,9 @@ class TemplateDocument(HTML5Document):
 					self.carousel.append(section)
 					lines = []
 				elif line.find('![') == 0 and line.find('x550') > 1:
-					txtSection = CarouselText('\n'.join(lines))
-					imgSection = CarouselImage(line)
-					self.carousel.append(txtSection)
-					self.carousel.append(imgSection)
+					if len(lines) > 0:
+						self.carousel.append(CarouselText('\n'.join(lines)))
+					self.carousel.append(CarouselImage(line))
 					lines = []
 				else:
 					lines.append(line)
