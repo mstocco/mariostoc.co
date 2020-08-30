@@ -11,3 +11,6 @@ From his adolescence, Joe took to the beautiful outdoors of Northwestern Ontario
 Joe will be lovingly remembered by his family: Wife Mary Thang of Richmond, BC, son Mario Stocco (Carina Diller) of Victoria, BC, daughter Lisa Stocco of Courtenay, BC, sisters Mary (Sam) Cicchitano and Gina (Gordon) Sutton of Thunder Bay, Ontario, brother Carlo (Paula) Stocco and sister-in-law Betty Stocco of Duncan BC, and his nieces and nephews, Dino Cicchitano and Linda (Peter) Kibzey of Thunder Bay, Ontario, Christopher (Carrie) Stocco of Surrey, BC, Tania (David) Keeler and Angie (Chris) Gagne of Victoria, BC, Jason Sutton of Thunder Bay, Ontario and Jennifer (Marcus) Walker of St. Joseph, Minnesota.
 
 A private viewing will be held Thursday, August 20th, 2020, at Richmond Funeral Home from 9:00 am to 9:45 am followed by cremation.  Should friends desire, memorial donations may be made to the Richmond Hospital Foundation https://www.richmondhospitalfoundation.com/.
+
+![1941 - 2020](/assets/pictures/IMG_1857/550x550.jpg)
+
