@@ -23,7 +23,23 @@ class Website:
 		self.public = os.getcwd() + '/../docs'
 		self.today = int(time.strftime('%Y%m%d', time.localtime()))
 
+	def clean(self):
+		print('\ncleaning...')
+		for directory in ['blog','traininglog','racereports','pictures']:
+			print('->', directory)
+			targetdir = '%s/%s' % (self.public, directory)
+			for filename in os.listdir(targetdir):
+				target = '%s/%s' % (targetdir, filename)
+				print('  - %s' % filename)
+				os.remove(target)
+		try:
+			os.remove('%s/about' % self.public)
+		except:
+			pass
+
 	def publish(self):
+		print('\npublishing...')
+		latestWritten = False
 		for root, dirs, files in os.walk(self.content):
 			directory = '/%s' % os.path.basename(root)
 			print('->', directory)
@@ -37,7 +53,19 @@ class Website:
 					webpage = TemplateDocument()
 					webpage.handleMarkdown('%s%s' % (self.content, basename))
 					self.saveDocument(directory, filename, webpage)
-		print('done.')
+					if directory == '/traininglog':
+						if not latestWritten:
+							if self.today >= int(filename[:8]):
+								redirect = RedirectDocument()
+								redirect.title = 'Training Log Current Week'
+								redirect.url = '/traininglog/%s' % filename.split('.md')[0]
+								
+								webpage = TemplateDocument()
+								webpage.handleMarkdown('%s%s' % (self.content, basename))
+								self.saveDocument(directory, 'index', webpage)
+								latestWritten = True
+				
+		print('\ndone.')
 
 	def saveDocument(self, directory, filename, webpage):
 		target = filename.split('.md')[0]
@@ -58,7 +86,8 @@ class Website:
 				os.makedirs(directorypath)
 			except FileExistsError:
 				pass
-		print('  -> %s' % target)
+		if target == 'index': targetpath = '%s.html' % targetpath
+		print('  + ', target)
 		html = webpage.tohtml()
 		fileobj = open(targetpath, 'w', encoding='utf-8')
 		fileobj.write(html)
@@ -66,4 +95,5 @@ class Website:
 		return
 
 website = Website()
+website.clean()
 website.publish()
