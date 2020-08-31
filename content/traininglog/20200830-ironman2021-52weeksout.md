@@ -11,7 +11,7 @@ I feel like was... <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT
 
 <!---->
 ## SUNDAY AUG 30
-Sleep **1** | Fatigue **1** | Stress **4** | Soreness **4** 
+Sleep **1** | Fatigue **4** | Stress **5** | Soreness **4** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -25,16 +25,16 @@ This was a day to reflect on life.  I had no desire to talk to anyone, be anywhe
 
 <!---->
 ## MONDAY AUG 31
-Sleep **2** | Fatigue **1** | Stress **4** | Soreness **4** 
+Sleep **2** | Fatigue **1** | Stress **5** | Soreness **5** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 No planned workout.
 
 ### NOTES
-Total Time: **&mdash; minutes**
+Total Time: **0 minutes**
 
-&mdash; 
+I overslept and had an rough day concentrating on work.  Things come and go and sometimes I have good moments of focus and other times, work seems overwhelming.  I watched a video detailing Challenge Davos and it provided a glimpse of what I might expect for a race experience next summer.  I also read that Jen Annett posted a 10 hour time on the Penticton course over the weekend in an “unofficial” event of about a dozen locals.
 
 
 <!---->
