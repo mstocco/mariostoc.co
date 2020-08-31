@@ -8,7 +8,10 @@ class TemplateDocument(HTML5Document):
 	""" This is how my webage gets built.
 	"""
 	def template(self):
+		self.domain = 'mariostoc.co'
+		self.documentURI = '/'
 		self.description = ''
+		self.lastModified = 20200814
 		self.masthead = Masthead()
 		self.navigation = Navigation()
 		self.carousel = Carousel()
@@ -17,9 +20,22 @@ class TemplateDocument(HTML5Document):
 		self.socialIcons = SocialIcons()
 	
 	def handleMarkdown(self, contentPath):
+		self.documentURI = contentPath.split('content')[1]
+		filename = self.documentURI.split('/')[-1]
+		target = filename.split('.md')[0] 
+		if len(target) > 9:
+			if target[:8].isnumeric():
+				self.lastModified = int(target[:8])
+				target = '-'.join(target.split('-')[1:])
+		self.documentURI = self.documentURI.replace(filename, target) 
+
 		with open(contentPath, 'r', encoding='utf-8') as fileobj:
 			content = fileobj.read().strip()
 		
+		for line in content.split('\n'):
+			if len(line) > 1 and line[0] == '#':
+				self.title = line.replace('#', '').strip()
+				break
 		lines = []
 		for line in content.split('\n'):
 			if getattr(self, 'title', None):
@@ -28,10 +44,9 @@ class TemplateDocument(HTML5Document):
 					self.carousel.append(section)
 					lines = []
 				elif line.find('![') == 0 and line.find('x550') > 1:
-					txtSection = CarouselText('\n'.join(lines))
-					imgSection = CarouselImage(line)
-					self.carousel.append(txtSection)
-					self.carousel.append(imgSection)
+					if len(lines) > 0:
+						self.carousel.append(CarouselText('\n'.join(lines)))
+					self.carousel.append(CarouselImage(line))
 					lines = []
 				else:
 					lines.append(line)
@@ -45,6 +60,7 @@ class TemplateDocument(HTML5Document):
 		firstCell.append(self.navigation)
 		firstCell.append(self.socialIcons)
 		self.carousel.prepend(firstCell)
+		self.carousel.append(SECTION({'class':'carousel-cell'}))
 		self.version = self.getSHA1(content.encode('utf-8'))
 	
 	def getSHA1(self, content):

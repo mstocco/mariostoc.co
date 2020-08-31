@@ -42,15 +42,14 @@ class HTML5Tag:
 	    string variable that can be appended or prepended to.
 	"""
 	def __init__(self, arg=''):
-		self.tagname = str(self.__class__).split('.')[1].split('\'')[0].lower()
 		self.innerHTML = ''
+		self.length = 0
 		if (type(arg) == dict):
 			for key, value in arg.items():
 				if key in ('id', 'class', 'type'):
 					setattr(self, '_%s' % key, value)
 					continue
 				setattr(self, key, value)
-			self.innerHTML = ''
 		else:
 			self.append(arg)
 	
@@ -88,14 +87,13 @@ class HTML5Tag:
 		return
 
 	def tohtml(self):
-		if not hasattr(self, 'tagname'):
-			for base in self.__class__.__bases__:
-				self.tagname = base.__name__.lower()
-				break
+		tagname = self.__class__.__bases__[0].__name__.lower()
+		if tagname == 'html5tag':
+			tagname = self.__class__.__name__.lower()
 		unpaired = ['base','meta','link','hr','br','input','img']
-		if self.tagname in unpaired:
-			return '<%s%s />' % (self.tagname, self.attributes())
-		return '<%s%s>%s</%s>' % (self.tagname, self.attributes(), self.innerHTML, self.tagname)
+		if tagname in unpaired:
+			return '<%s%s />' % (tagname, self.attributes())
+		return '<%s%s>%s</%s>' % (tagname, self.attributes(), self.innerHTML, tagname)
 
 
 ## _____________________________________

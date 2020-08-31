@@ -13,7 +13,7 @@ class Masthead(HEADER):
 	def __init__(self):
 		self._class = 'masthead'
 		a1 = A({"href":"javascript:toggle();"})
-		a1.append(IMG({"src":"/assets/img/hamburger.svg","class":"guide-icon"}))
+		a1.append(IMG({"src":"/assets/img/guideicon.svg","class":"guide-icon"}))
 		self.innerHTML = a1.tohtml()
 		
 		a2 = A({"href":"/","class":"mariostocco"})
@@ -54,7 +54,7 @@ class CarouselText(SECTION):
 		if text.find('```') == -1:
 			lines = []
 			for line in markdown(text).split('\n'):
-				lines.append(line.strip())
+				lines.append(line.strip() + ' ')
 			self.innerHTML = ''.join(lines)
 		else:
 			self.innerHTML = markdown(text)
@@ -62,7 +62,7 @@ class CarouselText(SECTION):
 
 class CarouselImage(SECTION):
 	""" Unlike other HTML5Tag definitions, this class processes
-	    a markdowned reference to an image.  Instead of creating 
+	    the markdown reference to an image.  Instead of creating 
 	    an IMG tag, this website displays the image as the 
 	    background image contains within the _x550 dimensions of
 	    a carousel cell.
@@ -70,28 +70,35 @@ class CarouselImage(SECTION):
 	def __init__(self, text):
 		""" ![alt text](url "title") """
 		self._class = 'carousel-cell image'
-		
+		self.innerHTML = ''
 		text = text.strip()
 		alttext = text[2:].split(']')[0].strip()
-		url = text.split('(')[1].split(' ')[0]
+		url = text.split('(')[1].split(')')[0].split(' ')[0]
 		title = text.split(url)[1].split(')')[0].strip()
 		try:
 			self.width = int(url.split('/')[-1].split('x')[0])
 		except:
-			self.width = 200
+			self.width = 340
 	
 		style = []
 		style.append('width:%dpx' % self.width)
 		style.append('background-image:url(%s)' % url)
 		self.style = ';'.join(style)
 		
-		div = DIV({'class':'imagetext'})
+		banner = DIV({'class':'banner'})
+		div_height = 0
+		div_width = (self.width - 20)
 		if len(title) > 0:
-			div.append(H3(title))
+			banner.append(H3(title))
+			div_height = (div_height + 20)
 		if len(alttext) > 0:
-			div.append(P(alttext))
-		if div.length > 0:
-			self.append(div)
+			banner.append(P(alttext))
+			div_height = (div_height + 20)
+		if banner.length > 0:
+			banner.style = 'height:%dpx;width:%dpx;' % (div_height, div_width)
+			imagebanner = DIV({'class':'imagebanner'})
+			imagebanner.append(banner)
+			self.append(imagebanner)
 
 
 class Navigation(NAV):
@@ -103,7 +110,7 @@ class Navigation(NAV):
 		self.links.append({'href':'/traininglog/', 'label':'TRAINING LOG'})
 		self.links.append({'href':'/racereports/', 'label':'RACE REPORTS'})
 		self.links.append({'href':'/blog/', 'label':'THINGS I\'VE WRITTEN'})
-		self.links.append({'href':'/photographs/', 'label':'PICTURES I\'VE TAKEN'})
+		self.links.append({'href':'/pictures/', 'label':'PICTURES I\'VE TAKEN'})
 		self.links.append({'href':'/about', 'label':'ABOUT'})
 		input1 = INPUT({"name":"q","id":"q","type":"text","maxlength":"200","placeholder":"search..."})
 		input2 = INPUT({"name":"q","type":"hidden","value":"site:mariostoc.co"})
@@ -113,23 +120,22 @@ class Navigation(NAV):
 		self.innerHTML = google.tohtml()
 
 	def tohtml(self):
-		print(self.links)
 		ul = UL({"class":"alt"})
 		for attrs in self.links:
 			anchor = A({'href':attrs['href']})
 			anchor.innerHTML = attrs['label']
+
 			li = LI({"class":"item"})
 			li.append(anchor)
-			ul.append(anchor)
+			ul.append(li)
 		self.append(ul)
-		del self.links
 		return HTML5Tag.tohtml(self)
 
 
 class SocialIcon(LI):
 	""" This is this list item element that contains an
-	    anchor tag that points to an account that I have
-	    somewhere else on the inter-webs.
+		anchor tag that points to an account that I have
+		somewhere else on the inter-webs.
 	"""
 	def __init__(self, alt, href):
 		self._class = 'icon'		
