@@ -1,7 +1,7 @@
 body {line-height:1;color:#1d2129;font-family:SanFrancisco-Regular,Helvetica, Arial, sans-serif;font-size:15px;font-weight:300;letter-spacing:0.233333px;line-height:21px;background:#ffffff;}
 h1, h2, h3, h4, h5, h6 {color:#1d2129;font-family:AgencyVC-Bold,Helvetica, Arial, sans-serif;font-style:normal;font-weight:normal;text-transform:uppercase;}
 h1 { font-size:1.4rem; margin:1px 0 0 0;}
-h2 { font-size:1.2rem; margin:0;}
+h2 { font-size:1.15rem; margin:1px 0 0 0;}
 h3 { font-size:1rem; margin:0;}
 h4, h5, h6 { font-size:0.9rem; margin:0.25rem 0 0.25rem 0; }
 p {margin:0 0 1rem 0;}
@@ -52,7 +52,7 @@ ul.alt li:first-child {border-top:0;padding-top:0;}
 .gallerytitle a {color:white;text-align:center;font-family:AgencyVC-Bold,sans-serif;font-size:1.45rem;text-transform:uppercase;}
 
 footer p {font-size:0.7em;color#aaa;margin-left:10px;}
-
+.last {width: 340px;}
 @media screen and (orientation: portrait) {
  .content {top:-300px;height:550px;}
  .carousel-cell {height:550px;}
@@ -61,6 +61,6 @@ footer p {font-size:0.7em;color#aaa;margin-left:10px;}
 @media screen and (orientation: landscape) {
  .content {top:-295px;height:550px;}
  .carousel-cell {height:550px;}
- .last {width:600px;}
+ .last {width:1000px;}
 }
 #q {border-radius:1px;width:268px;border:0;background-color:#efefef;padding:8px 2px 8px 28px;margin-bottom:18px;background-image:url(/assets/img/search.svg);background-repeat:no-repeat;background-position:6px 10px;}
