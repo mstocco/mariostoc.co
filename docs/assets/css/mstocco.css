@@ -52,7 +52,7 @@ ul.alt li:first-child {border-top:0;padding-top:0;}
 .gallerytitle a {color:white;text-align:center;font-family:AgencyVC-Bold,sans-serif;font-size:1.45rem;text-transform:uppercase;}
 
 footer p {font-size:0.7em;color#aaa;margin-left:10px;}
-
+.last {width: 340px;}
 @media screen and (orientation: portrait) {
  .content {top:-300px;height:550px;}
  .carousel-cell {height:550px;}
@@ -61,6 +61,6 @@ footer p {font-size:0.7em;color#aaa;margin-left:10px;}
 @media screen and (orientation: landscape) {
  .content {top:-295px;height:550px;}
  .carousel-cell {height:550px;}
- .last {width:600px;}
+ .last {width:1000px;}
 }
 #q {border-radius:1px;width:268px;border:0;background-color:#efefef;padding:8px 2px 8px 28px;margin-bottom:18px;background-image:url(/assets/img/search.svg);background-repeat:no-repeat;background-position:6px 10px;}
