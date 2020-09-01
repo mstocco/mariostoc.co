@@ -140,7 +140,7 @@ class SocialIcon(LI):
 	def __init__(self, alt, href):
 		self._class = 'icon'		
 		src = '/assets/img/%s.svg' % alt.lower()
-		anchor = A({"href":href,"target":"_blank"})
+		anchor = A({"href":href,"target":"_blank","rel":"noreferrer"})
 		anchor.append(IMG({"src":src,"alt":alt}))
 		self.innerHTML = anchor.tohtml()
 
