@@ -44,7 +44,7 @@ class Carousel(MAIN):
 		return HTML5Tag.tohtml(self)
 
 
-class CarouselText(SECTION):
+class CarouselText(DIV):
 	""" Unlike other HTML5Tag definitions, this class processes
 	    text with the markdown2.markdown module to generate the
 	    innerHTML attribute.
@@ -60,7 +60,7 @@ class CarouselText(SECTION):
 			self.innerHTML = markdown(text)
 
 
-class CarouselImage(SECTION):
+class CarouselImage(DIV):
 	""" Unlike other HTML5Tag definitions, this class processes
 	    the markdown reference to an image.  Instead of creating 
 	    an IMG tag, this website displays the image as the 
