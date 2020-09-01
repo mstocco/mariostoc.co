@@ -22,6 +22,7 @@ Total Time: **0 minutes**
 
 This was a day to reflect on life.  I had no desire to talk to anyone, be anywhere or do anything.  I did write the software that will power this website today though.  It is not done yet but it is getting close!
 
+I would like to think that the weather being cold, gray and then rainy had a less than positive effect on my overall mood.
 
 <!---->
 ## MONDAY AUG 31
@@ -39,21 +40,21 @@ I overslept and had an rough day concentrating on work.  Things come and go and 
 
 <!---->
 ## TUESDAY SEP 01
-Sleep **2** | Fatigue **** | Stress **5** | Soreness **4** 
+Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Light jog from the Canadian Tire on Admirals Road back home.
+&mdash;
 
 ### NOTES
-Total Time: **25 minutes**
+Total Time: ** minutes**
 
-This was the perfect distance as I work back into a routine.
+This would have been my father's 79th birthday.  Enough said.
 
 
 <!---->
 ## WEDNESDAY SEP 02
-Sleep **1** | Fatigue **** | Stress **-** | Soreness **-** 
+Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
