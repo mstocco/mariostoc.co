@@ -13,7 +13,7 @@ class Masthead(HEADER):
 	def __init__(self):
 		self._class = 'masthead'
 		a1 = A({"href":"javascript:toggle();"})
-		a1.append(IMG({"src":"/assets/img/guideicon.svg","class":"guide-icon"}))
+		a1.append(IMG({"src":"/assets/img/guideicon.svg","class":"guide-icon","alt":"menu toggle"}))
 		self.innerHTML = a1.tohtml()
 		
 		a2 = A({"href":"/","class":"mariostocco"})
