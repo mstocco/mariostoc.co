@@ -6,7 +6,8 @@
         url(/assets/css/fonts/AgencyVC-Bold.ttf) format("truetype"),
         url(/assets/css/fonts/AgencyVC-Bold.svg) format("svg");
         font-weight:400;
-        font-style:normal
+        font-style:normal;
+        font-display: swap;
 }
 @font-face {
         font-family:SanFrancisco-Regular;

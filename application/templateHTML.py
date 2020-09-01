@@ -13,7 +13,7 @@ class Masthead(HEADER):
 	def __init__(self):
 		self._class = 'masthead'
 		a1 = A({"href":"javascript:toggle();"})
-		a1.append(IMG({"src":"/assets/img/guideicon.svg","class":"guide-icon"}))
+		a1.append(IMG({"src":"/assets/img/guideicon.svg","class":"guide-icon","alt":"menu toggle"}))
 		self.innerHTML = a1.tohtml()
 		
 		a2 = A({"href":"/","class":"mariostocco"})
@@ -44,7 +44,7 @@ class Carousel(MAIN):
 		return HTML5Tag.tohtml(self)
 
 
-class CarouselText(SECTION):
+class CarouselText(DIV):
 	""" Unlike other HTML5Tag definitions, this class processes
 	    text with the markdown2.markdown module to generate the
 	    innerHTML attribute.
@@ -60,7 +60,7 @@ class CarouselText(SECTION):
 			self.innerHTML = markdown(text)
 
 
-class CarouselImage(SECTION):
+class CarouselImage(DIV):
 	""" Unlike other HTML5Tag definitions, this class processes
 	    the markdown reference to an image.  Instead of creating 
 	    an IMG tag, this website displays the image as the 
@@ -140,7 +140,7 @@ class SocialIcon(LI):
 	def __init__(self, alt, href):
 		self._class = 'icon'		
 		src = '/assets/img/%s.svg' % alt.lower()
-		anchor = A({"href":href,"target":"_blank"})
+		anchor = A({"href":href,"target":"_blank","rel":"noreferrer"})
 		anchor.append(IMG({"src":src,"alt":alt}))
 		self.innerHTML = anchor.tohtml()
 
