@@ -35,26 +35,28 @@ No planned workout.
 ### NOTES
 Total Time: **0 minutes**
 
-I overslept and had an rough day concentrating on work.  Things come and go and sometimes I have good moments of focus and other times, work seems overwhelming.  I watched a video detailing Challenge Davos and it provided a glimpse of what I might expect for a race experience next summer.  I also read that Jen Annett posted a 10 hour time on the Penticton course over the weekend in an “unofficial” event of about a dozen locals.
+I overslept and had an rough day concentrating on work.  Things come and go and sometimes I have good moments of focus and other times, work seems overwhelming.  I watched a video detailing Challenge Davos and it provided a glimpse of what I might expect for a race experience next summer.  I also read that Jen Annett posted a 10 hour time on the Penticton course over the weekend in an "unofficial" event of about a dozen locals.
 
 
 <!---->
 ## TUESDAY SEP 01
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
+Sleep **6** | Fatigue **5** | Stress **4** | Soreness **5** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;
+No planned workout.
 
 ### NOTES
-Total Time: ** minutes**
+Total Time: ** 40 minutes**
 
 This would have been my father's 79th birthday.  Enough said.
+
+I was awake from 2:30 to 5:30am and had a bit of a headache too.  I did a walk/jog around Swan Lake and that helped.
 
 
 <!---->
 ## WEDNESDAY SEP 02
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
+Sleep **3** | Fatigue **2** | Stress **3** | Soreness **5** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -63,7 +65,7 @@ No planned workout.
 ### NOTES
 Total Time: **&mdash; minutes**
 
-&mdash; 
+Lumbar and traps are still TAF and I need to continue to work on that.  It does feel like a bit of emotional weight has lifted; my energy is better today.  I had a better sleep last night too.
 
 
 <!---->
