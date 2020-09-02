@@ -15,7 +15,7 @@ class Masthead(HEADER):
 		self.innerHTML = ''
 		path = PATH({"d":"M0,16.666H20V14.444H0ZM0,11.111H20V8.888H0ZM0,3.333V5.5555H20V3.333Z"})
 		svg = SVG({"focusable":"false","viewbox":"0 0 20 20"})
-		div = DIV({"class":"icon":"role":"button","onclick":"javascript:toggle();"})
+		div = DIV({"class":"icon","role":"button","onclick":"javascript:toggle();"})
 		anchor = A({"href":"/","class":"mariostocco"})
 		anchor.innerHTML = 'Mario Stocco'
 		svg.append(path)
