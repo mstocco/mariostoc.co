@@ -103,3 +103,18 @@ class Website:
 		self.publish()
 		return
 
+if __name__ == '__main__':
+	import argparse
+
+	website = Website()
+	## Command Line Argument Definitions
+	parser = argparse.ArgumentParser()
+	subparsers = parser.add_subparsers(dest="action", help='________________________')
+	subparsers.add_parser('clean', help='Removes previously published documents')
+	subparsers.add_parser('publish', help='Walks the content directory and creates documents')
+	subparsers.add_parser('jpeg', help='Resize, crop, file JPEG files')
+	parser.parse_args(namespace=website)
+
+	## Let's do this
+	website.do()
+
