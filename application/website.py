@@ -93,7 +93,13 @@ class Website:
 		fileobj.write(html)
 		fileobj.close()
 		return
+	
+	def do(self):
+		if hasattr(self, 'action'):
+			if self.action == 'clean':
+				return self.clean()
+			if self.action == 'jpeg':
+				return
+		self.publish()
+		return
 
-website = Website()
-website.clean()
-website.publish()
