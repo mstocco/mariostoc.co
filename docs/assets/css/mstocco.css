@@ -21,6 +21,7 @@ ul.alt li:first-child {border-top:0;padding-top:0;}
 .horizon {position:absolute;top:50%; left:0; width:100%;height:1px;background-color:#fefefe;}
 .content  {position:absolute;left:0; width:100%;margin-left:0;background-color:white;}
 .masthead {margin-bottom:16px;}
+.masthead .icon {width:20px;height:20px;margin:0 10px;padding:0;display:inline-block;;cursor:pointer;}
 .mariostocco {font-family:AgencyVC-Bold,Helvetica,Arial,sans-serif;font-style:normal;font-weight:normal;font-size:1.55rem;margin:0;}
 .guide-icon {float:left;margin-left:10px;margin-right:12px;margin-top:-4px;}
 .carousel  {background-color:white;}

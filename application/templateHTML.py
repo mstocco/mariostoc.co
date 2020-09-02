@@ -12,13 +12,16 @@ class Masthead(HEADER):
 	"""
 	def __init__(self):
 		self._class = 'masthead'
-		a1 = A({"href":"javascript:toggle();"})
-		a1.append(IMG({"src":"/assets/img/guideicon.svg","class":"guide-icon","alt":"menu toggle"}))
-		self.innerHTML = a1.tohtml()
-		
-		a2 = A({"href":"/","class":"mariostocco"})
-		a2.append("MARIO STOCCO")
-		self.append(a2)
+		self.innerHTML = ''
+		path = PATH({"d":"M0,16.666H20V14.444H0ZM0,11.111H20V8.888H0ZM0,3.333V5.5555H20V3.333Z"})
+		svg = SVG({"focusable":"false","viewbox":"0 0 20 20"})
+		div = DIV({"class":"icon":"role":"button","onclick":"javascript:toggle();"})
+		anchor = A({"href":"/","class":"mariostocco"})
+		anchor.innerHTML = 'Mario Stocco'
+		svg.append(path)
+		div.append(svg)
+		self.append(div)
+		self.append(anchor)
 
 
 class Carousel(MAIN):

@@ -138,6 +138,7 @@ class META(HTML5Tag): pass
 class NAV(HTML5Tag): pass
 class H1(HTML5Tag): pass
 class P(HTML5Tag): pass
+class PATH(HTML5Tag): pass
 class S(HTML5Tag): pass
 class SCRIPT(HTML5Tag): pass
 class SECTION(HTML5Tag): pass
