@@ -47,7 +47,7 @@ Sleep **6** | Fatigue **5** | Stress **4** | Soreness **5**
 No planned workout.
 
 ### NOTES
-Total Time: ** 40 minutes**
+Total Time: **40 minutes**
 
 This would have been my father's 79th birthday.  Enough said.
 
