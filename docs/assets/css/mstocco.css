@@ -52,6 +52,11 @@ ul.alt li:first-child {border-top:0;padding-top:0;}
 .gallerytitle {position:absolute;background-color:rgba(0,0,0,.3);bottom:0;height:48px;width:280px;margin:0;padding-top:30px;text-align:center;}
 .gallerytitle a {color:white;text-align:center;font-family:AgencyVC-Bold,sans-serif;font-size:1.45rem;text-transform:uppercase;}
 
+.gallerylist li {
+ background:url('/assets/img/camera-icon.svg') no-repeat top left;
+ margin:6px 0 0 -15px;padding:0 0 4px 25px;list-style:none;line-height:1.0;
+}
+.gallerylist li a {font-size:0.95em;font-weight:normal;}
 footer p {font-size:0.7em;color#aaa;margin-left:10px;}
 .last {width: 340px;}
 @media screen and (orientation: portrait) {
