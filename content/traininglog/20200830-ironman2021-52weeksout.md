@@ -63,23 +63,26 @@ Sleep **3** | Fatigue **2** | Stress **3** | Soreness **5**
 No planned workout.
 
 ### NOTES
-Total Time: **&mdash; minutes**
+Total Time: **30 minutes**
 
 Lumbar and traps are still TAF and I need to continue to work on that.  It does feel like a bit of emotional weight has lifted; my energy is better today.  I had a better sleep last night too.
 
+I did get in a short run in after dinner.  I felt good at a steady but easy pace.  I wore my old Nike Peg Turbos without socks and it felt great for the first 3.5K; I did start to feel a blister coming on and for that reason alone, I stopped running at just over 5K.  I walked home from there. 
 
 <!---->
 ## THURSDAY SEP 03
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+No planned workout.
 
 ### NOTES
 Total Time: **&mdash; minutes**
 
-&mdash; 
+First time to talk with Elliot since both our worlds recently changed.  I am feeling a bit more motivated to getting moving again.
+There are still lingering moments of inability to concentrate; which is ok for now but can't be forever.
+I am hoping that I can focus long enough to reduce my current load at work, thus leaving more mental energy to get outside.
 
 
 <!---->
