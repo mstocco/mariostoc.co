@@ -4,7 +4,7 @@ Week beginning Sunday, August 30, 2020
 **52 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-This week is going to be all about an emotional reset for me.  There are no planned workouts and if I do any exercise, it will be for the enjoyment of the activity itself, rather than any training stimulus it provides.  
+This week is going to be all about an emotional reset for me.  There are no planned workouts and if I do any exercise, it will be for the enjoyment of the activity itself, rather than any training stimulus it provides.
 
 ## SUMMARY
 I feel like was... <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
@@ -71,14 +71,14 @@ I did get in a short run in after dinner.  I felt good at a steady but easy pace
 
 <!---->
 ## THURSDAY SEP 03
-Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4** 
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 No planned workout.
 
 ### NOTES
-Total Time: **&mdash; minutes**
+Total Time: **0 minutes**
 
 First time to talk with Elliot since both our worlds recently changed.  I am feeling a bit more motivated to getting moving again.
 There are still lingering moments of inability to concentrate; which is ok for now but can't be forever.
@@ -91,7 +91,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+
+20 Minutes Mobility.
+Run 30 minutes. Flat route. Easy effort.
 
 ### NOTES
 Total Time: **&mdash; minutes**
@@ -105,7 +107,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Mobility 25 minutes.
+Road ride ~1:30 Easy riding.  Whatever route sounds fun.
 
 ### NOTES
 Total Time: **&mdash; minutes**

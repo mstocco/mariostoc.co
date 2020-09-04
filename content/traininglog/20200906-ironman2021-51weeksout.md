@@ -16,7 +16,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Run 50 minutes, rolling route, easy effort.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -30,7 +30,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Mobility 22 minutes.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -44,7 +44,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Mobility 25 minutes. &mdash; Run 30 minutes, flatter route, easy effort.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -58,7 +58,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Ride 60 minutes, easy and keep it fun. &mdash; Run 30 minutes OTB, easy pace. 
 
 ### NOTES
 Total Time: **0 minutes**
@@ -72,7 +72,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Mobility 25 minutes
 
 ### NOTES
 Total Time: **0 minutes**
@@ -86,7 +86,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Run 40 minutes: 20 minutes easy, 8x(:30 strides, :45 jog), 10 minutes easy.
 
 ### NOTES
 Total Time: **0 minutes**
