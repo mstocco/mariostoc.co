@@ -61,9 +61,10 @@ class HTML5Tag:
 		for key, value in self.__dict__.items():
 			if key in ('tagname', 'innerHTML', 'length'):
 				continue
-			if key[0] == '_': key = key[1:]
-			key = key.replace('_', '-')
-			attrs.append('%s="%s"' % (key, value))
+			if isinstance(value, str):
+				if key[0] == '_': key = key[1:]
+				key = key.replace('_', '-')
+				attrs.append('%s="%s"' % (key, value))
 		if len(attrs) > 0:
 			return ' %s' % ' '.join(attrs)
 		return ''
