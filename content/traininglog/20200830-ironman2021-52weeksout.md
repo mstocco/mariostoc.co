@@ -87,7 +87,7 @@ I am hoping that I can focus long enough to reduce my current load at work, thus
 
 <!---->
 ## FRIDAY SEP 04
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
+Sleep **4** | Fatigue **4** | Stress **2** | Soreness **5** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -96,14 +96,15 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 Run 30 minutes. Flat route. Easy effort.
 
 ### NOTES
-Total Time: **&mdash; minutes**
+Total Time: **0 minutes**
 
-&mdash; 
+This was a bit of a funky day.  I was able to get a number of things done at work which was good to have off my plate and it was a nice day outside; I just didn't pull the trigger on lacing up my sneakers or setting up the yoga mat.  I did receive the email for registering for IRONMAN Canada 2021.  I am in!
+
 
 
 <!---->
 ## SATURDAY SEP 05
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
+Sleep **2** | Fatigue **2** | Stress **2** | Soreness **4** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -113,7 +114,8 @@ Road ride ~1:30 Easy riding.  Whatever route sounds fun.
 ### NOTES
 Total Time: **&mdash; minutes**
 
-&mdash; 
+I had a much better sleep last night though I did get up once.
 
 
 <!---->
+
