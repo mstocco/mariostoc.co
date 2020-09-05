@@ -88,9 +88,7 @@ class Website:
 						return
 		else:
 			filename = '%s' % target.split('/').pop()
-			print(filename)
 			targetdir = target.split(filename)[0]
-			print(targetdir)
 			try:
 				os.makedirs(targetdir)
 			except FileExistsError:
