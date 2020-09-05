@@ -78,6 +78,8 @@ class CarouselImage(DIV):
 		alttext = text[2:].split(']')[0].strip()
 		url = text.split('(')[1].split(')')[0].split(' ')[0]
 		title = text.split(url)[1].split(')')[0].strip()
+		if len(title) > 0:
+			self.title = title
 		try:
 			self.width = int(url.split('/')[-1].split('x')[0])
 		except:
@@ -193,4 +195,46 @@ class FlickityJS(SCRIPT):
 		self.append("});")
 		self.append("function toggle(){if(flkty.selectedIndex>0){flkty.select(0);}else{flkty.select(1);}};")
 		return HTML5Tag.tohtml(self)
+
+
+
+class OpenGraph:
+	""" A collection of metatags that have a set of
+	    minimum requirements before being added to the
+	    HEAD tag of a Document.
+	"""
+	def __init__(self):
+		self.image = ''
+		self.title = ''
+		self.url = ''
+	
+	def append(self, prop, content):
+		value = content.strip()
+		if len(value) > 0:
+			attr = prop.replace(':', '_')
+			setattr(self, attr, value)
+		return
+
+	def tohtml(self):
+		html = ''
+		if len(self.image) > 0:
+			if len(self.title) > 0:
+				if len(self.url) > 0:
+					html = META({'property':'og:type','content':'article'}).tohtml()
+					if not hasattr(self, 'article_author'):
+						metatag = META({'property':'og:article:author', 'content':'Mario Stocco'})
+						html = html + metatag.tohtml()
+					for key, content in self.__dict__.items():
+						property = 'og:%s' % key.replace('_', ':')
+						metatag = META({'property':property, 'content':content})
+						html = html + metatag.tohtml()
+		return html
+
+
+
+
+
+
+
+
 

@@ -19,7 +19,7 @@ class MetaTagParser(HTMLParser):
 
 class Website:
 	def __init__(self):
-		self.content = os.getcwd() + '/../content/'
+		self.content = os.getcwd() + '/../content'
 		self.public = os.getcwd() + '/../docs'
 		self.today = int(time.strftime('%Y%m%d', time.localtime()))
 
@@ -41,17 +41,28 @@ class Website:
 		print('\npublishing...')
 		latestWritten = False
 		for root, dirs, files in os.walk(self.content):
-			directory = '/%s' % os.path.basename(root)
+			directory = '%s' % root.split(self.content)[1]
+
 			print('->', directory)
 			files.sort()
 			files.reverse()
 			for filename in files:
-				basename = '%s/%s' % (os.path.basename(root), filename)
 				if filename.find('.md') > 1:
 					if filename.find('.icloud') > 1:
 						continue
+					basename = '%s/%s' % (directory, filename)
 					webpage = TemplateDocument()
+					webpage.documentURI = basename.replace('.md', '')
+					if len(filename) > 9:
+						if filename[:8].isnumeric():
+							webpage.lastModified = int(filename[:8])
+							webpage.documentURI =webpage.documentURI.replace(filename[:9], '')
+					elif filename == 'index.md':
+						webpage.documentURI = basename.replace('.md', '.html')
 					webpage.handleMarkdown('%s%s' % (self.content, basename))
+					self.saveDocument(webpage)
+					continue
+
 					self.saveDocument(directory, filename, webpage)
 					if directory == '/traininglog':
 						if not latestWritten:
@@ -64,10 +75,34 @@ class Website:
 								webpage.handleMarkdown('%s%s' % (self.content, basename))
 								self.saveDocument(directory, 'index', webpage)
 								latestWritten = True
-				
 		print('\ndone.')
+		
+	def saveDocument(self, webpage):
+		target = '%s/%s' % (self.public, webpage.documentURI)
+		if os.path.isfile(target):
+			with open(target, 'r', encoding='utf-8') as htmlObj:
+				parser = MetaTagParser()
+				parser.parseHead(htmlObj.read())
+				if hasattr(parser, 'version'):
+					if parser.version == webpage.version:
+						return
+		else:
+			filename = '%s' % target.split('/').pop()
+			print(filename)
+			targetdir = target.split(filename)[0]
+			print(targetdir)
+			try:
+				os.makedirs(targetdir)
+			except FileExistsError:
+				pass
+		print('  +', webpage.documentURI)
+		html = webpage.tohtml()
+		fileobj = open(target, 'w', encoding='utf-8')
+		fileobj.write(html)
+		fileobj.close()
+		return
 
-	def saveDocument(self, directory, filename, webpage):
+	def saveDocumentOld(self, directory, filename, webpage):
 		target = filename.split('.md')[0]
 		if len(target) > 9:
 			if target[:8].isnumeric():

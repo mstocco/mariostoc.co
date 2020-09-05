@@ -18,23 +18,17 @@ class TemplateDocument(HTML5Document):
 		self.pagefooter = PageFooter()
 		self.javascript = FlickityJS()
 		self.socialIcons = SocialIcons()
+		self.opengraph = OpenGraph()
 	
-	def handleMarkdown(self, contentPath):
-		self.documentURI = contentPath.split('content')[1]
-		filename = self.documentURI.split('/')[-1]
-		target = filename.split('.md')[0] 
-		if len(target) > 9:
-			if target[:8].isnumeric():
-				self.lastModified = int(target[:8])
-				target = '-'.join(target.split('-')[1:])
-		self.documentURI = self.documentURI.replace(filename, target) 
-
+	def handleMarkdown(self, contentPath):		
+		"""
+		"""
 		with open(contentPath, 'r', encoding='utf-8') as fileobj:
 			content = fileobj.read().strip()
-		
 		for line in content.split('\n'):
 			if len(line) > 1 and line[0] == '#':
 				self.title = line.replace('#', '').strip()
+				self.opengraph.title = self.title
 				break
 		lines = []
 		for line in content.split('\n'):
@@ -49,10 +43,28 @@ class TemplateDocument(HTML5Document):
 					self.carousel.append(CarouselImage(line))
 					lines = []
 				else:
+					if line.find('<!--') == 0 and line.find(': ') > 5:
+						if line.find('<!--og:') == 0:
+							property = line[7:].split(': ')[0]
+							content = line.split(': ')[1].split('-->')[0]
+							self.opengraph.append(property, content)
+							continue
+						if line.find('<!--description') == 0:
+							self.description = line.split(': ')[1].split('-->')[0].strip()
+							if not hasattr(self.opengraph, 'description'):
+								self.opengraph.append('description', self.description)
+							continue
 					lines.append(line)
 			else:
-				self.title = line.replace('#', '').strip()
-				lines.append(line)
+				if line.find('![') == 0 and line.find('x550') > 1:
+					carouselimg = CarouselImage(line)
+					if hasattr(carouselimg, 'title'):
+						self.title = carouselimg.title
+						self.opengraph.title = self.title
+					self.carousel.append(carouselimg)
+				else:
+					self.title = line.replace('#', '').strip()
+					lines.append(line)
 		if len(lines) > 0:
 			section = CarouselText('\n'.join(lines))
 			self.carousel.append(section)
@@ -79,7 +91,7 @@ class TemplateDocument(HTML5Document):
 		meta.append({"name":"Generator","content":"Mario Stocco"})
 		for attrs in meta:
 			self.head.append(META(attrs))
-
+		self.head.append(self.opengraph)
 		attrs = {'rel':'stylesheet','type':'text/css','media':'screen'}
 		for href in ['webtype_fonts.min.css','flickity.min.css','mstocco.css']:
 			attrs['href'] = '/assets/css/%s' % href
