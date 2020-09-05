@@ -17,3 +17,9 @@ Standing 419m (1,375ft) tall and to the northwest of Victoria, Mount Finlayson i
  <li><a href="">Mount Col Foster</a></li>
  <li><a href="">Sleese Mountain</a></li>
 </ul>
+
+
+<!--description: A morning on Mount Finlayson-->
+<!--og:image: /assets/pictures/HELLOWORLD/og.jpg-->
+<!--og:description: Hello World  -->
+<!--og:article:author: GEORGE B.-->
