@@ -98,7 +98,6 @@ class TemplateDocument(HTML5Document):
 			self.head.append(LINK(attrs))
 		
 		self.head.append(SCRIPT({"src":"/assets/js/flickity.pkgd.min.js"}))
-		self.head.append(SCRIPT({"src":"/assets/js/bg-lazyload.js"}))
 
 		content = DIV({"class":"content"})
 		content.append(self.masthead)
