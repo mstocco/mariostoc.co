@@ -4,18 +4,43 @@ Week beginning Sunday, August 30, 2020
 **52 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-This week is going to be all about an emotional reset for me.  There are no planned workouts and if I do any exercise, it will be for the enjoyment of the activity itself, rather than any training stimulus it provides.
+This week is going to be all about an emotional reset for me.
+There are no planned workouts and if I do any exercise, it
+will be for the enjoyment of the activity itself, rather than
+any training stimulus it provides.
 
 ## SUMMARY
 I feel like was **ON MY WAY BACK &mdash; SLOWLY**
 
-I did miss time this week; part of it was because of work and the catching up I had to do, part of it was the the lingering sadness from losing my father.  Typically, I would beat myself up for the lack of time spent on training; that didn’t happen this week.  Instead I will take it as a win that I got a couple of short runs and a bike ride in.
+I did miss time this week; part of it was because of work and 
+the catching up I had to do, part of it was the the lingering 
+sadness from losing my father.  Typically, I would beat myself 
+up for the lack of time spent on training; that didn't happen 
+this week.  Instead I will take it as a win that I got a couple 
+of short runs and a bike ride in.
 
-This week also saw an expected email arrive from the WTC.  Considering they ~~cancelled~~ discontinued the local Victoria 70.3 race that I was registered for, I asked for a deferral into 2021 Ironman Canada-Penticton.  My registration for Penticton is now officially complete.
- 
- ![](/assets/pictures/550.jpg)
- 
+This week also saw an expected email arrive from the WTC; they 
+cancelled/discontinued the local Victoria 70.3 race that I was 
+registered for.  So I asked them for a deferral into their 2021 
+
 <!---->
+Ironman Canada-Penticton race.  My registration for
+Penticton is now officially complete.
+
+Apart from that, I did have a number of phantom aches and pains
+this week; these are niggles that I would have expected if I was
+mid-way through a heavy training block but I am coming off 3
+weeks of no exercise.  Specifically, I have dealt with a very
+tender quad (right outer) and an equally tender clavicle part of
+my right deltoid.  My neck and traps are still (forever) tender
+too.
+
+The heavy heart is still there, and likely will be there for some
+time to come but all things considering, this was a good week.
+
+
+![Modified waterfront loop missing construction on Dallas Rd. and Beach Dr.](/assets/pictures/IM_0300/825x550.jpg First Ride Back)
+ 
 ## SUNDAY AUG 30
 Sleep **1** | Fatigue **4** | Stress **5** | Soreness **4** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
