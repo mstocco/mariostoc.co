@@ -21,7 +21,12 @@ Run 50 minutes, rolling route, easy effort.
 ### NOTES
 Total Time: **55 minutes**
 
-I thought I'd do my old Vanalman route but the city has a connecting trail closed so I was left to improvise a route.  I made my way towards Christmas Hill and did a half lap of Swan  Lake.  Pace was easy and this was the right length of time for me to have been on my feet.  I was feeling it on the uphills but finished feeling strong on the last km.
+I thought I'd do my old Vanalman route but the city has a 
+connecting trail closed so I was left to improvise a route. 
+I made my way towards Christmas Hill and did a half lap of 
+Swan  Lake.  Pace was easy and this was the right length of 
+time for me to have been on my feet.  I was feeling it on 
+the uphills but finished feeling strong on the last km.
 
 
 <!---->

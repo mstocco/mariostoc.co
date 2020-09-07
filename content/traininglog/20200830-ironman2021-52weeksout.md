@@ -38,8 +38,7 @@ too.
 The heavy heart is still there, and likely will be there for some
 time to come but all things considering, this was a good week.
 
-
-![Modified waterfront loop missing construction on Dallas Rd. and Beach Dr.](/assets/pictures/IM_0300/825x550.jpg First Ride Back)
+![Modified waterfront loop and sunny weather.](/assets/pictures/IMG_0300/825x550.jpg First Ride Back)
  
 ## SUNDAY AUG 30
 Sleep **1** | Fatigue **4** | Stress **5** | Soreness **4** 
@@ -51,9 +50,13 @@ No planned workout.
 ### NOTES
 Total Time: **0 minutes**
 
-This was a day to reflect on life.  I had no desire to talk to anyone, be anywhere or do anything.  I did write the software that will power this website today though.  It is not done yet but it is getting close!
+This was a day to reflect on life.  I had no desire to talk to 
+anyone, be anywhere or do anything.  I did write the software 
+that will power this website today though.  It is not done yet 
+but it is getting close!
 
-I would like to think that the weather being cold, gray and then rainy had a less than positive effect on my overall mood.
+I would like to think that the weather being cold, gray and 
+then rainy had a less than positive effect on my overall mood.
 
 <!---->
 ## MONDAY AUG 31
@@ -66,7 +69,13 @@ No planned workout.
 ### NOTES
 Total Time: **0 minutes**
 
-I overslept and had an rough day concentrating on work.  Things come and go and sometimes I have good moments of focus and other times, work seems overwhelming.  I watched a video detailing Challenge Davos and it provided a glimpse of what I might expect for a race experience next summer.  I also read that Jen Annett posted a 10 hour time on the Penticton course over the weekend in an "unofficial" event of about a dozen locals.
+I overslept and had an rough day concentrating on work.  Things 
+come and go and sometimes I have good moments of focus and 
+other times, work seems overwhelming.  I watched a video detailing 
+Challenge Davos and it provided a glimpse of what I might expect 
+for a race experience next summer.  I also read that Jen Annett 
+posted a 10 hour time on the Penticton course over the weekend 
+in an "unofficial" event of about a dozen locals.
 
 
 <!---->
@@ -82,7 +91,8 @@ Total Time: **40 minutes**
 
 This would have been my father's 79th birthday.  Enough said.
 
-I was awake from 2:30 to 5:30am and had a bit of a headache too.  I did a walk/jog around Swan Lake and that helped.
+I was awake from 2:30 to 5:30am and had a bit of a headache too. 
+I did a walk/jog around Swan Lake and that helped.
 
 
 <!---->
@@ -96,7 +106,10 @@ No planned workout.
 ### NOTES
 Total Time: **30 minutes**
 
-Lumbar and traps are still TAF and I need to continue to work on that.  It does feel like a bit of emotional weight has lifted; my energy is better today.  I had a better sleep last night too.
+Lumbar and traps are still TAF and I need to continue to work 
+on that.  It does feel like a bit of emotional weight has 
+lifted; my energy is better today.  I had a better sleep last 
+night too.
 
 I did get in a short run in after dinner.  I felt good at a steady but easy pace.  I wore my old Nike Peg Turbos without socks and it felt great for the first 3.5K; I did start to feel a blister coming on and for that reason alone, I stopped running at just over 5K.  I walked home from there. 
 
@@ -149,6 +162,6 @@ I had a much better sleep last night though I did get up once.
 
 I did get on the bike for a spin of the waterfront.  Before I left, the weather was sunny with a breeze.  I mentalty pushed through the idea of how much it is going to suck pedalling on a windy day; the truth was that the wind didn't bother me once I got going.  First time to pedal a bike in a month.  I have no regret for the time off but I was in a really good mood by the time I got home.
 
-The effort was easy and steady with a bit of fun on the odd hill.  I felt a bit of a twinge in both knee caps that eventually passed after 50 minutes or so.
+The effort was easy with a bit of fun on the odd hill.  I felt a bit of a twinge in both knee caps that eventually passed after 50 minutes or so.
 
 
