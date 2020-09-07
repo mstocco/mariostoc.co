@@ -7,8 +7,14 @@ Week beginning Sunday, August 30, 2020
 This week is going to be all about an emotional reset for me.  There are no planned workouts and if I do any exercise, it will be for the enjoyment of the activity itself, rather than any training stimulus it provides.
 
 ## SUMMARY
-I feel like was... <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel like was **ON MY WAY BACK &mdash; SLOWLY**
 
+I did miss time this week; part of it was because of work and the catching up I had to do, part of it was the the lingering sadness from losing my father.  Typically, I would beat myself up for the lack of time spent on training; that didn’t happen this week.  Instead I will take it as a win that I got a couple of short runs and a bike ride in.
+
+This week also saw an expected email arrive from the WTC.  Considering they ~~cancelled~~ discontinued the local Victoria 70.3 race that I was registered for, I asked for a deferral into 2021 Ironman Canada-Penticton.  My registration for Penticton is now officially complete.
+ 
+ ![](/assets/pictures/550.jpg)
+ 
 <!---->
 ## SUNDAY AUG 30
 Sleep **1** | Fatigue **4** | Stress **5** | Soreness **4** 
