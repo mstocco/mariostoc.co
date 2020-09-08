@@ -1,0 +1,12 @@
+#Options +ExecCGI
+#<FilesMatch "[^\.py] ">
+#	SetHandler cgi-script
+#</FilesMatch>
+
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://mariostoc.co/$1 [R,L]
+
+RewriteCond %{HTTP_HOST} ^www.mariostoc.co$ [NC]
+RewriteRule ^(.*)$ https://mariostoc.co/$1 [R=301,L]
+
