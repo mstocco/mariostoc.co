@@ -4,7 +4,7 @@ Week beginning Sunday, September 6, 2020
 **51 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-&mdash; 
+To build on the good feeling that I had after getting back at it late last week.
 
 ## SUMMARY
 I feel like was... <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
@@ -28,7 +28,6 @@ Swan  Lake.  Pace was easy and this was the right length of
 time for me to have been on my feet.  I was feeling it on 
 the uphills but finished feeling strong on the last km.
 
-
 <!---->
 ## MONDAY SEP 07
 Sleep **2** | Fatigue **4** | Stress **2** | Soreness **4** 
@@ -41,6 +40,8 @@ Mobility 22 minutes.
 Total Time: **0 minutes**
 
 Good sleep last night but I do have a touch of fatigue in my legs (feels good).
+
+Today was may have been a break from a scheduled workout but I was active finishing the siding project that I had on the go.  That is one thing off the plate and will allow me a bit more free time to get some training in.
 
 
 <!---->
