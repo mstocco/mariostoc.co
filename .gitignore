@@ -3,3 +3,5 @@
 /doc/blog/*
 /doc/pictures/*
 /doc/racereports/*
+*.pyc
+xaa
