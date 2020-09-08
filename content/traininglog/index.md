@@ -22,14 +22,10 @@ IRONMAN Italy-Emilia Romanga.
 
 <!---->
 ### CURRENT WEEK
-<ul>
- <li class=""><a href="ironman2021-51weeksout">Sep 6 2020 - 51 Weeks Out</a>
-</ul>
+[September 6, 2020 - 51 Weeks Out](ironman2021-51weeksout "IRONMAN TRAINING 2021")  
 
 ### PREVIOUS WEEKS
-<ul>
- <li class=""><a href="ironman2021-52weeksout">Aug 30 2020 - 52 Weeks Out</a>
-</ul>
+[August 30, 2020 - 52 Weeks Out](ironman2021-52weeksout "IRONMAN TRAINING 2021")  
 
 
 <!---->
