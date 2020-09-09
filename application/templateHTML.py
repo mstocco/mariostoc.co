@@ -129,7 +129,12 @@ class Navigation(NAV):
 		for attrs in self.links:
 			anchor = A({'href':attrs['href']})
 			anchor.innerHTML = attrs['label']
-
+			if anchor.innerHTML == 'TRAINING LOG':
+				if hasattr(self, 'current'):
+					a2 = A({'href':self.current['href']})
+					a2.innerHTML = '(current week)'
+					anchor.append(' &nbsp; ')
+					anchor.append(SMALL(a2))
 			li = LI({"class":"item"})
 			li.append(anchor)
 			ul.append(li)

@@ -22,6 +22,16 @@ class Website:
 		self.content = os.getcwd() + '/../content'
 		self.public = os.getcwd() + '/../docs'
 		self.today = int(time.strftime('%Y%m%d', time.localtime()))
+		self.setCurrentTrainingWeek()
+	
+	def setCurrentTrainingWeek(self):
+		logfiles = os.listdir('%s/traininglog/' % self.content)
+		logfiles.sort()
+		for logfile in logfiles:
+			if int(logfile[0:8]) > self.today:
+				break
+			self.current = '/traininglog/%s' % logfile[9:].split('.md')[0]
+		return
 
 	def clean(self):
 		print('\ncleaning...')
@@ -59,6 +69,9 @@ class Website:
 							webpage.documentURI =webpage.documentURI.replace(filename[:9], '')
 					elif filename == 'index.md':
 						webpage.documentURI = basename.replace('.md', '.html')
+					if hasattr(self, 'current'):
+						if webpage.documentURI != self.current:
+							webpage.navigation.current = {'href': self.current}
 					webpage.handleMarkdown('%s%s' % (self.content, basename))
 					self.saveDocument(webpage)
 					continue
