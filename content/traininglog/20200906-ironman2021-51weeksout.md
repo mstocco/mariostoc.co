@@ -46,16 +46,18 @@ Today was may have been a break from a scheduled workout but I was active finish
 
 <!---->
 ## TUESDAY SEP 08
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 Mobility 25 minutes. &mdash; Run 30 minutes, flatter route, easy effort.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **31 minutes**
 
-&mdash; 
+I didn’t sleep as well as I would have liked; I am guessing that it was the sawdust from yesterday’s work on the shed.  I did have my run kit ready to go for a pre-coffee easy runn but I put it off until later; the skys are thick with wildfire smoke from Eastern WA.
+
+The smoke cleared a bit after work so I did a lap of Swan Lake.  The first 7 minutes sucked with heavy legs (calves, soleus in particular) but I did find a groove after that and finished feeling strong.  I mostly breathed through my nose to limit the effort with the lingering smoke in the air. 
 
 
 <!---->
