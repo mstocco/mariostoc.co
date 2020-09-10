@@ -74,10 +74,10 @@ Total Time: **90 minutes**
 
 I feel  like I slept better last night and I had a good day at work.  In fact, I wish I could have a day like today _every day_.  Yesterday's smoke cleared and the weather couldn't have been better.  25&#8451; and sunny and it felt like Maui in December.
 
-The stipulation for the ride was _"fun"_; which rhymes with _"Munn"_ except Prospect Lake Road was much more fun option. The first few pedal strokes on the bike felt laboured but I soon found a groove and the ride ended up feeling good to great overall. Coming down Hampton Rooad, I got out of my shoes and nailed a dismount in the driveway.
+The stipulation for the ride was _"fun"_; which rhymes with _"Munn"_ except Prospect Lake Road was the much better option. The first few pedal strokes on the bike felt laboured but I soon found a groove and the ride ended up feeling good to great overall. Coming down Hampton Road, I got out of my shoes and nailed a dismount in the driveway.
 
 <!---->
-Off the bike, I went right into my Nikes, stuffed the bike in the garage and headed off to Lochside Trail toward Quadra Street. I didn't feel much of the typical jelly legs coming off the bike but I certainly _did_ feel yesterday's run. That feeling of fatigue was greatest at the top of the Switch Bridge didn't subside until the last 5 minutes; where things went from sucking to magically feeling strong.
+Off the bike, I went right into my Nikes, stuffed the bike in the garage and headed off to Lochside Trail toward Quadra Street. I didn't feel much of the typical jelly legs coming off the bike but I certainly _did_ feel yesterday's run. That feeling of fatigue was greatest at the top of the Switch Bridge and didn't subside until the last 5 minutes; things went from sucking pretty bad to actually feeling strong.
  
 I suprised myself with a **5:30/km** average pace.
 
