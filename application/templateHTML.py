@@ -81,7 +81,11 @@ class CarouselImage(DIV):
 		if len(title) > 0:
 			self.title = title
 		try:
-			self.width = int(url.split('/')[-1].split('x')[0])
+			filename = url.split('/')[-1]
+			if filename.find('-'):
+				self.width = int(filename.split('-')[-1].split('x')[0])
+			else:
+				self.width = int(filename.split('x')[0])
 		except:
 			self.width = 340
 	
