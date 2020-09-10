@@ -83,6 +83,8 @@ During the run, my legs felt laboured and I wasn't pushing hard; I could breathe
 
 I had a good vegetarian dinner and it is now time for bed.
 
+![Prospect Lake Ride](/assets/png/IM_2796.png "Ride Sep 8 2020")
+
 <!---->
 ## THURSDAY SEP 10
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
