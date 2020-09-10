@@ -53,7 +53,7 @@ Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**
 Mobility 25 minutes. &mdash; Run 30 minutes, flatter route, easy effort.
 
 ### NOTES
-Total Time: **31 minutes**
+Total Time: **30 minutes**
 
 I didn’t sleep as well as I would have liked; I am guessing that it was the sawdust from yesterday’s work on the shed.  I did have my run kit ready to go for a pre-coffee easy runn but I put it off until later; the skys are thick with wildfire smoke from Eastern WA.
 
@@ -62,17 +62,21 @@ The smoke cleared a bit after work so I did a lap of Swan Lake.  The first 7 min
 
 <!---->
 ## WEDNESDAY SEP 09
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
+Sleep **2** | Fatigue **4** | Stress **3** | Soreness **3** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Ride 60 minutes, easy and keep it fun. &mdash; Run 30 minutes OTB, easy pace. 
+Ride 60 minutes, easy and keep it fun.  
+Run 30 minutes OTB, easy pace. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **90 minutes**
 
-&mdash; 
+I feel  like I slept better last night and I had a good day at work.  In fact, I wish I could have a day like today _every day_.  Yesterday's smoke cleared and the weather couldn't have been better.  25&#8451; and sunny and it felt like Maui in December.
 
+The stipulation for the ride was _"fun"_; which sounds like _"Munn"_ except Prospect Lake Road was much more fun option. The first few pedal strokes on the bike felt laboured but I soon found a groove and the ride ended up feeling good to great. Coming down Hampton Rooad, I got out of my shoes and nailed a dismount in the driveway.
+
+Off the bike, I went right into my Nikes, stuffed the bike in the garage and headed off to Quadra Street. I didn't feel much of the jelly legs but I _did_ feel yesterday's run. That feeling of fatigue didn't subside until the last 5 minutes; where things went from sucking to feeling strong.
 
 <!---->
 ## THURSDAY SEP 10
@@ -83,7 +87,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 Mobility 25 minutes
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **- minutes**
 
 &mdash; 
 
