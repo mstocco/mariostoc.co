@@ -19,7 +19,7 @@ way.
 ### PREVIOUS WEEK
 [August 30, 2020 - 52 Weeks Out](ironman2021-52weeksout "IRONMAN TRAINING 2021")  
 
-![](/assets/jpg/argon18e-118next-979x550.jpg "Argon 18 E-118 Next")
+![Argon 18 E-118 Next](/assets/jpg/argon18e-118next-979x550.jpg My TT Bike)
 
 <!---->
 
