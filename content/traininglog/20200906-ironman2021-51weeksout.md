@@ -78,12 +78,13 @@ The stipulation for the ride was _"fun"_; which rhymes with _"Munn"_ except Pros
 
 <!---->
 Off the bike, I went right into my Nikes, stuffed the bike in the garage and headed off to Lochside Trail toward Quadra Street. I didn't feel much of the typical jelly legs coming off the bike but I certainly _did_ feel yesterday's run. That feeling of fatigue was greatest at the top of the Switch Bridge didn't subside until the last 5 minutes; where things went from sucking to magically feeling strong.
-
-During the run, my legs felt laboured and I wasn't pushing hard; I could breathe through my nose type of effort.  Regardless, I still averaged **5:30/km**.
+ 
+I suprised myself with a **5:30/km** average pace.
 
 I had a good vegetarian dinner and it is now time for bed.
 
-![Prospect Lake Ride](/assets/png/IM_2796.png "Ride Sep 8 2020")
+Ride Distance: **24.90 km** &nbsp; Elevation: **284 m**
+![Prospect Lake Ride](/assets/png/IMG_2796.png "Ride Sep 8 2020")
 
 <!---->
 ## THURSDAY SEP 10
