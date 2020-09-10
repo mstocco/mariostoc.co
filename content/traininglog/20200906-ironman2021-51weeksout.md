@@ -41,7 +41,7 @@ Total Time: **0 minutes**
 
 Good sleep last night but I do have a touch of fatigue in my legs (feels good).
 
-Today was may have been a break from a scheduled workout but I was active finishing the siding project that I had on the go.  That is one thing off the plate and will allow me a bit more free time to get some training in.
+Today may have been a break from a scheduled workout but I was active finishing the siding project that I had on the go.  That is one thing off the plate and will allow me a bit more free time to get some training in.
 
 
 <!---->
@@ -55,7 +55,7 @@ Mobility 25 minutes. &mdash; Run 30 minutes, flatter route, easy effort.
 ### NOTES
 Total Time: **30 minutes**
 
-I didn’t sleep as well as I would have liked; I am guessing that it was the sawdust from yesterday’s work on the shed.  I did have my run kit ready to go for a pre-coffee easy runn but I put it off until later; the skys are thick with wildfire smoke from Eastern WA.
+I didn’t sleep as well as I would have liked; I am guessing that it was the sawdust from yesterday’s work on the shed.  I did have my run kit ready to go for a pre-coffee easy run but I put it off until later; the skys are thick with wildfire smoke from Eastern WA.
 
 The smoke cleared a bit after work so I did a lap of Swan Lake.  The first 7 minutes sucked with heavy legs (calves, soleus in particular) but I did find a groove after that and finished feeling strong.  I mostly breathed through my nose to limit the effort with the lingering smoke in the air. 
 
@@ -88,7 +88,7 @@ Ride Distance: **24.90 km** &nbsp; Elevation: **284 m**
 
 <!---->
 ## THURSDAY SEP 10
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
+Sleep **4** | Fatigue **4** | Stress **3** | Soreness **4** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -97,7 +97,7 @@ Mobility 25 minutes
 ### NOTES
 Total Time: **- minutes**
 
-&mdash; 
+I did not sleep that well (should have gone to bed earlier).
 
 
 <!---->
