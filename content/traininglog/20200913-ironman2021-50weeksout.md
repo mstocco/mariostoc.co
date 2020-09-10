@@ -4,7 +4,7 @@ Week beginning Sunday, September 13, 2020
 **50 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-&mdash; 
+I feel like I am on my way back to putting some consistency into into my fitness.  This is another week to build on good habits and get a test of where I am at. 
 
 ## SUMMARY
 I feel like was... <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
@@ -16,7 +16,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Mobility 20 minutes:  
+Run 50-55 minutes. Easy effort. Hilly route. On trails is great, but not mandatory.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -30,7 +31,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Mobility 25 minutes  
+Run 30 minutes. Flat route. EASY effort.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -44,7 +46,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Ride 1:00-1:15. Easy spin on the road bike. If you are crunched for time... 45-60 minutes of easy spinning on the rollers. 
 
 ### NOTES
 Total Time: **0 minutes**
@@ -58,7 +60,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Mobility 22 minutes  
+Run 40 minutes: 15 minutes easy running to warm up. 10x :40 strides, 1:20 easy jog after each. HR should drop fairly close to your easy run HR by the start of the next stride. (with in 5-10 beats) If it's not, then stride slower. 5 minutes easy to cool down.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -72,7 +75,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Run 30 minutes. Flat route. EASY effort.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -86,7 +89,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Mobility 25 minutes  
+Rollers ~ 30 minutes. EASY spinning.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -100,7 +104,13 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Morning: 5-15 minutes of basic mobility (of your choice) to loosen up for the day.  
+Drive to the track   
+10 minutes easy jogging. 6x 100 strides, Ideally @ a touch SLOWER than 5k speed. Yes, these are pretty slow. Goal is to warm up. 100 meter EASY jog between each.  
+Then... 200 meters @ what you think you might hold for a 5k. Walk 200-400 meters. Bathroom, tighten shoes, water, etc.
+ 
+5k Time Trial! Lap splits would be great. But not mandatory. 
+5 minutes walking. Then 10 minutes EASY jogging to cool down
 
 ### NOTES
 Total Time: **0 minutes**

@@ -97,8 +97,7 @@ Mobility 25 minutes
 ### NOTES
 Total Time: **- minutes**
 
-I did not sleep that well (should have gone to bed earlier).
-
+I did not sleep that well (should have gone to bed earlier).  The legs felt stiff (not sore) in the morning but after working mostly from the standing desk today, I feel pretty good.
 
 <!---->
 ## FRIDAY SEP 11
@@ -106,7 +105,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Run 40 minutes: 20 minutes easy, 8x(:30 strides, :45 jog), 10 minutes easy.
+Run 40 minutes: 20 minutes easy, 8x :30 strides, :45 jog after each, 10 minutes easy to cool down.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -120,7 +119,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Ride 2:00. Road bike. Hilly route. Heading out west is great.   
+Have fun. Remember to eat and drink.
 
 ### NOTES
 Total Time: **0 minutes**
