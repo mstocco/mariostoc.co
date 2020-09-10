@@ -13,24 +13,16 @@ record and reminder of this experience, the hurdles faced, the
 victories won, the learnings and the bonds formed along the 
 way.
 
-I was really hoping to have this life-goal completed this year,
-in 2020, but like everyone on this planet, COVID-19 had its own 
-plans for the world.  
-
-I am registered for IRONMAN Canada-Penticton and 
-IRONMAN Italy-Emilia Romanga.
-
-<!---->
 ### CURRENT WEEK
 [September 6, 2020 - 51 Weeks Out](ironman2021-51weeksout "IRONMAN TRAINING 2021")  
 
-### PREVIOUS WEEKS
+### PREVIOUS WEEK
 [August 30, 2020 - 52 Weeks Out](ironman2021-52weeksout "IRONMAN TRAINING 2021")  
 
+![](/assets/jpg/argon18e-118next-104-550.jpg "Argon 18 E-118 Next")
 
 <!---->
-<!---->
-<!--og:title: -->
-<!--og:image: -->
-<!--og:description: -->
 
+<!--og:title: IRONMAN Training 2021-->
+<!--og:image: /assets/og/argon18e-118next.jpg-->
+<!--description: My training log is a series of weekly updates aimed at sharing my experience as I build toward completing my first IRONMAN distance triathon.-->
