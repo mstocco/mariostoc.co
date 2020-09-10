@@ -120,15 +120,28 @@ class TemplateDocument(HTML5Document):
 
 class RedirectDocument(HTML5Document):
 	def template(self):
+		self.documentURI = '/'
 		self.title = 'Mario Stocco'
 		self.url = 'https://mariostoc.co/'
 
 	def tohtml(self):
 		anchor = A({"href":self.url})
-		anchor.innerHTML = "&gt; %s" % self.url
+		anchor.innerHTML = " %s" % self.url
+		forward = P('This page is trying to send you to ')
+		forward.append(anchor)
+
+		anchor = A({'href':'#','onclick':'history.back();'})
+		anchor.innerHTML = 'return to the previous page.'
+		backward = P('If you do not want to visit that page, you can ')
+		backward.append(anchor)
+
 		self.head.append(META({"http-equiv":"refresh","content":"1;url=%s" % self.url}))
 		self.head.append(TITLE(self.title))
-		self.body.append(anchor)
+		self.head.append(LINK({'rel':'stylesheet','type':'text/css','media':'screen','href=':'/assets/css/webtype_fonts.min.css'}))
+		self.head.append(LINK({'rel':'stylesheet','type':'text/css','media':'screen','href=':'/assets/css/mstocco.css'}))
+		self.body.append(H1('REDIRECT NOTICE'))
+		self.body.append(forward)
+		self.body.append(backward)
 		self.documentElement.append(self.head)
 		self.documentElement.append(self.body)
 		return '%s%s' % (self.doctype, self.documentElement.tohtml())

@@ -31,6 +31,11 @@ class Website:
 			if int(logfile[0:8]) > self.today:
 				break
 			self.current = '/traininglog/%s' % logfile[9:].split('.md')[0]
+			redirect = RedirectDocument()
+			redirect.url = self.current
+			redirect.title = 'Latest Training Log Entry'
+			redirect.documentURI = '/traininglog/latest'
+			self.saveDocument(redirect)
 		return
 
 	def clean(self):
