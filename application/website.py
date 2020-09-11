@@ -31,11 +31,6 @@ class Website:
 			if int(logfile[0:8]) > self.today:
 				break
 			self.current = '/traininglog/%s' % logfile[9:].split('.md')[0]
-			redirect = RedirectDocument()
-			redirect.url = self.current
-			redirect.title = 'Latest Training Log Entry'
-			redirect.documentURI = '/traininglog/latest'
-			self.saveDocument(redirect)
 		return
 
 	def clean(self):
@@ -81,18 +76,13 @@ class Website:
 					self.saveDocument(webpage)
 					continue
 
-					self.saveDocument(directory, filename, webpage)
-					if directory == '/traininglog':
-						if not latestWritten:
-							if self.today >= int(filename[:8]):
-								redirect = RedirectDocument()
-								redirect.title = 'Training Log Current Week'
-								redirect.url = '/traininglog/%s' % filename.split('.md')[0]
-								
-								webpage = TemplateDocument()
-								webpage.handleMarkdown('%s%s' % (self.content, basename))
-								self.saveDocument(directory, 'index', webpage)
-								latestWritten = True
+			if directory == '/traininglog':
+				if hasattr(self, 'current'):
+					redirect = RedirectDocument()
+					redirect.url = self.current
+					redirect.title = 'Latest Training Log Entry'
+					redirect.documentURI = '/traininglog/latest'
+					self.saveDocument(redirect)
 		print('\ndone.')
 		
 	def saveDocument(self, webpage):

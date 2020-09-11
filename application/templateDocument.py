@@ -135,13 +135,15 @@ class RedirectDocument(HTML5Document):
 		backward = P('If you do not want to visit that page, you can ')
 		backward.append(anchor)
 
-		self.head.append(META({"http-equiv":"refresh","content":"1;url=%s" % self.url}))
+		self.head.append(META({"http-equiv":"refresh","content":"2;url=%s" % self.url}))
 		self.head.append(TITLE(self.title))
-		self.head.append(LINK({'rel':'stylesheet','type':'text/css','media':'screen','href=':'/assets/css/webtype_fonts.min.css'}))
-		self.head.append(LINK({'rel':'stylesheet','type':'text/css','media':'screen','href=':'/assets/css/mstocco.css'}))
-		self.body.append(H1('REDIRECT NOTICE'))
+		self.head.append(LINK({'rel':'stylesheet','type':'text/css','media':'screen','href':'/assets/css/webtype_fonts.min.css'}))
+		self.head.append(LINK({'rel':'stylesheet','type':'text/css','media':'screen','href':'/assets/css/mstocco.css'}))
+		self.body.append(H2('REDIRECT NOTICE'))
 		self.body.append(forward)
 		self.body.append(backward)
+		self.body._class = "text"
+		self.body.style = "font-size:0.8em;"
 		self.documentElement.append(self.head)
 		self.documentElement.append(self.body)
 		return '%s%s' % (self.doctype, self.documentElement.tohtml())
