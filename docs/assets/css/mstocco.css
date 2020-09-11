@@ -15,7 +15,7 @@ ol {list-style-type:decimal;margin:0;padding:0;}
 ul {list-style-type:square;margin:0;padding:0;}
 li {line-height:1.25;margin-bottom:3px;width:100%;}
 ul {margin:0 0 1.5rem 0;padding-left:1rem;}
-ul li {padding-left:0.5rem;}
+ul li {padding-left:0.15rem;}
 ul.alt {list-style:none;padding-left:0;}
 ul.alt li {border-top:solid 1px rgba(0, 0, 0, 0.25);padding:0.25rem 0;}
 ul.alt li:first-child {border-top:0;padding-top:0;}
