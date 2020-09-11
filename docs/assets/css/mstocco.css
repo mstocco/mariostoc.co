@@ -7,7 +7,7 @@ h4, h5, h6 { font-size:0.9rem; margin:0.25rem 0 0.25rem 0; }
 p {margin:0 0 1rem 0;}
 a {text-decoration:none; color:black; }
 p a {color:#90949c;text-decoration:none;}
-a:visited {color:black; }
+a:visited {color:black;}
 div, a:hover, a:active, a:focus {outline:0;}
 strong {font-weight:bold;}
 blockquote {background-color:#efefef;font-size:1.115rem;margin:16px 0;padding:0.25rem 0 0.25rem 0.5rem;}
@@ -28,6 +28,9 @@ ul.alt li:first-child {border-top:0;padding-top:0;}
 .carousel  {background-color:white;}
 .carousel-cell  {width:340px;margin-left:5px;margin-right:5px;padding:0;counter-increment:gallery-cell;text-align:left;}
 .text {padding:0 0 0 10px;}
+.text p a {color:#06c;text-decoration:none}
+.text p a:visited {color:#06c;text-decoration:none}
+.text p a:hover {color:#06c;text-decoration:underline}
 .image {background-size:contain;}
 .brightcrimson {color:#F92C33;}
 .social {position:absolute;bottom:0;}
