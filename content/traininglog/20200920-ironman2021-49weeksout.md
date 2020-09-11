@@ -16,7 +16,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Mobility 25 minutes  
+Ride 1:30-1:45. Flatter ride on the road bike. 
+If your MTB is up and rolling, I'm very much ok with this being an 80-90 minute fun MTB ride on some dirt roads/trails.
 
 ### NOTES
 Total Time: **0 minutes**
