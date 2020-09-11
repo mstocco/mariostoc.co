@@ -38,6 +38,12 @@ too.
 The heavy heart is still there, and likely will be there for some
 time to come but all things considering, this was a good week.
 
+### CURRENT TRAINING WEEK
+[Latest week](latest)
+
+### Next week
+[September 6, 2020 - 51 Weeks Out](ironman2021-51weeksout "IRONMAN TRAINING 2021")
+
 ![Modified waterfront loop and sunny weather.](/assets/pictures/IMG_0300/825x550.jpg First Ride Back)
  
 ## SUNDAY AUG 30
