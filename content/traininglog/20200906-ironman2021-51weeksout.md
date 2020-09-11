@@ -28,6 +28,8 @@ Swan  Lake.  Pace was easy and this was the right length of
 time for me to have been on my feet.  I was feeling it on 
 the uphills but finished feeling strong on the last km.
 
+![Sep 6 2020 Run](/assets/png/IMG_0313.png)
+
 <!---->
 ## MONDAY SEP 07
 Sleep **2** | Fatigue **4** | Stress **2** | Soreness **4** 
