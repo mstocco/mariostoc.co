@@ -21,8 +21,6 @@ way.
 
 ![Argon 18 E-118 Next](/assets/jpg/argon18e-118next-979x550.jpg My TT Bike)
 
-<!---->
-
 <!--og:title: IRONMAN Training 2021-->
 <!--og:image: /assets/og/argon18e-118next.jpg-->
 <!--description: My training log is a series of weekly updates aimed at sharing my experience as I build toward completing my first IRONMAN distance triathon.-->

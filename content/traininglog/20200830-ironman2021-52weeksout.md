@@ -166,5 +166,3 @@ I had a much better sleep last night though I did get up once.
 I did get on the bike for a spin of the waterfront.  Before I left, the weather was sunny with a breeze.  I mentalty pushed through the idea of how much it is going to suck pedalling on a windy day; the truth was that the wind didn't bother me once I got going.  First time to pedal a bike in a month.  I have no regret for the time off but I was in a really good mood by the time I got home.
 
 The effort was easy with a bit of fun on the odd hill.  I felt a bit of a twinge in both knee caps that eventually passed after 50 minutes or so.
-
-

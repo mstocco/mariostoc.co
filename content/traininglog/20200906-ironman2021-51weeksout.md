@@ -182,6 +182,3 @@ I am starting this day after having a restful sleep _(finally)_.  The wildfire
 smoke may be worse than yesterday.  I haven’t put the engery into a 
 mobility routine since my reset and although one isn’t on the schedule 
 today, it is Saturday and I have the time to stretch out. 
-
-
-<!---->
