@@ -9,7 +9,7 @@ To build on the good feeling that I had after getting back at it late last week.
 ## SUMMARY
 I feel like was **BUILDING CONSISTENCY**
 
-From Sunday’s run to Wednesday’s brick workout, I am feeling 
+With Sunday’s run and Wednesday’s brick workout, I am feeling 
 a lot better about the direction I am heading in. The back 
 half of this week (Saturday and Friday) serve as a big 
 reminder for me to get the work in when I can; mother nature 
@@ -159,12 +159,12 @@ my dad sucks, even in the middle of the night).  This is the
 second night of not much sleep.
 
 The forest fire smoke is back and as just as thick as it was 
-on Tuesday morning.  Even waiting it out, hoping that the afternoon
-winds of the Juan de Fuca would clear the air out, didn’t happen; 
-it is even noticibly cooler as less sunlight is getting through.
+on Tuesday morning.  Hoping that the typical afternoon winds 
+of the Juan de Fuca would clear the air out, didn’t happen; it 
+is even noticibly cooler as less sunlight is getting through.
 
-I know the strides are important but I am feeling exhausted and going 
-to bed early tonight.
+I know the strides are important but I am feeling exhausted and 
+going to bed early tonight.
 
 <!---->
 ## SATURDAY SEP 12
