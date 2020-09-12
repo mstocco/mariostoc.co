@@ -7,8 +7,9 @@ Week beginning Sunday, September 6, 2020
 To build on the good feeling that I had after getting back at it late last week.
 
 ## SUMMARY
-I feel like was... <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel like was **BUILDING CONSISTENCY**
 
+From Sunday’s run to Wednesday’s brick workout, I am feeling a lot better about the direction I am heading in.  The back half of this week (Saturday and Friday) serve as a big reminder for me to get the work in when I can; mother nature decided to blanket this area with wildfire smoke from Oregon, derailling a run and a bike ride.
 
 <!---->
 ## SUNDAY SEP 06
@@ -147,12 +148,17 @@ my dad sucks, even in the middle of the night).  This is the
 second night of not much sleep.
 
 The forest fire smoke is back and as just as thick as it was 
-on Tuesday.
+on Tuesday morning.  Even waiting it out, hoping that the afternoon
+winds of the Juan de Fuca would clear the air out, didn’t happen; 
+it is maybe even a bit thicker this evening.  It is even noticibly cooler 
+as less sunlight is getting through.
 
+I know the strides are important but I am feeling exhausted and going 
+to bed early tonight.
 
 <!---->
 ## SATURDAY SEP 12
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
+Sleep **2** | Fatigue **2** | Stress **2** | Soreness **4** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -162,7 +168,10 @@ Have fun. Remember to eat and drink.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I am starting this day after having a restful sleep _(finally)_.  The wildfire 
+smoke may be worse than yesterday.  I haven’t put the engery into a 
+mobility routine since my reset and although one isn’t on the schedule 
+today, it is Saturday and I have the time to stretch out. 
 
 
 <!---->
