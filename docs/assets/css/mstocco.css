@@ -22,7 +22,7 @@ ul.alt li:first-child {border-top:0;padding-top:0;}
 .horizon {position:absolute;top:50%; left:0; width:100%;height:1px;background-color:#fefefe;}
 .content  {position:absolute;left:0; width:100%;margin-left:0;background-color:white;}
 .masthead {margin-bottom:16px;}
-.masthead div {width:20px;height:20px;margin:0 10px;padding:0;display:inline-block;;cursor:pointer;}
+.masthead div {width:20px;height:20px;margin:0 10px;padding:0;display:inline-block;cursor:pointer;}
 .mariostocco {font-family:AgencyVC-Bold,Helvetica,Arial,sans-serif;font-style:normal;font-weight:normal;font-size:1.55rem;margin:0;}
 .guide-icon {float:left;margin-left:10px;margin-right:12px;margin-top:-4px;}
 .carousel  {background-color:white;}
@@ -32,37 +32,25 @@ ul.alt li:first-child {border-top:0;padding-top:0;}
 .text p a:visited {color:#06c;text-decoration:none}
 .text p a:hover {color:#06c;text-decoration:underline}
 .image {background-size:contain;}
-.brightcrimson {color:#F92C33;}
-.social {position:absolute;bottom:0;}
-.social p {border-top:1px solid #ccc;font-size:0.75em;color:#aaa;margin:0;}
-.social ul {list-style:disc inside none;margin:0 7px;}
-.social ul li.icon {-webkit-transition:opacity 0.3s ease;-moz-transition:opacity 0.3s ease;-ms-transition:opacity 0.3s ease;-o-transition:opacity 0.3s ease;transition:opacity 0.3s ease;cursor:pointer;display:inline-block;margin:0 30px 0 -25px;padding:0 1px;position:relative;width:auto;height:20px;zoom:1;}
-
 .imagebanner { position:relative; height:550px; }
-.banner {
- position:absolute;
- background-color:rgba(0,0,0,.34);
- color:white;
- bottom:0;
- height:30px;
- margin:0;
- padding:10px;
- width:100%;
-}
+.banner {position:absolute;background-color:rgba(0,0,0,.34);color:white;bottom:0;height:30px;margin:0;padding:10px;width:100%;}
 .banner h3 {color:white;}
 .banner p {color:white;font-size:0.8em;}
 
-.photogallery {background-color:#EEEEEE;position:relative;height:100%;width:280px;margin:0;}
-.gallerytitle {position:absolute;background-color:rgba(0,0,0,.3);bottom:0;height:48px;width:280px;margin:0;padding-top:30px;text-align:center;}
-.gallerytitle a {color:white;text-align:center;font-family:AgencyVC-Bold,sans-serif;font-size:1.45rem;text-transform:uppercase;}
+.last {width:50%;}
 
-.gallerylist li {
- background:url('/assets/img/camera-icon.svg') no-repeat top left;
- margin:6px 0 0 -15px;padding:0 0 4px 25px;list-style:none;line-height:1.0;
-}
+.brightcrimson {color:#F92C33;}
+
+.social {position:absolute;bottom:0;}
+.social p {border-top:1px solid #ccc;font-size:0.75em;color:#aaa;margin:0;}
+.social ul {list-style:disc inside none;margin:0 7px;}
+.social ul li.icon {cursor:pointer;display:inline-block;margin:0 30px 0 -25px;padding:0 1px; position:relative;width:auto;height:20px;zoom:1;}
+
+.gallerylist li {background:url('/assets/img/camera-icon.svg') no-repeat top left;margin:6px 0 0 -15px;padding:0 0 4px 25px;list-style:none;line-height:1.0;}
 .gallerylist li a {font-size:0.95em;font-weight:normal;}
+
 footer p {font-size:0.7em;color#aaa;margin-left:10px;}
-.last {width: 340px;}
+
 @media screen and (orientation: portrait) {
  .content {top:-300px;height:550px;}
  .carousel-cell {height:550px;}
