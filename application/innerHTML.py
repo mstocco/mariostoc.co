@@ -118,6 +118,7 @@ class DIV(HTML5Tag): pass
 class EM(HTML5Tag): pass
 class FOOTER(HTML5Tag): pass
 class FORM(HTML5Tag): pass
+class G(HTML5Tag): pass
 class H1(HTML5Tag): pass
 class H1(HTML5Tag): pass
 class H2(HTML5Tag): pass
