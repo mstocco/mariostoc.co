@@ -110,6 +110,25 @@ class CarouselImage(DIV):
 			self.append(imagebanner)
 
 
+class CarouselLast(ASIDE):
+	""" Unlike other HTML5Tag definitions, this class processes
+	    text with the markdown2.markdown module to generate the
+	    innerHTML attribute.
+	"""
+	def __init__(self):
+		self._class = 'carousel-cell last'
+		self.innerHTML = ''
+		path = PATH({"d":"M7+1C3.6862+0.999999+1+3.6862+1+7C0.999999+10.3138+3.6862+13+7+13C10.3138+13+13+10.3138+13+7C13+3.6862+10.3138+1+7+1ZM8.8+10L7.    2886+10C7.1062+10+6.934+9.9172+6.82+9.775L4.9+7.375C4.7248+7.156+4.7248+6.8446+4.9+6.6256L6.82+4.2256C6.934+4.0828+7.1062+4+7.2886+4L8.8+4L6.4+7L8.8+10Z"})
+		svg = SVG({"focusable":"false","viewbox":"0 0 14 14"})
+		div = DIV({"class":"icon","role":"button","onclick":"javascript:toggle();"})
+		anchor = A({"href":"javascript:toggle();","class":""})
+		anchor.innerHTML = 'BACK TO THE START'
+		svg.append(path)
+		div.append(svg)
+		self.append(div)
+		self.append(anchor)
+
+
 class Navigation(NAV):
 	""" This NAV element is nested in the first SECTION of
 	    the Carousel.
