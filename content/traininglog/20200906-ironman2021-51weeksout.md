@@ -9,7 +9,18 @@ To build on the good feeling that I had after getting back at it late last week.
 ## SUMMARY
 I feel like was **BUILDING CONSISTENCY**
 
-From Sunday’s run to Wednesday’s brick workout, I am feeling a lot better about the direction I am heading in.  The back half of this week (Saturday and Friday) serve as a big reminder for me to get the work in when I can; mother nature decided to blanket this area with wildfire smoke from Oregon, derailling a run and a bike ride.
+From Sunday’s run to Wednesday’s brick workout, I am feeling 
+a lot better about the direction I am heading in. The back 
+half of this week (Saturday and Friday) serve as a big 
+reminder for me to get the work in when I can; mother nature 
+decided to blanket this area with wildfire smoke from Oregon, 
+derailling a run and a bike ride.
+
+It was expressed that skipping mobility, like I did these 
+past two weeks, is not the best plan of action long term.
+
+## PREVIOUS WEEK
+[August 30, 2020 - 52 Weeks Out](ironman2021-52weeksout "IRONMAN TRAINING 2021")
 
 <!---->
 ## SUNDAY SEP 06
@@ -150,8 +161,7 @@ second night of not much sleep.
 The forest fire smoke is back and as just as thick as it was 
 on Tuesday morning.  Even waiting it out, hoping that the afternoon
 winds of the Juan de Fuca would clear the air out, didn’t happen; 
-it is maybe even a bit thicker this evening.  It is even noticibly cooler 
-as less sunlight is getting through.
+it is even noticibly cooler as less sunlight is getting through.
 
 I know the strides are important but I am feeling exhausted and going 
 to bed early tonight.
