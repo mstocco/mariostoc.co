@@ -117,6 +117,7 @@ class CarouselLast(ASIDE):
 	"""
 	def __init__(self):
 		self._class = 'carousel-cell last'
+		self.style = 'width:50%'
 		div1 = DIV({"style":"width:95%;margin-top:245px;"})
 		div2 = DIV({"onclick":"javascript:toggle();","style":"margin-left:75%","role":"button"})
 		svg = IMG({"src":"/assets/img/arrow-left.svg","style":"width:40px;"})	
