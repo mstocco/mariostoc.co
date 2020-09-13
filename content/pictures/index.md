@@ -13,16 +13,16 @@ I hope you enjoy the view.
 ## Galleries
 
 <ul class="gallerylist">
- <li><a href="around-victoria">AROUND VICTORIA</a></li>
- <li><a href="coastal-british-columbia">COASTAL BC</a></li>
- <li><a href="mountains">MOUNTAIN HIKES</a></li>
+ <li><a href="victoria/">AROUND VICTORIA</a></li>
+ <li><a href="british-columbia/coast/">COASTAL BC</a></li>
+ <li><a href="british-columbia/mountains/">MOUNTAIN HIKES</a></li>
 </ul>  
 
 Beyond my own backyard, I also traveled to Europe in 2018.
 Here are some of the images from that trip:
 
 <ul class="gallerylist">
- <li><a href="europe-2018">EUROPE 2018</a></li>
+ <li><a href="europe2018/">EUROPE 2018</a></li>
 </ul>  
 
 ![Many great kayaking memories with great friends at this spot...](/assets/jpg/0144-977x550.jpg SURGE NARROWS)
