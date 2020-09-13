@@ -210,7 +210,7 @@ class FlickityJS(SCRIPT):
 		self.flkty['initialIndex'] = 1
 	
 	def tohtml(self):
-		self.append("var elem=document.getElementById('carousel');")
+		self.innerHTML = "var elem=document.getElementById('carousel');"
 		self.append("var flkty=new Flickity(elem,{")
 		self.append(" prevNextButtons:false,")
 		self.append(" cellAlign:'left',")
