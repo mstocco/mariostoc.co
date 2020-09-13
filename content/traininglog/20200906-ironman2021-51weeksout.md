@@ -23,7 +23,6 @@ past two weeks, is *not the best plan of action* long term.
 
 ![Wildfire smoke and a temperature inversion rolled in on Friday then stuck around](/assets/jpg/IMG_2802-977x550.jpg Smoky Skies)
 
-<!---->
 ## SUNDAY SEP 06
 Sleep **2** | Fatigue **4** | Stress **2** | Soreness **5** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>

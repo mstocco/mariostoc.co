@@ -14,9 +14,10 @@ victories won, the learnings and the bonds formed along the
 way.
 
 ### CURRENT WEEK
-[September 6, 2020 - 51 Weeks Out](ironman2021-51weeksout "IRONMAN TRAINING 2021")  
+[September 13, 2020 - 50 Weeks Out](ironman2021-50weeksout "IRONMAN TRAINING 2021")  
 
-### PREVIOUS WEEK
+### PAST 2 WEEKS
+[September 6, 2020 - 51 Weeks Out](ironman2021-51weeksout "IRONMAN TRAINING 2021")
 [August 30, 2020 - 52 Weeks Out](ironman2021-52weeksout "IRONMAN TRAINING 2021")  
 
 ![Argon 18 E-118 Next](/assets/jpg/argon18e-118next-979x550.jpg My TT Bike)

@@ -4,20 +4,20 @@ Week beginning Sunday, September 13, 2020
 **50 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-I feel like I am on my way back to putting some consistency into into my fitness.  This is another week to build on good habits and get a test of where I am at. 
+I am expecting the smoky skies to clear this week and get back to putting some consistency into into my fitness.  This is another week to build on good habits and get a test of where I am at.
 
 ## SUMMARY
-I feel like was... <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
-
+I feel like was...  <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+<sup>(section filled in at the end of the week)</sup>
 
 <!---->
 ## SUNDAY SEP 13
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
+Sleep **3** | Fatigue **2** | Stress **2** | Soreness **4** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 Mobility 20 minutes:  
-Run 50-55 minutes. Easy effort. Hilly route. On trails is great, but not mandatory.
+Run 50-55 minutes. Easy effort. Hilly route. On trails i great, but not mandatory.
 
 ### NOTES
 Total Time: **0 minutes**
