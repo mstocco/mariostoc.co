@@ -19,6 +19,6 @@ Joe will be lovingly remembered by his family: Wife Mary Thang of Richmond, BC, 
 <!---->
 and Linda (Peter) Kibzey of Thunder Bay, Ontario, Christopher (Carrie) Stocco of Surrey, BC, Tania (David) Keeler and Angie (Chris) Gagne of Victoria, BC, Jason Sutton of Thunder Bay, Ontario and Jennifer (Marcus) Walker of St. Joseph, Minnesota.
 
-A private viewing was held Thursday, August 20th, 2020, at Richmond Funeral Home from 9:00 am to 9:45 am followed by cremation.  Should friends desire, memorial donations may be made to the Richmond Hospital Foundation https://www.richmondhospitalfoundation.com/.
+A private viewing will be held Thursday, August 20th, 2020, at Richmond Funeral Home from 9:00 am to 9:45 am followed by cremation.  Should friends desire, memorial donations may be made to the Richmond Hospital Foundation https://www.richmondhospitalfoundation.com/.
 
 
