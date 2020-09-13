@@ -1,15 +1,8 @@
-# Victoria, British Columbia
-
-I first moved to Victoria in 1997 from the Cowichan Valley, 
-roughly 60 km to the north.
-
-I did travel and work abroad from 2000 to 2006 when I decided 
-it was time to come _"home"_.  
+Across the water the lights of the British Columbia Parliament 
+Buildings provide the backdrop of many pictures of Victoria.
 
 ## Other Pictures from Around Victoria
 <ul class="gallerylist">
- <li><a href="victoria-harbour-airport">Victora Harbour Airport YWH</a></li>
- <li><a href="inner-harbour-at-night">Inner Harbour at Night</a></li>
  <li><a href="blue-bridge">The Blue Bridge</a></li>
  <li><a href="oak-bay-marina">Oak Bay Marina</a></li>
  <li><a href="gowlland-tod">Gowlland Tod Provincial Park</a></li>
@@ -25,5 +18,4 @@ it was time to come _"home"_.
  <li><a href="/pictures/europe2018/">Europe 2018</a></li>
 </ul>
 
-![Victoria in the morning marine layer below](/assets/jpg/0002-967x550.jpg Sunrise from Mount Finlayson)
-
+![Victoria, British Columbia](/assets/jpg/0008-1158x550.jpg Inner Harbour at Night)
