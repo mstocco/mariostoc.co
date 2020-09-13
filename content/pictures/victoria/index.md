@@ -10,4 +10,4 @@ I first moved to Victoria in 1997 from the Cowichan Valley, roughly 60 km to the
  <li><a href="legislature">The Legislature Building</a></li>
 </ul>
 
-![Victoria in the morning marine layer below](/assets/jpg/0002-976x550.jpg Sunrise from Mount Finlayson)
+![Victoria in the morning marine layer below](/assets/jpg/0002-967x550.jpg Sunrise from Mount Finlayson)
