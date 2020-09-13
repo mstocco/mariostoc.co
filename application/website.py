@@ -38,10 +38,12 @@ class Website:
 		for directory in ['blog','traininglog','racereports','pictures']:
 			print('->', directory)
 			targetdir = '%s/%s' % (self.public, directory)
-			for filename in os.listdir(targetdir):
-				target = '%s/%s' % (targetdir, filename)
-				print('  - %s' % filename)
-				os.remove(target)
+			for root, dirs, files in os.walk(targetdir):
+
+				for filename in files:
+					target = '%s/%s' % (root, filename)
+					print('  - %s' % target.replace(self.public, ''))
+					os.remove(target)
 		try:
 			os.remove('%s/about' % self.public)
 		except:
