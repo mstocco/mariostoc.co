@@ -1,0 +1,1 @@
+![Strathcona Provincial Park, Vancouver Island](/assets/jpg/0123-976x550.jpg Kings Peak Trail)

@@ -1,0 +1,1 @@
+![Strathcona Park, Vancouver Island](/assets/jpg/0130-977x550.jpg Mount Colonel Foster)

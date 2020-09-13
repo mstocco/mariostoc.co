@@ -1,0 +1,1 @@
+![Dionisio Point Provincial Park, Galiano Island](/assets/jpg/0021-971x550.jpg Tafoni of Dionisio Point)

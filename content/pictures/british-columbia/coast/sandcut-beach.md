@@ -1,0 +1,1 @@
+![Vancouver Island, British Columbia](/assets/jpg/0108-1004x550.jpg Sandcut Beach)

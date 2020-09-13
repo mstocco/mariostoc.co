@@ -1,0 +1,1 @@
+![Vargas Island, British Columbia](/assets/jpg/0141-977x550.jpg Dick and Jane's Beach)

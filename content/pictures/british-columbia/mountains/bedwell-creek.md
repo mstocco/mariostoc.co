@@ -1,0 +1,1 @@
+![Strathcona Park, Vancouver Island](/assets/jpg/0068-971x550.jpg Bedwell Creek)

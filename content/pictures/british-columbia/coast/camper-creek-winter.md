@@ -1,0 +1,1 @@
+![West Coast Trail, Vancouver Island](/assets/jpg/0086-1079x550.jpg Camper Creek in Winter)

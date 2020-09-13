@@ -1,0 +1,1 @@
+![Discovery Islands, British Columbia](/assets/jpg/0148-912x550.jpg The Morning Mist of Peck Island)

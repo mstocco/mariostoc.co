@@ -1,0 +1,1 @@
+![Quadra Island, British Columbia](/assets/jpg/0110-977x550.jpg Quathiaski Cove)

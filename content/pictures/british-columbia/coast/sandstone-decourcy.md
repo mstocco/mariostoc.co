@@ -1,0 +1,1 @@
+![Gulf Islands, British Columbia](/assets/jpg/0064-863x550.jpg The Sandstone of De Courcy Island)

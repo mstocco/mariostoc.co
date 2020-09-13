@@ -1,0 +1,1 @@
+![Discovery Islands, British Columbia](/assets/jpg/0144-977x550.jpg Surge Narrows)
