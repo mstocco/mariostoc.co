@@ -18,5 +18,5 @@ Before Distributel, I spent over a decade as a contractor for hire,
 building custom tele-<wbr />communication solutions for customers from
 Florida to California and all across Canada.
 
-![2018 BMO Vancouver Marathon](/assets/jpg/IMG_976x550.jpg Kilometre 29 of 42.2)
+![2018 BMO Vancouver Marathon](/assets/jpg/IMG0170_976x550.jpg Kilometre 29 of 42.2)
 <!--![Haleakalā, Maui](/assets/pictures/IMG_2467/770x550.jpg 10,023ft above the Pacific)-->
