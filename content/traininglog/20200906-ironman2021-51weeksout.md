@@ -7,7 +7,9 @@ Week beginning Sunday, September 6, 2020
 To build on the good feeling that I had after getting back at it late last week.
 
 ## SUMMARY
-I feel like was **BUILDING CONSISTENCY**
+I feel like was **BUILDING CONSISTENCY** during the first half 
+of the week but **THEN STRUGGLED** with the same on the 
+back half of the week.
 
 With Sunday’s run and Wednesday’s brick workout, I am feeling 
 a lot better about the direction I am heading in. The back 
@@ -16,11 +18,10 @@ reminder for me to get the work in when I can; mother nature
 decided to blanket this area with wildfire smoke from Oregon, 
 derailling a run and a bike ride.
 
-It was expressed that skipping mobility, like I did these 
-past two weeks, is not the best plan of action long term.
+My coach expressed that skipping mobility, like I did these 
+past two weeks, is *not the best plan of action* long term.
 
-## PREVIOUS WEEK
-[August 30, 2020 - 52 Weeks Out](ironman2021-52weeksout "IRONMAN TRAINING 2021")
+![Wildfire smoke and a temperature inversion rolled in on Friday then stuck around](/assets/jpg/IMG_2802-977x550.jpg Smoky Skies)
 
 <!---->
 ## SUNDAY SEP 06
