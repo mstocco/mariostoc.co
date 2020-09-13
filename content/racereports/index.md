@@ -4,3 +4,4 @@ Life may have cancelled racing this year but that isn't the reason this page is 
 
 You could click [here](/traininglog/latest) for my current week of training though.
 
+![2018 BMO Vancouver Marathon](/assets/jpg/IMG_0170-976x550.jpg Kilometre 29 of 42.2)
