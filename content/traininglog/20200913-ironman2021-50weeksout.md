@@ -28,7 +28,7 @@ Total Time: **0 minutes**
 
 Another very smoky day, another day waking up and not feeling rested.
 
-First win: I rolled out the yoga mat and got a good stretch in.
+First win: I rolled out the yoga mat and got a good stretch in.  Swimmer's routine showed me that my neck and traps are very tender, that my pecs and hamstrings are tight (but not sore) and that my hip flexors and quads have decent mobility.
 
 
 <!---->
