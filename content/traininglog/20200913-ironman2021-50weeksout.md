@@ -7,7 +7,7 @@ Week beginning Sunday, September 13, 2020
 I am expecting the smoky skies to clear this week and get back to putting some consistency into into my fitness.  This is another week to build on good habits and get a test of where I am at.
 
 ## SUMMARY
-I feel like was...  <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel like was...  <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->  
 <sup>(section filled in at the end of the week)</sup>
 
 <!---->
@@ -17,12 +17,14 @@ Sleep **3** | Fatigue **2** | Stress **2** | Soreness **4**
 
 ### PLANNED WORKOUT
 Mobility 20 minutes:  
-Run 50-55 minutes. Easy effort. Hilly route. On trails i great, but not mandatory.
+Run 50-55 minutes. Easy effort. Hilly route. On trails is great, but not mandatory.
 
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Another very smoky day, another day waking up and not feeling rested.
+
+First win: I rolled out the yoga mat and got a good stretch in.
 
 
 <!---->
