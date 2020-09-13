@@ -105,6 +105,8 @@ class TemplateDocument(HTML5Document):
 			self.head.append(LINK(attrs))
 		
 		self.head.append(SCRIPT({"src":"/assets/js/flickity.pkgd.min.js"}))
+		if self.documentURI.find('/pictures/') == 0:
+			self.javascript.flkty['initialIndex'] = 2
 
 		content = DIV({"class":"content"})
 		content.append(self.masthead)

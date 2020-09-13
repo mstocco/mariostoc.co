@@ -204,8 +204,12 @@ class PageFooter(FOOTER):
 class FlickityJS(SCRIPT):
 	""" Javascript Tag included in the body of the document.
 	"""
-	def tohtml(self):
+	def __init__(self):
 		self._type = 'text/javascript'
+		self.flkty = {}
+		self.flkty['initialIndex'] = 1
+	
+	def tohtml(self):
 		self.append("var elem=document.getElementById('carousel');")
 		self.append("var flkty=new Flickity(elem,{")
 		self.append(" prevNextButtons:false,")
@@ -214,7 +218,7 @@ class FlickityJS(SCRIPT):
 		self.append(" pageDots:false,")
 		self.append(" accessibility:true,")
 		self.append(" contain:1,")
-		self.append(" initialIndex:1,")
+		self.append(" initialIndex:%d," % self.flkty['initialIndex'])
 		self.append(" imagesLoaded:true,")
 		self.append(" freeScroll:true")
 		self.append("});")
