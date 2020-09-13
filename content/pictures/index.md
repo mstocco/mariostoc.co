@@ -25,5 +25,5 @@ Here are some of the images from that trip:
  <li><a href="europe-2018">EUROPE 2018</a></li>
 </ul>  
 
-![Many great kayaking memories with great friends at this spot...](/assets/pictures/976x550.jpg SURGE NARROWS)
+![Many great kayaking memories with great friends at this spot...](/assets/jpg/0114-977x550.jpg SURGE NARROWS)
 
