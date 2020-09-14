@@ -17,4 +17,7 @@
  <li><a href="/pictures/europe2018/">Europe 2018</a></li>
 </ul>
 
-![Gowlland Tod Provincial Park, Victoria, BC](/assets/jpg/IMG_2805-978x550.jpg McKenzie Bight Under Smoky Skies)
+![Gowlland Tod Provincial Park, Victoria, BC](/assets/jpg/IMG_2807-978x550.jpg McKenzie Bight Under Smoky Skies)
+
+<!--og:image: /assets/og/IMG_2807.jpg-->
+<!--description: McKenzie Bight is typically a scenic beach but not on this day with the wildfire smoke in the air.-->
