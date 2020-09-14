@@ -98,6 +98,7 @@ class TemplateDocument(HTML5Document):
 		meta.append({"name":"Generator","content":"Mario Stocco"})
 		for attrs in meta:
 			self.head.append(META(attrs))
+		self.opengraph.url = 'https://mariostoc.co%s' % self.documentURI
 		self.head.append(self.opengraph)
 		attrs = {'rel':'stylesheet','type':'text/css','media':'screen'}
 		for href in ['webtype_fonts.min.css','flickity.min.css','mstocco.css']:
