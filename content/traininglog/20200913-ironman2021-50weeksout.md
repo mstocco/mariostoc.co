@@ -11,8 +11,10 @@ I feel like was...  <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BI
 <sup>(section filled in at the end of the week)</sup>
 
 ## PREVIOUS 2 WEEKS
-[September 6, 2020 - 51 Weeks Out](ironman2021-51weeksout "IRONMAN TRAINING 2021")  
-[August 30, 2020 - 52 Weeks Out](ironman2021-52weeksout "IRONMAN TRAINING 2021")  
+<ul class="iconlist">
+<li class="page">[September 6, 2020 - 51 Weeks Out](ironman2021-51weeksout)</li>
+<li class="page">[August 30, 2020 - 52 Weeks Out](ironman2021-52weeksout)</li>
+</ul>
 
 <!---->
 ## SUNDAY SEP 13

@@ -49,6 +49,16 @@ ul.alt li:first-child {border-top:0;padding-top:0;}
 .gallerylist li {background:url('/assets/img/camera-icon.svg') no-repeat top left;margin:6px 0 0 -15px;padding:0 0 4px 25px;list-style:none;line-height:1.0;}
 .gallerylist li a {font-size:0.95em;font-weight:normal;}
 
+.iconlist li {margin:6px 0 0 -15px;padding:0 0 0 25px;list-style:none;line-height:1.0;}
+.iconlist li a {color:#06c;}
+.iconlist .mobi {background:url('/assets/svg/mobi.svg') no-repeat top left;}
+.iconlist .page {background:url('/assets/svg/page.svg') no-repeat top left;}
+.iconlist .walk {background:url('/assets/svg/walk.svg') no-repeat top left;}
+.iconlist .swim {background:url('/assets/svg/swim.svg') no-repeat top left;}
+.iconlist .bike {background:url('/assets/svg/bike.svg') no-repeat top left;}
+.iconlist .run {background:url('/assets/svg/run.svg') no-repeat top left;}
+.iconlist .mtb {background:url('/assets/svg/mtb.svg') no-repeat top left;}
+
 footer p {font-size:0.7em;color#aaa;margin-left:10px;}
 
 @media screen and (orientation: portrait) {
