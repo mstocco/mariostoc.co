@@ -5,7 +5,6 @@ from templateDocument import *
 from html.parser import HTMLParser
 
 
-
 class MetaTagParser(HTMLParser):
 	def parseHead(self, content):
 		self.feed(content.split('</head>')[0])
@@ -60,9 +59,11 @@ class Website:
 		""" 1. Walk the content directory looking for markdown files.
 		    2. Convert markdown into an HTML5 Document
 		    3. Try to save it under the public directory.
+		    4. Create a new sitemap.txt file
 		"""
 		print('\npublishing...')
 		latestWritten = False
+		documentURIs = ['/']
 		for root, dirs, files in os.walk(self.content):
 			directory = '%s' % root.split(self.content)[1]
 
@@ -80,14 +81,18 @@ class Website:
 						if filename[:8].isnumeric():
 							webpage.lastModified = int(filename[:8])
 							webpage.documentURI =webpage.documentURI.replace(filename[:9], '')
+							if webpage.lastModified <= self.today:
+								documentURIs.append(webpage.documentURI)
+						else:
+							documentURIs.append(webpage.documentURI)
 					elif filename == 'index.md':
 						webpage.documentURI = basename.replace('.md', '.html')
+						documentURIs.append('%s/' % basename)
 					if hasattr(self, 'current'):
 						if webpage.documentURI != self.current:
 							webpage.navigation.current = {'href': self.current}
 					webpage.handleMarkdown('%s%s' % (self.content, basename))
 					self.saveDocument(webpage)
-					continue
 
 			if directory == '/traininglog':
 				if hasattr(self, 'current'):
@@ -96,6 +101,7 @@ class Website:
 					redirect.title = 'Latest Training Log Entry'
 					redirect.documentURI = '/traininglog/latest'
 					self.saveDocument(redirect)
+		self.saveSiteMap(documentURIs)
 		print('\ndone.')
 		
 	def saveDocument(self, webpage):
@@ -121,6 +127,16 @@ class Website:
 		html = webpage.tohtml()
 		fileobj = open(target, 'w', encoding='utf-8')
 		fileobj.write(html)
+		fileobj.close()
+		return
+
+	def saveSiteMap(self, documentURIs):
+		sitemap = []
+		for documentURI in documentURIs:
+			sitemap.append('https://mariostoc.co%s' % documentURI)
+		target = '%s/sitemap.txt' % self.public
+		fileobj = open(target, 'w', encoding='utf-8')
+		fileobj.write('\n'.join(sitemap))
 		fileobj.close()
 		return
 	
