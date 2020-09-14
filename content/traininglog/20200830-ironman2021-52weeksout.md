@@ -44,7 +44,7 @@ time to come but all things considering, this was a good week.
 ## CURRENT TRAINING WEEK
 [September 13, 2020 - 50 Weeks Out](ironman2021-50weeksout "IRONMAN TRAINING 2021")
 
-![](/assets/png/wtc-email-975x550.png)
+![](/assets/png/wtc-email-493x550.png)
 
 ## SUNDAY AUG 30
 Sleep **1** | Fatigue **4** | Stress **5** | Soreness **4** 
