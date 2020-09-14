@@ -25,6 +25,9 @@ class Website:
 		self.setCurrentTrainingWeek()
 	
 	def setCurrentTrainingWeek(self):
+		""" The current training week is referenced in a
+		    document's <nav> element
+		"""
 		logfiles = os.listdir('%s/traininglog/' % self.content)
 		logfiles.sort()
 		for logfile in logfiles:
@@ -34,6 +37,10 @@ class Website:
 		return
 
 	def clean(self):
+		""" 1. Walk the specific directories in the public directory.
+		    2. Delete files.
+		    3. Hope that someone is about to re-publish very soon.
+		"""
 		print('\ncleaning...')
 		for directory in ['blog','traininglog','racereports','pictures']:
 			print('->', directory)
@@ -50,6 +57,10 @@ class Website:
 			pass
 
 	def publish(self):
+		""" 1. Walk the content directory looking for markdown files.
+		    2. Convert markdown into an HTML5 Document
+		    3. Try to save it under the public directory.
+		"""
 		print('\npublishing...')
 		latestWritten = False
 		for root, dirs, files in os.walk(self.content):
@@ -88,6 +99,9 @@ class Website:
 		print('\ndone.')
 		
 	def saveDocument(self, webpage):
+		""" Save the HTML5 Doc if it is new or its markdown
+		    is different from a previous version.
+		""" 
 		target = '%s/%s' % (self.public, webpage.documentURI)
 		if os.path.isfile(target):
 			with open(target, 'r', encoding='utf-8') as htmlObj:
@@ -106,33 +120,6 @@ class Website:
 		print('  +', webpage.documentURI)
 		html = webpage.tohtml()
 		fileobj = open(target, 'w', encoding='utf-8')
-		fileobj.write(html)
-		fileobj.close()
-		return
-
-	def saveDocumentOld(self, directory, filename, webpage):
-		target = filename.split('.md')[0]
-		if len(target) > 9:
-			if target[:8].isnumeric():
-				target = '-'.join(target.split('-')[1:])
-		directorypath = '%s%s' % (self.public, directory)
-		targetpath = '%s/%s' % (directorypath, target)
-		if os.path.isfile(targetpath):
-			with open(targetpath, 'r', encoding='utf-8') as htmlObj:
-				parser = MetaTagParser()
-				parser.parseHead(htmlObj.read())
-				if hasattr(parser, 'version'):
-					if parser.version == webpage.version:
-						return
-		if not os.path.isdir(directorypath):
-			try:
-				os.makedirs(directorypath)
-			except FileExistsError:
-				pass
-		if target == 'index': targetpath = '%s.html' % targetpath
-		print('  + ', target)
-		html = webpage.tohtml()
-		fileobj = open(targetpath, 'w', encoding='utf-8')
 		fileobj.write(html)
 		fileobj.close()
 		return
