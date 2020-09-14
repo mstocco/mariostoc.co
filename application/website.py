@@ -87,7 +87,7 @@ class Website:
 							documentURIs.append(webpage.documentURI)
 					elif filename == 'index.md':
 						webpage.documentURI = basename.replace('.md', '.html')
-						documentURIs.append('%s/' % basename)
+						documentURIs.append('%s/' % directory)
 					if hasattr(self, 'current'):
 						if webpage.documentURI != self.current:
 							webpage.navigation.current = {'href': self.current}
