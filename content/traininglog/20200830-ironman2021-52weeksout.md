@@ -39,12 +39,19 @@ The heavy heart is still there, and likely will be there for some
 time to come but all things considering, this was a good week.
 
 ## NEXT TRAINING WEEK
+<ul class="iconlist">
+<li class="page"><a href="iroman2021-51weeksout">September 6, 2020 - 51 Weeks Out</a></li>
+</ul>
+
+## NEXT TRAINING WEEK
 [September 6, 2020 - 51 Weeks Out](ironman2021-51weeksout "IRONMAN TRAINING 2021")
 
 ## CURRENT TRAINING WEEK
-[September 13, 2020 - 50 Weeks Out](ironman2021-50weeksout "IRONMAN TRAINING 2021")
+<ul class="iconlist">
+<li class="page"><a href="ironma2021-50weeksout">September 13, 2020 - 50 Weeks Out</a></li>
+</ul>
 
-![](/assets/png/wtc-email-493x550.png)
+![](/assets/jpg/wtc-email-493x550.jpg)
 
 ## SUNDAY AUG 30
 Sleep **1** | Fatigue **4** | Stress **5** | Soreness **4** 

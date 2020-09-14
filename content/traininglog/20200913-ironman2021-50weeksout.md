@@ -30,7 +30,7 @@ Total Time: **60 minutes**
 
 Another very smoky day, another day waking up not feeling rested and a headache worthy of an 200mg Advil.
 
-First win: I rolled out the yoga mat and got a good stretch in.  Swimmer's routine showed me that my neck and traps are very tender, that my pecs and hamstrings are tight (but not sore) and that my hip flexors and quads have decent mobility.
+I rolled out the yoga mat and got a good stretch in.  Swimmer's routine showed me that my neck and traps are very tender, that my pecs and hamstrings are tight (but not sore) and that my hip flexors and quads have decent mobility.
 
 With the smoke lingering, I substituted the 55 minute run with a 90 minute walk down to (and up from)
 [McKenzie Bight](/pictures/victoria/mckenzie-bight "McKenzie Bight") with Carina.  
@@ -48,8 +48,11 @@ Run 30 minutes. Flat route. EASY effort.
 ### NOTES
 Total Time: **0 minutes**
 
-I was up really early but I feel more rested and ready to take on Monday.
+I was up really early (4am) so I checked in on a few things at work.  That early start meant I got a morning nap between 06:30 and 08:00; from there I was ready to take on the Monday.
 
+Flexibility Routine V3! showed me that my hamstrings are tight and the straddle positions at the end of the routine were challenging too.  My quads, adductors and hipflexors are GTG.
+
+Today was another smoky day but the rain started at 16:30.
 
 
 <!---->
