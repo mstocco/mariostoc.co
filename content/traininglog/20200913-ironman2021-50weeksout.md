@@ -12,8 +12,8 @@ I feel like was...  <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BI
 
 ## PREVIOUS 2 WEEKS
 <ul class="iconlist">
-<li class="page"><a href="iroman2021-51weeksout">September 6, 2020 - 51 Weeks Out</a></li>
-<li class="page"><a href="ironma2021-52weeksout">August 30, 2020 - 52 Weeks Out</a></li>
+<li class="page"><a href="ironman2021-51weeksout">September 6, 2020 - 51 Weeks Out</a></li>
+<li class="page"><a href="ironman2021-52weeksout">August 30, 2020 - 52 Weeks Out</a></li>
 </ul>
 
 <!---->

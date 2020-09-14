@@ -40,15 +40,12 @@ time to come but all things considering, this was a good week.
 
 ## NEXT TRAINING WEEK
 <ul class="iconlist">
-<li class="page"><a href="iroman2021-51weeksout">September 6, 2020 - 51 Weeks Out</a></li>
+<li class="page"><a href="ironman2021-51weeksout">September 6, 2020 - 51 Weeks Out</a></li>
 </ul>
-
-## NEXT TRAINING WEEK
-[September 6, 2020 - 51 Weeks Out](ironman2021-51weeksout "IRONMAN TRAINING 2021")
 
 ## CURRENT TRAINING WEEK
 <ul class="iconlist">
-<li class="page"><a href="ironma2021-50weeksout">September 13, 2020 - 50 Weeks Out</a></li>
+<li class="page"><a href="ironman2021-50weeksout">September 13, 2020 - 50 Weeks Out</a></li>
 </ul>
 
 ![](/assets/jpg/wtc-email-493x550.jpg)

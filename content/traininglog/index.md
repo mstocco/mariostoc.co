@@ -15,13 +15,13 @@ way.
 
 ### CURRENT WEEK
 <ul class="iconlist">
-<li class="page"><a href="iroman2021-50weeksout">September 13, 2020 - 50 Weeks Out</a></li>
+<li class="page"><a href="ironman2021-50weeksout">September 13, 2020 - 50 Weeks Out</a></li>
 </ul>
 
 ### PAST 2 WEEKS
 <ul class="iconlist">
-<li class="page"><a href="iroman2021-51weeksout">September 6, 2020 - 51 Weeks Out</a></li>
-<li class="page"><a href="ironma2021-52weeksout">August 30, 2020 - 52 Weeks Out</a></li>
+<li class="page"><a href="ironman2021-51weeksout">September 6, 2020 - 51 Weeks Out</a></li>
+<li class="page"><a href="ironman2021-52weeksout">August 30, 2020 - 52 Weeks Out</a></li>
 </ul>
 
 ![Argon 18 E-118 Next](/assets/jpg/argon18e-118next-979x550.jpg My TT Bike)
