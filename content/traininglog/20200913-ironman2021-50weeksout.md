@@ -30,12 +30,13 @@ Another very smoky day, another day waking up not feeling rested and a headache 
 
 First win: I rolled out the yoga mat and got a good stretch in.  Swimmer's routine showed me that my neck and traps are very tender, that my pecs and hamstrings are tight (but not sore) and that my hip flexors and quads have decent mobility.
 
-I substituted the 55 minute run with a 90 minute walk down to (and up from)
-[McKenzie Bight](/pictures/victoria/mckenzie-bight "McKenzie Bight") with Carina.
+With the smoke lingering, I substituted the 55 minute run with a 90 minute walk down to (and up from)
+[McKenzie Bight](/pictures/victoria/mckenzie-bight "McKenzie Bight") with Carina.  
+Distance: **5.7 km** &nbsp; Elevation: **240 m**
 
 <!---->
 ## MONDAY SEP 14
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
+Sleep **2** | Fatigue **2** | Stress **2** | Soreness **3** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -45,7 +46,8 @@ Run 30 minutes. Flat route. EASY effort.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I was up really early but I feel more rested and ready to take on Monday.
+
 
 
 <!---->
@@ -57,9 +59,10 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 Ride 1:00-1:15. Easy spin on the road bike. If you are crunched for time... 45-60 minutes of easy spinning on the rollers. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **- minutes**
 
-&mdash; 
+
+
 
 
 <!---->
@@ -72,7 +75,7 @@ Mobility 22 minutes
 Run 40 minutes: 15 minutes easy running to warm up. 10x :40 strides, 1:20 easy jog after each. HR should drop fairly close to your easy run HR by the start of the next stride. (with in 5-10 beats) If it's not, then stride slower. 5 minutes easy to cool down.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **- minutes**
 
 &mdash; 
 
@@ -86,7 +89,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 Run 30 minutes. Flat route. EASY effort.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **- minutes**
 
 &mdash; 
 
@@ -101,7 +104,7 @@ Mobility 25 minutes
 Rollers ~ 30 minutes. EASY spinning.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **- minutes**
 
 &mdash; 
 
@@ -121,7 +124,7 @@ Then... 200 meters @ what you think you might hold for a 5k. Walk 200-400 meters
 5 minutes walking. Then 10 minutes EASY jogging to cool down
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **- minutes**
 
 &mdash; 
 
