@@ -30,7 +30,9 @@ Another very smoky day, another day waking up and not feeling rested.
 
 First win: I rolled out the yoga mat and got a good stretch in.  Swimmer's routine showed me that my neck and traps are very tender, that my pecs and hamstrings are tight (but not sore) and that my hip flexors and quads have decent mobility.
 
-I substituted the 55 minute run with a 90 minute walk around Mckenzie Bight (with Carina).
+I substituted the 55 minute run with a 90 minute walk down to (and up from)
+[McKenzie Bight](/assets/jpg/IMG_2805-978x550.jpg McKenzie Bight) with Carina.
+
 <!---->
 ## MONDAY SEP 14
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
