@@ -10,7 +10,7 @@ I am expecting the smoky skies to clear this week and get back to putting some c
 I feel like was...  <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->  
 <sup>(section filled in at the end of the week)</sup>
 
-## PREVIOUS WEEKS
+## PREVIOUS 2 WEEKS
 [September 6, 2020 - 51 Weeks Out](ironman2021-51weeksout "IRONMAN TRAINING 2021")  
 [August 30, 2020 - 52 Weeks Out](ironman2021-52weeksout "IRONMAN TRAINING 2021")  
 
@@ -20,7 +20,7 @@ Sleep **3** | Fatigue **2** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Mobility 20 minutes:  
+Mobility 20 minutes: Swimmer's Routine  
 Run 50-55 minutes. Easy effort. Hilly route. On trails is great, but not mandatory.
 
 ### NOTES
