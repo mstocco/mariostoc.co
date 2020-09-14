@@ -133,6 +133,8 @@ class Website:
 	def saveSiteMap(self, documentURIs):
 		sitemap = []
 		for documentURI in documentURIs:
+			if documentURI in ['/missing']:
+				continue
 			sitemap.append('https://mariostoc.co%s' % documentURI)
 		target = '%s/sitemap.txt' % self.public
 		fileobj = open(target, 'w', encoding='utf-8')
