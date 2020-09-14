@@ -88,6 +88,8 @@ class Website:
 					elif filename == 'index.md':
 						webpage.documentURI = basename.replace('.md', '.html')
 						documentURIs.append('%s/' % directory)
+					else:
+						documentURIs.append(webpage.documentURI)
 					if hasattr(self, 'current'):
 						if webpage.documentURI != self.current:
 							webpage.navigation.current = {'href': self.current}
@@ -136,6 +138,7 @@ class Website:
 			if documentURI in ['/missing']:
 				continue
 			sitemap.append('https://mariostoc.co%s' % documentURI)
+		sitemap.append('')
 		target = '%s/sitemap.txt' % self.public
 		fileobj = open(target, 'w', encoding='utf-8')
 		fileobj.write('\n'.join(sitemap))
