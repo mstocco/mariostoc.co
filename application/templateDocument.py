@@ -19,9 +19,9 @@ class TemplateDocument(HTML5Document):
 		self.javascript = FlickityJS()
 		self.socialIcons = SocialIcons()
 		self.opengraph = OpenGraph()
-	
+
 	def handleMarkdown(self, contentPath):		
-		"""
+		""" 
 		"""
 		with open(contentPath, 'r', encoding='utf-8') as fileobj:
 			content = fileobj.read().strip()
@@ -101,8 +101,8 @@ class TemplateDocument(HTML5Document):
 		self.opengraph.url = 'https://mariostoc.co%s' % self.documentURI
 		self.head.append(self.opengraph)
 		attrs = {'rel':'stylesheet','type':'text/css','media':'screen'}
-		for href in ['webtype_fonts.min.css','flickity.min.css','mstocco.css']:
-			attrs['href'] = '/assets/css/%s' % href
+		for href in ['webtype_fonts.min.css','flickity.min.css','mstocco.css?v=001']:
+			attrs['href'] = '/assets/css/%s' % href)
 			self.head.append(LINK(attrs))
 		
 		self.head.append(SCRIPT({"src":"/assets/js/flickity.pkgd.min.js"}))
