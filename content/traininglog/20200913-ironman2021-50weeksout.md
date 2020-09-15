@@ -52,12 +52,12 @@ I was up really early (4am) so I checked in on a few things at work.  That early
 
 Flexibility Routine V3! showed me that my hamstrings are tight and the straddle positions at the end of the routine were challenging too.  My quads, adductors and hipflexors are GTG.
 
-Today was another smoky day but the rain started at 16:30.
+Today was another smoky day but a light started at 16:30; hopefully that will clear out the air.
 
 
 <!---->
 ## TUESDAY SEP 15
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
+Sleep **2** | Fatigue **2** | Stress **4** | Soreness **4** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -66,6 +66,7 @@ Ride 1:00-1:15. Easy spin on the road bike. If you are crunched for time... 45-6
 ### NOTES
 Total Time: **- minutes**
 
+I had an _"ok"_ sleep last night.
 
 
 
