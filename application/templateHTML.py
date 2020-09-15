@@ -162,15 +162,6 @@ class Navigation(NAV):
 		return HTML5Tag.tohtml(self)
 
 
-class SocialIconOld(LI):
-		def __init__(self, alt, href):
-		self._class = 'icon'		
-		src = '/assets/img/%s.svg' % alt.lower()
-		anchor = A({"href":href,"target":"_blank","rel":"noreferrer"})
-		anchor.append(IMG({"src":src,"alt":alt}))
-		self.innerHTML = anchor.tohtml()
-
-		
 class SocialIcon(DIV):
 	""" This is this list item element that contains an
 		anchor tag that points to an account that I have
@@ -197,7 +188,6 @@ class SocialIcons(DIV):
 		self.append(SocialIcon('Twitter', 'https://twitter.com/vaporfly4pct'))
 		self.append(SocialIcon('Linkedin', 'https://www.linkedin.com/in/voipexpert'))
 		self.append(SocialIcon('GitHub', 'https://github.com/mstocco'))
-		
 		return HTML5Tag.tohtml(self)
 
 
@@ -208,6 +198,7 @@ class PageFooter(FOOTER):
 		copyright = P("Copyright &copy; 2020 Mario Stocco &nbsp; All rights reserved.")
 		self.append(copyright)
 		return HTML5Tag.tohtml(self)
+
 
 class FlickityJS(SCRIPT):
 	""" Javascript Tag included in the body of the document.
