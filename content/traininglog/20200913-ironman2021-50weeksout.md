@@ -66,7 +66,7 @@ Ride 1:00-1:15. Easy spin on the road bike. If you are crunched for time... 45-6
 ### NOTES
 Total Time: **- minutes**
 
-I had an _"ok"_ sleep last night.
+I had an _"ok"_ sleep last night.  Looking out the window this morning, it looks like yesterday's rain did much to reduce the smoke in the air.  I will look for a _"plan b"_.
 
 
 
