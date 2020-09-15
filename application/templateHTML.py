@@ -162,13 +162,22 @@ class Navigation(NAV):
 		return HTML5Tag.tohtml(self)
 
 
-class SocialIcon(LI):
+class SocialIconOld(LI):
+		def __init__(self, alt, href):
+		self._class = 'icon'		
+		src = '/assets/img/%s.svg' % alt.lower()
+		anchor = A({"href":href,"target":"_blank","rel":"noreferrer"})
+		anchor.append(IMG({"src":src,"alt":alt}))
+		self.innerHTML = anchor.tohtml()
+
+		
+class SocialIcon(DIV):
 	""" This is this list item element that contains an
 		anchor tag that points to an account that I have
 		somewhere else on the inter-webs.
 	"""
 	def __init__(self, alt, href):
-		self._class = 'icon'		
+		self._id = 'icon-%s' % alt.lower()		
 		src = '/assets/img/%s.svg' % alt.lower()
 		anchor = A({"href":href,"target":"_blank","rel":"noreferrer"})
 		anchor.append(IMG({"src":src,"alt":alt}))
@@ -181,15 +190,14 @@ class SocialIcons(DIV):
 	    at the bottom of the carousel's first cell.
 	"""
 	def tohtml(self):
-		ul = UL()
-		ul.append(SocialIcon('Strava', 'https://www.strava.com/athletes/21702937'))
-		ul.append(SocialIcon('Garmin', 'https://connect.garmin.com/modern/profile/_canadian'))
-		ul.append(SocialIcon('Twitter', 'https://twitter.com/vaporfly4pct'))
-		ul.append(SocialIcon('Linkedin', 'https://www.linkedin.com/in/voipexpert'))
-		ul.append(SocialIcon('GitHub', 'https://github.com/mstocco'))
-		self.append(P('SOCIALLY PROFILED'))
-		self.append(ul)
 		self._class = 'social'
+		self.innerHTML = P('SOCIALLY PROFILED').tohtml()
+		self.append(SocialIcon('Strava', 'https://www.strava.com/athletes/21702937'))
+		self.append(SocialIcon('Garmin', 'https://connect.garmin.com/modern/profile/_canadian'))
+		self.append(SocialIcon('Twitter', 'https://twitter.com/vaporfly4pct'))
+		self.append(SocialIcon('Linkedin', 'https://www.linkedin.com/in/voipexpert'))
+		self.append(SocialIcon('GitHub', 'https://github.com/mstocco'))
+		
 		return HTML5Tag.tohtml(self)
 
 

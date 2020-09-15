@@ -46,6 +46,13 @@ ul.alt li:first-child {border-top:0;padding-top:0;}
 .social ul {list-style:disc inside none;margin:0 7px;}
 .social ul li.icon {cursor:pointer;display:inline-block;margin:0 30px 0 -25px;padding:0 1px; position:relative;width:auto;height:20px;zoom:1;}
 
+.social div {display:inline-block;height:20px;}
+#icon-strava {width:49px;margin:0 5px 0 0;}
+#icon-garmin {width:52px;margin:0 6px;}
+#icon-twitter {width:50px;margin:0 6px;}
+#icon-linkedin {width:48px;margin:0 6px;}
+#icon-github {width:36px;margin:0 0 0 5px;}
+
 .gallerylist li {background:url('/assets/img/camera-icon.svg') no-repeat top left;margin:6px 0 0 -15px;padding:0 0 4px 25px;list-style:none;line-height:1.0;}
 .gallerylist li a {font-size:0.95em;font-weight:normal;}
 
