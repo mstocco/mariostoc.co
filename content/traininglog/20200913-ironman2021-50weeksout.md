@@ -64,11 +64,15 @@ Sleep **2** | Fatigue **2** | Stress **4** | Soreness **4**
 Ride 1:00-1:15. Easy spin on the road bike. If you are crunched for time... 45-60 minutes of easy spinning on the rollers. 
 
 ### NOTES
-Total Time: **- minutes**
+Total Time: **50 minutes**
 
 I had an _"ok"_ sleep last night.  Looking out the window this morning, it looks like yesterday's rain did much to reduce the smoke in the air.  I will look for a _"plan b"_.
 
+Today was a bit of a frustrating day at work and I did get myself into a grumpy state by not stopping for lunch at a decent time.
 
+I did get 50 minutes of steady state pedalling this evening, using the road bike on the rollers.  The top of my right knee cap was _mildly tender_ through the first 24 minutes and from then on, I felt good.  The saddle started to become noticable after ~40 minutes and I stopped at 50.  The tire pressure was low for rollers so (I think) it was a better workout
+
+I chose the rollers not because I was crunched for time but because of the lingering smoke into the air.
 
 
 <!---->
