@@ -70,7 +70,7 @@ I had an _"ok"_ sleep last night.
 
 Today was a bit of a frustrating day at work and I did get myself into a grumpy state by not stopping for lunch at a decent time.
 
-I did 50 minutes of steady state pedalling this evening, using the road bike on the rollers.  The top of my right knee cap was _mildly tender_ through the first 24 minutes and from then on, everything felt good.  The saddle started to become noticable after ~40 minutes and I stopped at 50.  The tire pressure was low for rollers so (I think) it was a better workout
+I did 50 minutes of steady state pedalling this evening, using the road bike on the rollers.  The top of my right knee cap was _mildly tender_ through the first 24 minutes and from then on, everything felt good.  At least until the saddle started to become noticable after ~40 minutes. The tire pressure was low for rollers so (I think) it was a good workout. 
 
 I chose rollers over outside because of the lingering smoke in the air.
 
