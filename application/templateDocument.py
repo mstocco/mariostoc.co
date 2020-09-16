@@ -138,7 +138,7 @@ class RedirectDocument(HTML5Document):
 		backward = P('If you do not want to visit that page, you can ')
 		backward.append(anchor)
 
-		self.head.append(META({"http-equiv":"refresh","content":"2;url=%s" % self.url}))
+		self.head.append(META({"http-equiv":"refresh","content":".2;url=%s" % self.url}))
 		self.head.append(TITLE(self.title))
 		self.head.append(LINK({'rel':'stylesheet','type':'text/css','media':'screen','href':'/assets/css/webtype_fonts.min.css'}))
 		self.head.append(LINK({'rel':'stylesheet','type':'text/css','media':'screen','href':'/assets/css/mstocco.css'}))
