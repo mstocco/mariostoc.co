@@ -84,7 +84,7 @@ Mobility 22 minutes
 Run 40 minutes: 15 minutes easy running to warm up. 10x :40 strides, 1:20 easy jog after each. HR should drop fairly close to your easy run HR by the start of the next stride. (with in 5-10 beats) If it's not, then stride slower. 5 minutes easy to cool down.
 
 ### NOTES
-Total Time: **- minutes**
+Total Time: **60 minutes**
 
 Sleep last night was ok but I did wake up feeling congested and with a stiff neck.
 
@@ -99,10 +99,10 @@ recovery period.
 I have to say, running with a mask sure had me aware of my 
 breathing.
 
-Distance: **7.5 km** &nbsp; Pace: **5:35/km**
+Distance: **7.5 km** &nbsp; Pace: **5:35/km** &nbsp; Time: **42:00**
 ![Pace chart for September 16 Run](/assets/png/IMG_2809.png)
 
-I did the Cyclist Flexibility Routine after the run; which 
+I did the Cyclist Flexibility Routine _after_ the run; which 
 served to highlight my asymmetries!
 <!---->
 ## THURSDAY SEP 17
