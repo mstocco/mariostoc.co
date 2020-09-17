@@ -102,7 +102,8 @@ breathing.
 Distance: **7.5 km** &nbsp; Pace: **5:35/km**
 ![Pace chart for September 16 Run](/assets/png/IMG_2809.png)
 
-I did get the mobility in too.
+I did the Cyclist Flexibility Routine after the run; which 
+served to highlight my asymetries!
 <!---->
 ## THURSDAY SEP 17
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
