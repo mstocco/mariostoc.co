@@ -4,13 +4,16 @@ Week beginning Sunday, September 13, 2020
 **50 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-I am expecting the smoky skies to clear this week and get back to putting some consistency into into my fitness.  This is another week to build on good habits and get a test of where I am at.
+I am expecting the smoky skies to clear this week and get back 
+to putting some consistency into into my fitness.  This is 
+another week to build on good habits and get a test of where 
+I am at.
 
 ## SUMMARY
 I feel like was...  <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->  
 <sup>(section filled in at the end of the week)</sup>
 
-## PREVIOUS 2 WEEKS
+## LAST COUPLE WEEKS
 <ul class="iconlist">
 <li class="page"><a href="ironman2021-51weeksout">September 6, 2020 - 51 Weeks Out</a></li>
 <li class="page"><a href="ironman2021-52weeksout">August 30, 2020 - 52 Weeks Out</a></li>
@@ -85,11 +88,21 @@ Total Time: **- minutes**
 
 Sleep last night was ok but I did wake up feeling congested and with a stiff neck.
 
-I got the run in after work this evening.  Weird day as it looked like the smoke was going to lift in the morning but it got thicker as the afternoon wore on.  The last of the sun was visible as a dim, crimson dot in the sky at 17:45 and gone completely by 18:00.  Regardless, I put on an N95 dust mask and headed out.  This was one of those runs that felt good in the beginning but as soon as the work started, I really wished that I had put in some real training last weekend.  Last stride, best stride would be a good summary as it reduced me to a walk for the final 1:20 recovery period.
+I got the run in after work this evening.  Weird day as it looked like the smoke was going to lift in the morning but it got thicker as the afternoon wore on.  The last of the sun was visible as a dim, crimson dot in the sky at 17:45 and gone completely by 18:00.  Regardless, I put on an N95 dust mask and headed out.
+<!---->
+This was one of those runs that felt good in the beginning but 
+as soon as the work started, I really wished that I had put in 
+some real training last weekend.  Regardless, I made it _"Last 
+stride, best stride"_ and enjoyed a walk for the final 1:20 
+recovery period.
 
-Running with a mask sure had me aware of my breathing. 
+I have to say, running with a mask sure had me aware of my 
+breathing.
 
+Distance: **7.5 km** &nbsp; Pace: **5:35/km**
+![Pace chart for September 16 Run](/assets/png/IMG_2809.png)
 
+I did get the mobility in too.
 <!---->
 ## THURSDAY SEP 17
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
