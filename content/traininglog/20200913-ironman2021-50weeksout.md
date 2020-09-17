@@ -85,6 +85,10 @@ Total Time: **- minutes**
 
 Sleep last night was ok but I did wake up feeling congested and with a stiff neck.
 
+I got the run in after work this evening.  Weird day as it looked like the smoke was going to lift in the morning but it got thicker as the afternoon wore on.  The last of the sun was visible as a dim, crimson dot in the sky at 17:45 and gone completely by 18:00.  Regardless, I put on an N95 dust mask and headed out.  This was one of those runs that felt good in the beginning but as soon as the work started, I really wished that I had put in some real training last weekend.  Last stride, best stride would be a good summary as it reduced me to a walk for the final 1:20 recovery period.
+
+Running with a mask sure had me aware of my breathing. 
+
 
 <!---->
 ## THURSDAY SEP 17
