@@ -110,20 +110,20 @@ Sleep **2** | Fatigue **3** | Stress **3** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Run 30 minutes. Flat route. EASY effort.
+Run 30 minutes. ' Flat route. EASY effort.
 
 ### NOTES
 Total Time: **30 minutes**
 
 New shoe day!  A pair of Nike Zoom Fly 3 in _"Volt/Smoke Grey"_ came in the mail this afternoon.
 
-I got a revised run from Elliot before heading out; a bit of structure and a chance to open up was added to the run.  I was a tiny bit tender (glutes/quads/calves) from yesterday but nothing  that was out of the ordinary.  New shoes didn't take much to get used to but a second day up on my toes might require a bit of massage later tonight.
+I got a revised run from Elliot before heading out; a bit of structure and a chance to open up was added to the run.  I was a tiny bit tender (glutes/quads/calves) from yesterday but nothing  that was out of the ordinary.  New shoes didn't take much to get u sed to but a second day up on my toes might require a bit of massage later tonight.
 
-Other than the run, I had a solid sleep last night an a solid day at the keyboard (work).
+Other than the run, I had a solid sleep last night, a solid (productive) day at work and spent some time working out the kinks with my massage chair.  
 
 <!---->
 ## FRIDAY SEP 18
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
+Sleep **2** | Fatigue **2** | Stress **3** | Soreness **5** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -133,7 +133,7 @@ Rollers ~ 30 minutes. EASY spinning.
 ### NOTES
 Total Time: **- minutes**
 
-&mdash; 
+Another pretty good sleep last night but I am stiff (mostly lower body) from the past couple of days.
 
 
 <!---->
