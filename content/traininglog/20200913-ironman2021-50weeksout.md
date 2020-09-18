@@ -55,9 +55,9 @@ I was up really early (4am) so I checked in on a few things at work.  That early
 
 Flexibility Routine V3! showed me that my hamstrings are tight and the straddle positions at the end of the routine were challenging too.  My quads, adductors and hipflexors are GTG.
 
-Today was another smoky day but a light started at 16:30; hopefully that will clear out the air.
+Today was another smoky day but a light rain started at 16:30; hopefully that will clear out the air.
 
-
+I struggled with motivation today and ended up woring longer on the keyboard.
 <!---->
 ## TUESDAY SEP 15
 Sleep **2** | Fatigue **2** | Stress **4** | Soreness **4** 
@@ -113,9 +113,13 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 Run 30 minutes. Flat route. EASY effort.
 
 ### NOTES
-Total Time: **- minutes**
+Total Time: **30 minutes**
 
-&mdash; 
+New shoe day!  A pair of Nike Zoom Fly 3 in "Volt/Smoke Grey" came in the mail this afternoon.
+
+I got a revised run from Elliot before heading out; a bit of structure and a chance to open up was added to the run.  I was a tiny bit tender (glutes/quads) from yesterday but nothing  that was out of the ordinary.  New shoes didn't take much to get used to but a second day up on my toes might require a bit of massage later tonight.
+
+Other than the run, I had a solid sleep last night an a solid day at the keyboard (work).
 
 
 <!---->
