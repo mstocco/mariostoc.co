@@ -106,7 +106,7 @@ I did the Cyclist Flexibility Routine _after_ the run; which
 served to highlight my asymmetries!
 <!---->
 ## THURSDAY SEP 17
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
+Sleep **2** | Fatigue **3** | Stress **3** | Soreness **5** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -115,12 +115,11 @@ Run 30 minutes. Flat route. EASY effort.
 ### NOTES
 Total Time: **30 minutes**
 
-New shoe day!  A pair of Nike Zoom Fly 3 in "Volt/Smoke Grey" came in the mail this afternoon.
+New shoe day!  A pair of Nike Zoom Fly 3 in _"Volt/Smoke Grey"_ came in the mail this afternoon.
 
-I got a revised run from Elliot before heading out; a bit of structure and a chance to open up was added to the run.  I was a tiny bit tender (glutes/quads) from yesterday but nothing  that was out of the ordinary.  New shoes didn't take much to get used to but a second day up on my toes might require a bit of massage later tonight.
+I got a revised run from Elliot before heading out; a bit of structure and a chance to open up was added to the run.  I was a tiny bit tender (glutes/quads/calves) from yesterday but nothing  that was out of the ordinary.  New shoes didn't take much to get used to but a second day up on my toes might require a bit of massage later tonight.
 
 Other than the run, I had a solid sleep last night an a solid day at the keyboard (work).
-
 
 <!---->
 ## FRIDAY SEP 18
