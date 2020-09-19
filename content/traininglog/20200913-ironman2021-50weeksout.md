@@ -156,5 +156,8 @@ Total Time: **- minutes**
 
 I feel rested enough but last night wasn't the easiest sleep; sadness is still coming and going and I don't have an answer for it except to just accept that is still my reality at this point.
 
+The mobility routine I chose before heading out was [20 Minute Full Body Flexibility Routine](https://youtu.be/lPKRiU9u_Hc).
+
+
 
 <!---->
