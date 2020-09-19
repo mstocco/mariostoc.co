@@ -131,14 +131,15 @@ Mobility 25 minutes
 Rollers ~ 30 minutes. EASY spinning.
 
 ### NOTES
-Total Time: **- minutes**
+Total Time: **0 minutes**
 
 Another pretty good sleep last night but I am stiff (mostly lower body) from the past couple of days.
 
+As the day became the evening, I ran out of engery (mentally and physically) and whiffed on getting out to the garage for a ride on the rollers.  No television tonight either, I am going to bed early on a Friday.
 
 <!---->
 ## SATURDAY SEP 19
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -153,7 +154,7 @@ Then... 200 meters @ what you think you might hold for a 5k. Walk 200-400 meters
 ### NOTES
 Total Time: **- minutes**
 
-&mdash; 
+I feel rested enough but last night wasn't the easiest sleep; sadness is still coming and going and I don't have an answer for it except to just accept that is still my reality at this point.
 
 
 <!---->
