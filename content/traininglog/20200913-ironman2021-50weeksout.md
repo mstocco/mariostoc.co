@@ -152,11 +152,30 @@ Then... 200 meters @ what you think you might hold for a 5k. Walk 200-400 meters
 5 minutes walking. Then 10 minutes EASY jogging to cool down
 
 ### NOTES
-Total Time: **- minutes**
+Total Time: **60 minutes**
 
-I feel rested enough but last night wasn't the easiest sleep; sadness is still coming and going and I don't have an answer for it except to just accept that is still my reality at this point.
+I feel rested enough but last night wasn't the easiest sleep; sadness is still coming and going and I don't have an answer for it except to just
+
+<!---->
+accept that is still my reality at this point.
 
 The mobility routine I chose before heading out was [20 Minute Full Body Flexibility Routine](https://youtu.be/lPKRiU9u_Hc).
+
+So it was boys soccer that had the infield this afternoon; that meant I'd have an audience to watch me suffer for a bit.  I only hope I can be entertaning for them.
+
+The warm up was done according to the write up and I felt good.  With my heartrate back down to normal, it was time to see where my fitness is at.
+
+This was a tale of every second lap.  The start of the second lap, everything is good.  On the fourth lap, I have settled into a rhythm.  At the start of lap six, I am feeling the fade beginning.  On the eighth lap, life is starting to suck pretty bad and it is too early to be feeling this bad.  On the 10th lap, I am really fighting the urge to walk.
+
+_"Just two more laps then a back straight, I can do this."_
+
+Eleventh lap, I am hanging on and as I cross the line on the home stretch, I press the lap button on my watch.  I look and the lap indicator, it reads, _"12/12"_.  If I have done 12, then I just have this back stretch to do.  I muster up a push that would make Tim Noakes proud and hit the _"stop button"_ as I cross the half lap line.  **20:54.8**
+
+I did realize that I shorted myself one lap until I got back into the truck to drive home.
+
+### My Take Aways
+1. Learn to count all the way to 12.
+2. I'll achieve this mini-goal of getting a 5K PR, I just need to keep showing up.
 
 
 
