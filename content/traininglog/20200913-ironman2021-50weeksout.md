@@ -6,12 +6,17 @@ Week beginning Sunday, September 13, 2020
 ## WEEKLY GOAL
 I am expecting the smoky skies to clear this week and get back 
 to putting some consistency into into my fitness.  This is 
-another week to build on good habits and get a test of where 
-I am at.
+another week to build on good habits and get a 
+[test of where I am at](javascript:flkty.select(10)).
 
 ## SUMMARY
-I feel like was...  <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->  
-<sup>(section filled in at the end of the week)</sup>
+I feel like was **MOVING IN THE RIGHT DIRECTION**.
+
+The start and end of the work week had me struggle with energy.  Part of that is work itself and part of it is on me.  After acknowledging those two days, I have five other days that I can look back on that tell a story of me bouncing back to a more consistent routine.  Mobility and strides have been put back into place this week.  I also got a new pair of shoes that are fun to run in.
+
+I did have a few moments of sadness throughout the week.
+
+The big workout on Saturday left me with a really good _”runner’s high”_ even though I embarrassingly miss counted the total laps.
 
 ## LAST COUPLE WEEKS
 <ul class="iconlist">
@@ -169,7 +174,7 @@ This was a tale of every second lap.  The start of the second lap, everything is
 
 _"Just two more laps then a back straight, I can do this."_
 
-Eleventh lap, I am hanging on and as I cross the line on the home stretch, I press the lap button on my watch.  I look and the lap indicator, it reads, _"12/12"_.  If I have done 12, then I just have this back stretch to do.  I muster up a push that would make Tim Noakes proud and hit the _"stop button"_ as I cross the half lap line.  **20:54.8**
+Eleventh lap, I am hanging on and as I crossinthe line on the home stretch, I press the lap button on my watch.  I look and the lap indicator, it reads, _"12/12"_.  If I have done 12, then I just have this back stretch to do.  I muster up a push that would make Tim Noakes proud and hit the _"stop button"_ as I cross the half lap line.  **20:54.8**
 
 I did realize that I shorted myself one lap until I got back into the truck to drive home.
 
