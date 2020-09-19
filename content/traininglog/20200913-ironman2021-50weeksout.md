@@ -16,7 +16,7 @@ The start and end of the work week had me struggle with energy.  Part of that is
 
 I did have a few moments of sadness throughout the week.
 
-The big workout on Saturday left me with a really good _”runner’s high”_ even though I embarrassingly miss counted the total laps.
+![Saturday’s 4600m Workout](/assets/jpg/IMG_2815-977x550.jpg A really good _”runner’s high”_ even though I embarrassingly miss counted the total laps.)
 
 ## LAST COUPLE WEEKS
 <ul class="iconlist">
