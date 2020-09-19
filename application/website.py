@@ -104,6 +104,7 @@ class Website:
 					redirect.documentURI = '/traininglog/latest'
 					self.saveDocument(redirect)
 		self.saveSiteMap(documentURIs)
+		self.saveHumansTxt()
 		print('\ndone.')
 		
 	def saveDocument(self, webpage):
@@ -144,6 +145,27 @@ class Website:
 		fileobj.write('\n'.join(sitemap))
 		fileobj.close()
 		return
+	
+	def saveHumansTxt(self):
+		humans = []
+		humans.append('/* AUTHOR */')
+		humans.append('  Name: Mario Stocco')
+		humans.append('  Site: https://mariostoc.co/')
+		humans.append('  Location: Victoria, BC, Canada')
+		humans.append('')
+		humans.append('/* SITE */')
+		humans.append('  Last update: %s' % time.strftime('%Y/%m/%d', time.localtime()))
+		humans.append('  Language: English')
+		humans.append('  Doctype: HTML5')
+		humans.append('  Content Management: git')
+		humans.append('  Created With: Apple 11" iPad Pro and bit of Python')
+		humans.append('')
+		target = '%s/humans.txt' % self.public
+		fileobj = open(target, 'w', encoding='utf-8')
+		fileobj.write('\n'.join(humans))
+		fileobj.close()
+		return
+  
 	
 	def do(self):
 		if hasattr(self, 'action'):
