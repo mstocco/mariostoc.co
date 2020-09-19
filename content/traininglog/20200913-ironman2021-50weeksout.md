@@ -10,7 +10,7 @@ another week to build on good habits and get a
 [test of where I am at](javascript:flkty.select(10)).
 
 ## SUMMARY
-I feel like was **MOVING IN THE RIGHT DIRECTION**.
+I feel like was **MOVING FORWARD**.
 
 The start and end of the work week had me struggle with energy.  Part of that is work itself and part of it is on me.  After acknowledging those two days, I have five other days that I can look back on that tell a story of me bouncing back to a more consistent routine.  Mobility and strides have been put back into place this week.  I also got a new pair of shoes that are fun to run in.
 
