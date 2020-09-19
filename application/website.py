@@ -158,7 +158,7 @@ class Website:
 		humans.append('  Language: English')
 		humans.append('  Doctype: HTML5')
 		humans.append('  Content Management: git')
-		humans.append('  Created With: Apple 11" iPad Pro and bit of Python')
+		humans.append('  Created With: An Apple 11" iPad Pro and bit of Python')
 		humans.append('')
 		target = '%s/humans.txt' % self.public
 		fileobj = open(target, 'w', encoding='utf-8')
