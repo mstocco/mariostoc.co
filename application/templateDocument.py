@@ -101,7 +101,7 @@ class TemplateDocument(HTML5Document):
 		self.opengraph.url = 'https://mariostoc.co%s' % self.documentURI
 		self.head.append(self.opengraph)
 		attrs = {'rel':'stylesheet','type':'text/css','media':'screen'}
-		for href in ['webtype_fonts.min.css','flickity.min.css','mstocco.css?v=003']:
+		for href in ['webtype_fonts.min.css','flickity.min.css','mstocco.css?v=004']:
 			attrs['href'] = '/assets/css/%s' % href
 			self.head.append(LINK(attrs))
 		
