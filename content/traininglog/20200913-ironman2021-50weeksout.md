@@ -179,6 +179,8 @@ Sadly, I didn’t realize that I shorted myself one lap until I got back into th
 3. Even if I didn’t get the full distance in this afternoon, I do have lap time data and a good training stimulus out of the activity.
 4. Maybe slow down a bit on the _“warm up”._
 
+The weather today was a humid 18&#8451; with a breeze from the south west. 
+
 <!---->
 ## LAST COUPLE WEEKS
 <ul class=“iconlist”>
