@@ -171,20 +171,32 @@ On the 10th lap, I am REALLY fighting the urge to walk. _"Just two more laps the
 
 Eleventh lap, I am just hanging on as I crossed the start-line on the home stretch; I again, press the lap button on my watch.  I look and the lap indicator, it reads, _"12/12"_.  So if I have done 12, then I just have this back stretch to do.  I muster up a push that would make Tim Noakes proud and hit the _"stop button"_ as I cross the half lap line.  **20:54.8**
 
-Sadly, I didn’t realize that I shorted myself one lap until I got back into the truck to drive home.  Damn it.
+Sadly, I didn’t realize that I shorted myself one lap until I got back to the truck for the drive home.  Damn it.
 
-### My Take Aways
-1. Learn to count all the way to 12.
-2. I will get that 5K PR before the end of this year; I just need to keep showing up.
-3. Even if I didn’t get the full distance in this afternoon, I do have lap time data and a good training stimulus out of the activity.
-4. Maybe slow down a bit on the _“warm up”._
-
-
- 
+### MY TAKE AWAYS
+* Learn to count all the way to 12.
+* I will get that 5K PR before the end of this year; I just need to keep showing up.
+* Even if I didn’t get the full distance in this afternoon, I do have lap time data and a good training stimulus out of the activity.
+* Maybe slow down a bit on the _“warm up”._
 
 <!---->
-## LAST COUPLE WEEKS
-<ul class=“iconlist”>
-<li class=“page”><a href=“ironman2021-51weeksout”>September 6, 2020 - 51 Weeks Out</a></li>
-<li class=“page”><a href=“ironman2021-52weeksout”>August 30, 2020 - 52 Weeks Out</a></li>
+### OIHER TAKE AWAYS
+<ul class="iconlist">
+<li class="pr">2 Mile: 14:00</li>
+<li class="pr">1 Mile: 6:37</li>
+<li class="pr">1 KM: </li>
+<li class="pr">.5 Mile: 3:11</li>
+<li class="pr">400 m: 92 seconds</li>
+</ul>
+
+
+## CURRENT TRAINING WEEK
+<ul class="iconlist">
+<li class="page"><a href="ironman2021-49weeksout">September 20, 2020 - 49 Weeks Out</a></li>
+</ul>
+
+## PREVIOUS TRAINING WEEKS
+<ul class="iconlist">
+<li class="page"><a href=“ironman2021-51weeksout”>September 6, 2020 - 51 Weeks Out</a></li>
+<li class="page"><a href=“ironman2021-52weeksout”>August 30, 2020 - 52 Weeks Out</a></li>
 </ul>
