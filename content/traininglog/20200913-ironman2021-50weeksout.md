@@ -184,11 +184,13 @@ Sadly, I didn’t realize that I shorted myself one lap until I got back to the 
 <ul class="iconlist">
 <li class="pr">2 Mile: 14:00</li>
 <li class="pr">1 Mile: 6:37</li>
-<li class="pr">1 KM: </li>
+<li class="pr">1 KM: 3:59</li>
 <li class="pr">.5 Mile: 3:11</li>
 <li class="pr">400 m: 92 seconds</li>
 </ul>
 
+**TIME IN HEARTRATE ZONES**
+![HR Zone Chart](/assets/png/IMG_0325.png)
 
 ## CURRENT TRAINING WEEK
 <ul class="iconlist">
