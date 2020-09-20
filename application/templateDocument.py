@@ -140,8 +140,8 @@ class RedirectDocument(HTML5Document):
 		anchor.innerHTML = 'return to the previous page.'
 		backward = P('If you do not want to visit that page, you can ')
 		backward.append(anchor)
-        self.head.append(META({"http-equiv":"Pragma","content":"no-cache"}))
-        self.head.append(META({"http-equiv":"Expires","content":"-1"}))
+		self.head.append(META({"http-equiv":"Pragma","content":"no-cache"}))
+		self.head.append(META({"http-equiv":"Expires","content":"-1"}))
 		self.head.append(META({"http-equiv":"Refresh","content":".3;url=%s" % self.url}))
 		self.head.append(TITLE(self.title))
 		self.head.append(LINK({'rel':'stylesheet','type':'text/css','media':'screen','href':'/assets/css/webtype_fonts.min.css'}))
