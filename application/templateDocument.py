@@ -86,9 +86,12 @@ class TemplateDocument(HTML5Document):
 		hash = hashlib.new('sha1')
 		hash.update(content)
 		return hash.hexdigest()[:7]
-		
+
 	def tohtml(self):
 		meta = []
+		if hasattr(self, 'nocache'):
+			meta.append({"http_equiv":"Pragma","content":"no-cache"})
+			meta.append({"http_equiv":"Expires","content":"-1"})
 		meta.append({"http_equiv":"Content-Type","content":"text/html;charset=utf-8"})
 		meta.append({"name":"viewport","content":"width=device-width,initial-scale=1,user-scalable=no"})
 		meta.append({"name":"x-version","content":self.version})
@@ -137,8 +140,9 @@ class RedirectDocument(HTML5Document):
 		anchor.innerHTML = 'return to the previous page.'
 		backward = P('If you do not want to visit that page, you can ')
 		backward.append(anchor)
-
-		self.head.append(META({"http-equiv":"refresh","content":".2;url=%s" % self.url}))
+        self.head.append(META({"http-equiv":"Pragma","content":"no-cache"}))
+        self.head.append(META({"http-equiv":"Expires","content":"-1"}))
+		self.head.append(META({"http-equiv":"Refresh","content":".3;url=%s" % self.url}))
 		self.head.append(TITLE(self.title))
 		self.head.append(LINK({'rel':'stylesheet','type':'text/css','media':'screen','href':'/assets/css/webtype_fonts.min.css'}))
 		self.head.append(LINK({'rel':'stylesheet','type':'text/css','media':'screen','href':'/assets/css/mstocco.css'}))

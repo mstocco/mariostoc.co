@@ -86,6 +86,7 @@ class Website:
 						else:
 							documentURIs.append(webpage.documentURI)
 					elif filename == 'index.md':
+						webpage.nocache = True
 						webpage.documentURI = basename.replace('.md', '.html')
 						documentURIs.append('%s/' % directory)
 					else:
@@ -93,6 +94,8 @@ class Website:
 					if hasattr(self, 'current'):
 						if webpage.documentURI != self.current:
 							webpage.navigation.current = {'href': self.current}
+						else:
+							webpage.nocache = True
 					webpage.handleMarkdown('%s%s' % (self.content, basename))
 					self.saveDocument(webpage)
 
