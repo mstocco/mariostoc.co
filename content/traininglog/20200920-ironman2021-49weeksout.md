@@ -8,7 +8,7 @@ Some more riding, some more running and more mobility.
 [Last week](ironman2021-50weeksout) I missed scheduled training on two days; my goal this week is get all of the activities in. 
 
 ## SUMMARY
-I feel like was... <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel like was...  
 <sup>(filled out at the end of the week)</sup>
 
 

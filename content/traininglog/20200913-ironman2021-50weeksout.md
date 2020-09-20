@@ -199,6 +199,6 @@ Sadly, I didn’t realize that I shorted myself one lap until I got back to the 
 
 ## PREVIOUS TRAINING WEEKS
 <ul class="iconlist">
-<li class="page"><a href=“ironman2021-51weeksout”>September 6, 2020 - 51 Weeks Out</a></li>
-<li class="page"><a href=“ironman2021-52weeksout”>August 30, 2020 - 52 Weeks Out</a></li>
+<li class="page"><a href="ironman2021-51weeksout">September 6, 2020 - 51 Weeks Out</a></li>
+<li class="page"><a href="ironman2021-52weeksout">August 30, 2020 - 52 Weeks Out</a></li>
 </ul>
