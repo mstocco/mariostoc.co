@@ -11,7 +11,7 @@ Some more riding, some more running and more mobility.
 I feel like was...  
 <sup>(filled out at the end of the week)</sup>
 
-## PREVIOUS TRAINING WEEKS
+## TRAINING WEEKS COMPLETED
 <ul class="iconlist">
 <li class="page"><a href="ironman2021-50weeksout">September 13, 2020 - 50 Weeks Out</a></li>
 <li class="page"><a href="ironman2021-51weeksout">September 6, 2020 - 51 Weeks Out</a></li>
