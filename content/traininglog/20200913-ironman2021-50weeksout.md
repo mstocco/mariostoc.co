@@ -16,7 +16,7 @@ The start and end of the work week had me struggle with energy.  Part of that is
 
 I did have a few moments of sadness throughout the week.
 
-![A really good _”runner’s high”_ even though I embarrassingly miss counted the total laps.](/assets/jpg/IMG_2815-977x550.jpg Saturday’s 4600m Workout)
+![A really good ”runner’s high” even though I embarrassingly miscounted the total laps.](/assets/jpg/IMG_2815-977x550.jpg Saturday’s 4600m Workout)
 
 ## SUNDAY SEP 13
 Sleep **3** | Fatigue **2** | Stress **2** | Soreness **4** 
@@ -70,7 +70,6 @@ Total Time: **50 minutes**
 I had an _"ok"_ sleep last night but today was a bit of a frustrating day at work as I did get myself into a grumpy state by not stopping for lunch at a decent time.
 
 I did 50 minutes of steady state pedalling this evening, using the road bike on the rollers.  The top of my right knee cap was _mildly tender_ through the first 24 minutes and from then on, everything felt good.  At least until the saddle started to become noticable after ~40 minutes. The tire pressure was low for rollers so (I think) it was a good workout. I chose rollers over outside because of the lingering smoke in the air.
-
 
 <!---->
 ## WEDNESDAY SEP 16
@@ -164,19 +163,17 @@ So it was boys soccer that had the infield this afternoon; that meant I'd have a
 
 The warm up was done according to the write up and I felt good.  With my heartrate back down to normal, it was time to see where my fitness is at.
 
-This was a tale of every second lap.  The start of the second lap, everything is good.  On the fourth lap, I have settled into a rhythm.  At the start of lap six, I am feeling the fade beginning.  On the eighth lap, life is starting to suck pretty bad and it is too early to be feeling this bad.  On the 10th lap, I am really fighting the urge to walk.
+This was a tale of every second lap.  The start of the second lap, everything is good.  On the fourth lap, I have settled into a rhythm.  At the start of lap six, I am feeling the fade coming on.  On the eighth lap, life is starting to suck pretty bad and it is too early to be feeling this bad.  On the 10th lap, I am really fighting the urge to walk.
 
 _"Just two more laps then a back straight, I can do this."_
+<!——>
+Eleventh lap, I am hanging on and as I crossed the start-line on the home stretch, I press the lap button on my watch.  I look and the lap indicator, it reads, _"12/12"_.  So if I have done 12, then I just have this back stretch to do.  I muster up a push that would make Tim Noakes proud and hit the _"stop button"_ as I cross the half lap line.  **20:54.8**
 
-Eleventh lap, I am hanging on and as I crossinthe line on the home stretch, I press the lap button on my watch.  I look and the lap indicator, it reads, _"12/12"_.  If I have done 12, then I just have this back stretch to do.  I muster up a push that would make Tim Noakes proud and hit the _"stop button"_ as I cross the half lap line.  **20:54.8**
-
-I did realize that I shorted myself one lap until I got back into the truck to drive home.
+I didn’t realize that I shorted myself one lap until I got back into the truck to drive home.
 
 ### My Take Aways
 1. Learn to count all the way to 12.
 2. I'll achieve this mini-goal of getting a 5K PR, I just need to keep showing up.
-
-
 
 <!---->
 ## LAST COUPLE WEEKS
