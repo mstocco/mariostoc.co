@@ -11,7 +11,7 @@ a:visited {color:black;}
 div, a:hover, a:active, a:focus {outline:0;}
 strong {font-weight:bold;}
 blockquote {background-color:#efefef;font-size:1.115rem;margin:16px 0;padding:0.25rem 0 0.25rem 0.5rem;}
-ol {list-style-type:decimal;margin:0;padding:0;}
+ol {list-style-type:decimal;margin:0 0 0 15px;padding:0;}
 ul {list-style-type:square;margin:0;padding:0;}
 li {line-height:1.25;margin-bottom:3px;width:100%;}
 ul {margin:0 0 1.5rem 0;padding-left:1rem;}
