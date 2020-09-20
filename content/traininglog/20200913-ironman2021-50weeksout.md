@@ -16,15 +16,8 @@ The start and end of the work week had me struggle with energy.  Part of that is
 
 I did have a few moments of sadness throughout the week.
 
-![Saturday’s 4600m Workout](/assets/jpg/IMG_2815-977x550.jpg A really good _”runner’s high”_ even though I embarrassingly miss counted the total laps.)
+![A really good _”runner’s high”_ even though I embarrassingly miss counted the total laps.](/assets/jpg/IMG_2815-977x550.jpg Saturday’s 4600m Workout)
 
-## LAST COUPLE WEEKS
-<ul class="iconlist">
-<li class="page"><a href="ironman2021-51weeksout">September 6, 2020 - 51 Weeks Out</a></li>
-<li class="page"><a href="ironman2021-52weeksout">August 30, 2020 - 52 Weeks Out</a></li>
-</ul>
-
-<!---->
 ## SUNDAY SEP 13
 Sleep **3** | Fatigue **2** | Stress **2** | Soreness **4** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -62,7 +55,7 @@ Flexibility Routine V3! showed me that my hamstrings are tight and the straddle 
 
 Today was another smoky day but a light rain started at 16:30; hopefully that will clear out the air.
 
-I struggled with motivation today and ended up woring longer on the keyboard.
+I struggled with motivation today and ended up working longer on the keyboard.
 <!---->
 ## TUESDAY SEP 15
 Sleep **2** | Fatigue **2** | Stress **4** | Soreness **4** 
@@ -109,13 +102,14 @@ Distance: **7.5 km** &nbsp; Pace: **5:35/km** &nbsp; Time: **42:00**
 
 I did the Cyclist Flexibility Routine _after_ the run; which 
 served to highlight my asymmetries!
+
 <!---->
 ## THURSDAY SEP 17
 Sleep **2** | Fatigue **3** | Stress **3** | Soreness **5** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Run 30 minutes. ' Flat route. EASY effort.
+Run 30 minutes. Flat route. EASY effort.
 
 ### NOTES
 Total Time: **30 minutes**
@@ -185,3 +179,8 @@ I did realize that I shorted myself one lap until I got back into the truck to d
 
 
 <!---->
+## LAST COUPLE WEEKS
+<ul class=“iconlist”>
+<li class=“page”><a href=“ironman2021-51weeksout”>September 6, 2020 - 51 Weeks Out</a></li>
+<li class=“page”><a href=“ironman2021-52weeksout”>August 30, 2020 - 52 Weeks Out</a></li>
+</ul>
