@@ -12,9 +12,9 @@ another week to build on good habits and get a
 ## SUMMARY
 I feel like was **MOVING FORWARD**.
 
-The start and end of the work week had me struggle with energy.  Part of that is work itself and part of it is on me.  After acknowledging those two days, I have five other days that I can look back on that tell a story of me bouncing back to a more consistent routine.  Mobility and strides have been put back into place this week.  I also got a new pair of shoes that are fun to run in.
+The start and end of the work week, I struggled with my energy.  Part of that is the load at work and part of that is on me.  After acknowledging those two days, I have five other days that I can look back on that tell a story of me bouncing back to a more consistent routine.  Mobility and strides were put back into place this week.  I also got a new pair of shoes that are fun to run in.
 
-I did have a few moments of sadness throughout the week.
+I did have a few moments of sadness throughout this week too.
 
 ![A really good ”runner’s high” even though I embarrassingly miscounted the total laps.](/assets/jpg/IMG_2815-977x550.jpg Saturday’s 4600m Workout)
 
@@ -163,14 +163,15 @@ So at PISE, it was boys soccer that had the infield this afternoon; that meant I
 
 The warm up was done (so I thought) according to the write up and I felt good.  With my heartrate back down to normal, it was time to see where my fitness is at.
 
-This was a tale of every second lap.  The start of the second lap, everything is good.  On the fourth lap, I have settled into a rhythm.  At the start of lap six, I am feeling the fade coming on.  On the eighth lap, life is starting to suck pretty bad and it is too early to be feeling this bad.  On the 10th lap, I am _REALLY_ fighting the urge to walk.
+This was a tale of every second lap.  The start of the second lap, everything is good.  On the fourth lap, I have settled into a rhythm.  At the start of lap six, I am feeling the fade coming on.  On the eighth lap, life is starting to suck pretty bad and it is too early to be feeling this bad.
 
+On the 10th lap, I am _REALLY_ fighting the urge to walk.
+<!---->
 _"Just two more laps then a back straight, I can do this!"_
 
-<!---->
 Eleventh lap, I am hanging on and as I crossed the start-line on the home stretch, I again, press the lap button on my watch.  I look and the lap indicator, it reads, _"12/12"_.  So if I have done 12, then I just have this back stretch to do.  I muster up a push that would make Tim Noakes proud and hit the _"stop button"_ as I cross the half lap line.  **20:54.8**
 
-I didn’t realize that I shorted myself one lap until I got back into the truck to drive home.  Damn it.
+Sadly, I didn’t realize that I shorted myself one lap until I got back into the truck to drive home.  Damn it.
 
 ### My Take Aways
 1. Learn to count all the way to 12.
