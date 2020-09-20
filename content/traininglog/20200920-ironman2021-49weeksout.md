@@ -5,11 +5,18 @@ Week beginning Sunday, September 20, 2020
 
 ## WEEKLY GOAL
 Some more riding, some more running and more mobility.
-[Last week](ironman2021-50weeksout) I missed scheduled training on two days; my goal this week is get all of the activities in. 
+[Last week](ironman2021-50weeksout), I missed scheduled training on two days; my goal this week is get all of the activities in. 
 
 ## SUMMARY
 I feel like was...  
 <sup>(filled out at the end of the week)</sup>
+
+## PREVIOUS TRAINING WEEKS
+<ul class="iconlist">
+<li class="page"><a href="ironman2021-50weeksout">September 13, 2020 - 50 Weeks Out</a></li>
+<li class="page"><a href="ironman2021-51weeksout">September 6, 2020 - 51 Weeks Out</a></li>
+<li class="page"><a href="ironman2021-52weeksout">August 30, 2020 - 52 Weeks Out</a></li>
+</ul>
 
 
 <!---->
