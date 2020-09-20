@@ -190,7 +190,7 @@ Sadly, I didn’t realize that I shorted myself one lap until I got back to the 
 </ul>
 
 ### TIME IN HEARTRATE ZONES
-![HR Zone Chart](/assets/png/IMG_0325.png)
+![HR Zone Chart](/assets/jpg/IMG_0325-340.jpg)
 
 ## CURRENT TRAINING WEEK
 <ul class="iconlist">
