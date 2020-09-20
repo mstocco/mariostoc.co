@@ -4,15 +4,17 @@ Week beginning Sunday, September 20, 2020
 **49 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-&mdash; 
+Some more riding, some more running and more mobility.
+[Last week](ironman2021-50weeksout) I missed scheduled training on two days; my goal this week is get all of the activities in. 
 
 ## SUMMARY
 I feel like was... <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+<sup>(filled out at the end of the week)</sup>
 
 
 <!---->
 ## SUNDAY SEP 20
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
+Sleep **3** | Fatigue **3** | Stress **2** | Soreness **4** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -32,7 +34,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Mobility: 20 minutes  
+Run 30 minutes. Flat and easy 
 
 ### NOTES
 Total Time: **0 minutes**
@@ -46,7 +49,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Rollers ~ 45 minutes. Easy spinning. Nothing too hard.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -60,7 +63,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Mobility: 15 minutes  
+Run 30 minutes flat and easy.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -74,7 +78,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Hilly road ride or Fun MTB ~ 75-90 minutes. Easy effort on the flats/downhills, more of a moderate effort on the uphills.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -88,7 +92,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Mobility: 15 minutes  
+Run 50 minutes: 30 minutes easy running to warm up. 8x :30 uphill strides a touch stronger than 5k effort, 1:00 easy downhill jog after each. 8 minutes easy running to cool down.
 
 ### NOTES
 Total Time: **0 minutes**

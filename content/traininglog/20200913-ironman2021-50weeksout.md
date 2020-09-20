@@ -189,7 +189,7 @@ Sadly, I didn’t realize that I shorted myself one lap until I got back to the 
 <li class="pr">400 m: 92 seconds</li>
 </ul>
 
-**TIME IN HEARTRATE ZONES**
+### TIME IN HEARTRATE ZONES
 ![HR Zone Chart](/assets/png/IMG_0325.png)
 
 ## CURRENT TRAINING WEEK
