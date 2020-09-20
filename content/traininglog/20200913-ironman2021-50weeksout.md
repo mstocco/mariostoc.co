@@ -159,7 +159,7 @@ accept that is still my reality at this point.
 
 The mobility routine I chose before heading out was Tom Merrick's [20 Minute Full Body Flexibility Routine](https://youtu.be/lPKRiU9u_Hc).
 
-The weather today was a humid 18&#8451; with a breeze from the south west.
+The weather today was a humid 18&#8451; (64&#8457;) with a breeze from the south west.
 
 So at PISE (a local running track), it was boys soccer that had the infield this afternoon; that meant I'd have an audience of kids and parents to watch me suffer for a bit.  I only hope that I can be entertaning for them.
 
@@ -167,9 +167,9 @@ The warm up was done (so I thought) according to the write up and I felt good.  
 
 This was a tale of every second lap.  The start of the second lap, everything is good.  On the fourth lap, I have settled into a rhythm.  At the start of lap six, I am feeling the fade coming on.  On the eighth lap, life is starting to suck pretty bad and it is too early to be feeling this bad.
 <!---->
-On the 10th lap, I am **REALLY** fighting the urge to walk. _"Just two more laps then a back straight, I can do this!"_
+On the 10th lap, I am REALLY fighting the urge to walk. _"Just two more laps then a back straight, I can do this!"_
 
-Eleventh lap, I am hanging on and as I crossed the start-line on the home stretch, I again, press the lap button on my watch.  I look and the lap indicator, it reads, _"12/12"_.  So if I have done 12, then I just have this back stretch to do.  I muster up a push that would make Tim Noakes proud and hit the _"stop button"_ as I cross the half lap line.  **20:54.8**
+Eleventh lap, I am just hanging on as I crossed the start-line on the home stretch; I again, press the lap button on my watch.  I look and the lap indicator, it reads, _"12/12"_.  So if I have done 12, then I just have this back stretch to do.  I muster up a push that would make Tim Noakes proud and hit the _"stop button"_ as I cross the half lap line.  **20:54.8**
 
 Sadly, I didn’t realize that I shorted myself one lap until I got back into the truck to drive home.  Damn it.
 
