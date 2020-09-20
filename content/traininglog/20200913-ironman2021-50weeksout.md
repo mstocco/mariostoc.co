@@ -159,7 +159,7 @@ accept that is still my reality at this point.
 
 The mobility routine I chose before heading out was Tom Merrick's [20 Minute Full Body Flexibility Routine](https://youtu.be/lPKRiU9u_Hc).
 
-So at PISE, it was boys soccer that had the infield this afternoon; that meant I'd have an audience of kids and parents to watch me suffer for a bit.  I only hope that I can be entertaning for them.
+So at PISE (a local running track), it was boys soccer that had the infield this afternoon; that meant I'd have an audience of kids and parents to watch me suffer for a bit.  I only hope that I can be entertaning for them.
 
 The warm up was done (so I thought) according to the write up and I felt good.  With my heartrate back down to normal, it was time to see where my fitness is at.
 
@@ -175,7 +175,7 @@ Sadly, I didn’t realize that I shorted myself one lap until I got back into th
 
 ### My Take Aways
 1. Learn to count all the way to 12.
-2. I'll achieve this mini-goal of getting a 5K PR, I just need to keep showing up.
+2. I will get a 5K PR before the end of this year; I just need to keep showing up.
 3. Even if I didn’t get the full distance in this afternoon, I do have lap time data and a good training stimulus out of the activity.
 4. Maybe slow down a bit on the _“warm up”._
 
