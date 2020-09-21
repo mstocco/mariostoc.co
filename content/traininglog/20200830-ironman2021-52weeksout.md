@@ -49,7 +49,7 @@ time to come but all things considering, this was a good week.
 <li class="page"><a href="latest">September 20, 2020 - 49 Weeks Out</a></li>
 </ul>
 
-![Ironman Canada confirmation email](/assets/jpg/wtc-email-493x550.jpg)
+![](/assets/jpg/wtc-email-493x550.jpg)
 
 ## SUNDAY AUG 30
 Sleep **1** | Fatigue **4** | Stress **5** | Soreness **4** 
