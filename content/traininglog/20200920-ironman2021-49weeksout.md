@@ -34,12 +34,13 @@ Total Time: **120 minutes**
 
 There was an option for a MTB ride an I took it after an inspection of the front wheel on the road bike.  Before I headed out, I had a flat to repair; that caused a nasty gash across 2 fingers.  Grrrr...
 
-I headed out toward Thetis without much of a plan except to be out for 90 minutes.  The park was busy with people.  I skipped my favourite single track and took the fire road to the base of Mount Stewart.  To that point, I had been pedalling for 40 minutes.  
+I headed out toward Thetis without much of a plan except to be out for 90 minutes.  The park was busy with people.  I skipped my favourite single track and took the fire road to the base of Mount Stewart.  By that point, I had been pedalling for 40 minutes.  
 <!---->
 From the base, I walked my bike up the steep sections until I got to the summit. After a bit of time soaking in the sunshine, I headed back down to Scafe Hill, then to Bellamy and the fireroad route out of the Thetis Lake Park.
 
 I took it easy as I am naturally fatigued from yesterday’s effort.  This was a really fun ride and as the trails are dry (for now)
 
+![Map of Sunday's Ride](/assets/jpg/IMG_0333-3.jpg)
 <!---->
 ## MONDAY SEP 21
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
