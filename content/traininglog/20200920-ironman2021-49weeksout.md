@@ -1,5 +1,5 @@
 # IRONMAN TRAINING 2021
-Week beginning Sunday, September 20, 2020
+Week beginning [Sunday, September 20, 2020](javascript:flkty.select(3);)
 
 **49 weeks** until IRONMAN Canada.
 
@@ -38,7 +38,7 @@ I headed out toward Thetis without much of a plan except to be out for 90 minute
 <!---->
 From the base, I walked my bike up the steep sections until I got to the summit. After a bit of time soaking in the sunshine, I headed back down to Scafe Hill, then to Bellamy and the fireroad route out of Thetis Lake Park.
 
-I took it easy as I am naturally fatigued from yesterday’s effort.  This was a really fun ride and as the trails are dry (for now)
+I took it easy as I am naturally fatigued from yesterday’s effort.  This was **a really fun ride** and as the trails are dry (for now)
 
 ![Map of Sunday's Ride](/assets/jpg/IMG_0333-3.jpg)
 <!---->
