@@ -34,12 +34,11 @@ Total Time: **120 minutes**
 
 There was an option for a MTB ride an I took it after an inspection of the front wheel on the road bike.  Before I headed out, I had a flat to repair; that caused a nasty gash across 2 fingers.  Grrrr...
 
-I headed out toward Thetis without much of a plan except to be out for 90 minutes.  The park was busy with people and I skipped the single track and headed to the base of Mount Stewart.  At that point, I had been pedalling for 40 minutes.  From the base, I walked my bike up
+I headed out toward Thetis without much of a plan except to be out for 90 minutes.  The park was busy with people.  I skipped my favourite single track and took the fire road to the base of Mount Stewart.  To that point, I had been pedalling for 40 minutes.  
 <!---->
-the steep sections until I got to the summit.  After a bit of time soaking in the sunshine, I headed back down Scafe Hill, to Bellamy and back on my normal route out of the park.
+From the base, I walked my bike up the steep sections until I got to the summit. After a bit of time soaking in the sunshine, I headed back down Scafe Hill, to Bellamy and back on my normal route out of the park.
 
-I took it easy as I am naturally fatigued from yesterday’s effort
-
+I took it easy as I am naturally fatigued from yesterday’s effort.
 
 <!---->
 ## MONDAY SEP 21
