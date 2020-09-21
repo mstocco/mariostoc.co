@@ -18,8 +18,8 @@ I feel like was...
 <li class="page"><a href="ironman2021-52weeksout">August 30, 2020 - 52 Weeks Out</a></li>
 </ul>
 
+![I had nice weather for Sunday's MTB ride.](/assets/jpg/IMG_2821-977x550.jpg Looking East from Mount Stewart)
 
-![Looking East from Mount Stewart](/assets/jpg/IMG_2821-977x550.jpg I had nice weather for Sunday's MTB ride.)
 ## SUNDAY SEP 20
 Sleep **3** | Fatigue **3** | Stress **2** | Soreness **4** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
