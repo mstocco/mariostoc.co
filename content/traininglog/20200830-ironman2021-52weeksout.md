@@ -1,5 +1,5 @@
 # IRONMAN TRAINING 2021
-Week beginning Sunday, August 30, 2020
+Week beginning [Sunday, August 30, 2020](javascript:flkty.select(4);)
 
 **52 weeks** until IRONMAN Canada.
 
@@ -38,17 +38,18 @@ too.
 The heavy heart is still there, and likely will be there for some
 time to come but all things considering, this was a good week.
 
-## NEXT TRAINING WEEK
+## NEXT TWO TRAINING WEEKS
 <ul class="iconlist">
+<li class="page"><a href="ironman2021-50weeksout">September 13, 2020 - 50 Weeks Out</a></li>
 <li class="page"><a href="ironman2021-51weeksout">September 6, 2020 - 51 Weeks Out</a></li>
 </ul>
 
 ## CURRENT TRAINING WEEK
 <ul class="iconlist">
-<li class="page"><a href="ironman2021-50weeksout">September 13, 2020 - 50 Weeks Out</a></li>
+<li class="page"><a href="latest">September 20, 2020 - 49 Weeks Out</a></li>
 </ul>
 
-![](/assets/jpg/wtc-email-493x550.jpg)
+![Ironman Canada confirmation email](/assets/jpg/wtc-email-493x550.jpg)
 
 ## SUNDAY AUG 30
 Sleep **1** | Fatigue **4** | Stress **5** | Soreness **4** 
