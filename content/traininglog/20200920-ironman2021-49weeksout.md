@@ -43,7 +43,7 @@ I took it easy as I am naturally fatigued from yesterday’s effort.  This was *
 ![Map of Sunday's Ride](/assets/jpg/IMG_0333-3.jpg)
 <!---->
 ## MONDAY SEP 21
-Sleep **4** | Fatigue **3** | Stress **2** | Soreness **5** 
+Sleep **4** | Fatigue **5** | Stress **2** | Soreness **5** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -59,7 +59,7 @@ I did a lap of Swan Lake.  I walked for 5 minutes before hitting start on the wa
 
 <!---->
 ## TUESDAY SEP 22
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
+Sleep **2** | Fatigue **5** | Stress **3** | Soreness **5** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -68,7 +68,7 @@ Rollers ~ 45 minutes. Easy spinning. Nothing too hard.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I slept well last night.
 
 
 <!---->
