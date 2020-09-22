@@ -51,10 +51,11 @@ Mobility: 20 minutes
 Run 30 minutes. Flat and easy 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **30 minutes**
 
 I had a so-so sleep last night even though the Seahawk beat the Patriots with a defensive stand on the last play.  I am particularly tight in my left hip and need time with the lacrosse ball to get the tissue to calm down.
 
+I did a lap of Swan Lake.  I walked for 5 minutes before hitting start on the watch, jogged for 31 minutes and walked for five minutes after.  I picked the trail over the road because I am more sore today than I was yesterday.  My motivation wasn't all that high but I remembered my goal of getting all the workouts in this week and out the door I went.  I am glad I did too because the rain is coming, likely tomorrow.
 
 <!---->
 ## TUESDAY SEP 22
