@@ -251,13 +251,17 @@ _"stop button"_ as I cross the half lap line.  **20:54.8**
 Sadly, I didn't realize that I shorted myself one lap until I 
 got back to the truck for the drive home.  Damn it.
 
+### Pace per Lap
+![Lap Pace Chart](/assets/jpg/4600m-lap-chart.jpg)
+
+<!---->
 ### MY TAKE AWAYS
 * Learn to count all the way to 12.
 * I will get that 5K PR before the end of this year; I just need to keep showing up.
 * Even if I didn't get the full distance in this afternoon, I do have lap time data and a good training stimulus out of the activity.
 * Maybe slow down a bit on the _"warm up"_.
 
-<!---->
+
 ### OIHER TAKE AWAYS
 <ul class="iconlist">
 <li class="pr">2 Mile: 14:00</li>
@@ -267,13 +271,10 @@ got back to the truck for the drive home.  Damn it.
 <li class="pr">400 m: 92 seconds</li>
 </ul>
 
-### Pace per Lap
-![Lap Pace Chart](/assets/jpg/4600m-lap-chart.jpg)
-
 ### TIME IN HEARTRATE ZONES
 ![HR Zone Chart](/assets/jpg/IMG_0325-340.jpg)
 
----
+<!---->
 ## CURRENT TRAINING WEEK
 <ul class="iconlist">
 <li class="page"><a href="ironman2021-49weeksout">September 20, 2020 - 49 Weeks Out</a></li>
