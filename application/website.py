@@ -80,7 +80,7 @@ class Website:
 					if len(filename) > 9:
 						if filename[:8].isnumeric():
 							webpage.lastModified = int(filename[:8])
-							webpage.documentURI =webpage.documentURI.replace(filename[:9], '')
+							webpage.documentURI = webpage.documentURI.replace(filename[:9], '')
 							if webpage.lastModified <= self.today:
 								documentURIs.append(webpage.documentURI)
 						else:

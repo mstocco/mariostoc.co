@@ -25,11 +25,20 @@ class TemplateDocument(HTML5Document):
 		"""
 		with open(contentPath, 'r', encoding='utf-8') as fileobj:
 			content = fileobj.read().strip()
-		for line in content.split('\n'):
-			if len(line) > 1 and line[0] == '#':
-				self.title = line.replace('#', '').strip()
-				self.opengraph.title = self.title
-				break
+		
+		if self.documentURI.find('/traininglog/ironman') == 0:
+			week = self.documentURI.split('-')[1].split('week')[0]
+			if week == 'race':
+				self.title = 'IRONMAN CANADA RACE WEEK'
+			else:
+				self.title = "TRAINING LOG: %s WEEKS TO IMC 2021" % week
+			self.opengraph.title = self.title
+		else:
+			for line in content.split('\n'):
+				if len(line) > 1 and line[0] == '#':
+					self.title = line.replace('#', '').strip()
+					self.opengraph.title = self.title
+					break
 		lines = []
 		for line in content.split('\n'):
 			if getattr(self, 'title', None):
