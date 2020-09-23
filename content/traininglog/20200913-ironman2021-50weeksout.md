@@ -255,6 +255,9 @@ got back to the truck for the drive home.  Damn it.
 ![Lap Pace Chart](/assets/jpg/4600m-lap-chart.jpg)
 
 <!---->
+### TIME IN HEARTRATE ZONES
+![HR Zone Chart](/assets/jpg/IMG_0325-340.jpg)
+
 ### MY TAKE AWAYS
 * Learn to count all the way to 12.
 * I will get that 5K PR before the end of this year; I just need to keep showing up.
@@ -262,7 +265,7 @@ got back to the truck for the drive home.  Damn it.
 * Maybe slow down a bit on the _"warm up"_.
 
 
-### OIHER TAKE AWAYS
+### OTHER TAKE AWAYS
 <ul class="iconlist">
 <li class="pr">2 Mile: 14:00</li>
 <li class="pr">1 Mile: 6:37</li>
@@ -271,8 +274,6 @@ got back to the truck for the drive home.  Damn it.
 <li class="pr">400 m: 92 seconds</li>
 </ul>
 
-### TIME IN HEARTRATE ZONES
-![HR Zone Chart](/assets/jpg/IMG_0325-340.jpg)
 
 <!---->
 ## CURRENT TRAINING WEEK
