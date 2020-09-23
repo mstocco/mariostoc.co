@@ -76,8 +76,8 @@ This was the first ride on the TT bike since Elk Lake in August and it **felt re
 
 
 <!---->
-## WEDNESDAY SEP 23
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
+## MY 49TH BIRTHDAY
+Sleep **2** | Fatigue **3** | Stress **3** | Soreness **4** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -87,7 +87,7 @@ Run 30 minutes flat and easy.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Another night with a restful sleep.  I am still a bit tight through the hips and piriformis.  I'll roll out well before heading out on my jog.
 
 
 <!---->
