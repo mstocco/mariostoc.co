@@ -1438,7 +1438,11 @@ class Markdown(object):
                         if self.safe_mode and not safe_link:
                             result_head = '<a href="#"%s>' % (title_str)
                         else:
-                            result_head = '<a href="%s"%s>' % (_html_escape_url(url, safe_mode=self.safe_mode), title_str)
+                            href = _html_escape_url(url, None)
+                            if href.find('http') == 0:
+                                result_head = '<a href="%s"%s target="_blank" rel="noreferrer">' % (href, title_str)
+                            else:  
+                                result_head = '<a href="%s"%s>' % (href, title_str)
                         result = '%s%s</a>' % (result_head, link_text)
                         if "smarty-pants" in self.extras:
                             result = result.replace('"', self._escape_table['"'])
@@ -1493,7 +1497,11 @@ class Markdown(object):
                             if self.safe_mode and not self._safe_protocols.match(url):
                                 result_head = '<a href="#"%s>' % (title_str)
                             else:
-                                result_head = '<a href="%s"%s>' % (_html_escape_url(url, safe_mode=self.safe_mode), title_str)
+                                href = _html_escape_url(url, None)
+                                if href.find('http') == 0:
+                                    result_head = '<a href="%s"%s target="_blank" rel="noreferrer">' % (href, title_str)
+                                else:  
+                                    result_head = '<a href="%s"%s>' % (href, title_str)
                             result = '%s%s</a>' % (result_head, link_text)
                             if "smarty-pants" in self.extras:
                                 result = result.replace('"', self._escape_table['"'])
@@ -2265,7 +2273,7 @@ class Markdown(object):
                         # To avoid markdown <em> and <strong>:
                         .replace('*', self._escape_table['*'])
                         .replace('_', self._escape_table['_']))
-                link = '<a href="%s">%s</a>' % (escaped_href, text[start:end])
+                link = '<a href="%s" target="_blank" rel="noreferrer">%s</a>' % (escaped_href, text[start:end])
                 hash = _hash_text(link)
                 link_from_hash[hash] = link
                 text = text[:start] + hash + text[end:]
