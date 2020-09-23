@@ -30,9 +30,9 @@ class TemplateDocument(HTML5Document):
 			week = self.documentURI.split('-')[1].split('week')[0]
 			if week == 'race':
 				self.title = 'IRONMAN CANADA RACE WEEK'
-				self.description = "This is the my final training week before Ironman Canada 2021"
+				self.description = "This is Ironman Canada race week 2021!"
 			else:
-				self.title = "%s WEEKS TO IMC 2021" % week
+				self.title = "IMCanada Training %s Weeks To Go" % week
 				self.description = "My week of training with %s weeks to go before IRONMAN Canada-Penticton" % week
 			self.opengraph.title = self.title
 		else:
