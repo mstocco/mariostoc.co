@@ -66,9 +66,13 @@ Sleep **2** | Fatigue **5** | Stress **3** | Soreness **5**
 Rollers ~ 45 minutes. Easy spinning. Nothing too hard.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **70 minutes**
 
-I slept well last night.
+I slept well last night and woke up feeling rested though I do have some lingering soreness from the weekend.
+
+The workout today called for rollers but I was done work early and the weather was nice so I prepped the TT Bike and went for a spin.  I figured if I was scheduled for 45 minutes on the rollers, I should be looking at a little longer than an hour outside and not on an overly hilly route.  I headed out to Langford before looping back through Esquimalt.
+
+This was the first ride on the TT bike since Elk Lake in August and it felt really good.
 
 
 <!---->
