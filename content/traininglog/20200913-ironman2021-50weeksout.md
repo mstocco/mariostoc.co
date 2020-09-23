@@ -267,6 +267,9 @@ got back to the truck for the drive home.  Damn it.
 <li class="pr">400 m: 92 seconds</li>
 </ul>
 
+### Pace per Lap
+![Lap Pace Chart](/assets/jpg/4600m-lap-chart.jpg)
+
 ### TIME IN HEARTRATE ZONES
 ![HR Zone Chart](/assets/jpg/IMG_0325-340.jpg)
 
