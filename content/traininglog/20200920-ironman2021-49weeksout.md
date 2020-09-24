@@ -89,11 +89,11 @@ Total Time: **30 minutes**
 
 Another night with a restful sleep.  I am still a bit tight through the hips and piriformis.  I'll roll out well before heading out on my jog.
 
-So the **rain** is here.  I headed out for a 30 minute jog to the center of the trestle and back.  The effort was scheduled as easy and for the most part, it was; my breathing was easy and my focus was on running comfortably.  I ended with 30 minutes at **5:35/km** which seems like a touch fast (or the new normal).  If anything was complaining, it is the usual suspects of soleus and ankles and I felt better than Monday. 
+So the **rain** is here.  I headed out for a 30 minute jog to the center of the trestle and back.  The effort was scheduled as easy and for the most part, it was; my breathing was easy and my focus was on running comfortably.  I ended with 30 minutes at **5:35/km** which seems like a touch fast (or the new normal).  If anything was complaining, it is the usual suspects of soleus and ankles but I **felt a lot better** than Monday. 
 
 <!---->
 ## THURSDAY SEP 24
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
+Sleep **4** | Fatigue **3** | Stress **3** | Soreness **3** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -102,7 +102,7 @@ Hilly road ride or Fun MTB ~ 75-90 minutes. Easy effort on the flats/downhills, 
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+A little _"vino rosso"_ at last night's birthday dinner may have made my sleep feel a bit off.  It is a rain day and I will need to play bike mechanic before heading out after work.
 
 
 <!---->
