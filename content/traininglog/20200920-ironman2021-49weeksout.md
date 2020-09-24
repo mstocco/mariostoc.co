@@ -104,6 +104,7 @@ Total Time: **0 minutes**
 
 A little _"vino rosso"_ at last night's birthday dinner may have made my sleep feel a bit off.  It is a rain day and I will need to play bike mechanic before heading out after work.
 
+UPDATE: I got the ok to ride the rollers tonight.
 
 <!---->
 ## FRIDAY SEP 25
@@ -126,7 +127,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Ride 2:00. Flatter roads. Road or TT bike. Whatever sounds more fun.
 
 ### NOTES
 Total Time: **0 minutes**

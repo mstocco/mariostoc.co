@@ -16,7 +16,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Mobility: 20 minutes  
+Run 70 minutes. Hilly route. On trails would be nice. But not mandatory. Keep the effort EASY. And bring a gel. Always good to practice.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -30,7 +31,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+23 Minutes of mobility.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -44,7 +45,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Rollers ~ 60 minutes. Easy spinning. You can head outside if you like. But this is to save some time.  
+Run (can be directly before or after the ride) 30 minutes. Flat route. Easy effort.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -58,7 +60,13 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Mobility: 12 minutes  
+Run @ Track.  
+* 15 minutes easy to warm up. 
+* 5x 100 meter strides a touch slower than 5k effort, 100 meter EASY jog. 
+* 3x 300 @ 5k effort/pace. 1:17-1:21 is a good goal. 100 meter WALK. This is all a warm up. Going faster will only hurt the actual workout. 
+* 20 minutes tempo @ 1/2 marathon effort/feel. Please try and keep things under control. Especially the first 2k or so. 
+* 15 minutes easy running to cool down. 
 
 ### NOTES
 Total Time: **0 minutes**
@@ -72,7 +80,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Ride 1:15 on the MTB or on some hilly roads. Overall an easy/fun effort. I'm sure you'll be fairly tired from the day before. Please hold back on this ride!
 
 ### NOTES
 Total Time: **0 minutes**
@@ -86,7 +94,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Mobility: 20 minutes  
+Run 40 minutes. Flat route. EASY effort.
 
 ### NOTES
 Total Time: **0 minutes**
