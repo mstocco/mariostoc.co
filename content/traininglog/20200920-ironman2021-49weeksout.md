@@ -85,10 +85,11 @@ Mobility: 15 minutes
 Run 30 minutes flat and easy.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **30 minutes**
 
 Another night with a restful sleep.  I am still a bit tight through the hips and piriformis.  I'll roll out well before heading out on my jog.
 
+So the **rain** is here.  I headed out for a 30 minute jog to the center of the trestle and back.  The effort was scheduled as easy and for the most part, it was; my breathing was easy and my focus was on running comfortably.  I ended with 30 minutes at **5:35/km** which seems like a touch fast (or the new normal).  If anything was complaining, it is the usual suspects of soleus and ankles and I felt better than Monday. 
 
 <!---->
 ## THURSDAY SEP 24
