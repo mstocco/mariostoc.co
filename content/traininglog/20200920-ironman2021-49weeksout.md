@@ -109,7 +109,7 @@ UPDATE: I got the ok to ride the rollers tonight.
 
 <!---->
 ## FRIDAY SEP 25
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
+Sleep **2** | Fatigue **3** | Stress **3** | Soreness **** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
