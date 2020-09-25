@@ -13,7 +13,7 @@ parser = argparse.ArgumentParser()
 subparsers = parser.add_subparsers(dest="action", help='________________________')
 subparsers.add_parser('clean', help='Removes previously published documents')
 subparsers.add_parser('publish', help='Walks the content directory and creates documents')
-subparsers.add_parser('jpeg', help='Resize, crop, file JPEG files')
+subparsers.add_parser('makeall', help='Clean and publish')
 parser.parse_args(namespace=website)
 
 ## Let's do this

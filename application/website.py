@@ -174,8 +174,8 @@ class Website:
 		if hasattr(self, 'action'):
 			if self.action == 'clean':
 				return self.clean()
-			if self.action == 'jpeg':
-				return
+			if self.action == 'makeall':
+				self.clean()
 		self.publish()
 		return
 
