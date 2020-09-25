@@ -90,6 +90,7 @@ footer p {font-size:0.7em;color#aaa;margin-left:10px;}
 .agencyvc {
  font-family:AgencyVC-Bold,Helvetica,Arial,sans-serif;
  text-transform:uppercase;
+ font-size:0.85em;
  justify-content:space-between;
  -webkit-font-smoothing:antialiased;
  -moz-osx-font-smoothing:grayscale;
