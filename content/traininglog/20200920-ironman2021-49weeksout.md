@@ -106,6 +106,8 @@ A little _"vino rosso"_ at last night's birthday dinner may have made my sleep f
 
 UPDATE: I got the ok to ride the rollers tonight.
 
+60 Minutes steady state on the rollers with an average RPM of 88 and tire pressure of 70 psi.  This was not a taxing effort on the lungs or legs and my sit bones are the only thing sore after this indoor spin.
+
 <!---->
 ## FRIDAY SEP 25
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
