@@ -61,7 +61,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 
 ### PLANNED WORKOUT
 Mobility: 12 minutes  
-Run @ Track.  
+Run @ Track.
+
 * 15 minutes easy to warm up. 
 * 5x 100 meter strides a touch slower than 5k effort, 100 meter EASY jog. 
 * 3x 300 @ 5k effort/pace. 1:17-1:21 is a good goal. 100 meter WALK. This is all a warm up. Going faster will only hurt the actual workout. 
