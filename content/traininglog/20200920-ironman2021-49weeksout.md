@@ -119,9 +119,11 @@ Mobility: 15 minutes
 Run 50 minutes: 30 minutes easy running to warm up. 8x :30 uphill strides a touch stronger than 5k effort, 1:00 easy downhill jog after each. 8 minutes easy running to cool down.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **30 minutes**
 
 I think I slept well last night as I went to bed an hour earlier.
+
+Lunch with my work cohort had me commute to Broadmead for 30 minutes on the bike.  I hope it is sunny for tomorrow's ride as it was this afternoon.
 
 <!---->
 ## SATURDAY SEP 26
