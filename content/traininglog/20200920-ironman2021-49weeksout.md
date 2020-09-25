@@ -74,7 +74,6 @@ The workout today called for rollers but I was done work early and the weather w
 
 This was the first ride on the TT bike since Elk Lake in August and it **felt really good**.
 
-
 <!---->
 ## MY 49TH BIRTHDAY
 Sleep **2** | Fatigue **3** | Stress **3** | Soreness **4** 
@@ -100,7 +99,7 @@ Sleep **4** | Fatigue **3** | Stress **3** | Soreness **3**
 Hilly road ride or Fun MTB ~ 75-90 minutes. Easy effort on the flats/downhills, more of a moderate effort on the uphills.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **60 minutes**
 
 A little _"vino rosso"_ at last night's birthday dinner may have made my sleep feel a bit off.  It is a rain day and I will need to play bike mechanic before heading out after work.
 
@@ -120,7 +119,7 @@ Run 50 minutes: 30 minutes easy running to warm up. 8x :30 uphill strides a touc
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I think I slept well last night as I went to bed an hour earlier.
 
 
 <!---->
