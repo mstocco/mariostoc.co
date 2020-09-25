@@ -16,14 +16,14 @@
  font-style:normal;
 }
 
-body {line-height:1;color:#1d2129;font-family:SanFrancisco-Regular,Helvetica, Arial, sans-serif;font-size:15px;font-weight:300;letter-spacing:0.233333px;line-height:21px;background:#ffffff;}
-h1, h2, h3, h4, h5, h6 {color:#1d2129;font-family:AgencyVC-Bold,Helvetica, Arial, sans-serif;font-style:normal;font-weight:normal;text-transform:uppercase;}
-h1 { font-size:1.4rem; margin:1px 0 0 0;}
-h2 { font-size:1.15rem; margin:1px 0 0 0;}
-h3 { font-size:1rem; margin:0;}
-h4, h5, h6 { font-size:0.9rem; margin:0.25rem 0 0.25rem 0; }
+body {line-height:1;color:#1d2129;font-family:SanFrancisco-Regular,Helvetica,Arial,sans-serif;font-size:15px;font-weight:300;letter-spacing:0.233333px;line-height:21px;background:#ffffff;}
+h1, h2, h3, h4, h5, h6 {color:#1d2129;font-family:AgencyVC-Bold,Helvetica,Arial,sans-serif;font-style:normal;font-weight:normal;text-transform:uppercase;}
+h1 {font-size:1.4rem; margin:1px 0 0 0;}
+h2 {font-size:1.15rem; margin:1px 0 0 0;}
+h3 {font-size:1rem; margin:0;}
+h4, h5, h6 {font-size:0.9rem;margin:0.25rem 0 0.25rem 0;}
 p {margin:0 0 1rem 0;}
-a {text-decoration:none; color:black; }
+a {text-decoration:none; color:black;}
 p a {color:#90949c;text-decoration:none;}
 a:visited {color:black;}
 div, a:hover, a:active, a:focus {outline:0;}
@@ -37,20 +37,21 @@ ul li {padding-left:0.15rem;}
 ul.alt {list-style:none;padding-left:0;}
 ul.alt li {border-top:solid 1px rgba(0, 0, 0, 0.25);padding:0.25rem 0;}
 ul.alt li:first-child {border-top:0;padding-top:0;}
+
 .horizon {position:absolute;top:50%; left:0; width:100%;height:1px;background-color:#fefefe;}
-.content  {position:absolute;left:0; width:100%;margin-left:0;background-color:white;}
+.content {position:absolute;left:0; width:100%;margin-left:0;background-color:white;}
 .masthead {margin-bottom:16px;}
 .masthead div {width:20px;height:20px;margin:0 10px;padding:0;display:inline-block;cursor:pointer;}
 .mariostocco {font-family:AgencyVC-Bold,Helvetica,Arial,sans-serif;font-style:normal;font-weight:normal;font-size:1.55rem;margin:0;}
 .guide-icon {float:left;margin-left:10px;margin-right:12px;margin-top:-4px;}
-.carousel  {background-color:white;}
-.carousel-cell  {width:340px;margin-left:5px;margin-right:5px;padding:0;counter-increment:gallery-cell;text-align:left;}
+.carousel {background-color:white;}
+.carousel-cell {width:340px;margin-left:5px;margin-right:5px;padding:0;counter-increment:gallery-cell;text-align:left;}
 .text {padding:0 0 0 10px;}
 .text p a {color:#06c;text-decoration:none}
 .text p a:visited {color:#06c;text-decoration:none}
 .text p a:hover {color:#06c;text-decoration:underline}
 .image {background-size:contain;}
-.imagebanner { position:relative; height:550px; }
+.imagebanner {position:relative;height:550px;}
 .banner {position:absolute;background-color:rgba(0,0,0,.34);color:white;bottom:0;height:30px;margin:0;padding:10px;width:100%;}
 .banner h3 {color:white;}
 .banner p {color:white;font-size:0.8em;}
@@ -88,23 +89,19 @@ footer p {font-size:0.7em;color#aaa;margin-left:10px;}
 
 .agencyvc {
  font-family:AgencyVC-Bold,Helvetica,Arial,sans-serif;
- -webkit-font-smoothing:antialiased;
  text-transform:uppercase;
- -moz-osx-font-smoothing:grayscale;
- display:flex;
  justify-content:space-between;
- flex-direction:column
+ -webkit-font-smoothing:antialiased;
+ -moz-osx-font-smoothing:grayscale;
 }
 @media screen and (orientation: portrait) {
  .content {top:-300px;height:550px;}
  .carousel-cell {height:550px;}
- .last {width:200px}
  .flickity-page-dots {visibility:hidden;}
 }
 @media screen and (orientation: landscape) {
  .content {top:-295px;height:550px;}
  .carousel-cell {height:550px;}
- .last {width:1000px;}
  .flickity-page-dots {bottom:-32px;}
  .flickity-page-dots .dot {height:4px;width:30px;margin:0 1px;border-radius:0;}
 }
