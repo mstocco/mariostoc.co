@@ -41,6 +41,7 @@ From the base, I walked my bike up the steep sections until I got to the summit.
 I took it easy as I am naturally fatigued from yesterday’s effort.  This was **a really fun ride** and as the trails are dry (for now)
 
 ![Map of Sunday's Ride](/assets/jpg/IMG_0333-3.jpg)
+
 <!---->
 ## MONDAY SEP 21
 Sleep **4** | Fatigue **5** | Stress **2** | Soreness **5** 
@@ -109,7 +110,7 @@ UPDATE: I got the ok to ride the rollers tonight.
 
 <!---->
 ## FRIDAY SEP 25
-Sleep **2** | Fatigue **3** | Stress **3** | Soreness **** 
+Sleep **2** | Fatigue **3** | Stress **3** | Soreness **3** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -120,7 +121,6 @@ Run 50 minutes: 30 minutes easy running to warm up. 8x :30 uphill strides a touc
 Total Time: **0 minutes**
 
 I think I slept well last night as I went to bed an hour earlier.
-
 
 <!---->
 ## SATURDAY SEP 26
