@@ -1,5 +1,5 @@
 # IRONMAN TRAINING 2021
-Week beginning Sunday, September 27, 2020
+Week beginning [Sunday, September 27, 2020](javascript:flky.select(2);)
 
 **48 weeks** until IRONMAN Canada.
 
@@ -7,8 +7,15 @@ Week beginning Sunday, September 27, 2020
 &mdash; 
 
 ## SUMMARY
-I feel like was... <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel like was...  
+<sup>(filled out at the end of the week)</sup>
 
+## TRAINING WEEKS COMPLETED
+<ul class="iconlist">
+<li class="page"><a href="ironman2021-50weeksout">September 13, 2020 - 50 Weeks Out</a></li>
+<li class="page"><a href="ironman2021-51weeksout">September 6, 2020 - 51 Weeks Out</a></li>
+<li class="page"><a href="ironman2021-52weeksout">August 30, 2020 - 52 Weeks Out</a></li>
+</ul>
 
 <!---->
 ## SUNDAY SEP 27
@@ -60,8 +67,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Mobility: 12 minutes  
-Run @ Track.
+Mobility: 12 minutes | Run: Track
 
 * 15 minutes easy to warm up. 
 * 5x 100 meter strides a touch slower than 5k effort, 100 meter EASY jog. 
