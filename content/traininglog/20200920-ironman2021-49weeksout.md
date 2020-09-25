@@ -134,6 +134,3 @@ Ride 2:00. Flatter roads. Road or TT bike. Whatever sounds more fun.
 Total Time: **0 minutes**
 
 &mdash; 
-
-
-<!---->
