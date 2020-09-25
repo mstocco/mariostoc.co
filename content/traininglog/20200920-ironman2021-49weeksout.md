@@ -99,12 +99,13 @@ Sleep **4** | Fatigue **3** | Stress **3** | Soreness **3**
 ### PLANNED WORKOUT
 Hilly road ride or Fun MTB ~ 75-90 minutes. Easy effort on the flats/downhills, more of a moderate effort on the uphills.
 
+<p><span class="agencyvc">UPDATE:</span> I got the ok to ride the rollers tonight.</p>
+
 ### NOTES
 Total Time: **60 minutes**
 
 A little _"vino rosso"_ at last night's birthday dinner may have made my sleep feel a bit off.  It is a rain day and I will need to play bike mechanic before heading out after work.
 
-UPDATE: I got the ok to ride the rollers tonight.
 
 60 Minutes steady state on the rollers with an average RPM of 88 and tire pressure of 70 psi.  This was not a taxing effort on the lungs or legs and my sit bones are the only thing sore after this indoor spin.
 
