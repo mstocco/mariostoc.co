@@ -214,7 +214,6 @@ class FlickityJS(SCRIPT):
 		self.append(" prevNextButtons:false,")
 		self.append(" cellAlign:'left',")
 		self.append(" bgLazyLoad:3,")
-		self.append(" pageDots:false,")
 		self.append(" accessibility:true,")
 		self.append(" contain:1,")
 		self.append(" initialIndex:%d," % self.flkty['initialIndex'])
@@ -223,7 +222,6 @@ class FlickityJS(SCRIPT):
 		self.append("});")
 		self.append("function toggle(){if(flkty.selectedIndex>0){flkty.select(0);}else{flkty.select(1);}};")
 		return HTML5Tag.tohtml(self)
-
 
 
 class OpenGraph:
@@ -257,12 +255,4 @@ class OpenGraph:
 						metatag = META({'property':property, 'content':content})
 						html = html + metatag.tohtml()
 		return html
-
-
-
-
-
-
-
-
 
