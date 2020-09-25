@@ -108,8 +108,6 @@ class TemplateDocument(HTML5Document):
 		meta.append({"name":"x-version","content":self.version})
 		meta.append({'name':'Description','content':self.description})
 		meta.append({"name":"Author","content":"Mario Stocco"})
-		meta.append({"name":"Copyright","content":"Mario Stocco"})
-		meta.append({"name":"Generator","content":"Mario Stocco"})
 		for attrs in meta:
 			self.head.append(META(attrs))
 		self.opengraph.url = 'https://mariostoc.co%s' % self.documentURI
