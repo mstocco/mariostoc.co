@@ -84,7 +84,7 @@ hitting start on the watch, jogged for 31 minutes and walked
 for five minutes after.  I picked the trail over the road 
 because I am more **sore today** than I was yesterday.  My 
 motivation wasn't all that high but I remembered my goal of 
-getting all the workouts in this week and out the door I went.  
+getting all the workouts in this week and out the door I went.
 I am glad I did too because the rain is coming, likely tomorrow.
 
 <!---->
