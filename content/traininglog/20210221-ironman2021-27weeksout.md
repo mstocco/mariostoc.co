@@ -12,8 +12,8 @@ I feel like was... <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT
 
 <!---->
 ## SUNDAY FEB 21
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash; 
@@ -26,8 +26,8 @@ Total Time: **0 minutes**
 
 <!---->
 ## MONDAY FEB 22
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash; 
@@ -40,8 +40,8 @@ Total Time: **0 minutes**
 
 <!---->
 ## TUESDAY FEB 23
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash; 
@@ -54,8 +54,8 @@ Total Time: **0 minutes**
 
 <!---->
 ## WEDNESDAY FEB 24
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash; 
@@ -68,8 +68,8 @@ Total Time: **0 minutes**
 
 <!---->
 ## THURSDAY FEB 25
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash; 
@@ -82,8 +82,8 @@ Total Time: **0 minutes**
 
 <!---->
 ## FRIDAY FEB 26
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash; 
@@ -96,8 +96,8 @@ Total Time: **0 minutes**
 
 <!---->
 ## SATURDAY FEB 27
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash; 

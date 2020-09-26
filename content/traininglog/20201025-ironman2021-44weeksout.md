@@ -12,8 +12,8 @@ I feel like was... <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT
 
 <!---->
 ## SUNDAY OCT 25
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash; 
@@ -26,8 +26,8 @@ Total Time: **0 minutes**
 
 <!---->
 ## MONDAY OCT 26
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash; 
@@ -40,8 +40,8 @@ Total Time: **0 minutes**
 
 <!---->
 ## TUESDAY OCT 27
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash; 
@@ -54,8 +54,8 @@ Total Time: **0 minutes**
 
 <!---->
 ## WEDNESDAY OCT 28
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash; 
@@ -68,8 +68,8 @@ Total Time: **0 minutes**
 
 <!---->
 ## THURSDAY OCT 29
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash; 
@@ -82,8 +82,8 @@ Total Time: **0 minutes**
 
 <!---->
 ## FRIDAY OCT 30
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash; 
@@ -95,9 +95,9 @@ Total Time: **0 minutes**
 
 
 <!---->
-## SATURDAY OCT 31
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+## SATURDAY OCT 31 🎃
+Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash; 

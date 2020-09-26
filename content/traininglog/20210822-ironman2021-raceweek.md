@@ -11,8 +11,8 @@ I feel like was... <!-- GOOD TO GO! -->
 
 <!---->
 ## SUNDAY AUG 22
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash; 
@@ -25,8 +25,8 @@ Total Time: **&mdash; minutes**
 
 <!---->
 ## MONDAY AUG 23
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash; 
@@ -39,8 +39,8 @@ Total Time: **&mdash; minutes**
 
 <!---->
 ## TUESDAY AUG 24
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash; 
@@ -53,8 +53,8 @@ Total Time: **&mdash; minutes**
 
 <!---->
 ## WEDNESDAY AUG 25
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash; 
@@ -67,8 +67,8 @@ Total Time: **&mdash; minutes**
 
 <!---->
 ## THURSDAY AUG 26
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash; 
@@ -81,8 +81,8 @@ Total Time: **&mdash; minutes**
 
 <!---->
 ## FRIDAY AUG 27
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash; 
@@ -93,8 +93,8 @@ Travel day and check into the Bed and Breakfast.
 
 <!---->
 ## SATURDAY AUG 28
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash; 

@@ -19,8 +19,8 @@ I feel like was...
 
 <!---->
 ## SUNDAY SEP 27
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 Mobility: 20 minutes  
@@ -34,8 +34,8 @@ Total Time: **0 minutes**
 
 <!---->
 ## MONDAY SEP 28
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 23 Minutes of mobility.
@@ -48,8 +48,8 @@ Total Time: **0 minutes**
 
 <!---->
 ## TUESDAY SEP 29
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 Rollers ~ 60 minutes. Easy spinning. You can head outside if you like. But this is to save some time.  
@@ -63,8 +63,8 @@ Total Time: **0 minutes**
 
 <!---->
 ## WEDNESDAY SEP 30
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 Mobility: 12 minutes | Run: Track
@@ -83,8 +83,8 @@ Total Time: **0 minutes**
 
 <!---->
 ## THURSDAY OCT 01
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 Ride 1:15 on the MTB or on some hilly roads. Overall an easy/fun effort. I'm sure you'll be fairly tired from the day before. Please hold back on this ride!
@@ -97,8 +97,8 @@ Total Time: **0 minutes**
 
 <!---->
 ## FRIDAY OCT 02
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 Mobility: 20 minutes  
@@ -112,8 +112,8 @@ Total Time: **0 minutes**
 
 <!---->
 ## SATURDAY OCT 03
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash; 
