@@ -106,8 +106,7 @@ Total Time: **60 minutes**
 
 A little _"vino rosso"_ at last night's birthday dinner may have made my sleep feel a bit off.  It is a rain day and I will need to play bike mechanic before heading out after work.
 
-
-60 Minutes steady state on the rollers with an average RPM of 88 and tire pressure of 70 psi.  This was not a taxing effort on the lungs or legs and my sit bones are the only thing sore after this indoor spin.
+60 Minutes steady state on the rollers with an average RPM of 88 and tire pressure of 70 psi.  This was an **easy effort** for the lungs and legs but my sit bones (and region) was sore after this indoor spin.
 
 <!---->
 ## FRIDAY SEP 25
