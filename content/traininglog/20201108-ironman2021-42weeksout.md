@@ -53,7 +53,7 @@ Total Time: **0 minutes**
 
 
 <!---->
-## WEDNESDAY NOV 11
+## WEDNESDAY NOV 11 🇨🇦
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 

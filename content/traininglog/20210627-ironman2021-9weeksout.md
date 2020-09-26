@@ -67,7 +67,7 @@ Total Time: **0 minutes**
 
 
 <!---->
-## THURSDAY JUL 01
+## THURSDAY JUL 01 🇨🇦
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 

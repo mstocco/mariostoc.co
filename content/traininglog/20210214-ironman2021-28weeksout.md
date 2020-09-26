@@ -53,7 +53,7 @@ Total Time: **0 minutes**
 
 
 <!---->
-## WEDNESDAY FEB 17
+## WEDNESDAY FEB 17 ☘
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 

@@ -95,7 +95,7 @@ Total Time: **0 minutes**
 
 
 <!---->
-## SATURDAY OCT 31
+## SATURDAY OCT 31 🎃
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
