@@ -8,8 +8,13 @@ Some more riding, some more running and more mobility.
 [Last week](ironman2021-50weeksout), I missed scheduled training on two days; my goal this week is get all of the activities in. 
 
 ## SUMMARY
-I feel like was...  
-<sup>(filled out at the end of the week)</sup>
+I feel like was at the **START OF A GOOD STREAK**
+
+My goal this week was to get every scheduled workout completed; weekly goal accomplished.  [Monday](javascript:flkty.select(5);) was the hardest day for motivation but getting out on the TT Bike on [Tuesday](javascript:flkty.select(6);) under sunny skies set the tone for the remainder of the week.
+
+This was a **nine hour** week and a nice bump from the previous 3 weeks.  I am feeling good about the effort too.
+
+This was the first week of Autumn and the weather has changed accordingly. 
 
 ## TRAINING WEEKS COMPLETED
 <ul class="iconlist">
@@ -54,7 +59,7 @@ Run 30 minutes. Flat and easy
 ### NOTES
 Total Time: **30 minutes**
 
-I had a so-so sleep last night even though the Seahawk beat the Patriots with a defensive stand on the last play.  I am particularly tight in my left hip and need time with the lacrosse ball to get the tissue to calm down.
+I had a so-so sleep last night even though the Seahawks beat the Patriots with a defensive stand on the last play.  I am particularly tight in my left hip and need time with the lacrosse ball to get the tissue to calm down.
 
 I did a lap of Swan Lake.  I walked for 5 minutes before hitting start on the watch, jogged for 31 minutes and walked for five minutes after.  I picked the trail over the road because I am more **sore today** than I was yesterday.  My motivation wasn't all that high but I remembered my goal of getting all the workouts in this week and out the door I went.  I am glad I did too because the rain is coming, likely tomorrow.
 
@@ -128,8 +133,8 @@ It seems like forever since my coach has put a structured run like this into my 
 
 <!---->
 ## SATURDAY SEP 26
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+Sleep **1** | Fatigue **3** | Stress **2** | Soreness **4**  
+<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 Ride 2:00. Flatter roads. Road or TT bike. Whatever sounds more fun.
@@ -137,4 +142,4 @@ Ride 2:00. Flatter roads. Road or TT bike. Whatever sounds more fun.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I had a good sleep last night and it is house chores until the rain stops.
