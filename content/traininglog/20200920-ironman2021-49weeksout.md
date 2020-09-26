@@ -119,12 +119,13 @@ Mobility: 15 minutes
 Run 50 minutes: 30 minutes easy running to warm up. 8x :30 uphill strides a touch stronger than 5k effort, 1:00 easy downhill jog after each. 8 minutes easy running to cool down.
 
 ### NOTES
-Total Time: **30 minutes**
+Total Time: **85 minutes**
 
 I think I slept well last night as I went to bed an hour earlier.
 
-Lunch with my work cohort had me commute to Broadmead for 30 minutes on the bike.  I hope it is sunny for tomorrow's ride as it was this afternoon.
+Lunch with my work cohort had me commute to Broadmead for &plusmn;30 minutes on the bike.  I hope it is sunny for tomorrow's ride as it was this afternoon.
 
+It seems like forever since my coach has put a structured run into my inbox but today was my lucky day.  I ran the strides on Islet Avenue which worked out perfectly for the 30 second efforts.  I had a bit of a longer jog home from there but that made up for the traffic light that I hit on the warm up leg.  This run felt good.
 <!---->
 ## SATURDAY SEP 26
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
