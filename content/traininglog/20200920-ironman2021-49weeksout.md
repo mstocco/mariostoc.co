@@ -8,11 +8,11 @@ Some more riding, some more running and more mobility.
 [Last week](ironman2021-50weeksout), I missed scheduled training on two days; my goal this week is get all of the activities in. 
 
 ## SUMMARY
-I feel like was at the **START OF A GOOD STREAK**
+I feel like I **STARTED A GOOD STREAK**
 
 My goal this week was to get every scheduled workout completed; weekly goal accomplished.  [Monday](javascript:flkty.select(5);) was the hardest day for motivation but getting out on the TT Bike on [Tuesday](javascript:flkty.select(6);) under sunny skies set the tone for the remainder of the week.
 
-This was a **nine hour** week and a nice bump from the previous 3 weeks.  I am feeling good about the effort too.
+This was a **&plusmn;nine hour** week and a nice bump from the previous 3 weeks.  I am feeling good about the effort too.
 
 This was the first week of Autumn and the weather has changed accordingly. 
 
