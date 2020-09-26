@@ -74,7 +74,7 @@ The workout today called for rollers but I was done work early and the weather w
 This was the first ride on the TT bike since Elk Lake in August and it **felt really good**.
 
 <!---->
-## MY 49TH BIRTHDAY
+## MY 49TH BIRTHDAY &#127783;
 Sleep **2** | Fatigue **3** | Stress **3** | Soreness **4** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
