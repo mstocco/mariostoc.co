@@ -18,7 +18,7 @@ This was the first week of Autumn and [mid-week](javascript:flkty.select(7);) th
 
 ![I had nice weather for Sunday's MTB ride.](/assets/jpg/IMG_2821-977x550.jpg Looking East from Mount Stewart)
 
-## SUNDAY SEP 20
+## SUNDAY SEP 20 &#127780;
 Sleep **3** | Fatigue **3** | Stress **2** | Soreness **4** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -41,7 +41,7 @@ I took it easy as I am naturally fatigued from yesterday’s effort.  This was *
 ![Map of Sunday's Ride](/assets/jpg/IMG_0333-3.jpg)
 
 <!---->
-## MONDAY SEP 21
+## MONDAY SEP 21 &#127780;
 Sleep **4** | Fatigue **5** | Stress **2** | Soreness **5** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -57,7 +57,7 @@ I had a so-so sleep last night even though the Seahawks beat the Patriots with a
 I did a lap of Swan Lake.  I walked for 5 minutes before hitting start on the watch, jogged for 31 minutes and walked for five minutes after.  I picked the trail over the road because I am more **sore today** than I was yesterday.  My motivation wasn't all that high but I remembered my goal of getting all the workouts in this week and out the door I went.  I am glad I did too because the rain is coming, likely tomorrow.
 
 <!---->
-## TUESDAY SEP 22
+## TUESDAY SEP 22 &#127780;
 Sleep **2** | Fatigue **5** | Stress **3** | Soreness **5** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -90,7 +90,7 @@ Another night with a restful sleep.  I am still a bit tight through the hips and
 So the **rain** is here.  I headed out for a 30 minute jog to the center of the trestle and back.  The effort was scheduled as easy and for the most part, it was; my breathing was easy and my focus was on running comfortably.  I ended with 30 minutes at **5:35/km** which seems like a touch fast (or the new normal).  If anything was complaining, it is the usual suspects of soleus and ankles but overall, this **felt better** than Monday's run. 
 
 <!---->
-## THURSDAY SEP 24
+## THURSDAY SEP 24 &#127783;
 Sleep **4** | Fatigue **3** | Stress **3** | Soreness **3** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -107,7 +107,7 @@ A little _"vino rosso"_ at last night's birthday dinner may have made my sleep f
 60 Minutes steady state on the rollers with an average RPM of 88 and tire pressure of 70 psi.  This was an **easy effort** for the lungs and legs but my sit bones (and region) was sore after this indoor spin.
 
 <!---->
-## FRIDAY SEP 25
+## FRIDAY SEP 25 &#127782;
 Sleep **2** | Fatigue **3** | Stress **3** | Soreness **3** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
