@@ -10,18 +10,11 @@ Some more riding, some more running and more mobility.
 ## SUMMARY
 I feel like I **STARTED A GOOD STREAK**
 
-My goal this week was to get every scheduled workout completed; weekly goal accomplished.  [Monday](javascript:flkty.select(5);) was the hardest day for motivation but getting out on the TT Bike on [Tuesday](javascript:flkty.select(6);) under sunny skies set the tone for the remainder of the week.
+My goal this week was to get every scheduled workout completed; weekly goal _accomplished_.  [Monday](javascript:flkty.select(5);) was the hardest day for motivation but getting out on the TT Bike on [Tuesday](javascript:flkty.select(6);) under sunny skies set the tone for the remainder of the week.
 
-This was a **&plusmn;nine hour** week and a nice bump from the previous 3 weeks.  I am feeling good about the effort too.
+This was a **nine hour** week and a nice bump from the previous 3 weeks.  I am feeling good about the effort too.
 
-This was the first week of Autumn and the weather has changed accordingly. 
-
-## TRAINING WEEKS COMPLETED
-<ul class="iconlist">
-<li class="page"><a href="ironman2021-50weeksout">September 13, 2020 - 50 Weeks Out</a></li>
-<li class="page"><a href="ironman2021-51weeksout">September 6, 2020 - 51 Weeks Out</a></li>
-<li class="page"><a href="ironman2021-52weeksout">August 30, 2020 - 52 Weeks Out</a></li>
-</ul>
+This was the first week of Autumn and [mid-week](javascript:flkty.select(7);) the weather has changed accordingly. 
 
 ![I had nice weather for Sunday's MTB ride.](/assets/jpg/IMG_2821-977x550.jpg Looking East from Mount Stewart)
 
@@ -143,3 +136,11 @@ Ride 2:00. Flatter roads. Road or TT bike. Whatever sounds more fun.
 Total Time: **0 minutes**
 
 I had a good sleep last night and it is house chores until the rain stops.
+
+<!---->
+## TRAINING WEEKS COMPLETED
+<ul class="iconlist">
+<li class="page"><a href="ironman2021-50weeksout">September 13, 2020 - 50 Weeks Out</a></li>
+<li class="page"><a href="ironman2021-51weeksout">September 6, 2020 - 51 Weeks Out</a></li>
+<li class="page"><a href="ironman2021-52weeksout">August 30, 2020 - 52 Weeks Out</a></li>
+</ul>
