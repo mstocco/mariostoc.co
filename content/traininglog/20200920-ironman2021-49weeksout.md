@@ -124,7 +124,7 @@ I think I slept well last night as I went to bed an hour earlier.
 
 I had a work lunch that had me commute to Broadmead for &plusmn;30 minutes on the bike.
 
-It seems like forever since my coach has put a structured run like this into my inbox; today was my lucky day.  I ran the strides up Islet Avenue which worked out perfectly for the 30 second efforts.  The warmup was a bit shorter and the cool down a bit longer; this run **felt good**.
+It seems like forever since my coach has put a structured run like this into my inbox; today was my lucky day.  I ran the strides up Inlet Avenue which worked out perfectly for the 30 second efforts.  The warmup was a bit shorter and the cool down a bit longer; this run **felt good**.
 
 <!---->
 ## SATURDAY SEP 26
