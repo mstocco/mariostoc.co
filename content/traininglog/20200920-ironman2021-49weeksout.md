@@ -18,7 +18,7 @@ This was the first week of Autumn and [mid-week](javascript:flkty.select(7);) th
 
 ![I had nice weather for Sunday's MTB ride.](/assets/jpg/IMG_2821-977x550.jpg Looking East from Mount Stewart)
 
-## SUNDAY SEP 20 &#127780;
+## SUNDAY SEP 20 ☀
 Sleep **3** | Fatigue **3** | Stress **2** | Soreness **4** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
