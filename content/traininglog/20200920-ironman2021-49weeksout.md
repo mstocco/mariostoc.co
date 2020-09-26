@@ -123,9 +123,9 @@ Total Time: **85 minutes**
 
 I think I slept well last night as I went to bed an hour earlier.
 
-Lunch with my work cohort had me commute to Broadmead for &plusmn;30 minutes on the bike.  I hope it is sunny for tomorrow's ride as it was this afternoon.
+I had a work lunch that had me commute to Broadmead for &plusmn;30 minutes on the bike.
 
-It seems like forever since my coach has put a structured run into my inbox but today was my lucky day.  I ran the strides on Islet Avenue which worked out perfectly for the 30 second efforts.  I had a bit of a longer jog home from there but that made up for the traffic light that I hit on the warm up leg.  This run felt good.
+It seems like forever since my coach has put a structured run into my inbox but today was my lucky day.  I ran the strides on Islet Avenue which worked out perfectly for the 30 second efforts.  I had a bit of a longer jog home from there but that made up for the traffic light that I hit on the warm up leg.  This run **felt good**.
 <!---->
 ## SATURDAY SEP 26
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-** 
