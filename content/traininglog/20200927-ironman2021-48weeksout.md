@@ -4,7 +4,7 @@ Week beginning [Sunday, September 27, 2020](javascript:flky.select(2);)
 **48 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-Heading into this week, I feel like I have some momentum from the consistancy from [last week](ironman2021-49weeksout).  The brick workout on [Tuesday](javascript:flkty.select(3);) and the track workout on [Wednesday](javascript:flkty.select(4);) look to be important days.  My goal is to nail those workouts and enjoy the balance of the activities scheduled this week.
+Heading into this week, I feel like I have some momentum from the consistancy from [last week](ironman2021-49weeksout).  The brick workout on [Tuesday](javascript:flkty.select(4);) and the track workout on [Wednesday](javascript:flkty.select(5);) look to be important days.  My goal is to nail those workouts and enjoy the balance of the activities scheduled this week.
 
 ## SUMMARY
 I feel like was...  
