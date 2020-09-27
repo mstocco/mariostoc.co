@@ -194,12 +194,12 @@ Sleep **1** | Fatigue **3** | Stress **2** | Soreness **4**
 Ride 2:00. Flatter roads. Road or TT bike. Whatever sounds more fun.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **105 minutes**
 
 I had a good sleep last night and it is house chores until the 
 rain stops...
 
-And after giving up on a hourly weather forcast that was wrong 
+And after giving up on an hourly weather forcast that was wrong 
 _all day_, I headed out to the garage, put on the NFL Network 
 on the TV and pedalled the TT bike on the rollers until the 
 odometer read _"40 km"_.  I mixed a strong solution of Gatorade 
