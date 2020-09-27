@@ -186,7 +186,7 @@ second efforts.  The warmup was a bit shorter and the cool
 down a bit longer; this run **felt good**.
 
 <!---->
-## SATURDAY SEP 26
+## SATURDAY SEP 26 &#127783;
 Sleep **1** | Fatigue **3** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -194,13 +194,23 @@ Sleep **1** | Fatigue **3** | Stress **2** | Soreness **4**
 Ride 2:00. Flatter roads. Road or TT bike. Whatever sounds more fun.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **105 minutes**
 
 I had a good sleep last night and it is house chores until the 
-rain stops.
+rain stops...
 
+And after giving up on an hourly weather forcast that was wrong 
+_all day_, I headed out to the garage, put on the NFL Network 
+on the TV and pedalled the TT bike on the rollers until the 
+odometer read _"40 km"_.  I mixed a strong solution of Gatorade 
+that I sipped over the course of the 1:46 minutes and took the 
+odd, short break to make sure my undercarriage didn't get too 
+uncomfortable.  I spend the majority of the time balancing in 
+the aerobars.
+
+Effort was **easy spinning** and time seemed to go by quickly.
 <!---->
-## TRAINING WEEKS COMPLETED
+## PREVIOUS TRAINING WEEKS
 <ul class="iconlist">
 <li class="page"><a href="ironman2021-50weeksout">September 13, 2020 - 50 Weeks Out</a></li>
 <li class="page"><a href="ironman2021-51weeksout">September 6, 2020 - 51 Weeks Out</a></li>
