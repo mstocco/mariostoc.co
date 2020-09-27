@@ -13,7 +13,6 @@ record and reminder of this experience, the hurdles faced, the
 victories won, the learnings and the bonds formed along the 
 way.
 
-### CURRENT WEEK
 <ul class="iconlist">
 <li class="page"><a href="ironman2021-48weeksout">September 27, 2020 - 48 Weeks Out</a></li>
 </ul>
