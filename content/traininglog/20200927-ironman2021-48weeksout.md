@@ -20,7 +20,7 @@ I feel like was...
 
 <!---->
 ## SUNDAY SEP 27
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **3** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -30,9 +30,9 @@ mandatory. Keep the effort EASY. And bring a gel. Always good
 to practice.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **70 minutes**
 
-&mdash; 
+No licence so no driving to a trailhead; no problem as I am happy to run from my doorstep.  I headed out on my Helmcken route with the idea of adding a few more undulations.  Today was mostly cloudy and a humid, 15&#8451;.  I had a packet of _"Macha Latté"_ flavoured ReKarb at the 40 minute mark; that tasted and sat with me ok.  I felt comfortable through the first 60 minutes and I started to feel a bout of heavy legs for the last 10 minutes.  My coach nailed the right run for this day.
 
 
 <!---->
