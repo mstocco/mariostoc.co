@@ -32,7 +32,7 @@ to practice.
 ### NOTES
 Total Time: **70 minutes**
 
-No licence so no driving to a trailhead; no problem as I am happy to run from my doorstep.  I headed out on my Helmcken route with the idea of adding a few more undulations.  Today was mostly cloudy and a humid, 15&#8451;.  I had a packet of _"Macha Latté"_ flavoured ReKarb at the 40 minute mark; that tasted and sat with me ok.  I felt comfortable through the first 60 minutes and I started to feel a bout of heavy legs for the last 10 minutes.  My coach nailed the right run for this day.
+I headed out on my Helmcken route with the idea of adding a few more undulations.  Today was mostly cloudy and a humid, 15&#8451;.  I had a packet of _"Macha Latté"_ flavoured ReKarb at the 40 minute mark; that tasted and sat with me ok.  I felt comfortable through the first 60 minutes and I started to feel a bout of heavy legs for the last 10 minutes.  My coach nailed the right run for this day.
 
 
 <!---->
