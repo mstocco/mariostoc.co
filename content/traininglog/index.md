@@ -17,7 +17,7 @@ way.
 <li class="page"><a href="ironman2021-48weeksout">September 27, 2020 - 48 Weeks Out</a></li>
 </ul>
 
-### THE LAST MONTH
+### THE PREVIOUS 4 WEEKS
 <ul class="iconlist">
 <li class="page"><a href="ironman2021-49weeksout">September 20, 2020 - 49 Weeks Out</a></li>
 <li class="page"><a href="ironman2021-50weeksout">September 13, 2020 - 50 Weeks Out</a></li>
