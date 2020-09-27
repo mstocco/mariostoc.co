@@ -19,7 +19,7 @@ I feel like was...
 </ul>
 
 <!---->
-## SUNDAY SEP 27
+## SUNDAY SEP 27 🌥
 Sleep **3** | Fatigue **3** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 

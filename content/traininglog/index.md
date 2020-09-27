@@ -15,11 +15,12 @@ way.
 
 ### CURRENT WEEK
 <ul class="iconlist">
-<li class="page"><a href="ironman2021-49weeksout">September 20, 2020 - 49 Weeks Out</a></li>
+<li class="page"><a href="ironman2021-48weeksout">September 27, 2020 - 48 Weeks Out</a></li>
 </ul>
 
-### THE LAST 3 WEEKS
+### THE LAST MONTH
 <ul class="iconlist">
+<li class="page"><a href="ironman2021-49weeksout">September 20, 2020 - 49 Weeks Out</a></li>
 <li class="page"><a href="ironman2021-50weeksout">September 13, 2020 - 50 Weeks Out</a></li>
 <li class="page"><a href="ironman2021-51weeksout">September 6, 2020 - 51 Weeks Out</a></li>
 <li class="page"><a href="ironman2021-52weeksout">August 30, 2020 - 52 Weeks Out</a></li>
