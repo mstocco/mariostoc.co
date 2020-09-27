@@ -199,11 +199,18 @@ Total Time: **0 minutes**
 I had a good sleep last night and it is house chores until the 
 rain stops...
 
-And after giving up on a hourly weather forcast that was wrong _all day_, I headed out to the garage, put on the NFL Network on the TV and pedalled the TT bike on the rollers until the odometer read _"40 km"_.  I had a strong solution of Gatorade that I sipped over the course of the 1:46 minutes and took the odd break to make sure my undercarriage didn't get too uncomfortable.  I spend the majority of the time balancing in the aerobars.
+And after giving up on a hourly weather forcast that was wrong 
+_all day_, I headed out to the garage, put on the NFL Network 
+on the TV and pedalled the TT bike on the rollers until the 
+odometer read _"40 km"_.  I mixed a strong solution of Gatorade 
+that I sipped over the course of the 1:46 minutes and took the 
+odd, short break to make sure my undercarriage didn't get too 
+uncomfortable.  I spend the majority of the time balancing in 
+the aerobars.
 
-Effort was **easy spinning**.
+Effort was **easy spinning** and time seemed to go by quickly.
 <!---->
-## TRAINING WEEKS COMPLETED
+## PREVIOUS TRAINING WEEKS
 <ul class="iconlist">
 <li class="page"><a href="ironman2021-50weeksout">September 13, 2020 - 50 Weeks Out</a></li>
 <li class="page"><a href="ironman2021-51weeksout">September 6, 2020 - 51 Weeks Out</a></li>
