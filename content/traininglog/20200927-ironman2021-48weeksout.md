@@ -32,7 +32,8 @@ to practice.
 ### NOTES
 Total Time: **70 minutes**
 
-I headed out on my Helmcken route with the idea of adding a few more undulations.  Today was mostly cloudy and a humid, 15&#8451;.  I had a packet of _"Macha Latté"_ flavoured ReKarb at the 40 minute mark; that tasted and sat with me ok.  I felt comfortable through the first 60 minutes and I started to feel a bout of heavy legs for the last 10 minutes.  My coach nailed the right run for this day.
+Today was mostly cloudy and a humid, 15&#8451;.  I headed out on my Helmcken route with the idea of adding in few more undulations.   This was a pretty routine, _"easy effort"_ run; I kept it easy on the uphills and comfortable everywhere else.
+I enjoyed a packet of _"Macha Latté"_ flavoured ReKarb at the 40 minute mark; it sat ok with me.  I started to feel a bout of heavy legs for the final 10 minutes; meaning coach nailed the right amount of run for today.
 
 
 <!---->
