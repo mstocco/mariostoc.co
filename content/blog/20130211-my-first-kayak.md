@@ -19,5 +19,5 @@ exciting proposition for me.  I am not just going to sit in it and move my arms
 a little.  I might have to develop a new skill set.
 
 
-![Necky Looksha Elite](/assets/jpg/looksha-elite-x550.jpg "My First Kayak")
+![Necky Looksha Elite](/assets/jpg/looksha-elite-977x550.jpg "My First Kayak")
 
