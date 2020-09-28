@@ -43,7 +43,7 @@ Sleep **1** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-23 Minutes of mobility.
+22 Minute Full Body Mobility Routine V3.
 
 ### NOTES
 Total Time: **0 minutes**
