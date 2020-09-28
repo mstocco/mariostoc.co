@@ -39,7 +39,7 @@ I enjoyed a packet of _"Macha Latté"_ flavoured ReKarb at the 40 minute mark; i
 
 <!---->
 ## MONDAY SEP 28
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **1** | Fatigue **4** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -48,7 +48,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Early to bed last night and I had a solid night's sleep.  Regardless, I am still feeling yesterday's run in my legs.
 
 
 <!---->
