@@ -38,7 +38,7 @@ I enjoyed a packet of _"Macha Latté"_ flavoured ReKarb at the 40 minute mark; i
 ![Run Map](/assets/jpg/runmap-20200927.jpg)
 
 <!---->
-## MONDAY SEP 28
+## MONDAY SEP 28 ☀
 Sleep **1** | Fatigue **4** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
