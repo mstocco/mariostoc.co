@@ -30,7 +30,7 @@ mandatory. Keep the effort EASY. And bring a gel. Always good
 to practice.
 
 ### NOTES
-Total Time: **70 minutes**
+Total Time: **70 minutes** &nbsp; Distance: **12 km**
 
 Today was a mostly cloudy, humid, 15&#8451;.  I headed out on my Helmcken route with the idea of adding in few more undulations.   This was a pretty routine, **easy effort run**; I kept it controlled on the uphills and comfortable everywhere else. I enjoyed a packet of _"Macha Latté"_ flavoured ReKarb at the 40 minute mark; it sat ok with me.  I started to feel a bout of heavy legs for the final 10 minutes; meaning coach nailed the right amount of run for today.
 
