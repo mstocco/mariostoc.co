@@ -49,7 +49,9 @@ Total Time: **0 minutes**
 
 Early to bed last night and I had a solid night's sleep.  Regardless, I still feeling yesterday's run in my legs this morning.
 
-By 16:00 and after being on the computer all day, I looked out the window at the nice weather and thought about how nice it would be to get a run in.  I passed knowing that I have a plan for [tomorrow](javascript.flkty.select(4);) and [Wednesday](javascript:flkty.select(5);).
+By 16:00 and after being on the computer all day, I looked out the window at the nice weather and thought about how nice it would be to get a run in.  I passed knowing that I have a plan for [tomorrow](javascript:flkty.select(4);) and [Wednesday](javascript:flkty.select(5);).
+
+Today was a **recovery day**.
 
 <!---->
 ## TUESDAY SEP 29 ☀
