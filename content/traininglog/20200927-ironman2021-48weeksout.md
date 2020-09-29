@@ -67,7 +67,7 @@ route. Easy effort.
 ### NOTES
 Total Time: **0 minutes**
 
-I did not sleep that well last night; maybe to much time on the keyboard yesterday.
+I did not sleep that well last night; maybe to much time on the keyboard yesterday.  My neck and left hip feel stiff and I will hit the foam roller before heading out on the ride.
 
 
 
