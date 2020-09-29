@@ -47,12 +47,13 @@ Sleep **1** | Fatigue **4** | Stress **3** | Soreness **4**
 ### NOTES
 Total Time: **0 minutes**
 
-Early to bed last night and I had a solid night's sleep.  Regardless, I am still feeling yesterday's run in my legs.
+Early to bed last night and I had a solid night's sleep.  Regardless, I still feeling yesterday's run in my legs this morning.
 
+By 16:00 and after being on the computer all day, I looked out the window at the nice weather and thought about how nice it would be to get a run in.  I passed knowing that I have a plan for [tomorrow](javascript.flkty.select(4);) and [Wednesday](javascript:flkty.select(5);).
 
 <!---->
-## TUESDAY SEP 29
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## TUESDAY SEP 29 ☀
+Sleep **4** | Fatigue **2** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -64,7 +65,8 @@ route. Easy effort.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I did not sleep that well last night; maybe to much time on the keyboard yesterday.
+
 
 
 <!---->
