@@ -74,7 +74,7 @@ The weather couldn't have been nicer.  Seriously today was nicer than a typical 
 <!---->
 I did stop for a bit to say hello to an old hockey buddy who was out for a walk.  This was very much an **easy ride** and I did put back a 750ml bottle with 53g of Gatorade while being out on the road.
 
-Getting back home, I didn't waste much time getting into the Nikes and heading out towards Quadra.  Quads, hammies and glutes felt ok but my soleus' were pretty lit up and my ankles (Fibularis Tertius) were sore too.  The soreness did begin to calm down after about 25 minutes (on a false flat, downhill).  This run was a **focus on form** type of effort.
+Getting back home, I didn't waste much time getting into the Nikes and heading out towards Quadra.  Quads, hammies and glutes felt ok but my soleus' were pretty lit up and my ankles (Fibularis Tertius) were sore too.  The soreness did begin to calm down after about 25 minutes (on a false flat, downhill).  This run OTB was a **focus on form** type of effort.
 
 Ride Distance: **27 km** &nbsp; Moving Time: **1:07:00**
 ![Ride Map](/assets/jpg/ridemap-20200929.jpeg)
