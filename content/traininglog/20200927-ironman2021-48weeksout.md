@@ -76,8 +76,8 @@ I did stop for a bit to say hello to an old hockey buddy who was out for a walk.
 
 Getting back home, I didn't waste much time getting into the Nikes and heading out towards Quadra.  Quads, hammies and glutes felt ok but my soleus' were pretty lit up and my ankles (Fibularis Tertius) were sore too.  The soreness did begin to calm down after about 25 minutes (false flat, downhill).  This run was a **focus on form** type of effort.
 
-Distance: **27 km** &nbsp; Moving Time: **1:07:00**
-![Ride Map](/assets/jpg/bikemap-20200929.jpeg)
+Ride Distance: **27 km** &nbsp; Moving Time: **1:07:00**
+![Ride Map](/assets/jpg/ridemap-20200929.jpeg)
 
 <!---->
 ## WEDNESDAY SEP 30
