@@ -69,7 +69,10 @@ Total Time: **100 minutes**
 
 I did not sleep that well last night; maybe to much time on the keyboard yesterday.  My neck and left hip feel stiff and I will hit the foam roller before heading out on the ride.
 
-The weather couldn't have been nicer.  Seriously today was nicer than a typical summer day.  It would have been a waste to have ridden the rollers this afternoon.  That being said, I really didn't have a route planned so I hopped on the TT bike and pedalled.  I ended up doing the Dallas Road/Beach Drive route.  No real focus except to enjoy the sunshine.  I did stop for a bit to say hello to an old hockey buddy who was out for a walk.
+The weather couldn't have been nicer.  Seriously today was nicer than a typical summer day.  It would have been a waste to have ridden the rollers this afternoon.  That being said, I really didn't have a route planned so I hopped on the TT bike and pedalled.  I ended up doing the Dallas Road/Beach Drive route.  No real focus except to enjoy the sunshine.
+
+<!---->
+I did stop for a bit to say hello to an old hockey buddy who was out for a walk.
 
 Getting back home, I didn't waste much time getting into the Nikes and heading out towards Quadra.  Quads, hammies and glutes felt ok but my soleus' were pretty lit up and my ankles (Fibularis Tertius) were sore too.  The soreness did begin to calm down after about 25 minutes (false flat, downhill).
 
