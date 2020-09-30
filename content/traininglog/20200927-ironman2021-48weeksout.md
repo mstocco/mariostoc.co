@@ -4,7 +4,7 @@ Week beginning [Sunday, September 27, 2020](javascript:flkty.select(2);)
 **48 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-Heading into this week, I feel like I have some momentum from the consistancy from [last week](ironman2021-49weeksout).  The brick workout on [Tuesday](javascript:flkty.select(4);) and the track workout on [Wednesday](javascript:flkty.select(5);) look to be important days.  My goal is to nail those workouts and enjoy the balance of the activities scheduled this week.
+Heading into this week, I feel like I have some momentum from the consistancy from [last week](ironman2021-49weeksout).  The brick workout on [Tuesday](javascript:flkty.select(5);) and the track workout on [Wednesday](javascript:flkty.select(7);) look to be important days.  My goal is to nail those workouts and enjoy the balance of the activities scheduled this week.
 
 ## SUMMARY
 I feel like was...  
@@ -18,7 +18,7 @@ I feel like was...
 <li class="page"><a href="ironman2021-52weeksout">August 30, 2020 - 52 Weeks Out</a></li>
 </ul>
 
-<!---->
+![From my bike ride, September 29th, 2020.](/assets/jpg/IMG_2831-977x550.jpg Trial Island as seen from Beach Drive)
 ## SUNDAY SEP 27 🌥
 Sleep **3** | Fatigue **3** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -49,7 +49,7 @@ Total Time: **0 minutes**
 
 Early to bed last night and I had a solid night's sleep.  Regardless, I still feeling yesterday's run in my legs this morning.
 
-By 16:00 and after being on the computer all day, I looked out the window at the nice weather and thought about how nice it would be to get a run in.  I passed knowing that I have a plan for [tomorrow](javascript:flkty.select(4);) and [Wednesday](javascript:flkty.select(5);).
+By 16:00 and after being on the computer all day, I looked out the window at the nice weather and thought about how nice it would be to get a run in.  I passed knowing that I have a plan for [tomorrow](javascript:flkty.select(5);) and [Wednesday](javascript:flkty.select(7);).
 
 Today was a **recovery day**.
 
@@ -76,6 +76,7 @@ I did stop for a bit to say hello to an old hockey buddy who was out for a walk.
 
 Getting back home, I didn't waste much time getting into the Nikes and heading out towards Quadra.  Quads, hammies and glutes felt ok but my soleus' were pretty lit up and my ankles (Fibularis Tertius) were sore too.  The soreness did begin to calm down after about 25 minutes (false flat, downhill).
 
+![Ride Map](/assets/jpg/bikemap-20200929.jpeg)
 
 <!---->
 ## WEDNESDAY SEP 30
