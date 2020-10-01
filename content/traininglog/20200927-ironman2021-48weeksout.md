@@ -111,8 +111,8 @@ The 20 minute tempo was run at my most consistent effort of **5:05/km**.  This m
 ![Pace Chart](/assets/jpg/pacechart-20200930.jpeg)
 
 <!---->
-## THURSDAY OCT 01
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## THURSDAY OCT 01 ☀
+Sleep **2** | Fatigue **3** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -123,7 +123,7 @@ Please hold back on this ride!
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I had another solid sleep last night and I think I am still feeling a _"runner's high"_ from yesterday's time at the track.
 
 
 <!---->
