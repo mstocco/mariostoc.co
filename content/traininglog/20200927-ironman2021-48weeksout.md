@@ -81,7 +81,7 @@ Ride Distance: **27 km** &nbsp; Moving Time: **1:07:00**
 
 <!---->
 ## WEDNESDAY SEP 30
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **2** | Fatigue **4** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -94,12 +94,17 @@ Mobility: 12 minutes | Run: Track
 * 15 minutes easy running to cool down.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **90 minutes**
 
-&mdash; 
+I had a decent sleep last night.
 
+The hip mobility routine was done just before heading to the track.  It help me work out some stiffness in my adductors that I didn't know were tight... Interesting.
 
-<!---->
+So I had a bit of a build up ever since I saw this run workout hit my inbox.  It was NOT another attempts at 12.5 laps but it is a chance to nail some paces on the track.  The warm up went ok; my soleus' took their time to loosen up and they did before the first set of 100s.  The 5x100 may have been the trickiest for me to get right as before I had a chance to settle into a pace, the effort was over.  The 3x300 on the other hand came in as **1:19.2**, **1:19.4** and **1:20.1** with the last one feeling the easiest.
+
+The 20 minute tempo was run at my most consistent effort of **5:05/km**.  This may be a touch faster than the 1/2 Marathon pace but it was less than my 10K effort.  It was a rhythm that I found easy to lock into an stay at for 20 minutes.
+ 
+ <!---->
 ## THURSDAY OCT 01
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
