@@ -94,7 +94,7 @@ Mobility: 12 minutes | Run: Track
 * 15 minutes easy running to cool down.
 
 ### NOTES
-Total Time: **90 minutes**
+Total Time: **65 minutes** (+30 minutes on the bike)
 
 I had a decent sleep last night.
 
