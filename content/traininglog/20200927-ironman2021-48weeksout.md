@@ -108,7 +108,7 @@ The warm up went ok; my soleus' took their time to loosen up and they did before
 The 20 minute tempo was run at my most consistent effort of **5:05/km**.  This may be a touch faster than the 1/2 Marathon pace but it was less than my 10K effort.  It was a rhythm that I found easy to lock into an stay at for 20 minutes.
 
 ### Pace Chart
-![Pace Chart](/assets/jpg/runchart-20200923.jpeg)
+![Pace Chart](/assets/jpg/runchart-20200930.jpeg)
 
 <!---->
 ## THURSDAY OCT 01
