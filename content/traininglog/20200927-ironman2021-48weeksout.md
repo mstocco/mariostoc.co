@@ -94,11 +94,11 @@ Mobility: 12 minutes | Run: Track
 * 15 minutes easy running to cool down.
 
 ### NOTES
-Total Time: **65 minutes** (+30 minutes on the bike)
+Total Time: **65 minutes** (+30 mins on the bike)
 
 I had a decent sleep last night.
 
-The hip mobility routine was done just before heading to the track.  It worked out some stiffness in my adductors that I didn't know were tight... Interesting.
+The hip mobility routine was done before heading to the track.  It worked out some stiffness in my adductors that I didn't know were tight... Interesting.
 
 <!---->
 So I had this run workout ear-marked ever since I saw it hit my inbox.  It was NOT another attempt at 12.5 laps but it was a chance to **nail some paces** on the track.
