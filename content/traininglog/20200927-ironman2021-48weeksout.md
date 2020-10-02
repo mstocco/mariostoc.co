@@ -117,8 +117,7 @@ Sleep **2** | Fatigue **3** | Stress **3** | Soreness **3**
 
 ### PLANNED WORKOUT
 Ride 1:15 on the MTB or on some hilly roads. Overall an easy/fun 
-effort. I'm sure you'll be fairly tired from the day before. 
-Please hold back on this ride!
+effort. I'm sure you'll be fairly tired from the day before.
 
 ### NOTES
 Total Time: **70 minutes**
