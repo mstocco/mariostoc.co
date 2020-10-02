@@ -122,7 +122,7 @@ effort. I'm sure you'll be fairly tired from the day before.
 ### NOTES
 Total Time: **70 minutes**
 
-I had another solid sleep last night and I am still feeling a _"runner's high"_ from yesterday's workout.
+Another solid sleep last night and I am still feeling a _"runner's high"_ from yesterday's workout.
 
 Before heading out on my ride, I took some time to re-seat the tire bead on the back rim of my mountain bike.  I didn't get it perfect but it was better than what it was.  I was staring to run low on daylight.
 
@@ -152,7 +152,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Ride 2:30 on TT bike. Generally flatter route (Up the peninsula) Remembering to eat at least 200 calories an hour. Effort is easy to steady. Nothing too crazy. Just a nice weekend ride. 
+Off the bike: Run 30 minutes. Flat route. Easy effort.
 
 ### NOTES
 Total Time: **0 minutes**
