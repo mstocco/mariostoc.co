@@ -123,7 +123,7 @@ Please hold back on this ride!
 ### NOTES
 Total Time: **70 minutes**
 
-I had another solid sleep last night and I think I am still feeling a _"runner's high"_ from yesterday's time at the track.
+I had another solid sleep last night and I am still feeling a _"runner's high"_ from yesterday's workout.
 
 Before heading out on my ride, I took some time to re-seat the tire bead on the back rim of my mountain bike.  I didn't get it perfect but it was better than what it was.  I was staring to run low on daylight.  A lap through Thetis Park should be all I have time for tonight.
 
