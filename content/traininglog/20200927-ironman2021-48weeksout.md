@@ -124,8 +124,6 @@ Total Time: **70 minutes**
 
 Another solid sleep last night and I am still feeling a _"runner's high"_ from yesterday's workout.
 
-Before heading out on my ride, I took some time to re-seat the tire bead on the back rim of my mountain bike.  I was staring to run low on daylight.
-
 This was a more **spirited ride** than I was expecting to be able to have; my legs didn't feel overly fatigued from last night's effort on the track (maybe a little).  I felt good and not just by my own perception; Strava confirmed as much awarding me a few PR's for some of segments on the loop.
 
 I am going to have to be a bit more diligent at putting my bikes away, ready for their next use though.  Playing bike mechanic after work with waning daylight will be a thing in the next month.
