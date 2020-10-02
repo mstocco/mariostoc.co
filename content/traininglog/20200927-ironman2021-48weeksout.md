@@ -121,14 +121,19 @@ effort. I'm sure you'll be fairly tired from the day before.
 Please hold back on this ride!
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **70 minutes**
 
 I had another solid sleep last night and I think I am still feeling a _"runner's high"_ from yesterday's time at the track.
 
+Before heading out on my ride, I took some time to re-seat the tire bead on the back rim of my mountain bike.  I didn't get it perfect but it was better than what it was.  I was staring to run low on daylight.  A lap through Thetis Park should be all I have time for tonight.
+
+This was a more **spirited ride** than I was expecting to be able to have; my legs didn't feel overly fatigued from last night's effort on the track (maybe a little).  I felt good and not just by my own perception; Strava confirmed as much awarding me a few PR's for some of segments on the loop.
+
+I am going to have to be a bit more diligent at putting my bikes away, ready for their next use though.  Playing bike mechanic after work with waning daylight will be a thing in the next month.
 
 <!---->
 ## FRIDAY OCT 02
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -138,7 +143,8 @@ Run 40 minutes. Flat route. EASY effort.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I did not wake up as refreshed as I have been throughout this week.  I have a hint of a headache and I am wondering if it was the bit of forest fire smoke in the air yesterday.  Who knows?
+
 
 
 <!---->
