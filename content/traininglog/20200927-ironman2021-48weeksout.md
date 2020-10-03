@@ -126,11 +126,13 @@ Another solid sleep last night and I am still feeling a _"runner's high"_ from y
 
 This was a more **spirited ride** than I was expecting to be able to have; my legs didn't feel overly fatigued from last night's effort on the track (maybe a little).  I felt good and not just by my own perception; Strava confirmed as much awarding me a few PR's for some of segments on the loop.
 
-I am going to have to be a bit more diligent at putting my bikes away, ready for their next use though.  Playing bike mechanic after work with waning daylight will be a thing in the next month.
+I arrived at the trailhead right at sundown. That, I figured, would give me about 30ish minutes of light to get through the forest; enough time to loop through the park if I hustled.  The first thing I noticed was that the ground was still _"soft"_ from last week's rain.  I hadn't hit any single track trails and _"Comfy Wooden Chair"_ is really only 5 minutes long so I turned off the fire road for a bit of an extra challenge; this wasn't my cleanest run on this section but it was still fun.  Getting on to Bellamy Trail had me out of the park and back into the sub-divsion in no time.  In fact, I was home 5 minutes ahead of schedule.
+
+One thing though...  I am going to have to be more diligent at putting my bikes away, ready for their next use.  Playing bike mechanic after work with waning daylight will be a thing in the next month.
 
 <!---->
 ## FRIDAY OCT 02
-Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**  
+Sleep **4** | Fatigue<mark> **5** </mark>| Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
