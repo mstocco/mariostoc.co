@@ -7,8 +7,13 @@ Week beginning [Sunday, September 27, 2020](javascript:flkty.select(3);)
 Heading into this week, I feel like I have some momentum from the consistancy from [last week](ironman2021-49weeksout).  The brick workout on [Tuesday](javascript:flkty.select(5);) and the track workout on [Wednesday](javascript:flkty.select(7);) look to be important days.  My goal is to nail those workouts and enjoy the balance of the activities scheduled this week.
 
 ## SUMMARY
-I feel like was...  
-<sup>(filled out at the end of the week)</sup>
+I feel like was **RIGHT WHERE I NEED TO BE.**
+
+I was able to carry last week's momentum into this training week and I got the scheduled work in.  The volume and intensity is right on the money for where I am at too.  I did start to feel the total load on [Friday](javascript:flkty.select();) but I addressed it with a bit more rest.
+
+The fall weather was really nice this week with mostly sunny skies and perfect training temperatures.  There was some forest fire smoke that made for some amazing sunsets too but nothing that impacted training.
+
+I am happy and thankful.
 
 ## TRAINING WEEKS COMPLETED
 <ul class="iconlist">
@@ -154,7 +159,7 @@ I headed out for an easy lap of Swan Lake knowing that today had been an _off-da
 
 <!---->
 ## SATURDAY OCT 03
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **4** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -164,4 +169,4 @@ Off the bike: Run 30 minutes. Flat route. Easy effort.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I slept ok last night but I noticed some fatigue (not soreness) in my legs when walking up the stairs this morning.
