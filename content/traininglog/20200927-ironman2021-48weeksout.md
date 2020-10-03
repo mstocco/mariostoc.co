@@ -128,6 +128,9 @@ This was a more **spirited ride** than I was expecting to be able to have; my le
 
 I arrived at the trailhead right at sundown. That, I figured, would give me about 30 minutes of good light to get through the forest.
 
+### GARMIN MTB FLOW SCORE
+![Flow Score](/assets/jpg/ridechart-20201001.jpeg)
+
 <!---->
 I hadn't hit any single track trails in a while and _"Comfy Wooden Chair"_ is really only 5 minutes long so I turned off the fire road for a bit of an extra challenge; this wasn't my cleanest run on this section but it was still fun.  Getting on to Bellamy Trail had me out of the park and back into the sub-divsion in no time.  In fact, I was home 5 minutes ahead of schedule.
 
