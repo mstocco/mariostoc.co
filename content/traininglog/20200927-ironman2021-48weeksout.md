@@ -126,7 +126,10 @@ Another solid sleep last night and I am still feeling a _"runner's high"_ from y
 
 This was a more **spirited ride** than I was expecting to be able to have; my legs didn't feel overly fatigued from last night's effort on the track (maybe a little).  I felt good and not just by my own perception; Strava confirmed as much awarding me a few PR's for some of segments on the loop.
 
-I arrived at the trailhead right at sundown. That, I figured, would give me about 30ish minutes of light to get through the forest; enough time to loop through the park if I hustled.  The first thing I noticed was that the ground was still _"soft"_ from last week's rain.  I hadn't hit any single track trails and _"Comfy Wooden Chair"_ is really only 5 minutes long so I turned off the fire road for a bit of an extra challenge; this wasn't my cleanest run on this section but it was still fun.  Getting on to Bellamy Trail had me out of the park and back into the sub-divsion in no time.  In fact, I was home 5 minutes ahead of schedule.
+I arrived at the trailhead right at sundown. That, I figured, would give me about 30 minutes of good light to get through the forest.
+
+<!---->
+I hadn't hit any single track trails in a while and _"Comfy Wooden Chair"_ is really only 5 minutes long so I turned off the fire road for a bit of an extra challenge; this wasn't my cleanest run on this section but it was still fun.  Getting on to Bellamy Trail had me out of the park and back into the sub-divsion in no time.  In fact, I was home 5 minutes ahead of schedule.
 
 One thing though...  I am going to have to be more diligent at putting my bikes away, ready for their next use.  Playing bike mechanic after work with waning daylight will be a thing in the next month.
 
