@@ -9,7 +9,7 @@ Heading into this week, I feel like I have some momentum from the consistancy fr
 ## SUMMARY
 I feel like was **RIGHT WHERE I NEED TO BE.**
 
-I was able to carry last week's momentum into this training week and I got the scheduled work in.  The volume and intensity is right on the money for where I am at too.  I did start to feel the total load on [Friday](javascript:flkty.select();) but I addressed it with a bit more rest.
+I was able to carry last week's momentum into this training week and I got the scheduled work in.  The volume and intensity is right on the money for where I am at too.  I did start to feel the total load on [Friday](javascript:flkty.select(11);) but I addressed it with a bit more rest.
 
 The fall weather was really nice this week with mostly sunny skies and perfect training temperatures.
 I am happy and thankful.
