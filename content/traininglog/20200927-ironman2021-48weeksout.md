@@ -145,9 +145,11 @@ Run 40 minutes. Flat route. EASY effort.
 ### NOTES
 Total Time: **31 minutes**
 
-I did not sleep as well as I have been throughout this week.  I woke with a hint of a headache and I am wondering if it was the bit of forest fire smoke in the air yesterday.  After a mentally hard day on the keyboard, I **felt exhausted** and went down for a 30 minute nap.
+I did not sleep as well as I have been throughout this week; I woke with a hint of a headache.
 
-I headed out for an easy lap of Swan Lake knowing that today had been an _off day_ right from the start. About a minute before turning off the asphalt and on to the dirt, I noticed that I was running comfortable and that I could probably do the whole 40 minutes on the bike path.  Nevertheless, I headed for the trail knowing that was probably the healthiest option for today.  I stopped a bit after 30 minutes and took in an incredible sunset through the forest fire smoke.
+After a mentally hard day on the keyboard, I **felt exhausted** and went down for a 30 minute nap.
+
+I headed out for an easy lap of Swan Lake knowing that today had been an _off day_ right from the start. About a minute before turning off the asphalt and on to the dirt, I noticed that I was running comfortable and that I could probably do the whole 40 minutes on the bike path.  Nevertheless, I headed for the trail knowing that was probably the healthiest option for today.  I stopped a bit after 31 minutes and took in an amazing sunset through the forest fire smoke.
 
 <!---->
 ## SATURDAY OCT 03
