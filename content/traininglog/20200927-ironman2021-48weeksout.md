@@ -135,7 +135,7 @@ One thing though...  I am going to have to be more diligent at putting my bikes 
 
 <!---->
 ## FRIDAY OCT 02
-Sleep **4** | Fatigue<mark> **5** </mark>| Stress **4** | Soreness **4**  
+Sleep **4** |<mark> Fatigue **5** </mark>| Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -145,7 +145,7 @@ Run 40 minutes. Flat route. EASY effort.
 ### NOTES
 Total Time: **0 minutes**
 
-I did not wake up as refreshed as I have been throughout this week.  I have a hint of a headache and I am wondering if it was the bit of forest fire smoke in the air yesterday.  Who knows?
+I did not wake up as refreshed as I have been throughout this week.  I have a hint of a headache and I am wondering if it was the bit of forest fire smoke in the air yesterday.  Who knows butr after a long day on the keyboard, I felt **exhausted** and I did get a short nap in.
 
 
 
