@@ -135,7 +135,7 @@ One thing though...  I am going to have to be more diligent at putting my bikes 
 
 <!---->
 ## FRIDAY OCT 02
-Sleep **4** |<mark> Fatigue **5** </mark>| Stress **4** | Soreness **4**  
+Sleep **4** |<mark> Fatigue **5** </mark>| Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -145,9 +145,7 @@ Run 40 minutes. Flat route. EASY effort.
 ### NOTES
 Total Time: **31 minutes**
 
-I did not sleep as well as I have been throughout this week; I woke with a hint of a headache.
-
-After a mentally hard day on the keyboard, I **felt exhausted** and went down for a 30 minute nap.
+I did not sleep as well as I have been throughout this week; I woke with a hint of a headache. After a mentally hard day on the keyboard, I **felt exhausted** and went down for a 30 minute nap.
 
 I headed out for an easy lap of Swan Lake knowing that today had been an _off day_ right from the start. About a minute before turning off the asphalt and on to the dirt, I noticed that I was running comfortable and that I could probably do the whole 40 minutes on the bike path.  Nevertheless, I headed for the trail knowing that was probably the healthiest option for today.  I stopped a bit after 31 minutes and took in an amazing sunset through the forest fire smoke.
 
