@@ -11,19 +11,11 @@ I feel like was **RIGHT WHERE I NEED TO BE.**
 
 I was able to carry last week's momentum into this training week and I got the scheduled work in.  The volume and intensity is right on the money for where I am at too.  I did start to feel the total load on [Friday](javascript:flkty.select();) but I addressed it with a bit more rest.
 
-The fall weather was really nice this week with mostly sunny skies and perfect training temperatures.  There was some forest fire smoke that made for some amazing sunsets too but nothing that impacted training.
-
+The fall weather was really nice this week with mostly sunny skies and perfect training temperatures.
 I am happy and thankful.
 
-## TRAINING WEEKS COMPLETED
-<ul class="iconlist">
-<li class="page"><a href="ironman2021-49weeksout">September 20, 2020 - 49 Weeks Out</a></li>
-<li class="page"><a href="ironman2021-50weeksout">September 13, 2020 - 50 Weeks Out</a></li>
-<li class="page"><a href="ironman2021-51weeksout">September 6, 2020 - 51 Weeks Out</a></li>
-<li class="page"><a href="ironman2021-52weeksout">August 30, 2020 - 52 Weeks Out</a></li>
-</ul>
-
 ![From my bike ride, September 29th, 2020.](/assets/jpg/IMG_2831-977x550.jpg Trial Island as seen from Beach Drive)
+
 ## SUNDAY SEP 27 🌥
 Sleep **3** | Fatigue **3** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -170,3 +162,13 @@ Off the bike: Run 30 minutes. Flat route. Easy effort.
 Total Time: **0 minutes**
 
 I slept ok last night but I noticed some fatigue (not soreness) in my legs when walking up the stairs this morning.
+
+<!---->
+## PREVIOUS TRAINING WEEKS COMPLETED
+<ul class="iconlist">
+<li class="page"><a href="ironman2021-49weeksout">September 20, 2020 - 49 Weeks Out</a></li>
+<li class="page"><a href="ironman2021-50weeksout">September 13, 2020 - 50 Weeks Out</a></li>
+<li class="page"><a href="ironman2021-51weeksout">September 6, 2020 - 51 Weeks Out</a></li>
+<li class="page"><a href="ironman2021-52weeksout">August 30, 2020 - 52 Weeks Out</a></li>
+</ul>
+
