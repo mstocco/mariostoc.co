@@ -163,6 +163,10 @@ Total Time: **0 minutes**
 
 I slept ok last night but I noticed some fatigue (not soreness) in my legs when walking up the stairs this morning.
 
+Getting out on the TT Bike in the afternoon, I continued to feel the fatigue in my legs.  This stuck with me through my trip up the peninsula.  That feeling started to go way by the time I got to the airport (an hour in) and I felt okay for the next 45 minutes (Tatlow ).  Things started to get uncomfortable on my second trip to Lands End Road.  I took a spin back to the airport to eat up some time that I had left on the clock before finishing at my brother-in-law's house in Sidney.
+
+The scheduled 30 minute run off the bike was a 20 minute torture test.  I think this all adds up to me not bringing enough sugar on the ride; my mistake, my lesson learned.
+
 <!---->
 ## PREVIOUS TRAINING WEEKS COMPLETED
 <ul class="iconlist">
