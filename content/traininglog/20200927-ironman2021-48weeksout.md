@@ -163,16 +163,23 @@ Total Time: **0 minutes**
 
 I slept ok last night but I noticed some fatigue (not soreness) in my legs when walking up the stairs this morning.
 
-Getting out on the TT Bike in the afternoon, I continued to feel the fatigue in my legs.  This stuck with me through my trip up the peninsula.  That feeling started to go way by the time I got to the airport (an hour in) and I felt okay for the next 45 minutes (Tatlow ).  Things started to get uncomfortable on my second trip to Lands End Road.  I took a spin back to the airport to eat up some time that I had left on the clock before finishing at my brother-in-law's house in Sidney.
+Getting out on the TT Bike in the afternoon, I continued to feel the **fatigue in my legs**.  This stuck with me through my trip up the peninsula.  That feeling started to go way by the time I got to the airport (an hour in) and I felt okay for the next 45 minutes (through Lands End Road, back to Tatlow Road).
+
+<!---->
+Things started to get uncomfortable on my second trip to Lands End Road.  I took a spin back to the airport to eat up some time that I had left on the clock before finishing at my brother-in-law's house in Sidney.
 
 The scheduled 30 minute run off the bike was a 20 minute torture test.  I think this all adds up to me not bringing enough sugar on the ride; my mistake, my lesson learned.
 
-<!---->
-## PREVIOUS TRAINING WEEKS COMPLETED
+## TRAINING WEEKS PREVIOUS
 <ul class="iconlist">
 <li class="page"><a href="ironman2021-49weeksout">September 20, 2020 - 49 Weeks Out</a></li>
 <li class="page"><a href="ironman2021-50weeksout">September 13, 2020 - 50 Weeks Out</a></li>
 <li class="page"><a href="ironman2021-51weeksout">September 6, 2020 - 51 Weeks Out</a></li>
 <li class="page"><a href="ironman2021-52weeksout">August 30, 2020 - 52 Weeks Out</a></li>
+</ul>
+
+## CURRENT TRAINING WEEK
+<ul class="iconlist">
+<li class="page"><a href="latest">Current Week</li>
 </ul>
 
