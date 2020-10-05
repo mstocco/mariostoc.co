@@ -2,9 +2,7 @@
 
 This section of my website is a week by week account of my
 experience in the build up toward completing my FIRST IRONMAN 
-distance triathlon.
-
-I hope it is relevant for:
+distance triathlon.  I hope it is relevant for:
 
 * Friends and family wanting to know why I can't do [_some activity_] on weekends anymore.
 * Those embarked on their own similar journey and want to read about my process.
