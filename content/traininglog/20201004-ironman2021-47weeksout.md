@@ -1,5 +1,5 @@
 # IRONMAN TRAINING 2021
-Week beginning Sunday, October 4, 2020
+Week beginning [Sunday, October 4, 2020](javascript:flkty.select(2);)
 
 **47 weeks** until IRONMAN Canada.
 
@@ -35,7 +35,7 @@ The sun came out and it was quite warm.
 While I jogged comfortably home at last year's marathon pace, I got a text message from Mike McD. in Calgary to let me know that while I was doing this workout, he had bested my 10K PB.
 
 ### PACE CHART
-![Pace Chart](/assets/jpg/runchart-20201004.jpeg)
+![Pace Chart](/assets/jpg/pacechart-20201004.jpeg)
 
 <!---->
 ## MONDAY OCT 05
