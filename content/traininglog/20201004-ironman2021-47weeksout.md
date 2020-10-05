@@ -39,7 +39,7 @@ While I jogged home, I got a message from Mike McD. in Calgary to let me know th
 
 <!---->
 ## MONDAY OCT 05
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **2** | Fatigue **5** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -48,7 +48,7 @@ Mobility 25 minutes
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I slept well last night and I feel like I had a solid weekend as there is residual fatigue and soreness on this foggy Monday morning.
 
 
 <!---->
