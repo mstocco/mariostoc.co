@@ -12,7 +12,7 @@ I feel like was... <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT
 
 <!---->
 ## SUNDAY OCT 04 🌤
-Sleep **4** | Fatigue **-** | Stress **2** | Soreness **-**  
+Sleep **4** | Fatigue **3** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -21,7 +21,7 @@ Run 90 minutes: 20 minutes easy running to warm up. 8x 200 strides @ 5k effort/p
 _Ideally you'll do this on the track and you'll have at least 200 calories on hand. AND enough water_.
 
 ### NOTES
-Total Time: **90 minutes**
+Total Time: **90 minutes** &nbsp; Distance: **15 km**
 
 I went to bed early last night but didn't have the best sleep.  I was up for a bathroom break and had a night sweats too.  When morning did come, I did have a big pancake breakfast to start the day off on a better note.
 
