@@ -7,8 +7,18 @@ Week beginning [Sunday, October 4, 2020](javascript:flkty.select(2);)
 My goal this week is to enjoy the process and enjoy training with some new scenery (Pender Island)
 
 ## SUMMARY
-I feel like was... <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel like was...  
+<sup>(completed at the end of the week)</sup>
+<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
+## THE WEEKS OF SEPTEMBER
+<ul class="iconlist">
+<li class="page"><a href="ironman2021-52weeksout">52 Weeks Out - August 30, 2020</a></li>
+<li class="page"><a href="ironman2021-51weeksout">51 Weeks Out - September 6, 2020</a></li>
+<li class="page"><a href="ironman2021-50weeksout">50 Weeks Out - September 13, 2020</a></li>
+<li class="page"><a href="ironman2021-49weeksout">49 Weeks Out - September 20, 2020</a></li>
+<li class="page"><a href="ironman2021-48weeksout">48 Weeks Out - September 27, 2020</a></li>
+</ul>
 
 <!---->
 ## SUNDAY OCT 04 🌤
