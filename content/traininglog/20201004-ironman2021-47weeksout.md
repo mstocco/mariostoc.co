@@ -21,14 +21,14 @@ Run 90 minutes: 20 minutes easy running to warm up. 8x 200 strides @ 5k effort/p
 _Ideally you'll do this on the track and you'll have at least 200 calories on hand. AND enough water_.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **90 minutes**
 
 I went to bed early last night but didn't have the best sleep.  I was up for a bathroom break and had a night sweats too.  When morning did come, I did have a big pancake breakfast to start the day off on a better note.
 
 <!---->
-I was a bit pressed for time this afternoon so instead of riding my bike to the track at PISE, I did the warmup as a 20 minute jog to Esquimalt High School.  The first set of 200s had a target of 51 seconds.  I nailed **51.4**, **50.6**, **51.9**, **50.2**, **50.9**, **50.5**, **50.9** and **50.3**; these felt fast, smooth and comfortable.
+I was a bit pressed for time this afternoon so instead of riding my bike to the track at PISE, I did the warmup as a 20 minute jog to Esquimalt High School.  The first set of 200s had a target of 51 seconds.  I ran **51.4**, **50.6**, **51.9**, **50.2**, **50.9**, **50.5**, **50.9** and **50.3**; these felt smooth and comfortable.
 
-After a quick sip of water, the tempo efforts of 3x10 minutes began; my target pace was 5:08/km.  Following the 200s, the first 10 minutes was nailed at **5:08/km**.  I had a gel while in the recovery time before the 2nd 10 minute rep.  The next 2 reps went by quickly and I found a comfortable rhythm at **5:10/km** for both.
+After a quick sip of water, the tempo efforts of 3x10 minutes began; my target pace was 5:08/km.  The first effort was run at **5:08/km**.  I had a gel while in the recovery time before the 2nd 10 minute rep.  The next 2 reps went by quickly and I found a comfortable rhythm at **5:10/km** for both.
 
 I jogged comfortably home at last year's marathon pace.
 
