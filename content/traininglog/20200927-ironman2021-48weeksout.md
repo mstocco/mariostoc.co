@@ -173,7 +173,7 @@ I took a spin back to the airport to eat up some time that I had left on the clo
 The scheduled 30 minute run off the bike was a **20-minute torture test**.  I think this all adds up to me not bringing enough sugar on the ride; my mistake, my lesson learned.
 
 ## TRAINING WEEKS PREVIOUS
-<ul class="iconlist">b
+<ul class="iconlist">
 <li class="page"><a href="ironman2021-49weeksout">September 20, 2020 - 49 Weeks Out</a></li>
 <li class="page"><a href="ironman2021-50weeksout">September 13, 2020 - 50 Weeks Out</a></li>
 <li class="page"><a href="ironman2021-51weeksout">September 6, 2020 - 51 Weeks Out</a></li>
