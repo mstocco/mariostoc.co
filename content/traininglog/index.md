@@ -16,9 +16,9 @@ For a bit of context, I am approaching my 50th bithday and do
 not have a great amount of endurance sport experience.  I do
 have the desire to see this journey to this next finish line.
 
-The [current training week](latest) can be found [here](latest).
+My [current training week](latest) can be found [here](latest).
 
-My [list of completed weeks](javascript:flkty.select(3);) can be found [here](javascript:flkty.select(3);).
+The [list of completed weeks](javascript:flkty.select(3);) can be found [here](javascript:flkty.select(3);).
 
 ![Argon 18 E-118 Next](/assets/jpg/argon18e-118next-979x550.jpg My TT Bike)
 
