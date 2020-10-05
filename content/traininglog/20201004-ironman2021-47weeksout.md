@@ -32,6 +32,8 @@ After a quick sip of water, the tempo efforts of 3x10 minutes began; my target p
 
 While I jogged comfortably home at last year's marathon pace, I got a text message from Mike McD. in Calgary to let me know that while I was doing this workout, he had bested my 10K PB.
 
+![Pace Chart](/assets/jpg/runchart-20201004.jpeg)
+
 <!---->
 ## MONDAY OCT 05
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
