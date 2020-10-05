@@ -1,24 +1,24 @@
 # IRONMAN TRAINING 2021
 
-This part of my website contains a series of weekly updates 
-aimed at sharing my experience as I build toward completing my
-FIRST IRONMAN distance triathon. I hope it is relevant for:
+This section of my website is a week by week account of my
+experience in the build up toward completing my FIRST IRONMAN 
+distance triathlon.
 
-* Friends and family wanting to know why I can't do [_insert activity here_] on weekends anymore.
+I hope it is relevant for:
+
+* Friends and family wanting to know why I can't do [_some activity_] on weekends anymore.
 * Those embarked on their own similar journey and want to read about my process.
 * My boss who may be wondering _"the real reason"_ we are getting too close to our project's deadline.
 
 Most importantly, this training log is relevant for me, as a 
-record and reminder of this experience, the hurdles faced, the
-victories won, the learnings and the bonds formed along the 
-way.
+record my experiences, the hurdles I face, the victories won 
+and importanly, the bonds formed along the way.
 
 For a bit of context, I am approaching my 50th bithday and do 
 not have a great amount of endurance sport experience.  I do
 have the desire to see this journey to this next finish line.
 
----
-The [current week](latest) of this training log can be found [here](latest).
+The [current training week](latest) can be found [here](latest).
 
 My [list of completed weeks](javascript:flkty.select(3);) can be found [here](javascript:flkty.select(3);).
 
