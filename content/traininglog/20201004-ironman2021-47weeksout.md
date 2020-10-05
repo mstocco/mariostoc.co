@@ -30,9 +30,7 @@ I was a bit pressed for time this afternoon so instead of riding my bike to the 
 
 After a quick sip of water, the tempo efforts of 3x10 minutes began; my target pace was 5:08/km.  The first effort was run at **5:08/km**.  I had a gel while in the recovery time before the 2nd 10 minute rep.  The next 2 reps went by quickly and I found a comfortable rhythm at **5:10/km** for both.
 
-I jogged comfortably home at last year's marathon pace.
-
-I got a text message from Mike McD. in Calgary to let m e know that while I was doing this workout, he had bested my 10K PB.
+While I jogged comfortably home at last year's marathon pace, I got a text message from Mike McD. in Calgary to let me know that while I was doing this workout, he had bested my 10K PB.
 
 <!---->
 ## MONDAY OCT 05
