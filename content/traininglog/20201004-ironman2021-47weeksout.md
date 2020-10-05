@@ -26,11 +26,11 @@ Total Time: **90 minutes** &nbsp; Distance: **15 km**
 I went to bed early last night but didn't have the best sleep.  I was up for a bathroom break and had a night sweats too.  When morning did come, I did have a big pancake breakfast to start the day off on a better note.
 
 <!---->
-For the 20 minute warmup, I jogged to the track at Esquimalt High.  The first set of 200s had a target of 51 seconds.  I ran **51.4**, **50.6**, **51.9**, **50.2**, **50.9**, **50.5**, **50.9** and **50.3**; these felt smooth and comfortable.
-
-After a quick sip of water, the tempo efforts of 3x10 minutes began; my target pace was 5:08/km.  The first effort was run at **5:08/km**.  I had a gel while in the recovery time before the 2nd 10 minute rep.  The next 2 reps went by quickly and I found a comfortable rhythm at **5:10/km** for both.
+For the 20 minute warmup, I jogged to the track at Esquimalt High.  The first effort of 200s had a target of 51 seconds.  I ran **51.4**, **50.6**, **51.9**, **50.2**, **50.9**, **50.5**, **50.9** and **50.3**; these felt smooth and comfortable.
 
 The sun came out and it was quite warm.
+
+After a quick sip of water, the tempo efforts of 3x10 minutes began; my target pace was 5:08/km.  The first effort was run at **5:08/km**.  I had a gel while in the recovery time before the 2nd 10 minute rep.  The next 2 reps went by quickly and I found a comfortable rhythm at **5:10/km** for both.
 
 While I jogged comfortably home at last year's marathon pace, I got a text message from Mike McD. in Calgary to let me know that while I was doing this workout, he had bested my 10K PB.
 
