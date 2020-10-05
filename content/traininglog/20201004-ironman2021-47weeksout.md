@@ -11,19 +11,27 @@ I feel like was... <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT
 
 
 <!---->
-## SUNDAY OCT 04 ☁
+## SUNDAY OCT 04 🌤
 Sleep **4** | Fatigue **-** | Stress **2** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Run 90 minutes: 20 minutes easy running to warm up. 8x 200 strides @ 5k effort/pace @ 51-54 seconds per 200, 100 as 20 meters slowing to a walk, 60 meters walking, 20 meters shuffling back to a run. 3x 10 minutes @ 1/2 marathon effort/feel (lets aim for 5:08-5:15 per km) 5 minutes WALKING after each effort. 10 minutes easy jogging to cool down.  
-_Ideally you'll do this on the track and you'll have at least 200 calories on hand. AND enough water. _
+Run 90 minutes: 20 minutes easy running to warm up. 8x 200 strides @ 5k effort/pace @ 51-54 seconds per 200, 100 as 20 meters slowing to a walk, 60 meters walking, 20 meters shuffling back to a run. 3x 10 minutes @ 1/2 marathon effort/feel (lets aim for 5:08-5:15 per km) 5 minutes WALKING after each effort. 10 minutes easy jogging to cool down.
+
+_Ideally you'll do this on the track and you'll have at least 200 calories on hand. AND enough water_.
 
 ### NOTES
 Total Time: **0 minutes**
 
-I went to bed early last night but didn't have the best sleep.  
+I went to bed early last night but didn't have the best sleep.  I was up for a bathroom break and had a night sweats too.  When morning did come, I did have a big pancake breakfast to start the day off on a better note.
 
+I was a bit pressed for time this afternoon so instead of riding my bike to the track at PISE, I did the warmup as a 20 minute jog to Esquimalt High School.  The first set of 200s had a target of 51 seconds.  I nailed **51.4**, **50.6**, **51.9**, **50.2**, **50.9**, **50.5**, **50.9** and **50.3**; these felt fast, smooth and comfortable.
+
+After a quick sip of water, the tempo efforts of 3x10 minutes began; my target pace was 5:08/km.  Following the 200s, the first 10 minutes was nailed at **5:08/km**.  I had a gel while in the recovery time before the 2nd 10 minute rep.  The next 2 reps went by quickly and I found a comfortable rhythm at **5:10/km** for both.
+
+I jogged comfortably home at last year's marathon pace.
+
+I got a text message from Mike McD. in Calgary to let m e know that while I was doing this workout, he had bested my 10K PB.
 
 <!---->
 ## MONDAY OCT 05
