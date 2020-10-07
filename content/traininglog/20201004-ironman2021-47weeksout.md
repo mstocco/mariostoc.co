@@ -107,7 +107,10 @@ Total Time: **70 minutes**
 
 I had a bit of a restless sleep last night; weird because I am in a bit of paridise here on Pender Island.  I am off to a relaxing slow start to the day.
 
-It was a climb out of Otter Bay to the flattest section of road that I have seen on the Island.  I took it easy and got there in about 20 minutes.  Bedwell Harbour Road is a main thoroughfare and has no shoulder but beside it was a grass strip (probably the original roadbed) that could serve as my runways for the 30 second strides.  Doing the workout on that surface could have been likened to running XC.
+![Run Chart](/assets/jpg/runchart-20201005.jpeg)
+
+<!---->
+It was a climb out of Otter Bay to Bedwell Harbour Road, the flattest section of road that I have seen on the Island.  I took it easy and got there in about 20 minutes. This road a main thoroughfare and has no shoulder but beside it was a grass strip (probably the original roadbed) that could serve as my runways for the 30 second strides.  Doing the workout on that surface could have been likened to running XC.
 
 <!---->
 ## THURSDAY OCT 08
