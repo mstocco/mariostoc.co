@@ -65,7 +65,7 @@ I spent the day on the keyboard getting as much done as I could for work as I bo
 This Monday was a **recovery day**.
 
 <!---->
-## TUESDAY OCT 06
+## TUESDAY OCT 06 ☀️
 Sleep **3** | Fatigue **4** | Stress **3** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -76,16 +76,18 @@ OTB: Run 30 minutes. Flat route. Easy effort.
 ### NOTES
 Total Time: **130 minutes**
 
-I woke up from an OK sleep and decided to repeat the 15 minute mobility routine from a few days ago.  My day was going to be hectic so I set off before breakfast to at least get the 30 minute jog in.  
+I woke up from an **ok sleep** and decided to start my day with the 15 minute mobility routine from a few days ago.  My day was going to be hectic so I set off before breakfast to at least get the 30 minute jog in.  
 
-That early morning jog **sucked so much** that I needed to walk to relax my soleus' a few times.  I cut the activity short to 20 minutes.  This was disappointing.
+That early morning jog **sucked so much** that I needed to walk to relax my soleus' a few times.  I cut the activity short to 20 minutes.
+
+Disappointed is the only way I could describe that activity.
 
 <!---->
 At noon, Carina dropped me off at the ICBC office so I could renew my driver's licence.  Once I was done, I started to walk home when it occurred to me that if I jogged for a bit, I could save a bit of time.  What a difference a couple hours made;  I was able to jog **very comfortable** at a 5:40/km pace for the next 12 minutes.
 
-We took the 14:20 sailing to Pender Island.
+We took the 14:20 sailing to Pender Island.  It was sunny and warm.
 
-Considering that I was still missing the scheduled ride, I put my road bike together and set of to "explore".   No worries about finding a hilly route here; there are NO FLAT ROADS on this little island.  I am feeling **a little cooked** as I write in this day's notes.  It also means [Thursday's ride](javascript:flkty.select(10);) is going to be full effort as well.
+Considering that I was still missing the scheduled ride, I put my road bike together and set of to "explore".   No worries about finding a hilly route here; there are NO FLAT ROADS on this little island.  I am feeling **a little cooked** as I write in this day's notes.  It also means [Thursday's ride](javascript:flkty.select(8);) is going to be full effort as well.
 
 <!---->
 ## WEDNESDAY OCT 07
