@@ -105,15 +105,15 @@ _Bring a gel or some form of calories._
 ### NOTES
 Total Time: **70 minutes**
 
-I had a bit of a restless sleep last night; weird because I am in a bit of paridise here on Pender Island.  I enjoyed a slow, relaxing start to the day.
+I had a bit of a restless sleep last night; weird because I am in a bit of paridise here on Pender Island.  I enjoyed a slow, relaxing start to the day.   
 
 Run Distance: **11.3 km** &nbsp; Ascent: **132 m** 
 ![Run Chart](/assets/jpg/runchart-20201005.jpeg)
 
 <!---->
-It was a climb out of Otter Bay to Bedwell Harbour Road, the flattest section of road that I have seen on the Island.  I took it easy and got there in about 20 minutes. This road a main thoroughfare and has no shoulder but beside it was a grass strip (probably the original roadbed) that could serve as my runway for the 30 second strides.  Doing the workout on that surface could have been likened to running XC.
+It was a climb out of Otter Bay to get to Bedwell Harbour Road, the flattest section of road that I have seen on the Island.  I took it easy and got there in about 20 minutes. This road is a main thoroughfare with no shoulder but beside it was a grass strip (probably the original roadbed) that would be my runway for the 30 second strides.  Doing the workout on that surface could have been likened to running a flat bit of XC (and no mud).
 
-The easy portions of this run were **easy** and I felt some residual fatigue on the last few strides and the last hill before returning to Otter Bay.  My soleus' felt **better than expected** and only protested on the last long downhill.
+The easy portions of this run were **easy**. I felt some residual fatigue on the last few strides and going up the last hill before descending into Otter Bay.  My soleus' felt **better than expected** and only protested on the last long downhill.  I also enjoyed a coffee flavoured Rekarb at the half-way point of the run.
  
 <!---->
 ## THURSDAY OCT 08
