@@ -94,7 +94,7 @@ Distance: **34 km** &nbsp; Vertical: **685 m**
 
 <!---->
 ## WEDNESDAY OCT 07
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **4** | Fatigue **-** | Stress **2** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -105,7 +105,7 @@ _Bring a gel or some form of calories._
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I had a bit of a restless sleep last night; weird because I am in a bit of paridise here on Pender Island.  I am off to a relaxing slow start to the day. 
 
 <!---->
 ## THURSDAY OCT 08
