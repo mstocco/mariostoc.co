@@ -76,9 +76,12 @@ OTB: Run 30 minutes. Flat route. Easy effort.
 ### NOTES
 Total Time: **130 minutes**
 
-I woke up from an OK sleep and decided to repeat the 15 minute mobility routine from a few days ago.  My day was going to be hectic so I set off before breakfast to at least get the 30 minute jog in.  That jog **sucked so much** that I walked to relax my soleus' a couple times and cut the activity short to 20 minutes.  This was disappointing.
+I woke up from an OK sleep and decided to repeat the 15 minute mobility routine from a few days ago.  My day was going to be hectic so I set off before breakfast to at least get the 30 minute jog in.  
 
-Carina dropped me off at the ICBC office so I could renew my driver's licence.  Once I was done, I started to walk home when it occurred to me that if I jogged for a bit, I could save a bit of time.  What a difference a couple hours made as I jogged very **comfortable** at a 5:40/km pace for the next 12 minutes.
+That early morning jog **sucked so much** that I needed to walk to relax my soleus' a few times.  I cut the activity short to 20 minutes.  This was disappointing.
+
+<!---->
+At noon, Carina dropped me off at the ICBC office so I could renew my driver's licence.  Once I was done, I started to walk home when it occurred to me that if I jogged for a bit, I could save a bit of time.  What a difference a couple hours made;  I was able to jog **very comfortable** at a 5:40/km pace for the next 12 minutes.
 
 We took the 14:20 sailing to Pender Island.
 
