@@ -93,8 +93,8 @@ Distance: **34 km** &nbsp; Vertical: **685 m**
 ![Ride Map](/assets/jpg/ridemap-20201004a.jpeg)
 
 <!---->
-## WEDNESDAY OCT 07
-Sleep **4** | Fatigue **-** | Stress **2** | Soreness **-**  
+## WEDNESDAY OCT 07 ☀️
+Sleep **4** | Fatigue **4** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -103,9 +103,11 @@ Run 75 minutes: 20 minutes easy running to warm up. 10x :30 strides, :30 WALK af
 _Bring a gel or some form of calories._ 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **70 minutes**
 
-I had a bit of a restless sleep last night; weird because I am in a bit of paridise here on Pender Island.  I am off to a relaxing slow start to the day. 
+I had a bit of a restless sleep last night; weird because I am in a bit of paridise here on Pender Island.  I am off to a relaxing slow start to the day.
+
+It is a climb out of Otter Bay to the flattest section of road that I have seen on the Island and by taking it easy, it should be about 20 minutes to get there.  The road is a main thoroughfare and has no shoulder but there was a grass strip (probably the original roadbed) that could serve as my runways for the 30 second strides.  Doing the workout on that surface could have been likened to running XC.
 
 <!---->
 ## THURSDAY OCT 08
