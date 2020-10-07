@@ -107,7 +107,7 @@ Total Time: **70 minutes**
 
 I had a bit of a restless sleep last night; weird because I am in a bit of paridise here on Pender Island.  I am off to a relaxing slow start to the day.
 
-Distance: ** 11.3 km** &nbsp; Ascent: **132 m** 
+Run Distance: **11.3 km** &nbsp; Ascent: **132 m** 
 ![Run Chart](/assets/jpg/runchart-20201005.jpeg)
 
 <!---->
