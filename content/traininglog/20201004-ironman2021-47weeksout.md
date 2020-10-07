@@ -89,6 +89,8 @@ We took the 14:20 sailing to Pender Island.  It was sunny and warm.
 
 Considering that I was still missing the scheduled ride, I put my road bike together and set of to "explore".   No worries about finding a hilly route here; there are NO FLAT ROADS on this little island.  I am feeling **a little cooked** as I write in this day's notes.  It also means [Thursday's ride](javascript:flkty.select(8);) is going to be full effort as well.
 
+![Ride Map](/assets/jpg/ridemap-20201004.jpeg)
+
 <!---->
 ## WEDNESDAY OCT 07
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
