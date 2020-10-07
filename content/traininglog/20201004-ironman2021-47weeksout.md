@@ -85,10 +85,11 @@ Disappointed is the only way I could describe that run.
 <!---->
 At noon, Carina dropped me off at the ICBC office so I could renew my driver's licence.  Once I was done, I started to walk home when it occurred to me that if I jogged for a bit, I could save a bit of time.  What a difference a couple hours made;  I was able to jog **very comfortable** at a 5:40/km pace for the next 12 minutes.
 
-We took the 14:20 sailing to Pender Island.  It was sunny and warm.
+We took the 14:20 sailing to Pender Island. 
 
 Considering that I was still missing the scheduled ride, I put my road bike together and set of to "explore".   No worries about finding a hilly route here; there are NO FLAT ROADS on this little island.  I am feeling **a little cooked** as I write in this day's notes.  It also means [Thursday's ride](javascript:flkty.select(8);) is going to be full effort as well.
 
+Distance: **34 km** &nbsp; Vertical: **685 m**
 ![Ride Map](/assets/jpg/ridemap-20201004a.jpeg)
 
 <!---->
