@@ -48,7 +48,7 @@ While I jogged home, I got a message from Mike McD. in Calgary to let me know th
 ![Pace Chart](/assets/jpg/pacechart-20201004.jpeg)
 
 <!---->
-## MONDAY OCT 05
+## MONDAY OCT 05 🌤
 Sleep **2** | Fatigue **5** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -60,10 +60,13 @@ Total Time: **0 minutes**
 
 I slept well last night and I feel like I had a solid weekend as there is residual fatigue and soreness on this foggy Monday morning.
 
+I spent the day on the keyboard getting as much done as I could for work as I booked time off for the remainder of the week.
+
+This Monday was a **recovery day**.
 
 <!---->
 ## TUESDAY OCT 06
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -71,10 +74,15 @@ Ride 90 minutes easy/fun on MTB. You can substitute for another bike if you like
 OTB: Run 30 minutes. Flat route. Easy effort. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **130 minutes**
 
-&mdash; 
+I woke up from an OK sleep and decided to repeat the 15 minute mobility routine from a few days ago.  My day was going to be hectic so I set off before breakfast to at least get the 30 minute jog in.  That jog **sucked so much** that I walked to relax my soleus' a couple times and cut the activity short to 20 minutes.  This was disappointing.
 
+Carina dropped me off at the ICBC office so I could renew my driver's licence.  Once I was done, I started to walk home when it occurred to me that if I jogged for a bit, I could save a bit of time.  What a difference a couple hours made as I jogged very **comfortable** at a 5:40/km pace for the next 12 minutes.
+
+We took the 14:20 sailing to Pender Island.
+
+Considering that I was still missing the scheduled ride, I put my road bike together and set of to "explore".   No worries about finding a hilly route here; there are NO FLAT ROADS on this little island.  I am feeling **a little cooked** as I write in this day's notes.  It also means [Thursday's ride](javascript:flkty.select(10);) is going to be full effort as well.
 
 <!---->
 ## WEDNESDAY OCT 07
@@ -90,7 +98,6 @@ _Bring a gel or some form of calories._
 Total Time: **0 minutes**
 
 &mdash; 
-
 
 <!---->
 ## THURSDAY OCT 08
