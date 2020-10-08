@@ -115,7 +115,7 @@ It was a climb out of Otter Bay to get to Bedwell Harbour Road, the flattest sec
 
 The easy portions of this run **felt easy**.  I felt some residual fatigue on the last few strides and going up the last hill before descending into Otter Bay.  My soleus' felt **better than expected** and only protested on the last long downhill.  I also enjoyed a coffee flavoured Rekarb at the half-way point of the run.
 
-Later in the afternoon, Carina and I walked the _calf-burning_ trail up to the top of Mount Norman (204m).  The weather was sunny and warm at the top and it was fascinating to watch the marine layer move through the San Juan and Western Gulf Islands.  We could hear many fog horns in the distance and every so often, we'd catch a glimpse of a ship moving through the fog; very cool! 
+Later in the afternoon, Carina and I walked the  trail up to the top of Mount Norman (204m).  The weather was sunny and warm at the top and it was fascinating to watch the marine layer move through the Western Gulf Islands.  We could hear many fog horns in the distance and every so often, we'd catch a glimpse of a ship moving through the fog; very cool! 
  
 <!---->
 ## THURSDAY OCT 08
