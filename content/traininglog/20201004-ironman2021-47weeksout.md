@@ -113,9 +113,9 @@ Run Distance: **11.3 km** &nbsp; Ascent: **132 m**
 <!---->
 It was a climb out of Otter Bay to get to Bedwell Harbour Road, the flattest section of road that I have seen on the Island.  I took it easy and got there in about 20 minutes. This road is a main thoroughfare with no shoulder but beside it was a grass strip (probably the original roadbed) that would be my runway for the 30 second strides.  Doing the workout on that surface could have been likened to running a flat bit of XC (and no mud).
 
-The easy portions of this run **felt easy**.  I felt some residual fatigue on the last few strides and going up the last hill before descending into Otter Bay.  My soleus' felt **better than expected** and only protested on the last long downhill.  I also enjoyed a coffee flavoured Rekarb at the half-way point of the run.
+The easy portions of this run **felt easy**.  I felt some residual fatigue on the last few strides and going up the last hill before descending into Otter Bay.  My soleus' felt **better than expected** and only protested on the last long downhill.  I also enjoyed a _"coffee"_ flavoured Rekarb at the half-way point of the run.
 
-Later in the afternoon, Carina and I walked the trail up Mt. Norman (204m).  The weather was sunny and warm at the top and it was fascinating to watch the marine layer move through the Gulf Islands.  We could hear many fog-horns in the distance and every so often, we'd catch a glimpse of a ship moving through the fog; very cool! 
+Later in the afternoon, Carina and I walked the trail up Mt. Norman (204m).  The weather was sunny and warm at the top and it was fascinating to watch the marine layer move through the islands below.  We could hear fog-horns in the distance and every so often, we'd catch a glimpse of a ship moving through the fog; cool! 
  
 <!---->
 ## THURSDAY OCT 08
