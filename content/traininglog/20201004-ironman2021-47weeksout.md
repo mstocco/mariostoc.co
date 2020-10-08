@@ -119,17 +119,22 @@ Later in the afternoon, Carina and I walked the trail up Mt. Norman (204m).  The
  
 <!---->
 ## THURSDAY OCT 08
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **4** | Fatigue **4** | Stress **1** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 Ride 1:45-2:15. Island exploration. Easy riding. Bring enough calories. Have fun cruising around the island. If you run out of roads, you can cut it short.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **110 minutes**
 
-&mdash; 
+Sleep was interrupted by the fog horns last night but I did sleep in a bit longer than normal.
 
+For today's ride, I was hoping to get the full distance of both islands combined in.  For reference, I had [Tuesday's ride](javascript:flkty.select();) to give me an idea of the time it would take and my guess was pushing 3 hours.  So I set off at a conservative pace thinking it was going to be a long afternoon.
+
+I was wrong and I was feeling stronger than I thought I would too.  I made it from Otter Bay, to Clam Bay via Port Washington then to Gowland Point, the most westerly point on South Pender Island in 1:14:00.  That surprised me but I did get a look at some of the hills that I'd have to deal with on the way home.  I started putting back some sugar and had a great ride back.
+
+The road riding on these Pender Islands is great and I am very thankful that Carina booked this trip.
 
 <!---->
 ## FRIDAY OCT 09
