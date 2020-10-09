@@ -128,19 +128,21 @@ Ride 1:45-2:15. Island exploration. Easy riding. Bring enough calories. Have fun
 ### NOTES
 Total Time: **110 minutes**
 
-Sleep was interrupted by the fog horns last night but I did sleep in a bit longer than normal.
+Sleep was interrupted by fog horns throughout the night but I did sleep in a bit longer than normal.
 
-For today's ride, I was hoping to see the full distance of both islands combined.  I had [Tuesday's ride](javascript:flkty.select(5);) for a reference of the time it would take and my guess a the length of this ride was pushing 3 hours.  So I set off at a conservative pace thinking it was going to be a long afternoon.
+For today's ride, I was hoping to see the full distance of both islands combined.  I had [Tuesday's ride](javascript:flkty.select(5);) for a reference of the time it would take and my guess at the length of this ride was pushing 3 hours.  So I set off at a conservative pace thinking it was going to be a long afternoon.
 
 I was wrong about both time and effort.
 
 <!---->
-I made it from Otter Bay, to Clam Bay via Port Washington then to Gowland Point, the most westerly point on South Pender Island in an hour and 14 minutes.  That surprised me but I did get a look at some of the hills that I'd have to deal with on the way home.  I started putting back some sugar and then had a great ride back.  Overall, I am not completely fresh but this was a super fun ride that I feel really good with the effort.
+I made it from Otter Bay, to Clam Bay via Port Washington then to Gowland Point, the most westerly point on South Pender Island in an hour and 14 minutes.  That surprised me but I did get a look at some of the hills that I'd have to deal with on the way home.  I started putting back some sugar and then had a great ride back.  
+
+Overall, I am not feeling completely fresh but this was a **super fun ride** that I am really stoked with the effort.
 
 ### OTTER BAY TO GOWLAND POINT
 ![Pender Island Ride](/assets/jpg/ridemap-20201008.jpeg)
 
-The road riding on these Pender Islands is great and I am very thankful that Carina booked this trip.
+The road riding on Pender was great and I am very thankful that Carina booked this trip.
 
 <!---->
 ## FRIDAY OCT 09
