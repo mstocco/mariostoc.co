@@ -118,7 +118,7 @@ The easy portions of this run **felt easy**.  I felt some residual fatigue on th
 Later in the afternoon, Carina and I walked the trail up Mt. Norman (204m).  The weather was sunny and warm at the top and it was fascinating to watch the marine layer move through the islands below.  We could hear fog-horns in the distance and every so often, we'd catch a glimpse of a ship moving through the fog; cool! 
  
 <!---->
-## THURSDAY OCT 08
+## THURSDAY OCT 08 ☁️
 Sleep **4** | Fatigue **4** | Stress **1** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -130,9 +130,12 @@ Total Time: **110 minutes**
 
 Sleep was interrupted by the fog horns last night but I did sleep in a bit longer than normal.
 
-For today's ride, I was hoping to get the full distance of both islands combined in.  For reference, I had [Tuesday's ride](javascript:flkty.select();) to give me an idea of the time it would take and my guess was pushing 3 hours.  So I set off at a conservative pace thinking it was going to be a long afternoon.
+For today's ride, I was hoping to get the full distance of both islands combined in.  For reference, I had [Tuesday's ride](javascript:flkty.select(6);) to give me an idea of the time it would take and my guess was pushing 3 hours.  So I set off at a conservative pace thinking it was going to be a long afternoon.
 
-I was wrong and I was feeling stronger than I thought I would too.  I made it from Otter Bay, to Clam Bay via Port Washington then to Gowland Point, the most westerly point on South Pender Island in 1:14:00.  That surprised me but I did get a look at some of the hills that I'd have to deal with on the way home.  I started putting back some sugar and had a great ride back.
+I was wrong and I was **feeling stronger** than I thought I would too.
+
+<!---->
+I made it from Otter Bay, to Clam Bay via Port Washington then to Gowland Point, the most westerly point on South Pender Island in an hour and 14 minutes.  That surprised me but I did get a look at some of the hills that I'd have to deal with on the way home.  I started putting back some sugar and had a great ride back.  Overall, I am not completely fresh but this was a fun ride that I feel really good with the effort.
 
 The road riding on these Pender Islands is great and I am very thankful that Carina booked this trip.
 
