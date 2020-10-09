@@ -87,7 +87,7 @@ At noon, Carina dropped me off at the ICBC office so I could renew my driver's l
 
 We took the 14:20 sailing to Pender Island. 
 
-Considering that I was still missing the scheduled ride, I put my road bike together and set of to "explore".   No worries about finding a hilly route here; there are NO FLAT ROADS on this little island.  I am feeling **a little cooked** as I write in this day's notes.  It also means [Thursday's ride](javascript:flkty.select(8);) is going to be full effort as well.
+Considering that I was still missing the scheduled ride, I put my road bike together and set of to "explore".   No worries about finding a hilly route here; there are NO FLAT ROADS on this little island.  I am feeling **a little cooked** as I write in this day's notes.  It also means [Thursday's ride](javascript:flkty.select(9);) is going to be full effort as well.
 
 Distance: **34 km** &nbsp; Vertical: **685 m**
 ![Ride Map](/assets/jpg/ridemap-20201004a.jpeg)
@@ -130,12 +130,12 @@ Total Time: **110 minutes**
 
 Sleep was interrupted by the fog horns last night but I did sleep in a bit longer than normal.
 
-For today's ride, I was hoping to get the full distance of both islands combined in.  For reference, I had [Tuesday's ride](javascript:flkty.select(6);) to give me an idea of the time it would take and my guess was pushing 3 hours.  So I set off at a conservative pace thinking it was going to be a long afternoon.
+For today's ride, I was hoping to see the full distance of both islands combined.  I had [Tuesday's ride](javascript:flkty.select(5);) for a reference of the time it would take and my guess a the length of this ride was pushing 3 hours.  So I set off at a conservative pace thinking it was going to be a long afternoon.
 
-I was wrong and I was **feeling stronger** than I thought I would too.
+I was wrong about both time and effort.
 
 <!---->
-I made it from Otter Bay, to Clam Bay via Port Washington then to Gowland Point, the most westerly point on South Pender Island in an hour and 14 minutes.  That surprised me but I did get a look at some of the hills that I'd have to deal with on the way home.  I started putting back some sugar and had a great ride back.  Overall, I am not completely fresh but this was a super fun ride that I feel really good with the effort.
+I made it from Otter Bay, to Clam Bay via Port Washington then to Gowland Point, the most westerly point on South Pender Island in an hour and 14 minutes.  That surprised me but I did get a look at some of the hills that I'd have to deal with on the way home.  I started putting back some sugar and then had a great ride back.  Overall, I am not completely fresh but this was a super fun ride that I feel really good with the effort.
 
 ### OTTER BAY TO GOWLAND POINT
 ![Pender Island Ride](/assets/jpg/ridemap-20201008.jpeg)
