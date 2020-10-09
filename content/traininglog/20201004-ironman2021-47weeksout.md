@@ -135,7 +135,10 @@ For today's ride, I was hoping to get the full distance of both islands combined
 I was wrong and I was **feeling stronger** than I thought I would too.
 
 <!---->
-I made it from Otter Bay, to Clam Bay via Port Washington then to Gowland Point, the most westerly point on South Pender Island in an hour and 14 minutes.  That surprised me but I did get a look at some of the hills that I'd have to deal with on the way home.  I started putting back some sugar and had a great ride back.  Overall, I am not completely fresh but this was a fun ride that I feel really good with the effort.
+I made it from Otter Bay, to Clam Bay via Port Washington then to Gowland Point, the most westerly point on South Pender Island in an hour and 14 minutes.  That surprised me but I did get a look at some of the hills that I'd have to deal with on the way home.  I started putting back some sugar and had a great ride back.  Overall, I am not completely fresh but this was a super fun ride that I feel really good with the effort.
+
+### OTTER BAY TO GOWLAND POINT
+![Pender Island Ride](/assets/jpg/ridemap-20201008.jpeg)
 
 The road riding on these Pender Islands is great and I am very thankful that Carina booked this trip.
 
