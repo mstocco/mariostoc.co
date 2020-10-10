@@ -4,25 +4,17 @@ Week beginning [Sunday, October 4, 2020](javascript:flkty.select(3);)
 **47 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-My goal this week is to enjoy the process and enjoy training with some new scenery (Pender Island)
+My goal this week is to enjoy the process and enjoy training with some new scenery on [Pender Island](javascript:flkty.select(2);).
 
 ## SUMMARY
 I feel like I was **GETTING IT DONE** this week.
 
-The week started with a [really good run](javascript:flkty.select(3);) at the track and a great trip to Pender Island where I got a couple of good rides in and a [good run workout](javascript:flkty.select(8);) in too.  By [Saturday](javascript:flkty.select(13);), I was feeling a bit stiff and sore _but_ in a good way.
+The week started with a [really good run](javascript:flkty.select(3);) at the track and then I was off for a great, mid-week trip to Pender Island.  While on Pender, I got in two super fun road rides and had a [good run workout](javascript:flkty.select(8);) too.  By [Saturday](javascript:flkty.select(13);), I was feeling a bit stiff and sore _but_ in a good way.
 
-This is feels like my first time back at a **+11 hour** training week that included about **45 km** of running. 
-
-## THE WEEKS OF SEPTEMBER
-<ul class="iconlist">
-<li class="page"><a href="ironman2021-52weeksout">52 Weeks Out - August 30, 2020</a></li>
-<li class="page"><a href="ironman2021-51weeksout">51 Weeks Out - September 6, 2020</a></li>
-<li class="page"><a href="ironman2021-50weeksout">50 Weeks Out - September 13, 2020</a></li>
-<li class="page"><a href="ironman2021-49weeksout">49 Weeks Out - September 20, 2020</a></li>
-<li class="page"><a href="ironman2021-48weeksout">48 Weeks Out - September 27, 2020</a></li>
-</ul>
+My body feels like this is my first time back at a **+11 hour** training week that included about **45 km of running**. 
 
 ![A great mid-week trip to this awesome place](/assets/jpg/otterbay-977x550.jpg Otter Bay, North Pender Island)
+
 ## SUNDAY OCT 04 🌤
 Sleep **4** | Fatigue **3** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -180,3 +172,12 @@ Hooray for sleeping in one's bed!  I am **feeling stiff** (posterior chain) afte
 
 
 <!---->
+## THE WEEKS OF SEPTEMBER
+<ul class="iconlist">
+<li class="page"><a href="ironman2021-52weeksout">52 Weeks Out - August 30, 2020</a></li>
+<li class="page"><a href="ironman2021-51weeksout">51 Weeks Out - September 6, 2020</a></li>
+<li class="page"><a href="ironman2021-50weeksout">50 Weeks Out - September 13, 2020</a></li>
+<li class="page"><a href="ironman2021-49weeksout">49 Weeks Out - September 20, 2020</a></li>
+<li class="page"><a href="ironman2021-48weeksout">48 Weeks Out - September 27, 2020</a></li>
+</ul>
+
