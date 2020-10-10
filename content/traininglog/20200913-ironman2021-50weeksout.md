@@ -10,7 +10,7 @@ another week to build on good habits and get a
 [test of where I am at](javascript:flkty.select(10)).
 
 ## SUMMARY
-I feel like was **MOVING FORWARD**.
+I feel like I was **MOVING FORWARD**.
 
 The start and end of the work week, I struggled with my energy. 
 Part of that is the load at work and part of that is on me. 

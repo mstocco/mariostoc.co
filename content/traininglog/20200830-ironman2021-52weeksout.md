@@ -10,7 +10,7 @@ will be for the enjoyment of the activity itself, rather than
 any training stimulus it provides.
 
 ## SUMMARY
-I feel like was **ON MY WAY BACK &mdash; SLOWLY**
+I feel like I was **ON MY WAY BACK &mdash; SLOWLY**
 
 I did miss time this week; part of it was because of work and 
 the catching up I had to do, part of it was the the lingering 

@@ -7,9 +7,11 @@ Week beginning [Sunday, October 4, 2020](javascript:flkty.select(3);)
 My goal this week is to enjoy the process and enjoy training with some new scenery (Pender Island)
 
 ## SUMMARY
-I feel like was...  
-<sup>(completed at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel like I was **GETTING IT DONE** this week.
+
+The week started with a [really good run](javascript:flkty.select(3);) at the track and a great trip to Pender Island where I got a couple of good rides in and a [good run workout](javascript:flkty.select(8);) in too.  By [Saturday](javascript:flkty.select(13);), I was feeling a bit stiff and sore _but_ in a good way.
+
+This is feels like my first time back at a **+11 hour** training week that included about **45 km** of running. 
 
 ## THE WEEKS OF SEPTEMBER
 <ul class="iconlist">
@@ -163,8 +165,8 @@ I planned on doing the run at home where there is some flatter ground but work k
 A few soft-tissue niggles are creeping in and will need a bit of maintenance; glute-med on the right hip at the top of the femur, right quad (lateral) and left calf (lateral).
 
 <!---->
-## SATURDAY OCT 10
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## SATURDAY OCT 10 🌤
+Sleep **1** | Fatigue **4** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -174,7 +176,7 @@ OTB: Run 30 minutes. Flat route. Easy effort.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Hooray for sleeping in one's bed!  I am **feeling stiff** (posterior chain) after another building week in this training journey.
 
 
 <!---->

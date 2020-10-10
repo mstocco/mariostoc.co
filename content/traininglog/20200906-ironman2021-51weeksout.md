@@ -7,7 +7,7 @@ Week beginning [Sunday, September 6, 2020](javascript:flkty.select(3);)
 To build on the good feeling that I had after getting back at it late last week.
 
 ## SUMMARY
-I feel like was **BUILDING CONSISTENCY** during the first half 
+I feel like I was **BUILDING CONSISTENCY** during the first half 
 of the week but **THEN STRUGGLED** with the same on the 
 back half of the week.
 
