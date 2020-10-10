@@ -20,7 +20,7 @@ I feel like was...
 <li class="page"><a href="ironman2021-48weeksout">48 Weeks Out - September 27, 2020</a></li>
 </ul>
 
-![I had a great mid-week trip to this awesome place](/assets/jpg/otterbay-977x550.jpg Otter Bay, North Pender Island)
+![A great mid-week trip to this awesome place](/assets/jpg/otterbay-977x550.jpg Otter Bay, North Pender Island)
 ## SUNDAY OCT 04 🌤
 Sleep **4** | Fatigue **3** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
