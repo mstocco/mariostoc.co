@@ -9,9 +9,11 @@ My goal this week is to enjoy the process and enjoy training with some new scene
 ## SUMMARY
 I feel like I was **GETTING IT DONE** this week.
 
-The week started with a [really good run](javascript:flkty.select(3);) at the track and then I was off for a great, mid-week trip to Pender Island.  While on Pender, I got in two super fun road rides and had a [good run workout](javascript:flkty.select(8);) too.  By [Saturday](javascript:flkty.select(13);), I was feeling a bit stiff and sore _but_ in a good way.
+The week started with a [really good run](javascript:flkty.select(3);) at the track and then I was off for a great, mid-week trip to Pender Island.  While on Pender, I got in two super fun road rides and had a [good run workout](javascript:flkty.select(8);) too.  
 
-My body feels like this is my first time back at a **+11 hour** training week that included about **45 km of running**. 
+By [Saturday](javascript:flkty.select(13);), I was feeling stiff and sore _but_ in a good way.
+
+This week was my first time back at a **+11 hour** training week which included about **45 km of running**. 
 
 ![A great mid-week trip to this awesome place](/assets/jpg/otterbay-977x550.jpg Otter Bay, North Pender Island)
 
