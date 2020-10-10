@@ -1,5 +1,5 @@
 # IRONMAN TRAINING 2021
-Week beginning [Sunday, October 4, 2020](javascript:flkty.select(2);)
+Week beginning [Sunday, October 4, 2020](javascript:flkty.select(3);)
 
 **47 weeks** until IRONMAN Canada.
 
@@ -87,7 +87,7 @@ At noon, Carina dropped me off at the ICBC office so I could renew my driver's l
 
 We took the 14:20 sailing to Pender Island. 
 
-Considering that I was still missing the scheduled ride, I put my road bike together and set of to "explore".   No worries about finding a hilly route here; there are NO FLAT ROADS on this little island.  I am feeling **a little cooked** as I write in this day's notes.  It also means [Thursday's ride](javascript:flkty.select(9);) is going to be full effort as well.
+Considering that I was still missing the scheduled ride, I put my road bike together and set of to "explore".   No worries about finding a hilly route here; there are NO FLAT ROADS on this little island.  I am feeling **a little cooked** as I write in this day's notes.  It also means [Thursday's ride](javascript:flkty.select(10);) is going to be full effort as well.
 
 Distance: **34 km** &nbsp; Vertical: **685 m**
 ![Ride Map](/assets/jpg/ridemap-20201004a.jpeg)
@@ -130,7 +130,7 @@ Total Time: **110 minutes**
 
 Sleep was interrupted by fog horns throughout the night but I did sleep in a bit longer than normal.
 
-For today's ride, I was hoping to see the full distance of both islands combined.  I had [Tuesday's ride](javascript:flkty.select(5);) for a reference of the time it would take and my guess at the length of this ride was pushing 3 hours.  So I set off at a conservative pace thinking it was going to be a long afternoon.
+For today's ride, I was hoping to see the full distance of both islands combined.  I had [Tuesday's ride](javascript:flkty.select(6);) for a reference of the time it would take and my guess at the length of this ride was pushing 3 hours.  So I set off at a conservative pace thinking it was going to be a long afternoon.
 
 I was wrong about both time and effort.
 
@@ -168,7 +168,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Ride 90 minutes on MTB. Have some fun and keep the rubber side down. Not too hard!  
+OTB: Run 30 minutes. Flat route. Easy effort.
 
 ### NOTES
 Total Time: **0 minutes**
