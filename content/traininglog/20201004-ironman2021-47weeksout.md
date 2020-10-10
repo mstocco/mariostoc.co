@@ -145,8 +145,8 @@ Overall, I am not feeling completely fresh but this was a **super fun ride** tha
 The road riding on Pender was great and I am very thankful that Carina booked this trip.
 
 <!---->
-## FRIDAY OCT 09
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## FRIDAY OCT 09 ☁️
+Sleep **4** | Fatigue **4** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -154,9 +154,11 @@ Mobility 25 minutes.
 Run 60 minutes. Flattest route you can find. EASY effort.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **60 minutes**
 
-&mdash; 
+Not the best sleep on my last night on Pender.  The coffee this morning tasted good while I answered "URGENT" work emails however.  
+
+I planned on doing the run at home where there is some flatter ground but work kept calling.  Finally I got out the down and luckily, I got this jog in before the start of the rain.  This was a run without ego; meaning I intentionally kept the pace **slow and easy**.  Little, soft-tissue niggles are creeping in and will need a bit of maintenance; glute-med on the right hip at the top of the femur, right quad (lateral) and left calf (lateral).
 
 
 <!---->
