@@ -158,8 +158,9 @@ Total Time: **60 minutes**
 
 Not the best sleep on my last night on Pender.  The coffee this morning tasted good while I answered "URGENT" work emails however.  
 
-I planned on doing the run at home where there is some flatter ground but work kept calling.  Finally I got out the down and luckily, I got this jog in before the start of the rain.  This was a run without ego; meaning I intentionally kept the pace **slow and easy**.  Little, soft-tissue niggles are creeping in and will need a bit of maintenance; glute-med on the right hip at the top of the femur, right quad (lateral) and left calf (lateral).
+I planned on doing the run at home where there is some flatter ground but work kept calling.  Finally I got out the down and luckily, I got this jog in before the start of the rain.  This was a run without ego; meaning I intentionally kept the pace **slow and easy**.
 
+A few soft-tissue niggles are creeping in and will need a bit of maintenance; glute-med on the right hip at the top of the femur, right quad (lateral) and left calf (lateral).
 
 <!---->
 ## SATURDAY OCT 10
