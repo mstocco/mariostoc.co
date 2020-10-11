@@ -33,7 +33,7 @@ The rain stared to get heavier the closer I got to Colwood so once out of that s
 
 I had gels at the 20, 50 and 70 minute marks and drank about 300ml of plain water.  I took it easy when I was going up a hill and refrained from smashing myself when going down.  Overall, I **felt great** out there from start to finish today.  I ran past the house for an extra minute to make today's run an even 10 miles.
 
-
+![Run Map](/assets/jpg/runmap-20201011.jpeg)
 <!---->
 ## MONDAY OCT 12
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
