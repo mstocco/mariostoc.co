@@ -29,7 +29,9 @@ Another sound sleep; nice!  I made a great tasting coffee and had a sweet pastry
 
 I wasn't 10 minutes down the road when the rain started to fall.  Funny thing, I am happy to run in the rain but if I have to ride in the stuff, it becomes a procrastination show.  I had an idea of the direction I wanted to run to get in a hillier route but nothing concrete.  I darted of into the subdivision behind the View Royal Fire Hall and is was wonderfully hilly.
 <!---->
-Once out of that sub-division, I doubled back to work in the up and downs of Helmcken Road.  started making my way home via the Knockan Hill subdivision.  I had gels on the 25s and I **felt great* out there from start to finish today.  I took it easy if I was going up and didn't smash myself when going down.  I ran past the house for an extra minute to make today's run an even 10 miles.
+The rain stared to get heavier the closer I got to Colwood so once out of that sub-division, I doubled back to work in the up and downs of Helmcken Road.  I stayed on Helmcken past the Hospital and started making my way home through the Knockan Hill area of Wilkinson Road.  The flattest section of today's run was the last 10 minutes on the Goose.  
+
+I had gels at the 20, 50 and 70 minute marks and drank about 300ml of plain water.  I took it easy when I was going up a hill and refrained from smashing myself when going down.  Overall, I **felt great** out there from start to finish today.  I ran past the house for an extra minute to make today's run an even 10 miles.
 
 
 <!---->
