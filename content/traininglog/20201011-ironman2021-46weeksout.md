@@ -27,7 +27,9 @@ Total Time: **100 minutes** &nbsp; Distance: **10 miles**
 
 Another sound sleep; nice!  I made a great tasting coffee and had a sweet pastry before heading out for today's run.
 
-I wasn't 10 minutes down the road when the rain started to fall.  Funny thing, I am happy to run in the rain but if I have to ride in the stuff, it becomes a procrastination show.  I had an idea of the direction I wanted to run to get in a hillier route but nothing concrete.  I darted of into the subdivision behind the View Royal Fire Hall and is was wonderfully hilly.  I doubled back to get in the up and downs of Helmcken Road and started making my way home via the Knockan Hill subdivision.  I had gels on the 25s and I **felt great* out there from start to finish today.  I took it easy if I was going up and didn't smash myself when going down.  I ran past the house for an extra minute to make today's run an even 10 miles.
+I wasn't 10 minutes down the road when the rain started to fall.  Funny thing, I am happy to run in the rain but if I have to ride in the stuff, it becomes a procrastination show.  I had an idea of the direction I wanted to run to get in a hillier route but nothing concrete.  I darted of into the subdivision behind the View Royal Fire Hall and is was wonderfully hilly.
+<!---->
+Once out of that sub-division, I doubled back to work in the up and downs of Helmcken Road.  started making my way home via the Knockan Hill subdivision.  I had gels on the 25s and I **felt great* out there from start to finish today.  I took it easy if I was going up and didn't smash myself when going down.  I ran past the house for an extra minute to make today's run an even 10 miles.
 
 
 <!---->
