@@ -168,7 +168,7 @@ Ride 90 minutes on MTB. Have some fun and keep the rubber side down. Not too har
 OTB: Run 30 minutes. Flat route. Easy effort.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **90 minutes**
 
 Hooray for sleeping in one's bed!  I am **feeling stiff** (posterior chain) after another week in this training journey.
 
@@ -178,7 +178,6 @@ By the time I was finished with the things to do around the house, the day was p
 Acknowledging that my motivation was low, I drank a full bottle of concentrated Gatorade (210 cals) and had another 100 calories in ju-jubes while on the rollers.  The hour went by quicky as I watched Stage 8 of the Giro.  
  
  My legs felt tired overall and I wasn't popping off the ground like I would when I am fresh but with a belly full of sugar, the run off the bike felt OK. 
- 
  
  <!---->
 ## THE WEEKS OF SEPTEMBER

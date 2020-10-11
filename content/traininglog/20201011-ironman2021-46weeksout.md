@@ -13,8 +13,8 @@ I feel like I was...
 
 
 <!---->
-## SUNDAY OCT 11
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## SUNDAY OCT 11 🌧
+Sleep **2** | Fatigue **3** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -23,9 +23,11 @@ Run 1:40 on rolling or hilly terrain. Trails or the Goose (further out) would be
 _Stay well fueled. Minimum of 300 calories on this run._ 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **100 minutes** &nbsp; Distance: **10 miles**
 
-&mdash; 
+Another sound sleep; nice!  I made a great tasting coffee and had a sweet pastry before heading out for today's run.
+
+I wasn't 10 minutes down the road when the rain started to fall.  Funny thing, I am happy to run in the rain but if I have to ride in the stuff, it becomes a procrastination show.  I had an idea of the direction I wanted to run to get in a hillier route but nothing concrete.  I darted of into the subdivision behind the View Royal Fire Hall and is was wonderfully hilly.  I doubled back to get in the up and downs of Helmcken Road and started making my way home via the Knockan Hill subdivision.  I had gels on the 25s and I **felt great* out there from start to finish today.  I took it easy if I was going up and didn't smash myself when going down.  I ran past the house for an extra minute to make today's run an even 10 miles.
 
 
 <!---->
