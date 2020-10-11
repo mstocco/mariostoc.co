@@ -170,10 +170,17 @@ OTB: Run 30 minutes. Flat route. Easy effort.
 ### NOTES
 Total Time: **0 minutes**
 
-Hooray for sleeping in one's bed!  I am **feeling stiff** (posterior chain) after another building week in this training journey.
+Hooray for sleeping in one's bed!  I am **feeling stiff** (posterior chain) after another week in this training journey.
 
+By the time I was finished with the things to do around the house, the day was pretty much over.  The weather was okay first thing in the morning but had become a strong gale from the west in the afternoon; I **struggled with motivation** to get out the door.  By the time I got my kit on and MTB bike ready, a rain squal rolled in.  So I said, "effit", rolled the MTB back into the garage, pulled the TT Bike off the wall and jumped on the rollers for an hour.
 
 <!---->
+Acknowledging that my motivation was low, I drank a full bottle of concentrated Gatorade (210 cals) and had another 100 calories in ju-jubes while on the rollers.  The hour went by quicky as I watched Stage 8 of the Giro.  
+ 
+ My legs felt tired overall and I wasn't popping off the ground like I would when I am fresh but with a belly full of sugar, the run off the bike felt OK. 
+ 
+ 
+ <!---->
 ## THE WEEKS OF SEPTEMBER
 <ul class="iconlist">
 <li class="page"><a href="ironman2021-52weeksout">52 Weeks Out - August 30, 2020</a></li>
