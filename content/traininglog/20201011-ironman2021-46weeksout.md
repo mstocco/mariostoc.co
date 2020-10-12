@@ -1,5 +1,5 @@
 # IRONMAN TRAINING 2021
-Week beginning Sunday, October 11, 2020
+Week beginning [Sunday, October 11, 2020](javascript:flkty.select(2);)
 
 **46 weeks** until IRONMAN Canada.
 
@@ -11,6 +11,15 @@ I feel like I was...
 <sup>(filled out at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
+## PREVIOUS TRAINING WEEKS
+<ul class="iconlist">
+<li class="page"><a href="ironman2021-52weeksout">52 Weeks Out - August 30, 2020</a></li>
+<li class="page"><a href="ironman2021-51weeksout">51 Weeks Out - September 6, 2020</a></li>
+<li class="page"><a href="ironman2021-50weeksout">50 Weeks Out - September 13, 2020</a></li>
+<li class="page"><a href="ironman2021-49weeksout">49 Weeks Out - September 20, 2020</a></li>
+<li class="page"><a href="ironman2021-48weeksout">48 Weeks Out - September 27, 2020</a></li>
+<li class="page"><a href="ironman2021-47weeksout">47 Weeks Out - October 4, 2020</a></li>
+</ul>
 
 <!---->
 ## SUNDAY OCT 11 🌧
@@ -34,9 +43,10 @@ The rain became heavier the closer I got to Colwood so once out of that sub-divi
 I had gels at the 20, 50 and 70 minute marks and drank about 300ml of plain water.  I took it easy when going uphill and refrained from smashing myself when going down.  Overall, I **felt great** from start to finish.  I ran a bit extra to make today an even 10 miles.
 
 ![Run Map](/assets/jpg/runmap-20201011.jpeg)
+
 <!---->
 ## MONDAY OCT 12
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **2** | Fatigue **3** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -45,7 +55,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I was rolling with the lacrosse ball during the Seahawks game last night and I found a new hotspot on the lateral side of my left soleus.  The hotspot's from last week (right quad, right glute med) have gone away.
+
+Last night I slept soundly.
 
 
 <!---->
