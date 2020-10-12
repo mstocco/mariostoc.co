@@ -55,7 +55,7 @@ Sleep **2** | Fatigue **3** | Stress **2** | Soreness **4**
 ### NOTES
 Total Time: **0 minutes**
 
-I was rolling with the lacrosse ball during the Seahawks game last night and I found a new hotspot on the lateral side of my left soleus.  The hotspot's from last week (right quad, right glute med) have gone away.
+I was rolling with the lacrosse ball during the Seahawks game last night and I found a new hotspot on the lateral side of my left soleus.  The hotspots from last week (right quad, right glute med) have worked themselves out.
 
 Last night I slept soundly.
 
@@ -134,6 +134,3 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 Total Time: **0 minutes**
 
 &mdash; 
-
-
-<!---->
