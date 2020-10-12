@@ -31,7 +31,7 @@ I wasn't 10 minutes down the road when the rain started to fall.  Funny thing, I
 <!---->
 The rain stared to get heavier the closer I got to Colwood so once out of that sub-division, I doubled back to work in the up and downs of Helmcken Road.  I stayed on Helmcken, past the Hospital and started making my way home through the Knockan Hill area of Wilkinson Road.  The flattest section of today's run was the last 10 minutes on the Goose.  
 
-I had gels at the 20, 50 and 70 minute marks and drank about 300ml of plain water.  I took it easy when I was going up a hill and refrained from smashing myself when going down.  Overall, I **felt great** from start to finish.  I ran past the house for an extra minute to make today's run an even 10 miles.
+I had gels at the 20, 50 and 70 minute marks and drank about 300ml of plain water.  I took it easy when going uphill and refrained from smashing myself when going down.  Overall, I **felt great** from start to finish.  I ran a bit extra to make today an even 10 miles.
 
 ![Run Map](/assets/jpg/runmap-20201011.jpeg)
 <!---->
