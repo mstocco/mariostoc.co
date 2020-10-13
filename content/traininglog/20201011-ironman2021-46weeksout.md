@@ -73,7 +73,7 @@ Run 30 minutes. Flat route. Easy effort.
 ### NOTES
 Total Time: **0 minutes**
 
-I slept for 7 and a half hours last night and I woke to a rare, early morning thunderstorm.  I feel refreshed but still bummed about my broken surf ski though.
+I slept for 7 and a half hours last night and I woke to a rare, early morning thunderstorm.  Although I woke up feeling refreshed, I am still bummed out about my broken surf ski.
 
  
 
