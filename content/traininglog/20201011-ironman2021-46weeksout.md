@@ -45,7 +45,7 @@ I had gels at the 20, 50 and 70 minute marks and drank about 300ml of plain wate
 ![Run Map](/assets/jpg/runmap-20201011.jpeg)
 
 <!---->
-## MONDAY OCT 12
+## CANADIAN THANKSGIVING DAY ☀️
 Sleep **2** | Fatigue **3** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -59,10 +59,11 @@ I was rolling with the lacrosse ball during the Seahawks game last night and I f
 
 Last night I slept soundly.
 
+I took the day to get some light work around the yard in.  The trellis for my beans was blown oven by yesterday's wind and heartbreakingly, my surf ski was damaged bu the windstorm too; there is a spiderweb of cracks in the carbon fibre.  I am sure the I can repair it but it will be a lot of work and I am not sure if the repair would cost more that a new boat.  Bummer because I was hoping to get in a paddle today.
 
 <!---->
-## TUESDAY OCT 13
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## TUESDAY OCT 13 ⛈
+Sleep **2** | Fatigue **2** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -72,7 +73,9 @@ Run 30 minutes. Flat route. Easy effort.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I slept for 7 and a half hours last night and I woke to a rare, early morning thunderstorm.  I feel refreshed by still bummed about my broken surf ski though.
+
+ 
 
 
 <!---->
