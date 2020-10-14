@@ -75,11 +75,9 @@ Total Time: **0 minutes**
 
 I slept for 7 and a half hours last night and I woke to a rare, early morning thunderstorm.  Although I woke up feeling refreshed, I am still bummed out about my broken surf ski.
 
- The weather today was incredibly heavy rain for most of the day.  I took advantage of a sunny break with some daylight left  and did the jog first.  Pace was easy and the soleus hotspot was a non-issue.  My ankles took about 20 minutes to "release" and the last 10 was comfortable.
+The weather today saw incredibly heavy rain for most of the day.  I took advantage of a sunny break with some daylight left  and did the jog first.  Pace was easy and the soleus hotspot was a non-issue.  My ankles took about 20 minutes to "release" and the last 10 was comfortable.
 
 The hour on the rollers was steady and uneventful as I watched the latest Apple iPhone 12 Release video.
-
-Time for dinner and a good night's sleep.
 
 <!---->
 ## WEDNESDAY OCT 14
