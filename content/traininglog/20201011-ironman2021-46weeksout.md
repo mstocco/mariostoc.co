@@ -63,7 +63,7 @@ I took the day to get some light work around the yard in.  The trellis for my be
 
 <!---->
 ## TUESDAY OCT 13 ⛈
-Sleep **2** | Fatigue **2** | Stress **3** | Soreness **4**  
+Sleep **2** | Fatigue **3** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -71,17 +71,17 @@ Rollers ~ 60 minutes. EASY
 Run 30 minutes. Flat route. Easy effort. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **90 minutes**
 
 I slept for 7 and a half hours last night and I woke to a rare, early morning thunderstorm.  Although I woke up feeling refreshed, I am still bummed out about my broken surf ski.
 
-The weather today saw incredibly heavy rain for most of the day.  I took advantage of a sunny break with some daylight left  and did the jog first.  Pace was easy and the soleus hotspot was a non-issue.  My ankles took about 20 minutes to "release" and the last 10 was comfortable.
+The weather today saw incredibly heavy wind and rain for most of the day.  I took advantage of a break in the weather and did the jog in some sunshine.  **Pace was easy** and my soleus hotspot was a non-issue.  My ankles took about 20 minutes to _"release"_ and the last 10 was comfortable.
 
-The hour on the rollers was steady and uneventful as I watched the latest Apple iPhone 12 Release video.
+The hour with the TT bike on the rollers was **steady and uneventful** and I watched the latest Apple iPhone 12 Release video.
 
 <!---->
-## WEDNESDAY OCT 14
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## WEDNESDAY OCT 14 🌤
+Sleep **2** | Fatigue **2** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -93,7 +93,7 @@ _Ideally you'll do this on the track and you'll have at least 200 calories on ha
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I slept well last night.
 
 
 <!---->
