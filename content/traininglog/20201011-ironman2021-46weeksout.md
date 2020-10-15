@@ -105,6 +105,7 @@ Effort on the 8x300 was **pretty consistent**.  I heard my coach's voice in my h
 <!---->
 I brought a 600ml water bottle to the track mixed with 46g of Gatorade.  I sipped this throughout the warm up, took a good swig during the recovery period 5 of 8 and sipped again during the 5 minute recovery walk between the 12 minute efforts.  I consumed a little more than half, or roughly **90 calories**.
 
+  
 ### WORKOUT PACE CHART
 ![Pace Chart](/assets/jpg/workoutchart-20201015.jpeg)
 
@@ -120,7 +121,7 @@ If your legs are toast from Wednesday....make it a flatter ride!
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Probably the worst sleep I've had in months.  So much for my weekly goal of getting better sleep.
 
 
 <!---->
