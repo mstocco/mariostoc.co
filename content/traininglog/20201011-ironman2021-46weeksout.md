@@ -95,10 +95,18 @@ Total Time: **0 minutes**
 
 I slept well last night.
 
+I did today's mobility routine just before driving to PISE.
+
+<!---->
+I pressed start on the watch to get things going with the 20 minute warm up.  I heard the beep telling me that the watch has found some GPS signal; I was expecting a second beep to tell me that my foot pod has connected too.  I looked down at my shoes to realize that that foot pad is on a pair of shoes at home.  I jogged a few laps agonizing over whether or not to go home a get the foot pod.  Another easy lap and I deemed the foot pod as a crutch and I committed to do this workout on feel.  To do so, I just needed to figure out where a 300m mark is painted on the track.  There was a blue line and a yellow in what I'd call turn 4 that looked to be close.  I picked the yellow line as it was the furthest from my starting point.
+
+Effort on the 8x300 was **pretty consistent**.  I heard my coach's voice in my head saying, _"Going faster will only hurt the actual workout."_  The sixth effort felt like work; the seventh and eighth felt good. The 2x12 minute tempo efforts went by quickly as I settled into a **comfortable**, 5:12/km rhythm.
+
+I brought a 600ml water bottle to the track mixed with 46g of Gatorade.  I sipped this throughout the warm up, took a good swig during the recovery period 5 of 8 and sipped again during the 5 minute recovery walk between the 12 minute efforts.  I consumed a little more than half, or roughly **90 calories**.
 
 <!---->
 ## THURSDAY OCT 15
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **6** | Fatigue **3** | Stress **6** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
