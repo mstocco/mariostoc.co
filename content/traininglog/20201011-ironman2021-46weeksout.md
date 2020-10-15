@@ -109,6 +109,8 @@ I brought a 600ml water bottle to the track mixed with 46g of Gatorade.  I sippe
 ### WORKOUT PACE CHART
 ![Pace Chart](/assets/jpg/workoutchart-20201015.jpeg)
 
+After the last 5 minute recovery walk, the 10 minute cool down felt like a run off the bike.
+
 <!---->
 ## THURSDAY OCT 15
 Sleep **6** | Fatigue **3** | Stress **6** | Soreness **4**  
