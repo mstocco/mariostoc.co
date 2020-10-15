@@ -91,7 +91,7 @@ Then.. 2x 12 minutes @ 1/2 marathon effort/feel (lets aim for 5:08-5:15 per km) 
 _Ideally you'll do this on the track and you'll have at least 200 calories on hand. AND enough water._
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **80 minutes**
 
 I slept well last night.
 
@@ -102,7 +102,11 @@ I pressed start on the watch to get things going with the 20 minute warm up.  I 
 
 Effort on the 8x300 was **pretty consistent**.  I heard my coach's voice in my head saying, _"Going faster will only hurt the actual workout."_  The sixth effort felt like work; the seventh and eighth felt good. The 2x12 minute tempo efforts went by quickly as I settled into a **comfortable**, 5:12/km rhythm.
 
+<!---->
 I brought a 600ml water bottle to the track mixed with 46g of Gatorade.  I sipped this throughout the warm up, took a good swig during the recovery period 5 of 8 and sipped again during the 5 minute recovery walk between the 12 minute efforts.  I consumed a little more than half, or roughly **90 calories**.
+
+### WORKOUT PACE CHART
+![Pace Chart](/assets/jpg/workoutchart-20201015.jpeg)
 
 <!---->
 ## THURSDAY OCT 15
