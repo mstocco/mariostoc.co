@@ -1,5 +1,5 @@
 # IRONMAN TRAINING 2021
-Week beginning [Sunday, October 11, 2020](javascript:flkty.select(2);)
+Week beginning [Sunday, October 11, 2020](javascript:flkty.select(3);)
 
 **46 weeks** until IRONMAN Canada.
 
@@ -114,7 +114,7 @@ After the last 5 minute recovery walk, the 10 minute cool down felt like a run o
 
 <!---->
 ## THURSDAY OCT 15
-Sleep **6** | Fatigue **3** | Stress **6** | Soreness **5**  
+<mark>Sleep **6** </mark>| Fatigue **3** |<mark> Stress **6** | Soreness **5**&nbsp;</mark>  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -126,11 +126,14 @@ Total Time: **0 minutes**
 
 Probably the worst sleep I've had in months.  So much for my weekly goal of getting better sleep.
 
-Rough day.
+Rough day and to compound things, I was hit with a pounder of a headache; I suspect that it was a caffeine withdrawal headache as I skipped the coffee this morning knowing that I didn't sleep last night.
+
+2 Advil with dinner and going to bed early.
+
 
 <!---->
 ## FRIDAY OCT 16
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **2** | Fatigue **3** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -140,7 +143,7 @@ Run 40 minutes. Flat and EASY. Then... 10x :20 flat strides @ 5k effort or so (N
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Rested!  I woke up feeling much better today.
 
 
 <!---->
@@ -149,7 +152,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Ride 1:45 on MTB. Get outside. Have fun. Hills are great, but not mandatory.  
+Run 30 minutes. Flat route. EASY effort
 
 ### NOTES
 Total Time: **0 minutes**
