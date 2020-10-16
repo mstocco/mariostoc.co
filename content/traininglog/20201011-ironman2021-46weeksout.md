@@ -21,7 +21,8 @@ I feel like I was...
 <li class="page"><a href="ironman2021-47weeksout">47 Weeks Out - October 4, 2020</a></li>
 </ul>
 
-<!---->
+![A nice reward after Wednesday's track workout.](/assets/jpg/IMG_2852-977x550.jpg Sunset From The PISE Parking Lot)
+
 ## SUNDAY OCT 11 🌧
 Sleep **2** | Fatigue **3** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -113,7 +114,7 @@ After the last 5 minute recovery walk, the 10 minute cool down felt like a run o
 
 <!---->
 ## THURSDAY OCT 15
-Sleep **6** | Fatigue **3** | Stress **6** | Soreness **4**  
+Sleep **6** | Fatigue **3** | Stress **6** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -125,6 +126,7 @@ Total Time: **0 minutes**
 
 Probably the worst sleep I've had in months.  So much for my weekly goal of getting better sleep.
 
+Rough day.
 
 <!---->
 ## FRIDAY OCT 16
