@@ -113,7 +113,7 @@ I brought a 600ml water bottle to the track mixed with 46g of Gatorade.  I sippe
 After the last 5 minute recovery walk, the 10 minute cool down felt like a run off the bike.
 
 <!---->
-## THURSDAY OCT 15
+## THURSDAY OCT 15 ☁️
 <mark>Sleep **6** </mark>| Fatigue **3** |<mark> Stress **6** | Soreness **5**&nbsp;</mark>  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -132,7 +132,7 @@ Rough day and to compound things, I was hit with a pounder of a headache; I susp
 
 
 <!---->
-## FRIDAY OCT 16
+## FRIDAY OCT 16 ⛅️
 Sleep **2** | Fatigue **3** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -141,14 +141,19 @@ Mobility 22 minutes.
 Run 40 minutes. Flat and EASY. Then... 10x :20 flat strides @ 5k effort or so (NOT SPRINTS) :40 walk after each. 10 minute jog to finish up.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **53 minutes**
 
 Rested!  I woke up feeling much better today.
 
+The run started ok in that my soleus' felt fine (though I did notice a tiny bit of soreness in my left ankle that was atypical).  I wasn't feeling much of a pop off the ground either.  I jogged the warmup to 32 minutes instead of the full 40 because I was getting short on daylight and I wanted to get the stride work in; my legs feeling heavy may have helped the decision too.
+
+If I felt mediocre on the warmup, it was the opposite during the strides.  The feeling like I was skipping off the ground, even if for 20 seconds was fun.  The walk breaks in between helped too.
+
+Tonight, a spectacularly colourful sunset painted the sky as I crossed the trestle.  I wish I had a camera on me.
 
 <!---->
-## SATURDAY OCT 17
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## SATURDAY OCT 17 ☁️
+Sleep **3** | Fatigue **4** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -156,6 +161,14 @@ Ride 1:45 on MTB. Get outside. Have fun. Hills are great, but not mandatory.
 Run 30 minutes. Flat route. EASY effort
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **180 minutes**
 
-&mdash; 
+Just an okay sleep last night; 7 hours and not much more.  My legs continue to feel heavy today.  With most of the Saturday chores done, those heavy legs had me procrastinating getting out the door.
+
+Once on my XC bike, my mood brightened up but my legs continued to feel cooked.  I made my way on the Goose toward Thetis Lake Park.  Today being a Saturday and having a bit more time, I decided to try the Panhandle Trail; this is rated as _"blue"_ on Trail Forks and the reason I haven't attempted it in the past.   Turns out this trail is practically another, non-technical fire road linking Highlands Road with Munn Road.  I was ~40 minutes to Munn; plenty of time to find the trailhead to Regional Trail South.  I found the _"trailhead"_ as listed on my Garmin bike computer but it quickly turned into a _"hike-a-bike show"_ for the final 300m through the brush to get to where I was going.
+
+Once on the Regional Trail South, I made my way to a proper _"blue trail"_ called _"Executive West"_.  This was a fun trail, mostly downhill in the direction I was travelling.  Before heading back to paved roads, I took a quick detour to check out Killarney Lake.
+
+I took Goward Road to Glendale Trail on the way home.  So far, my legs felt **pretty fatigued** before and during this ride; the ride home felt no different.  With my legs feeling tired I was not looking forward to the scheduled run.  I took my time to put my bike away and get into some running kit.
+
+Once in my Nikes, I took it easy.  To my **honest surprise**, I was less than 3 minutes down the street before I felt pretty good, reacting to the ground.  I jogged my typical route on the Lochside Trail to Quadra Street and back.
