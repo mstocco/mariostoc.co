@@ -4,10 +4,12 @@ Week beginning [Sunday, October 18, 2020](javascript:flkty.select(2);)
 **45 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-&mdash; 
+This training week looks somewhat similar to [last week](ironman2021-46weeksout).  This is an opportunity to **be consistent**.  My goal is to handle the front half of this week better so that it doesn't negatively effect the back half.
 
 ## SUMMARY
-I feel like was... <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel like was...   
+<sup>(filled out at the end of the week)</sup>
+<!-OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
 
 <!---->
