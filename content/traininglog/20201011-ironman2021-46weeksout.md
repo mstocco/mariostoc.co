@@ -145,7 +145,7 @@ Total Time: **53 minutes**
 
 Rested!  I woke up feeling much better today.
 
-I noticed a tiny bit of atypical soreness in my left ankle to start the run.  I jogged the warmup to 32 minutes instead of the full 40 because I wanted to get the stride work in with the remaining daylight; **heavy legs** may have influenced the decision.
+I noticed a bit of atypical soreness in my left ankle to start the run.  I jogged the warmup to 32 minutes instead of the full 40 because I wanted to get the strides in with the remaining daylight; **heavy legs** may have influenced the decision.
 
 During the strides, I skipped nicely off the ground, even if for just 20 seconds at a time.  The walk breaks in between helped too.
 
