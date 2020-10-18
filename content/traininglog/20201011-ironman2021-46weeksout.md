@@ -165,7 +165,7 @@ Total Time: **180 minutes**
 
 Just an okay sleep last night; about 7 hours.  My legs continue to feel heavy today.  With most of the Saturday chores done, I finally got those heavy legs out the door.
 
-Once on my XC bike, my mood brightened but my legs continued to feel cooked.  I made my way on the Goose toward Thetis Lake Park.  Having more time on a Saturday, I decided to try the _Panhandle Trail_; this is rated _"blue"_ on Trail Forks and the reason I haven't attempted it in the past.   Turns out, this trail is a non-technical fire road linking _Highlands Road_ with _Munn Road_.
+Once on my XC bike, my mood brightened but my legs continued to feel cooked.  I made my way on the Goose toward Thetis Lake Park.  Having more time on a Saturday, I decided to try the _Panhandle Trail_; this is rated _"blue"_ on Trail Forks and the reason I haven't attempted it in the past.   Turns out, this trail is a non-technical fire road linking _Highlands Road_ with _Munn Road_ with one power-sapping climb in the middle.
 <!---->
 I was ~40 minutes to _Munn_; plenty of time to find the trailhead to _Regional Trail South_.  I found the _"trailhead"_ as listed on my Garmin bike computer but it quickly turned into a _"hike-a-bike show"_ for the final 300m through thick brush to get to where I was going.
 
@@ -173,4 +173,4 @@ Once on _Regional Trail South_, I made my way to a proper _"blue trail"_ called 
 
 Once out of the park, it was _Goward Road_ to _Glendale Trail_ for the way home.  So far, my legs felt **pretty fatigued** before and during this ride; the ride home felt no different.  I was skeptical about the scheduled run.  I took my time to put my bike away and get into some running kit.
 
-Once in my Nikes, I took it easy.  To my **honest surprise**, I was less than 3 minutes down the street before I felt pretty good, reacting to the ground.  I jogged my typical route on the Lochside Trail to Quadra Street and back.
+Once in my Nikes, I took it easy.  To my **honest surprise**, it was less than 3 minutes down the street before I **felt pretty good**, reacting with the ground.  I jogged my typical route on the Lochside Trail to Quadra Street and back.
