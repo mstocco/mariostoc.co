@@ -1,4 +1,4 @@
-While out on a training mountain bike, I stopped by Killarney Lake to take this picture.
+While out on a training ride on my mountain bike, I stopped by Killarney Lake to take this picture.
 
 This was [46 weeks out from Ironman Canada 2021](/traininglog/ironman2021-46weeksout).
 
