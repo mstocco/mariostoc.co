@@ -147,9 +147,9 @@ Rested!  I woke up feeling much better today.
 
 The run started ok though I did notice a tiny bit of soreness in my left ankle that was atypical.  I jogged the warmup to 32 minutes instead of the full 40 because I wanted to get the stride work in with the remaining daylight; my legs feeling heavy may have helped the decision too.
 
-If I felt mediocre on the warmup, it was the opposite during the strides.  I was skipping nicely off the ground, even if for just 20 seconds at a time.  The walk breaks in between helped too.
+During the strides, I skipped nicely off the ground, even if for just 20 seconds at a time.  The walk breaks in between helped too.
 
-Tonight, a spectacularly colourful sunset painted the sky as I crossed the trestle.  I wish I had a camera on me.
+Tonight, a spectacularly colourful sunset painted the sky as I crossed the trestle.
 
 <!---->
 ## SATURDAY OCT 17 ☁️
