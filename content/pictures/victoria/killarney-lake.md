@@ -19,7 +19,7 @@ While out on a training mountain bike, I stopped by Killarney Lake to take this 
  <li><a href="/pictures/europe2018/">Europe 2018</a></li>
 </ul>
 
-![Mount Work Regional Park, Victoria, BC](/assets/jpg/killarneylake-977x550.jpg An October Day at Killarney Lake)
+![Mount Work Regional Park, Victoria, BC](/assets/jpg/killarneylake-977x550.jpeg An October Day at Killarney Lake)
 
 <!--og:image: /assets/og/killarneylake.jpeg-->
 <!--description: I stopped at Killarney Lake during a MTB Ride on October 17, 2020.-->

@@ -163,7 +163,7 @@ Once on my XC bike, my mood brightened but my legs continued to feel cooked.  I 
 <!---->
 I was ~40 minutes to _Munn_; plenty of time to find the trailhead to _Regional Trail South_.  I found the _"trailhead"_ as listed on my Garmin bike computer but it quickly turned into a _"hike-a-bike show"_ for the final 300m through thick brush to get to where I was going.
 
-Once on _Regional Trail South_, I made my way to a proper _"blue trail"_ called _"Executive West"_.  This was a fun trail, mostly downhill in the direction I was travelling.  Before heading back to paved roads, I took a quick detour to check out [Killarney Lake](/pictures/victoria/killarneylake).
+Once on _Regional Trail South_, I made my way to a proper _"blue trail"_ called _"Executive West"_.  This was a fun trail, mostly downhill in the direction I was travelling.  Before heading back to paved roads, I took a quick detour to check out [Killarney Lake](/pictures/victoria/killarney-lake).
 
 Once out of the park, it was _Goward Road_ to _Glendale Trail_ for the way home.  So far, my legs felt **pretty fatigued** before and during this ride; the ride home felt no different.  I was skeptical about the scheduled run.  I took my time to put my bike away and get into some running kit.
 
