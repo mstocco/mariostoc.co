@@ -39,6 +39,7 @@ The [list of completed weeks](javascript:flkty.select(3);) can be found [here](j
 <ul class="iconlist">
 <li class="page"><a href="ironman2021-47weeksout">47 Weeks Out - October 4, 2020</a></li>
 <li class="page"><a href="ironman2021-46weeksout">46 Weeks Out - October 11, 2020</a></li>
+<li class="page"><a href="ironman2021-45weeksout">45 Weeks Out - October 18, 2020</a></li>
 </ul>
 <!--og:title: IRONMAN Training 2021-->
 <!--og:image: /assets/og/argon18e-118next.jpg-->
