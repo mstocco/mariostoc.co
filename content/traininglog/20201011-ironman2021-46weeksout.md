@@ -7,19 +7,13 @@ Week beginning [Sunday, October 11, 2020](javascript:flkty.select(3);)
 I have been consistent with training for the past few weeks.  My goal this week is to continue with that same momentum and try to get a bit more sleep than last week.
 
 ## SUMMARY
-I feel like I was...   
-<sup>(filled out at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel like I was **PUSHING BOUNDARIES**
 
-## PREVIOUS TRAINING WEEKS
-<ul class="iconlist">
-<li class="page"><a href="ironman2021-52weeksout">52 Weeks Out - August 30, 2020</a></li>
-<li class="page"><a href="ironman2021-51weeksout">51 Weeks Out - September 6, 2020</a></li>
-<li class="page"><a href="ironman2021-50weeksout">50 Weeks Out - September 13, 2020</a></li>
-<li class="page"><a href="ironman2021-49weeksout">49 Weeks Out - September 20, 2020</a></li>
-<li class="page"><a href="ironman2021-48weeksout">48 Weeks Out - September 27, 2020</a></li>
-<li class="page"><a href="ironman2021-47weeksout">47 Weeks Out - October 4, 2020</a></li>
-</ul>
+I started the week with a good run in the rain on [Sunday](javascript:flkty.select(3);) and had a great quality session at the track on [Wednesday](javascript:flkty.select(5);).
+
+Stress did catch up with me by [Thursday](javascript:flkty.select(6);) but I feel like I did my best to get back on track for strides on [Friday](javascript:flkty.select(8);) and a fun MTB Ride + Run on [Saturday](javascript:flkty.select(9);).  
+
+This week's goal was to get a bit more sleep; I don't know how well I accomplished that.  I did feel pretty heavy legged on the back half of the week which lets me know that the training stimulus is where it needs to be.
 
 ![A nice reward after Wednesday's track workout.](/assets/jpg/IMG_2852-977x550.jpg Sunset From The PISE Parking Lot)
 
@@ -174,3 +168,19 @@ Once on _Regional Trail South_, I made my way to a proper _"blue trail"_ called 
 Once out of the park, it was _Goward Road_ to _Glendale Trail_ for the way home.  So far, my legs felt **pretty fatigued** before and during this ride; the ride home felt no different.  I was skeptical about the scheduled run.  I took my time to put my bike away and get into some running kit.
 
 Once in my Nikes, I took it easy.  To my **honest surprise**, it was less than 3 minutes down the street before I **felt pretty good**, reacting with the ground.  I jogged my typical route on the Lochside Trail to Quadra Street and back.
+
+<!---->
+## PREVIOUS TRAINING WEEKS
+<ul class="iconlist">
+<li class="page"><a href="ironman2021-52weeksout">52 Weeks Out - August 30, 2020</a></li>
+<li class="page"><a href="ironman2021-51weeksout">51 Weeks Out - September 6, 2020</a></li>
+<li class="page"><a href="ironman2021-50weeksout">50 Weeks Out - September 13, 2020</a></li>
+<li class="page"><a href="ironman2021-49weeksout">49 Weeks Out - September 20, 2020</a></li>
+<li class="page"><a href="ironman2021-48weeksout">48 Weeks Out - September 27, 2020</a></li>
+<li class="page"><a href="ironman2021-47weeksout">47 Weeks Out - October 4, 2020</a></li>
+</ul>
+
+## NEXT TRAINING WEEK
+<ul class="iconlist">
+<li class="page"><a href="ironman2021-45weeksout">45 Weeks Out - October 18, 2020</a></li>
+</ul>
