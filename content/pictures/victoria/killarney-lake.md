@@ -1,6 +1,6 @@
 While out on a training ride on my mountain bike, I stopped by Killarney Lake to take this picture.
 
-This was [46 weeks out from Ironman Canada 2021](/traininglog/ironman2021-46weeksout).
+This was [46 weeks out from Ironman Canada](/traininglog/ironman2021-46weeksout).
 
 ## Other Pictures from Around Victoria
 <ul class="gallerylist">
