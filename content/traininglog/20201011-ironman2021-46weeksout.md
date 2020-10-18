@@ -145,7 +145,7 @@ Total Time: **53 minutes**
 
 Rested!  I woke up feeling much better today.
 
-The run started ok in that my soleus' felt fine (though I did notice a tiny bit of soreness in my left ankle that was atypical).  I wasn't feeling much of a pop off the ground either.  I jogged the warmup to 32 minutes instead of the full 40 because I was getting short on daylight and I wanted to get the stride work in; my legs feeling heavy may have helped the decision too.
+The run started ok in that my soleus' felt fine (though I did notice a tiny bit of soreness in my left ankle that was atypical).  I jogged the warmup to 32 minutes instead of the full 40 because I was getting short on daylight and I wanted to get the stride work in; my legs feeling heavy may have helped the decision too.
 
 If I felt mediocre on the warmup, it was the opposite during the strides.  The feeling like I was skipping off the ground, even if for 20 seconds was fun.  The walk breaks in between helped too.
 
@@ -165,7 +165,9 @@ Total Time: **180 minutes**
 
 Just an okay sleep last night; 7 hours and not much more.  My legs continue to feel heavy today.  With most of the Saturday chores done, those heavy legs had me procrastinating getting out the door.
 
-Once on my XC bike, my mood brightened up but my legs continued to feel cooked.  I made my way on the Goose toward Thetis Lake Park.  Today being a Saturday and having a bit more time, I decided to try the Panhandle Trail; this is rated as _"blue"_ on Trail Forks and the reason I haven't attempted it in the past.   Turns out this trail is practically another, non-technical fire road linking Highlands Road with Munn Road.  I was ~40 minutes to Munn; plenty of time to find the trailhead to Regional Trail South.  I found the _"trailhead"_ as listed on my Garmin bike computer but it quickly turned into a _"hike-a-bike show"_ for the final 300m through the brush to get to where I was going.
+Once on my XC bike, my mood brightened up but my legs continued to feel cooked.  I made my way on the Goose toward Thetis Lake Park.  Today being a Saturday and having more time, I decided to try the Panhandle Trail; this is rated _"blue"_ on Trail Forks and the reason I haven't attempted it in the past.   Turns out this trail is practically another, non-technical fire road linking Highlands Road with Munn Road.
+<!---->
+I was ~40 minutes to Munn; plenty of time to find the trailhead to Regional Trail South.  I found the _"trailhead"_ as listed on my Garmin bike computer but it quickly turned into a _"hike-a-bike show"_ for the final 300m through the brush to get to where I was going.
 
 Once on the Regional Trail South, I made my way to a proper _"blue trail"_ called _"Executive West"_.  This was a fun trail, mostly downhill in the direction I was travelling.  Before heading back to paved roads, I took a quick detour to check out Killarney Lake.
 
