@@ -11,9 +11,9 @@ I feel like I was **PUSHING BOUNDARIES**
 
 This week's goal was to get a bit more sleep; I don't know how well I accomplished that.  I did feel pretty heavy legged on the back half of the week which lets me know that the training stimulus is where it needs to be.
 
-I started the week with a good run in the rain on [Sunday](javascript:flkty.select(3);) and had a great quality session at the track on [Wednesday](javascript:flkty.select(5);).
+I started the week with a good run in the rain on [Sunday](javascript:flkty.select(3);) and had a great quality session at the track on [Wednesday](javascript:flkty.select(7);).
 
-Stress did catch up with me by [Thursday](javascript:flkty.select(6);) but I feel like I did my best to get myself back on track for [Friday](javascript:flkty.select(8);) and [Saturday](javascript:flkty.select(9);).
+Stress did catch up with me by [Thursday](javascript:flkty.select(10);) but I feel like I did my best to get myself back on track for [Friday](javascript:flkty.select(11);) and [Saturday](javascript:flkty.select(12);).
 
 ![A nice reward after Wednesday's track workout.](/assets/jpg/IMG_2852-977x550.jpg Sunset From The PISE Parking Lot)
 
