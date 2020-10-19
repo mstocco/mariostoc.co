@@ -15,8 +15,8 @@ I feel like was...
 [46 Week Out - October 11, 2020](ironman2021-46weeksout)
 
 <!---->
-## SUNDAY OCT 18
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## SUNDAY OCT 18 🌦
+Sleep **3** | Fatigue **4** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -25,10 +25,15 @@ Run 90 minutes. Hilly route. Maybe some trails??
 Remember to bring calories. Keep the effort EASY. Time on feet. Nothing more.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **90 minutes**
 
-&mdash; 
+I woke up and had a nice, lazy morning.  I did the mobility mid-afternoon and headed out for the run later.
 
+I started off slow, easy and not in a rush.  This was a shorter version of last Sunday's hilly route through View Royal.  I felt pretty darn good for the first 20 minutes; I was expecting worse.  I made a mental note at the 36 minute mark that my legs were starting to fade; not much juice going up and a bit more impact on the way down.
+
+By the time I hit _Helmcken Road_, things started to perk up and by the time I got half way back to _Admirals Road_, I was popping off the ground as if I had rested for a week.
+
+Even though I was out there for less time than last Sunday's run, I came within a kilometre in distance and ten metres of elevation gain of last week.  The sunny weather window I had today may have helped a bit too. 
 
 <!---->
 ## MONDAY OCT 19
