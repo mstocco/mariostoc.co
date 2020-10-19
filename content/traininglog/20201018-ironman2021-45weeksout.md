@@ -35,6 +35,9 @@ By the time I hit _Helmcken Road_, things started to perk up and by the time I g
 
 Even though I was out there for less time than last Sunday's run, I came within a kilometre in distance and ten metres of elevation gain of last week.  The sunny weather window I had today may have helped a bit too. 
 
+### Run Map
+![Run Map](/assets/jpg/runmap-20201018.jpeg)
+
 <!---->
 ## MONDAY OCT 19
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
