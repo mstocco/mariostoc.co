@@ -41,8 +41,8 @@ I finished this run with a great runner's high.
 ![Run Map](/assets/jpg/runmap-20201018.jpeg)
 
 <!---->
-## MONDAY OCT 19
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## MONDAY OCT 19 🌤
+Sleep **2** | Fatigue **3** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -51,7 +51,7 @@ Mobility 18 minutes.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+A night of sound sleep.  Hooray!
 
 
 <!---->
