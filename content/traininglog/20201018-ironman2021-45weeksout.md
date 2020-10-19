@@ -30,7 +30,7 @@ Total Time: **90 minutes**
 I woke up and had a nice, lazy morning.  I did the mobility mid-afternoon and headed out for the run later.
 
 I started off slow, easy and not in a rush.  This was a shorter version of last Sunday's hilly route through View Royal.  I felt pretty darn good for the first 20 minutes; I was expecting worse.  I made a mental note at the 36 minute mark that my legs were starting to fade; not much juice going up and a bit more impact on the way down.
-
+<!---->
 By the time I hit _Helmcken Road_, things started to perk up and by the time I got half way back to _Admirals Road_, I was popping off the ground as if I had rested for a week.
 
 Even though I was out there for less time than last Sunday's run, I came within a kilometre in distance and ten metres of elevation gain of last week.  The sunny weather window I had today may have helped a bit too. 
