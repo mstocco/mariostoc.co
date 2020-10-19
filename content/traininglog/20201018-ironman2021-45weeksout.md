@@ -25,7 +25,7 @@ Run 90 minutes. Hilly route. Maybe some trails??
 Remember to bring calories. Keep the effort EASY. Time on feet. Nothing more.
 
 ### NOTES
-Total Time: **90 minutes**
+Total Time: **94 minutes** &nbsp; Distance **15 km**
 
 I woke up and had a nice, lazy morning.  I did the mobility mid-afternoon and headed out for the run later.
 
@@ -33,9 +33,11 @@ I started off slow, easy and not in a rush.  This was a shorter version of last 
 <!---->
 By the time I hit _Helmcken Road_, things started to perk up and by the time I got half way back to _Admirals Road_, I was popping off the ground as if I had rested for a week.
 
-Even though I was out there for less time than last Sunday's run, I came within a kilometre in distance and ten metres of elevation gain of last week.  The sunny weather window I had today may have helped a bit too. 
+Even though I was out there for less time than last Sunday's run, I came within a kilometre in distance and ten metres of elevation gain of last week.  The sunny weather window I had today may have helped a bit too.
 
-### Run Map
+I finished this run with a great runner's high.
+
+### Sunday's View Royal Route
 ![Run Map](/assets/jpg/runmap-20201018.jpeg)
 
 <!---->
