@@ -53,10 +53,13 @@ Total Time: **0 minutes**
 
 A night of sound sleep.  Hooray!
 
+Good day in the office. Hooray!
+
+This was a welcomed **recovery** day.
 
 <!---->
 ## TUESDAY OCT 20
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -66,7 +69,7 @@ Run 30 minutes flat and easy.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I slept well through 4:15am before I was awake.  Fortunately I was able to fall back asleep and then slept in to 8am.
 
 
 <!---->
