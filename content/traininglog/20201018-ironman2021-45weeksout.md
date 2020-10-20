@@ -57,6 +57,8 @@ Good day in the office. Hooray!
 
 This was a welcomed **recovery** day.
 
+I did have a moment in the evening where I found myself really missing my dad.  I don't know if that was a product of not having a training day or if this is just part of the grieving process.
+
 <!---->
 ## TUESDAY OCT 20
 Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**  
