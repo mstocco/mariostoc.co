@@ -77,7 +77,7 @@ A new heart rate monitor strap came in today so I can start recording that metri
 
 Busy day at work and a small woodworking task took up most of the daylight today.  I was debating whether to go for a spin outside but was happy to put on a YouTube video and ride in the garage.  
 <!---->
-For the cadence work, I worked on being smooth rather than hitting an RPM.  I think this worked out okay.  I drank a full bottle mixed with 36 grams of Gatorade (135 calories) over the course of the hour.
+For the cadence work on the bike, I focused on being **smooth** rather than hitting a specific RPM.  I think this worked out okay as I stayed in control and stayed on the rollers.  I drank a full bottle mixed with 36 grams of Gatorade (135 calories) over the course of the hour.
 
 I was in my Altras and out the door without much time wasted.  I **felt okay**; not bad, not great, just okay.  2 things I noticed on the run tonight:
 * It is now getting cool enough for a long sleeved shirt on a clear night like tonight.
