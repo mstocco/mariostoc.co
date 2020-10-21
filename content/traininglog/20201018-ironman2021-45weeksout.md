@@ -60,7 +60,7 @@ This was a welcomed **recovery** day.
 I did have a moment in the evening where I found myself really missing my dad.  I don't know if that was a product of not having a training day or if this is just part of the grieving process.
 
 <!---->
-## TUESDAY OCT 20
+## TUESDAY OCT 20 ☀️
 Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -83,6 +83,9 @@ I was in my Altras and out the door without much time wasted.  I **felt okay**; 
 
 * It is now getting cool enough for a long sleeved shirt on a clear night like tonight.
 * I am still missing my dad.
+
+### BIKE CADENCE CHART
+![Cadence Chart](/assets/jpg/cadence-20201020.jpeg)
 
 <!---->
 ## WEDNESDAY OCT 21
