@@ -88,8 +88,8 @@ I was in my Altras and out the door without much time wasted.  I **felt okay**; 
 ![Cadence Chart](/assets/jpg/cadence-20201020.jpeg)
 
 <!---->
-## WEDNESDAY OCT 21
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## WEDNESDAY OCT 21 ☀️
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -99,7 +99,7 @@ Run 10 minutes easy to warm up. 5x 100 meter strides (Controlled, just to warm u
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I had another night of waking up in the middle of the night though I feel surprisingly rested this morning.
 
 
 <!---->
