@@ -69,11 +69,15 @@ Rollers 60 minutes: 30 minutes easy. 12x :45 high cadence, :45 easy after each. 
 Run 30 minutes flat and easy. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **90 minutes**
 
 I slept well through 4:15am before I was awake.  Fortunately I was able to fall back asleep and then slept in to 8am.
 
+Busy day at work and a small woodworking task took up most of the daylight today.  I was debating whether to go for a spin outside but was happy to put on a YouTube video and ride in the garage.  A new heart rate monitor strap came in today so I can start recording that metric more precisely (especially [tomorrow](javascript:flkty.select(7);)).
 
+For the cadence work, I worked on being smooth rather than hitting an RPM.  I think this worked out okay.  I drank a full bottle mixed with 36 grams of Gatorade (135 calories) over the course of the hour.
+
+I was in my Altras and out the door without much time wasted.  I **felt okay**; not bad, not great, just okay.
 <!---->
 ## WEDNESDAY OCT 21
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
