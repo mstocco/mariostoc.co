@@ -111,7 +111,7 @@ Then I sort of got into a bit of a pickle.
 
 The local Harriors Junior Team had rented the track tonight.  The coach asked other people to clear the track for their workout but he didn't approach me and seemed very much ok with what I was doing; maybe I _"look"_ like a runner.  I mean, it was at this very track that someone asked if I was a _"triathlete"_ and look what I am doing now.
 <!---->
-Back to the pickle...  For the remaining 7 reps, I was now sharing the track with a group of fast kids and that didn't do me any favours in trying to trying to hit 51 seconds per 200 or my goal of 1:42 per 400m.  Every remaining effort was either a touch too fast or just plain too fast.  Running fast is FUN but in re-reading the workout description after the fact, I see that there was an explicit instruction not to go faster than 1:42.
+Back to the pickle...  For the remaining 7 reps, I was now sharing the track with a group of fast kids and that didn't do me any favours in trying to trying to hit 51 seconds per 200 or my goal of 1:42 per 400m.  Every remaining effort was either a touch too fast or just plain too fast.  Running fast is FUN and tonight was **a lot of fun** but in re-reading the workout description after the fact, I see that there was an explicit instruction to _"not to go faster than 1:42"_.
 
 Physically I feel really good after the workout but if there is a workout I'd want a do over, it would be this one.
 <!---->
