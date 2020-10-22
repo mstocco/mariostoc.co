@@ -113,7 +113,7 @@ The local Harriors Junior Team had rented the track tonight.  The coach asked ot
 <!---->
 Back to the pickle...  For the remaining 7 reps, I was now sharing the track with a group of fast kids and that didn't do me any favours in trying to trying to hit 51 seconds per 200 or my goal of 1:42 per 400m.  Every remaining effort was either a touch too fast or just plain too fast.  Running fast is FUN and tonight was **a lot of fun** but in re-reading the workout description after the fact, I see that there was an explicit instruction to _"not to go faster than 1:42"_.
 
-Physically I feel really good after the workout but if there is a workout I'd want a do over, it would be this one.
+Physically I feel really good after the workout but if there is a workout I'd want a do over...
 
 ### HEART RATE GRAPH
 ![Heart Rate](/assets/jpg/heartrate-20201021.jpeg)
