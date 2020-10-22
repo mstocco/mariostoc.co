@@ -105,12 +105,12 @@ I had a productive day at work and a big feed of spaghetti at lunch.  By the tim
 <!---->
 The warmup was uneventful and everything was working (ankles, soleus'); the strides felt good too.  The 15 minutes at marathon pace was **comfortable** too; it took me about a lap to slow down into the 5:08-5:15 target pace and I finished this effort at 5:07/km.
 
-My goal for the 8x400m was 1:42.  The first 200m of the first rep was way too fast and found myself having to slow down on the back half to get my timing right.  That rep was a touch slow at 1:43.6 (4:22/km).
+My goal for the 8x400m was 1:42 per 400m.  This proved harder than I thought.  On the first rep, I hit the 200m about 3 seconds ahead of schedule and to get my timing right, I slowed down too much on the back half.  That rep ended a touch slow at 1:43.6 (4:22/km) but point being, I'd like to be closer to 51 seconds at the 200m mark.
 
 Then I sort of got into a bit of a pickle.
 
-The local Harriors Junior Team had rented the track tonight.  The coach asked other people to clear the track for their workout but he seemed very much ok with what I was doing; maybe I _"look"_ like a runner.  I mean, it was at this very track that someone asked if I was a _"triathlete"_ and look what I am doing now.
-
+The local Harriors Junior Team had rented the track tonight.  The coach asked other people to clear the track for their workout but he didn't approach me and seemed very much ok with what I was doing; maybe I _"look"_ like a runner.  I mean, it was at this very track that someone asked if I was a _"triathlete"_ and look what I am doing now.
+<!---->
 Back to the pickle...  For the remaining 7 reps, I was now sharing the track with a group of fast kids and that didn't do me any favours in trying to trying to hit 51 seconds per 200 or my goal of 1:42 per 400m.  Every remaining effort was either a touch too fast or just plain too fast.  Running fast is FUN but in re-reading the workout description after the fact, I see that there was an explicit instruction not to go faster than 1:42.
 
 Physically I feel really good after the workout but if there is a workout I'd want a do over, it would be this one.
