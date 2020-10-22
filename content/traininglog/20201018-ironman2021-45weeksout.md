@@ -97,11 +97,23 @@ Run 10 minutes easy to warm up. 5x 100 meter strides (Controlled, just to warm u
 8x 400 meters @ 1:42 -1:45. Certainly do not go faster than this. Practicing pacing. Even 200 splits would be ideal. Leaving on 3:00. 10 minute EASY jog to cool down.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **68 minutes**
 
 I had another night of waking up in the middle of the night though I feel surprisingly rested this morning.
 
+I had a productive day at work and a big feed of spaghetti at lunch.  By the time I was heading out the door to go to the track, I was getting a bit hungry (or maybe it was nerves).
+<!---->
+The warmup was uneventful and everything was working (ankles, soleus'); the strides felt good too.  The 15 minutes at marathon pace was **comfortable** too; it took me about a lap to slow down into the 5:08-5:15 target pace and I finished this effort at 5:07/km.
 
+My goal for the 8x400m was 1:42.  The first 200m of the first rep was way too fast and found myself having to slow down on the back half to get my timing right.  That rep was a touch slow at 1:43.6 (4:22/km).
+
+Then I sort of got into a bit of a pickle.
+
+The local Harriors Junior Team had rented the track tonight.  The coach asked other people to clear the track for their workout but he seemed very much ok with what I was doing; maybe I _"look"_ like a runner.  I mean, it was at this very track that someone asked if I was a _"triathlete"_ and look what I am doing now.
+
+Back to the pickle...  For the remaining 7 reps, I was now sharing the track with a group of fast kids and that didn't do me any favours in trying to trying to hit 51 seconds per 200 or my goal of 1:42 per 400m.  Every remaining effort was either a touch too fast or just plain too fast.  Running fast is FUN but in re-reading the workout description after the fact, I see that there was an explicit instruction not to go faster than 1:42.
+
+Physically I feel really good after the workout but if there is a workout I'd want a do over, it would be this one.
 <!---->
 ## THURSDAY OCT 22
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
