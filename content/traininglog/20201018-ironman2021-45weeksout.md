@@ -109,7 +109,7 @@ My goal for the 8x400m was 1:42 per 400m.  This proved harder than I thought.  O
 
 Then I sort of got into a bit of a pickle.
 
-The local Harriors Junior Team had rented the track tonight.  The coach asked other people to clear the track for their workout but he didn't approach me and seemed very much ok with what I was doing; maybe I _"look"_ like a runner.  I mean, it was at this very track that someone asked if I was a _"triathlete"_ and look what I am doing now.
+The local [Harriors Youth Team](https://www.pihyouth.com/) had rented the track tonight.  Their coach asked other people to clear the track for their group workout but he didn't approach me and seemed very much ok with what I was doing; maybe I _"look"_ like a runner.  I mean, it was 15 months ago at this very track that [someone](https://www.triathlon.org/athletes/profile/erika_ackerlund) asked if I was a _"triathlete"_ and look what I am doing now.
 <!---->
 Back to the pickle...  For the remaining 7 reps, I was now sharing the track with a group of fast kids and that didn't do me any favours in trying to trying to hit 51 seconds per 200 or my goal of 1:42 per 400m.  Every remaining effort was either a touch too fast or just plain too fast.  Running fast is FUN and tonight was **a lot of fun** but in re-reading the workout description after the fact, I see that there was an explicit instruction to _"not to go faster than 1:42"_.
 
@@ -120,7 +120,7 @@ Physically I feel really good after the workout but if there is a workout I'd wa
 
 <!---->
 ## THURSDAY OCT 22
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **4** | Fatigue **3** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -130,7 +130,7 @@ Ride 90 minutes on MTB or road bike. A few hills. Pick the bike and route that s
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I was awake by 0400 this morning and I don't know exactly why.  It might be a bit of anticipation regarding with a task at work, it might be because I am simply hungry.
 
 
 <!---->
