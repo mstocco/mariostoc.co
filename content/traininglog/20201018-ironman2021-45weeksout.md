@@ -133,7 +133,10 @@ Total Moving Time (Bike): **105 minutes**
 
 I was awake by 0400 this morning and I don't know exactly why.  It might be a bit of anticipation regarding with a task at work, it might be because I am simply hungry.
 
-Choice of bike and route today and I picked the road bike because I don't know how many nice days like today I'll get the closer we get to winter.  I had a couple packages to pickup/drop off so this ride was double duty.  I headed out to Brentwood Bay via Wallace Drive.  I felt **surprisingly good** on the bike this afternoon given the [track workout yesterday](javascript:flkty.select(8);).
+Choice of bike and route today and I picked the road bike because I don't know how many nice days like today I'll get the closer we get to winter.  I had a couple packages to pickup/drop off so this ride was double duty.  I headed out to Brentwood Bay via Wallace Drive.  Given the [track workout yesterday](javascript:flkty.select(8);), I felt **surprisingly good** on the bike this afternoon .
+<!---->
+I picked the route today to get a package to a fellow co-worker that lives in Saanichton.  On my way south, I rode up on a couple on near Mitchell Farm.  I notice that the guy was riding a beautiful steel Colnago.  Before I had a chance to ask him about his bike, I noticed the smallest of decals on the inside of a seat stay; it was an Ironman decal.  The guy's name was JJ and we had an awesome talk about Ironman and triathlon all the way through to Maddock Farm.  I could have talked to him for hours and we never got to talk about his _"bici italiana"_.
+ 
 <!---->
 ## FRIDAY OCT 23
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
