@@ -140,7 +140,7 @@ On my way south from Saanichton, I rode up on a couple on near Mitchell Farm.  I
 ![Brentwood Bay Ride Map](/assets/jpg/ridemap-20201022.jpeg)
 <!---->
 ## FRIDAY OCT 23
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **4** | Fatigue **3** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -150,7 +150,7 @@ Run 60 minutes. Hilly route. EASY effort. Really easy effort.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I slept for roughly 6 hours; I watched the last US Presidential Debate last night and I don't know why I wasted that time.
 
 
 <!---->
