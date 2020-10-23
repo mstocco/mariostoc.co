@@ -137,7 +137,7 @@ I picked the road bike because I don't know how many nice days like today I'll g
 <!---->
 On my way south from Saanichton, I rode up on a couple on near Mitchell Farm.  I notice that the guy was riding a beautiful steel Colnago.  Before I had a chance to ask him about his bike, I noticed the smallest of decals on the inside of a seat stay; it was an Ironman decal.  The guy's name was JJ and we had an awesome talk about Ironman and triathlon all the way through to Maddock Farm.  I could have talked to him for hours and we never got to talk about his _"bici italiana"_.
 
-
+![Brentwood Bay Ride Map](/assets/jpg/ridemap-20201022.jpeg)
 <!---->
 ## FRIDAY OCT 23
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
