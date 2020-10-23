@@ -133,7 +133,7 @@ Total Moving Time (Bike): **105 minutes**
 
 I was awake by 0400 this morning and I don't know exactly why.  It might be a bit of anticipation regarding with a task at work, it might be because I am simply hungry.
 
-Choice of bike and route today and I picked the road bike because I don't know how many nice days like today I'll get the closer we get to winter.  I had a couple packages to pickup/drop off so this ride was double duty.  I headed out to Brentwood Bay via Wallace Drive.  I felt **pretty good** all ride considering [yesterday's track workout](javascript:flkty.select(8);)   
+Choice of bike and route today and I picked the road bike because I don't know how many nice days like today I'll get the closer we get to winter.  I had a couple packages to pickup/drop off so this ride was double duty.  I headed out to Brentwood Bay via Wallace Drive.  I felt **surprisingly good** on the bike this afternoon given the [track workout yesterday](javascript:flkty.select(8);).
 <!---->
 ## FRIDAY OCT 23
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
