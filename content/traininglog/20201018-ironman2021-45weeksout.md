@@ -14,7 +14,7 @@ I feel like was...
 ## LAST WEEK
 [46 Week Out - October 11, 2020](ironman2021-46weeksout)
 
-![I stopped in Brentwood Bay on Thursday's ride to get this picture.](/assets/jpg/brentwoodbay-20201022-977x550.jpg Autumn on Southern Vancouver Island)
+![I stopped in Brentwood Bay on Thursday's ride to get this picture.](/assets/jpg/brentwoodbay-20201022-977x550.jpeg Autumn on Southern Vancouver Island)
  
 ## SUNDAY OCT 18 🌦
 Sleep **3** | Fatigue **4** | Stress **2** | Soreness **4**  
