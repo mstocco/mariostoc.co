@@ -14,7 +14,8 @@ I feel like was...
 ## LAST WEEK
 [46 Week Out - October 11, 2020](ironman2021-46weeksout)
 
-<!---->
+![I stopped in Brentwood Bay on Thursday's ride to get this picture.](/assets/jpg/brentwoodbay-20201022-977x550.jpg Autumn on Southern Vancouver Island)
+ 
 ## SUNDAY OCT 18 🌦
 Sleep **3** | Fatigue **4** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -119,7 +120,7 @@ Physically I feel really good after the workout but if there is a workout I'd wa
 ![Heart Rate](/assets/jpg/heartrate-20201021.jpeg)
 
 <!---->
-## THURSDAY OCT 22
+## THURSDAY OCT 22 🌤
 Sleep **4** | Fatigue **3** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -132,7 +133,7 @@ Total Time: **0 minutes**
 
 I was awake by 0400 this morning and I don't know exactly why.  It might be a bit of anticipation regarding with a task at work, it might be because I am simply hungry.
 
-
+Choice of bike and route today and I picked the road bike because I don't know how many nice days like today I'll get the closer we get to winter.  I had a couple packages to pickup/drop off so this ride was double duty.  I headed out to Brentwood Bay via Wallace Drive.  I felt **pretty good** all ride considering   
 <!---->
 ## FRIDAY OCT 23
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
