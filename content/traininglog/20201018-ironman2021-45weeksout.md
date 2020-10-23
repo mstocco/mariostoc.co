@@ -1,5 +1,5 @@
 # IRONMAN TRAINING 2021
-Week beginning [Sunday, October 18, 2020](javascript:flkty.select(2);)
+Week beginning [Sunday, October 18, 2020](javascript:flkty.select(3);)
 
 **45 weeks** until IRONMAN Canada.
 
@@ -74,7 +74,7 @@ Total Time: **90 minutes**
 
 I slept well through 4:15am before I was awake.  Fortunately I was able to fall back asleep and then slept in to 8am.
 
-A new heart rate monitor strap came in today so I can start recording that metric more precisely (especially [tomorrow](javascript:flkty.select(7);)).
+A new heart rate monitor strap came in today so I can start recording that metric more precisely (especially [tomorrow](javascript:flkty.select(8);)).
 
 Busy day at work and a small woodworking task took up most of the daylight today.  I was debating whether to go for a spin outside but was happy to put on a YouTube video and ride in the garage.  
 <!---->
@@ -129,11 +129,11 @@ Mobility 25 minutes.
 Ride 90 minutes on MTB or road bike. A few hills. Pick the bike and route that sounds the most fun. Go have fun!
 
 ### NOTES
-Total Time: **0 minutes**
+Total Moving Time (Bike): **105 minutes**
 
 I was awake by 0400 this morning and I don't know exactly why.  It might be a bit of anticipation regarding with a task at work, it might be because I am simply hungry.
 
-Choice of bike and route today and I picked the road bike because I don't know how many nice days like today I'll get the closer we get to winter.  I had a couple packages to pickup/drop off so this ride was double duty.  I headed out to Brentwood Bay via Wallace Drive.  I felt **pretty good** all ride considering   
+Choice of bike and route today and I picked the road bike because I don't know how many nice days like today I'll get the closer we get to winter.  I had a couple packages to pickup/drop off so this ride was double duty.  I headed out to Brentwood Bay via Wallace Drive.  I felt **pretty good** all ride considering [yesterday's track workout](javascript:flkty.select(8);)   
 <!---->
 ## FRIDAY OCT 23
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
