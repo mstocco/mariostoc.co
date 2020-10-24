@@ -152,8 +152,9 @@ Total Time: **67 minutes**
 
 I slept for roughly 6 hours; I watched the last US Presidential Debate last night and I don't know why I wasted that time.
 
-The weather was raining with a cold wind from the north.  I ran my Craigflower/Gorge Hills route with a **really easy effort**.  While I was out there, I felt like I could go at that speed forever and in fact, I got lost in the moment and was late in getting back home (the extra seven minutes).  This felt like the first winter run.
+This felt like the first winter run.  The weather was raining with a cold wind from the north.  I ran my Craigflower/Gorge Hills route with a **really easy effort**.  While I was out there, I felt like I could go at that speed forever and in fact, I got lost in the moment and was late in getting back home (the extra seven minutes).  
 
+Walking up and down the stairs tonight, I can feel the last 4 days in my legs.
 
 <!---->
 ## SATURDAY OCT 24
