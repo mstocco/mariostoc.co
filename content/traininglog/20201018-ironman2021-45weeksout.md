@@ -7,9 +7,9 @@ Week beginning [Sunday, October 18, 2020](javascript:flkty.select(3);)
 This training week looks similar to [last week](ironman2021-46weeksout).  This is a great opportunity to **be consistent**.  My goal is to handle the front half of this week better so that it doesn't negatively effect the back half.
 
 ## SUMMARY
-I feel like was **PUSHING THE EDGE**.  I nailed my consistency goal this training week.  
+I feel like was **PUSHING THE EDGE** and I nailed my consistency goal this week.  
 
-Every planned workout has an entry in my Garmin Connect account and I finished the week with a good amount of training stimulus in my legs.  In contrast to [last week](ironman2021-46weeksout), the run on [Sunday](javascript:flkty.select(3);) had a slightly hillier profile, the rollers on [Tuesday](javascript:flkty.select(6);) had a bit of structure added and the track workout on [Wednesday](javascript:flkty.select(8);) was high quality without leaving me shattered.  Unlike last week, I was able to get on the bike on [Thursday](javascript:flkty.select(11);) and the only speed I had left for [Friday](javascript:flkty.select(13);) (run) and [Saturday](javascript:flkty.select(14);) (brick) was easy pace.
+Every planned workout has an entry in my _Garmin Connect_ account and I finished the week with a solid amount of training stimulus in my legs.  In contrast to [last week](ironman2021-46weeksout), the run on [Sunday](javascript:flkty.select(3);) had a slightly hillier profile, the rollers on [Tuesday](javascript:flkty.select(6);) added a bit of structure and the track workout on [Wednesday](javascript:flkty.select(8);) was high quality without leaving me shattered.  Unlike last week, I was able to get on the bike on [Thursday](javascript:flkty.select(11);) and the only speed I had left for [Friday](javascript:flkty.select(13);) (run) and [Saturday](javascript:flkty.select(14);) (brick) was easy pace.
 
 ![I stopped in Brentwood Bay on Thursday's ride to get this picture.](/assets/jpg/brentwoodbay-20201022-977x550.jpeg Autumn on Southern Vancouver Island)
  
@@ -171,10 +171,21 @@ Flatter route for 90 minutes meant taking _McKenzie_ east to the university and 
 <!---->
 Earlier this morning, Carina and I had friends over for a pancake breakfast.  We hadn't visited with them in some time and they wanted to toast our engagement.  All it took was about 3oz of sparkling wine mixed with some orange juice for my head to pound all afternoon.
 
-So with **tired legs**, a **throbbing headache** and a **cold wind**, everything had lined up for a miserable ride.  That was the opposite of how I felt; my mood was good and I was **thankful** to be able to get outside and ride my bike.
+So with **tired legs**, a **throbbing headache** and a **cold wind**, everything had lined up for a miserable ride.  That was the opposite of how I felt; my mood was **good** and I was **thankful** to be able to get outside and ride my bike.
 
-All ride long, my legs reminded me about the scheduled run.  My mind couldn't fathom jogging 1 minute let alone 30.  I started to break the task of the run down into smaller parts.  If I can't do _30 minutes_, could I do _20?_  I talked myself into 10 minutes.
+All ride long, my legs reminded me about the upcoming run.  My mind couldn't fathom jogging 1 minute let alone 30.  I started to break the task of the run down into smaller parts.  If I can't do _30 minutes_, could I do _20?_  I talked myself into 10 minutes.
 
 The house was warm, the couch looked comfy but I promised myself to at least try 10 minutes of jogging.  On went the Altras and out the door I went.  I stayed out for 16 minutes.  Plodding up the hill on _Regina Street_, told me that I was done.  This has been a **great training week**.
 
 <!---->
+## OTHER TRAINING WEEKS
+
+### NEXT WEEK
+<ul class="iconlist">
+<li class="page"><a href="ironman2021-44weeksout">44 Weeks Out - October 25, 2020</a></li>
+ </ul>
+ 
+ ### PREVIOUS WEEKS
+ <ul class="iconlist">
+<li class="page"><a href="ironman2021-46weeksout">46 Weeks Out - October 4, 2020</a></li>
+ </ul>
