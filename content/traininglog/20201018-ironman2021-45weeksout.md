@@ -171,7 +171,7 @@ Flatter route for 90 minutes meant heading on McKenzie to the University and rid
 <!---->
 Earlier this morning, Carina and I had friends over for a pancake breakfast.  We hadn't visited with them in some time and they wanted to toast our engagement.  All it took was about 3oz of sparkling wine mixed with some orange juice for my head to pound all afternoon.
 
-So with tired legs, a throbbing headache and cold, windy conditions, everything lined up for a miserable bike ride.  That was the opposite of how I felt though.  My mood was really good and I was **thankful** to be able to get outside and ride my bike.
+So with tired legs, a throbbing headache and cold, windy conditions, everything was lining up for a miserable ride.  That was the opposite of how I felt though.  My mood was good and I was **thankful** to be able to get outside and ride my bike.
 
 Throughout the ride, my tired legs reminded me about the scheduled run.  My mind couldn't fathom jogging 1 minute let alone 30.  I started to break the task of the run down into smaller parts.  If I can't do 30 minutes, could I do 20?  I talked myself into 10 minutes.
 
