@@ -7,9 +7,9 @@ Week beginning [Sunday, October 18, 2020](javascript:flkty.select(3);)
 This training week looks similar to [last week](ironman2021-46weeksout).  This is a great opportunity to **be consistent**.  My goal is to handle the front half of this week better so that it doesn't negatively effect the back half.
 
 ## SUMMARY
-I feel like was **PUSHING THE EDGE**.  I nailed this training week.  
+I feel like was **PUSHING THE EDGE**.  I nailed my consistency goal this training week.  
 
-Every planned workout has an entry in my Garmin Connect account and I finished the week with a good amount of training stimulus in my legs.  In contrast to [last week](ironman2021-46weeksout), the run on [Sunday](javascript:flkty.select(3);) had a slightly hillier profile, the rollers on [Tuesday](javascript:flkty.select(6);) had a bit of structure added and the track workout on [Wednesday](javascript:flkty.select(8);) was high quality without leaving me shattered.  Unlike last week, I was able to get on the road bike on [Thursday](javascript:flkty.select(11);) and the only gear I have left for [Friday](javascript:flkty.select(13);) (run) and [Saturday](javascript:flkty.select(14);) (brick) was easy pace.
+Every planned workout has an entry in my Garmin Connect account and I finished the week with a good amount of training stimulus in my legs.  In contrast to [last week](ironman2021-46weeksout), the run on [Sunday](javascript:flkty.select(3);) had a slightly hillier profile, the rollers on [Tuesday](javascript:flkty.select(6);) had a bit of structure added and the track workout on [Wednesday](javascript:flkty.select(8);) was high quality without leaving me shattered.  Unlike last week, I was able to get on the bike on [Thursday](javascript:flkty.select(11);) and the only speed I had left for [Friday](javascript:flkty.select(13);) (run) and [Saturday](javascript:flkty.select(14);) (brick) was easy pace.
 
 ![I stopped in Brentwood Bay on Thursday's ride to get this picture.](/assets/jpg/brentwoodbay-20201022-977x550.jpeg Autumn on Southern Vancouver Island)
  
