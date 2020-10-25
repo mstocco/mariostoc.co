@@ -7,7 +7,7 @@ Week beginning [Sunday, October 18, 2020](javascript:flkty.select(3);)
 This training week looks similar to [last week](ironman2021-46weeksout).  This is a great opportunity to **be consistent**.  My goal is to handle the front half of this week better so that it doesn't negatively effect the back half.
 
 ## SUMMARY
-I feel like was **PUSHING THE EDGE** and I nailed my consistency goal this week.  
+I feel like was **PUSHING THE EDGE** and I nailed my consistency goal this +9hour week.  
 
 Every planned workout has an entry in my _Garmin Connect_ account and I finished the week with a solid amount of training stimulus in my legs.  In contrast to [last week](ironman2021-46weeksout), the run on [Sunday](javascript:flkty.select(3);) had a slightly hillier profile, the rollers on [Tuesday](javascript:flkty.select(6);) added a bit of structure and the track workout on [Wednesday](javascript:flkty.select(8);) was high quality without leaving me shattered.  Unlike last week, I was able to get on the bike on [Thursday](javascript:flkty.select(11);) and the only speed I had left for [Friday](javascript:flkty.select(13);) (run) and [Saturday](javascript:flkty.select(14);) (brick) was easy pace.
 
@@ -183,9 +183,9 @@ The house was warm, the couch looked comfy but I promised myself to at least try
 ### NEXT WEEK
 <ul class="iconlist">
 <li class="page"><a href="ironman2021-44weeksout">44 Weeks Out - October 25, 2020</a></li>
- </ul>
- 
- ### PREVIOUS WEEKS
- <ul class="iconlist">
+</ul>
+
+### PREVIOUS WEEK
+<ul class="iconlist">
 <li class="page"><a href="ironman2021-46weeksout">46 Weeks Out - October 4, 2020</a></li>
- </ul>
+</ul>
