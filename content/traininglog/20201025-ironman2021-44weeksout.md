@@ -4,7 +4,7 @@ Week beginning [Sunday, October 25, 2020](javascript:flkty.select(2);)
 **44 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-&mdash; 
+For the past number of weeks, I have been absorbed more and more about my intermediate goal of running a PB for the 5K.  This week, I will get a chance to put together a mini-race week given the workout on the schedule for this [Saturday](javascript:flkty.select(8);).
 
 ## SUMMARY
 I feel like was... <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
