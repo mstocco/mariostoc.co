@@ -173,8 +173,8 @@ Yes it was colder than normal and yes, my legs were pretty cooked from this past
 
 So with tired legs, a throbbing headache and cold, windy conditions, everything lined up for a miserable bike ride.  That is the opposite of how I felt though.  My mood was really good and I was **thankful** to be able to get outside and ride my bike.
 
-Throughout the ride, my tired legs reminded me about the scheduled run.  My mind couldn't fathom completing 30 minutes, regardless of the pace once I got home.  I started to break the task of the run down into smaller parts.  If I can't do 30 minutes, could I do 20?  I talked myself into 10 minutes.
+Throughout the ride, my tired legs reminded me about the scheduled run.  My mind couldn't fathom jogging 1 minute let alone 30.  I started to break the task of the run down into smaller parts.  If I can't do 30 minutes, could I do 20?  I talked myself into 10 minutes.
 
-The house was warm, and the couch looked very comfy but I promised myself to at least try 10 minutes of jogging.  On went the Altras and out the door I went.  I stayed out for 16 minutes.  It was plodding up the hill on Regina Street that convinced me that I was done for the today.  This has been a great training week.
+The house was warm, and the couch looked very comfy but I promised myself to at least try 10 minutes of jogging.  On went the Altras and out the door I went.  I stayed out for 16 minutes.  It was plodding up the hill on Regina Street that convinced me that I was done for the today.  This has been a **great training week**.
 
 <!---->
