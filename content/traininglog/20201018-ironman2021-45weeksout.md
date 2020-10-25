@@ -7,9 +7,9 @@ Week beginning [Sunday, October 18, 2020](javascript:flkty.select(3);)
 This training week looks similar to [last week](ironman2021-46weeksout).  This is a great opportunity to **be consistent**.  My goal is to handle the front half of this week better so that it doesn't negatively effect the back half.
 
 ## SUMMARY
-I feel like was **PUSHING THE EDGE**.  I think I nailed this training week.  
+I feel like was **PUSHING THE EDGE**.  I nailed this training week.  
 
-Every planned workout has an entry in my Garmin Connect account and I finished the week with a good amount of training stimulus in my legs.  In contrast to [last week](ironman2021-46weeksout), the run on [Sunday](javascript:flkty.select(3);) had a slightly hillier profile, the rollers on [Tuesday](javascript:flkty.select(5);) had a bit of structure added and the track workout on [Wednesday](javascript:flkty.select(7);) was high quality without leaving me shattered.  Unlike last week, I was able to get on the road bike on [Thursday](javascript:flkty.select(10);) and the only gear I have left for [Friday](javascript:flkty.select(3);) (run) and [Saturday](javascript:flkty.select(3);) (brick) was easy pace.
+Every planned workout has an entry in my Garmin Connect account and I finished the week with a good amount of training stimulus in my legs.  In contrast to [last week](ironman2021-46weeksout), the run on [Sunday](javascript:flkty.select(3);) had a slightly hillier profile, the rollers on [Tuesday](javascript:flkty.select(6);) had a bit of structure added and the track workout on [Wednesday](javascript:flkty.select(8);) was high quality without leaving me shattered.  Unlike last week, I was able to get on the road bike on [Thursday](javascript:flkty.select(11);) and the only gear I have left for [Friday](javascript:flkty.select(13);) (run) and [Saturday](javascript:flkty.select(13);) (brick) was easy pace.
 
 ![I stopped in Brentwood Bay on Thursday's ride to get this picture.](/assets/jpg/brentwoodbay-20201022-977x550.jpeg Autumn on Southern Vancouver Island)
  
@@ -154,8 +154,8 @@ This felt like the first winter run.  The weather was raining with a cold wind f
 Walking up and down the stairs tonight, I can feel the last 4 days in my legs.
 
 <!---->
-## SATURDAY OCT 24
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## SATURDAY OCT 24 ☀️
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -163,9 +163,9 @@ Ride 90 minutes on road or TT bike. Flatter route. Nice easy cruise.
 Run 30 minutes easy
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **105 minutes**
 
-&mdash; 
+Holy cold Batman!  The thermometer says it is 8C but the northerly wind made this afternoon feel much colder.  I broke out the tights, gloves and jacket I purchased last winter's riding season and was thankful for it.  Flatter route for 90 minutes meant heading on McKenzie to the University and riding the waterfront route clockwise with the wind mostly at my back.
 
 
 <!---->
