@@ -165,16 +165,16 @@ Run 30 minutes easy
 ### NOTES
 Total Time: **105 minutes**
 
-Holy cold Batman!  The thermometer said 8°C but a stiff, northerly wind made this afternoon feel **much colder**.  I broke out the tights, gloves and jacket purchased for last winter's riding season and I was thankful for it.
+Holy cold Batman!  The thermometer said 8°C but a stiff, northerly wind made this afternoon feel *much colder*.  I broke out the tights, gloves and jacket purchased for last winter's riding season and I was thankful for it.
 
-Flatter route for 90 minutes meant heading on McKenzie to the University and riding the waterfront route clockwise with the wind mostly at my back.  Every incline was felt in my quads.  Every incline, I reminded myself that I need to record thousands more inclines if I want to achieve this Ironman goal.  Every incline ridden gets me a little bit closer.
+Flatter route for 90 minutes meant heading on _McKenzie_ to the university and riding the waterfront route clockwise with the wind mostly at my back.  Every incline was felt in my quads.  Every incline, I reminded myself that I need to record thousands more inclines if I want to achieve this Ironman goal.  Every incline ridden gets me a little bit closer.
 <!---->
 Earlier this morning, Carina and I had friends over for a pancake breakfast.  We hadn't visited with them in some time and they wanted to toast our engagement.  All it took was about 3oz of sparkling wine mixed with some orange juice for my head to pound all afternoon.
 
-So with tired legs, a throbbing headache and cold wind, everything had lined up for a miserable ride.  That was the opposite of how I felt; my mood was good and I was **thankful** to be able to get outside and ride my bike.
+So with **tired legs**, a **throbbing headache** and a **cold wind**, everything had lined up for a miserable ride.  That was the opposite of how I felt; my mood was good and I was **thankful** to be able to get outside and ride my bike.
 
-Throughout the ride, my tired legs reminded me about the scheduled run.  My mind couldn't fathom jogging 1 minute let alone 30.  I started to break the task of the run down into smaller parts.  If I can't do 30 minutes, could I do 20?  I talked myself into 10 minutes.
+Throughout the ride, my tired legs reminded me about the scheduled run.  My mind couldn't fathom jogging 1 minute let alone 30.  I started to break the task of the run down into smaller parts.  If I can't do _30 minutes_, could I do _20_?  I talked myself into 10 minutes.
 
-The house was warm, the couch looked comfy but I promised myself to at least try 10 minutes of jogging.  On went the Altras and out the door I went.  I stayed out for 16 minutes.  Plodding up the hill on Regina Street, told me that I was done for today.  This has been a **great training week**.
+The house was warm, the couch looked comfy but I promised myself to at least try 10 minutes of jogging.  On went the Altras and out the door I went.  I stayed out for 16 minutes.  Plodding up the hill on _Regina Street_, told me that I was done for today.  This has been a **great training week**.
 
 <!---->
