@@ -7,12 +7,9 @@ Week beginning [Sunday, October 18, 2020](javascript:flkty.select(3);)
 This training week looks similar to [last week](ironman2021-46weeksout).  This is a great opportunity to **be consistent**.  My goal is to handle the front half of this week better so that it doesn't negatively effect the back half.
 
 ## SUMMARY
-I feel like was...   
-<sup>(filled out at the end of the week)</sup>
-<!-OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel like was **PUSHING THE EDGE**.  I think I nailed this training week.  
 
-## LAST WEEK
-[46 Week Out - October 11, 2020](ironman2021-46weeksout)
+Every planned workout has an entry in my Garmin Connect account and I finished the week with a good amount of training stimulus in my legs.  In contrast to [last week](ironman2021-46weeksout), the run on [Sunday](javascript:flkty.select(3);) had a slightly hillier profile, the rollers on [Tuesday](javascript:flkty.select(5);) had a bit of structure added and the track workout on [Wednesday](javascript:flkty.select(7);) was high quality without leaving me shattered.  Unlike last week, I was able to get on the road bike on [Thursday](javascript:flkty.select(10);) and the only gear I have left for [Friday](javascript:flkty.select(3);) (run) and [Saturday](javascript:flkty.select(3);) (brick) was easy pace.
 
 ![I stopped in Brentwood Bay on Thursday's ride to get this picture.](/assets/jpg/brentwoodbay-20201022-977x550.jpeg Autumn on Southern Vancouver Island)
  
