@@ -4,15 +4,24 @@ Week beginning [Sunday, October 25, 2020](javascript:flkty.select(2);)
 **44 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-For the past number of weeks, I have been absorbed more and more about my intermediate goal of running a PB for the 5K.  This week, I will get a chance to put together a mini-race week given the workout on the schedule for this [Saturday](javascript:flkty.select(8);).
+For the past number of weeks, I have been increasingly preoccupied with my goal of running a 5K this autumn.  This week, I will get a chance to put together a mini-race week given the workout on the schedule for this [Saturday](javascript:flkty.select(8);).
 
 ## SUMMARY
-I feel like was... <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel like was...   
+<sup>(completed at the end of the week)</sup>
+<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+
+## PREVIOUS WEEK
+<ul class="iconlist">
+ <li class="page">
+  <a href="ironman2021-45weeksout">45 Weeks Out - October 18, 2020</a>
+ </li>
+</ul>
 
 
 <!---->
 ## SUNDAY OCT 25
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **2** | Fatigue **3** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -22,7 +31,7 @@ Run 80 minutes: 20 minutes easy running to warm up. 5x :40 strides, 1:20 EASY jo
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I had a much better sleep last night compared to what I was getting last week. 
 
 
 <!---->
