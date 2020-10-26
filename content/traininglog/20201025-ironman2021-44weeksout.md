@@ -46,7 +46,7 @@ It was a comfortable jog home from there.
 ### PACE CHART
 ![Pace Chart](/assets/jpg/pacechart-20201025.jpeg)
 
-I developed a bit of an ingrown toenail on my left big toe.  I addressed it before the run  and I wore my Altras this afternoon.  This may have been my most fun activity in those shoes so far.
+I was developing an ingrown toenail on my left big toe.  I addressed it _before_ the run  and I wore my Altras this afternoon.  This may have been my most fun activity in those shoes so far.
 
 <!---->
 ## MONDAY OCT 26 
