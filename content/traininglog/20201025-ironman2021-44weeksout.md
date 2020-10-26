@@ -20,7 +20,7 @@ I feel like was...
 
 
 <!---->
-## SUNDAY OCT 25
+## SUNDAY OCT 25 ☀️
 Sleep **2** | Fatigue **3** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -35,7 +35,7 @@ I had a much better sleep last night compared to what I was getting last week.
 
 My legs felt a bit dead today during the mobility routine (lunges in particular).
 
-I walked for a bit before hitting start on this run.  I headed toward the gravel part of _Lochside Trail_ just north of the _Monkey Tree Pub_.    I felt **just ok** at the pedestrian pace of the warm up.
+I walked for a bit before hitting start on this run.   I felt **just ok** at the pedestrian pace of the warm up.  I headed toward the gravel part of _Lochside Trail_ just north of the _Monkey Tree Pub_. 
 <!---->
 Once there, it was time for 5 strides and all 5 of them felt terrible; **heavy legs**, no juice.
 
@@ -49,7 +49,7 @@ It was a comfortable jog home from there.
 I developed a bit of an ingrown toenail on my left big toe.  I addressed it before the run  and I wore my Altras this afternoon.  This may have been my most fun activity in those shoes so far.
 
 <!---->
-## MONDAY OCT 26
+## MONDAY OCT 26 
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
