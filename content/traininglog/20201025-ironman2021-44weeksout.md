@@ -50,7 +50,7 @@ I was developing an ingrown toenail on my left big toe.  I addressed it _before_
 
 <!---->
 ## MONDAY OCT 26 
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **4** | Fatigue **4** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -59,7 +59,8 @@ Mobility 22 minutes.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I woke up at 0330.  I was hungry and had a bad bout of night sweats.  I found a granola bar in the cupboard and was able to go back to sleep but not a good sleep overall.
+
 
 
 <!---->
