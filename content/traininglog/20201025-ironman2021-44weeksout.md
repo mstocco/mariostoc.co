@@ -37,9 +37,17 @@ I felt today's mobility routine in my legs (lunges in particular).
 
 I walked for a bit before hitting start on this run.  I felt somewhat ok at the pedestrian pace of the warm up and I headed for the gravel part of _Lochside Trail_ just north of the _Monkey Tree Pub_.
 <!---->
-Once there, it was time for some 5 strides and all 5 of them felt terrible; heavy legs, no juice.
+Once there, it was time for 5 strides and all 5 of them felt terrible; heavy legs, no juice.  
 
 Then, out of nowhere, things just clicked on the 9 minute efforts.   Running felt **light and effortless**.  I was expecting to go through the motions and all of a sudden I was having a lot of fun.  I had a coffee flavoured _ReKarb_ between the 3rd and 4th efforts.
+
+It was a nice easy jog home from there.
+
+### PACE CHART
+![Pace Chart](/assets/jpg/pacechart-20201025.jpeg)
+
+Interesting note:  I wore my Altras tonight as I developed a bit of an ingrown toenail on my left big toe.  I addressed it before the run tonight but this may have been my most fun activity in those shoes so far.
+
 <!---->
 ## MONDAY OCT 26
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
