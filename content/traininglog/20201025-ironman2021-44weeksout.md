@@ -33,13 +33,13 @@ Total Time: **90 minutes** &nbsp; Distance: **15 km**
 
 I had a much better sleep last night compared to what I was getting last week.
 
-I felt today's mobility routine in my legs (lunges in particular).
+My legs felt it today during the mobility routine (lunges in particular).
 
-I walked for a bit before hitting start on this run.  I felt just ok at the pedestrian pace of the warm up and I headed toward the gravel part of _Lochside Trail_ just north of the _Monkey Tree Pub_.
+I walked for a bit before hitting start on this run.  I felt **just ok** at the pedestrian pace of the warm up and I headed toward the gravel part of _Lochside Trail_ just north of the _Monkey Tree Pub_.
 <!---->
-Once there, it was time for 5 strides and all 5 of them felt terrible; heavy legs, no juice.  
+Once there, it was time for 5 strides and all 5 of them felt terrible; **heavy legs**, no juice.
 
-Then, out of nowhere, things just clicked on the 9 minute efforts.   Running felt **light and effortless**.  I was expecting to go through the motions but all of a sudden I was having a lot of fun.  I had a _"coffee flavoured"_ ReKarb between the 3rd and 4th efforts.
+I was prepared to go through the motions for the 9 minute efforts but unexpectedly, things just started to click.   Running felt **light and effortless** and I found myself having a lot of fun.  I had a _"coffee flavoured"_ ReKarb between the 3rd and 4th efforts.
 
 It was a comfortable jog home from there.
 
