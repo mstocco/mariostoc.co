@@ -33,9 +33,9 @@ Total Time: **90 minutes** &nbsp; Distance: **15 km**
 
 I had a much better sleep last night compared to what I was getting last week.
 
-My legs felt it today during the mobility routine (lunges in particular).
+My legs felt a bit dead today during the mobility routine (lunges in particular).
 
-I walked for a bit before hitting start on this run.  I felt **just ok** at the pedestrian pace of the warm up and I headed toward the gravel part of _Lochside Trail_ just north of the _Monkey Tree Pub_.
+I walked for a bit before hitting start on this run.  I headed toward the gravel part of _Lochside Trail_ just north of the _Monkey Tree Pub_.    I felt **just ok** at the pedestrian pace of the warm up.
 <!---->
 Once there, it was time for 5 strides and all 5 of them felt terrible; **heavy legs**, no juice.
 
@@ -46,7 +46,7 @@ It was a comfortable jog home from there.
 ### PACE CHART
 ![Pace Chart](/assets/jpg/pacechart-20201025.jpeg)
 
-I wore my Altras tonight as I developed a bit of an ingrown toenail on my left big toe.  I addressed it before the run but this may have been my most fun activity in those shoes so far.
+I developed a bit of an ingrown toenail on my left big toe.  I addressed it before the run  and I wore my Altras this afternoon.  This may have been my most fun activity in those shoes so far.
 
 <!---->
 ## MONDAY OCT 26
