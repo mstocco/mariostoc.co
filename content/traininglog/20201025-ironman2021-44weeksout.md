@@ -73,7 +73,7 @@ Ride 60 minutes on rollers. 20 minutes easy to warm up. 6x :40 high cadence, :50
 Run 40 minutes. Flat route. EASY effort. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **95 minutes**
 
 Length of sleep last night was good and I didn't get up in the middle of the night but I did feel pretty groggy before getting my feet on the floor.
 
@@ -86,6 +86,9 @@ After dinner, I headed out to the garage for a late spin on the rollers.  I rode
 * Turn the fan on.  It was cool to start but without a fan, this workout became a sweat-fest and I haven't wrapped this bike for indoor workouts yet.
 
 * Wear a different chamois.  I ended the workout not long into the _"cooldown"_ because of some uncomfortable rubbing that did not seem worth the extra 10 minutes of spinning.
+
+### JOG ALONG THE GORGE
+![Run Map](/assets/jpg/runmap-20201027.jpeg)
 
 <!---->
 ## WEDNESDAY OCT 28
