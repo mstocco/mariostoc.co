@@ -83,7 +83,7 @@ It was really hard to tell if it was fog rolling in from the west or if it was g
 
 <!---->
 ## WEDNESDAY OCT 28
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **2** | Fatigue **3** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -92,7 +92,7 @@ Run 15 minutes easy to warm up. 6x 100 meter strides (to warm up) 100 meter EASY
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Decent sleep last night.
 
 
 <!---->
