@@ -77,9 +77,15 @@ Total Time: **0 minutes**
 
 Length of sleep last night was good and I didn't get up in the middle of the night but I did feel pretty groggy before getting my feet on the floor.
 
-It was really hard to tell if it was fog rolling in from the west or if it was genuine rain. Not taking the chance with the weather, I did the run first.  Tuesday runs officially suck.  The last time I felt this terrible on a run was also on a Tuesday.  Lungs we not taxed but the anterior ligaments above my **ankles protested**.  I stopped for a traffic light at 9 minutes and then for a walk break at 22; anything to dump the tension built up in my ankles.  I felt a bit better after 30 minutes but this was in no way a fun jog.
+It was really hard to tell if it was fog rolling in from the west or if it was genuine rain. Not taking the chance with the weather, I did the run first.  Tuesday runs officially suck.  The last time I felt this terrible on a run was also on a Tuesday.  Lungs we not taxed but the anterior ligaments above my **ankles protested**.
+<!---->
+I stopped for a traffic light at 9 minutes and then for a walk break at 22; anything to dump the tension built up in my ankles.  I felt a bit better after 30 minutes but this was in no way a fun jog.
 
+After dinner, I headed out to the garage for a late spin on the rollers.  I rode the TT bike and if I could do a couple things over, I would:
 
+* Turn the fan on.  It was cool to start but without a fan, this workout became a sweat-fest and I haven't wrapped this bike for indoor workouts yet.
+
+* Wear a different chamois.  I ended the workout not long into the _"cooldown"_ because of some uncomfortable rubbing that did not seem worth the extra 10 minutes of spinning.
 
 <!---->
 ## WEDNESDAY OCT 28
