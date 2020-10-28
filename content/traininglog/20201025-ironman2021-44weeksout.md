@@ -77,9 +77,9 @@ Total Time: **95 minutes**
 
 Length of sleep last night was good and I didn't get up in the middle of the night but I did feel pretty groggy before getting my feet on the floor.
 
-It was really hard to tell if it was fog rolling in from the west or if it was genuine rain. Not taking the chance with the weather, I did the run first.  Tuesday runs officially suck.  The last time I felt this terrible on a run was also on a Tuesday.  Lungs we not taxed but the anterior ligaments above my **ankles protested**.
+It was really hard to tell if it was fog rolling in from the west or if it was genuine rain. Not taking the chance with the weather, I did the run first.  Tuesday runs officially suck.  The last time I felt this terrible on a run was also on a Tuesday.  Lungs were not taxed but the anterior ligaments above my **ankles protested**.
 <!---->
-I stopped for a traffic light at 9 minutes and then for a walk break at 22; anything to dump the tension built up in my ankles.  I felt a bit better after 30 minutes but this was in no way a fun jog.
+I stopped for a traffic light at 9 minutes and then for a walk break at 22; anything to dump the tension built up above my ankles.  I felt a bit better after 30 minutes but this was in no way a fun jog.
 
 After dinner, I headed out to the garage for a late spin on the rollers.  I rode the TT bike and if I could do a couple things over, I would:
 
@@ -87,23 +87,23 @@ After dinner, I headed out to the garage for a late spin on the rollers.  I rode
 
 * Wear a different chamois.  I ended the workout not long into the _"cooldown"_ because of some uncomfortable rubbing that did not seem worth the extra 10 minutes of spinning.
 
-### JOG ALONG THE GORGE
+### SLOW JOG ALONG THE GORGE
 ![Run Map](/assets/jpg/runmap-20201027.jpeg)
 
 <!---->
 ## WEDNESDAY OCT 28
-Sleep **2** | Fatigue **3** | Stress **4** | Soreness **3**  
+Sleep **2** | Fatigue **4** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 Run 15 minutes easy to warm up. 6x 100 meter strides (to warm up) 100 meter EASY jog. Then.. 4x 400 meters @ goal 5k effort/pace. 1:42-1:45 is a good range for now. Leaving on 3:00. 10 minutes easy to cool down. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **43 minutes**
 
-Decent sleep last night.
+Decent sleep last night and I had a busy morning at work.
 
-
+Just like yesterday, the weather looked good in the morning but threatening later in the afternoon.  I drove to the track and got the workout in while everything was dry.  If yesterday's run just plain sucked, today's workout didn't suck as bad.  Today I ran some 100s and 400s but it was running; not popping off the track, not feeling light.  The distances were not really long enough to use the word _"laboured"_ but I expected 1:44.2, 1:41.1, 1:40.9 and 1:43.6 to feel easier. 
 <!---->
 ## THURSDAY OCT 29
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
