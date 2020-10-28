@@ -49,7 +49,7 @@ It was a comfortable jog home from there.
 I was developing an ingrown toenail on my left big toe.  I addressed it _before_ the run  and I wore my Altras this afternoon.  This may have been my most fun activity in those shoes so far.
 
 <!---->
-## MONDAY OCT 26 
+## MONDAY OCT 26 ☁️
 Sleep **4** | Fatigue **4** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -61,11 +61,11 @@ Total Time: **0 minutes**
 
 I woke up at 0330.  I was hungry and had a bad bout of night sweats.  I found a granola bar in the cupboard and was able to go back to sleep but not a good sleep overall.
 
-
+Mental focus was difficult today.  Maybe it is the cloudy, dreary weather today.
 
 <!---->
-## TUESDAY OCT 27
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## TUESDAY OCT 27 ⛅️
+Sleep **4** | Fatigue **3** | Stress **3** | Soreness **2**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -75,7 +75,10 @@ Run 40 minutes. Flat route. EASY effort.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Length of sleep last night was good and I didn't get up in the middle of the night but I did feel pretty groggy before getting my feet on the floor.
+
+It was really hard to tell if it was fog rolling in from the west or if it was genuine rain. Not taking the chance with the weather, I did the run first.  Tuesday runs officially suck.  The last time I felt this terrible on a run was also on a Tuesday.  Lungs we not taxed but the anterior ligaments above my **ankles protested**.  I stopped for a traffic light at 9 minutes and then for a walk break at 22; anything to dump the tension built up in my ankles.  I felt a bit better after 30 minutes but this was in no way a fun jog.
+
 
 
 <!---->
