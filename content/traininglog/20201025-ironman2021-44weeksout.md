@@ -103,7 +103,7 @@ Total Time: **43 minutes**
 
 Decent sleep last night and I had a busy morning at work.
 
-Just like yesterday, the weather looked good in the morning but threatening later in the afternoon.  I drove to the track and got the workout in while everything was dry.  If yesterday's run just plain sucked, today's workout didn't suck as bad.  Today I ran some 100s and 400s but it was running; not popping off the track, not feeling light.  The distances were not really long enough to use the word _"laboured"_ but I expected 1:44.2, 1:41.1, 1:40.9 and 1:43.6 to feel easier. 
+If yesterday's run just plain sucked, today's workout didn't suck as bad.  Today I ran some 100s and 400s but it was **heavy running**; not popping off the track, not feeling light.  The distances were not really long enough to use the word _"laboured"_ but I expected 1:44.2, 1:41.1, 1:40.9 and 1:43.6 to feel easier.
 <!---->
 ## THURSDAY OCT 29
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
