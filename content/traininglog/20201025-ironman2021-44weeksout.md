@@ -91,7 +91,7 @@ After dinner, I headed out to the garage for a late spin on the rollers.  I rode
 ![Run Map](/assets/jpg/runmap-20201027.jpeg)
 
 <!---->
-## WEDNESDAY OCT 28
+## WEDNESDAY OCT 28 ⛅️
 Sleep **2** | Fatigue **4** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -103,7 +103,10 @@ Total Time: **43 minutes**
 
 Decent sleep last night and I had a busy morning at work.
 
-If yesterday's run just plain sucked, today's workout didn't suck as bad.  Today I ran some 100s and 400s but it was **heavy running**; not popping off the track, not feeling light.  The distances were not really long enough to use the word _"laboured"_ but I expected 1:44.2, 1:41.1, 1:40.9 and 1:43.6 to feel easier.
+If yesterday's run just plain sucked, today's workout didn't suck as bad.  Today I ran some 100s and 400s but it was **heavy running**; not popping off the track, not feeling light.  The distances were not really long enough to use the word _"laboured"_ but for the 4x400m efforts I expected 1:44.2, 1:41.1, 1:40.9 and 1:43.6 to _"feel"_ easier.
+
+Spicy jambalaya was for lunch.
+
 <!---->
 ## THURSDAY OCT 29
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
