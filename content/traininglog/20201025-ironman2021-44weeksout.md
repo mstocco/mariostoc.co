@@ -108,8 +108,8 @@ If yesterday's run just plain sucked, today's workout didn't suck as bad.  Today
 Left adductor/piriformis and both quads need massage work.
 
 <!---->
-## THURSDAY OCT 29
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## THURSDAY OCT 29 ☁️
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -119,7 +119,7 @@ Ride 60 minutes easy. Any bike. Flat route or inside. Only goal is to keep it ea
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Just 7 hours of sleep; I went to bed early, had the night sweats (again) woke up early (0515) but oddly, woke up somewhat refreshed.
 
 
 <!---->
