@@ -105,7 +105,7 @@ Decent sleep last night and I had a busy morning at work.
 
 If yesterday's run just plain sucked, today's workout didn't suck as bad.  Today I ran some 100s and 400s but it was **heavy running**; not popping off the track, not feeling light.  The distances were not long enough to use the word _"laboured"_ but for the 4x400m efforts, I expected 1:44.2, 1:41.1, 1:40.9 and 1:43.6 to _"feel"_ easier.
 
-Spicy jambalaya was for lunch.
+Left adductor/piriformis and both quads need massage work.
 
 <!---->
 ## THURSDAY OCT 29
