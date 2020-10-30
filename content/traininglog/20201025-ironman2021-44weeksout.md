@@ -123,7 +123,7 @@ Just 7 hours of sleep; I went to bed early, had the night sweats (again) woke up
 
 I was able to sneak in a short nap afterwork and before dinner.
 
-The ride on the rollers was steady state, no stopping, **easy effort** for an hour; of which, 45 minutes in the aerobars.  I watched the 2020 UCI MTB Marathon Worlds held in Turkey; cool event.
+The ride on the rollers was steady state, no stopping, **easy effort** for an hour; of which, 45 minutes in the aerobars.  I watched the 2020 UCI MTB Marathon Worlds held in Turkey; cool event.  While the effort was easy on the heart and quads, I do think this hour worked the smaller, postural muscles.
 
 <!---->
 ## FRIDAY OCT 30 ☀️
