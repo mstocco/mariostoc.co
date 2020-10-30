@@ -117,14 +117,17 @@ Mobility 25 minutes.
 Ride 60 minutes easy. Any bike. Flat route or inside. Only goal is to keep it easy and pedal for the whole 60 minutes.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **60 minutes**
 
 Just 7 hours of sleep; I went to bed early, had the night sweats (again) woke up early (0515) but oddly, woke up somewhat refreshed.
 
+I was able to sneak in a short nap afterwork and before dinner.
+
+The ride on the rollers was steady state, no stopping, **easy effort** for an hour; of which, 45 minutes in the aerobars.  I watched the 2020 UCI MTB Marathon Worlds held in Turkey; cool event.
 
 <!---->
-## FRIDAY OCT 30
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## FRIDAY OCT 30 ☀️
+Sleep **4** | Fatigue **3** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -134,7 +137,7 @@ Run 20-30 minutes flat and EASY.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Less than 7 hours of sleep last night but I woke up somewhat rested.  
 
 
 <!---->
