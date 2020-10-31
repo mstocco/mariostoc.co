@@ -1,10 +1,10 @@
 # IRONMAN TRAINING 2021
-Week beginning [Sunday, October 25, 2020](javascript:flkty.select(2);)
+Week beginning [Sunday, October 25, 2020](javascript:flkty.select(3);)
 
 **44 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-For the past number of weeks, I have been increasingly preoccupied with my goal of running a 5K this autumn.  This week, I will get a chance to put together a mini-race week given the workout on the schedule for this [Saturday](javascript:flkty.select(8);).
+For the past number of weeks, I have been increasingly preoccupied with my goal of running a 5K this autumn.  This week, I will get a chance to put together a mini-race week given the workout on the schedule for this [Saturday](javascript:flkty.select(11);).
 
 ## SUMMARY
 I feel like was...   
@@ -18,7 +18,7 @@ I feel like was...
  </li>
 </ul>
 
-![Friday's sunset from one of my local routes](/assets/jpg/swanlaketrail-977x550.jpeg Swan Lake Trail)
+![Friday's sunset from one of my local routes](/assets/jpg/swanlaketrail-977x550.jpeg Swan Lake Nature Sanctuary)
 
 ## SUNDAY OCT 25 ☀️
 Sleep **2** | Fatigue **3** | Stress **2** | Soreness **3**  
@@ -135,7 +135,7 @@ Mobility 20 minutes.
 Run 20-30 minutes flat and EASY.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **30 minutes**
 
 Less than 7 hours of sleep last night but I woke up somewhat rested.
 
