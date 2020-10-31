@@ -18,8 +18,8 @@ I feel like was...
  </li>
 </ul>
 
+![Friday's sunset from one of my local routes](/assets/jpg/swanlaketrail-977x550.jpeg Swan Lake Trail)
 
-<!---->
 ## SUNDAY OCT 25 ☀️
 Sleep **2** | Fatigue **3** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -137,7 +137,9 @@ Run 20-30 minutes flat and EASY.
 ### NOTES
 Total Time: **0 minutes**
 
-Less than 7 hours of sleep last night but I woke up somewhat rested.  
+Less than 7 hours of sleep last night but I woke up somewhat rested.
+
+I did my light jog on the Lochside and [Swan Lake Trail](javascript:flkty.select(2);) tonight.  A touch of fatigue in my quads which I hope is gone by [tomorrow](javascript:flkty.select(11);).
 
 
 <!---->
@@ -158,5 +160,4 @@ Total Time: **0 minutes**
 
 &mdash; 
 
-
-<!---->
+<!--og:image /assets/og/IMG_2888.jp2-->
