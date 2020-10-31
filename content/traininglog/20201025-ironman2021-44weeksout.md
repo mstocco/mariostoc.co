@@ -162,6 +162,7 @@ Then... 200 meters @ what you think you might hold for a 5k. Walk 200-400 meters
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Although I woke breifly at 0515, last night's sleep was the best I've had in a long time.
+<!---->
 
 <!--og:image /assets/og/IMG_2888.jp2-->
