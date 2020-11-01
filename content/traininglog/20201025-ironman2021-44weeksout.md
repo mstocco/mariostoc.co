@@ -191,6 +191,13 @@ Today was as good of a day as I could have hoped for.  I felt well rested, the w
 
 
 <!---->
+## NEXT WEEK
+<ul class="iconlist">
+ <li class="page">
+  <a href="ironman2021-43weeksout">43 Weeks Out - November 1, 2020</a>
+ </li>
+</ul>
+
 ## PREVIOUS WEEK
 <ul class="iconlist">
  <li class="page">
