@@ -172,23 +172,25 @@ The UVic track surface, being a legacy of the 1996 Commonwealth Games, was aweso
 
 Then the varsity soccer practice on Field #4 ended and the players started to make their way across the track.  As I was getting a sip of water before the _"Time Trial"_, the soccer coach gave me the reason that I was the only person on the track today.  The stadium has been closed since March.  The reason the gate was open was to allow the soccer team use of the closest parking lot for their practice.  Short story: I had to leave.
 <!---->
-It was a 10 minute drive to _Oak Bay High_ and the track there.
+It was a 10 minute drive to _Oak Bay_ and the track there.
 
 This run was a much different experience to my 4600m effort, 6 weeks ago, on [September 19th](ironman2021-50weeksout).
 
-Right from the start, I was focused on pacing.  Mentally, my task was to stay with posture, breathing and cadence and for the most part, that is where I was.  These details were discussed with coach on our weekly call and I feel it paid off.   I had a fancy workout out programmed into my watch but I ditched that idea and took manual splits at the 200m marks.  I did miss capturing one 200m split as I briefly was paying attention to a little girl riding her bike on the track.
+### OAK BAY
+![An aerial shot of the track](/assets/jpg/oakbaytrack-20201031.jpeg)
+
+Right from the start, I was focused on pacing.  Mentally, my task was to stay with posture, breathing and cadence and for the most part, that is where I was.  These details were discussed with my coach on our weekly call; I feel it paid off.   I had a fancy workout out programmed into my watch but I ditched that idea and took manual splits at the 200m marks.  I did miss capturing one 200m split as I briefly was paying attention to a little girl riding her bike on the track.
+
+<!---->
+### A FEW POSITIVES FROM THE EFFORT
+
+* I felt more in control of the effort through 10 laps
+* I left the track feeling worked but not as shattered as I did in September.
+
+### WHAT STILL BUGS ME
+Today was as good of a day as I could have hoped for.  I felt well rested, the weather was absolutely perfect (cool, sunny and next to no wind) and when I my plans were thrown off, I adjusted by finding a new venue in short order.  What bugs me is that the goal was to hold an average pace of 4:25/km for this workout and I was off schedule with a 4:30/km;
 
 ### PACING PER 200M
 ![Pace Chart](/assets/jpg/pacechart-20201031.jpeg)
-
-<!---->
-### A few points that stood out
-
-* I felt more in control of the effort through 10 laps.
-* I could have gone earlier 600m to go instead of 400m
-* I left the track feeling worked but not as shattered as I did in September.
-
-### What still bugs me
-Today was as good of a day as I could have hoped for.  I feel rested, the weather was absolutely perfect (cool, sunny and next to no wind) and when I my plans were thrown off, I adjusted by finding a new venue in short order.  What bugs me is that the goal was to hold an average pace of 4:25/km for this workout and I was off schedule with a 4:30/km.
  
 <!--og:image /assets/og/IMG_2888.jp2-->
