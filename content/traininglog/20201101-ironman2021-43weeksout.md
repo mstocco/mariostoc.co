@@ -4,7 +4,7 @@ Week beginning Sunday, November 1, 2020
 **43 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-The scheduled volume is down for this first week of November and after the workout [yesterday](ironman2021-44weeksout), I will be focusing on **recovery** and **remaining consistent**.  This looks like the first time back in the pool for me since March.
+The scheduled volume is down for this first week of November.  After the workout [yesterday](ironman2021-44weeksout), I will be focusing on **remaining consistent** and **recovery**.  This will be the first time back in the pool for me since March.
 
 ## SUMMARY
 I feel like was...   
