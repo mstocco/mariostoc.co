@@ -164,5 +164,10 @@ Total Time: **0 minutes**
 
 Although I woke breifly at 0515, last night's sleep was the best I've had in a long time.
 <!---->
+Information about the availability of UVic’s track is next to nonexistant so I decided to check it out.  After arriving, I found the gate open and a sign stating if you have COVID symtoms, do not enter.  I paid for parking, set my bag and water bottle near the grandstand and set off to do my warm-up.
+
+The track surface, being a legacy of the 1996 Commonwealth Games, was awesome underfoot.  The warmup felt good; the weather was near perfect and I had this entire facility to myself!
+
+Then the varsity soccer practice on Field #4 ended and the players started to make their way across the track 
 
 <!--og:image /assets/og/IMG_2888.jp2-->
