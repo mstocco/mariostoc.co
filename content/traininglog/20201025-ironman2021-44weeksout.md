@@ -166,7 +166,7 @@ Total Time: **40 minutes**
 <!---->
 Although I woke breifly at 0515, last night's sleep was the best I've had in a long time.
 
-Information about the availability of UVic's Centennial Stadium is next to nonexistant so I decided to drive there and check it out.  After arriving, I found the gate open and a sign stating _"if you have COVID symptoms, do not enter"_.  I paid for parking, set my kit near the grandstand and set off to do my warm-up.
+Information about the availability of UVic's Centennial Stadium is next to nonexistant so I decided to drive there and check it out.  After arriving, I found the gate open and a sign stating _"If you have COVID symptoms, DO NOT ENTER"_.  I paid for parking, set my kit near the grandstand and set off to do my warm-up.
 
 The UVic track surface, being a legacy of the 1996 Commonwealth Games, was awesome underfoot.  The warmup felt good; the weather was near perfect and I had this entire facility to myself!
 
@@ -176,12 +176,14 @@ It was a 10 minute drive to _Oak Bay High_ and the track there.
 
 This was a different experience to my 4600m effort, 6 weeks ago, on [September 19th](ironman2021-50weeksout).  I was focused on pacing as discussed with my coach right from the start.  Mentally, my task was to stay with posture, breathing and cadence and for the most part, that is where I was.  I had a fancy workout out programmed into my watch but I ditched that idea and took manual splits at the 200m marks.  I missed capturing one 200m split as I briefly was paying attention to a little girl riding her bike on the track.
 
-A few things that stood out:
+### PACING PER 200M
+![Pace Chart](/assets/jpg/pacechart-20201031.jpeg)
+
+<!---->
+### A few things that stood out
 
 * I felt more in control of the effort through 10 laps.
 * I left the track feeling worked but not as shattered as I did in September.
 
-### PACING PER 200M
-![Pace Chart](/assets/jpg/pacechart-20201031.jpeg)
 
 <!--og:image /assets/og/IMG_2888.jp2-->
