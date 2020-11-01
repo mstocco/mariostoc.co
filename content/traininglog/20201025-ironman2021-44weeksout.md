@@ -176,12 +176,15 @@ It was a 10 minute drive to _Oak Bay_ and the track there.
 
 This run was a much different experience to my 4600m effort, 6 weeks ago, on [September 19th](ironman2021-50weeksout).
 
+Right from the start, I was focused on pacing.  Mentally, my task was to stay with posture, breathing and cadence and for the most part, that is where I was.  These details were discussed with my coach on our weekly call; I feel it paid off.   I had a fancy workout out programmed into my watch but I ditched that idea and took manual splits at the 200m marks.  I did miss capturing one 200m split as I briefly was paying attention to a little girl riding her bike on the track.
+
 ### OAK BAY
 ![An aerial shot of the track](/assets/jpg/oakbaytrack-20201031.jpeg)
 
-Right from the start, I was focused on pacing.  Mentally, my task was to stay with posture, breathing and cadence and for the most part, that is where I was.  These details were discussed with my coach on our weekly call; I feel it paid off.   I had a fancy workout out programmed into my watch but I ditched that idea and took manual splits at the 200m marks.  I did miss capturing one 200m split as I briefly was paying attention to a little girl riding her bike on the track.
-
 <!---->
+### PACING PER 200M
+![Pace Chart](/assets/jpg/pacechart-20201031.jpeg)
+
 ### A FEW POSITIVES FROM THE EFFORT
 
 * I felt more in control of the effort through 10 laps
@@ -190,7 +193,4 @@ Right from the start, I was focused on pacing.  Mentally, my task was to stay wi
 ### WHAT STILL BUGS ME
 Today was as good of a day as I could have hoped for.  I felt well rested, the weather was absolutely perfect (cool, sunny and next to no wind) and when I my plans were thrown off, I adjusted by finding a new venue in short order.  What bugs me is that the goal was to hold an average pace of 4:25/km for this workout and I was off schedule with a 4:30/km;
 
-### PACING PER 200M
-![Pace Chart](/assets/jpg/pacechart-20201031.jpeg)
- 
 <!--og:image /assets/og/IMG_2888.jp2-->
