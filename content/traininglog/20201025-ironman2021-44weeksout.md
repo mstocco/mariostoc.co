@@ -145,7 +145,7 @@ I did my light jog on the Lochside and [Swan Lake Trail](javascript:flkty.select
 
 <!---->
 ## SATURDAY OCT 31 🎃
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **2** | Fatigue **2** | Stress **2** | Soreness **2**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -161,7 +161,7 @@ Then... 200 meters @ what you think you might hold for a 5k. Walk 200-400 meters
 
 ### NOTES
 Total Time: **40 minutes**   
-5000m Time: **22:32**
+5000m Time: **22:32** &nbsp; Pace: **4:30/km**
 
 <!---->
 Although I woke breifly at 0515, last night's sleep was the best I've had in a long time.
@@ -172,9 +172,9 @@ The UVic track surface, being a legacy of the 1996 Commonwealth Games, was aweso
 
 Then the varsity soccer practice on Field #4 ended and the players started to make their way across the track.  As I was getting a sip of water before the _"Time Trial"_, the soccer coach gave me the reason that I was the only person on the track today.  The stadium has been closed since March.  The reason the gate was open was to allow the soccer team use of the closest parking lot for their practice.  Short story: I had to leave.
 <!---->
-It was a 10 minute drive to _Oak Bay High_ and the track their.
+It was a 10 minute drive to _Oak Bay High_ and the track there.
 
-This was a different experience to my 4600m effort on [September ](ironman2021-weeksout).  I was focused on pacing as discussed with my coach right from the start.  Mentally, my task was to stay with posture, breathing and cadence and for the most part, that is where I was.
+This was a different experience to my 4600m effort on [September 19th](ironman2021-weeksout).  I was focused on pacing as discussed with my coach right from the start.  Mentally, my task was to stay with posture, breathing and cadence and for the most part, that is where I was.
 
 Two things stood out:
 
