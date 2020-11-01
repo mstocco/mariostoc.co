@@ -191,6 +191,6 @@ Right from the start, I was focused on pacing.  Mentally, my task was to stay wi
 * I left the track feeling worked but not as shattered as I did in September.
 
 ### WHAT STILL BUGS ME
-Today was as good of a day as I could have hoped for.  I felt well rested, the weather was absolutely perfect (cool, sunny and next to no wind) and when I my plans were thrown off, I adjusted by finding a new venue in short order.  What bugs me is that the goal was to hold an average pace of 4:25/km for this workout and I was off schedule with a 4:30/km;
+Today was as good of a day as I could have hoped for.  I felt well rested, the weather was absolutely perfect (cool, sunny and next to no wind) and when I my plans were thrown off, I adjusted by finding a new venue in short order.  What bugs me is that the goal was to hold an average pace of 4:25/km for this workout and I was off schedule with a 4:30/km;  or 2 secs per 200m slow.
 
 <!--og:image /assets/og/IMG_2888.jp2-->
