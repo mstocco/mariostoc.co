@@ -11,6 +11,7 @@ I feel like was **STAYING CONSISTENT**.
 
 I started to feel this month's volume by [Tuesday](javascript:flkty.select(6);) where in the past two weeks, things crept on me on Thursdays.  Fortunately this week, my coach had reduced volume programmed in with a crescendo effort on [Saturday](javascript:flkty.select(11);).
 
+Looking back on October as a whole, my routine is back to **"putting in the work"**.  I was active on 25 days for roughly 38 hours of running and biking; this included **192 km** of running with a nice amount of quality (hills and track).  
 <!--og:image /assets/og/IMG_2888.jp2-->
 
 ![Friday's sunset from one of my local routes](/assets/jpg/swanlaketrail-977x550.jpeg Swan Lake Nature Sanctuary)
