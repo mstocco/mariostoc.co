@@ -160,10 +160,12 @@ Then... 200 meters @ what you think you might hold for a 5k. Walk 200-400 meters
 5 minutes walking. Then 10 minutes EASY jogging to cool down.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **40 minutes**   
+5000m Time: **22:32**
 
-Although I woke breifly at 0515, last night's sleep was the best I've had in a long time.
 <!---->
+Although I woke breifly at 0515, last night's sleep was the best I've had in a long time.
+
 Information about the availability of UVic's Centennial Stadium is next to nonexistant so I decided to drive there and check it out.  After arriving, I found the gate open and a sign stating if you have COVID symtoms, do not enter.  I paid for parking, set my bag and water bottle near the grandstand and set off to do my warm-up.
 
 The UVic track surface, being a legacy of the 1996 Commonwealth Games, was awesome underfoot.  The warmup felt good; the weather was near perfect and I had this entire facility to myself!
