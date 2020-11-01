@@ -7,16 +7,11 @@ Week beginning [Sunday, October 25, 2020](javascript:flkty.select(3);)
 For the past number of weeks, I have been increasingly preoccupied with my goal of running a 5K this autumn.  This week, I will get a chance to put together a mini-race week given the workout on the schedule for this [Saturday](javascript:flkty.select(11);).
 
 ## SUMMARY
-I feel like was...   
-<sup>(completed at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel like was **STAYING CONSISTENT**.
 
-## PREVIOUS WEEK
-<ul class="iconlist">
- <li class="page">
-  <a href="ironman2021-45weeksout">45 Weeks Out - October 18, 2020</a>
- </li>
-</ul>
+I started to feel this month's volume by [Tuesday](javascript:flkty.select(6);) where in the past two weeks, things crept on me on Thursdays.  Fortunately this week, my coach had reduced volume programmed in with a crescendo effort on [Saturday](javascript:flkty.select(11);).
+
+<!--og:image /assets/og/IMG_2888.jp2-->
 
 ![Friday's sunset from one of my local routes](/assets/jpg/swanlaketrail-977x550.jpeg Swan Lake Nature Sanctuary)
 
@@ -193,4 +188,11 @@ Right from the start, I was focused on pacing.  Mentally, my task was to stay wi
 ### WHAT STILL BUGS ME
 Today was as good of a day as I could have hoped for.  I felt well rested, the weather was absolutely perfect (cool, sunny and next to no wind) and when I my plans were thrown off, I adjusted by finding a new venue in short order.  What bugs me is that the goal was to hold an average pace of 4:25/km for this workout and I was off schedule with a 4:30/km;  or 2 secs per 200m slow.
 
-<!--og:image /assets/og/IMG_2888.jp2-->
+
+<!---->
+## PREVIOUS WEEK
+<ul class="iconlist">
+ <li class="page">
+  <a href="ironman2021-45weeksout">45 Weeks Out - October 18, 2020</a>
+ </li>
+</ul>
