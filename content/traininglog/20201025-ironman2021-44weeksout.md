@@ -176,7 +176,7 @@ It was a 10 minute drive to _Oak Bay_ and the track there.
 
 This run was a much different experience to my 4600m effort, 6 weeks ago, on [September 19th](ironman2021-50weeksout).
 
-Right from the start, I was focused on pacing.  Mentally, my task was to stay with posture, breathing and cadence and for the most part, that is where I was.  These details were discussed with my coach on our weekly call; I feel it paid off.   I had a fancy workout out programmed into my watch but I ditched that idea and took manual splits at the 200m marks.  I did miss capturing one 200m split as I briefly was paying attention to a little girl riding her bike on the track.
+Right from the start, I was focused on pacing.  Mentally, my task was to stay with posture, breathing and cadence and for the most part, that is where I was.  These details were discussed with my coach on our weekly call; I feel it paid off.   I had a fancy workout out programmed into my watch but I ditched that idea and took manual splits at the 200m marks.  I missed capturing just one 200m split.
 
 ### OAK BAY
 ![An aerial shot of the track](/assets/jpg/oakbaytrack-20201031.jpeg)
