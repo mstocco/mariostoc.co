@@ -14,6 +14,7 @@ I feel like was...
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
 ![A spectacular Sunday afternoon for a spin up the peninsula.](/assets/jpg/willingdonfarm-977x550.jpeg Farmland along Willingdon Road, North Saanich)
+
 ## SUNDAY NOV 01
 Sleep **3** | Fatigue **3** | Stress **2** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -23,11 +24,12 @@ Mobility: 23 minutes.
 Ride 1:45-2:00 on road bike. Flat to rolling. Keep the effort easy.
 
 ### NOTES
-Total Moving Time: **135 minutes** &nbsp; Distance: **58 km**
+Total Moving Time: **135 minutes**  
+Distance: **58 km**
 
 Posterior from the lumbar to my calves feels worked over (in a good way) but my left glute and hamstring is tender.
 
-Then I jump on the bike.  I figured a loop around YYJ gets me the time and route profile needed for today.  What a **fantastic day**.  There was a light breeze from the north but the sun was out and I was feeling **really good**!  I took a bit of time to snap this week's picture of [Patricia Bay](javascript:flkty.select(2);) and I had a tube decided to stop holding air on the way back.	
+Then I jump on the bike.  I figured a loop around YYJ gets me the time and route profile needed for today.  What a **fantastic day**.  There was a light breeze from the north but the sun was out and I was feeling **really good**!  I took a bit of time at Patricia Bay and along [Willingdon Road](javascript:flkty.select(2);) before heading south.  I also had a tube decided to stop holding air on the way back that broke up the flow of my ride.
 
 
 <!---->
