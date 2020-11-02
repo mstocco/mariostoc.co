@@ -29,7 +29,9 @@ Distance: **58 km**
 
 Posterior from the lumbar to my calves feels worked over (in a good way) but my left glute and hamstring is tender.
 
-Then I jump on the bike.  I figured a loop around YYJ gets me the time and route profile needed for today.  What a **fantastic day**.  There was a light breeze from the north but the sun was out and I was feeling **really good**!  I took a bit of time at Patricia Bay and along [Willingdon Road](javascript:flkty.select(2);) before heading south.  I also had a tube decided to stop holding air on the way back that broke up the flow of my ride.
+Then I jump on the bike.  I figured a loop around YYJ gets me the time and route profile needed for today.  There was a light breeze from the north but the sun was out and I was feeling **really good**!  I took a bit of time at Patricia Bay before heading south.  I also had a tube decided to stop holding air on the way back that broke up the flow of my ride.
+
+I got home to watch the second half of the Seahawks thumping of the 49ers.  What a **fantastic day** 
 
 
 <!---->
