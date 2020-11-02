@@ -31,7 +31,7 @@ Posterior from the lumbar to my calves feels worked over (in a good way) but my 
 
 Then I jump on the bike.  I figured a loop around YYJ gets me the time and route profile needed for today.  There was a light breeze from the north but the sun was out and I was feeling **really good**!  I took a bit of time at Patricia Bay before heading south.  I also had a tube decided to stop holding air on the way back that broke up the flow of my ride.
 
-Seahawks thumps the 49ers too; what a **fantastic day**. 
+Seahawks thumps the 49ers too; **great day**. 
 
 
 <!---->
