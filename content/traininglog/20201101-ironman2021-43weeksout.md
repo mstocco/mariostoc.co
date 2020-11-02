@@ -1,5 +1,5 @@
 # IRONMAN TRAINING 2021
-Week beginning Sunday, November 1, 2020
+Week beginning [Sunday, November 1, 2020](javascript:flkty.select(3);)
 
 **43 weeks** until IRONMAN Canada.
 
@@ -29,10 +29,9 @@ Distance: **58 km**
 
 Posterior from the lumbar to my calves feels worked over (in a good way) but my left glute and hamstring is tender.
 
-Then I jump on the bike.  I figured a loop around YYJ gets me the time and route profile needed for today.  There was a light breeze from the north but the sun was out and I was feeling **really good**!  I took a bit of time at Patricia Bay before heading south.  I also had a tube decided to stop holding air on the way back that broke up the flow of my ride.
+Then I jump on the bike.  I figured a loop around YYJ gets me the time and route profile needed for today.  There was a light breeze from the north but the sun was out and I felt **really good**!  I took a bit of time at Patricia Bay before heading south.  I also had a tube decided to stop holding air on the way back that broke up the flow of my ride.
 
-Seahawks thumps the 49ers too; **great day**. 
-
+Seahawks thumped the 49ers too; **great day**. 
 
 <!---->
 ## MONDAY NOV 02
