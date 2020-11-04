@@ -15,7 +15,7 @@ I feel like was...
 
 ![A spectacular Sunday afternoon for a spin up the peninsula.](/assets/jpg/willingdonfarm-977x550.jpeg Farmland along Willingdon Road, North Saanich)
 
-## SUNDAY NOV 01
+## SUNDAY NOV 01 ☀️
 Sleep **3** | Fatigue **3** | Stress **2** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -34,8 +34,8 @@ For the ride, I figured a loop out to YYJ gets me the time and route profile nee
 Seahawks thumped the 49ers too; **great day**. 
 
 <!---->
-## MONDAY NOV 02
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## MONDAY NOV 02 ☀️
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -44,12 +44,17 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I was up earlier than expected but I was able to get an extra hour of before the start of the day.
 
+I had a productive day at work too. 
+
+I did have more than a passing sad moment, thinking about my dad.       
+
+All in a typical Monday.
 
 <!---->
 ## TUESDAY NOV 03
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **4** | Fatigue **3** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -57,14 +62,15 @@ Rollers 60 minutes: 30 minutes easy to start. 4 rounds (:10, :20, :30, :40, :50 
 Run 30 minutes easy and flat.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **90 minutes**
 
-&mdash; 
+I looked at the weather and decided to do the easy run first while I had a tiny bit of daylight and pocket of no rain.  As far as the trend of Tuesday run's sucking, this **sucked less** than last week but had the same common aches in my soleus'/ankles.  I was not in a rush and did finish the last 5 minutes feeling ok.
 
+I had a small pasta dinner and a 45 period of digestion before heading out to the garage for a session on the rollers.  The cadence work was **fun**; the live stream of the US Presidential Election was unexpected.  
 
 <!---->
 ## WEDNESDAY NOV 04
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **4** | Fatigue **3** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
