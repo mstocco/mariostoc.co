@@ -53,7 +53,7 @@ I did have more than a passing sad moment, thinking about my dad.
 All in a typical Monday.
 
 <!---->
-## TUESDAY NOV 03
+## TUESDAY NOV 03 ☁️
 Sleep **4** | Fatigue **3** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
