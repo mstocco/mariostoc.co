@@ -13,6 +13,8 @@ I feel like was...
 <sup>(filled out at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
+[last week](ironman2021-44weeksout)
+
 ![A spectacular Sunday afternoon for a spin up the peninsula.](/assets/jpg/willingdonfarm-977x550.jpeg Farmland along Willingdon Road, North Saanich)
 
 ## SUNDAY NOV 01 ☀️
@@ -66,7 +68,7 @@ Total Time: **90 minutes**
 
 I looked at the weather and decided to do the easy run first while I had a tiny bit of daylight and pocket of no rain.  As far as the trend of Tuesday run's sucking, this **sucked less** than last week but had the same common aches in my soleus'/ankles.  I was not in a rush and did finish the last 5 minutes feeling ok.
 
-I had a small pasta dinner and a 45 period of digestion before heading out to the garage for a session on the rollers.  The cadence work on the bike was **fun**; the live stream of the US Presidential Election was unexpected.  
+I had a small pasta dinner and a 45 minute period of digestion before heading out to the garage for a session on the rollers.  The cadence work on the bike was **fun**; the live stream of the US Presidential Election was unexpected.  
 
 <!---->
 ## WEDNESDAY NOV 04 🌧
@@ -91,7 +93,7 @@ I finished with a **solid runner's high**.
 
 ### ELEVATION PROFILE
 ![Elevation Profile](/assets/jpg/elevation-20201104.jpeg?v3)
-<sup><em>Cedar Hill X Road to the top gains roughly 60m (200ft).</em></sup>
+<sup><em>Cedar Hill X Road to the top gains roughly 50m (150ft).</em></sup>
 <!---->
 ## THURSDAY NOV 05
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
