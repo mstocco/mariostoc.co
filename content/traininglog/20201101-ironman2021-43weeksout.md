@@ -91,8 +91,7 @@ I finished with a **solid runner's high**.
 
 ### ELEVATION PROFILE
 ![Elevation Profile](/assets/jpg/elevation-20201104.jpeg?v3)
-
-_Cedar Hill X Road to the top is roughly 60m._
+<sup><em>Cedar Hill X Road to the top is roughly 60m.</em></sup>
 <!---->
 ## THURSDAY NOV 05
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
