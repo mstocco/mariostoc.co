@@ -94,9 +94,10 @@ I finished with a **solid runner's high**.
 ### ELEVATION PROFILE
 ![Elevation Profile](/assets/jpg/elevation-20201104.jpeg?v3)
 <sup><em>Cedar Hill X Road to the top gains roughly 50m (165ft).</em></sup>
+
 <!---->
-## THURSDAY NOV 05
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## THURSDAY NOV 05 🌦
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -106,7 +107,7 @@ Rollers ~ 60 minutes. Easy riding.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I was awake at 0350 and stayed in bed until 0700; frustrating but what can you do?
 
 
 <!---->
