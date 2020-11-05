@@ -90,7 +90,9 @@ I finished with a **solid runner's high**.
 ![Mt Tolmie Map](/assets/jpg/trailmap-20201104.jpeg)
 
 ### ELEVATION PROFILE
-![Elevation Profile](/assets/jpg/elevation-20201104.jpeg?v2) 
+![Elevation Profile](/assets/jpg/elevation-20201104.jpeg?v2)
+
+_Cedar Hill X Road to the top is roughly 60m._
 <!---->
 ## THURSDAY NOV 05
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
