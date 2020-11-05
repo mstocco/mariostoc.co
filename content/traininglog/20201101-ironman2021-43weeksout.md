@@ -66,10 +66,10 @@ Total Time: **90 minutes**
 
 I looked at the weather and decided to do the easy run first while I had a tiny bit of daylight and pocket of no rain.  As far as the trend of Tuesday run's sucking, this **sucked less** than last week but had the same common aches in my soleus'/ankles.  I was not in a rush and did finish the last 5 minutes feeling ok.
 
-I had a small pasta dinner and a 45 period of digestion before heading out to the garage for a session on the rollers.  The cadence work was **fun**; the live stream of the US Presidential Election was unexpected.  
+I had a small pasta dinner and a 45 period of digestion before heading out to the garage for a session on the rollers.  The cadence work on the bike was **fun**; the live stream of the US Presidential Election was unexpected.  
 
 <!---->
-## WEDNESDAY NOV 04
+## WEDNESDAY NOV 04 🌧
 Sleep **4** | Fatigue **3** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -78,11 +78,13 @@ Mobility: 24 minutes.
 Run 70 minutes. Hilly route. Easy effort
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **70 minutes** &nbsp; Elevation: **420 m**
 
-&mdash; 
+Another night where I wish I could have slept just a bit longer.   Glutes were a bit sore this morning too (in a _good_ way); it's a positive sign whenever that group shows activation IMHO.
 
-
+I had some errands to do after work so I integrated _Mount Tolmie_ into today's plan for a hilly route.  I thought I had a weather window but that collapsed rather quickly; I jogged the trails of the park under rain showers, heavy at times.  The temperature was around 13°C so although I was wet, I wasn't uncomfortable.  In fact, I felt **pretty good** and worked though moments when the hills added a challenge.
+ 
+ I finished with a solid runner's high and glutes really worked now.
 <!---->
 ## THURSDAY NOV 05
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
