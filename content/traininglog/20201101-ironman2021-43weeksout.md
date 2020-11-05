@@ -83,8 +83,15 @@ Total Time: **70 minutes** &nbsp; Elevation: **420 m**
 Another night where I wish I could have slept just a bit longer.   Glutes were a bit sore this morning too (in a _good_ way); it's a positive sign whenever that group shows activation IMHO.
 
 I had some errands to do after work so I integrated _Mount Tolmie_ into today's plan for a hilly route.  I thought I had a weather window but that collapsed rather quickly; I jogged the trails of the park under rain showers, heavy at times.  The temperature was around 13°C so although I was wet, I wasn't uncomfortable.  In fact, I felt **pretty good** and worked though moments when the hills added a challenge.
+<!----> 
+### MOUNT TOLMIE TRAIL MAP
+![Mt Tolmie Map](/assets/jpg/trailmap-20201104.jpeg)
+
+I finished with a solid runner's high and glutes really worked now.
+
+ ### Elevation Profile
+ ![Elevation Profile](/assets/jpg/elevation-20201104.jpeg)
  
- I finished with a solid runner's high and glutes really worked now.
 <!---->
 ## THURSDAY NOV 05
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
