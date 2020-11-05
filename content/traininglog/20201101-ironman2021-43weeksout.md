@@ -88,7 +88,7 @@ I had some errands to do after work so I integrated _Mount Tolmie_ into today's 
 ![Elevation Profile](/assets/jpg/elevation-20201104.jpeg?v2)
 
 ### MOUNT TOLMIE TRAIL MAP
-![Mt Tolmie Map](/assets/jpg/trailmap-20201104.jpeg
+![Mt Tolmie Map](/assets/jpg/trailmap-20201104.jpeg)
  
 <!---->
 ## THURSDAY NOV 05
