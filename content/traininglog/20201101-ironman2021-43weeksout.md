@@ -105,14 +105,17 @@ Mobility: 17 minutes.
 Rollers ~ 60 minutes. Easy riding.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **60 minutes**
 
 I was awake at 0350 and stayed in bed until 0700; frustrating but what can you do?
 
+Thanks to [yesterday](javascript:flkty.select();), my posterior, specifically both glute meds, have been sore all day.
+
+After dinner, I jumped on the TT bike a rode the rollers; steady and easy effort for an hour.  I took a much-needed break from the American new cycle and put on the 2020 UCI Elite Women's XC Championship that was held in Austria. 
 
 <!---->
-## FRIDAY NOV 06
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## FRIDAY NOV 06 ☀️
+Sleep **3** | Fatigue **2** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -121,7 +124,7 @@ Run 30 minutes easy to start. 10x :25 strides, :35 WALK after each. 5 minute jog
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Awake earlier that I would have liked but I felt somewhat refreshed this morning.  Last night's ride helped with any soreness.
 
 
 <!---->
