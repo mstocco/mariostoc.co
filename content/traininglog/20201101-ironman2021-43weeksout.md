@@ -132,10 +132,13 @@ Along with any aches, my legs felt heavy too.
 <!---->
 I did the strides closer to home on _Crease Ave_ because the road is pretty flat and unlike the bike paths, free of fallen leaves.  Running fast is fun and I kept things to **no more than 90%**.  The first rep was slow (4:28/km) then each one after that became easier and faster (average 4:03/km).
 
-I miss read the workout and ran an extra 5 minutes; unlike the start of the run, I was **comfortable** during the cool down.  The run wrapped up after sunset and on a clear night, things are getting cooler.  
+I miss read the workout and ran an extra 5 minutes; unlike the start of the run, I was **comfortable** during the cool down. 
 
 ### EASY PACE - STRIDES CONTRAST
 ![Pace Chart](/assets/jpg/pacechart-20201106.jpeg)
+
+The run wrapped up after sunset and on a clear night, things are getting cooler.
+
 <!---->
 ## SATURDAY NOV 07
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
