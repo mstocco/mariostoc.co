@@ -122,7 +122,7 @@ Sleep **3** | Fatigue **2** | Stress **2** | Soreness **3**
 Run 30 minutes easy to start. 10x :25 strides, :35 WALK after each. 5 minute jog to cool down.
 
 ### NOTES
-Total Time: **60 minutes**
+Total Time: **50 minutes**
 
 Awake earlier that I would have liked but I felt somewhat refreshed this morning.  Last night's ride helped with any soreness.
 
@@ -130,9 +130,9 @@ This evening's run started slow with a funky soreness in my left foot; not the n
 
 Along with any aches, my legs felt heavy too.
 <!---->
-I did the strides closer to home on _Crease Avenue_ because it is pretty flat and unlike the bike paths, free of fallen leaves.  Running fast is **fun** and I kept things to no more than 90%.
+I did the strides closer to home on _Crease Ave_ because the road is pretty flat and unlike the bike paths, free of fallen leaves.  Running fast is fun and I kept things to **no more than 90%**.  The first rep was slow (4:28/km) then each one after that became easier and faster (average 4:03/km).
 
-The run wrapped up after sunset and on a clear night, things are getting cooler.
+I miss read the workout and ran an extra 5 minutes; unlike the start of the run, I was **comfortable** during the cool down.  The run wrapped up after sunset and on a clear night, things are getting cooler.  
 
 ### EASY PACE - STRIDES CONTRAST
 ![Pace Chart](/assets/jpg/pacechart-20201106.jpeg)
