@@ -135,7 +135,7 @@ I did the strides closer to home on _Crease Ave_ because the road is pretty flat
 
 I miss read the workout and jogged a 10 minute cool down instead of the allotted 5;  unlike the start of the run, I felt **comfortable** and could have gone forever at the easy pace.
 
-The run wrapped up after sunset and on a clear night, the season has definitely changed and the temperature has become cooler.
+The run wrapped up after sunset and on a clear night, the season has definitely changed; the temperatures are now noticeably cooler.
 
 ### EASY PACE - STRIDES CONTRAST
 ![Pace Chart](/assets/jpg/pacechart-20201106.jpeg)
@@ -156,3 +156,5 @@ Run 30 minutes flat and easy
 Total Time: **0 minutes**
 
 &mdash;
+
+![Cartoonist Vasco Gargalo of Portugal](/assets/jpg/gargalo-443x550.jpg Well done America, Bravo!)
