@@ -6,14 +6,14 @@ Week beginning [Sunday, November 1, 2020](javascript:flkty.select(3);)
 ## WEEKLY GOAL
 The scheduled volume is lower for this first week of November.  After the workout [yesterday](ironman2021-44weeksout), I will be focusing on **remaining consistent** and **recovery**.
 
-This will be the first time back in the pool for me since March.
+This will be the first time [back in the pool](javascript:flkty.select(11);) for me since March.
 
 ## SUMMARY
-I feel like was...   
-<sup>(filled out at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel like was **STAYING CONSISTENT**.
 
-[last week](ironman2021-44weeksout)
+The programming this week was a _little shorter_ and I finished with about **8 hours** of training time.  Even so, I had some good efforts this week, in particular I felt **noticeably stronger** during the ride on [Sunday](javascript:flkty.select(3);) and had a **solid hill workout** at _Mt. Tolmie_ on [Wednesday](javascript:flkty.select(6);).
+
+Outside of training, life continues.  I still experience moments of missing my dad which I except as _perfectly normal, perfectly healthy_.
 
 ![A spectacular Sunday afternoon for a spin up the peninsula.](/assets/jpg/willingdonfarm-977x550.jpeg Farmland along Willingdon Road, North Saanich)
 
@@ -133,6 +133,7 @@ Along with any aches, my legs felt heavy too.
 I did the strides closer to home on _Crease Ave_ because the road is pretty flat and unlike the bike paths, free of fallen leaves.  Running fast is fun and I kept things to **no more than 90%**.  The first rep was slow (4:28/km) then each one after that became easier and faster (average 4:03/km).
 
 I miss read the workout and ran an extra 5 minutes; unlike the start of the run, I was **comfortable** during the cool down. 
+  
 
 ### EASY PACE - STRIDES CONTRAST
 ![Pace Chart](/assets/jpg/pacechart-20201106.jpeg)
