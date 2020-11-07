@@ -128,13 +128,14 @@ Awake earlier that I would have liked but I felt somewhat refreshed this morning
 
 This evening's run started slow with a funky soreness in my left foot; not the navicular but in the area.  About a minute in, I pressed pause on the watch and walked for a bit.  Once I was confident that I was going to complete the full 60 minutes, I restarted the recording and got on with my old age aches.  I kept things slow (real slow) and as has been typical of late, things warm up after 20ish minutes.
 
+Along with any aches, my legs felt heavy too.
 <!---->
-I did the strides on Crease Avenue because it is pretty flat and unlike the bike paths, free of fallen leaves.  Running fast is **fun** and I kept things to no more than 90%.
+I did the strides closer to home on _Crease Avenue_ because it is pretty flat and unlike the bike paths, free of fallen leaves.  Running fast is **fun** and I kept things to no more than 90%.
 
 The run wrapped up after sunset and on a clear night, things are getting cooler.
 
 ### EASY PACE - STRIDES CONTRAST
-![Pace Chart](/assets/pacechart-20201106.jpeg)
+![Pace Chart](/assets/jpg/pacechart-20201106.jpeg)
 <!---->
 ## SATURDAY NOV 07
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
