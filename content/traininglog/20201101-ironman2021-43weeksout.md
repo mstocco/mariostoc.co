@@ -122,10 +122,13 @@ Sleep **3** | Fatigue **2** | Stress **2** | Soreness **3**
 Run 30 minutes easy to start. 10x :25 strides, :35 WALK after each. 5 minute jog to cool down.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **60 minutes**
 
 Awake earlier that I would have liked but I felt somewhat refreshed this morning.  Last night's ride helped with any soreness.
 
+This evening's run started slow with a funky soreness in my left foot; not the navicular but in the area.  I kept things slow (real slow) and as has been typical of late, things warm up after 20ish minutes.  I did the strides on Crease Avenue because it is pretty flat and unlike the bike paths, free of fallen leaves.  Running fast is **fun** and I kept things to no more than 90%.
+
+The run wrapped up after sunset and on a clear night, things are getting cooler.
 
 <!---->
 ## SATURDAY NOV 07
