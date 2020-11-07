@@ -31,9 +31,9 @@ Distance: **58 km**
 
 Posterior from the lumbar to my calves feels worked over (in a good way) but my left glute and hamstring is tender.
 
-For the ride, I figured a loop out to YYJ gets me the time and route profile needed for today.  There was a light breeze from the north, it was sunny and I felt **really good** all ride long.  I took a bit of time at Patricia Bay before heading south.  I also had a tube decided to stop holding air on the way back that broke up the flow of my ride.
+For the ride, I figured a loop out to YYJ gets me the time and route profile needed for today.  There was a light breeze from the north, it was sunny and I felt **really good** all ride long.  I took a bit of time at _Patricia Bay_ before heading south.  I also had a tube decided to stop holding air on the way back that broke up the flow of my ride.
 
-Seahawks thumped the 49ers too; **great day**. 
+Seahawks thumped the 49ers too; **great day**!
 
 <!---->
 ## MONDAY NOV 02 ☀️
@@ -66,7 +66,7 @@ Run 30 minutes easy and flat.
 ### NOTES
 Total Time: **90 minutes**
 
-I looked at the weather and decided to do the easy run first while I had a tiny bit of daylight and pocket of no rain.  As far as the trend of Tuesday run's sucking, this **sucked less** than last week but had the same common aches in my soleus'/ankles.  I was not in a rush and did finish the last 5 minutes feeling ok.
+I looked at the weather and decided to do the easy run first while I had a tiny bit of daylight and a pocket of no rain.  As far as the trend of Tuesday run's sucking, this **sucked less** than last week but had the same common aches in my soleus'/ankles.  I was not in a rush and did finish the last 5 minutes feeling ok.
 
 I had a small pasta dinner and a 45 minute period of digestion before heading out to the garage for a session on the rollers.  The cadence work on the bike was **fun**; the live stream of the US Presidential Election was unexpected.  
 
@@ -109,10 +109,11 @@ Total Time: **60 minutes**
 
 I was awake at 0350 and stayed in bed until 0700; frustrating but what can you do?
 
-Thanks to [yesterday](javascript:flkty.select();), my posterior, specifically both glute meds, have been sore all day.
+Thanks to [yesterday](javascript:flkty.select(6);), my posterior, specifically both glute meds, have been sore all day.
 
-After dinner, I jumped on the TT bike a rode the rollers; steady and easy effort for an hour.  I took a much-needed break from the American new cycle and put on the 2020 UCI Elite Women's XC Championship that was held in Austria. 
+After dinner, I jumped on the TT bike a rode the rollers; steady and easy effort for an hour.  I took a much-needed break from the American new cycle and watched the 2020 UCI Elite Women's XC Championship that was held in Austria; pretty cool race.
 
+Odd creaking noise developed (in the frame perhaps?).  I will need to look at this at some point.
 <!---->
 ## FRIDAY NOV 06 ☀️
 Sleep **3** | Fatigue **2** | Stress **2** | Soreness **3**  
@@ -132,17 +133,16 @@ Along with any aches, my legs felt heavy too.
 <!---->
 I did the strides closer to home on _Crease Ave_ because the road is pretty flat and unlike the bike paths, free of fallen leaves.  Running fast is fun and I kept things to **no more than 90%**.  The first rep was slow (4:28/km) then each one after that became easier and faster (average 4:03/km).
 
-I miss read the workout and ran an extra 5 minutes; unlike the start of the run, I was **comfortable** during the cool down. 
-  
+I miss read the workout and jogged a 10 minute cool down instead of the allotted 5;  unlike the start of the run, I felt **comfortable** and could have gone forever at the easy pace.
+
+The run wrapped up after sunset and on a clear night, things are getting cooler.
 
 ### EASY PACE - STRIDES CONTRAST
 ![Pace Chart](/assets/jpg/pacechart-20201106.jpeg)
 
-The run wrapped up after sunset and on a clear night, things are getting cooler.
-
 <!---->
-## SATURDAY NOV 07
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## SATURDAY NOV 07 🇺🇸
+Sleep **3** | Fatigue **3** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
