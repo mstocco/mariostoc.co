@@ -19,7 +19,7 @@ I feel like was...
 </ul>
 
 <!---->
-## SUNDAY NOV 08
+## SUNDAY NOV 08 ☀️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -28,9 +28,11 @@ Run 45 minutes: 20 minutes easy to warm up. 15x :30 strides, Odds: :30 walk afte
 Ride 90 minutes on MTB. Trails or dirt trail. Up to you. Overall an easy to moderate effort ride. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **45 minutes**
 
-&mdash; 
+Today's run started well; during the warm up everything pointed to this being a good workout.  Then _beep, beep, beep_, the workout started.  The first stride typically is slow and awkward; today was no different.  The next strides were on track through 10 and if that was all I had to do, I would have finished patting myself on the back.  The eleventh stride was a chore and message for me to hold focus for the remaining reps.  The remaining 4 strides were work with a lot of **huffing and puffing** in between.  The slow jog home was welcomed.
+
+Left glute/adductor/hamstring was tender this morning.
 
 
 <!---->
