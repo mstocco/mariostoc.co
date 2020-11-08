@@ -153,7 +153,10 @@ Run 30 minutes flat and easy
 ### NOTES
 Total Time: **75 minutes**
 
-Attended for my first pool swim @Esquimalt since COVID closed things in March!  The workout went ok as I go into the water **without expectations**.  I shared two lanes with someone that was at my level and two that were _slower_.  This led to a few moments of congestion but nothing to get bent about.  There isn't much to write specific to the workout itself except that I paced it on the easier side and enjoyed the fact that I was in a pool.
+Attended for my first pool swim @Esquimalt since COVID closed things in March!  The workout went ok as I go into the water **without expectations**.  I shared two lanes with someone that was at my level and two that were _slower_.  This led to a few moments of congestion but nothing to get bent about.
+
+<!---->
+There isn't much to write specific to the workout itself except that I paced it on the easier side and enjoyed the fact that I was in a pool.
 
 Before heading home, I decided to do the flat easy run on the flat parts of Esquimalt.  I left the pool on _Lyall Street_ and jogged to _Saxe Point Park_.  The sky was setting up for a nice sunset.  Continuing on, I made my way up to _McCauley Point Park_ and had to stop and just soak in the incredible golden light that made a south-westerly view of the ocean come alive.
 
