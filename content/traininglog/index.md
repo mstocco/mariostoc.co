@@ -1,5 +1,9 @@
 # IRONMAN TRAINING 2021
 
+<!--og:title: IRONMAN Training 2021-->
+<!--og:image: /assets/og/argon18e-118next.jpg-->
+<!--description: My training log is a series of weekly updates aimed at sharing my experience as I build toward completing my first IRONMAN distance triathon.-->
+
 This section of my website is a week by week account of my
 experience in the build up toward completing my FIRST IRONMAN 
 distance triathlon.  I hope it is relevant for:
@@ -40,7 +44,11 @@ The [list of completed weeks](javascript:flkty.select(3);) can be found [here](j
 <li class="page"><a href="ironman2021-47weeksout">47 Weeks Out - October 4, 2020</a></li>
 <li class="page"><a href="ironman2021-46weeksout">46 Weeks Out - October 11, 2020</a></li>
 <li class="page"><a href="ironman2021-45weeksout">45 Weeks Out - October 18, 2020</a></li>
+<li class="page"><a href="ironman2021-44weeksout">44 Weeks Out - October 25, 2020</a></li>
 </ul>
-<!--og:title: IRONMAN Training 2021-->
-<!--og:image: /assets/og/argon18e-118next.jpg-->
-<!--description: My training log is a series of weekly updates aimed at sharing my experience as I build toward completing my first IRONMAN distance triathon.-->
+
+#### NOVEMBER 2020
+<ul class="iconlist">
+<li class="page"><a href="ironman2021-43eeksout">43 Weeks Out - November 1, 2020</a></li>
+<li class="page"><a href="ironman2021-42weeksout">42 Weeks Out - November 8, 2020</a></li>
+</ul>

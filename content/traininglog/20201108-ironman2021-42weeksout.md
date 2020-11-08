@@ -12,9 +12,9 @@ I feel like was...
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
 ## PREVIOUS WEEK
-<ul>
- <li>
-  <a href="ironman2021-43weeksout">43 weeks out</a>
+<ul class="iconlist">
+ <li class="page">
+  <a href="ironman2021-43weeksout">November 1 - 43 weeks out</a>
  </li>
 </ul>
 
