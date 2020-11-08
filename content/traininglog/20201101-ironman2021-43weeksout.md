@@ -88,7 +88,7 @@ _Mount Tolmie_ was integrated into today's plan for a hilly route.  I thought I 
 
 I finished with a **solid runner's high**.
 <!---->
-### MOUNT TOLMIE TRAIL MAP
+### MY MOUNT TOLMIE TRAIL MAP
 ![Mt Tolmie Map](/assets/jpg/trailmap-20201104.jpeg)
 
 ### ELEVATION PROFILE
@@ -146,15 +146,17 @@ Sleep **3** | Fatigue **3** | Stress **2** | Soreness **3**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Booked for my first swim @Esquimalt!
-
 Mobility: 21 minutes.   
 Run 30 minutes flat and easy
 2:30pm: Swim 1900: 10x 50 easy to warm up and find your stroke. R :20-:30 after each. 4x 50 steady kick w/ board r :15. 100 easy swimming. 6x 50 swim w/ buoy r :20. 100 easy swimming. 3x 200 steady/continuous swim. R :40-:50 after each. 4x 25 easy to cool down.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **75 minutes**
 
-&mdash;
+Attended for my first pool swim @Esquimalt since COVID closed things in March!  The workout went ok as I go into the water **without expectations**.  I shared two lanes with someone that was at my level and two that were _slower_.  This led to a few moments of congestion but nothing to get bent about.  There isn't much to write specific to the workout itself except that I paced it on the easier side and enjoyed the fact that I was in a pool.
 
-![Cartoonist Vasco Gargalo of Portugal](/assets/jpg/gargalo-443x550.jpg Well done America, Bravo!)
+Before heading home, I decided to do the flat easy run on the flat parts of Esquimalt.  I left the pool on _Lyall Street_ and jogged to _Saxe Point Park_.  The sky was setting up for a nice sunset.  Continuing on, I made my way up to _McCauley Point Park_ and had to stop and just soak in the incredible golden light that made a south-westerly view of the ocean come alive.
+
+I am not spiritual but standing on a hillside at sunset, looking across the water to _Albert Head_ drawing a line to _Race Rocks_ and toward the _Olympic Mountains_, made for a **powerful moment of gratitude**.  Thankful for my health, for everything in my life, and thankful for having the father that I had.
+
+![Cartoonist Vasco Gargalo of Portugal](/assets/jpg/gargalo-443x550.jpg Democracy in action! Well done America, Bravo!)
