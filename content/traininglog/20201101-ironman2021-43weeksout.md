@@ -156,10 +156,10 @@ Total Time: **75 minutes**
 Attended for my first pool swim @Esquimalt since COVID closed things in March!  The workout went ok as I go into the water **without expectations**.  I shared two lanes with someone that was at my level and two that were _slower_.  This led to a few moments of congestion but nothing to get bent about.
 
 <!---->
-There isn't much to write specific to the workout itself except that I paced it on the easier side and enjoyed the fact that I was in a pool.
+There isn't much to write specific to the workout itself except that I paced it on the easier side and enjoyed the fact that I was in a pool.  If I wasn't challenging myself aerobically, I was focusing on swim lessons received the last time I was in the pool. 
 
 Before heading home, I decided to do the flat easy run on the flat parts of Esquimalt.  I left the pool on _Lyall Street_ and jogged to _Saxe Point Park_.  The sky was setting up for a nice sunset.  Continuing on, I made my way up to _McCauley Point Park_ and had to stop and just soak in the incredible golden light that made a south-westerly view of the ocean come alive.
 
-I am not spiritual but standing on a hillside at sunset, looking across the water to _Albert Head_ drawing a line to _Race Rocks_ and toward the _Olympic Mountains_, made for a **powerful moment of gratitude**.  Thankful for my health, for everything in my life, and thankful for having the father that I had.
+I am not spiritual but standing on a hillside at sunset, looking across the water to _Albert Head_ drawing a line to _Race Rocks_ and toward the _Olympic Mountains_, made for a **powerful moment of gratitude**.  Thankful for my health, for everything in my life, and thankful for my father who is still with me in spirit.
 
 ![Cartoonist Vasco Gargalo of Portugal](/assets/jpg/gargalo-443x550.jpg Democracy in action! Well done America, Bravo!)
