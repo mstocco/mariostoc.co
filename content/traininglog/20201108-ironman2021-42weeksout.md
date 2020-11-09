@@ -31,11 +31,11 @@ Ride 90 minutes on MTB. Trails or dirt trail. Up to you. Overall an easy to mode
 ### NOTES
 Total Time: **85 minutes**
 
-Today's run started well; during the warm up everything pointed to this being a good workout.  Then _beep, beep, beep_, the workout started.  The first strides are typically slow and awkward; today was no different.  The next strides were on schedule through the 10th and if that was all I had to do, I would have finished patting myself on the back.  The eleventh stride was a chore and message for me to hold focus for the remaining reps.  The remaining 4 strides were work with a lot of **huffing and puffing** in between.  The slow jog home was welcomed.
+Today's run started well; during the warm up everything pointed to this being a good workout.  Then _beep, beep, beep_, the workout started.  The first strides are typically slow and awkward; today was no different.  The next strides were **on schedule** through the 10th and if that was all I had to do, I would have finished patting myself on the back.  The eleventh stride was a chore and a message for me to hold focus for the remaining reps.  The last 4 strides were work with a lot of **huffing and puffing** in between.  The slow jog home was welcomed.
 <!---->
 Left glute/adductor/hamstring was sore during the strides this morning.  I rolled things out while watching the Seahawks get thumped by the Bills; the tender culprit may be that side's piriformis which was pretty knotted up.
 
-This afternoon I **struggled** with motivation to get on the MTB (or any bike). I looked at my yard, leaves everywhere, grass looking shaggy; I gave myself a reason to procrastinate.  An hour-thirty later, the yard looked fantastic but I still wasn't keen on a ride.  Regardless, I got my winter kit on, changed a tube on my road bike and headed out for 40 minutes.  I felt ok noodling on flat terrain but on the smallest of inclines, my legs asked, "is it is Monday yet?"
+This afternoon I **struggled** with motivation to get on the MTB (or any bike). I looked at my yard, leaves everywhere, grass looking shaggy; I gave myself a reason to procrastinate.  An hour-thirty later, the yard looked fantastic but I still wasn't keen on a ride.  Regardless, I put my winter kit on, changed a tube on my road bike and headed out for 40 minutes.  I felt ok noodling on flat terrain but on the smallest of inclines, my legs asked, _"is it is [Monday](javascript:flkty.select(5);) yet?"_
 
 ### MORNING STRIDES
 ![Pace Chart](/assets/jpg/strides-20201108.jpeg)
