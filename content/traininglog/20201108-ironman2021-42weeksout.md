@@ -18,7 +18,8 @@ I feel like was...
  </li>
 </ul>
 
-![Taken during the short ride on Sunday Evening](/assets/jpg/innerharbour-977x550.jpeg Sunset On The Inner Harbour)
+![Taken during the short ride on Sunday Evening.](/assets/jpg/innerharbour-977x550.jpeg Sunset On The Inner Harbour)
+
 ## SUNDAY NOV 08 ☀️
 Sleep **3** | Fatigue **3** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -34,9 +35,7 @@ Today's run started well; during the warm up everything pointed to this being a 
 <!---->
 Left glute/adductor/hamstring was sore during the strides this morning.  I rolled things out while watching the Seahawks get thumped by the Bills; the tender culprit may be that side's piriformis which was pretty knotted up.
 
-This afternoon I **struggled** with motivation to get on the the XC bike (or any bike). I looked at my yard, leaves everywhere, grass looking shaggy so I gave myself a reason to procrastinate.  An hour-thirty later, the yard looked fantastic but I still wasn't keen on a ride.  Regardless, I got my winter kit on, changed a tube on my road bike and headed out for 40 minutes.
-
-I felt ok noodling on flat terrain but on even the smallest on inclines, my legs ask if it is Monday yet.
+This afternoon I **struggled** with motivation to get on the the XC bike (or any bike). I looked at my yard, leaves everywhere, grass looking shaggy; I gave myself a reason to procrastinate.  An hour-thirty later, the yard looked fantastic but I still wasn't keen on a ride.  Regardless, I got my winter kit on, changed a tube on my road bike and headed out for 40 minutes.  I felt ok noodling on flat terrain but on the smallest of inclines, my legs asked, "is it is Monday yet?"
 
 ### MORNING STRIDES
 ![Pace Chart](/assets/jpg/strides-20201108.jpeg)
