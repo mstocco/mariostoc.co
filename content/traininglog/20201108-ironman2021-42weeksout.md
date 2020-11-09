@@ -18,7 +18,7 @@ I feel like was...
  </li>
 </ul>
 
-![Taken during the short ride on Sunday Evening](/assets/jpg/innerharbour-977x550.jpg Sunset On The Inner Harbour)
+![Taken during the short ride on Sunday Evening](/assets/jpg/innerharbour-977x550.jpeg Sunset On The Inner Harbour)
 ## SUNDAY NOV 08 ☀️
 Sleep **3** | Fatigue **3** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -30,13 +30,13 @@ Ride 90 minutes on MTB. Trails or dirt trail. Up to you. Overall an easy to mode
 ### NOTES
 Total Time: **85 minutes**
 
-Today's run started well; during the warm up everything pointed to this being a good workout.  Then _beep, beep, beep_, the workout started.  The first stride typically is slow and awkward; today was no different.  The next strides were on track through 10 and if that was all I had to do, I would have finished patting myself on the back.  The eleventh stride was a chore and message for me to hold focus for the remaining reps.  The remaining 4 strides were work with a lot of **huffing and puffing** in between.  The slow jog home was welcomed.
+Today's run started well; during the warm up everything pointed to this being a good workout.  Then _beep, beep, beep_, the workout started.  The first strides are typically slow and awkward; today was no different.  The next strides were on schedule through the 10th and if that was all I had to do, I would have finished patting myself on the back.  The eleventh stride was a chore and message for me to hold focus for the remaining reps.  The remaining 4 strides were work with a lot of **huffing and puffing** in between.  The slow jog home was welcomed.
 <!---->
-Left glute/adductor/hamstring was sore during the strides this morning.  I rolled things out while watching the Seahawks get thumped by Buffalo; the tender culprit may be that side's piriformis which was pretty knotted up.
+Left glute/adductor/hamstring was sore during the strides this morning.  I rolled things out while watching the Seahawks get thumped by the Bills; the tender culprit may be that side's piriformis which was pretty knotted up.
 
-This afternoon I **struggled** with motivation to get on the the XC bike (any bike). I looked at my yard, leaves everywhere, grass looking shaggy so I gave myself a reason to procrastinate.  An hour-thirty later, the yard looked fantastic but I still wasn't keen on getting the ride in.  Regardless, I got my winter kit on, changed a tube on my rode bike and headed out for 40 minutes.
+This afternoon I **struggled** with motivation to get on the the XC bike (or any bike). I looked at my yard, leaves everywhere, grass looking shaggy so I gave myself a reason to procrastinate.  An hour-thirty later, the yard looked fantastic but I still wasn't keen on getting the ride in.  Regardless, I got my winter kit on, changed a tube on my rode bike and headed out for 40 minutes.
 
-I felt ok noodling on flat terrain but tired legs persisted on even the smallest on inclines.
+I felt ok noodling on flat terrain but on even the smallest on inclines, my legs ask if it is Monday yet.
 
 <!---->
 ## MONDAY NOV 09
