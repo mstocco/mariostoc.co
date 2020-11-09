@@ -38,6 +38,9 @@ This afternoon I **struggled** with motivation to get on the the XC bike (or any
 
 I felt ok noodling on flat terrain but on even the smallest on inclines, my legs ask if it is Monday yet.
 
+### MORNING STRIDES
+![Pace Chart](strides-20201108.jpeg)
+
 <!---->
 ## MONDAY NOV 09
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
