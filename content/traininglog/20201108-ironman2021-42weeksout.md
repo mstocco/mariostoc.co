@@ -41,8 +41,8 @@ This afternoon I **struggled** with motivation to get on the MTB (or any bike). 
 ![Pace Chart](/assets/jpg/strides-20201108.jpeg)
 
 <!---->
-## MONDAY NOV 09
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## MONDAY NOV 09 🌧
+Sleep **4** | Fatigue **4** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -51,7 +51,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+_"Red sky in the morning, sailors take warning."_  As stunning as the sunsets have been over the past few days, today the sunrise got into the act.  Wet weather is forecast for the next 10 days; there may even be snow on the _Malahat_ this afternoon.  Winter.
+
+I woke stiff and sore and am looking forward to this recovery day.
 
 
 <!---->
