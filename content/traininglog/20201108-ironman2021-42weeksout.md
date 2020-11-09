@@ -51,7 +51,9 @@ Sleep **4** | Fatigue **4** | Stress **2** | Soreness **4**
 ### NOTES
 Total Time: **0 minutes**
 
-_"Red sky in the morning, sailors take warning."_  As stunning as the sunsets have been over the past few days, today the sunrise got into the act.  Wet weather is forecast for the next 10 days; there may even be snow on the _Malahat_ this afternoon.  Winter.
+_"Red sky in the morning, sailors take warning."_
+
+As stunning as the sunsets have been over the past few days, today the sunrise got into the act too.  Wet weather is forecast for the next 10 days and there may even be snow on the _Malahat_ this afternoon.  Welcome Winter, we've been expecting you.
 
 I woke stiff and sore and am looking forward to this recovery day.
 
