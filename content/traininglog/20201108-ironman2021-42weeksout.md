@@ -31,7 +31,7 @@ Ride 90 minutes on MTB. Trails or dirt trail. Up to you. Overall an easy to mode
 ### NOTES
 Total Time: **85 minutes**
 
-Today's run started well; during the warm up everything pointed to this being a good workout.  Then _beep, beep, beep_, the workout started.  The first strides are typically slow and awkward; today was no different.  The next strides were **on schedule** through the 10th and if that was all I had to do, I would have finished patting myself on the back.  The eleventh stride was a chore and a message for me to hold focus for the remaining reps.  The last 4 strides were work with a lot of **huffing and puffing** in between.  The slow jog home was welcomed.
+Today's run started well; during the warm up everything pointed to this being a good workout.  Then _beep, beep, beep_, the workout started.  The first strides are typically slow and awkward; today was no different.  The next nine strides were **on schedule** through and if that was all I had to do, I would have finished patting myself on the back.  The eleventh stride was a chore and a message for me to hold focus for the remaining reps.  The last four strides were work with a lot of **huffing and puffing** in between.  The slow jog home was welcomed.
 <!---->
 Left glute/adductor/hamstring was sore during the strides this morning.  I rolled things out while watching the Seahawks get thumped by the Bills; the tender culprit may be that side's piriformis which was pretty knotted up.
 
