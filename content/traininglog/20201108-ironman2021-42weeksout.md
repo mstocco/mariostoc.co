@@ -57,11 +57,16 @@ As stunning as the sunsets have been over the past few days, today the sunrise g
 
 I woke stiff and sore and am looking forward to this recovery day.
 
+In the evening, I spent 30 minutes with my massage chair working on the knots in my back, then another 15 minutes on the roller working my piriformis and quads.  The quads felt tender and the left piriformis almost felt bruised.  I also worked a hotspot on the anterior left ankle.
+
+
 
 <!---->
 ## TUESDAY NOV 10
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **4** | Fatigue **3** | Stress **2** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+
+I was up once during the night but overall, this was an ok sleep.  My back still feels knotted up (acending part of my right trapezius) and my left ankle is very angry after the workover last night. 
 
 ### PLANNED WORKOUT
 Ride 60 minutes on the rollers. 20 minutes easy to warm up. 2 rounds (:10, :20, :30, :40, :50 high cadence on 1:00) 5:00 easy. 3x 3:00 @ slightly higher cadence than normal, 2:00 easy after each. 10 minutes easy to cool down.  
