@@ -62,7 +62,7 @@ In the evening, I spent 30 minutes with my massage chair working on the knots in
 
 
 <!---->
-## TUESDAY NOV 10
+## TUESDAY NOV 10 🌤
 Sleep **4** | Fatigue **3** | Stress **2** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -75,7 +75,9 @@ Run 30 minutes. Flat and easy.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I did the jog first; there was some daylight after a mentally long day on the keyboard.  This run only sucked a little bit.  **Very little juice** in my legs and given how I've felt the past two days, I took the trail around _Swan Lake_ and limit the crashing into the asphalt.
+
+The session on the rollers was the opposite of the jog.  I **felt good** on the bike tonight and I think I executed the workout as written.
 
 
 <!---->
