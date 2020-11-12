@@ -87,7 +87,7 @@ The session on the rollers was the opposite of the jog.  I **felt good** on the 
 ![Heartrate Chart](/assets/jpg/heartrate-20201110.jpeg)
 
 <!---->
-## REMEMBERANCE DAY 🇨🇦
+## WED 11 &mdash; REMEMBERANCE DAY 🇨🇦
 Sleep **4** | Fatigue **3** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -108,14 +108,14 @@ The remainder of the the strides felt good and in control.  A hint of soreness i
 
 For the 4 mile tempo effort, I did a lap of the _Songhess_ before heading back north on the _Goose_.  I locked into a **comfortably hard**, 5:05/km pace, early and held that effort for 33:18.  The back half of the tempo had some uphill and false-flat uphill sections that dropped my average pace to 5:12/km; I kept the effort the same regardless.
 
-Overall, this was a honest workout.
+Overall, this was a honest (and fun) workout.
 
 ### PACE CHART
 ![Strides and Tempo Chart](/assets/jpg/pacechart-20201111.jpeg)
 
 <!---->
 ## THURSDAY NOV 12
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **2** | Fatigue **4** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -125,7 +125,7 @@ Rollers ~ 50 minutes EASY. Legs might be a bit tired. That's ok!
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Not the best sleep ever but the best sleep I have had this week.  I guess a [good run](javascript:flkty.select(8);) will do that. 
 
 
 <!---->
