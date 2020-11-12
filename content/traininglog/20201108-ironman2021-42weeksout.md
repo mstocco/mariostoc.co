@@ -78,8 +78,10 @@ I was up once during the night but overall, this was an ok sleep.  My back still
 I did the jog first; there was some daylight after a mentally long day on the keyboard.  This run only sucked a little bit.  **Very little juice** in my legs and given how I've felt the past two days, I took the trail around _Swan Lake_ and limit the crashing into the asphalt.
 
 <!---->
-The session on the rollers was the opposite of the jog.  I **felt good** on the bike tonight and I think I executed the workout as written.  
+The session on the rollers was the opposite of the jog.  I **felt good** on the bike tonight and I think I executed the workout as written.  I had highlights of the 1989 Tour de France on the screen.
 
+### REVOLUTIONS PER MINUTE
+![Cadence Chart](/assets/jpg/cadence-20201110.jpeg)
 
 <!---->
 ## REMEMBERANCE DAY 🇨🇦
