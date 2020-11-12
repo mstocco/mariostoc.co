@@ -53,7 +53,7 @@ Total Time: **0 minutes**
 
 _"Red sky in the morning, sailors take warning."_
 
-As stunning as the sunsets have been over the past few days, today the sunrise got into the act too.  Wet weather is forecast for the next 10 days and there may even be snow on the _Malahat_ this afternoon.  Welcome Winter, we've been expecting you.
+As stunning as the sunsets have been over the past few days, today the sunrise got into the act too.  Wet weather is forecast for the next 10 days and there may even be snow on the _Malahat_ this afternoon.
 
 I woke stiff and sore and am looking forward to this recovery day.
 
@@ -73,7 +73,7 @@ Run 30 minutes. Flat and easy.
 ### NOTES
 Total Time: **90 minutes**
 
-I was up once during the night but overall, this was an ok sleep.  My back still feels knotted up (acending part of my right trapezius) and my left ankle is very angry after the workover last night. 
+I was up once during the night; overall sleep was _"just okay"_.  My back still feels knotted up (acending part of my right trapezius) and my left ankle is _"very angry"_ after the workover last night.
 
 I did the jog first; there was some daylight after a mentally long day on the keyboard.  This run only sucked a little bit.  **Very little juice** in my legs and given how I've felt the past two days, I took the trail around _Swan Lake_ and limit the crashing into the asphalt.
 
