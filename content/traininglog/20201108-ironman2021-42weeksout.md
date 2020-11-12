@@ -101,10 +101,9 @@ The run felt pretty good to start as I headed toward town on the _Galloping Goos
 <!---->
 The remainder of the the strides felt good and in control.  A hint of soreness in my left piriformis was noticed and served as a subtle reminder to keep the strides as strides and not sprints.
 
-For the 4 mile tempo effort, I did a lap of the _Songhess_ before heading north on the _Goose_.  I locked into a **comfortably hard**, 5:05/km pace early and held that effort for 33:18.  The back half of the tempo was uphill or false-flat uphill and that dropped my average pace (5:12/km), but I kept the effort the same.
+For the 4 mile tempo effort, I did a lap of the _Songhess_ before heading back north on the _Goose_.  I locked into a **comfortably hard**, 5:05/km pace, early and held that effort for 33:18.  The back half of the tempo had some uphill and false-flat uphill sections that dropped my average pace to 5:12/km; I kept the effort the same regardless.
 
 Overall, this was a honest workout.
-
 
 ### PACE CHART
 ![Strides and Tempo Chart](/assets/jpg/pacechart-20201111.jpeg)
