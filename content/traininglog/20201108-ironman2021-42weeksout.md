@@ -94,9 +94,9 @@ Run 70 minutes: 15 minutes easy jogging to warm up. 8x 150 meter (give or take) 
 ### NOTES
 Total Time: **68 minutes**
 
-7 Hours of sleep and I didn't wake feeling rested.  Regardless, I had a productive day at work and a weather window to work with late this afternoon.
+7 Hours of sleep and sadly, I did not wake feeling rested.  Regardless, I had a productive day at work and I had a weather window for my late afternoon workout.
 
-The run started pretty good and got better the further I made it down the _Galloping Goose_.  The first stride started just past the _Selkirk Trestle_ and it wasn't as awkward as the first stride typically is.
+The run felt pretty good to start as I headed toward town on the _Galloping Goose_.  The first stride started just past the _Selkirk Trestle_ and it wasn't as awkward as a first stride typically is.
 
 <!---->
 The remainder of the the strides felt good and in control.  A hint of soreness in my left piriformis was noticed and worked as a reminder to keep the strides, strides and not sprints.
