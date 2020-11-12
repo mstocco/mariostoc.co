@@ -96,9 +96,15 @@ Total Time: **68 minutes**
 
 7 Hours of sleep and I didn't wake feeling rested.  Regardless, I had a productive day at work and a weather window to work with late this afternoon.
 
-The run started pretty good and got better the further I made it down the Goose.  The first stride started just past the _Selkirk Trestle_ and it wasn't as awkward as the first stride typically is.  The remainder of the the strides felt good and in control.  A hint of soreness in my left piriformis was noticed and worked as a reminder to keep the strides, strides and not sprints.
+The run started pretty good and got better the further I made it down the _Galloping Goose_.  The first stride started just past the _Selkirk Trestle_ and it wasn't as awkward as the first stride typically is.
 
-I did a lap of the _Songhess_ before heading north on the _Goose_ for the 4 mile tempo effort.  I locked into a 5:05/km pace early and held that effort for 33:18.  The back half of the effor was uphill or false-flat uphill and that may have dropped my average pace, but not the effort.
+<!---->
+The remainder of the the strides felt good and in control.  A hint of soreness in my left piriformis was noticed and worked as a reminder to keep the strides, strides and not sprints.
+
+For the 4 mile tempo effort, I did a lap of the _Songhess_ before heading north on the _Goose_.  I locked into a **comfortably hard**, 5:05/km pace early and held that effort for 33:18.  The back half of the tempo was uphill or false-flat uphill and that dropped my average pace (5:12/km), but I kept the effort the same.
+
+Overall, this was a honest workout.
+
 
 <!---->
 ## THURSDAY NOV 12
