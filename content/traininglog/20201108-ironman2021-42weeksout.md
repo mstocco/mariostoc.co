@@ -66,23 +66,24 @@ In the evening, I spent 30 minutes with my massage chair working on the knots in
 Sleep **4** | Fatigue **3** | Stress **2** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
-I was up once during the night but overall, this was an ok sleep.  My back still feels knotted up (acending part of my right trapezius) and my left ankle is very angry after the workover last night. 
-
 ### PLANNED WORKOUT
 Ride 60 minutes on the rollers. 20 minutes easy to warm up. 2 rounds (:10, :20, :30, :40, :50 high cadence on 1:00) 5:00 easy. 3x 3:00 @ slightly higher cadence than normal, 2:00 easy after each. 10 minutes easy to cool down.  
 Run 30 minutes. Flat and easy.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **90 minutes**
+
+I was up once during the night but overall, this was an ok sleep.  My back still feels knotted up (acending part of my right trapezius) and my left ankle is very angry after the workover last night. 
 
 I did the jog first; there was some daylight after a mentally long day on the keyboard.  This run only sucked a little bit.  **Very little juice** in my legs and given how I've felt the past two days, I took the trail around _Swan Lake_ and limit the crashing into the asphalt.
 
-The session on the rollers was the opposite of the jog.  I **felt good** on the bike tonight and I think I executed the workout as written.
+<!---->
+The session on the rollers was the opposite of the jog.  I **felt good** on the bike tonight and I think I executed the workout as written.  
 
 
 <!---->
 ## REMEMBERANCE DAY 🇨🇦
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **4** | Fatigue **3** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -91,10 +92,13 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 Run 70 minutes: 15 minutes easy jogging to warm up. 8x 150 meter (give or take) strides, 150 meter EASY jogging between each. Walk 1-3 minutes. Then.. 6.4km tempo @ 5:05-5:18 pace. Essentially 1/2 marathon effort or so. 10 minute easy jog to cool down.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **68 minutes**
 
-&mdash; 
+7 Hours of sleep and I didn't wake feeling rested.  Regardless, I had a productive day at work and a weather window to work with late this afternoon.
 
+The run started pretty good and got better the further I made it down the Goose.  The first stride started just past the _Selkirk Trestle_ and it wasn't as awkward as the first stride typically is.  The remainder of the the strides felt good and in control.  A hint of soreness in my left piriformis was noticed and worked as a reminder to keep the strides, strides and not sprints.
+
+I did a lap of the _Songhess_ before heading north on the _Goose_ for the 4 mile tempo effort.  I locked into a 5:05/km pace early and held that effort for 33:18.  The back half of the effor was uphill or false-flat uphill and that may have dropped my average pace, but not the effort.
 
 <!---->
 ## THURSDAY NOV 12
