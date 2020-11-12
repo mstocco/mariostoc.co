@@ -87,7 +87,7 @@ The session on the rollers was the opposite of the jog.  I **felt good** on the 
 ![Heartrate Chart](/assets/jpg/heartrate-20201110.jpeg)
 
 <!---->
-## WED 11 &mdash; REMEMBERANCE DAY 🇨🇦
+## WEDNESDAY &mdash; REMEMBERANCE DAY 🇨🇦
 Sleep **4** | Fatigue **3** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -99,12 +99,12 @@ Run 70 minutes: 15 minutes easy jogging to warm up. 8x 150 meter (give or take) 
 ### NOTES
 Total Time: **68 minutes**
 
-7 Hours of sleep and sadly, I did not wake feeling rested.  Regardless, I had a productive day at work and I had a weather window for my late afternoon workout.
+7 Hours of sleep and sadly, I did not wake feeling rested.  Regardless, I had a productive day at work and I had a dry weather window for my late afternoon workout.
 
-The run felt pretty good to start as I headed toward town on the _Galloping Goose_.  The first stride started just past the _Selkirk Trestle_ and it wasn't as awkward as a first stride typically is.
+The run felt pretty **good to start** as I headed toward town on the _Galloping Goose_.  The first stride started just past the _Selkirk Trestle_ and it wasn't as awkward as a first stride typically is.
 
 <!---->
-The remainder of the the strides felt good and in control.  A hint of soreness in my left piriformis was noticed and served as a subtle reminder to keep the strides as strides and not sprints.
+The remainder of the the **strides felt good** and in control.  A hint of soreness in my left piriformis was noticed and served as a subtle reminder to keep the strides as strides and not sprints.
 
 For the 4 mile tempo effort, I did a lap of the _Songhess_ before heading back north on the _Goose_.  I locked into a **comfortably hard**, 5:05/km pace, early and held that effort for 33:18.  The back half of the tempo had some uphill and false-flat uphill sections that dropped my average pace to 5:12/km; I kept the effort the same regardless.
 
