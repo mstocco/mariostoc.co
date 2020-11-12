@@ -83,6 +83,9 @@ The session on the rollers was the opposite of the jog.  I **felt good** on the 
 ### REVOLUTIONS PER MINUTE
 ![Cadence Chart](/assets/jpg/cadence-20201110.jpeg)
 
+### NORMALIZED BEATS PER MINUTE
+![Heartrate Chart](/assets/jpg/heartrate-20201110.jpeg)
+
 <!---->
 ## REMEMBERANCE DAY 🇨🇦
 Sleep **4** | Fatigue **3** | Stress **4** | Soreness **4**  
