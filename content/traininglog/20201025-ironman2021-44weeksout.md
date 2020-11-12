@@ -14,7 +14,7 @@ I started to feel this month's volume by [Tuesday](javascript:flkty.select(6);) 
 Looking back on October as a whole, my routine is back to **"putting in the work"**.  I was active on 25 days for roughly 38 hours of running and biking; this included **192 km** of running with a nice amount of quality (hills and track).  
 <!--og:image /assets/og/IMG_2888.jp2-->
 
-![Friday's sunset from one of my local routes](/assets/jpg/swanlaketrail-977x550.jpeg Swan Lake Nature Sanctuary)
+![Friday's sunset from one of my local routes](/assets/jpg/IMG_2888-977x550.jpeg Swan Lake Nature Sanctuary)
 
 ## SUNDAY OCT 25 ☀️
 Sleep **2** | Fatigue **3** | Stress **2** | Soreness **3**  
