@@ -4,7 +4,7 @@ Week beginning [Sunday, November 8, 2020](javascript:flkty.select(3);)
 **42 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-With a little over 8 hours of scheduled training through Friday and no swimming (didn't get a lane booked), my goal is to again, put together another week of consistency.  I am looking forward to the _Q Day_ on [Wednesday](javascript:flkty.select(6);) in particular.
+With a little over 8 hours of scheduled training through Friday and no swimming (didn't get a lane booked), my goal is to again, put together another week of consistency.  I am looking forward to the _Q Day_ on [Wednesday](javascript:flkty.select(8);) in particular.
 
 ## SUMMARY
 I feel like was...  
@@ -105,6 +105,9 @@ For the 4 mile tempo effort, I did a lap of the _Songhess_ before heading north 
 
 Overall, this was a honest workout.
 
+
+### PACE CHART
+![Strides and Tempo Chart](/assets/jpg/pacechart-20201111.jpeg)
 
 <!---->
 ## THURSDAY NOV 12
