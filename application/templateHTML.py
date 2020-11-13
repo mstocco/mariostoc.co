@@ -144,19 +144,42 @@ class Navigation(NAV):
 		google.append(input2)
 		self.innerHTML = google.tohtml()
 
+	def traininglogSubmenu(self):
+		ul = UL({'class':'alt','style':'font-size:0.75em;margin:15px 0 0 60px;'})
+		if hasattr(self, 'current'):
+			anchor = A({'href':'/traininglog/latest'})
+			anchor.innerHTML = 'CURRENT TRAINING WEEK'
+		else:
+			anchor = A({'href':'/traininglog/previous'})
+			anchor.innerHTML = 'PREVIOUS TRAINING WEEK'
+		li = LI({'class':'item'})
+		li.append(anchor)
+		ul.append(li)
+
+		anchor = A({'href':'/trainglog/calendar'})
+		anchor.innerHTML = 'VIEW FULL CALENDAR'
+		li = LI({'class':'item'})
+		li.append(anchor)
+		ul.append(li)
+
+		if hasattr(self, 'week'):
+			for day in ['SUNDAY','MONDAY','TUESDAY','WEDNESDAY','THURSDAY','FRIDAY','SATURDAY']:
+				anchor = A({'href':'javascript:flick(\'%s\');' % day[:3].lower()})
+				anchor.innerHTML = day
+				li = LI({'class':'item'})
+				li.append(anchor)
+				ul.append(li)
+		return ul.tohtml()
+
 	def tohtml(self):
 		ul = UL({"class":"alt"})
 		for attrs in self.links:
 			anchor = A({'href':attrs['href']})
 			anchor.innerHTML = attrs['label']
-			if anchor.innerHTML == 'TRAINING LOG':
-				if hasattr(self, 'current'):
-					a2 = A({'href':self.current['href']})
-					a2.innerHTML = '(current week)'
-					anchor.append(' &nbsp; ')
-					anchor.append(SMALL(a2))
 			li = LI({"class":"item"})
 			li.append(anchor)
+			if anchor.innerHTML == 'TRAINING LOG':
+				li.append(self.traininglogSubmenu())
 			ul.append(li)
 		self.append(ul)
 		return HTML5Tag.tohtml(self)
