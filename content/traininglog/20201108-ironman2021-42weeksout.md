@@ -138,14 +138,14 @@ Ride 70 minutes. Inside or outside. Any bike you like. Go spin. Have fun. Keep i
 Run 40 minutes. Easy effort.
 
 <p style="font-size:1rem;margin-bottom:0;color:#ff8c00" class="agencyvc">Wind Warning for Greater Victoria</p>
-<p style="color:#ff8c00;font-size:0.9em;border-top:2px solid ##ff8c00;">
+<p style="color:#ff8c00;font-size:0.9em;border-top:2px solid #ff8c00;">
 A low pressure centre over the South Coast this morning will move into the southern BC interior in the afternoon. In the wake of the low, westerly winds of 70 km/h gusting to 90 will develop in Greater Victoria near Juan de Fuca Strait this afternoon. The winds will ease this evening.</p>
 
 
 ### NOTES
 Total Time: **43 minutes**
 
-A quick cup of coffee with a weather window, it was shoes on and out the door for the run.  I felt **surprizingly good**; zero protest from the ankle/soleus group and there was a bit of pop coming off the ground.  I kept it **easy effort** regardless.  The wind and a bit of rain started at the 40 minute mark and I was still about 4 minutes from home.  Given the forecast, I am happy to have this one done.
+After a quick cup of coffee and a weather window, it was shoes on then out the door for the run.  I felt **surprizingly good**; zero protest from the ankle/soleus group.  I kept it _"easy effort"_ regardless.  The weather started at the 40 minute mark and I was still about 4 minutes from home.  Given the forecast, I am happy to have this one done.
 
 <!---->
 ## SATURDAY NOV 14
