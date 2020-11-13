@@ -106,7 +106,7 @@ class Website:
 				if hasattr(self, 'current'):
 					redirect = RedirectDocument()
 					redirect.url = self.current
-					redirect.title = 'Latest Training Log Entry'
+					redirect.title = 'Latest Training Week'
 					redirect.documentURI = '/traininglog/latest'
 					self.saveDocument(redirect)
 
