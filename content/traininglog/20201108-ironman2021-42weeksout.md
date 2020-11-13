@@ -137,8 +137,8 @@ Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
 Ride 70 minutes. Inside or outside. Any bike you like. Go spin. Have fun. Keep it easy  
 Run 40 minutes. Easy effort.
 
-<span class="agencyvc">Wind Warning for Greater Victoria</span><br />
-<span style="font-size:0.75em;">Environment Canada is warning of strong winds in the Greater Victoria area. Wind gusts of up to 90 km/h are expected to sweep over Greater Victoria by Friday morning, before easing Friday evening.</span>
+<span class="agencyvc">Wind Warning for Greater Victoria:</span> &nbsp;
+<span style="font-size:0.95em;">Environment Canada is warning of strong winds in the Greater Victoria area. Wind gusts of up to 90 km/h are expected to sweep over Greater Victoria by Friday morning, before easing Friday evening.</span>
 
 ### NOTES
 Total Time: **43 minutes**
