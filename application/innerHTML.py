@@ -151,5 +151,11 @@ class SUB(HTML5Tag): pass
 class SUP(HTML5Tag): pass
 class SVG(HTML5Tag): pass
 class TITLE(HTML5Tag): pass
+class TABLE(HTML5Tag): pass
+class TBODY(HTML5Tag): pass
+class THEAD(HTML5Tag): pass
+class TR(HTML5Tag): pass
+class TH(HTML5Tag): pass
+class TD(HTML5Tag): pass
 class UL(HTML5Tag): pass
 class WBR(HTML5Tag): pass
