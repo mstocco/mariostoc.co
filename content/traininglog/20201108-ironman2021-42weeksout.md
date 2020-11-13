@@ -137,10 +137,8 @@ Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
 Ride 70 minutes. Inside or outside. Any bike you like. Go spin. Have fun. Keep it easy  
 Run 40 minutes. Easy effort.
 
-<p style="background-color:orange;color:white;font-size:1.15em;margin-bottom:0;">
- <strong>&nbsp;Wind Warning</strong> for Greater Victoria
-</p>
-<p style="margin-top:0;">
+<p style="font-size:1.15em;margin-bottom:0;border-top:1px solid orange" class="agencyvc">Wind Warning for Greater Victoria</p>
+<p style="margin-top:0;border-bottom:1px solid orange;">
 A low pressure centre over the South Coast this morning will move into the southern BC interior in the afternoon. In the wake of the low, westerly winds of 70 km/h gusting to 90 will develop in Greater Victoria near Juan de Fuca Strait this afternoon. The winds will ease this evening.</p>
 
 
