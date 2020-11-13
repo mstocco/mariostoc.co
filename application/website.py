@@ -29,10 +29,13 @@ class Website:
 		"""
 		logfiles = os.listdir('%s/traininglog/' % self.content)
 		logfiles.sort()
-		for logfile in logfiles:
+
+		for index in range(len(logfiles)):
+			logfile = logfiles[index]
 			if int(logfile[0:8]) > self.today:
 				break
 			self.current = '/traininglog/%s' % logfile[9:].split('.md')[0]
+			self.previous = '/traininglog/%s' % logfiles[index - 1][9:].split('.md')[0]
 		return
 
 	def clean(self):
