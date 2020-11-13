@@ -244,6 +244,7 @@ class FlickityJS(SCRIPT):
 		self.append(" freeScroll:true")
 		self.append("});")
 		self.append("function toggle(){if(flkty.selectedIndex>0){flkty.select(0);}else{flkty.select(1);}};")
+		self.append("function flick(id){for(i=0;i < flkty.cells.length; i++){if(flkty.cells[i]['element']['id'] == id){flkty.select(i);break;};};};")
 		return HTML5Tag.tohtml(self)
 
 
