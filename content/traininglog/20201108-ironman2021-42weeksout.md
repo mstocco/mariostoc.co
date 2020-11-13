@@ -137,12 +137,11 @@ Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
 Ride 70 minutes. Inside or outside. Any bike you like. Go spin. Have fun. Keep it easy  
 Run 40 minutes. Easy effort.
 
+<span class="agencyvc">Wind Warning for Greater Victoria</span><br />  
+Environment Canada is warning of strong winds in the Greater Victoria area. Wind gusts of up to 90 km/h are expected to sweep over Greater Victoria by Friday morning, before easing Friday evening.
+
 ### NOTES
 Total Time: **43 minutes**
-
-**Wind Warning** for Greater Victoria  
-Environment Canada is warning of strong winds in the Greater Victoria area. Wind gusts of up to 90 km/h are expected to sweep over Greater Victoria and near the Strait of Juan de Fuca by Friday morning, before easing Friday evening.
-
 
 A quick cup of coffee then it was shoes on and out the door.  I took advantage of a weather window before work to get the easy run in.  This run felt good; zero protesting from the ankle/soleus group and there was a bit of pop coming off the ground.  I kept it **easy effort** regardless.  The wind and a bit of rain started at the 40 minute mark and I was still about 4 minutes from home.  Given the forecast, I am happy to have this one done.
 
