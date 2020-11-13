@@ -123,9 +123,11 @@ Sleep **2** | Fatigue **4** | Stress **3** | Soreness **4**
 Rollers ~ 50 minutes EASY. Legs might be a bit tired. That's ok! 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **50 minutes**
 
-Not the best sleep ever but the best sleep I have had this week.  I guess a [good run](javascript:flkty.select(8);) will do that. 
+Not the best sleep ever but the best sleep I have had this week.  I guess a [good run](javascript:flkty.select(8);) will do that.
+
+There isn't much to write about the workout on the rollers except that it was an easy effort that (hopefully) flushed out the legs.  I watched the latest Trainer Road video and they talked about training by RPE.  Besically everything that Elliot has me doing for the past year.
 
 
 <!---->
