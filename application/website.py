@@ -109,6 +109,13 @@ class Website:
 					redirect.title = 'Latest Training Log Entry'
 					redirect.documentURI = '/traininglog/latest'
 					self.saveDocument(redirect)
+
+					previous = RedirectDocument()
+					previous.url = self.previous
+					previous.title = 'Previous Training Week'
+					previous.documentURI = '/traininglog/previous'
+					self.saveDocument(previous)
+
 		self.saveSiteMap(documentURIs)
 		self.saveHumansTxt()
 		print('\ndone.')
