@@ -151,6 +151,9 @@ After a quick cup of coffee and a weather window, it was shoes on then out the d
 <!---->
 Given the potential of today's forecast, I was happy to have at least the run completed.
 
+### RUN MAP
+![Run Map](/assets/jpg/runmap-20201113.jpeg)
+
 The ride was in the garage after dinner.  I had the _2020 UCI Elite Men's XC Race_ on the screen (volume turned off) and a _Crushing Iron_ podcast playing on my iPhone.  Time flew by.  There was no cadences to hit, no programmed timed efforts, but I was **pretty stoked** to get over an hour of true zone 2 heart rate work in.
 
 <!---->
