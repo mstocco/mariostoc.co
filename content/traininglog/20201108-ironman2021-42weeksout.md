@@ -144,7 +144,7 @@ Run 40 minutes. Easy effort.
 A low pressure centre over the South Coast this morning will move into the southern BC interior in the afternoon. In the wake of the low, westerly winds of 70 km/h gusting to 90 will develop in Greater Victoria near Juan de Fuca Strait this afternoon. The winds will ease this evening.</p>
 
 ### NOTES
-Total Time: **43 minutes**
+Total Time: **113 minutes**
 
 After a quick cup of coffee and a weather window, it was shoes on then out the door for the run.  I felt **surprisingly good**; zero protest from the ankle/soleus group.  I kept it _"easy effort"_ regardless.  The weather started at the 40 minute mark and I was still about 4 minutes from home.
 
