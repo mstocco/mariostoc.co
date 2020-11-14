@@ -131,7 +131,7 @@ There isn't much to write about the workout on the rollers except that it was an
 
 
 <!---->
-## FRIDAY NOV 13
+## FRIDAY NOV 13 🌦
 Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -143,14 +143,16 @@ Run 40 minutes. Easy effort.
 <p style="color:#ff8c00;font-size:0.9em;border-top:1px solid #ff8c00;">
 A low pressure centre over the South Coast this morning will move into the southern BC interior in the afternoon. In the wake of the low, westerly winds of 70 km/h gusting to 90 will develop in Greater Victoria near Juan de Fuca Strait this afternoon. The winds will ease this evening.</p>
 
-
 ### NOTES
 Total Time: **43 minutes**
 
-After a quick cup of coffee and a weather window, it was shoes on then out the door for the run.  I felt **surprizingly good**; zero protest from the ankle/soleus group.  I kept it _"easy effort"_ regardless.  The weather started at the 40 minute mark and I was still about 4 minutes from home.
+After a quick cup of coffee and a weather window, it was shoes on then out the door for the run.  I felt **surprisingly good**; zero protest from the ankle/soleus group.  I kept it _"easy effort"_ regardless.  The weather started at the 40 minute mark and I was still about 4 minutes from home.
 
-<!--Given the forecast, I am happy to have this one done.
--->
+<!---->
+Given the potential of today's forecast, I was happy to have at least the run completed.
+
+The ride was in the garage after dinner.  I had the _2020 UCI Elite Men's XC Race_ on the screen (volume turned off) and a _Crushing Iron_ podcast playing on my iPhone.  Time flew by.  There was no cadences to hit, no programmed timed efforts, but I was **pretty stoked** to get over an hour of true zone 2 heart rate work in.
+
 <!---->
 ## SATURDAY NOV 14
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
