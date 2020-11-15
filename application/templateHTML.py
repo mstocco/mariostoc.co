@@ -130,7 +130,7 @@ class Navigation(NAV):
 	""" This NAV element is nested in the first SECTION of
 	    the Carousel.
 	"""
-	def __init__(self):
+	def __init__(self, traininglog=False):
 		self.links = []
 		self.links.append({'href':'/traininglog/', 'label':'TRAINING LOG'})
 		self.links.append({'href':'/racereports/', 'label':'RACE REPORTS'})
@@ -156,7 +156,7 @@ class Navigation(NAV):
 		li.append(anchor)
 		ul.append(li)
 
-		anchor = A({'href':'/trainglog/calendar'})
+		anchor = A({'href':'/traininglog/calendar'})
 		anchor.innerHTML = 'VIEW FULL CALENDAR'
 		li = LI({'class':'item'})
 		li.append(anchor)
@@ -179,7 +179,8 @@ class Navigation(NAV):
 			li = LI({"class":"item"})
 			li.append(anchor)
 			if anchor.innerHTML == 'TRAINING LOG':
-				li.append(self.traininglogSubmenu())
+				if self.traininglog:
+					li.append(self.traininglogSubmenu())
 			ul.append(li)
 		self.append(ul)
 		return HTML5Tag.tohtml(self)
