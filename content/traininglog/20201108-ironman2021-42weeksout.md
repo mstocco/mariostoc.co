@@ -9,8 +9,9 @@ With a little over 8 hours of scheduled training through Friday and no swimming 
 ## SUMMARY
 I feel like was **ON THE EDGE**.
 
-The week started with heavy legs but when it mattered, [Wednesday](javascript:flick('wed');) I had a great run.  The good feeling carried over to [Thursday](javascript:flick('thu');) and [Friday](javascript:flick('fri');) but by [Saturday](javascript:flick('sat');), I was back to heavy legs and a now a suspect left hamstring. 
+The week started with heavy legs but when it mattered, Wednesday I had a [great run]javascript:flick('wed');).  The good feeling carried over to [Thursday](javascript:flick('thu');) and [Friday](javascript:flick('fri');) but by [Saturday](javascript:flick('sat');), I was back to heavy legs and a now a suspect left hamstring. 
 
+The weather has turned into typical west-coast weather this week.  I am adjusting to the sunsetting at 1630 and a weather forecast that changes by the hour.
 
 ![This looks to be the last day of sunny weather for a while,](/assets/jpg/innerharbour-977x550.jpeg Sunday's Inner Harbour Sunset)
 
@@ -53,8 +54,6 @@ I woke stiff and sore and am looking forward to this recovery day.
 
 In the evening, I spent 30 minutes with my massage chair working on the knots in my back, then another 15 minutes on the roller working my piriformis and quads.  The quads felt tender and the left piriformis almost felt bruised.  I also worked a hotspot on the anterior left ankle.
 
-
-
 <!---->
 ## TUESDAY NOV 10 🌤
 Sleep **4** | Fatigue **3** | Stress **2** | Soreness **5**  
@@ -70,7 +69,6 @@ Total Time: **90 minutes**
 I was up once during the night; overall sleep was _"just okay"_.  My back still feels knotted up (acending part of my right trapezius) and my left ankle is _"very angry"_ after the workover last night.
 
 I did the jog first; there was some daylight after a mentally long day on the keyboard.  This run only sucked a little bit.  **Very little juice** in my legs and given how I've felt the past two days, I took the trail around _Swan Lake_ and limit the crashing into the asphalt.
-
 <!---->
 The session on the rollers was the opposite of the jog.  I **felt good** on the bike tonight and I think I executed the workout as written.  I had highlights of the 1989 Tour de France on the screen.
 
@@ -96,7 +94,6 @@ Total Time: **68 minutes**
 7 Hours of sleep and sadly, I did not wake feeling rested.  Regardless, I had a productive day at work and I had a dry weather window for my late afternoon workout.
 
 The run felt pretty **good to start** as I headed toward town on the _Galloping Goose_.  The first stride started just past the _Selkirk Trestle_ and it wasn't as awkward as a first stride typically is.
-
 <!---->
 The remainder of the the **strides felt good** and in control.  A hint of soreness in my left piriformis was noticed and served as a subtle reminder to keep the strides as strides and not sprints.
 
@@ -123,7 +120,6 @@ Not the best sleep ever but the best sleep I have had this week.  I guess a [goo
 
 There isn't much to write about the workout on the rollers except that it was an easy effort that (hopefully) flushed out the legs.  I watched the latest Trainer Road video and they talked about training by RPE.  Besically everything that Elliot has me doing for the past year.
 
-
 <!---->
 ## FRIDAY NOV 13 🌦
 Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**  
@@ -141,7 +137,6 @@ A low pressure centre over the South Coast this morning will move into the south
 Total Time: **113 minutes**
 
 After a quick cup of coffee and a weather window, it was shoes on then out the door for the run.  I felt **surprisingly good**; zero protest from the ankle/soleus group.  I kept it _"easy effort"_ regardless.  The weather started at the 40 minute mark and I was still about 4 minutes from home.
-
 <!---->
 Given the potential of today's forecast, I was happy to have at least the run completed.
 
