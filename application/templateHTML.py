@@ -130,7 +130,7 @@ class Navigation(NAV):
 	""" This NAV element is nested in the first SECTION of
 	    the Carousel.
 	"""
-	def __init__(self, traininglog=False):
+	def __init__(self):
 		self.links = []
 		self.links.append({'href':'/traininglog/', 'label':'TRAINING LOG'})
 		self.links.append({'href':'/racereports/', 'label':'RACE REPORTS'})
@@ -142,6 +142,7 @@ class Navigation(NAV):
 		google = FORM({"action":"https://google.com/search"})
 		google.append(input1)
 		google.append(input2)
+		self.traininglog = False
 		self.innerHTML = google.tohtml()
 
 	def traininglogSubmenu(self):
