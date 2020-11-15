@@ -172,6 +172,8 @@ Total Time: **40 minutes**
 
 This run was a two-sided coin.
 
-The good was for the second run in a row, I did not have any typical ankle/soleus tenderness.
+The good was that for the second run in a row, I did not have my typical ankle/soleus soreness.
 <!---->
-The strides were awkward, slow and heavy legged.  On top of that, I have seem to now have tender left, glute/hamstring/adductor that was felt (only) during the strides.  Exploring with a lacrosse ball after dinner revealed some very gnarly tissue in the belly of the hamstring and continuing in the piriformis.
+On the flip-side, the strides this afternoon were awkward, slow and **heavy legged**.  On top of that, I have seem to now have tender left, glute/hamstring/adductor that was felt _(only)_ during the strides.  Exploring with a lacrosse ball after dinner revealed some very gnarly tissue in the belly of the hamstring and continuing in the piriformis.  This is a bit of a concern going into [tomorrow's workout](ironman2021-41weeksout).
+
+
