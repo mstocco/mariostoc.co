@@ -13,7 +13,7 @@ I feel like was...
 <sup>(filled out at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
-![I took this picture on my way home from PISE on Sunday](/assets/jpg/IMG2941-977x550.jpeg Colquitz River Park)
+![I took this picture on my way home from PISE on Sunday](/assets/jpg/IMG_2941-977x550.jpeg Colquitz River Park)
 ## SUNDAY NOV 15
 Sleep **2** | Fatigue **3** | Stress **3** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -33,6 +33,12 @@ Time to head to PISE.
 With a left hamstring/glute getting a whole lot of attention yesterday and today, I was pretty sensitive to how this workout was going to unfold.  The warm up was a breeze on a breezy day.  No tenderness to report anywhere.  The 10x100m efforts is where I felt some tenderness; specifically high up on my left adductor.  It was not sore effort fo alter my gait so I continued on.
 
 Coming off a 10th stride, the first of the 5x800m efforts felt laboured.  The second and third felt more comfortable (comparatively) but the fourth 800m saw the workout catching up with me.  I messed up the recording of the workout by hitting the stop/start button as I crossed the line on the 4th 800 but the fifth effort was my most focused.
+
+<table>
+<tr><td>800m</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr>
+<tr><td>Time</td><td>3:28.7</td><td>3:24.4</td><td>3:27.2</td><td>3:26.7</td><td>3:22.5</td></tr>
+</table>
+  
 
 
 <!---->
