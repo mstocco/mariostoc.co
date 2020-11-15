@@ -13,7 +13,7 @@ I feel like was...
 <sup>(filled out at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
-<!---->
+![I took this picture on my way home from PISE on Sunday](/assets/jpg/IMG2941-977x550.jpeg Colquitz River Park)
 ## SUNDAY NOV 15
 Sleep **2** | Fatigue **3** | Stress **3** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -26,7 +26,13 @@ Ride 75+ minutes on any bike you like. Trainer, rollers, MTB, road bike, TT bike
 ### NOTES
 Total Time: **0 minutes**
 
-The wind and rain pelting the house woke me up at 0618.  After doing my business and recording my weight (79.3 Kg), I crawled back into bed and slept soundly through 0730.  I made banana pancakes then did the _"15 Minute Runner's Flexibility Routine"_ while breakfast settled.  Time to run.
+The wind and rain pelting the house woke me up at 0618.  After doing my business and recording my weight (79.3 Kg), I crawled back into bed and slept soundly through 0730.  I made banana pancakes then did the _"15 Minute Runner's Flexibility Routine"_ while breakfast settled.
+
+Time to head to PISE.
+<!---->
+With a left hamstring/glute getting a whole lot of attention yesterday and today, I was pretty sensitive to how this workout was going to unfold.  The warm up was a breeze on a breezy day.  No tenderness to report anywhere.  The 10x100m efforts is where I felt some tenderness; specifically high up on my left adductor.  It was not sore effort fo alter my gait so I continued on.
+
+Coming off a 10th stride, the first of the 5x800m efforts felt laboured.  The second and third felt more comfortable (comparatively) but the fourth 800m saw the workout catching up with me.  I messed up the recording of the workout by hitting the stop/start button as I crossed the line on the 4th 800 but the fifth effort was my most focused.
 
 
 <!---->
