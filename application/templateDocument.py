@@ -28,6 +28,7 @@ class TemplateDocument(HTML5Document):
 		
 		if self.documentURI.find('/traininglog/ironman') == 0:
 			week = self.documentURI.split('-')[1].split('week')[0]
+			self.navigation.traininglog = True
 			self.navigation.week = week
 			if week == 'race':
 				self.title = 'IRONMAN CANADA RACE WEEK'
