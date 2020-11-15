@@ -2,6 +2,7 @@
 import os
 import time
 from templateDocument import *
+from calendarDocument import IronmanCalendar
 from html.parser import HTMLParser
 
 
@@ -115,6 +116,9 @@ class Website:
 					previous.title = 'Previous Training Week'
 					previous.documentURI = '/traininglog/previous'
 					self.saveDocument(previous)
+
+					calendar = IronmanCalendar()
+					self.saveDocument(calendar)
 
 		self.saveSiteMap(documentURIs)
 		self.saveHumansTxt()
