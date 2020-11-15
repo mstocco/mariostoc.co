@@ -4,15 +4,14 @@ Week beginning [Sunday, November 15, 2020](javascript:flick('sun');)
 **41 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-[Last week](ironman2021-42weeksout), I saw a number of trigger-points and hotspots flare up.  My goal this week is to be more mindful regarding the maintenance work, do my best to stick to the plan and be healthy for the track [next Sunday](ironman2021-40weeksout).
+[Last week](ironman2021-42weeksout), I saw a number of trigger-points and hotspots flare up.  My goal this week is to be more mindful regarding the maintenance work, do my best to stick to the plan and be healthy for the track workout [next Sunday](ironman2021-40weeksout).
 
-I have quality run work on [Sunday](javascript:flick('sun');) and [Wednesday](javascript:flick('wed');) and 2 pool sessions (COVID allowing)
+I have quality run work scheduled [this Sunday](javascript:flick('sun');) and again on [Wednesday](javascript:flick('wed');) and 2 pool sessions (COVID allowing).
 
 ## SUMMARY
 I feel like was...  
 <sup>(filled out at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
-
 
 <!---->
 ## SUNDAY NOV 15
