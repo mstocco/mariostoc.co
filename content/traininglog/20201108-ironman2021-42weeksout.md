@@ -179,4 +179,4 @@ On the flip-side, the strides this afternoon were awkward, slow and **heavy legg
 I am concerned about [tomorrow's workout](ironman2021-41weeksout).
 
 ### SATURDAY AFTERNOON'S ROUTE
-![Run Map](/assets/jpg/runmap-20201114.jpeg)
+![Run Map](/assets/jpg/runmap-20201114.jpeg?v1)
