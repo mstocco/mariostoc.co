@@ -9,9 +9,9 @@ With a little over 8 hours of scheduled training through Friday and no swimming 
 ## SUMMARY
 I feel like was **ON THE EDGE**.
 
-The week started with heavy legs but when it mattered, Wednesday I had a [great run]javascript:flick('wed');).  The good feeling carried over to [Thursday](javascript:flick('thu');) and [Friday](javascript:flick('fri');) but by [Saturday](javascript:flick('sat');), I was back to heavy legs and a now a suspect left hamstring. 
+The week started with heavy legs but when it mattered, Wednesday I had a [great run](javascript:flick('wed');).  The good feeling carried through [Friday](javascript:flick('fri');) but by [Saturday](javascript:flick('sat');), I was back to heavy legs, a lingering piriformis and a now a suspect left hamstring.  
 
-The weather has turned into typical west-coast weather this week.  I am adjusting to the sunsetting at 1630 and a weather forecast that changes by the hour.
+The weather has turned to typical, west-coast winter weather; I am adjusting to that and the sunsetting at 1630.
 
 ![This looks to be the last day of sunny weather for a while,](/assets/jpg/innerharbour-977x550.jpeg Sunday's Inner Harbour Sunset)
 
