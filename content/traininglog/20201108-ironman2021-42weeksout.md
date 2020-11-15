@@ -165,9 +165,7 @@ Sleep **3** | Fatigue **3** | Stress **2** | Soreness **4**
 Mobility 20 minutes.  
 Run 40 minutes: 20 minutes easy to start. 10x :15 strides (just enough for a bit of turnover) :45 easy after each. 10 minutes easy to cool down.
 
-<p style="font-size:1rem;margin-bottom:0;color:#ff8c00" class="agencyvc">Wind Warning for Greater Victoria</p>
-<p style="color:#ff8c00;font-size:0.9em;border-top:1px solid #ff8c00;">Southeast winds of 70 km/h are expected for Greater Victoria near Haro Strait, and exposed coastal sections of East Vancouver Island and the Sunshine Coast this evening.</p>
-<p style="color:#ff8c00;font-size:0.9em;">A frontal system will cross Vancouver Island late this evening. Ahead of the front, strong southeasterly winds will develop over Haro Strait and the Strait of Georgia. Winds will peak early this evening, and will ease near midnight.</p>
+<p style="font-size:1rem;margin-bottom:0;color:#ff8c00" class="agencyvc">ANOTHER Wind Warning for Greater Victoria</p><p style="color:#ff8c00;font-size:0.9em;border-top:1px solid #ff8c00;">Southeast winds of 70 km/h are expected for Greater Victoria near Haro Strait.  A frontal system will cross Vancouver Island late this evening. Ahead of the front, strong southeasterly winds will develop over Haro Strait and the Strait of Georgia. Winds will peak early this evening, and will ease near midnight.</p>
 
 ### NOTES
 Total Time: **40 minutes**
