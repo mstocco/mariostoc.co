@@ -170,4 +170,8 @@ Run 40 minutes: 20 minutes easy to start. 10x :15 strides (just enough for a bit
 ### NOTES
 Total Time: **40 minutes**
 
-This run was a bit of a mixed blessing.  The good was for the second run in a row, I did not have any typical ankle/soleus tenderness.
+This run was a two-sided coin.
+
+The good was for the second run in a row, I did not have any typical ankle/soleus tenderness.
+<!---->
+The strides were awkward, slow and heavy legged.  On top of that, I have seem to now have tender left, glute/hamstring/adductor that was felt (only) during the strides.  Exploring with a lacrosse ball after dinner revealed some very gnarly tissue in the belly of the hamstring and continuing in the piriformis.
