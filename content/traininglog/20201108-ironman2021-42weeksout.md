@@ -7,16 +7,10 @@ Week beginning [Sunday, November 8, 2020](javascript:flkty.select(3);)
 With a little over 8 hours of scheduled training through Friday and no swimming (didn't get a lane booked), my goal is to again, put together another week of consistency.  I am looking forward to the _Q Day_ on [Wednesday](javascript:flkty.select(8);) in particular.
 
 ## SUMMARY
-I feel like was...  
-<sup>(completed at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel like was **ON THE EDGE**.
 
-## PREVIOUS WEEK
-<ul class="iconlist">
- <li class="page">
-  <a href="ironman2021-43weeksout">November 1 - 43 weeks out</a>
- </li>
-</ul>
+The week started with heavy legs but when it mattered, [Wednesday](javascript:flick('wed');) I had a great run.  The good feeling carried over to [Thursday](javascript:flick('thu');) and [Friday](javascript:flick('fri');) but by [Saturday](javascript:flick('sat');), I was back to heavy legs and a now a suspect left hamstring. 
+
 
 ![This looks to be the last day of sunny weather for a while,](/assets/jpg/innerharbour-977x550.jpeg Sunday's Inner Harbour Sunset)
 
