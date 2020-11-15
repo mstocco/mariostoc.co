@@ -15,7 +15,7 @@ I feel like was...
 
 <!---->
 ## SUNDAY NOV 15
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **2** | Fatigue **3** | Stress **3** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUTS
@@ -26,7 +26,7 @@ Ride 75+ minutes on any bike you like. Trainer, rollers, MTB, road bike, TT bike
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+The wind and rain pelting the house woke me up at 0618.  After doing my business and recording my weight (79.3 Kg), I crawled back into bed and slept soundly through 0730.  I made banana pancakes then did the _"15 Minute Runner's Flexibility Routine"_ while breakfast settled.  Time to run.
 
 
 <!---->
