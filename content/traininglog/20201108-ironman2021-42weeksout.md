@@ -169,5 +169,5 @@ Exploring with a lacrosse ball after dinner revealed some very gnarly tissue in 
 
 I am concerned about [tomorrow's workout](ironman2021-41weeksout).
 
-### SATURDAY AFTERNOON'S ROUTE
-![Run Map](/assets/jpg/runmap-20201114.jpeg?v1)
+### SLOWER STRIDES WITH A BUM WHEEL
+![Pace Chart](/assets/jpg/pacechart-20201114.jpeg)
