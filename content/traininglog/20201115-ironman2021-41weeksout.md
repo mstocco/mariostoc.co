@@ -1,10 +1,10 @@
 # IRONMAN TRAINING 2021
-Week beginning Sunday, November 15, 2020
+Week beginning [Sunday, November 15, 2020](javascript:flick('sun');)
 
 **41 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-[Last week](ironman2021-42weeksout), I saw a number of trigger-points and hotspots flare up.  My goal this week is to be more mindful regarding the maintenance work.  
+[Last week](ironman2021-42weeksout), I saw a number of trigger-points and hotspots flare up.  My goal this week is to be more mindful regarding the maintenance work.  I have quality run work on [Sunday](javascript:flick('sun');) and [Wednesday](javascript:flick('wed');) and 2 pool sessions (COVID allowing).
 
 ## SUMMARY
 I feel like was...  
