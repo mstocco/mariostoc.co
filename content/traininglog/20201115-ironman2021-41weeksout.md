@@ -51,7 +51,7 @@ After the game, I headed out to the garage an sat on the TT Bike for 75 minutes.
 Average Heart Rate: **105 BPM**
 <!---->
 ## MONDAY NOV 16
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **5** | Fatigue **4** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -60,7 +60,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Garbage sleep with last night.
 
 
 <!---->
