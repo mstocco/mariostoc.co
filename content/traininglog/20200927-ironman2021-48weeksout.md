@@ -7,7 +7,7 @@ Week beginning [Sunday, September 27, 2020](javascript:flkty.select(3);)
 Heading into this week, I feel like I have some momentum from the consistancy from [last week](ironman2021-49weeksout).  The brick workout on [Tuesday](javascript:flkty.select(5);) and the track workout on [Wednesday](javascript:flkty.select(7);) look to be important days.  My goal is to nail those workouts and enjoy the balance of the activities scheduled this week.
 
 ## SUMMARY
-I feel like I was **RIGHT WHERE I NEED TO BE.**
+I feel like I was **RIGHT WHERE I NEED TO BE**.
 
 I was able to carry last week's momentum into this training week and I got the scheduled work in.  The volume and intensity is right on the money for where I am at too.  I did start to feel the total load on [Friday](javascript:flkty.select(11);) but I addressed it with a bit more rest.
 
@@ -66,7 +66,6 @@ Total Time: **100 minutes**
 I did not sleep that well last night; maybe to much time on the keyboard yesterday.  My neck and left hip feel stiff and I will hit the foam roller before heading out on the ride.
 
 The weather couldn't have been nicer.  Seriously today was nicer than a typical summer day.  It would have been a waste to have ridden the rollers this afternoon.  That being said, I really didn't have a route planned so I hopped on the TT bike and pedalled.  I ended up doing the Dallas Road/Beach Drive route.  No real focus except to enjoy the sunshine.
-
 <!---->
 I did stop for a bit to say hello to an old hockey buddy who was out for a walk.  This was very much an **easy ride** and I did put back a 750ml bottle with 53g of Gatorade while being out on the road.
 
@@ -95,7 +94,6 @@ Total Time: **65 minutes** (+30 mins on the bike)
 I had a decent sleep last night.
 
 The hip mobility routine was done before heading to the track.  It worked out some stiffness in my adductors that I didn't know were tight...
-
 <!---->
 So I had this run workout ear-marked ever since I saw it hit my inbox.  It was NOT another attempt at 12.5 laps but it was a chance to **nail some paces** on the track.
 
@@ -123,7 +121,6 @@ Another solid sleep last night and I am still feeling a _"runner's high"_ from y
 This was a more **spirited ride** than I was expecting to be able to have; my legs didn't feel overly fatigued from last night's effort on the track (maybe a little).  I felt good and not just by my own perception; Strava confirmed as much awarding me a few PR's for some of segments on the loop.
 
 I arrived at the trailhead right at sundown. That, I figured, would give me about 30 minutes of good light to get through the forest.
-
 <!---->
 I hadn't hit any single track trails in a while and _"Comfy Wooden Chair"_ is really only 5 minutes long so I turned off the fire road for a bit of an extra challenge; this wasn't my cleanest run on this section but it was still fun.  Getting on to Bellamy Trail had me out of the park and back into the sub-divsion in no time.  In fact, I was home 5 minutes ahead of schedule.
 
@@ -163,7 +160,6 @@ Total Time: **155 minutes**
 I slept ok last night but I noticed some fatigue (not soreness) in my legs when walking up the stairs this morning.
 
 Getting out on the TT Bike in the afternoon, I continued to feel the **fatigue in my legs**.  This stuck with me through my trip up the peninsula.  That feeling started to go way by the time I got to the airport (an hour in) and I felt okay for the next 45 minutes (through Lands End Road, back to Tatlow Road).
-
 <!---->
 Things started to get uncomfortable on my second trip to Lands End Road.  In particular my saddle was becoming increasingly uncomfortable and my lumbar started to protest.
 
@@ -172,5 +168,4 @@ I took a spin back to the airport to eat up some time that I had left on the clo
 The scheduled 30 minute run off the bike was a **20-minute torture test**.  I think this all adds up to me not bringing enough sugar on the ride; my mistake, my lesson learned.
 
 ### LANDS END RIDE MAP
-[Ride Map](/assets/jpg/ridemap-20201003.jpeg)
-
+![Ride Map](/assets/jpg/ridemap-20201003.jpeg)

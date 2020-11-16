@@ -188,19 +188,3 @@ Right from the start, I was focused on pacing.  Mentally, my task was to stay wi
 
 ### WHAT STILL BUGS ME
 Today was as good of a day as I could have hoped for.  I felt well rested, the weather was absolutely perfect (cool, sunny and next to no wind) and when I my plans were thrown off, I adjusted by finding a new venue in short order.  What bugs me is that the goal was to hold an average pace of 4:25/km for this workout and I was off schedule with a 4:30/km;  or 2 secs per 200m slow.
-
-
-<!---->
-## NEXT WEEK
-<ul class="iconlist">
- <li class="page">
-  <a href="ironman2021-43weeksout">43 Weeks Out - November 1, 2020</a>
- </li>
-</ul>
-
-## PREVIOUS WEEK
-<ul class="iconlist">
- <li class="page">
-  <a href="ironman2021-45weeksout">45 Weeks Out - October 18, 2020</a>
- </li>
-</ul>

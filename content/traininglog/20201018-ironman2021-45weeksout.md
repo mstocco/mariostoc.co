@@ -176,16 +176,3 @@ So with **tired legs**, a **throbbing headache** and a **cold wind**, everything
 All ride long, my legs reminded me about the upcoming run.  My mind couldn't fathom jogging 1 minute let alone 30.  I started to break the task of the run down into smaller parts.  If I can't do _30 minutes_, could I do _20?_  I talked myself into 10 minutes.
 
 The house was warm, the couch looked comfy but I promised myself to at least try 10 minutes of jogging.  On went the Altras and out the door I went.  I stayed out for 16 minutes.  Plodding up the hill on _Regina Street_, told me that I was done.  This has been a **great training week**.
-
-<!---->
-## OTHER TRAINING WEEKS
-
-### NEXT WEEK
-<ul class="iconlist">
-<li class="page"><a href="ironman2021-44weeksout">44 Weeks Out - October 25, 2020</a></li>
-</ul>
-
-### PREVIOUS WEEK
-<ul class="iconlist">
-<li class="page"><a href="ironman2021-46weeksout">46 Weeks Out - October 4, 2020</a></li>
-</ul>
