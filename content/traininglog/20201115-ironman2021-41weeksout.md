@@ -66,9 +66,9 @@ Total Time: **0 minutes**
 Garbage sleep last night and I woke with a headache to boot.
 
 <p style="font-size:1rem;margin-bottom:0;color:#ff8c00" class="agencyvc">WIND WARNING for Coastal British Columbia</p><p style="color:#ff8c00;font-size:0.9em;border-top:1px solid #ff8c00;">A rapidly deepening area of low pressure will pass north of Vancouver Island on Tuesday morning while a fast moving cold front crosses the south coast.</p>
-<p style="color:#ff8c00;font-size:0.9em;border-top:1px solid #ff8c00;">
+<p style="color:#ff8c00;font-size:0.9em;">
 In advance of the cold front, strong sustained southeasterly winds are expected for coastal areas in proximity to the Strait of Georgia and Haro Strait. As the front races across the area, widespread and powerful gusty southerly winds will occur. Gusts in excess of 90 km/h are possible.</p>
-<p style="color:#ff8c00;font-size:0.9em;border-top:1px solid #ff8c00;">
+<p style="color:#ff8c00;font-size:0.9em;">
 Winds will ease considerably following the passage of the cold front but will remain gusty into Tuesday afternoon.</p>
 
 <!---->
