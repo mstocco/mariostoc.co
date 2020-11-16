@@ -35,7 +35,7 @@ With a left hamstring/glute getting a whole lot of attention yesterday and today
 Coming off a 10th stride, the first of the 5x800m efforts felt laboured.  The second and third felt more comfortable (comparatively) but the fourth 800m saw the workout catching up with me.  I messed up the recording of the workout by hitting the stop/start button as I crossed the line on the 4th 800 but the fifth effort was my most focused.
 
 ### RECORDED 800M TIMES
-<table style="font-size:0.8em;width:330px;border-collapse:collapse;"><tr style="border-bottom:1px solid silver;"><td >800m</td><td style="text-align:right;">1</td><td style="text-align:right;">2</td><td style="text-align:right;">3</td><td style="text-align:right;">4</td><td style="text-align:right;">5</td></tr><tr><td>Time</td><td style="text-align:right;"><strong>3:28.7</strong></td><td style="text-align:right;"><strong>3:24.4</strong></td><td style="text-align:right;"><strong>3:27.2</strong></td><td style="text-align:right;"><strong>3:26.7</strong></td><td style="text-align:right;">* <strong>3:22.5</strong></td></tr><tr><td colspan="6" style="text-align:right;"><sup><strong>*</strong> on 110 seconds rest</sup></td></tr></table>
+<table style="font-size:0.8em;width:330px;border-collapse:collapse;"><tr style="border-bottom:1px solid silver;"><td >800m</td><td style="text-align:right;">1</td><td style="text-align:right;">2</td><td style="text-align:right;">3</td><td style="text-align:right;">4</td><td style="text-align:right;">5</td></tr><tr><td>Time</td><td style="text-align:right;"><strong>3:28.7</strong></td><td style="text-align:right;"><strong>3:24.4</strong></td><td style="text-align:right;"><strong>3:27.2</strong></td><td style="text-align:right;"><strong>3:26.7</strong></td><td style="text-align:right;">*<strong>3:22.5</strong></td></tr><tr><td colspan="6" style="text-align:right;"><sup><strong>*</strong> on 110 seconds rest</sup></td></tr></table>
 
 More importantly, that tender left adductor went unnoticed during the 800s but I did have a dull ache in that left side's piriformis.
 <!---->
@@ -45,12 +45,12 @@ More importantly, that tender left adductor went unnoticed during the 800s but I
 I felt **really good** with this run
 
 ### POST RUN
-The Seahawks took a beating again this week.  They play again on Thursday freeing me up for the big workout [next Sunday](ironman2021-40weeksout).
+The Seahawks took a beating again this week.  They play again this Thursday, freeing up [next Sunday](ironman2021-40weeksout) for an important track workout.
 
 ### POST GAME EASY SPIN
 Average Heart Rate: **105 BPM**
 
-After the game, I headed out to the garage an sat on the TT Bike for 75 minutes.  I watched a video called _"Iron Dad"_, the story of Alex Smith and his son Harrison's battle with muscular dystrophy.  They completed _Challenge Denmark_ together; very cool story.
+After the game, I headed out to the garage and sat on my TT Bike for 75 minutes.  I watched a video called _"Iron Dad"_, the story of Alex Smith and his son Harrison's battle with muscular dystrophy.  They completed _Challenge Denmark_ together; very cool story.
 
 <!---->
 ## MONDAY NOV 16
