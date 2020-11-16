@@ -112,7 +112,7 @@ This was the first ride on the TT bike since Elk Lake in
 August and it **felt really good**.
 
 <!---->
-## MY 49TH BIRTHDAY &#127783;
+## WEDNESDAY &mdash MY 49TH BIRTHDAY! &#127783;
 Sleep **2** | Fatigue **3** | Stress **3** | Soreness **4**   
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -209,10 +209,3 @@ uncomfortable.  I spend the majority of the time balancing in
 the aerobars.
 
 Effort was **easy spinning** and time seemed to go by quickly.
-<!---->
-## PREVIOUS TRAINING WEEKS
-<ul class="iconlist">
-<li class="page"><a href="ironman2021-50weeksout">September 13, 2020 - 50 Weeks Out</a></li>
-<li class="page"><a href="ironman2021-51weeksout">September 6, 2020 - 51 Weeks Out</a></li>
-<li class="page"><a href="ironman2021-52weeksout">August 30, 2020 - 52 Weeks Out</a></li>
-</ul>

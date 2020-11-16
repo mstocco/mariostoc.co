@@ -11,8 +11,7 @@ I feel like I was **RIGHT WHERE I NEED TO BE.**
 
 I was able to carry last week's momentum into this training week and I got the scheduled work in.  The volume and intensity is right on the money for where I am at too.  I did start to feel the total load on [Friday](javascript:flkty.select(11);) but I addressed it with a bit more rest.
 
-The fall weather was really nice this week with mostly sunny skies and perfect training temperatures.
-I am happy and thankful.
+The fall weather was really nice this week with mostly sunny skies and perfect training temperatures. I am **happy and thankful**.
 
 ![From my bike ride, September 29th, 2020.](/assets/jpg/IMG_2831-977x550.jpg Trial Island as seen from Beach Drive)
 
@@ -159,7 +158,7 @@ Ride 2:30 on TT bike. Generally flatter route (Up the peninsula) Remembering to 
 Off the bike: Run 30 minutes. Flat route. Easy effort.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **155 minutes**
 
 I slept ok last night but I noticed some fatigue (not soreness) in my legs when walking up the stairs this morning.
 
@@ -172,16 +171,6 @@ I took a spin back to the airport to eat up some time that I had left on the clo
 
 The scheduled 30 minute run off the bike was a **20-minute torture test**.  I think this all adds up to me not bringing enough sugar on the ride; my mistake, my lesson learned.
 
-## TRAINING WEEKS PREVIOUS
-<ul class="iconlist">
-<li class="page"><a href="ironman2021-49weeksout">September 20, 2020 - 49 Weeks Out</a></li>
-<li class="page"><a href="ironman2021-50weeksout">September 13, 2020 - 50 Weeks Out</a></li>
-<li class="page"><a href="ironman2021-51weeksout">September 6, 2020 - 51 Weeks Out</a></li>
-<li class="page"><a href="ironman2021-52weeksout">August 30, 2020 - 52 Weeks Out</a></li>
-</ul>
-
-## CURRENT TRAINING WEEK
-<ul class="iconlist">
-<li class="page"><a href="latest">Current Week</li>
-</ul>
+### LANDS END RIDE MAP
+[Ride Map](/assets/jpg/ridemap-20201003.jpeg)
 

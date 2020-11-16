@@ -38,17 +38,6 @@ too.
 The heavy heart is still there, and likely will be there for some
 time to come but all things considering, this was a good week.
 
-## NEXT TWO TRAINING WEEKS
-<ul class="iconlist">
-<li class="page"><a href="ironman2021-50weeksout">September 13, 2020 - 50 Weeks Out</a></li>
-<li class="page"><a href="ironman2021-51weeksout">September 6, 2020 - 51 Weeks Out</a></li>
-</ul>
-
-## CURRENT TRAINING WEEK
-<ul class="iconlist">
-<li class="page"><a href="latest">September 20, 2020 - 49 Weeks Out</a></li>
-</ul>
-
 ![](/assets/jpg/wtc-email-493x550.jpg)
 
 ## SUNDAY AUG 30
@@ -88,7 +77,6 @@ for a race experience next summer.  I also read that Jen Annett
 posted a 10 hour time on the Penticton course over the weekend 
 in an "unofficial" event of about a dozen locals.
 
-
 <!---->
 ## TUESDAY SEP 01
 Sleep **6** | Fatigue **5** | Stress **4** | Soreness **5** 
@@ -104,7 +92,6 @@ This would have been my father's 79th birthday.  Enough said.
 
 I was awake from 2:30 to 5:30am and had a bit of a headache too. 
 I did a walk/jog around Swan Lake and that helped.
-
 
 <!---->
 ## WEDNESDAY SEP 02
@@ -139,14 +126,12 @@ First time to talk with Elliot since both our worlds recently changed.  I am fee
 There are still lingering moments of inability to concentrate; which is ok for now but can't be forever.
 I am hoping that I can focus long enough to reduce my current load at work, thus leaving more mental energy to get outside.
 
-
 <!---->
 ## FRIDAY SEP 04
 Sleep **4** | Fatigue **4** | Stress **2** | Soreness **5** 
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-
 20 Minutes Mobility.
 Run 30 minutes. Flat route. Easy effort.
 
@@ -154,8 +139,6 @@ Run 30 minutes. Flat route. Easy effort.
 Total Time: **0 minutes**
 
 This was a bit of a funky day.  I was able to get a number of things done at work which was good to have off my plate and it was a nice day outside; I just didn't pull the trigger on lacing up my sneakers or setting up the yoga mat.  I did receive the email for registering for IRONMAN Canada 2021.  I am in!
-
-
 
 <!---->
 ## SATURDAY SEP 05
