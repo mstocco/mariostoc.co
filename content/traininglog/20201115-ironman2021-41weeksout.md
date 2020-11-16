@@ -24,21 +24,20 @@ Run 10 minutes easy to warm up. 10x 100 meter strides (about 5k effort) 100 mete
 Ride 75+ minutes on any bike you like. Trainer, rollers, MTB, road bike, TT bike. Keep it easy. Spin out the legs. Bring snacks.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **173 minutes**
 
 The wind and rain pelting the house woke me up at 0618.  After doing my business and recording my weight (79.3 Kg), I crawled back into bed and slept soundly through 0730.  I made banana pancakes then did the _"15 Minute Runner's Flexibility Routine"_ while breakfast settled.
 
 Time to head to PISE.
 <!---->
-With a left hamstring/glute getting a whole lot of attention yesterday and today, I was pretty sensitive to how this workout was going to unfold.  The warm up was a breeze on a breezy day.  No tenderness to report anywhere.  I started to feel some tenderness, specifically high up on my left adductor, during the 10x100m efforts.  It was not so sore as to alter my gait;  I continued on.
+With a left hamstring/glute getting a whole lot of attention yesterday and today, I was pretty sensitive to how this workout was going to unfold.  The warm up was a breeze on a breezy day.  No soreness to report anywhere.  I started to feel some tenderness, specifically high up on my left adductor, during the 10x100m efforts.  It was not so sore as to alter my gait;  I continued on.
 
 Coming off a 10th stride, the first of the 5x800m efforts felt laboured.  The second and third felt more comfortable (comparatively) but the fourth 800m saw the workout catching up with me.  I messed up the recording of the workout by hitting the stop/start button as I crossed the line on the 4th 800 but the fifth effort was my most focused.
 
 ### 800M TIMES
-<table style="width:330px;"><tr style="border-bottom:1px solid silver;"><td style="width:50px;">800m</td><td style="text-align:right;">1</td><td style="text-align:right;">2</td><td style="text-align:right;">3</td><td style="text-align:right;">4</td><td style="text-align:right;">5</td></tr><tr><td>Time</td><td style="text-align:right;">3:28.7</td><td style="text-align:right;">3:24.4</td><td style="text-align:right;">3:27.2</td><td style="text-align:right;">3:26.7</td><td style="text-align:right;"><strong>*</strong>3:22.5</td></tr><tr><td colspan="6" style="text-align:right;"><strong>*</strong><sup>on 110 seconds rest</sup></td></tr></table>
+<table style="width:330px;"><tr style="border-bottom:1px solid silver;"><td >800m</td><td style="text-align:right;">1</td><td style="text-align:right;">2</td><td style="text-align:right;">3</td><td style="text-align:right;">4</td><td style="text-align:right;">5</td></tr><tr><td>Time</td><td style="text-align:right;">3:28.7</td><td style="text-align:right;">3:24.4</td><td style="text-align:right;">3:27.2</td><td style="text-align:right;">3:26.7</td><td style="text-align:right;"><strong>*</strong>3:22.5</td></tr><tr><td colspan="6" style="text-align:right;"><sup><strong>*</strong>on 110 seconds rest</sup></td></tr></table>
 
-More importantly, that tender left adductor was not felt during the 800s but I did have a dull ache in that side's piriformis.
-
+More importantly, that tender left adductor went unnoticed during the 800s but I did have a dull ache in that side's piriformis.
 <!---->
 The Seahawks took a beating again this week.  They play again on Thursday freeing me up for the workout [next Sunday](ironman2021-40weeksout).
 
