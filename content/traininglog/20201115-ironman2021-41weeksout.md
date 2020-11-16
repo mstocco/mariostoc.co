@@ -42,10 +42,10 @@ More importantly, that tender left adductor went unnoticed during the 800s but I
 ### NORMALIZED PACE CHART
 ![Pace Chart](/assets/jpg/pacechart-20201115.jpeg)
 
-I felt **really good** with this run
+I felt **really good** with how this run went.
 
 ### POST RUN
-The Seahawks took a beating again this week.  They play again this Thursday, freeing up [next Sunday](ironman2021-40weeksout) for an important track workout.
+The Seahawks took another beating this week.  They play again this Thursday night, which make [next Sunday](ironman2021-40weeksout) free for an important workout.
 
 ### POST GAME EASY SPIN
 Average Heart Rate: **105 BPM**
