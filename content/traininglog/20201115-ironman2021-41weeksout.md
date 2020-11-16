@@ -39,9 +39,16 @@ Coming off a 10th stride, the first of the 5x800m efforts felt laboured.  The se
 
 More importantly, that tender left adductor went unnoticed during the 800s but I did have a dull ache in that side's piriformis.
 <!---->
+### PACE CHART
+![Pace Chart](/assets/jpg/pacechart-20201115.jpeg)
+
+### POST RUN
 The Seahawks took a beating again this week.  They play again on Thursday freeing me up for the workout [next Sunday](ironman2021-40weeksout).
 
+### POST GAME
 After the game, I headed out to the garage an sat on the TT Bike for 75 minutes.  I watched a video called _"Iron Dad"_, the story of Alex Smith and his son Harrison and their battle with Muscular Dystrophy.
+
+Average Heartrate: **105 BPM**
 <!---->
 ## MONDAY NOV 16
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
