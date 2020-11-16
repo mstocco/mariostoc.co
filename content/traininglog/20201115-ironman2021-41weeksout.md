@@ -35,20 +35,23 @@ With a left hamstring/glute getting a whole lot of attention yesterday and today
 Coming off a 10th stride, the first of the 5x800m efforts felt laboured.  The second and third felt more comfortable (comparatively) but the fourth 800m saw the workout catching up with me.  I messed up the recording of the workout by hitting the stop/start button as I crossed the line on the 4th 800 but the fifth effort was my most focused.
 
 ### RECORDED 800M TIMES
-<table style="font-size:0.8em;width:330px;border-collapse:collapse;"><tr style="border-bottom:1px solid silver;"><td >800m</td><td style="text-align:right;">1</td><td style="text-align:right;">2</td><td style="text-align:right;">3</td><td style="text-align:right;">4</td><td style="text-align:right;">5</td></tr><tr><td>Time</td><td style="text-align:right;">3:28.7</td><td style="text-align:right;">3:24.4</td><td style="text-align:right;">3:27.2</td><td style="text-align:right;">3:26.7</td><td style="text-align:right;"><strong>*</strong>3:22.5</td></tr><tr><td colspan="6" style="text-align:right;"><sup><strong>*</strong> on 110 seconds rest</sup></td></tr></table>
+<table style="font-size:0.8em;width:330px;border-collapse:collapse;"><tr style="border-bottom:1px solid silver;"><td >800m</td><td style="text-align:right;">1</td><td style="text-align:right;">2</td><td style="text-align:right;">3</td><td style="text-align:right;">4</td><td style="text-align:right;">5</td></tr><tr><td>Time</td><td style="text-align:right;"><strong>3:28.7</strong></td><td style="text-align:right;"><strong>3:24.4</strong></td><td style="text-align:right;"><strong>3:27.2</strong></td><td style="text-align:right;"><strong>3:26.7</strong></td><td style="text-align:right;">* <strong>3:22.5</strong></td></tr><tr><td colspan="6" style="text-align:right;"><sup><strong>*</strong> on 110 seconds rest</sup></td></tr></table>
 
 More importantly, that tender left adductor went unnoticed during the 800s but I did have a dull ache in that left side's piriformis.
 <!---->
 ### NORMALIZED PACE CHART
 ![Pace Chart](/assets/jpg/pacechart-20201115.jpeg)
 
+I felt **really good** with this run
+
 ### POST RUN
 The Seahawks took a beating again this week.  They play again on Thursday freeing me up for the big workout [next Sunday](ironman2021-40weeksout).
 
-### POST GAME
-After the game, I headed out to the garage an sat on the TT Bike for 75 minutes.  I watched a video called _"Iron Dad"_, the story of Alex Smith and his son Harrison's battle with Muscular Dystrophy.  They completed _Challenge Denmark_ together; cool story.
-
+### POST GAME EASY SPIN
 Average Heart Rate: **105 BPM**
+
+After the game, I headed out to the garage an sat on the TT Bike for 75 minutes.  I watched a video called _"Iron Dad"_, the story of Alex Smith and his son Harrison's battle with muscular dystrophy.  They completed _Challenge Denmark_ together; very cool story.
+
 <!---->
 ## MONDAY NOV 16
 Sleep **5** | Fatigue **4** | Stress **4** | Soreness **4**  
@@ -60,7 +63,7 @@ Sleep **5** | Fatigue **4** | Stress **4** | Soreness **4**
 ### NOTES
 Total Time: **0 minutes**
 
-Garbage sleep with last night.
+Garbage sleep last night and I woke with a headache to boot.
 
 
 <!---->
