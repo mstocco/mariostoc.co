@@ -36,7 +36,7 @@ Coming off a 10th stride, the first of the 5x800m efforts felt laboured.  The se
 
 <table>
  <tr style="border-bottom:1px solid #ddd;">
-  <td style="width:40px;">800m</td>
+  <td style="width:80px;">800m</td>
   <td style="text-align:right;">1</td>
   <td style="text-align:right;">2</td>
   <td style="text-align:right;">3</td><td style="text-align:right;">4</td><td style="text-align:right;">5</td></tr>
