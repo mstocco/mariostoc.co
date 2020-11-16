@@ -34,9 +34,9 @@ With a left hamstring/glute getting a whole lot of attention yesterday and today
 
 Coming off a 10th stride, the first of the 5x800m efforts felt laboured.  The second and third felt more comfortable (comparatively) but the fourth 800m saw the workout catching up with me.  I messed up the recording of the workout by hitting the stop/start button as I crossed the line on the 4th 800 but the fifth effort was my most focused.
 
-<table>
- <tr style="border-bottom:1px solid #ddd;">
-  <td style="width:80px;">800m</td>
+<table style="width:330px;">
+ <tr style="border-bottom:1px solid silver;">
+  <td style="width:60px;">800m</td>
   <td style="text-align:right;">1</td>
   <td style="text-align:right;">2</td>
   <td style="text-align:right;">3</td><td style="text-align:right;">4</td><td style="text-align:right;">5</td></tr>
