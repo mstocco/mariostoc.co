@@ -73,7 +73,7 @@ As the front races across the area, widespread and powerful gusty southerly wind
 
 <!---->
 ## TUESDAY NOV 17
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUTS
@@ -84,7 +84,7 @@ Run 30 minutes. Flat route. EASY effort.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I stepped on the scale this morning and morning rhymes with **warning**.  79.5Kg (175lbs) and I have no interest in heading up Yellow Lake Pass at anything more than 160lbs.  I don't get it.  I have been monitoring my dinner portions lately and when I thought this bereavement weight-gain was going to plateau around 78Kg, the weight continued to piling on.  I understand that I have replaced some running duration with intensity as of late, but I now believe there is a problem. 
 
 <!---->
 ## WEDNESDAY NOV 18
