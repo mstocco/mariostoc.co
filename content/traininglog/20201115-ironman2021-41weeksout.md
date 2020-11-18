@@ -89,12 +89,12 @@ I stepped on the scale this morning and morning rhymes with **warning**.  79.5Kg
 ### THE SWIM(S)
 I shared the _"Moderate Lane"_ with 3 older ladies.  It didn't take too long before I had one sternly suggested that I book myself into the _"Fast Lane"_.  Maybe next time eh?
 
-The swim felt **comfortable** and fun.  I did make a mental mistake with the workout in that I did 4x100 kickboard instead of 4x100 swimming with a pull-buoy.  When I pressed stop on the watch, it had counted 1500m and I was sure that I needed 1900 for the workout.
+This swim felt **comfortable and fun**.  I made a mental mistake with the workout.  I did 4x100 _"kickboard"_ instead of 4x100 swimming with a pull-buoy.  When I pressed stop on the watch, it had counted 1500m even though I was in the water for +50 minutes.  I was sure that I needed 1900m for the workout.
 
-I had time, and the entire section of the pool to myself, so I set off and did an easy, **constant effort** 400m.  Whether I thought I was short on the original workout or not, there was every reason to take advantage of the moment and to have fun while I was in the water.
+I had time and an entire section of the pool to myself, so I set off and did an easy, **steady 400m effort**.  Whether I thought I was short on the original workout or not, there was every reason to take advantage of the moment and to have fun while I was in the water.
 
 ### THE JOG
-This felt like an _"off the bike"_ brick workout.  **Heavy calves**, probably from the 600m of kickboard work just sucked; even after 20 minutes, they never came around.  The brief weather window I had collapsed so I headed back to my truck.
+This felt like an _"off the bike"_ brick workout.  **Heavy calves** (probably from the 600m of kickboard work).  Even after 20 minutes, they never came around.  The brief weather window I had collapsed so I headed back to my truck.
 <!---->
 ## WEDNESDAY NOV 18
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
