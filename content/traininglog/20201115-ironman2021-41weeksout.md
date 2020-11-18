@@ -87,11 +87,11 @@ Total Time: **85 minutes**
 I stepped on the scale this morning and morning rhymes with **warning**.  79.5Kg (175lbs) and I have no interest in heading up Yellow Lake Pass at anything more than 160lbs.  I don't get it.  I have been monitoring my dinner portions lately and when I thought this bereavement weight-gain was going to plateau around 78Kg, the weight continues to piling on.  I understand that I have replaced some running duration with intensity lately, but I believe there is a problem.
 <!---->
 ### THE SWIM(S)
-I shared the _"Moderate Lane"_ with 3 older ladies.  It didn't take too long before I had one sternly suggested that I book myself into the _"Fast Lane"_.  Maybe next time eh?
+I shared the _"Moderate Lane"_ with 3 older ladies.  It didn't take too long before one lady sternly suggested that I book myself into the _"Fast Lane"_.  Maybe next time eh?
 
-This swim felt **comfortable and fun**.  I made a mental mistake with the workout.  I did 4x100 _"kickboard"_ instead of 4x100 swimming with a pull-buoy.  When I pressed stop on the watch, it had counted 1500m even though I was in the water for +50 minutes.  I was sure that I needed 1900m for the workout.
+This swim felt **comfortable and fun** with one mental mistake:  I did 4x100 _"kickboard"_ instead of 4x100 swimming with a pull-buoy.  When I pressed stop on the watch, it had counted 1500m even though I was in the water for +50 minutes.  I was sure that I needed 1900m for the workout.
 
-I had time and an entire section of the pool to myself, so I set off and did an easy, **steady 400m effort**.  Whether I thought I was short on the original workout or not, there was every reason to take advantage of the moment and to have fun while I was in the water.
+I had time and an entire section of the pool all to myself, so I did an easy but **steady 400m effort**.  Whether I thought I was short on the original workout or not, there was every reason to take advantage of the moment and to have fun while I was in the water.
 
 ### THE JOG
 This felt like an _"off the bike"_ brick workout.  **Heavy calves** (probably from the 600m of kickboard work).  Even after 20 minutes, they never came around.  The brief weather window I had collapsed so I headed back to my truck.
