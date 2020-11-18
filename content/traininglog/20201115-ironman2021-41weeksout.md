@@ -72,7 +72,7 @@ Mobility and a good amount of time spent with the foam roller working out that s
 As the front races across the area, widespread and powerful gusty southerly winds will occur. Gusts in excess of 90 km/h are possible.  Winds will ease considerably following the passage of the cold front but will remain gusty into Tuesday afternoon.</p>
 
 <!---->
-## TUESDAY NOV 17
+## TUESDAY NOV 17 🌦
 Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -87,7 +87,7 @@ Total Time: **85 minutes**
 I stepped on the scale this morning and morning rhymes with **warning**.  79.5Kg (175lbs) and I have no interest in heading up Yellow Lake Pass at anything more than 160lbs.  I don't get it.  I have been monitoring my dinner portions lately and when I thought this bereavement weight-gain was going to plateau around 78Kg, the weight continues to piling on.  I understand that I have replaced some running duration with intensity lately, but I believe there is a problem.
 <!---->
 ### THE SWIM(S)
-I shared the _"Moderate Lane"_ with 3 older ladies.  It didn't take too long before I had one sternly suggested that I book myself into the _"Fast Lane"_.  I have 3 more  sessions paid for in this lane but maybe I will re-evaluate based on the time of day I can get in.
+I shared the _"Moderate Lane"_ with 3 older ladies.  It didn't take too long before I had one sternly suggested that I book myself into the _"Fast Lane"_.  Maybe next time eh?
 
 The swim felt **comfortable** and fun.  I did make a mental mistake with the workout in that I did 4x100 kickboard instead of 4x100 swimming with a pull-buoy.  When I pressed stop on the watch, it had counted 1500m and I was sure that I needed 1900 for the workout.
 
