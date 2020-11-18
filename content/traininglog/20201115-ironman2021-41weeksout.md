@@ -94,7 +94,7 @@ The swim felt **comfortable** and fun.  I did make a mental mistake with the wor
 I had time, and the entire section of the pool to myself, so I set off and did an easy, **constant effort** 400m.  Whether I thought I was short on the original workout or not, there was every reason to take advantage of the moment and to have fun while I was in the water.
 
 ### THE JOG
-This was and felt like a brick workout.  Heavy calves, probably from the 600m of kickboard work just sucked and even after 20 minutes, never came around.  The weather window I had was about to collapse so I headed back to my truck.
+This felt like an _"off the bike"_ brick workout.  **Heavy calves**, probably from the 600m of kickboard work just sucked; even after 20 minutes, they never came around.  The brief weather window I had collapsed so I headed back to my truck.
 <!---->
 ## WEDNESDAY NOV 18
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
