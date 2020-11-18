@@ -85,7 +85,16 @@ Run 30 minutes. Flat route. EASY effort.
 Total Time: **0 minutes**
 
 I stepped on the scale this morning and morning rhymes with **warning**.  79.5Kg (175lbs) and I have no interest in heading up Yellow Lake Pass at anything more than 160lbs.  I don't get it.  I have been monitoring my dinner portions lately and when I thought this bereavement weight-gain was going to plateau around 78Kg, the weight continues to piling on.  I understand that I have replaced some running duration with intensity lately, but I believe there is a problem.
+<!---->
+### THE SWIM(S)
+I shared the _"Moderate Lane"_ with 3 older ladies.  It didn't take too long before I had one sternly suggested that I book myself into the _"Fast Lane"_.  I have 3 more  sessions paid for in this lane but maybe I will re-evaluate based on the time of day I can get in.
 
+The swim felt **comfortable** and fun.  I did make a mental mistake with the workout in that I did 4x100 kickboard instead of 4x100 swimming with a pull-buoy.  When I pressed stop on the watch, it had counted 1500m and I was sure that I needed 1900 for the workout.
+
+I had time, and the entire section of the pool to myself, so I set off and did an easy, **constant effort** 400m.  Whether I thought I was short on the original workout or not, there was every reason to take advantage of the moment and to have fun while I was in the water.
+
+### THE JOG
+This was and felt like a true brick workout.  Heavy calves, probably from the 800m of kickboard work just sucked and even after 20 minutes, never came around.  The weather window I had was about to collapse so I headed back to my truck.
 <!---->
 ## WEDNESDAY NOV 18
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
