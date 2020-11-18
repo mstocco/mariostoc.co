@@ -96,8 +96,9 @@ With an entire section of the pool all to myself, I did an easy but **steady 400
 ### THE JOG
 This felt like an _"off the bike"_ brick workout.  **Heavy calves** (probably from the 400m of kickboard work).  Even after 20 minutes, my legs never came around.  The brief weather window I had collapsed so I headed back to my truck.
 <!---->
+
 ## WEDNESDAY NOV 18
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **2** | Fatigue **3** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUTS
@@ -108,7 +109,7 @@ Run 50 minutes: (flattish route) 15 minute jog to warm up. 5x :40 strides, 1:20 
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I had a decent sleep last night but I am a bit stiff this morning (hips/lumbar and soleus).b  
 
 <!---->
 ## THURSDAY NOV 19
