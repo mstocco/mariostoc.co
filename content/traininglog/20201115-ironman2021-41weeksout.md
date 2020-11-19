@@ -113,9 +113,9 @@ I had a decent sleep last night but I am a bit stiff this morning (hips/lumbar a
 
 This afternoon's run was a shortened version of the workout from last [Wednesday](ironman2021-42weeksout) but with a similar effort put in.  What was different was today, I ran in my Altra Escalante shoes and I got caught out in the rain.  The strides were done by feel (no pace alarm set in the watch) and apart from the first stride, they felt pretty normal.
 <!---->
-I love doing my Rocky Balboa impression running in front of the new boxing gym on _Harbour Road_.
+I love doing my Rocky Balboa impression running strides in front of the new boxing gym on _Harbour Road_.
 
-The tempo effort was on the scheduled effort too; maybe a touch fast along the Selkirk area but once on the false-flat uphill, the average pace dropped slightly.  This week, I went up and over the _Switch Bridge_ with close to 5 minutes remaining in the 20 minute effort; I may have burnt a match in doing so.  The last 4 minutes was into the wind and rain.  Overall I feel **pretty happy** with the effort.
+The tempo effort was on schedule too; maybe a touch fast along the Selkirk area but once on the false-flat uphill, the average pace dropped slightly.  This week, I went up and over the _Switch Bridge_ with close to 5 minutes remaining in the 20 minute effort; I may have burnt a match in doing so.  The last 4 minutes was into the wind and rain.  Overall I am **pretty stoked** with the effort.
 
 ### NORMALIZED PACE CHART
 ![Pace Chart](/assets/jpg/pacechart-20201118.jpeg)
