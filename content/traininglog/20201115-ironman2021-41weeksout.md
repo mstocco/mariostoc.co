@@ -122,8 +122,8 @@ The tempo effort was on schedule too; maybe a touch fast along the Selkirk area 
 
 The bike was an easy effort tonight but I really noticed this afternoon's workout.  The quads are feeling cooked.  Time for bed.
 <!---->
-## THURSDAY NOV 19
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## THURSDAY NOV 19 🌦
+Sleep **5** | Fatigue **4** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -133,7 +133,7 @@ Run 30 minutes. Flat route.  EASY effort.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash;
+Terrible sleep with night sweats; I woke up feeling more tired than when I when to bed last night.  It looks like a beautiful morning to go for an easy run but I am going to put it off until after work; even if it means running in the rain.
 
 <!---->
 ## FRIDAY NOV 20
