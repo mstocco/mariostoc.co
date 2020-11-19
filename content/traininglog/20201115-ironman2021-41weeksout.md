@@ -120,6 +120,7 @@ The tempo effort was on the scheduled effort too; maybe a touch fast along the S
 ### NORMALIZED PACE CHART
 ![Pace Chart](/assets/jpg/pacechart-20201118.jpeg)
 
+The bike was an easy effort tonight but I really noticed this afternoon's workout.  The quads are feeling cooked.  Time for bed.
 <!---->
 ## THURSDAY NOV 19
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
