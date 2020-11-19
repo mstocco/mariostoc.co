@@ -97,7 +97,7 @@ With an entire section of the pool all to myself, I did an easy but **steady 400
 This felt like an _"off the bike"_ brick workout.  **Heavy calves** (probably from the 400m of kickboard work).  Even after 20 minutes, my legs never came around.  The brief weather window I had collapsed so I headed back to my truck.
 <!---->
 
-## WEDNESDAY NOV 18
+## WEDNESDAY NOV 18 🌧
 Sleep **2** | Fatigue **3** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -107,10 +107,13 @@ Ride 60 minutes easy on the rollers. Easy spinning.
 Run 50 minutes: (flattish route) 15 minute jog to warm up. 5x :40 strides, 1:20 jog after each. 20 minutes @ 1/2 Marathon effort/feel (5:03-5:22 per km, like we talked about) 5 minutes EASY running to cool down.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **50 minutes**
 
-I had a decent sleep last night but I am a bit stiff this morning (hips/lumbar and soleus).b  
+I had a decent sleep last night but I am a bit stiff this morning (hips/lumbar and soleus).
 
+This afternoon's run was a shortened version of the workout from last [Wednesday](ironman2021-42weeksout) but with a similar effort put in.  What was different was today, I ran in my Altra Escalante shoes and I got caught out in the rain.  The strides were done by feel (no pace alarm set in the watch) and apart from the first stride, they felt pretty normal.  I love doing my Rocky Balboa impression running in front of the boxing gym.
+
+The tempo effort was on the scheduled effort too; maybe a touch fast along the Selkirk area but once on the false-flat uphill, the average pace dropped slightly.  This week, I went up and over the _Switch Bridge_ with close to 5 minutes remaining in the 20 minute effort; I may have burnt a match in doing so.  The last 4 minutes was into the wind and rain.  Overall I feel pretty happy with the effort.
 <!---->
 ## THURSDAY NOV 19
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
