@@ -14,7 +14,7 @@ I feel like was...
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
 ![I took this picture on my way home from PISE on Sunday](/assets/jpg/IMG_2941-977x550.jpeg Colquitz River Park)
-## SUNDAY NOV 15
+## SUNDAY NOV 15 ☁️
 Sleep **2** | Fatigue **3** | Stress **3** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -53,7 +53,7 @@ Average Heart Rate: **105 BPM**
 After the game, I headed out to the garage and sat on my TT Bike for 75 minutes.  I watched a video called _"Iron Dad"_, the story of Alex Smith and his son Harrison's battle with muscular dystrophy.  They completed _Challenge Denmark_ together; very cool story.
 
 <!---->
-## MONDAY NOV 16
+## MONDAY NOV 16 🌦
 Sleep **5** | Fatigue **4** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -123,7 +123,7 @@ The tempo effort was on schedule too; maybe a touch fast along the Selkirk area 
 The bike was an easy effort tonight but I really noticed this afternoon's workout.  The quads are feeling cooked.  Time for bed.
 <!---->
 ## THURSDAY NOV 19 🌦
-Sleep **5** | Fatigue **4** | Stress **2** | Soreness **4**  
+Sleep **5** | Fatigue **4** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -135,9 +135,11 @@ Total Time: **0 minutes**
 
 Terrible sleep with night sweats; I woke up feeling more tired than when I when to bed last night.  It looks like a beautiful morning to go for an easy run but I am going to put it off until after work; even if it means running in the rain.
 
+This was an end to a couple of streaks.   The Seahawks ended their 2 game losing skid with a solid game against the Cardinals last night.  The other streak was my not missing a workout in a long while.  Work hit me with a project due by tomorrow morning and I didn't finish it until 15 minutes into the Hawks Post-Game Show.  As much of bummer it is seeing my workout streak end, it may have happened on the right day as my throat started to feel sore earlier this afternoon.
+
 <!---->
 ## FRIDAY NOV 20
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **2**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
