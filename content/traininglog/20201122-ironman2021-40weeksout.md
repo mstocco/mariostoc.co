@@ -7,16 +7,16 @@ Week beginning Sunday, November 22, 2020
 &mdash; 
 
 ## SUMMARY
-I feel like was... <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
-
+I feel like was...   
+<sup>(filed out at the end of the week)</sup>
+<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
 <!---->
 ## SUNDAY NOV 22
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
-### PLANNED WORKOUT
-**We can pick 200/400/1000 goal times when we talk before this**   
+### PLANNED WORKOUT  
 Morning: 5-15 minutes of basic mobility (of your choice) to loosen up for the day. 
 Drive to the track (whatever track you like)  
 10 minutes easy jogging. 6x 100 strides, Ideally @ a touch SLOWER than 5k speed. Yes, these are pretty slow. Goal is to warm up. 100 meter EASY jog between each.   
@@ -36,7 +36,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Mobility: 22 Minutes
 
 ### NOTES
 Total Time: **0 minutes**
@@ -50,7 +50,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+1:30pm Swim 2000: 2x (150 easy free, 3x 50 swim w/ buoy/strong finish to stroke r :20) 12x 100 Gradual descend 1-4, 5-8 w/ #4/8 @ an effort you could hold for 5-7 minutes. R :30 after each. 100 steady kick, 100 easy swim to cool down. 
+
+Rollers 45 minutes. Keep it EASY
 
 ### NOTES
 Total Time: **0 minutes**
@@ -64,7 +66,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Mobility: 15 minutes.  
+Ride 60 minutes: 20 minutes easy to warm up. 10x 1:00 high cadence, 1:30 easy/normal riding after each. 15 minutes easy riding to finish up.   
+Run 45 minutes EASY. Flat route preferred. 
 
 ### NOTES
 Total Time: **0 minutes**
@@ -78,7 +82,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Run 75 minutes: 15 minutes easy to warm up. 8x :40 strides (Make sure they aren't too fast), 1:20 easy jog after each. Walk 2 minutes to make sure you're ready for.... 30 minutes @ a touch EASIER than 1/2 marathon effort. (5:10-5:25 pace) 12 minutes easy to cool down.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -92,7 +96,10 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Mobility: 17 minutes.   
+Ride 45 minutes easy on trainer or rollers. 
+Run 30 minutes. Flat route. EASY effort. 
+*These can be back to back, in either order*
 
 ### NOTES
 Total Time: **0 minutes**
@@ -106,12 +113,10 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Mobility: 21 minutes.    
+Ride 1:45 on road or MTB. A few hills would be nice. Overall an easy to moderate effort. Main goal is to get outside and have fun. Stay warm as well.
 
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
-
-
-<!---->
+&mdash;

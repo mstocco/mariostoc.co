@@ -16,7 +16,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Mobility: 12 minutes.   
+Run 75 minutes: 15 minutes easy to warm up. 10x 100 meter strides to loosen up/warm up, 100 meters very easy jogging between each. 6x 1000 meters @ 5k effort. Really trying to figure out your pace and rhythm. 4:23-4:27 pace. Leaving on the 6:00. Walking around to stay loose between each effort. 10ish minutes easy jogging to cool down.
 
 ### NOTES
 Total Time: **0 minutes**
