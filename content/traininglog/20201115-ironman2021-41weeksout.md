@@ -147,7 +147,7 @@ Sleep **3** | Fatigue **3** | Stress **4** | Soreness **2**
 Rollers 60 minutes: 20 minutes easy to warm up. 8x :45 high cadence, :15 easy after each. 2 minutes easy. 8x :30 slightly higher cadence, :30 easy. 2 minutes easy. 8x :15 HighEST cadence, :45 easy. Easy riding to cool down.
 
 ### NOTES
-A workout on the rollers was welcomed after a long day at work.  When it was time to spin, I was head down and spinning.  My legs felt **really good** tonight.
+A workout on the rollers was welcomed after a long day at work and my legs felt **really good** tonight.  When it was time to spin, I was head down and spinning.  
 
 ### CADENCE 
 ![Cadence Chart](/assets/jpg/cadence-20201120.jpeg?v2)
