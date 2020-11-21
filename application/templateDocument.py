@@ -27,6 +27,7 @@ class TemplateDocument(HTML5Document):
 			content = fileobj.read().strip()
 		
 		if self.documentURI.find('/traininglog/ironman') == 0:
+			self.body.onload = 'javascript:scroll();'
 			week = self.documentURI.split('-')[1].split('week')[0]
 			self.navigation.traininglog = True
 			self.navigation.week = week
