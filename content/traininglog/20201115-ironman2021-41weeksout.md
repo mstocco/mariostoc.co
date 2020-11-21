@@ -4,7 +4,7 @@ Week beginning [Sunday, November 15, 2020](javascript:flick('sun');)
 **41 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-[Last week](ironman2021-42weeksout), I saw a number of trigger-points and hotspots flare up.  My goal this week is to be more mindful regarding the maintenance work, do my best to stick to the plan and be healthy for the track workout [next Sunday](ironman2021-40weeksout).
+[Last week](ironman2021-42weeksout), I saw a number of trigger-points and hotspots flare up.  My goal this week is to be more mindful regarding the maintenance work, do my best to stick to the plan and be healthy for the track workout [next Sunday](ironman2021-40weeksout?sun).
 
 I have quality run work scheduled [this Sunday](javascript:flick('sun');) and again on [Wednesday](javascript:flick('wed');) and 2 pool sessions (COVID allowing).
 
@@ -45,7 +45,7 @@ More importantly, that tender left adductor went unnoticed during the 800s but I
 I felt **really good** with how this run went.
 
 ### POST RUN
-The Seahawks took another beating this week.  They play again this Thursday night, which makes [next Sunday](ironman2021-40weeksout) free for an important workout.
+The Seahawks took another beating this week.  They play again this Thursday night, which makes [next Sunday](ironman2021-40weeksout?sun) free for an important workout.
 
 ### POST GAME EASY SPIN
 Average Heart Rate: **105 BPM**
@@ -111,7 +111,7 @@ Total Time: **50 minutes**
 
 I had a decent sleep last night but I am a bit stiff this morning (hips/lumbar and soleus).
 
-This afternoon's run was a shortened version of the workout from last [Wednesday](ironman2021-42weeksout) but with a similar effort put in.  What was different was today, I ran in my Altra Escalante shoes and I got caught out in the rain.  The strides were done by feel (no pace alarm set in the watch) and apart from the first stride, they felt pretty normal.
+This afternoon's run was a shortened version of the workout from last [Wednesday](ironman2021-42weeksout?wed) but with a similar effort put in.  What was different was today, I ran in my Altra Escalante shoes and I got caught out in the rain.  The strides were done by feel (no pace alarm set in the watch) and apart from the first stride, they felt pretty normal.
 <!---->
 I love doing my best _"Rocky Balboa"_ impression running strides in front of the new boxing gym on _Harbour Road_.
 
@@ -147,12 +147,13 @@ Sleep **3** | Fatigue **3** | Stress **4** | Soreness **2**
 Rollers 60 minutes: 20 minutes easy to warm up. 8x :45 high cadence, :15 easy after each. 2 minutes easy. 8x :30 slightly higher cadence, :30 easy. 2 minutes easy. 8x :15 HighEST cadence, :45 easy. Easy riding to cool down.
 
 ### NOTES
-Total Time: **0 minutes**  
-&mdash; 
+Total Time: **56 minutes**  
+
+Workout on the rollers was welcomed after a long day at work.
 
 <!---->
 ## SATURDAY NOV 21
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **2** | Fatigue **3** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUTS
@@ -162,4 +163,5 @@ Run 30 minutes easy
 
 ### NOTES
 Total Time: **0 minutes**  
-&mdash; 
+
+Last night was an _"ok"_ sleep for the bulk of the night; I was up at 0550, did some business and fell back to sleep until 0755.  That second sleep was _"money"_ and just what I was needing.
