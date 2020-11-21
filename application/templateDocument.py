@@ -55,7 +55,7 @@ class TemplateDocument(HTML5Document):
 						else:
 							for day in ['MON','TUE','WED','THU','FRI','SAT']:
 								if section.innerHTML.find('<h2>%s' % day) == 0:
-									section.style = 'border-left:3px solid #e6e6e6;'
+									section.style = 'border-left:3px solid #e6e6e6;margin-left:7px;'
 									section._id = day.lower()
 					self.carousel.append(section)
 					lines = []
@@ -91,7 +91,7 @@ class TemplateDocument(HTML5Document):
 			section = CarouselText('\n'.join(lines))
 			if contentPath.find('traininglog') > 1:
 				if section.innerHTML.find('<h2>SAT') == 0:
-					section.style = 'border-left:3px solid #e6e6e6;'
+					section.style = 'border-left:3px solid #e6e6e6;margin-left:7px;'
 					section._id = 'sat'
 			self.carousel.append(section)
 		firstCell = SECTION({'class':'carousel-cell text','style':'width:300px;'})
