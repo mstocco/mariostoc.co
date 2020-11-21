@@ -149,8 +149,12 @@ Rollers 60 minutes: 20 minutes easy to warm up. 8x :45 high cadence, :15 easy af
 ### NOTES
 Total Time: **56 minutes**  
 
-Workout on the rollers was welcomed after a long day at work.
+A workout on the rollers was welcomed after a long day at work.  I had another UCI Road Race on the screen and when it was time to work, I was head down and working.
 
+### CADENCE 
+![Cadence Chart](/assets/jpg/cadence-20201220.jpeg)
+
+I stopped a bit early because the chamois I was wearing was beginning chafing.  Otherwise, I felt **really good** tonight.
 <!---->
 ## SATURDAY NOV 21
 Sleep **2** | Fatigue **3** | Stress **2** | Soreness **3**  
