@@ -181,7 +181,7 @@ Things started to breakdown further just before the 4km mark.  I even yelled at 
 
 The idea of starting a kick at 600m out was out the window; I was just thankful to hold whatever I could.  I did clock 49 seconds on the final 200m.
 
-For all of today's perceived suffering, I beat my time from [Halloween](ironman2021-44weeksout?sat) by 2 seconds.
+For all of today's perceived suffering, I did beat my time from [Halloween](ironman2021-44weeksout?sat) by 2 seconds.
 <!---->
 ### THE 200m SPLITS
 ![Pace Chart](/assets/jpg/pacechart-20201121.jpeg)
@@ -191,7 +191,7 @@ My task is to find something from this workout that I can hang on to and gain so
 
 Looking at the day's effort overall, I did mistakenly run the warm up faster than what Elliot asked for.  2 things happened in the warmup:
 
-The first being that I genuinely felt a **magnitude better** than normal when I did my first 100m stride.   That quite likely had put my confidence in the day higher than it should have been.
+The first being that I genuinely felt a **magnitude better** than normal when I did my first 100m stride.   That quite likely had put my confidence in the day, _higher_ than it should have been.
 <!---->
 The second thing that potentially tripped up my warm up was doing the strides in lane 3.  There was a guy doing his run on the inside lane; having a person to stride past made it way too easy to go faster than prescribed.  He'd catch me on my jogs in between only for me to whiz past him again.  Once a racer, always a racer.
 
