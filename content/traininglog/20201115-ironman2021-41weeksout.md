@@ -164,7 +164,7 @@ Swim @ 10am 1900: 4 Rounds (25, 50, 75 easy swimming. Rest as needed) 3 rounds (
 Run 30 minutes easy
 
 ### NOTES
-Total Time: **0 minutes**  
+Total Time: **40 minutes** &nbsp; 5000m Time: **22:30**  
 
 Last night was an _"ok"_ sleep for the bulk of the night; I was up at 0550, did some business and fell back to sleep until 0755.  That second sleep was _"money"_ and just what I was needing.
 
@@ -174,10 +174,8 @@ How about tomorrow's run today?
 
 The first 200m came in at 49s; that's too fast so I relaxed and reset my mental clock.  The next 200m was 53s; right on schedule and I did my best to lock onto that pace.  A few more 53s and I am feeling good about the day.  The first time I saw a 54 on my watch, I followed it up with a 52 second 200m effort.  I levelled up that last lap but that was the start of a series of 54 second half laps.
 
-Things started to breakdown further just before the 4km mark.  I even yelled at myself to _"keep digging!"_  My mind wandered with questions of _"why?"  Was it the spinning on the bike last night?  Was it the extra weight I have been packing around lately?  Was this because I am just slow?
+Things started to breakdown further just before the 4km mark.  I even yelled at myself to _"keep digging!"_  My mind wandered with questions of _"why?"_  Was it the spinning on the bike last night?  Was it the extra weight I have been packing around lately?  Was this because I am just slow?
 
-Thoughts of stating a kick at 600m out were non-existent.  I was just thankful to hold whatever I could.  I did stretch it out on the final 200m for a 49 second block of time.
-
-For all of today's work, I beat my time on [Halloween](ironman2021-43weeksout?sat) by 2 seconds.
+Thoughts of starting a kick at 600m out were non-existent.  I was just thankful to hold whatever I could.  I did stretch it out on the final 200m for a 49 second block of time.  For all of today's work, I beat my time on [Halloween](ironman2021-44weeksout?sat) by 2 seconds.
 
 
