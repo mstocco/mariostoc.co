@@ -170,7 +170,7 @@ Total Time: **40 minutes** &nbsp; 5000m Time: **22:30**
 
 Last night was an _"ok"_ sleep for the bulk of the night; I was up at 0550, did some business and fell back to sleep until 0755.  That second sleep was _"money"_ and just what I was needing.
 
-A good night's rest aside, I puttered around this morning thinking I had booked another afternoon swim.  At noon, I have my swim kit by the front door but if I was on the ball, I would have finished the swim 15 minutes ago.  What to do?
+A good night's rest aside, I puttered around this morning thinking I had booked another afternoon swim.  At noon, I have my swim kit by the front door but if I was on the ball, I would have finished the swim already.  **What to do?**
 <!---->
 ### TOMORROW'S RUN TODAY
 It was again the track at _Oak Bay_ for this 5 km.
@@ -197,4 +197,4 @@ The second thing that potentially tripped up my warm up was doing the strides in
 
 Even the warmup's 200m was fast at 49 seconds (4:05/km) but honestly, this 200m felt **effortless** and visually, it looked like what I have been running on the track for weeks.
 
-The next realization I need to focus on is that the time before 16 minutes may have been an increasingly hard effort, but it was still controlled and manageable.  This reduces the _"suffer-time"_ from +22 minutes to just 7 minutes.  Sitting back, after the workout, is 7 minutes such a big ask?
+The next realization I need to focus on is that the time before 16 minutes may have been an increasingly hard effort, but it was still controlled and manageable.  This reduces the _"suffer-time"_ from +22 minutes to just 7 minutes.  Sitting back and thinking about it after the workout, is 7 minutes such a big ask?
