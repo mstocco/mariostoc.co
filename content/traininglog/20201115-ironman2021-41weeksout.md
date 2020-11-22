@@ -179,5 +179,10 @@ Things started to breakdown further just before the 4km mark.  I even yelled at 
 Thoughts of starting a kick at 600m out were out the window; I was just thankful to hold whatever I could.  I did clock 49 seconds on the final 200m.
 
 For all of today's work, I beat my time on [Halloween](ironman2021-44weeksout?sat) by 2 seconds.
+<!---->
+### 200m SPLITS
+![Pace Chart](/assets/jpg/pacechart-20201121.jpeg)
+
+
 
 
