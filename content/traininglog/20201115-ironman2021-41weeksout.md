@@ -173,11 +173,13 @@ Last night was an _"ok"_ sleep for the bulk of the night; I was up at 0550, did 
 A good night's rest aside, I puttered around this morning thinking I had booked another afternoon swim.  At noon, I have my swim kit by the front door but if I was on the ball, I would have finished the swim 15 minutes ago.  What to do?
 <!---->
 ### TOMORROW'S RUN TODAY
-The first 200m came in at 49s; that's too fast so I relaxed and reset my mental clock.  The next 200m was 53s; right on schedule and I did my best to lock onto that pace.  A few more 53s and I am feeling good about the day.  The first time I saw a 54 on my watch, I followed it up with a 52 second 200m effort.  I levelled up that last lap but that was the start of a series of 54 second half laps.
+I headed to the track at _Oak Bay_ for the 5 km workout.
 
-Things started to breakdown further just before the 4km mark.  I even yelled at myself to _"keep digging!"_  My mind wandered with questions of _"why?"_  Was it the spinning on the bike last night?  Was it the extra weight I have been packing around lately?  Was this because I am just slow?
+The first 200m came in at 49s; that's too fast so I relaxed and reset my mental clock.  The next 200m was 53s; right on schedule and I did my best to lock onto that pace.  I saw the third 200 at 54s on my watch; I followed that up with a 52 second 200m effort.  I levelled up that last lap and that was the start of a series of 53 and 54 second half laps.
 
-Thoughts of starting a kick at 600m out were out the window; I was just thankful to hold whatever I could.  I did clock 49 seconds on the final 200m.
+Things started to breakdown further just before the 4km mark.  I even yelled at myself outloud _"keep digging!"_  With fatigue setting in, my mind wandered with questions of _"why?"_  Was it the spinning on the bike last night?  Was it the extra weight I have been packing around lately?  Was this because I am just slow?
+
+The idea of starting a kick at 600m out was out the window; I was just thankful to hold whatever I could.  I did clock 49 seconds on the final 200m.
 
 For all of today's work, I beat my time on [Halloween](ironman2021-44weeksout?sat) by 2 seconds.
 <!---->
