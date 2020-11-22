@@ -141,7 +141,7 @@ Terrible sleep with night sweats; I woke up feeling more tired than when I when 
 This was an end to a couple of streaks.   The Seahawks ended their 2 game losing skid with a solid game against the Cardinals last night.  The other streak was my not missing a workout in a long while.  Work hit me with a project due by tomorrow morning and I didn't finish it until 15 minutes into the Hawks Post-Game Show.  As much of bummer it is seeing my workout streak end, it may have happened on the right day as my throat started to feel sore earlier this afternoon.
 
 <!---->
-## FRIDAY NOV 20
+## FRIDAY NOV 20 ⛅️
 Sleep **3** | Fatigue **3** | Stress **4** | Soreness **2**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -156,7 +156,7 @@ A workout on the rollers was welcomed after a long day at work and my legs felt 
 ![Cadence Chart](/assets/jpg/cadence-20201120.jpeg?v2)
 
 <!---->
-## SATURDAY NOV 21
+## SATURDAY NOV 21 ☁️
 Sleep **2** | Fatigue **3** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 

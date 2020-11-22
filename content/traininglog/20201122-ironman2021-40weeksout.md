@@ -4,7 +4,7 @@ Week beginning Sunday, November 22, 2020
 **40 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-&mdash; 
+I am starting this week after doing this Sunday's workout [yesterday](ironman2021-41weeksout?sat).  That run has me thinking about the mental component to race efforts and what I can do to improve that as I prep for a 5K TT in 2 weeks.
 
 ## SUMMARY
 I feel like was...   
@@ -13,7 +13,7 @@ I feel like was...
 
 <!---->
 ## SUNDAY NOV 22
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **2** | Fatigue **5** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT  
@@ -27,8 +27,9 @@ Then... 200 meters @ what you think you might hold for a 5k. Walk 200-400 meters
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+TODAY'S WORKING WAS RUN [YESTERDAY](ironman2021-41weeksout?sat).
 
+I slept pretty soundly last night.  The legs are feeling smoked from [yesterday](ironman2021-41weeksout?sat).
 
 <!---->
 ## MONDAY NOV 23
