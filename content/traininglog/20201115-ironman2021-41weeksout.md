@@ -168,4 +168,6 @@ Total Time: **0 minutes**
 
 Last night was an _"ok"_ sleep for the bulk of the night; I was up at 0550, did some business and fell back to sleep until 0755.  That second sleep was _"money"_ and just what I was needing.
 
-A good night's rest aside, this was a tough day at the office so to speak.  I whiffed on the time I had booked for the morning swim.  The last two swims have been in the afternoon and I was mentally ready for another afternoon trip to Esquimalt.  It is noon, I have my swim kit at the front door and if I was on the ball, I would have gotten out of the water 15 minutes ago.
+A good night's rest aside, I puttered around this morning thinking I had booked another afternoon swim.  At noon, I have my swim kit by the front door but if I was on the ball, I would have finished the swim 15 minutes ago.  What to do?
+<!---->
+How about tomorrow's run today?
