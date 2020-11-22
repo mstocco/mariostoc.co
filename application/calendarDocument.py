@@ -63,7 +63,7 @@ class CalendarMonth(DIV):
 				href = 'ironman2021-%dweeksout' % weeknum
 				if weeknum < 2:
 					wk.innerHTML = 'RACE'
-					href = 'ironman2021-receweek'
+					href = 'ironman2021-raceweek'
 					if weeknum < 1:
 						wk.innerHTML = '-'
 				tr = TR()
