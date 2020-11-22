@@ -171,3 +171,13 @@ Last night was an _"ok"_ sleep for the bulk of the night; I was up at 0550, did 
 A good night's rest aside, I puttered around this morning thinking I had booked another afternoon swim.  At noon, I have my swim kit by the front door but if I was on the ball, I would have finished the swim 15 minutes ago.  What to do?
 <!---->
 How about tomorrow's run today?
+
+The first 200m came in at 49s; that's too fast so I relaxed and reset my mental clock.  The next 200m was 53s; right on schedule and I did my best to lock onto that pace.  A few more 53s and I am feeling good about the day.  The first time I saw a 54 on my watch, I followed it up with a 52 second 200m effort.  I levelled up that last lap but that was the start of a series of 54 second half laps.
+
+Things started to breakdown further just before the 4km mark.  I even yelled at myself to _"keep digging!"_  My mind wandered with questions of _"why?"  Was it the spinning on the bike last night?  Was it the extra weight I have been packing around lately?  Was this because I am just slow?
+
+Thoughts of stating a kick at 600m out were non-existent.  I was just thankful to hold whatever I could.  I did stretch it out on the final 200m for a 49 second block of time.
+
+For all of today's work, I beat my time on [Halloween](ironman2021-43weeksout?sat) by 2 seconds.
+
+
