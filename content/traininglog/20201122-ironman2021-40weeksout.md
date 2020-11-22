@@ -27,7 +27,7 @@ Then... 200 meters @ what you think you might hold for a 5k. Walk 200-400 meters
 ### NOTES
 Today's workout was run [yesterday](ironman2021-41weeksout?sat).
 
-I slept pretty soundly last night.  The legs are feeling smoked from [yesterday](ironman2021-41weeksout?sat).
+I slept pretty soundly last night.  The legs are feeling smoked (left more so than the right).
 
 <!---->
 ## MONDAY NOV 23
