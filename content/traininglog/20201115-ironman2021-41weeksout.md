@@ -187,16 +187,14 @@ For all of today's perceived suffering, I beat my time from [Halloween](ironman2
 ![Pace Chart](/assets/jpg/pacechart-20201121.jpeg)
 
 ### WHAT NOW?
-My task is to find something from this workout that I can hang on to to find the mental confidence for another attempt at this in 2 weeks.  This may be harder than the 5k itself.
+My task is to find something from this workout that I can hang on to and gain some mental confidence for another attempt at this distance in 2 weeks.  This may be harder than the 5k itself.
 
 Looking at the day's effort overall, I did mistakenly run the warm up faster than what Elliot asked for.  2 things happened in the warmup:
 
-The first being that I genuinely felt a magnitude better than normal when I did my first 100m stride.   That quite likely had put my confidence in the day higher than it should have been.
+The first being that I genuinely felt a **magnitude better** than normal when I did my first 100m stride.   That quite likely had put my confidence in the day higher than it should have been.
 <!---->
-The second thing that potentially tripped up my warm up was doing the strides in lane 3.  There was a guy doing his run on the inside lane; having a person to stride past made it way too easy to go faster than prescribed.  He'd catch me on my jogs in between only for me to whiz past him.  Once a racer, always a racer.
+The second thing that potentially tripped up my warm up was doing the strides in lane 3.  There was a guy doing his run on the inside lane; having a person to stride past made it way too easy to go faster than prescribed.  He'd catch me on my jogs in between only for me to whiz past him again.  Once a racer, always a racer.
 
-Even the warmup's 200m was fast at 49 seconds (4:05/km) but honestly, this 200m felt effortless and visually, it looked like what I have been running on the track for weeks.
+Even the warmup's 200m was fast at 49 seconds (4:05/km) but honestly, this 200m felt **effortless** and visually, it looked like what I have been running on the track for weeks.
 
-
-
-
+The next realization I need to focus on is that the time before 16 minutes may have been an increasingly hard effort, but it was still controlled and manageable.  This reduces the _"suffer-time"_ from +22 minutes to just 7 minutes.  Sitting back, after the workout, is 7 minutes such a big ask?
