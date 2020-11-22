@@ -176,6 +176,8 @@ The first 200m came in at 49s; that's too fast so I relaxed and reset my mental 
 
 Things started to breakdown further just before the 4km mark.  I even yelled at myself to _"keep digging!"_  My mind wandered with questions of _"why?"_  Was it the spinning on the bike last night?  Was it the extra weight I have been packing around lately?  Was this because I am just slow?
 
-Thoughts of starting a kick at 600m out were non-existent.  I was just thankful to hold whatever I could.  I did stretch it out on the final 200m for a 49 second block of time.  For all of today's work, I beat my time on [Halloween](ironman2021-44weeksout?sat) by 2 seconds.
+Thoughts of starting a kick at 600m out were out the window; I was just thankful to hold whatever I could.  I did clock 49 seconds on the final 200m.
+
+For all of today's work, I beat my time on [Halloween](ironman2021-44weeksout?sat) by 2 seconds.
 
 
