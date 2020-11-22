@@ -4,16 +4,16 @@ Week beginning [Sunday, November 15, 2020](javascript:flick('sun');)
 **41 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-[Last week](ironman2021-42weeksout), I saw a number of trigger-points and hotspots flare up.  My goal this week is to be more mindful regarding the maintenance work, do my best to stick to the plan and be healthy for the track workout ~~next Sunday~~ [this Saturday](javascript:flick('sat');).
+[Last week](ironman2021-42weeksout), I saw a number of trigger-points and hotspots flare up.  My goal this week is to be more mindful regarding the maintenance work, do my best to stick to the plan and be healthy for the track workout <strike>next Sunday</strike> [this Saturday](javascript:flick('sat');).
 
 I have quality run work scheduled [this Sunday](javascript:flick('sun');) and again on [Wednesday](javascript:flick('wed');) and 2 pool sessions (COVID allowing).
 
 ## SUMMARY
 I feel like was **SOMEWHAT PRODUCTIVE**.
 
-The GOOD:  Lots of high quality running and the extra work on the niggles has been paying off.  I was mentally more productive at work too. 
+The GOOD:  Lots of high quality running stimulus and the extra work on the niggles has been paying off.  I was mentally more productive at work too. 
 
-The BAD: I missed a base run on Thursday (felt a bit run-down) and mentally whiffed on what time my swim was scheduled and paid for on Saturday.
+The BAD: I missed a base run on [Thursday](javascript:flick('thu');) (felt run-down) and mentally whiffed on the time of my scheduled (paid for) swim on [Saturday](javascript:flick('sat');).
 
 ![I took this picture on my way home from PISE on Sunday](/assets/jpg/IMG_2941-977x550.jpeg Colquitz River Park)
 ## SUNDAY NOV 15 ☁️
@@ -184,6 +184,17 @@ For all of today's work, I beat my time on [Halloween](ironman2021-44weeksout?sa
 ### THE 200m SPLITS
 ![Pace Chart](/assets/jpg/pacechart-20201121.jpeg)
 
-### WHAT NOW
-My task is to find something from this workout that I can hang on to to find the mental confidence for another attempt at this in 2 weeks.  This may be harder than the 5k itself. 
+### WHAT NOW?
+My task is to find something from this workout that I can hang on to to find the mental confidence for another attempt at this in 2 weeks.  This may be harder than the 5k itself.
+
+Looking at the day's effort overall, I did mistakenly run the warm up faster than what Elliot asked for.  2 things happened in the warmup:
+
+The first being that I genuinely felt a magnitude better than normal when I did my first 100m stride.   That quite likely had put my confidence in the day higher than it should have been.
+
+The second thing that potentially tripped up my warm up was doing the strides in lane 3.  There was a guy doing his run on the inside lane; having a person to stride past made it way too easy to go faster than prescribed.  He'd catch me on my jogs in between only for me to whiz past him.  Once a racer, always a racer.
+
+Even the warmup's 200m was fast at 49 seconds (4:05/km) but honestly, this 200m felt effortless and visually, it looked like what I have been running on the track for weeks.
+
+
+
 
