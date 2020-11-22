@@ -121,6 +121,7 @@ The tempo effort was on schedule too; maybe a touch fast along the Selkirk area 
 ![Pace Chart](/assets/jpg/pacechart-20201118.jpeg)
 
 The bike was an easy effort tonight but I really noticed this afternoon's workout.  The quads are feeling cooked.  Time for bed.
+
 <!---->
 ## THURSDAY NOV 19 🌦
 Sleep **5** | Fatigue **4** | Stress **4** | Soreness **4**  
@@ -149,7 +150,7 @@ Rollers 60 minutes: 20 minutes easy to warm up. 8x :45 high cadence, :15 easy af
 ### NOTES
 A workout on the rollers was welcomed after a long day at work and my legs felt **really good** tonight.  When it was time to spin, I was head down and spinning.  
 
-### CADENCE 
+### FRIDAY NIGHT CADENCES 
 ![Cadence Chart](/assets/jpg/cadence-20201120.jpeg?v2)
 
 <!---->
@@ -166,3 +167,5 @@ Run 30 minutes easy
 Total Time: **0 minutes**  
 
 Last night was an _"ok"_ sleep for the bulk of the night; I was up at 0550, did some business and fell back to sleep until 0755.  That second sleep was _"money"_ and just what I was needing.
+
+A good night's rest aside, this was a tough day at the office so to speak.  I whiffed on the time I had booked for the morning swim.  The last two swims have been in the afternoon and I was mentally ready for another afternoon trip to Esquimalt.  It is noon, I have my swim kit at the front door and if I was on the ball, I would have gotten out of the water 15 minutes ago.
