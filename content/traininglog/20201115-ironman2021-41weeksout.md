@@ -173,9 +173,9 @@ Last night was an _"ok"_ sleep for the bulk of the night; I was up at 0550, did 
 A good night's rest aside, I puttered around this morning thinking I had booked another afternoon swim.  At noon, I have my swim kit by the front door but if I was on the ball, I would have finished the swim already.  **What to do?**
 <!---->
 ### TOMORROW'S RUN TODAY
-It was again the track at _Oak Bay_ for this 5 km.
+Back to the _Oak Bay Track_ for another 5 km.
 
-The first 200m came in at 49s; that's too fast so I relaxed and reset my mental clock.  The next 200m was 53s; right on schedule and I did my best to lock onto that pace.  I saw the third 200 a little too relaxed at 54s; I followed that up with a 52 second 200m effort.  With that last lap levelled up, I then had series of 53 and 54 second half laps.
+The first 200m came in at 49 seconds; that's too fast so I relaxed and reset my mental clock.  The next 200m was 53s; right on schedule and I did my best to lock onto that pace.  I saw the third 200 a little too relaxed at 54s; I followed that up with a 52 s 200m effort.  With that last lap levelled up, I then had series of 53 and 54 second half laps.
 
 Things started to really breakdown just before the 4km mark.  I even yelled at myself outloud _"keep digging!"_  &nbsp;With fatigue setting in, my mind wandered with questions of _"why?" &nbsp;Was it the spinning on the bike [last night](javascript:flick('fri');)?  Was it the extra weight I have been packing around lately?  Do I really have to accept I am just slow?_
 
