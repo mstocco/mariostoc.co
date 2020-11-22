@@ -14,8 +14,8 @@ class CalendarMonth(DIV):
 
 		specialDates = []
 		specialDates.append(date(2021,8,29))		# Ironman Canada
-		specialDates.append(date(2020,10,31))
-		specialDates.append(date(2020,11,22))
+		specialDates.append(date(2020,10,31))	# 5K Workout
+		specialDates.append(date(2020,11,21))	# 5K Workout
 		specialDates.append(date(2020,12,5))		# 5KM TT
 		specialDates.append(date(2021,5,16))		# Westwood Lake Triathlon
 		specialDates.append(date(2021,8,1))		# Elk Lake Triathlon
