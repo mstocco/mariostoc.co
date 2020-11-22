@@ -173,15 +173,15 @@ Last night was an _"ok"_ sleep for the bulk of the night; I was up at 0550, did 
 A good night's rest aside, I puttered around this morning thinking I had booked another afternoon swim.  At noon, I have my swim kit by the front door but if I was on the ball, I would have finished the swim 15 minutes ago.  What to do?
 <!---->
 ### TOMORROW'S RUN TODAY
-I headed to the track at _Oak Bay_ for the 5 km workout.
+It was again the track at _Oak Bay_ for this 5 km.
 
 The first 200m came in at 49s; that's too fast so I relaxed and reset my mental clock.  The next 200m was 53s; right on schedule and I did my best to lock onto that pace.  I saw the third 200 at 54s on my watch; I followed that up with a 52 second 200m effort.  I levelled up that last lap and that was the start of a series of 53 and 54 second half laps.
 
-Things started to breakdown further just before the 4km mark.  I even yelled at myself outloud _"keep digging!"_  With fatigue setting in, my mind wandered with questions of _"why?"_  Was it the spinning on the bike last night?  Was it the extra weight I have been packing around lately?  Was this because I am just slow?
+Things started to breakdown further just before the 4km mark.  I even yelled at myself outloud _"keep digging!"_  &nbsp;With fatigue setting in, my mind wandered with questions of _"why?"_  &nbsp;Was it the spinning on the bike last night?  Was it the extra weight I have been packing around lately?  Was this because I am just slow?
 
 The idea of starting a kick at 600m out was out the window; I was just thankful to hold whatever I could.  I did clock 49 seconds on the final 200m.
 
-For all of today's work, I beat my time on [Halloween](ironman2021-44weeksout?sat) by 2 seconds.
+For all of today's perceived suffering, I beat my time from[Halloween](ironman2021-44weeksout?sat) by 2 seconds.
 <!---->
 ### THE 200m SPLITS
 ![Pace Chart](/assets/jpg/pacechart-20201121.jpeg)
@@ -192,7 +192,7 @@ My task is to find something from this workout that I can hang on to to find the
 Looking at the day's effort overall, I did mistakenly run the warm up faster than what Elliot asked for.  2 things happened in the warmup:
 
 The first being that I genuinely felt a magnitude better than normal when I did my first 100m stride.   That quite likely had put my confidence in the day higher than it should have been.
-
+<!---->
 The second thing that potentially tripped up my warm up was doing the strides in lane 3.  There was a guy doing his run on the inside lane; having a person to stride past made it way too easy to go faster than prescribed.  He'd catch me on my jogs in between only for me to whiz past him.  Once a racer, always a racer.
 
 Even the warmup's 200m was fast at 49 seconds (4:05/km) but honestly, this 200m felt effortless and visually, it looked like what I have been running on the track for weeks.
