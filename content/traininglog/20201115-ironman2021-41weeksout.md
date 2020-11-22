@@ -177,11 +177,11 @@ It was again the track at _Oak Bay_ for this 5 km.
 
 The first 200m came in at 49s; that's too fast so I relaxed and reset my mental clock.  The next 200m was 53s; right on schedule and I did my best to lock onto that pace.  I saw the third 200 at 54s on my watch; I followed that up with a 52 second 200m effort.  I levelled up that last lap and that was the start of a series of 53 and 54 second half laps.
 
-Things started to breakdown further just before the 4km mark.  I even yelled at myself outloud _"keep digging!"_  &nbsp;With fatigue setting in, my mind wandered with questions of _"why?"_  &nbsp;Was it the spinning on the bike last night?  Was it the extra weight I have been packing around lately?  Was this because I am just slow?
+Things started to breakdown further just before the 4km mark.  I even yelled at myself outloud _"keep digging!"_  &nbsp;With fatigue setting in, my mind wandered with questions of _"why?" &nbsp;Was it the spinning on the bike [last night](javascript:flick('fri');)?  Was it the extra weight I have been packing around lately?  Do I really have to accept I am just slow?_
 
 The idea of starting a kick at 600m out was out the window; I was just thankful to hold whatever I could.  I did clock 49 seconds on the final 200m.
 
-For all of today's perceived suffering, I beat my time from[Halloween](ironman2021-44weeksout?sat) by 2 seconds.
+For all of today's perceived suffering, I beat my time from [Halloween](ironman2021-44weeksout?sat) by 2 seconds.
 <!---->
 ### THE 200m SPLITS
 ![Pace Chart](/assets/jpg/pacechart-20201121.jpeg)
