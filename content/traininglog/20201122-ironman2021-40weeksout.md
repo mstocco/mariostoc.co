@@ -25,9 +25,7 @@ Then... 200 meters @ what you think you might hold for a 5k. Walk 200-400 meters
 5 minutes walking. Then 10 minutes EASY jogging to cool down. 
 
 ### NOTES
-Total Time: **0 minutes**
-
-TODAY'S WORKING WAS RUN [YESTERDAY](ironman2021-41weeksout?sat).
+Today's workout was run [yesterday](ironman2021-41weeksout?sat).
 
 I slept pretty soundly last night.  The legs are feeling smoked from [yesterday](ironman2021-41weeksout?sat).
 
