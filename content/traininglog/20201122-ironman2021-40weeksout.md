@@ -27,7 +27,7 @@ This spot looks like a great place for an open water swim next summer.
 
 <!---->
 ## MONDAY NOV 23
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **2** | Fatigue **3** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -36,7 +36,7 @@ Mobility: 22 Minutes
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Another good sleep last night and I am feeling pretty good overall.
 
 
 <!---->

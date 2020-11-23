@@ -264,7 +264,6 @@ got back to the truck for the drive home.  Damn it.
 * Even if I didn't get the full distance in this afternoon, I do have lap time data and a good training stimulus out of the activity.
 * Maybe slow down a bit on the _"warm up"_.
 
-
 ### OTHER TAKE AWAYS
 <ul class="iconlist">
 <li class="pr">2 Mile: 14:00</li>
@@ -272,17 +271,4 @@ got back to the truck for the drive home.  Damn it.
 <li class="pr">1 KM: 3:59</li>
 <li class="pr">.5 Mile: 3:11</li>
 <li class="pr">400 m: 92 seconds</li>
-</ul>
-
-
-<!---->
-## CURRENT TRAINING WEEK
-<ul class="iconlist">
-<li class="page"><a href="ironman2021-49weeksout">September 20, 2020 - 49 Weeks Out</a></li>
-</ul>
-
-## PREVIOUS TRAINING WEEKS
-<ul class="iconlist">
-<li class="page"><a href="ironman2021-51weeksout">September 6, 2020 - 51 Weeks Out</a></li>
-<li class="page"><a href="ironman2021-52weeksout">August 30, 2020 - 52 Weeks Out</a></li>
 </ul>

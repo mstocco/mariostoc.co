@@ -189,7 +189,8 @@ For all of today's perceived suffering, I did beat my time from [Halloween](iron
 ### WHAT NOW?
 My task is to find something from this workout that I can hang on to and gain some mental confidence for another attempt at this distance in 2 weeks.  This may be harder than the 5k itself.
 
-Looking at the day's effort overall, I did mistakenly run the warm up faster than what Elliot asked for.  2 things happened in the warmup:
+### REVIEW AND REFRAME
+I did mistakenly run the warm up faster than what Elliot asked for.  2 things happened in the warmup:
 
 The first being that I genuinely felt a **magnitude better** than normal when I did my first 100m stride.   That quite likely had put my confidence in the day, _higher_ than it should have been.
 <!---->
@@ -197,4 +198,6 @@ The second thing that potentially tripped up my warm up was doing the strides in
 
 Even the warmup's 200m was fast at 49 seconds (4:05/km) but honestly, this 200m felt **effortless** and visually, it looked like what I have been running on the track for weeks.
 
-The next realization I need to focus on is that the time before 16 minutes may have been an increasingly hard effort, but it was still controlled and manageable.  This reduces the _"suffer-time"_ from +22 minutes to just 7 minutes.  Sitting back and thinking about it after the workout, is 7 minutes such a big ask?
+The next realization I need to focus on is that the time before 16 minutes may have been an increasingly hard effort, but it was still controlled and manageable.  This reduces the _"suffer-time"_ from +22 minutes to just 7 minutes.  Sitting back and thinking about it after the workout, is 7 minutes such a big ask?  Probably not.
+
+2 seconds is not a significant jump in two weeks, especially when my hopes are pinned on being a minute faster, but if I _"readjust the lens"_ this to include where I was on [September 19th](ironman2021-50weeksout?sat), then a much happier picture comes into focus.
