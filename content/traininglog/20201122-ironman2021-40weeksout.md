@@ -1,5 +1,5 @@
 # IRONMAN TRAINING 2021
-Week beginning Sunday, November 22, 2020
+Week beginning Sunday, [November 22, 2020](javascript:flick('sun');)
 
 **40 weeks** until IRONMAN Canada.
 
@@ -11,7 +11,7 @@ I feel like was...
 <sup>(filed out at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
-![I think I found a swimming hole for next summer](/assets/jpg/mathesonlake-977x550.jpeg?v2 Matheson Lake Regional Park)
+![This spot looks like a great place for an open water swim next summer.](/assets/jpg/mathesonlake-977x550.jpeg?v2 Matheson Lake Regional Park)
 
 ## SUNDAY NOV 22
 Sleep **2** | Fatigue **5** | Stress **2** | Soreness **4**  
@@ -21,9 +21,7 @@ Sleep **2** | Fatigue **5** | Stress **2** | Soreness **4**
 Today's scheduled workout of a paced, 5000m run on a track was completed [yesterday](ironman2021-41weeksout?sat). 
 
 ### NOTES
-I slept pretty soundly last night.  Regardless, both legs are feeling smoked (left more so than the right) so instead of a recovery run (or bike), Carina and I drove out to _East Sooke_ and did a walk/hike on the _Matheson Lake Trail_.  Chalk it down as 2 hours of light activity though the trail was a bit hilly on the south side of the lake. 
-
-This spot looks like a great place for an open water swim next summer.
+I slept pretty soundly last night.  Regardless, both legs are feeling smoked (left more so than the right) so instead of a recovery run (or bike), Carina and I drove out to _East Sooke_ and did a walk/hike on the _Matheson Lake Trail_.  Chalk it down as 2 hours of **light activity** though the trail was a bit hilly on the south side of the lake. 
 
 ### TRAIL ELEVATION CHART
 ![Elevation Chart](/assets/jpg/elevation-20201122.jpeg)
