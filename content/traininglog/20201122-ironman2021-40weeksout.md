@@ -11,8 +11,9 @@ I feel like was...
 <sup>(filed out at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
-<!---->
-## SUNDAY NOV 22
+![I think I found a swimming hole for next summer](/assets/jpg/mathesonlake-977x550.jpeg Matheson Lake Regional Park)
+
+ ## SUNDAY NOV 22
 Sleep **2** | Fatigue **5** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 

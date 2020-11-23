@@ -42,16 +42,17 @@ class CalendarMonth(DIV):
 		daynum = 0
 		calObj = Calendar(6)	# Sunday being the first day of the week
 		for calDate in calObj.itermonthdates(yyyy, mm):
+			td = TD()
 			style = {'style':'text-align:right;padding:0 2px;margin:0;width:25px;'}
 			if calDate.month != mm:
 				style['style'] = '%s;color:#ddd;' % style['style']
 			else:
 				if calDate <= date.today() or calDate == imc:
-					style['style'] = '%s;background-color:greenyellow;' % style['style']
+					style['style']	` = '%s;background-color:greenyellow;' % style['style']
 				if calDate in specialDates:
 					style['style'] = '%s;font-weight:bold;text-decoration:underline;font-size:1.17em' % style['style']
 
-			td = TD(style)
+			td.style = style
 			td.innerHTML = str(calDate.day)
 			if daynum % 7 == 0:
 				wtg = imc - calDate
