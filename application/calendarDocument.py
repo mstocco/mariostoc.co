@@ -48,7 +48,7 @@ class CalendarMonth(DIV):
 				style['style'] = '%s;color:#ddd;' % style['style']
 			else:
 				if calDate <= date.today() or calDate == imc:
-					style['style']	` = '%s;background-color:greenyellow;' % style['style']
+					style['style'] = '%s;background-color:greenyellow;' % style['style']
 				if calDate in specialDates:
 					style['style'] = '%s;font-weight:bold;text-decoration:underline;font-size:1.17em' % style['style']
 
