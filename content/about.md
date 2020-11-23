@@ -14,12 +14,11 @@ Before Distributel, I spent over a decade as a contractor for hire,
 building custom tele-<wbr />communication solutions for customers from
 Florida to California and all across Canada.
 
-I can also be found on <a href="https://www.strava.com/athletes/21702937" target="_blank">Strava</a>
-and [Garmin](https://connect.garmin.com/modern/profile/_canadian) as 
-I run, bike and swim in preparation to complete my first IRONMAN triathlon.
+In my free time, I can be found running, biking and swimming in preparation to complete my first IRONMAN triathlon; 
+specifically Ironman Canada - Penticton on August 29th, 2021.
 
-I am documenting the build toward the 2021 Ironman Canada - Penticton [here](/traininglog/).
+I am documenting that process daily in my [TRAINING LOG](/traininglog/).
 
 <!-- ![Haleakalā, Maui](/assets/jpg/IMG_2467-976x550.jpg 10,023ft above the Pacific) -->
-![On my 47th birthday, I ran a half marathon in Savona, Italy](/assets/jpg/IMG_0442-392x550.jpeg 2018 SAVONA MEZZA MARATONA)
+![On my 47th birthday, I ran a half marathon in Savona, Italy](/assets/jpg/IMG_0442-550x550.jpeg 2018 SAVONA MEZZA MARATONA)
 
