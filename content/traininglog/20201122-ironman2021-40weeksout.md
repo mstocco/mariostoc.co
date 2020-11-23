@@ -23,6 +23,8 @@ Today's scheduled workout of a paced, 5000m run on a track was completed [yester
 ### NOTES
 I slept pretty soundly last night.  Regardless, both legs are feeling smoked (left more so than the right) so instead of a recovery run (or bike), Carina and I drove out to _East Sooke_ and did a walk/hike on the _Matheson Lake Trail_.  Chalk it down as 2 hours of light activity though the trail was a bit hilly on the south side of the lake. 
 
+This spot looks like a great place for an open water swim next summer.
+
 <!---->
 ## MONDAY NOV 23
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
