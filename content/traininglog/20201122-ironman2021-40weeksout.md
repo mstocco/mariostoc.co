@@ -18,10 +18,10 @@ Sleep **2** | Fatigue **5** | Stress **2** | Soreness **4**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT 
-Today's scheduled workout of a paced 5000m run on a track was run [yesterday](ironman2021-41weeksout?sat). 
+Today's scheduled workout of a paced, 5000m run on a track was completed [yesterday](ironman2021-41weeksout?sat). 
 
 ### NOTES
-I slept pretty soundly last night.  Regardless, both legs are feeling smoked (left more so than the right) so instead of a recovery run, Carina and I drove out to _East Sooke_ and did a walk/hike on the Matheson Lake Trail.  Chalk it down as 2 hours of light activity though it was a bit hilly on the south side of the lake. 
+I slept pretty soundly last night.  Regardless, both legs are feeling smoked (left more so than the right) so instead of a recovery run (or bike), Carina and I drove out to _East Sooke_ and did a walk/hike on the _Matheson Lake Trail_.  Chalk it down as 2 hours of light activity though the trail was a bit hilly on the south side of the lake. 
 
 <!---->
 ## MONDAY NOV 23
