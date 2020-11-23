@@ -25,6 +25,9 @@ I slept pretty soundly last night.  Regardless, both legs are feeling smoked (le
 
 This spot looks like a great place for an open water swim next summer.
 
+### TRAIL ELEVATION CHART
+![Elevation Chart](/assets/jpg/elevation-20201122.jpeg)
+
 <!---->
 ## MONDAY NOV 23
 Sleep **2** | Fatigue **3** | Stress **2** | Soreness **3**  
