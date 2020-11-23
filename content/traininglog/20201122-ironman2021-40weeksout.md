@@ -1,5 +1,5 @@
 # IRONMAN TRAINING 2021
-Week beginning Sunday, [November 22, 2020](javascript:flick('sun');)
+Week beginning [Sunday, November 22, 2020](javascript:flick('sun');)
 
 **40 weeks** until IRONMAN Canada.
 
