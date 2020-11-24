@@ -202,8 +202,8 @@ The next realization I need to focus on is that the time before 16 minutes may h
 
 2 seconds is negligible gain in two weeks, especially when my hopes are pinned on being a whole minute faster, but if I _"readjust the lens"_ this to include where I was on [September 19th](ironman2021-50weeksout?sat), then a much happier picture comes into focus.
 <!---->
-<p class="agencyvc" style="background-color:red;color:white;font-size:1.1em;">AFTER REREADING THIS 4 DAY LATER...</p>
+<p class="agencyvc" style="background-color:red;color:white;font-size:1.1em;">&nbsp;AFTER REREADING THIS 4 DAY LATER...</p>
 
-| _"my hopes are pinned on being a whole minute faster..."_
+<em style="color:red;">"my hopes are pinned on being a whole minute faster..."</em>
 
-That is an _OUTCOME_ goal and that outcome, like everything in the future, needs to be reframed as out of my control.  I _CAN_ however, control the process of getting faster and I have been putting in the work toward the process of running faster as of late.
+That is an _OUTCOME_ goal and that outcome, like everything in the future, needs to be reframed as out of my control.  I absolutely can control the _PROCESS_ of getting faster and I have been putting in the work toward the process of running faster as of late.
