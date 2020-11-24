@@ -39,9 +39,9 @@ Total Time: **45 minutes**
 
 Another good sleep last night and I am feeling pretty good overall.
 
-I had a pretty deep work over with my lacrosse ball focusing on tender spots found in my left hamstring and left adductor.
+I had a pretty deep work over with my lacrosse ball, focusing on two tender spots, both on my left leg.  My left hamstring and left adductor were angry and needed some attention.
 
-With only light activity yesterday, I didn't want to let this day go with just mobility and massage.  I put the 4th quarter of _Monday Night Football_ on the screen an peddled easy for 45 minutes; light pressure, low heart rate.
+With only light activity yesterday, I wanted to let get a little more out of today than just mobility and massage.  I put the 4th quarter of _Monday Night Football_ on the screen an peddled easy for 45 minutes; light pressure, low heart rate.  Alarm is set for tomorrow afternoon.
 
 <!---->
 ## TUESDAY NOV 24
