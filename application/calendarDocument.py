@@ -13,15 +13,14 @@ class CalendarMonth(DIV):
 	def __init__(self, yyyy, mm):
 
 		specialDates = []
-		specialDates.append(date(2021,8,29))		# Ironman Canada
+		specialDates.append(date(2021,8,29))	# Ironman Canada
 		specialDates.append(date(2020,10,31))	# 5K Workout
 		specialDates.append(date(2020,11,21))	# 5K Workout
-		specialDates.append(date(2020,12,5))		# 5KM TT
-		specialDates.append(date(2021,5,16))		# Westwood Lake Triathlon
+		specialDates.append(date(2020,12,5))	# 5KM TT
+		specialDates.append(date(2021,5,16))	# Westwood Lake Triathlon
 		specialDates.append(date(2021,8,1))		# Elk Lake Triathlon
-		
 
-		imc = date(2021,8,29)	# IronMan Canada
+		imc = specialDates[0]	# IronMan Canada
 		dateobj = date(yyyy, mm, 1)
 		h4 = H4({'style':'margin:0;'})
 		h4.innerHTML = dateobj.strftime('%B %Y')
@@ -52,25 +51,33 @@ class CalendarMonth(DIV):
 				if calDate in specialDates:
 					style['style'] = '%s;font-weight:bold;text-decoration:underline;font-size:1.17em' % style['style']
 
-			td.style = style
+			td.style = style['style']
 			td.innerHTML = str(calDate.day)
 			if daynum % 7 == 0:
 				wtg = imc - calDate
 				if daynum > 0:
 					tbody.append(tr)
 				weeknum = int(wtg.days / 7)
+				href = 'ironman2021-%dweeksout' % weeknum
+
 				wk = TD({'style':'text-align:center;padding:0 2px;margin:0;width:35px;'})
 				wk.append(str(weeknum))
-				href = 'ironman2021-%dweeksout' % weeknum
 				if weeknum < 2:
 					wk.innerHTML = 'RACE'
 					href = 'ironman2021-raceweek'
 					if weeknum < 1:
 						wk.innerHTML = '-'
+				if calDate <= date.today():
+					wk.onclick = 'window.location.assign(\'%s\');' % href
+
 				tr = TR()
 				tr.append(wk)
-				if calDate <= date.today():
-					tr.onclick = 'window.location.assign(\'%s\');' % href
+
+			if calDate <= date.today():
+				if calDate in specialDates:
+					qstr = calDate.strftime('%a').lower()
+					href = '%s?%s' % (href, qstr)
+				td.onclick = 'window.location.assign(\'%s\');' % href
 
 			tr.append(td)
 			daynum = (daynum + 1)
@@ -84,6 +91,8 @@ class CalendarMonth(DIV):
 			div.style = 'height:142px;border-bottom:1px solid #ddd;'
 		div.append(table)
 		self.append(div)
+		#print(self.tohtml())
+		#raise SystemExit
 
 
 class CalendarMonths(DIV):
@@ -151,4 +160,5 @@ class IronmanCalendar(TemplateDocument):
 		for cell in carouselCells:
 			self.carousel.append(cell)
 		self.carousel.append(CarouselLast())
+
 
