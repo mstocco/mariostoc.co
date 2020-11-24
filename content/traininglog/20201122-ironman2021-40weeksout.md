@@ -56,9 +56,11 @@ Sleep **2** | Fatigue **2** | Stress **2** | Soreness **3**
 Rollers 45 minutes. Keep it EASY
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **50 minutes**
 
 Good sleep last night and I have a second eye on the clock for this afternoon's swim.
+
+The swim went well.  I should have asked how the _"gradual descend 1-4, 5-8"_ was to have taken place.  In lieu, I focused on hand-placement and kicking with straight legs over the course of the 12x100s.  Masks are now mandatory unless you are in the water and I am just fine with that.
 
 
 <!---->

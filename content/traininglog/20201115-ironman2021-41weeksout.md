@@ -44,7 +44,7 @@ More importantly, that tender left adductor went unnoticed during the 800s but I
 ### NORMALIZED PACE CHART
 ![Pace Chart](/assets/jpg/pacechart-20201115.jpeg)
 
-I felt **really good** with how this run went.
+I felt **really good** about how this run went.
 
 ### POST RUN
 The Seahawks took another beating this week.  They play again this Thursday night, which makes [next Sunday](ironman2021-40weeksout?sun) free for an important workout.
@@ -202,8 +202,8 @@ The next realization I need to focus on is that the time before 16 minutes may h
 
 2 seconds is negligible gain in two weeks, especially when my hopes are pinned on being a whole minute faster, but if I _"readjust the lens"_ this to include where I was on [September 19th](ironman2021-50weeksout?sat), then a much happier picture comes into focus.
 <!---->
-<h3 style="color:red;">AFTER REREADING THIS 4 DAY LATER...</h3>
-<sup style="color:red;">(editted Tuesday, November 24th.)</sup>
+### AFTER REREADING THIS 4 DAYS LATER...
+<sup>(the following added on Tuesday, November 24th.)</sup>
 
 <em style="color:red;">"my hopes are pinned on being a whole minute faster..."</em>
 
