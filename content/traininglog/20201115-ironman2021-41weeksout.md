@@ -207,3 +207,10 @@ The next realization I need to focus on is that the time before 16 minutes may h
 <em style="color:red;">"my hopes are pinned on being a whole minute faster..."</em>
 
 That is an _OUTCOME_ goal and that outcome, like everything in the future, needs to be reframed as out of my control.  I absolutely can control the _PROCESS_ of getting faster and I have been putting in the work toward the process of running faster as of late.
+
+<em style="color:red;">"Do I really have to accept I am just slow?"</em>
+
+When the workout became difficult last Saturday, I fell into a trap of a _FIXED MINDSET_.  Nothing about what I have done in past year has had a cieling or a fixed point.  My physical fitness does move day to day, week to week, month to month.  
+
+Furthermore...   
+Figuring those reactions out now, should allow my rational mind to recognize these sympathetic nervous thoughts eariler and allow me to remain focused on the task at hand.
