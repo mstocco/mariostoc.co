@@ -202,7 +202,8 @@ The next realization I need to focus on is that the time before 16 minutes may h
 
 2 seconds is negligible gain in two weeks, especially when my hopes are pinned on being a whole minute faster, but if I _"readjust the lens"_ this to include where I was on [September 19th](ironman2021-50weeksout?sat), then a much happier picture comes into focus.
 <!---->
-<p class="agencyvc" style="background-color:red;color:white;font-size:1.1em;">&nbsp;AFTER REREADING THIS 4 DAY LATER...</p>
+<h3 style="color:red;">AFTER REREADING THIS 4 DAY LATER...</h3>
+<sup style="color:red;">(editted Tuesday, November 24th.)</sup>
 
 <em style="color:red;">"my hopes are pinned on being a whole minute faster..."</em>
 
