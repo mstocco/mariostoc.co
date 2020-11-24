@@ -47,7 +47,7 @@ Alarm is set for tomorrow afternoon and getting back to the written schedule.
 
 <!---->
 ## TUESDAY NOV 24
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **2** | Fatigue **2** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -58,7 +58,7 @@ Rollers 45 minutes. Keep it EASY
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Good sleep last night and I have a second eye on the clock for this afternoon's swim.
 
 
 <!---->
