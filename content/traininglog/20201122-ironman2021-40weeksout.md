@@ -56,12 +56,15 @@ Sleep **2** | Fatigue **2** | Stress **2** | Soreness **3**
 Rollers 45 minutes. Keep it EASY
 
 ### NOTES
-Total Time: **50 minutes**
+Total Time: **95 minutes**
 
 Good sleep last night and I have a second eye on the clock for this afternoon's swim.
 
 I should have asked how the _"gradual descend 1-4, 5-8"_ was to have taken place.  In lieu, I focused on hand-placement and kicking with straight legs over the course of the 12x100s.  This swim was **productive** otherwise.  Masks are now mandatory unless you are in the water; I am good with that.
+<!---->bb
+The bike tonight was pretty straightforward, **uneventful pedalling** on the rollers.  I had a bike race on the screen; the commentary was in french so I turned the volume down and put on a podcast.  I don't think I paid much attention to either.  I just pedalled.
 
+So my goal this week was to think about ways of sharpening my mental game, especially with a 5000m TT right in less than 2 weeks.  The _"Trainer Road Podcast"_ had a recent episode that took a dive into the autonomic nervous system; I took notes and then revisited [my comments](ironman2021-41weeksout?sat) from last Saturday's track session.  What I appended to my notes from [last Saturday](ironman2021-41weeksout?sat) feels like something to build on.
 
 <!---->
 ## WEDNESDAY NOV 25
