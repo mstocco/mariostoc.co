@@ -66,9 +66,10 @@ The bike tonight was pretty straightforward, **uneventful pedalling** on the rol
 
 I feel like tonight I could have just as easily gone for a short, easy paced run but I do feel good about squaring up with the workout schedule.  
 
----
+### IN OTHER NEWS
+So my goal this week was to think about ways of **sharpening** my mental game, especially with a 5000m TT right in less than 2 weeks.  The _"Trainer Road Podcast"_ had a recent episode that took a dive into the autonomic nervous system; I took notes (of course I did) and then revisited [my comments](ironman2021-41weeksout?sat) from last Saturday's track session.
 
-So my goal this week was to think about ways of sharpening my mental game, especially with a 5000m TT right in less than 2 weeks.  The _"Trainer Road Podcast"_ had a recent episode that took a dive into the autonomic nervous system; I took notes and then revisited [my comments](ironman2021-41weeksout?sat) from last Saturday's track session.  What I appended to my notes from [last Saturday](ironman2021-41weeksout?sat) feels like something to build on.
+What I appended to my notes from [last Saturday](ironman2021-41weeksout?sat) feels like something to build on.
 
 <!---->
 ## WEDNESDAY NOV 25
