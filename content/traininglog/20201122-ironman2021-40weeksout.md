@@ -64,7 +64,7 @@ I should have asked how the _"gradual descend 1-4, 5-8"_ was to have taken place
 <!---->bb
 The bike tonight was pretty straightforward, **uneventful pedalling** on the rollers.  I had a bike race on the screen; the commentary was in french so I turned the volume down and put on a podcast.  I don't think I paid much attention to either.  I just pedalled.
 
-I feel like tonight I could have just as easily gone for a short, easy paced run but I do feel good about squaring up with the workout schedule.  
+I feel like tonight I could have just as easily gone for a short, easy paced run but I do feel good about squaring back up with the workout schedule.g
 
 ### IN OTHER NEWS
 So my goal this week was to think about ways of **sharpening** my mental game, especially with a 5000m TT right in less than 2 weeks.  The _"Trainer Road Podcast"_ had a recent episode that took a dive into the autonomic nervous system; I took notes (of course I did) and then revisited [my comments](ironman2021-41weeksout?sat) from last Saturday's track session.
