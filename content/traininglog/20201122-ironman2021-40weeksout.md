@@ -94,7 +94,9 @@ I had time left in the evening for one of the two activities.  I thought, _"whic
 
 Did it suck?  Yes and no.
 
-My soleus (both sides) were tender and I had **very heavy legs**.  It was slow going on the bike path for the most part.  I did have some fleeting moments of feeling ok at the 20, and again, 30 minute marks but in general, this wasn't comfortable.  What didn't suck was the night itself; the weather was cool and dry, the bike paths were empty and it was just me and the light from my headlamp.  That part was certainly enjoyable.
+My soleus (both sides) were tender and I had **very heavy legs**.  It was slow going on the bike path for the most part.  I did have some fleeting moments of feeling ok at the 20, and again, 30 minute marks but in general, this was NOT a comfortable time.
+
+What didn't suck was the night itself; the weather was cool and dry, the bike paths were empty and it was just me and the light from my headlamp.  Being out exercising on a dark, silent night was very enjoyable.
 
 Before bed, I spent time with the foam roller and a peanut working on the kinks in my neck.  That helped.
 
@@ -109,7 +111,7 @@ Run 75 minutes: 15 minutes easy to warm up. 8x :40 strides (Make sure they aren'
 ### NOTES
 Total Time: **0 minutes**
 
-I woke feeling pretty groggy this morning.  My neck is still still but not like it was yesterday.
+I woke feeling pretty groggy this morning.  My soleus were sore when my feet first hit the floor and my neck is still stiff but not like it was yesterday.
 
 
 <!---->
