@@ -88,6 +88,8 @@ Ok sleep before and after someone woke me up at 1250 last night.
 
 Tasks at work ran long today and by the time I was able to wrap up, it was dark.  To top in off, I felt physically off too.  In particular, I had an **incredibly stiff neck**, Spenius Capitis through to the descending part of the Trapezius.  Even my jaw felt out of alignment and I felt a touch of a sore throat coming on.
 
+I hope this is from time _in the pool_ and not time _at the pool_.
+<!---->
 I had time left in the evening for one of the two activities.  I thought, _"which one would suck more?"_   That would be the run so it was the run that I did.
 
 Did it suck?  Yes and no.
