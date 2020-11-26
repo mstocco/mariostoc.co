@@ -61,7 +61,7 @@ Total Time: **95 minutes**
 Good sleep last night and I have a second eye on the clock for this afternoon's swim.
 
 I should have asked how the _"gradual descend 1-4, 5-8"_ was to have taken place.  In lieu, I focused on hand-placement and kicking with straight legs over the course of the 12x100s.  This swim was **productive** otherwise.  Masks are now mandatory unless you are in the water; I am good with that.
-<!---->bb
+<!---->
 The bike tonight was pretty straightforward, **uneventful pedalling** on the rollers.  I had a bike race on the screen; the commentary was in french so I turned the volume down and put on a podcast.  I don't think I paid much attention to either.  I just pedalled.
 
 I feel like tonight I could have just as easily gone for a short, easy paced run but I do feel good about squaring back up with the workout schedule.
@@ -73,7 +73,7 @@ What I appended to my notes from [last Saturday](ironman2021-41weeksout?sat) fee
 
 <!---->
 ## WEDNESDAY NOV 25
-Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**  
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -82,14 +82,23 @@ Ride 60 minutes: 20 minutes easy to warm up. 10x 1:00 high cadence, 1:30 easy/no
 Run 45 minutes EASY. Flat route preferred. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **45 minutes**
 
 Ok sleep before and after someone woke me up at 1250 last night.
 
+Tasks at work ran long today and by the time I was able to wrap up, it was dark.  To top in off, I felt physically off too.  In particular, I had an **incredibly stiff neck**, Spenius Capitis through to the descending part of the Trapezius.  Even my jaw felt out of alignment and I felt a touch of a sore throat coming on.
+
+I had time left in the evening for one of the two activities.  I thought, _"which one would suck more?"_   That would be the run so it was the run that I did.
+
+Did it suck?  Yes and no.
+
+My soleus (both sides) were tender and I had **very heavy legs**.  It was slow going on the bike path for the most part.  I did have some fleeting moments of feeling ok at the 20, and again, 30 minute marks but in general, this wasn't comfortable.  What didn't suck was the night itself; the weather was cool and dry, the bike paths were empty and it was just me and the light from my headlamp.  That part was certainly enjoyable.
+
+Before bed, I spent time with the foam roller and a peanut working on the kinks in my neck.  That helped.
 
 <!---->
 ## THURSDAY NOV 26
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **4** | Fatigue **3** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -98,7 +107,7 @@ Run 75 minutes: 15 minutes easy to warm up. 8x :40 strides (Make sure they aren'
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I woke feeling pretty groggy this morning.  My neck is still still but not like it was yesterday.
 
 
 <!---->
