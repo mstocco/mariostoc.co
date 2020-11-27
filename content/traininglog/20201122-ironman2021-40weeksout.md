@@ -115,9 +115,12 @@ Before the run, I did the Runner's Flexibility Routine as I was feeling stiff.
 
 Today's run started without feeling tender (soleus and/or ankles) but my legs are still feeling **fatigued** (quads in particular).  
 <!---->
-Strides on those heavy legs were done to typical _"stride effort"_ but they noticeably slower.  I noticed 4:23/km on the watch at the end of one of those stride; I wasn't interested in pushing the issue (trying to go faster then what my legs were telling me today).
+Strides on those heavy legs were done with a typical _"stride effort"_ but slower.  I noticed 4:23/km on the watch at the end of one of those strides; I wasn't interested in pushing the issue (trying to go faster then what my legs were telling me today).
 
-The tempo effort was **right on schedule** though.  I found a rhythm quickly and stuck with it from the _Songhees_, along the Goose, over the _Switch Bridge_ and finishing just before _Tillicum Road_.  The effort was a touch easier than last week's effort, including up and over the bridge.  In the moment, I felt like I could go a lot longer but the moment the watched beeped at the 30 minute mark, my tired legs said, _"make a bee-line for home."_
+The tempo effort was **right on schedule** though.  I found a rhythm quickly and stuck with it from the _Songhees_, along the _Goose_, over the _Switch Bridge_ and finishing just before _Tillicum Road_.  The effort was a touch easier than last week's effort, including up and over the bridge.  In the moment, I felt like I could go a lot longer but the moment the watched beeped at the 30 minute mark, my tired legs said, _"make a bee-line for home."_
+
+### THURSDAY NIGHT PACE CHART
+![Pacing](/assets/jpg/pacechart-20201126.jpeg)
 <!---->
 ## FRIDAY NOV 27
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
