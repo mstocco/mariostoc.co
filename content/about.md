@@ -20,5 +20,5 @@ specifically **IRONMAN Canada-Penticton**, August 29th, 2021.
 I am documenting that process daily in the [TRAINING LOG](/traininglog/) section of this website.
 
 <!-- ![Haleakalā, Maui](/assets/jpg/IMG_2467-976x550.jpg 10,023ft above the Pacific) -->
-![On my 47th birthday, I ran a half marathon in Savona, Italy](/assets/jpg/IMG_0442-550x550.jpeg 2018 SAVONA MEZZA MARATONA)
+![To celebrate my 47th birthday, I ran a half marathon in Savona, Italy](/assets/jpg/IMG_0442-550x550.jpeg 2018 SAVONA MEZZA MARATONA)
 

@@ -13,7 +13,7 @@ I feel like was...
 
 ![This spot looks like a great place for an open water swim next summer.](/assets/jpg/mathesonlake-977x550.jpeg?v2 Matheson Lake Regional Park)
 
-## SUNDAY NOV 22
+## SUNDAY NOV 22 ☁️
 Sleep **2** | Fatigue **5** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -27,7 +27,7 @@ I slept pretty soundly last night.  Regardless, both legs are feeling smoked (le
 ![Elevation Chart](/assets/jpg/elevation-20201122.jpeg)
 
 <!---->
-## MONDAY NOV 23
+## MONDAY NOV 23 🌤
 Sleep **2** | Fatigue **3** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -46,7 +46,7 @@ With only light activity yesterday, I wanted to let get a little more out of tod
 Alarm is set for tomorrow afternoon and getting back to the written schedule.
 
 <!---->
-## TUESDAY NOV 24
+## TUESDAY NOV 24 🌦
 Sleep **2** | Fatigue **2** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -72,7 +72,7 @@ So my goal this week was to think about ways of **sharpening** my mental game, e
 What I appended to my notes from [last Saturday](ironman2021-41weeksout?sat) feels like something to build on.
 
 <!---->
-## WEDNESDAY NOV 25
+## WEDNESDAY NOV 25 ☁️
 Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -99,7 +99,7 @@ What didn't suck was the night itself; the weather was cool and dry, the bike pa
 Before bed, I spent time with the foam roller and a peanut working on the kinks in my neck.  That helped.
 
 <!---->
-## THURSDAY NOV 26
+## THURSDAY NOV 26 ☁️
 Sleep **4** | Fatigue **3** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -107,11 +107,17 @@ Sleep **4** | Fatigue **3** | Stress **3** | Soreness **4**
 Run 75 minutes: 15 minutes easy to warm up. 8x :40 strides (Make sure they aren't too fast), 1:20 easy jog after each. Walk 2 minutes to make sure you're ready for.... 30 minutes @ a touch EASIER than 1/2 marathon effort. (5:10-5:25 pace) 12 minutes easy to cool down.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **71 minutes** &nbsp; Distance: **12.25 km**
 
 I woke feeling pretty groggy this morning.  My soleus were sore when my feet first hit the floor and my neck is still stiff but not like it was yesterday.  No sore throat though!
 
+Before the run, I did the Runner's Flexibility Routine as I was feeling stiff.
 
+I got the run in before dark and before the rain.  The run started without feeling tender (soleus and or ankles) but my legs are still feeling **fatigued** (quads in particular).  
+
+Strides on those heavy legs were done to typical _"stride effort"_ but noticeably slower.
+
+The tempo effort was **right on schedule** though.  I found a rhythm quickly and stuck with it from the _Songhees_, along the Goose, over the _Switch Bridge_ and finishing just before _Tillicum Road_.  The effort was a touch easier than last week's effort, including up and over the bridge.  In the moment, I felt like I could go a lot longer but the moment the watched beeped at the 30 minute mark, my tired legs said, _"make a bee-line for home."_
 <!---->
 ## FRIDAY NOV 27
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
