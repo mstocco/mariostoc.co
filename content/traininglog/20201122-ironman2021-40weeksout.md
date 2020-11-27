@@ -121,7 +121,7 @@ The tempo effort was **right on schedule** though.  I found a rhythm quickly and
 
 ### THURSDAY NIGHT PACE CHART
 ![Pacing](/assets/jpg/pacechart-20201126.jpeg)
-Tempo Pace: **5:26/km**  &nbsp; Avg Tempo HR: **141 BPM**
+<sup>Tempo Pace: **5:26/km**  &nbsp; Avg Tempo HR: **141 BPM**</sup>
 <!---->
 ## FRIDAY NOV 27
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
