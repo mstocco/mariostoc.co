@@ -124,7 +124,7 @@ The tempo effort was **right on schedule** though.  I found a rhythm quickly and
 <sup>Tempo Pace: **5:26/km**  &nbsp; Avg Tempo HR: **141 BPM**</sup>
 <!---->
 ## FRIDAY NOV 27
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **2** | Fatigue **4** | Stress **2** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -136,7 +136,7 @@ Run 30 minutes. Flat route. EASY effort.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash;
+Even with a pretty decent sleep last night (woke feeling rested), I am still stiff and sore.  I may do the mobility twice.
 
 <!---->
 ## SATURDAY NOV 28
