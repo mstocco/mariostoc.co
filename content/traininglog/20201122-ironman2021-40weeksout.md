@@ -122,8 +122,9 @@ The tempo effort was **right on schedule** though.  I found a rhythm quickly and
 ### THURSDAY NIGHT PACE CHART
 ![Pacing](/assets/jpg/pacechart-20201126.jpeg)
 <sup>Tempo Pace: **5:26/km**  &nbsp; Avg Tempo HR: **141 BPM**</sup>
+
 <!---->
-## FRIDAY NOV 27
+## FRIDAY NOV 27 ☁️
 Sleep **2** | Fatigue **4** | Stress **2** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -134,9 +135,13 @@ Run 30 minutes. Flat route. EASY effort.
 *These can be back to back, in either order*
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **30 minutes**
 
-Even with a pretty decent sleep last night (woke feeling rested), I am still stiff and sore.  I may do the mobility twice.
+Even with a pretty decent sleep last night (woke feeling rested), I am still stiff and sore.
+
+As the day wore on, my stiff neck got worse, much worse.  Stiff neck or not, I did get out for the easy jog.
+
+Getting home, I had one last task of the week to complete for work but I think I am going to call it for the day.  I feel pretty beat up, I can't turn my head left or right and I rather rest up and be ready for the MTB ride tomorrow.
 
 <!---->
 ## SATURDAY NOV 28
