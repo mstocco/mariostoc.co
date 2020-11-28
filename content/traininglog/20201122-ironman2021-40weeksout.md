@@ -144,8 +144,8 @@ As the day wore on, my stiff neck got worse, much worse.  Stiff neck or not, I d
 Getting home, I had one last task of the week to complete for work but I think I am going to call it for the day.  I feel pretty beat up, I can't turn my head left or right and I rather rest up and be ready for the MTB ride tomorrow.
 
 <!---->
-## SATURDAY NOV 28
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## SATURDAY NOV 28 ☀️
+Sleep **2** | Fatigue **3** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -155,4 +155,4 @@ Ride 1:45 on road or MTB. A few hills would be nice. Overall an easy to moderate
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash;
+I slept well last night and the stiffness in my neck is 90% (maybe better) of what it was yesterday afternoon.  I did take an Advil before bed and commandeered my _"good"_ pillow from the other side of the bed.
