@@ -25,7 +25,7 @@ Total Time: **70 minutes** &nbsp; Distance: **12 km**
 Second restful sleep in a row (happy to have my pillow back).
 
 After a drive to _PISE_ to find out the track was booked, it was back to _Oak Bay_ for today's workout.
-
+<!---->
 I am not sure how to process this workout.  In the moment, I felt like I was running the 6x1000m at a hard but controlled pace.  I was generally on a 1:46/400m to start each rep and although I felt like I was steady with the same effort for the next 600m, the 1000m times were behind the target, mostly coming in on average 4:33/km.
 
 The 4th and 5th rep had the sun peak out briefly and I was able to eek out a couple of seconds.  The last 1000m was more comfortable again with a building but controlled effort from 600m out.
