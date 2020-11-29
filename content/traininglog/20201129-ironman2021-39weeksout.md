@@ -4,7 +4,7 @@ Week beginning Sunday, November 29, 2020
 **39 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-&mdash; 
+Race week practice with a **5000m TT** on [Saturday](javascript:flick('sat');) 
 
 ## SUMMARY
 I feel like was... <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
@@ -12,7 +12,7 @@ I feel like was... <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT
 
 <!---->
 ## SUNDAY NOV 29
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **2** | Fatigue **3** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -31,7 +31,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Mobility: 21 minutes.   
+Swim 2000: 2x (150 easy free, 100 swim w/ buoy, 50 kick w/ board. All steady. R 10-20 seconds after each) 25, 50, 75, 100, 125, 150, 175, 200 all steady swimming. Rest 10-20 seconds after each. 12x 25 Odds: Strong, evens: Relaxed/controlled r :15 after each. 200 easy to cool down.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -45,7 +46,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Ride 60 minutes easy. Trainer or rollers. Keep it easy.   
+Run 30 minutes. Flat route. Easy effort.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -59,7 +61,12 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Mobility: 18 minutes.   
+Run 15 minutes easy to warm up.   
+6x 100 meter strides, 100 meter EASY jog after each.  
+200 meters @ goal 5k effort/pace. Walk 100-200 meters.   
+1400 @ 5k effort. Trying to hit 53/54 for each 200. Especially make a point to run the first 600 on pace. 
+10 minute cool down jog.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -73,7 +80,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Ride 60 minutes easy. Inside or outside. Keep it easy.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -87,7 +94,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Mobility: 15 minutes.  
+Run: 30 minutes EASY.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -101,7 +109,14 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Mobility: 15 minutes.   
+10 minutes easy jogging. 6x 100 strides, Ideally @ a touch SLOWER than 5k speed. Goal is to warm up. 100 meter EASY jog between each. 
+Then... 200 meters @ what you think you might hold for a 5k. Walk 200-400 meters. Bathroom, tighten shoes, water, ect. 
+5k Full on Time Trial. We can have 200, 400, 600 goal times for you next Thursday.  
+5 minutes walking. Then 10 minutes EASY jogging to cool down. 
+
+PM: Spin 30 minutes EASY on the trainer
+
 
 ### NOTES
 Total Time: **0 minutes**
