@@ -7,9 +7,11 @@ Week beginning [Sunday, November 22, 2020](javascript:flick('sun');)
 I am starting this week after doing this Sunday's workout [yesterday](ironman2021-41weeksout?sat).  That run has me thinking about the mental component to race efforts and what I can do to improve that as I prep for a 5K TT in 2 weeks.
 
 ## SUMMARY
-I feel like was **COOKED**
+I feel like was **BEHIND SCHEDULE**
 
 This week started with me feeling fatigued from last Saturday's track workout.  It took all week to get on the right side of fatigue and to compound that, I had a **ridiculously stiff neck** flare up.  I opted for rest instead of 45 minutes on the rollers on Thursday and that may have helped my legs but my neck issue hasn't given up yet.
+
+At the end of the week, I swapped out my pillow and slept much better.
 
 ![This spot looks like a great place for an open water swim next summer.](/assets/jpg/mathesonlake-977x550.jpeg?v2 Matheson Lake Regional Park)
 
@@ -165,5 +167,4 @@ I pedalled back to Vic, glancing back west every so often, to take in tonight's 
 
 With the sun below the horizon, it started to get cool.  I got home before the allotted time so I put the road bike away, grabbed my TT bike and rode the rollers for the balance of that time.  It helped me warm up and get the last of my gatorade down (53g/ 200 calories).
 
-#### TOUR DE LANGFORD
 ![Ride Map](/assets/jpg/ridemap-20201129.jpeg)
