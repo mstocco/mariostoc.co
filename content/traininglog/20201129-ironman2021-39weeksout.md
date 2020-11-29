@@ -4,11 +4,11 @@ Week beginning Sunday, November 29, 2020
 **39 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-Race week practice with a **5000m TT** on [Saturday](javascript:flick('sat');) 
+This week's focus is on a **5000m TT** on [Saturday](javascript:flick('sat');) 
 
 ## SUMMARY
-I feel like was... <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
-
+I feel like was...   
+<sup>(completed at the end of the week)</sup><!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
 <!---->
 ## SUNDAY NOV 29
@@ -20,10 +20,20 @@ Mobility: 12 minutes.
 Run 75 minutes: 15 minutes easy to warm up. 10x 100 meter strides to loosen up/warm up, 100 meters very easy jogging between each. 6x 1000 meters @ 5k effort. Really trying to figure out your pace and rhythm. 4:23-4:27 pace. Leaving on the 6:00. Walking around to stay loose between each effort. 10ish minutes easy jogging to cool down.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **70 minutes** &nbsp; Distance: **12 km**
 
-&mdash; 
+Second restful sleep in a row (happy to have my pillow back).
 
+After a drive to _PISE_ to find out the track was booked, it was back to _Oak Bay_ for today's workout.
+
+I am not sure how to process this workout.  In the moment, I felt like I was running the 6x1000m at a hard but controlled pace.  I was generally on a 1:46/400m to start each rep and although I felt like I was steady with the same effort for the next 600m, the 1000m times were behind the target, mostly coming in on average 4:33/km.
+
+The 4th and 5th rep had the sun peak out briefly and I was able to eek out a couple of seconds.  The last 1000m was more comfortable again with a building but controlled effort from 600m out.
+
+So, was this workout a win because it was a total of 7km at slightly slower than a scheduled pace?  Or was this a miss because I was off target pace by 6 seconds except for the last one.
+
+### NORMALIZED PACE CHART
+![Pace Chart](/assets/jpg/pacechart-20201129.jpeg)
 
 <!---->
 ## MONDAY NOV 30

@@ -7,7 +7,7 @@ Week beginning [Sunday, November 22, 2020](javascript:flick('sun');)
 I am starting this week after doing this Sunday's workout [yesterday](ironman2021-41weeksout?sat).  That run has me thinking about the mental component to race efforts and what I can do to improve that as I prep for a 5K TT in 2 weeks.
 
 ## SUMMARY
-I feel like was **BEHIND SCHEDULE**
+I feel like was **A BIT BEHIND SCHEDULE**
 
 This week started with me feeling fatigued from last Saturday's track workout.  It took all week to get on the right side of fatigue and to compound that, I had a **ridiculously stiff neck** flare up.  I opted for rest instead of 45 minutes on the rollers on Thursday and that may have helped my legs but my neck issue hasn't given up yet.
 
