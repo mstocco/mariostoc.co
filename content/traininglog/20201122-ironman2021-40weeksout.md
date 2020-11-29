@@ -159,7 +159,7 @@ I slept well last night and the stiffness in my neck is 90% (maybe better) of wh
 
 After the Saturday chores were done, it was time to get out for my ride.  I got to the garage to find that both my road and MTB had a flat tires.  I repaired the road bike; the tire/rim combo is way easier to work with. With sunshine and dry roads, it was a road bike day.
 <!---->
-I headed out to Langford on the Goose.  I knew that _"hills"_ were in the schedule so I started up the _Bear Mountain Parkway_.  There was construction on the shoulder going up (read: zero shoulder to ride) and all it took was a Ford F-350 speeding way too close to get me out of a good head-space.  I got over the first 12% kicker but instead of tempting fate with another Langford driver, I turned around at the start of the second 12% grade.  I think it was a good decision.
+I headed out to Langford on the Goose.  I knew that _"hills"_ were in the schedule so I started up the _Bear Mountain Parkway_.  There was construction on the shoulder going up (read: zero shoulder to ride) and all it took was a Ford F-350 speeding way too close to get me out of a good head-space.  I got over the first 12% kicker but instead of tempting fate with another Langford driver, I turned around at the start of the second 12% grade (a good decision).
 
 I pedalled back to Vic, glancing back west every so often, to take in tonight's fantastic sunset.
 
