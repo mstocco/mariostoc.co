@@ -9,7 +9,7 @@ I am starting this week after doing this Sunday's workout [yesterday](ironman202
 ## SUMMARY
 I feel like was **COOKED**
 
-This week started with me feeling fatigued from last Saturday's track workout.  It took all week to get on the right side of fatigue and to compound that, I had a **ridiculously stiff neck** flare up.
+This week started with me feeling fatigued from last Saturday's track workout.  It took all week to get on the right side of fatigue and to compound that, I had a **ridiculously stiff neck** flare up.  I opted for rest instead of 45 minutes on the rollers on Thursday and that may have helped my legs but my neck issue hasn't given up yet.
 
 ![This spot looks like a great place for an open water swim next summer.](/assets/jpg/mathesonlake-977x550.jpeg?v2 Matheson Lake Regional Park)
 
