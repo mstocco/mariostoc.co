@@ -1,17 +1,17 @@
 # IRONMAN TRAINING 2021
-Week beginning Sunday, November 29, 2020
+Week beginning [Sunday, November 29, 2020](javascript:flick('sun');)
 
 **39 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-This week's focus is on a **5000m TT** on [Saturday](javascript:flick('sat');) 
+This week's focus is all about a **5000m TT** this [Saturday](javascript:flick('sat');) 
 
 ## SUMMARY
 I feel like was...   
 <sup>(completed at the end of the week)</sup><!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
 <!---->
-## SUNDAY NOV 29
+## SUNDAY NOV 29 ⛅️
 Sleep **2** | Fatigue **3** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -22,7 +22,7 @@ Run 75 minutes: 15 minutes easy to warm up. 10x 100 meter strides to loosen up/w
 ### NOTES
 Total Time: **70 minutes** &nbsp; Distance: **12 km**
 
-Second restful sleep in a row (happy to have my pillow back).
+Second restful sleep in a row (happy to have my pillow back).  I took an advil before bed to help with a stiff neck and it feels much better this morning.
 
 After a drive to _PISE_ to find out the track was booked, it was back to _Oak Bay_ for today's workout.
 <!---->
