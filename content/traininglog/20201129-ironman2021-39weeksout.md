@@ -44,7 +44,7 @@ Sleep **5** | Fatigue **4** | Stress **3** | Soreness **5**
 Mobility: 21 minutes.   
 Swim 2000: 2x (150 easy free, 100 swim w/ buoy, 50 kick w/ board. All steady. R 10-20 seconds after each) 25, 50, 75, 100, 125, 150, 175, 200 all steady swimming. Rest 10-20 seconds after each. 12x 25 Odds: Strong, evens: Relaxed/controlled r :15 after each. 200 easy to cool down.
 
-<h3 style="color:orange">Wind Warning for Greater Victoria</h3><p style="color:orange;border:1px solid orange">It's blowing the dog off the chain but no never mind b/c I am in the pool today (barring a power outage).</p>
+<h3 style="color:orange">Wind Warning for Greater Victoria</h3><p style="color:orange;border-top:1px solid orange;font-size:0.9em;">It's blowing the dog off the chain outside but no never mind b/c I am at the pool this afternoon (barring a power outage).</p>
 
 ### NOTES
 Total Time: **0 minutes**
