@@ -36,18 +36,20 @@ So, was this workout a win because it was a total of 7km at slightly slower than
 ![Pace Chart](/assets/jpg/pacechart-20201129.jpeg)
 
 <!---->
-## MONDAY NOV 30
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## MONDAY NOV 30 🌧
+Sleep **5** | Fatigue **4** | Stress **3** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 Mobility: 21 minutes.   
 Swim 2000: 2x (150 easy free, 100 swim w/ buoy, 50 kick w/ board. All steady. R 10-20 seconds after each) 25, 50, 75, 100, 125, 150, 175, 200 all steady swimming. Rest 10-20 seconds after each. 12x 25 Odds: Strong, evens: Relaxed/controlled r :15 after each. 200 easy to cool down.
 
+<h3 style="color:orange">Wind Warning for Greater Victoria</h3><p style="color:orange;border:1px solid orange">It's blowing the dog off the chain but no never mind b/c I am in the pool today (barring a power outage).</p>
+
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Hit with insomnia last night, I think I remember seeing past 0300 on my watch. 
 
 
 <!---->
