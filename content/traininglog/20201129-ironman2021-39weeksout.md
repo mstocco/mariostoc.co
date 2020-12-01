@@ -55,14 +55,14 @@ I generally don't have much to write about when it comes to a swim workout but t
 
 
 ### THE FUN ODDS OF 12x25M
-<table style="border-collapse:collapse;">
-<tr style="border-bottom:1px solid #ddd;"><td>Effort Number</td><td>Time</td><td>Pace (per 100m)</td></tr>
-<tr><td style="text-align:right;">1</td><td style="text-align:right;">0:25.4</td><td style="text-align:right;">1:42</td></tr>
-<tr><td style="text-align:right;">3</td><td style="text-align:right;">0:23.4</td><td style="text-align:right;">1:34</td></tr>
-<tr><td style="text-align:right;">5</td><td style="text-align:right;">0:24.2</td><td style="text-align:right;">1:37</td></tr>
-<tr><td style="text-align:right;">7</td><td style="text-align:right;">0:20.8</td><td style="text-align:right;">1:23</td></tr>
-<tr style="background-color:greenyellow;"><td style="text-align:right;">9</td><td style="text-align:right;">0:19.1</td><td style="text-align:right;">1:17</td></tr>
-<tr><td style="text-align:right;">11</td><td style="text-align:right;">0:19.7</td><td style="text-align:right;">1:19</td></tr>
+<table style="border-collapse:collapse;width:300px;">
+<tr style="border-bottom:1px solid #ddd;"><td>Effort Number</td><td style="text-align:right;>Time</td><td style="text-align:right;>Pace</td></tr>
+<tr><td style="text-align:center;">1</td><td style="text-align:right;">0:25.4</td><td style="text-align:right;">1:42/100m</td></tr>
+<tr><td style="text-align:center;">3</td><td style="text-align:right;">0:23.4</td><td style="text-align:right;">1:34/100m</td></tr>
+<tr><td style="text-align:cener;">5</td><td style="text-align:right;">0:24.2</td><td style="text-align:right;">1:37/100m</td></tr>
+<tr><td style="text-align:center;">7</td><td style="text-align:right;">0:20.8</td><td style="text-align:right;">1:23/100m</td></tr>
+<tr style="background-color:greenyellow;font-weight:bold;"><td style="text-align:center;">9</td><td style="text-align:right;">0:19.1</td><td style="text-align:right;">1:17/100m</td></tr>
+<tr><td style="text-align:center;">11</td><td style="text-align:right;">0:19.7</td><td style="text-align:right;">1:19/100m</td></tr>
 </table>
 
 
