@@ -47,9 +47,13 @@ Swim 2000: 2x (150 easy free, 100 swim w/ buoy, 50 kick w/ board. All steady. R 
 <h3 style="color:orange">Wind Warning for Greater Victoria</h3><p style="color:orange;border-top:1px solid orange;font-size:0.9em;">It's blowing the dog off the chain outside but no never mind b/c I am at the pool this afternoon (barring a power outage).</p>
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **50 minutes**
 
-Hit with insomnia last night, I think I remember seeing past 0300 on my watch. 
+Hit with insomnia last night, I think I remember seeing past 0300 on my watch.  I felt off most of the day today too.  I got more done at work than I expected regardless.
+<!---->
+I generally don't have much to write about when it comes to a swim workout but tonight was **FUN**!    In particular, the 12x25m set going strong on the odds.  I was really feeling it tonight knowing that I had just 25 metres to the wall.  I know that is _"unsustainable"_ for where I am at and what I am ultimately trying to accomplish but everything just feels different going like that.  The speed of the water rushing past feels different, the torque rotating from pull to pull feels right, the bow wake from the top of my head gives me a way bigger pocket of air to inhale from.  Even my feet felt like they were flutter on the surface.  Yes that set was all caps FUN!
+
+
 
 
 <!---->
