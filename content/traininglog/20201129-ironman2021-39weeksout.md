@@ -28,7 +28,7 @@ After a drive to _PISE_ to find out the track was booked, it was back to _Oak Ba
 <!---->
 I am not sure how to process this workout.  In the moment, I felt like I was running the 6x1000m at a hard but controlled pace.  I was generally on a 1:46/400m to start each rep and although I felt like I was steady with the same effort for the next 600m, the 1000m times were behind the target, mostly coming in on average 4:33/km.
 
-The 4th and 5th rep had the sun peak out briefly and I was able to eek out a couple of seconds.  The last 1000m was more comfortable again with a building but controlled effort from 600m out.
+The 4th and 5th rep had the sun peak out briefly and I was able to eke out a couple of seconds.  The last 1000m was more comfortable again with a building but controlled effort from 600m out.
 
 So, was this workout a win because it was a total of 7km at slightly slower than a scheduled pace?  Or was this a miss because I was off target pace by 6 seconds except for the last one.
 
@@ -51,10 +51,9 @@ Total Time: **50 minutes**
 
 Hit with insomnia last night, I think I remember seeing past 0300 on my watch.  I felt off most of the day today too.  I got more done at work than I expected regardless.
 <!---->
-I generally don't have much to write about when it comes to a swim workout but tonight was **FUN**!    In particular, the 12x25m set going strong on the odds.  I was really feeling it tonight knowing that I had just 25 metres to the wall.  I know that is _"unsustainable"_ for where I am at and what I am ultimately trying to accomplish but everything just feels different going like that.  The speed of the water rushing past feels different, the torque rotating from pull to pull feels right, the bow wake from the top of my head gives me a way bigger pocket of air to inhale from.  Even my feet felt like they were flutter on the surface.  Yes that set was all caps FUN!
+I generally don't have much to write about when it comes to a swim workout but tonight was **FUN!**    In particular, the 12x25m set going strong on the odds.  I was really feeling it tonight knowing that I had just 25 metres to the wall.  I know that is _"unsustainable"_ for where I am at and what I am ultimately trying to accomplish but everything just feels different going like that.  The speed of the water rushing past feels different, the torque rotating from pull to pull feels right, the bow wake from the top of my head gives me a way bigger pocket of air to inhale from.  Even my feet felt like they were flutter on the surface.  
 
-
-### THE FUN ODDS OF 12x25M
+### THE ODDS OF 12x25M
 <table style="border-collapse:collapse;width:315px;">
 <tr style="border-bottom:1px solid #ddd;"><td>Effort Number</td><td style="text-align:right;">Time</td><td style="text-align:right;">Pace</td><td style="text-align:right;">BPM</td></tr>
 <tr><td >&nbsp; 1</td><td style="text-align:right;">0:25.4</td><td style="text-align:right;">1:42/100m</td><td style="text-align:right;">141</td></tr>
@@ -65,7 +64,7 @@ I generally don't have much to write about when it comes to a swim workout but t
 <tr><td>&nbsp; 11</td><td style="text-align:right;">0:19.7</td><td style="text-align:right;">1:19/100m</td><td style="text-align:right;">152</td></tr>
 </table>
 
-
+Yes that swim was all caps FUN!
 <!---->
 ## TUESDAY DEC 01
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
