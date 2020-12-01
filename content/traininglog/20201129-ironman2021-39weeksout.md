@@ -36,7 +36,7 @@ So, was this workout a win because it was a total of 7km at slightly slower than
 ![Pace Chart](/assets/jpg/pacechart-20201129.jpeg)
 
 <!---->
-## MONDAY NOV 30 🌧
+## MONDAY NOV 30 🌦
 Sleep **5** | Fatigue **4** | Stress **3** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -54,6 +54,16 @@ Hit with insomnia last night, I think I remember seeing past 0300 on my watch.  
 I generally don't have much to write about when it comes to a swim workout but tonight was **FUN**!    In particular, the 12x25m set going strong on the odds.  I was really feeling it tonight knowing that I had just 25 metres to the wall.  I know that is _"unsustainable"_ for where I am at and what I am ultimately trying to accomplish but everything just feels different going like that.  The speed of the water rushing past feels different, the torque rotating from pull to pull feels right, the bow wake from the top of my head gives me a way bigger pocket of air to inhale from.  Even my feet felt like they were flutter on the surface.  Yes that set was all caps FUN!
 
 
+### THE FUN ODDS OF 12x25M
+<table>
+<tr><th></th><th>Time</th><th>Pace</th></tr>
+<tr><td style="align:right;">1</td><td style="align:right;">0:25.4</td><td style="align:right;">1:42</td></tr>
+<tr><td style="align:right;">3</td><td style="align:right;">0:23.4</td><td style="align:right;">1:34</td></tr>
+<tr><td style="align:right;">5</td><td style="align:right;">0:24.2</td><td style="align:right;">1:37</td></tr>
+<tr><td style="align:right;">7</td><td style="align:right;">0:20.8</td><td style="align:right;">1:23</td></tr>
+<tr style="background-color:greenyellow;"><td style="align:right;">9</td><td style="align:right;">0:19.1</td><td style="align:right;">1:17</td></tr>
+<tr><td style="align:right;">11</td><td style="align:right;">0:19.7</td><td style="align:right;">1:19</td></tr>
+</table>
 
 
 <!---->
