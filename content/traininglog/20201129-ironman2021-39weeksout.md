@@ -71,11 +71,13 @@ Run 30 minutes. Flat route. Easy effort.
 ### NOTES
 Total Time: **90 minutes**
 
-A good sleep last night and a solid day on the keyboard too (@work).
+A good sleep last night and a solid day on the keyboard too (@work).  I caught myself looking at the 5-day weather forecast with an eye on [Saturday](javascript:flick('sat');); it's almost like a _"race week"_.
 
 I did the easy, flat run first while there was a bit of daylight left.  I headed down to the Gorge and did so gingerly; soleus (both legs) were more tender than usual.  I stopped for a traffic light and to take a picture for this week's training log page; so not 30 minutes of constant jogging but there was 33 minutes of moving time over 36 minutes total.
-
+<!---->
 It was a similar on the rollers in that I stopped for briefly to take some layers off, drink some Gatorade and after 40 minutes, a full on bathroom break.  Total time easy spinning was 60 minutes out of a 63 minute activity.
+
+Speaking of Gatorade, this was a 750ml bottle with 200 calories mixed before the run but consumed before and during the the time on the bike.
 
 <!---->
 ## WEDNESDAY DEC 02 ☀️
