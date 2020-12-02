@@ -56,12 +56,12 @@ I generally don't have much to write about when it comes to a swim workout but t
 I know that for any real distance, these numbers are _"unsustainable"_ for where I am at and what I am ultimately trying to accomplish but trying to best my last effort became _"exhilarating"_.  The speed of the water rushing past felt different, the torque rotating from pull to pull felt powerful, the bow wake from the top of my head gave me a way bigger pocket of air to inhale from.  And my feet felt like they were fluttering at the surface.  
 
 ### THE ODDS OF 12x25M
-<table style="border-collapse:collapse;width:315px;font-size:0.85em;"><tr style="border-bottom:1px solid #ccc;"><td>Effort Number</td><td style="text-align:right;">Time</td><td style="text-align:right;">Pace</td><td style="text-align:right;">BPM</td></tr><tr><td >&nbsp; 1</td><td style="text-align:right;">0:25.4</td><td style="text-align:right;">1:42/100m</td><td style="text-align:right;">141</td></tr><tr><td>&nbsp; 3</td><td style="text-align:right;">0:23.4</td><td style="text-align:right;">1:34/100m</td><td style="text-align:right;">143</td></tr><tr><td>&nbsp; 5</td><td style="text-align:right;">0:24.2</td><td style="text-align:right;">1:37/100m</td><td style="text-align:right;">146</td></tr><tr><td>&nbsp; 7</td><td style="text-align:right;">0:20.8</td><td style="text-align:right;">1:23/100m</td><td style="text-align:right;">145</td></tr><tr style="background-color:greenyellow;"><td>&nbsp; 9</td><td style="text-align:right;">0:19.1</td><td style="text-align:right;">1:17/100m</td><td style="text-align:right;">150</td></tr><tr style="border-bottom:1px solid #ccc;"><td>&nbsp; 11</td><td style="text-align:right;">0:19.7</td><td style="text-align:right;">1:19/100m</td><td style="text-align:right;">152</td></tr></table>
+<table style="border-collapse:collapse;width:315px;font-size:0.85em;"><tr style="border-bottom:1px solid #ccc;"><td>Effort Number</td><td style="text-align:right;">Time</td><td style="text-align:right;">Pace</td><td style="text-align:right;">BPM</td></tr><tr><td >&nbsp; 1</td><td style="text-align:right;">0:25.4</td><td style="text-align:right;">1:42/100m</td><td style="text-align:right;">141</td></tr><tr><td>&nbsp; 3</td><td style="text-align:right;">0:23.4</td><td style="text-align:right;">1:34/100m</td><td style="text-align:right;">143</td></tr><tr><td>&nbsp; 5</td><td style="text-align:right;">0:24.2</td><td style="text-align:right;">1:37/100m</td><td style="text-align:right;">146</td></tr><tr><td>&nbsp; 7</td><td style="text-align:right;">0:20.8</td><td style="text-align:right;">1:23/100m</td><td style="text-align:right;">145</td></tr><tr style="background-color:greenyellow;"><td>&nbsp; 9</td><td style="text-align:right;">0:19.1</td><td style="text-align:right;">1:17/100m</td><td style="text-align:right;">150</td></tr><tr style="border-bottom:1px solid #f2f2f2;"><td>&nbsp; 11</td><td style="text-align:right;">0:19.7</td><td style="text-align:right;">1:19/100m</td><td style="text-align:right;">152</td></tr></table>
 
 Yes that swim was all caps FUN!
 <!---->
-## TUESDAY DEC 01
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## TUESDAY DEC 01 ☀️
+Sleep **2** | Fatigue **4** | Stress **3** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -69,14 +69,17 @@ Ride 60 minutes easy. Trainer or rollers. Keep it easy.
 Run 30 minutes. Flat route. Easy effort.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **90 minutes**
 
-&mdash; 
+A good sleep last night and a solid day on the keyboard too (@work).
 
+I did the easy, flat run first while there was a bit of daylight left.  I headed down to the Gorge and did so gingerly; soleus (both legs) were more tender than usual.  I stopped for a traffic light and to take a picture for this week's training log page; so not 30 minutes of constant jogging but there was 33 minutes of moving time over 36 minutes total.
+
+It was a similar on the rollers in that I stopped for briefly to take some layers off, drink some Gatorade and after 40 minutes, a full on bathroom break.  Total time easy spinning was 60 minutes out of a 63 minute activity.
 
 <!---->
-## WEDNESDAY DEC 02
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## WEDNESDAY DEC 02 ☀️
+Sleep **3** | Fatigue **-** | Stress **2** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -90,7 +93,7 @@ Run 15 minutes easy to warm up.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I slept in this morning.  The body is telling me I needed the rest.
 
 
 <!---->
