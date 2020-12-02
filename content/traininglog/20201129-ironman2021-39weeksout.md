@@ -77,7 +77,7 @@ I did the easy, flat run first while there was a bit of daylight left.  I headed
 <!---->
 It was a similar on the rollers in that I stopped for briefly to take some layers off, drink some Gatorade and after 40 minutes, a full on bathroom break.  Total time easy spinning was 60 minutes out of a 63 minute activity.
 
-Speaking of Gatorade, this was a 750ml bottle with 200 calories mixed before the run but consumed before and during the the time on the bike.
+Speaking of Gatorade, that was a 500ml bottle with 200 calories consumed before and during the the time on the bike.
 
 ### BEAUTIFUL EVENING ALONG THE GORGE
 ![Gorge Waterway Sunset](/assets/jpg/gorge-20201201.jpeg)
