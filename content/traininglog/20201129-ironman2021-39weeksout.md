@@ -79,6 +79,8 @@ It was a similar on the rollers in that I stopped for briefly to take some layer
 
 Speaking of Gatorade, this was a 750ml bottle with 200 calories mixed before the run but consumed before and during the the time on the bike.
 
+### BEAUTIFUL EVENING ALONG THE GORGE
+![Gorge Waterway Sunset](/assets/jpg/gorge-20201201.jpeg)
 <!---->
 ## WEDNESDAY DEC 02 ☀️
 Sleep **3** | Fatigue **-** | Stress **2** | Soreness **-**  
