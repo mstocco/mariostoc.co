@@ -90,8 +90,7 @@ Sleep **3** | Fatigue **-** | Stress **2** | Soreness **-**
 ### PLANNED WORKOUT
 Mobility: 18 minutes.   
 Run 15 minutes easy to warm up.   
-6x 100 meter strides, 100 meter EASY jog after each.  
-200 meters @ goal 5k effort/pace. Walk 100-200 meters.   
+6x 100 meter strides, 100 meter EASY jog after each.  200 meters @ goal 5k effort/pace. Walk 100-200 meters.   
 1400 @ 5k effort. Trying to hit 53/54 for each 200. Especially make a point to run the first 600 on pace. 
 10 minute cool down jog.
 
