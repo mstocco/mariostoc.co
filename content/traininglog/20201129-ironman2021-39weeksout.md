@@ -10,7 +10,7 @@ This week's focus is all about a **5000m TT** this [Saturday](javascript:flick('
 I feel like was...   
 <sup>(completed at the end of the week)</sup><!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
-![I LOVED, LOVED, the workouts here this past autumn, but my track sessions are coming to and end (for a while).](/assets/jpg/IMG_0454-977x550.jpeg PACIFIC INSTITUTE FOR SPORT EXCELLENCE [PISE])
+![I LOVED, LOVED the workouts here this past autumn, but my track sessions are coming to an end](/assets/jpg/IMG_0454-977x550.jpeg PACIFIC INSTITUTE FOR SPORT EXCELLENCE [PISE])
 
 ## SUNDAY NOV 29 ⛅️
 Sleep **2** | Fatigue **3** | Stress **3** | Soreness **3**  
