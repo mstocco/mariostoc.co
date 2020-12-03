@@ -10,7 +10,8 @@ This week's focus is all about a **5000m TT** this [Saturday](javascript:flick('
 I feel like was...   
 <sup>(completed at the end of the week)</sup><!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
-<!---->
+![I love running here but track workouts are coming to and end for a while.](/assets/jpg/IMG_0454-977x550.jpeg PACIFIC INSTITUTE FOR SPORT EXCELLENCE [PISE])
+
 ## SUNDAY NOV 29 ⛅️
 Sleep **2** | Fatigue **3** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -95,10 +96,11 @@ Run 15 minutes easy to warm up.
 10 minute cool down jog.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **30 minutes**  Feeling:  **Fantastic**
 
 I slept in this morning.  The body is telling me I needed the rest.
 
+Post-sunset run on the track.  What a beautiful night to be outside.  I executed the warm-up and found myself having to SLOW down the strides and the 200m.  The 1400m effort went one more half lap to 1600m because I can't count and because I was feeling a groove hitting those 53/54s.
 
 <!---->
 ## THURSDAY DEC 03
