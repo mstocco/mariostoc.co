@@ -82,6 +82,7 @@ Speaking of Gatorade, that was a 500ml bottle with 200 calories consumed before 
 
 ### BEAUTIFUL EVENING ALONG THE GORGE
 ![Gorge Waterway Sunset](/assets/jpg/gorge-20201201.jpeg)
+
 <!---->
 ## WEDNESDAY DEC 02 ☀️
 Sleep **3** | Fatigue **-** | Stress **2** | Soreness **-**  
@@ -95,11 +96,11 @@ Run 15 minutes easy to warm up.
 10 minute cool down jog.
 
 ### NOTES
-Total Time: **30 minutes**  Feeling:  **Fantastic**
+Total Time: **30 minutes** &nbsp;  Feeling:  **Fantastic**
 
 I slept in this morning.  The body is telling me I needed the rest.
 
-Post-sunset run on the track.  What a **beautiful night** to be outside.  I executed the warm-up and found myself having to SLOW down the strides.  The 1400m effort went one more half lap to 1600m because I can't count and because I was **feeling a groove** hitting those 53/54s.
+Under the lights, post-sunset on the track; what a [beautiful night](javascript:flkty.select(2);) to be outside!  I executed the warm-up and found myself having to SLOW down the strides.  The 1400m effort went one more half lap to 1600m because I can't count and because I was **feeling a groove** hitting those 53/54s.
 
 <!---->
 ## THURSDAY DEC 03
@@ -113,7 +114,6 @@ Ride 60 minutes easy. Inside or outside. Keep it easy.
 Total Time: **0 minutes**
 
 &mdash; 
-
 
 <!---->
 ## FRIDAY DEC 04
