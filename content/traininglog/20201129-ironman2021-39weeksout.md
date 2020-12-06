@@ -165,17 +165,18 @@ I finished the 5th lap, 2000m into a 5000m effort and it hits; I was expecting i
 
 When I did this distance on [Halloween](ironman2021-44weeksout?sat), the breakdown hit around 4 km.  In fact, today sadly felt closer to [September 19th](ironman2021-50weeksout?sat) where I didn't even get to 5km than any other day in between.
 
-Today's reality: **4:37 min/km** for **23:07**   I am pretty disappointed about my result.
-
+### PACE AND CADENCE GRAPH
 ![Pace and Cadence](/assets/jpg/pace-20201205.jpeg)
-<sup>Pace: <strong style="color:blue;">&ldash;</strong> &nbsp; Cadence: <strong style="color:pink;">&ldash;</strong></sup>
+<sup>Pace: <strong style="color:cornflowerblue;">&mdash;</strong> &nbsp; Cadence: <strong style="color:magenta;">&mdash;</strong></sup>
 
-### THERE WAS A RIDE TOO
-The ride was scheduled for 30 minutes indoors but with the really nice weather, I took the road bike out for a flat spin around the Goose/E&N bike path loop.
+Today's reality: **4:37 min/km** for **23:07**   I am pretty disappointed about my result.
 
 <!---->
 ### CAN I FIND A SILVER LINING?
 Over the last 4 weeks, I have been wearing a HR monitor strap and apart from a some runs with some abnormal data during the first few minutes of a run, I have, what I feel is a good data set from the workouts that I have been doing.  With that data, Garmin has some proprietary estimates and if I can trust those numbers outside of today, the following chart shows a positive trend.
 
-#### GARMIN ESTIMATED LACTATE THRESHOLD 
+### GARMIN ESTIMATED LACTATE THRESHOLD 
 ![Lactate Threshold Chart](/assets/jpg/lactate-20201205.jpeg)
+<!---->
+### THERE WAS A RIDE TOO
+The ride was scheduled for 30 minutes indoors but with the really nice weather, I took the road bike out for a flat spin around the Goose/E&N bike path loop.
