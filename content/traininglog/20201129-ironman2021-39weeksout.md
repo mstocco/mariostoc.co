@@ -151,9 +151,9 @@ PM: Spin 30 minutes EASY on the trainer
 ### NOTES
 Total Time: **0 minutes**
 
-It was a coffee with some toast and jam after an okay sleep last night.  I drove to PISE at 0800 hoping to get the run completed before the soccer crowds showed up.  This was a windless, crisp, 1°C morning with a spectacular sunrise.
-
-Getting to the track, the place was empty, save two teenaged boys practicing penalty kicks on the soccer field.  I was good to run, or so I thought.  The track had a couple of icy and un-runable sections; with the sun just above the horizon, it would take another hour before I could start.  I walked the track to pass the time.
+It was a coffee with some toast and jam after an okay sleep last night.  I drove to PISE at 0800 hoping to get the run completed before the soccer crowds showed up.
+<!---->
+Getting to the track, the place was empty, save two teenaged boys practicing penalty kicks on the soccer field.  This was a windless, crisp, 1°C morning with a spectacular sunrise.  I was good to run, or so I thought.  The track had a couple of un-runable, icy sections; with the sun just above the horizon, it would take another hour before I could start.  I walked the track to pass the time.
 
 Just after 9am, I started my warmup, paying particular attention to slowing down the 6x100m strides and nailing the speed on the 200m.  My watch read **52.4** seconds for that 200m length; right on schedule.
 
