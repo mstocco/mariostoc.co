@@ -11,7 +11,7 @@ I feel like was **EMOTIONALLY READY** to run, but...
 
 _“A goal without a plan is just a wish.”_
 
-So what happens when a goal with a plan is not realized?  I may be internalizing the results of [Saturday](javascript:flick('sat');)   for a while.
+So the question I am left with is what happens when a goal, with a plan, is not realized?  I may be internalizing the results of [Saturday](javascript:flick('sat');)   for a while.
 
 ![I loved, Loved, LOVED,  the workouts here the last two months, but sadly, these track sessions are coming to an end.](/assets/jpg/IMG_0454-977x550.jpeg PACIFIC INSTITUTE FOR SPORT EXCELLENCE [PISE])
 
@@ -167,5 +167,14 @@ When I did this distance on [Halloween](ironman2021-44weeksout?sat), the breakdo
 
 Today's reality: **4:37 min/km** for **23:07**   
 
-<!---->
+I am pretty disappointed about my result.
+
+### THERE WAS A RIDE TO DO
 The ride was scheduled for 30 minutes indoors but with the weather being what it is, I took the road bike out for a flat spin around the Goose/E&N bike path loop.
+
+<!---->
+### CAN I FIND A SILVER LINING?
+Over the last 4 weeks, I have been wearing a HR monitor strap and apart from a some runs with some abnormal data during the first few minutes of a run, I have, what I feel is a good data set from the workouts that I have been doing.  With that data, Garmin has some proprietary estimates and if I can trust those numbers outside of today, the following chart shows a positive trend.
+
+#### GARMIN ESTIMATED LACTATE THRESHOLD 
+![Lactate Threshold Chart](/assets/jpg/lt-20201205.jpeg)
