@@ -7,8 +7,11 @@ Week beginning [Sunday, November 29, 2020](javascript:flick('sun');)
 This week's focus is all about a **5000m TT** this [Saturday](javascript:flick('sat');) 
 
 ## SUMMARY
-I feel like was...   
-<sup>(completed at the end of the week)</sup><!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel like was **EMOTIONALLY READY** to run, but...
+
+_“A goal without a plan is just a wish.”_
+
+So what happens when a goal with a plan is not realized?  I may be internalizing the results of [Saturday](javascript:flick('sat');)   for a while.
 
 ![I loved, Loved, LOVED,  the workouts here the last two months, but sadly, these track sessions are coming to an end.](/assets/jpg/IMG_0454-977x550.jpeg PACIFIC INSTITUTE FOR SPORT EXCELLENCE [PISE])
 
@@ -103,7 +106,7 @@ I slept in this morning.  The body is telling me I needed the rest.
 Under the lights, post-sunset on the track; what a [beautiful night](javascript:flkty.select(2);) to be outside!  I executed the warm-up and found myself having to SLOW down the strides.  The 1400m effort went one more half lap to 1600m because I can't count and because I was **feeling a groove** hitting those 53/54s.
 
 <!---->
-## THURSDAY DEC 03
+## THURSDAY DEC 03 ☀️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -116,7 +119,7 @@ Total Time: **0 minutes**
 &mdash; 
 
 <!---->
-## FRIDAY DEC 04
+## FRIDAY DEC 04 ☀️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -131,7 +134,7 @@ Total Time: **0 minutes**
 
 
 <!---->
-## SATURDAY DEC 05
+## SATURDAY DEC 05 ☀️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -148,7 +151,19 @@ PM: Spin 30 minutes EASY on the trainer
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+It was a coffee with some toast and jam after an okay sleep last night.  I drove to PISE at 0800 hoping to get the run completed before the soccer crowds showed up.  This was a windless, crisp, 1°C morning with a spectacular sunrise.
 
+Getting to the track, the place was empty, save two teenaged boys practicing penalty kicks on the soccer field.  I was good to run, or so I thought.  The track had a couple of icy and un-runable sections; with the sun just above the horizon, it would take another hour before I could start.  I walked the track to pass the time.
+
+Just after 9am, I started my warmup, paying particular attention to slowing down the 6x100m strides and nailing the speed on the 200m.  My watch read **52.4** seconds for that 200m length; right on schedule.
+
+So the TT starts and I have it in my mind to no go out fast and I put the first 200m, 400m, 600m all at **54** seconds.  Everything is feeling light, easy and with a goal of running 53 second, 200m splits, I am only a touch behind schedule.  
+
+I decided to pick it up a bit and I ran the next lap at 52 second 200m splits.  I was feeling really confident with how this run was shaping up.  Cadence, breathing, posture all felt familiar to the work I had been putting in.  
+
+I finished the 5th lap, 2000m into a 5000m effort and it hits; I was expecting it, but I was surprised that it happened so early.  The breakdown began; I went from cruising down the track to fighting for everything.  I was fighting to maintain pace, fighting to kept the cadence up.  
+
+When I did this distance on [Halloween](ironman2021-weeksout?sat), the breakdown hit around 4 km.  In fact, today felt closer to [September 29th](ironman2021-weeksout?sat) where I didn't even get to 5km than any other day in between.
 
 <!---->
+The ride was scheduled for 30 minutes indoors but with the weather being what it is, I took the road bike out for a flat spin around the Goose/E&N bike path loop.
