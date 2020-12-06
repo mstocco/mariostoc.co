@@ -160,10 +160,12 @@ Just after 9am, I started my warmup, paying particular attention to slowing down
 So the TT starts and I have it in my mind to no go out fast and I put the first 200m, 400m, 600m all at **54** seconds.  Everything is feeling light, easy and with a goal of running 53 second, 200m splits, I am only a touch behind schedule.  
 
 I decided to pick it up a bit and I ran the next lap at 52 second 200m splits.  I was feeling really confident with how this run was shaping up.  Cadence, breathing, posture all felt familiar to the work I had been putting in.  
+<!---->
+I finished the 5th lap, 2000m into a 5000m effort and it hits; I was expecting it, but I was surprised that it happened so early.  The breakdown began; I went from cruising down the track to fighting for everything.  I was fighting to maintain pace, fighting to maintaine a race cadence.  I tried to force a smile, anything to change the direction that this outcome was heading toward.  
 
-I finished the 5th lap, 2000m into a 5000m effort and it hits; I was expecting it, but I was surprised that it happened so early.  The breakdown began; I went from cruising down the track to fighting for everything.  I was fighting to maintain pace, fighting to kept the cadence up.  
+When I did this distance on [Halloween](ironman2021-44weeksout?sat), the breakdown hit around 4 km.  In fact, today sadly felt closer to [September 19th](ironman2021-50weeksout?sat) where I didn't even get to 5km than any other day in between.
 
-When I did this distance on [Halloween](ironman2021-weeksout?sat), the breakdown hit around 4 km.  In fact, today felt closer to [September 29th](ironman2021-weeksout?sat) where I didn't even get to 5km than any other day in between.
+Today's reality: **4:37 min/km** for **23:07**   
 
 <!---->
 The ride was scheduled for 30 minutes indoors but with the weather being what it is, I took the road bike out for a flat spin around the Goose/E&N bike path loop.
