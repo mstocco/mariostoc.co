@@ -4,7 +4,7 @@ Week beginning [Sunday, December 6, 2020](javascript:flick('sun');)
 **38 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-I may be internalizing the results of [last Saturday](ironman2021-39weeksout?sat);) for a while.  My goal is to metaphorically, put to those thoughts in a box, put that box on a shelf, and get on with the preparation for an Ironman in less than 9 months.
+I may be internalizing the results of the 5k time trial [last Saturday](ironman2021-39weeksout?sat);) for a while.  My goal is to metaphorically, put to those thoughts in a box, put that box on a shelf, and get on with the preparation for an Ironman in less than 9 months.
 
 ## SUMMARY
 I feel like was...    
