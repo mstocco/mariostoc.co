@@ -167,9 +167,8 @@ When I did this distance on [Halloween](ironman2021-44weeksout?sat), the breakdo
 ![Pace and Cadence](/assets/jpg/pace-20201205.jpeg)
 <sup> &nbsp; Pace: <strong style="color:cornflowerblue;">&mdash;</strong> &nbsp; Cadence: <strong style="color:magenta;">&mdash;</strong></sup>
 
-Today's reality: **4:37 min/km** for **23:07**
-
- I am pretty disappointed about my result.
+Today's reality: **4:37 min/km** for **23:07**    
+I am pretty disappointed about my result.
 <!---->
 ### CAN I FIND A SILVER LINING?
 Over the last 4 weeks, I have been wearing a HR monitor strap and apart from a some runs with some abnormal data during the first few minutes of a run, I have, what I feel is a good data set from the workouts that I have been doing.  With that data, Garmin has some proprietary estimates and if I can trust those numbers outside of today, the following chart shows a positive trend.
