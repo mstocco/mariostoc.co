@@ -12,18 +12,17 @@ I feel like was...
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
 <!---->
-## SUNDAY DEC 06
+## SUNDAY DEC 06 🌤
 Sleep **4** | Fatigue **4** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Ride 90 minutes easy on the MTB. Get out and have some fun.
 
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
-
+Today was a miss.  Sore throat and feeling off.
 
 <!---->
 ## MONDAY DEC 07
@@ -36,7 +35,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+&mdash;
 
 
 <!---->
@@ -45,7 +44,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+
+Trainer 70 minutes: 25 minutes easy spinning to warm up. 10x 1:00 high cadence/very stable hips, 1:30 easy after each. 20 minutes easy spinning to finish up. 
+Run 30 minutes. Flat route. Easy effort.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -59,7 +60,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Mobility 25 minutes (Really slow moving one)   
+Run 50 minutes. Rolling to hilly route. Effort is EASY. 
 
 ### NOTES
 Total Time: **0 minutes**
@@ -73,7 +75,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Mobility: 25 minutes.   
+Trainer 70 minutes: 120 minutes easy riding to warm up. 8x :45 high cadence, :30 easy after each. 3:00 easy. 12x :15 seated/strong effort (something you could hold for 3-5 minutes up a really steep hill, NOT a sprint) :45 easy spin after each. 5 minutes easy riding. 5x 1:00 high cadence, 1:00 easy riding. 10 minutes easy to cool down.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -87,7 +90,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+3:30pm: Swim 2050: 2 rounds (150 easy swim r :30, 2x 75 swim w/ buoy r :20, 2x 50 steady kick w/ board r :15) 16x 25 Odds: Strong, evens: Relaxed/smooth r :15 after each. 6x 125 aerobic/steady stroke r :25 after each. 4x 25 super easy to cool down. 
+Run 40 minutes. Flat route. Easy effort.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -101,12 +105,11 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Can be separated by most of the day, can be back-to-back, in either direction. Up to you. 
+MTB ~ 90 minutes. Fun ride. A trail or two would be nice. Overall an easy to moderate ride. 
+Run 60 minutes. Flat to rolling. Nothing too steep. Maybe on Colquitz or something like that. Effort is EASY!
 
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
-
-
-<!---->
+&mdash;
