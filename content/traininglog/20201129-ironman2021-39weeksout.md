@@ -7,11 +7,9 @@ Week beginning [Sunday, November 29, 2020](javascript:flick('sun');)
 This week's focus is all about a **5000m TT** this [Saturday](javascript:flick('sat');) 
 
 ## SUMMARY
-I feel like was **EMOTIONALLY READY** to run, but...
+I feel like was **EMOTIONALLY READY** to run, but things didn't work out at I had imagined.
 
-_“A goal without a plan is just a wish.”_
-
-So the question I am left with is what happens when a goal, with a plan, is not realized?  I may be internalizing the results of [Saturday](javascript:flick('sat');)   for a while.
+I ran a 5K Time Trial on the track, felt confident all week and through the warm up beforehand, but 10 minutes into the run, I felt things went south for me and I found myself fighting a losing battle to hold what should have been a maintainable effort.
 
 ![I loved, Loved, LOVED,  the workouts here the last two months, but sadly, these track sessions are coming to an end.](/assets/jpg/IMG_0454-977x550.jpeg PACIFIC INSTITUTE FOR SPORT EXCELLENCE [PISE])
 
@@ -149,7 +147,7 @@ PM: Spin 30 minutes EASY on the trainer
 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **90 minutes**
 
 It was a coffee with some toast and jam after an okay sleep last night.  I drove to PISE at 0800 hoping to get the run completed before the soccer crowds showed up.
 <!---->
@@ -167,7 +165,7 @@ When I did this distance on [Halloween](ironman2021-44weeksout?sat), the breakdo
 
 ### PACE AND CADENCE GRAPH
 ![Pace and Cadence](/assets/jpg/pace-20201205.jpeg)
-<sup>Pace: <strong style="color:cornflowerblue;">&mdash;</strong> &nbsp; Cadence: <strong style="color:magenta;">&mdash;</strong></sup>
+<sup> &nbsp; Pace: <strong style="color:cornflowerblue;">&mdash;</strong> &nbsp; Cadence: <strong style="color:magenta;">&mdash;</strong></sup>
 
 Today's reality: **4:37 min/km** for **23:07**   I am pretty disappointed about my result.
 
@@ -180,3 +178,5 @@ Over the last 4 weeks, I have been wearing a HR monitor strap and apart from a s
 <!---->
 ### THERE WAS A RIDE TOO
 The ride was scheduled for 30 minutes indoors but with the really nice weather, I took the road bike out for a flat spin around the Goose/E&N bike path loop.
+
+![Ride Map](/assets/jpg/ridemap-20201205.jpeg)
