@@ -9,7 +9,7 @@ This week's focus is all about a **5000m TT** this [Saturday](javascript:flick('
 ## SUMMARY
 I feel like was **EMOTIONALLY READY** to run, but things didn't work out at I had imagined.
 
-I ran a 5K Time Trial on the track, felt confident all week and through the warm up beforehand, but 10 minutes into the run, I felt things went south for me and I found myself fighting a losing battle to hold what should have been a maintainable effort.
+I ran a 5K Time Trial on the track, felt confident all week right through the warm up beforehand, but 10 minutes into the run, I felt things going south for me and I found myself fighting a losing battle to hold what should have been a maintainable effort.
 
 ![I loved, Loved, LOVED,  the workouts here the last two months, but sadly, these track sessions are coming to an end.](/assets/jpg/IMG_0454-977x550.jpeg PACIFIC INSTITUTE FOR SPORT EXCELLENCE [PISE])
 
@@ -159,21 +159,21 @@ So the TT starts and I have it in my mind to no go out fast and I put the first 
 
 I decided to pick it up a bit and I ran the next lap at 52 second 200m splits.  I was feeling really confident with how this run was shaping up.  Cadence, breathing, posture all felt familiar to the work I had been putting in.  
 <!---->
-I finished the 5th lap, 2000m into a 5000m effort and it hits; I was expecting it, but I was surprised that it happened so early.  The breakdown began; I went from cruising down the track to fighting for everything.  I was fighting to maintain pace, fighting to maintaine a race cadence.  I tried to force a smile, anything to change the direction that this outcome was heading toward.  
+I finished the 5th lap, 2000m into a 5000m effort and then it hits; I was expecting it, but I was surprised that it happened so early.  The breakdown began; I went from cruising down the track to fighting for everything.  I was fighting to maintain pace, fighting to maintaine a race cadence.  I tried to force a smile, anything to change the direction that this outcome was heading toward.  
 
-When I did this distance on [Halloween](ironman2021-44weeksout?sat), the breakdown hit around 4 km.  In fact, today sadly felt closer to [September 19th](ironman2021-50weeksout?sat) where I didn't even get to 5km than any other day in between.
+When I did this distance on [Halloween](ironman2021-44weeksout?sat), the breakdown hit around 4 km.  In fact, today's effort sadly felt closer to [September 19th](ironman2021-50weeksout?sat) where I didn't even get to 5km than any other day in between.
 
-### PACE AND CADENCE GRAPH
+### PACE AND CADENCE DROP OFF
 ![Pace and Cadence](/assets/jpg/pace-20201205.jpeg)
 <sup> &nbsp; Pace: <strong style="color:cornflowerblue;">&mdash;</strong> &nbsp; Cadence: <strong style="color:magenta;">&mdash;</strong></sup>
 
-Today's reality: **4:37 min/km** for **23:07**   I am pretty disappointed about my result.
+Today's reality: **4:37 min/km** for **23:07**
 
+ I am pretty disappointed about my result.
 <!---->
 ### CAN I FIND A SILVER LINING?
 Over the last 4 weeks, I have been wearing a HR monitor strap and apart from a some runs with some abnormal data during the first few minutes of a run, I have, what I feel is a good data set from the workouts that I have been doing.  With that data, Garmin has some proprietary estimates and if I can trust those numbers outside of today, the following chart shows a positive trend.
 
-### GARMIN ESTIMATED LACTATE THRESHOLD 
 ![Lactate Threshold Chart](/assets/jpg/lactate-20201205.jpeg)
 <!---->
 ### THERE WAS A RIDE TOO
