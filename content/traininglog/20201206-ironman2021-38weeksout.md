@@ -22,20 +22,22 @@ Ride 90 minutes easy on the MTB. Get out and have some fun.
 ### NOTES
 Total Time: **0 minutes**
 
-Today was a miss.  Sore throat and feeling off.
+Today was a miss.  Sore throat and feeling off.  I know there is a mountain bike ride and this may be the last dry day for a while but I am really looking at curling up with a blanket and watching the Challenge Daytona race.
 
 <!---->
-## MONDAY DEC 07
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## MONDAY DEC 07 🌧
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+25 Minute Relaxed Evening Flexibility Routine V2
 
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash;
+I woke up feeling groggy.
+
+Interestingly, the sorest part of my body is my left masseter muscle.  It has been a bothering me for a week now and now chewing is very much a strained, painful experience.  If I thought that running a 23:07 5k was a punch in the jaw, then it manifests into a real thing, I'd say dumb luck.
 
 
 <!---->
