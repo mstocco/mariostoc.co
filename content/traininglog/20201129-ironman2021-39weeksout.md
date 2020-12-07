@@ -155,7 +155,7 @@ Getting to the track, the place was empty, save two teenaged boys practicing pen
 
 Just after 9am, I started my warmup, paying particular attention to slowing down the 6x100m strides and nailing the speed on the 200m.  My watch read **52.4** seconds for that 200m length; right on schedule.
 
-So the TT starts and I have it in my mind to no go out fast and I put the first 200m, 400m, 600m all at **54** seconds.  Everything is feeling light, easy and with a goal of running 53 second, 200m splits, I am only a touch behind schedule.  
+So the TT starts and I have it in my mind to _not_ go out fast and I put the first 200m, 400m, 600m all at **54** seconds.  Everything is feeling light, easy and with a goal of running 53 second, 200m splits, I am only a touch behind schedule.  
 
 I decided to pick it up a bit and I ran the next lap at 52 second 200m splits.  I was feeling really confident with how this run was shaping up.  Cadence, breathing, posture all felt familiar to the work I had been putting in.  
 <!---->

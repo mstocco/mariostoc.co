@@ -4,7 +4,7 @@ Week beginning [Sunday, December 6, 2020](javascript:flick('sun');)
 **38 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-I may be internalizing the results of [last Saturday](javascript:flick('sat');) for a while.  My goal is to metaphorically, put to those thoughts in a box, put that box on a shelf, and get on with the preparation for an Ironman in 38 weeks.
+I may be internalizing the results of [last Saturday](ironman2021-39weeksout?sat);) for a while.  My goal is to metaphorically, put to those thoughts in a box, put that box on a shelf, and get on with the preparation for an Ironman in less than 9 months.
 
 ## SUMMARY
 I feel like was...    
@@ -46,7 +46,6 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-
 Trainer 70 minutes: 25 minutes easy spinning to warm up. 10x 1:00 high cadence/very stable hips, 1:30 easy after each. 20 minutes easy spinning to finish up. 
 Run 30 minutes. Flat route. Easy effort.
 
