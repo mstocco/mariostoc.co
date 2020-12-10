@@ -51,11 +51,13 @@ Run 30 minutes. Flat route. Easy effort.
 
 ### NOTES
 Total Time: **95 minutes**
+
 So so sleep last night.
 
 I use the rollers instead of setting up the trainer.  I am pretty confident that the roller force my hips to be steady during that cadence work otherwise I would be picking myself up off the floor (or worse).  I pulled the workout into my bike computer and just pedalled to the beeps (meaning there was no looking at numbers).  I felt pretty good about the effort and was generally around 120RPM for the 10x1:00 spins.
 <!---->
-Something new!  I mixed 52 grams of _Country Time Lemonade_ and a pinch of salt into a 600ml bottle and stopped briefly to drink and wipe down throughout the bike workout; I finished it all before the 70 minutes too.  The lemonade crystals are first time try as the tub of _Gatorade_ is almost done.  No GI, ok taste and vitamin C.
+### SOMETHING NEW
+I mixed 52 grams of _Country Time Lemonade_ and a pinch of salt into a 600ml bottle and stopped briefly to drink and wipe down throughout the bike workout; I finished it all before the 70 minutes too.  The lemonade crystals are first time try as the tub of _Gatorade_ is almost done.  No GI, ok taste and vitamin C.
 
 The shoes and headlamp were with me in the garage and once the bike was put away, I headed out for the run (almost) off the bike.  I could still feel some fatigue from the TT [last Saturday](ironman2021-39weeksout?sat); specifically in the left hamstring/glute but my right achilles was stiff too.  Tonight's run was a super chill effort around the neighbourhood and I was lucky to have a period of no rain to enjoy the Christmas lights that people have strung up for the season.
 
