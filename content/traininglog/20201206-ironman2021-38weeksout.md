@@ -89,18 +89,18 @@ I did the mobility after dinner.  This routine was different in that there was n
 ![Run Map](/assets/jpg/runmap-20201209.jpeg)
 
 <!---->
-## THURSDAY DEC 10
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## THURSDAY DEC 10 ☁️
+Sleep **4** | Fatigue **3** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 Mobility: 25 minutes.   
-Trainer 70 minutes: 120 minutes easy riding to warm up. 8x :45 high cadence, :30 easy after each. 3:00 easy. 12x :15 seated/strong effort (something you could hold for 3-5 minutes up a really steep hill, NOT a sprint) :45 easy spin after each. 5 minutes easy riding. 5x 1:00 high cadence, 1:00 easy riding. 10 minutes easy to cool down.
+Trainer 70 minutes: 20 minutes easy riding to warm up. 8x :45 high cadence, :30 easy after each. 3:00 easy. 12x :15 seated/strong effort (something you could hold for 3-5 minutes up a really steep hill, NOT a sprint) :45 easy spin after each. 5 minutes easy riding. 5x 1:00 high cadence, 1:00 easy riding. 10 minutes easy to cool down.
 
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Another so-so sleep last night.  I am feeling tight in the hip flexors even though they were part of yesterday's mobility routine.
 
 
 <!---->
