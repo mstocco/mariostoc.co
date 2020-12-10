@@ -86,6 +86,8 @@ I also didn't run with much of a route in mind other than going over the _Craigf
 
 I did the mobility after dinner.  This routine was different in that there was no background music.  First movement(s) showed me that there isn't much internal rotation in my shoulders and the last movement let me know that my left glute/hamstring is stiff pretty tender.
 
+### CRAIGFLOWER OVER AND BACK
+![Run Map](/assets/jpg/runmap-20201209.jpeg)
 
 <!---->
 ## THURSDAY DEC 10
