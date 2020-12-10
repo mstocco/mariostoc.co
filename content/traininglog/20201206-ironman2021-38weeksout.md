@@ -56,9 +56,9 @@ So so sleep last night.
 
 I use the rollers instead of setting up the trainer.  I am pretty confident that the rollers force my hips to be steady during that cadence work otherwise I would be picking myself up off the floor (or worse).  I loaded the workout into my bike computer and just pedalled by the beeps (meaning there was no looking at numbers).  I felt **pretty good** about the effort and was generally around 120RPM for the 10x1:00 spins.
 <!---->
-**New Product:** I mixed 52 grams of _Country Time Lemonade_ and a pinch of salt into a 600ml bottle and stopped briefly to drink throughout the bike workout; I finished it all before the 70 minutes too.  The lemonade crystals are a _"first time try"_ for me as my last tub of _Gatorade_ is almost done.  No GI, ok taste and vitamin C.
+New Product: I mixed 52 grams of _Country Time Lemonade_ and a pinch of salt into a 600ml bottle and stopped briefly to drink throughout the bike workout; I finished it all before the 70 minutes too.  The lemonade crystals are a _"first time try"_ for me as my last tub of _Gatorade_ is almost done.  No GI, ok taste and vitamin C.
 
-The shoes and headlamp were with me in the garage and once the bike was put away, I headed out for the run (almost) off the bike.  I could still feel **some residual fatigue** from [last Saturday](ironman2021-39weeksout?sat); specifically in the left hamstring/glute but my right achilles was stiff too.  Tonight's run was a super chill effort around the neighbourhood and I was lucky to have a period of no rain to enjoy the Christmas lights that people have strung up for the season.
+The shoes and headlamp were with me in the garage and once the bike was put away, I headed out for the run (almost) off the bike.  I could still feel **some residual fatigue** from the run [last Saturday](ironman2021-39weeksout?sat); specifically in the left hamstring/glute but my right achilles was stiff too.  Tonight's run was a super chill effort around the neighbourhood and I was lucky to have a period of no rain to enjoy the Christmas lights that people have strung up for the season.
 
 ### HEART RATE FROM THE BIKE
 ![Heart Rate on the Bike](/assets/jpg/hr-20201208.jpeg)
@@ -75,15 +75,15 @@ Run 50 minutes. Rolling to hilly route. Effort is EASY.
 ### NOTES
 Total Time: **53 minutes**
 
-I didn't feel like I slept all that well as I woke from a dream or a nightmare; I honestly can't remember.
+I didn't feel like I slept all that well as I woke from a dream or a nightmare; I honestly can't remember.  My jaw works today (finally).
 
 Work has been busy and engaging of late.  I have a handle on some of work's support tasks (which can be a drag) and I am back to doing more development coding.
 
 I ran after dark again tonight; if there isn't pace work on the schedule, I do find it **very relaxing**.  The low light gives me the illusion that I am running faster than I am but my heart rate stays in a perfect zone two range.
 <!---->
-I also didn't run with much of a route in mind other than going over the _Craigflower Hill_ (between _Tillicum_ and _Admirals_).  Once I got to _Admirals Road_, I decided that the hilliest route back would be to simply turn around and retrace the route I just did.  Easy.
+I also didn't run with much of a route in mind other than going over _Craigflower Hill_ (between _Tillicum_ and _Admirals_).  Once I got to _Admirals Road_, I decided that the hilliest route back would be to simply turn around and retrace the route I just did.  Effort was **easy** and everything felt good too.
 
-I did the mobility after dinner.  This routine was different in that there was no background music.  First movement(s) showed me that there isn't much internal rotation in my shoulders and the last movement let me know that my left glute/hamstring is stiff pretty tender.
+I did the mobility after dinner.  This routine was different in that there was no background music.  First movement(s) showed me that there isn't much internal rotation in my shoulders and the last movement let me know that my left glute/hamstring is **pretty stiff** and tender.
 
 ### CRAIGFLOWER OVER AND BACK
 ![Run Map](/assets/jpg/runmap-20201209.jpeg)
