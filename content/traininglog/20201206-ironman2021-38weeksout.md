@@ -102,7 +102,12 @@ Total Time: **75 minutes**
 
 Another so-so sleep last night.  I am feeling tight in the hip flexors even though they were part of yesterday's mobility routine.
 
+Today was another long and engaged day at work.  I believe there is a push to get a quantity of work complete before we go into a company "brown-out", a period of no systems changes during the holiday season.
+<!---->
 After dinner, I headed out to the garage for the workout on the rollers.  I felt a bit of the ride from [Tuesday](javascript:flick('tue');) lingering in the legs.  Regardless I pedalled through and got +70 minutes on the bike.  I didn't program the last part of the workout correctly.
+
+### VARIED HEART RATE NIGHT
+![HR Chart](/assets/jpg/hr-20201210.jpeg)
 
 <!---->
 ## FRIDAY DEC 11
