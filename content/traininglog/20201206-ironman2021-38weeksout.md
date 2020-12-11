@@ -98,10 +98,11 @@ Mobility: 25 minutes.
 Trainer 70 minutes: 20 minutes easy riding to warm up. 8x :45 high cadence, :30 easy after each. 3:00 easy. 12x :15 seated/strong effort (something you could hold for 3-5 minutes up a really steep hill, NOT a sprint) :45 easy spin after each. 5 minutes easy riding. 5x 1:00 high cadence, 1:00 easy riding. 10 minutes easy to cool down.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **75 minutes**
 
 Another so-so sleep last night.  I am feeling tight in the hip flexors even though they were part of yesterday's mobility routine.
 
+After dinner, I headed out to the garage for the workout on the rollers.  I felt a bit of the ride from [Tuesday](javascript:flick('tue');) lingering in the legs.  Regardless I pedalled through and got +70 minutes on the bike.  I didn't program the last part of the workout correctly.
 
 <!---->
 ## FRIDAY DEC 11
