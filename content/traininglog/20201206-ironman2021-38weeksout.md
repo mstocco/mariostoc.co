@@ -23,7 +23,7 @@ Sleep **4** | Fatigue **4** | Stress **4** | Soreness **4**
 Ride 90 minutes easy on the MTB. Get out and have some fun.
 
 ### NOTES
-Total Time: **0 minutes**
+<mark>Total Time: <strong>0 minutes</strong>&nbsp;</mark>
 
 Today was a miss.  Sore throat and feeling off.  I know there is a mountain bike ride and this may be the last dry day for a while but I am really looking at curling up with a blanket and watching the Challenge Daytona race.
 
