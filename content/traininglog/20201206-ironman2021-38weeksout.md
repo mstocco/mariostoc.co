@@ -11,9 +11,9 @@ I feel like I was **READY FOR A PIVOT**
 
 I honestly thought I would be brooding much longer over missing my mini-goal to run a 5K PB.  Watching the _Daytona Challenge_, the 3 promotional emails received from IRONMAN Italy, and an email from IRONMAN Canada announcing their swim and run course had me thinking longer, much longer than 5 kms.
 
-Even with the change in training and skipping Sunday, my legs finished feeling heavy and worked over.
+Even with a different training focus, my legs finished the week feeling heavy and worked over.
 
-![This is the week that the winter "running in the dark" season started.](/assets/jpg/IMG_0470-977x550.jpeg Esquimalt Gorge Park)
+![This is the week that the winter, "running in the dark" season started for me.](/assets/jpg/IMG_0470-977x550.jpeg Esquimalt Gorge Park)
 
 ## SUNDAY DEC 06 🌤
 Sleep **4** | Fatigue **4** | Stress **4** | Soreness **4**  
@@ -126,14 +126,19 @@ Total Time: **50 minutes**
 
 Another night of less than great sleep; I was up earlier than I wanted.  Work was a longer day too.
 
-So... **solid workout** in the pool late this afternoon.  It was just me and another age-grouper dude in the moderate lane; he had the olympic distance coloured swim cap from the _Elk Lake Triathlon_.  This meant things flowed well neither of us really got in each other's way.
+So... **solid workout** in the pool late this afternoon.  Just two people in the moderate lane; just me and another age-grouper dude who wore the olympic distance coloured swim cap from the _Elk Lake Triathlon_.  This meant things both of our workouts flowed well; neither of us really got in each other's way.
 <!---->
 ### NORMALIZED SWIM PACES
 ![Swim Workout](/assets/jpg/swim-20201211.jpeg)
 
+The swim felt good though if I was to note anything, it would have been that the burn in the quads during the kickboard lengths.  
+
 If the swim felt good, the jog was anything but; **no juice**, even after a decent dinner.
 
-It was heavy, dead legs that never came around tonight.  I walked (uphills) and walked the last  
+It was heavy, dead legs that never came around tonight.  I stopped for a minute or two to snap [this week's photo](javascript:flkty.select(2);), walked the uphills and stopped the watch with aroung 600m  home.  Nothing was feeling "injury sore" during the run; just no power or spring off the ground.
+
+I did notice some soreness in my lumbar and right ankle before headed to bed.
+ 
 <!---->
 ## SATURDAY DEC 12
 Sleep **4** | Fatigue **4** | Stress **3** | Soreness **4**  
