@@ -133,9 +133,10 @@ So... **solid workout** in the pool late this afternoon.  Just two people in the
 
 The swim felt good though if I was to note anything, it would have been that the burn in the quads during the kickboard lengths.  
 
-If the swim felt good, the jog was anything but; **no juice**, even after a decent dinner.
+### NO JUICE
+If the swim felt good, the jog was anything but, even after a decent dinner.
 
-It was heavy, dead legs that never came around tonight.  I stopped for a minute or two to snap [this week's photo](javascript:flkty.select(2);), walked the uphills and stopped the watch with aroung 600m  home.  Nothing was feeling "injury sore" during the run; just no power or spring off the ground.
+It was **heavy, dead legs** that never came around tonight.  I stopped for a minute or two to snap [this week's photo](javascript:flkty.select(2);), walked the uphills and stopped the watch with aroung 600m  home.  Nothing was feeling "injury sore" during the run; just no power or spring off the ground.
 
 I did notice some soreness in my lumbar and right ankle before headed to bed.
  
