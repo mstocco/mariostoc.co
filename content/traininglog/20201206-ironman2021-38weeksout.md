@@ -11,7 +11,7 @@ I feel like I was **READY FOR A PIVOT**
 
 I honestly thought I would be brooding much longer over missing my mini-goal to run a 5K PB.  Watching the _Daytona Challenge_, the 3 promotional emails received from IRONMAN Italy, and an email from IRONMAN Canada announcing their swim and run course had me thinking longer, much longer than 5 kms.
 
-Even with a different training focus, my legs finished the week feeling heavy and worked over.
+Even with the change in training focus, my legs finished the week feeling heavy and worked.
 
 ![This is the week that the winter, "running in the dark" season started for me.](/assets/jpg/IMG_0470-977x550.jpeg Esquimalt Gorge Park)
 
