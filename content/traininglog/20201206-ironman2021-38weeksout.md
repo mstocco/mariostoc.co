@@ -11,7 +11,7 @@ I feel like was...
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
-![This is the week that running in the dark started](/assets/jpg/IMG_0470-1032x550.jpeg Esquimalt Gorge Park)
+![This is the week that running in the dark started](/assets/jpg/IMG_0470-977x550.jpeg Esquimalt Gorge Park)
 
 ## SUNDAY DEC 06 🌤
 Sleep **4** | Fatigue **4** | Stress **4** | Soreness **4**  
