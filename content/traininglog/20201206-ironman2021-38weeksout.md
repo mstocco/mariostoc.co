@@ -11,7 +11,8 @@ I feel like was...
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
-<!---->
+![This is the week that running in the dark started](/assets/jpg/IMG_0470-1032x550.jpeg Esquimalt Gorge Park)
+
 ## SUNDAY DEC 06 🌤
 Sleep **4** | Fatigue **4** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -121,9 +122,16 @@ Run 40 minutes. Flat route. Easy effort.
 ### NOTES
 Total Time: **50 minutes**
 
-So... **solid workout** in the pool late this afternoon.  It was just me and another age-grouper dude in the moderate lane; he had the olympic distance coloured swim cap from the _Elk Lake Triathlon_.  This meant things flowed well neither of us got in east other's way.
+Another night of less than great sleep; I was up earlier than I wanted.  Work was a longer day too.
 
+So... **solid workout** in the pool late this afternoon.  It was just me and another age-grouper dude in the moderate lane; he had the olympic distance coloured swim cap from the _Elk Lake Triathlon_.  This meant things flowed well neither of us really got in each other's way.
+<!---->
+### NORMALIZED SWIM PACES
 ![Swim Workout](/assets/jpg/swim-20201211.jpeg)
+
+If the swim felt good, the jog was anything but; **no juice**, even after a decent dinner.
+
+It was heavy, dead legs that never came around tonight.  I walked (uphills) and walked the last  
 <!---->
 ## SATURDAY DEC 12
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
