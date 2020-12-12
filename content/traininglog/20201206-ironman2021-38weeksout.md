@@ -7,11 +7,13 @@ Week beginning [Sunday, December 6, 2020](javascript:flick('sun');)
 I may be internalizing the results of the 5k time trial [last Saturday](ironman2021-39weeksout?sat) for a while.  My goal is to metaphorically, put to those thoughts in a box, put that box on a shelf, and get on with the preparation for an Ironman in less than 9 months.
 
 ## SUMMARY
-I feel like was...    
-<sup>(completed at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel like I was **READY FOR A PIVOT**
 
-![This is the week that running in the dark started](/assets/jpg/IMG_0470-977x550.jpeg Esquimalt Gorge Park)
+I honestly thought I would be brooding much longer over missing my mini-goal to run a 5K PB.  Watching the _Daytona Challenge_, the 3 promotional emails received from IRONMAN Italy, and an email from IRONMAN Canada announcing their swim and run course had me thinking longer, much longer than 5 kms.
+
+Even with the change in training and skipping Sunday, my legs finished feeling heavy and worked over.
+
+![This is the week that the winter "running in the dark" season started.](/assets/jpg/IMG_0470-977x550.jpeg Esquimalt Gorge Park)
 
 ## SUNDAY DEC 06 🌤
 Sleep **4** | Fatigue **4** | Stress **4** | Soreness **4**  
@@ -134,7 +136,7 @@ If the swim felt good, the jog was anything but; **no juice**, even after a dece
 It was heavy, dead legs that never came around tonight.  I walked (uphills) and walked the last  
 <!---->
 ## SATURDAY DEC 12
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **4** | Fatigue **4** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
