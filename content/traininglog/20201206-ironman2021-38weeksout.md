@@ -111,7 +111,7 @@ After dinner, I headed out to the garage for the workout on the rollers.  I felt
 
 <!---->
 ## FRIDAY DEC 11
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **2**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -119,11 +119,11 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 Run 40 minutes. Flat route. Easy effort.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **50 minutes**
 
-&mdash; 
+So... **solid workout** in the pool late this afternoon.  It was just me and another age-grouper dude in the moderate lane; he had the olympic distance coloured swim cap from the _Elk Lake Triathlon_.  This meant things flowed well neither of us got in east other's way.
 
-
+![Swim Workout](/assets/jpg/swim-20201211.jpeg)
 <!---->
 ## SATURDAY DEC 12
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
