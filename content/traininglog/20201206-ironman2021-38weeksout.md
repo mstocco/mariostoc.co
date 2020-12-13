@@ -161,10 +161,12 @@ I headed out to _Thetis Lake Park_ via the _Highland Road_.  I stuck to the fire
 ### LAP THROUGH THETIS PARK
 ![Ride Map](/assets/jpg/ridemap-20201212.jpeg)
 
-I set off on the run about 30 minutes after getting home from the ride.  Given how yesterday's run/walk felt and how I felt on the bike earlier, I knew I was in for a very long hour.
-<!---->
-Tonight was an exercise in run form and I think I nailed it; or at least I did the best with what I had in the moment.  I stayed with the single thought of _"good form"_ and a little after 15 minutes, it began to pay off.  A rhythm set in and yes, my legs remained heavy but at least the run was becoming fun.  
+I set off on the run about 30 minutes after getting home from the ride.
 
-Judging by the numbers (pace/distance) afterwards, one might say this run was a sub-par effort but in the moment, I really thought that what I was doing was spot on.  Figuring out how to push ahead with tonight's tired legs and feel like I could have gone longer was a huge win on the day.  In fact, throw out the numbers; what I felt I accomplished over the course of the 58 minutes could not be measured by a watch.
+Given how yesterday's run/walk felt and how I felt on the bike earlier, I knew I was in for a very long hour.
+<!---->
+I stayed with the single thought of _"good form"_ and a little after 15 minutes, it began to pay off.  A rhythm set in and although my heavy legs remained heavy, the run was becoming fun.  
+
+Judging by the numbers (pace/distance) afterwards, one might say this run was a sub-par effort but during the run, I was in the moment, staying with the best form I could muster; cadence and breathing followed.  I likened it to feeling the dull ache of a 20 km run even though I did 9.  Throw out the numbers; what I felt I accomplished over the course of the 58 minutes could not be measured by a watch.
 
 That being said, my right ankle is a bit more sore than last night.
