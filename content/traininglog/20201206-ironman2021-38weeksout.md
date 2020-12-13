@@ -153,7 +153,7 @@ Run 60 minutes. Flat to rolling. Nothing too steep. Maybe on Colquitz or somethi
 Total Time: **150 minutes**
 
 I got into the garage to find that the front tire on my MTB was flat.  Interestingly, the previous owner had been running the wheels tubeless and for the 6 or 7 years that I have have had the bike, I've never needed to touch it; until today.   After a walk to an LBS for 26" tubes and a second walk to exchange those Schrader tubes for Presta, I finally had a rideable bike.
-
+<!---->
 I headed out to _Thetis Lake Park_ via the _Highland Road_.  I stuck to the fire roads.  It was good to be out in the fresh air.  I was still feeling the same heavy legs as yesterday and I wondered if the was still residual from the 5 km last week.  I packed a 750ml with 200 calories of lemonade and finished it all.
 
 I set off on the run about 30 minutes after getting home from the ride.  Given how yesterday's run/walk felt and how I felt on the bike earlier, I knew I was in for a very long hour.
