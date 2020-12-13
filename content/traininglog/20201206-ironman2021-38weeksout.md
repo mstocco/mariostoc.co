@@ -170,11 +170,10 @@ Given how much yesterday's run/walk sucked and how I fatigued my legs felt on th
 <!---->
 I stayed with the single thought of _"good form"_ and a little after 15 minutes, it began to pay off.  A rhythm set in and although my heavy legs remained heavy, the run was becoming **fun**.  
 
-Judging by the numbers (pace/distance) afterwards, one might say this run was a sub-par effort but during the run, I was in the moment, staying with the best form I could muster; cadence and breathing followed.  I likened it to feeling the dull ache of a 20 km run even though I did 9.  Throw out the numbers; what I felt I accomplished over the course of the 58 minutes could not be measured by a watch.
+Judging by the numbers (pace/distance) afterwards, one might say this run was a sub-par effort but during the run, I was in the moment, staying with the best form I could muster; cadence and breathing followed.  I likened it to feeling the dull ache of a 20 km run even though I only did 9.  Throw out the numbers; what I felt I accomplished over the course of the 58 minutes was not measured by a watch.
 
 ### KM SPLITS HINT AT THE STORY
 ![Pace Chart](/assets/jpg/paces-20201212.jpeg)
 <sub style="color:red;"><strong>*</strong>My right ankle is more sore than last night.</sub>
 <!---->
-### MY "ROLLING" VANALMAN LOOP
 ![Run Map](/assets/jpg/runmap-20201212.jpeg)
