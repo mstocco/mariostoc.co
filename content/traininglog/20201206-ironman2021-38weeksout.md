@@ -169,5 +169,6 @@ I stayed with the single thought of _"good form"_ and a little after 15 minutes,
 
 Judging by the numbers (pace/distance) afterwards, one might say this run was a sub-par effort but during the run, I was in the moment, staying with the best form I could muster; cadence and breathing followed.  I likened it to feeling the dull ache of a 20 km run even though I did 9.  Throw out the numbers; what I felt I accomplished over the course of the 58 minutes could not be measured by a watch.
 
+### KM SPLITS HINT AT THE STORY
 ![Pace Chart](/assets/jpg/paces-20201212.jpeg)
-NOTE: My right ankle is a bit more sore than last night.
+NOTE: My right ankle is more sore than last night.
