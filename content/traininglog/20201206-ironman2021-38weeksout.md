@@ -164,9 +164,9 @@ I headed out to _Thetis Lake Park_ via the _Highland Road_.  I stuck to the fire
 ![Ride Map](/assets/jpg/ridemap-20201212.jpeg)
 
 ---
-I set off on the run 30 minutes after getting off the bike.
+40 minutes after the bike, I set off on the run.
 
-Given how much yesterday's run/walk sucked and how I dealt with fatigued legs on the ride, I accepted that I was in for a very long hour.
+Given how much yesterday's run/walk sucked and how I fatigued my legs felt on the ride, I accepted that I was in for a _very long hour_.
 <!---->
 I stayed with the single thought of _"good form"_ and a little after 15 minutes, it began to pay off.  A rhythm set in and although my heavy legs remained heavy, the run was becoming **fun**.  
 
