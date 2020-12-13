@@ -142,7 +142,7 @@ It was **heavy, dead legs** that never came around tonight.  I stopped for a min
 I did notice some soreness in my lumbar and right ankle before headed to bed.
  
 <!---->
-## SATURDAY DEC 12
+## SATURDAY DEC 12 ☀️
 Sleep **4** | Fatigue **4** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
