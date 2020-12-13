@@ -106,10 +106,12 @@ Another so-so sleep last night.  I am feeling tight in the hip flexors even thou
 
 Today was another engaged day at work.  There is a push to get projects completed before we go into a company _"brown-out"_, a period of no systems changes over the holiday season.
 <!---->
-After dinner, I headed out to the garage for the workout on the rollers.  I felt a bit of the ride from [Tuesday](javascript:flick('tue');) lingering in the legs.  Regardless I pedalled through and got +70 minutes on the bike.  I didn't program the last part of the workout correctly.
+After dinner, I headed out to the garage for the workout on the rollers.  I felt a bit of the ride from [Tuesday](javascript:flick('tue');) lingering in the legs.  Regardless I pedalled through and got +70 minutes on the bike.  I didn't program the last part of the workout correctly but I did get most of the work in.
 
-### VARIED HEART RATE NIGHT
-![HR Chart](/assets/jpg/hr-20201210.jpeg)
+### VARIABLE HEART RATE RIDE
+![HR Chart](/assets/jpg/hr-20201210.jpeg?v2)
+
+I didn't top up the tire pressure before tonight's ride and I did notice it; especially on the 8x:45 cadence reps.
 
 <!---->
 ## FRIDAY DEC 11
