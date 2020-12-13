@@ -175,3 +175,6 @@ Judging by the numbers (pace/distance) afterwards, one might say this run was a 
 ### KM SPLITS HINT AT THE STORY
 ![Pace Chart](/assets/jpg/paces-20201212.jpeg)
 <sub style="color:red;"><strong>*</strong>My right ankle is more sore than last night.</sub>
+<!---->
+### MY "ROLLING" VANALMAN LOOP
+![Run Map](/assets/jpg/runmap-20201212.jpeg)
