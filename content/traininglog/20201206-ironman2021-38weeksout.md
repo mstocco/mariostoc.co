@@ -42,7 +42,6 @@ I woke up feeling groggy.
 
 Interestingly, the sorest part of my body is my left masseter muscle.  It has been a bothering me for a week now and now chewing is very much a strained, painful experience.  If I thought that running a 23:07 5k was a punch in the jaw, then it manifests into a real thing, I'd say dumb luck.
 
-
 <!---->
 ## TUESDAY DEC 08 🌧
 Sleep **4** | Fatigue **3** | Stress **3** | Soreness **3**  
@@ -151,6 +150,16 @@ MTB ~ 90 minutes. Fun ride. A trail or two would be nice. Overall an easy to mod
 Run 60 minutes. Flat to rolling. Nothing too steep. Maybe on Colquitz or something like that. Effort is EASY!
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **150 minutes**
 
-&mdash;
+I got into the garage to find that the front tire on my MTB was flat.  Interestingly, the previous owner had been running the wheels tubeless and for the 6 or 7 years that I have have had the bike, I've never needed to touch it; until today.   After a walk to an LBS for 26" tubes and a second walk to exchange those Schrader tubes for Presta, I finally had a rideable bike.
+
+I headed out to _Thetis Lake Park_ via the _Highland Road_.  I stuck to the fire roads.  It was good to be out in the fresh air.  I was still feeling the same heavy legs as yesterday and I wondered if the was still residual from the 5 km last week.  I packed a 750ml with 200 calories of lemonade and finished it all.
+
+I set off on the run about 30 minutes after getting home from the ride.  Given how yesterday's run/walk felt and how I felt on the bike earlier, I knew I was in for a very long hour.
+
+Tonight was an exercise in run form and I think I nailed it; or at least I did the best with what I had in the moment.  I stayed with the single thought of _"good form"_ and a little after 15 minutes, it began to pay off.  A rhythm set in and yes, my legs remained heavy but at least the run was becoming fun.  
+
+Judging by the numbers (pace/distance) afterwards, one might say this run was a sub-par effort but in the moment, I really thought that what I was doing was spot on.  Figuring out how to push ahead with tonight's tired legs and feel like I could have gone longer was a huge win on the day.  In fact, throw out the numbers; what I felt I accomplished over the course of the 58 minutes could not be measured by a watch.
+
+That being said, ny right ankle is a bit more sore than last night. 
