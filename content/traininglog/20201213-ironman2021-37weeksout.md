@@ -1,5 +1,5 @@
 # IRONMAN TRAINING 2021
-Week beginning Sunday, December 13, 2020
+Week beginning [Sunday, December 13, 2020](javascript:flick('sun');)
 
 **37 weeks** until IRONMAN Canada.
 
@@ -24,12 +24,17 @@ Mobility: 22 minutes.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Up way too early for a rainy Sunday (0520).
 
+While the rain came down this morning, I was able to get about 4 hours of work in.
+
+I can feel a bit of yesterday's mountain bike ride in my shoulders.  It had been some time since I tried to pedal up a steep hill on a trail it seems.  My right ankle is still mildly sore (feels like a bit of a sprain) but not as sore as when I went to bed last night.
+
+I had a pretty solid nap from around 1645 to 1800 too (more of those please). 
 
 <!---->
 ## MONDAY DEC 14
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -39,7 +44,7 @@ Ride 2:00- 2:30 on MTB. Goose or Great trail would be a good route. Easy effort.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Up early and sadly, the scale announced that the weight is still being packed on.  79.9 Kg is the heaviest single day number I've had in many years.   
 
 
 <!---->
