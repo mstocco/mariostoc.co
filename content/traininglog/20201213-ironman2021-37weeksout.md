@@ -33,7 +33,7 @@ I can feel a bit of yesterday's mountain bike ride in my shoulders.  It had been
 I had a pretty solid nap from around 1645 to 1800 too (more of those please). 
 
 <!---->
-## MONDAY DEC 14
+## MONDAY DEC 14 ⛅️
 Sleep **3** | Fatigue **3** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -42,9 +42,15 @@ Mobility: 21 minutes.
 Ride 2:00- 2:30 on MTB. Goose or Great trail would be a good route. Easy effort. Spending a longer amount of time in the saddle. Bring calories and water. Stay well fueled. Keep your effort even all ride.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **130 minutes**
 
 Up early and sadly, the scale announced that the weight is still being packed on.  79.9 Kg is the heaviest single day number I've had in many years.   
+
+Making good on my promise to myself, I worked Sunday and took the afternoon off in lieu.  I wanted to take the XC bike out but I did a poor job mounting the tires on Saturday, resulting in a nasty, out of round tire that wasn't going to work for a +2 hour ride.  I started to work on it and to no avail; probably a proprietary Bontrager rim shape.  With limited daylight, this is the wrong time of year to be _"pretend mechanic"_.  I pulled the road bike off the wall.
+
+I headed west and did loop that included _Happy Valley Road_.   I felt pretty good today.  The weather was really nice when I left home, but was gloomier through Langford.  If I would have taken _The Great Trail_ north, I likely would have been wet.  I wore shoulder season kit half way through December so...  it was a good ride.
+
+I ate a dozen ju-jubes and most of a bottle of lemonade.
 
 
 <!---->
