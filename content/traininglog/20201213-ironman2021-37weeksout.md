@@ -46,7 +46,7 @@ Total Time: **130 minutes**
 
 Sadly, the scale confirmed that the weight is still being packed on.  79.9 Kg is the heaviest single day number I've seen in years.
 
-Making good on my promise to myself, I worked Sunday and took the afternoon off in lieu.  I wanted to take the XC bike out but I did a poor job mounting the tires on Saturday, resulting in a nasty, out of round tire that wasn't going to work for a +2 hour ride.  I started to work on it but no joy. probably the proprietary Bontrager rim.  
+Making good on my promise to myself, I worked Sunday and took this afternoon off in lieu.  I wanted to take the XC bike out but I did a poor job mounting the tires on Saturday, resulting in a nasty, out of round tire that wasn't going to work for a +2 hour ride.  I started to work on it but no joy (probably the proprietary Bontrager rim).  
 <!---->
 With limited daylight, this is the wrong time of year to be _"pretend mechanic"_.  I pulled the road bike off the wall.
 
