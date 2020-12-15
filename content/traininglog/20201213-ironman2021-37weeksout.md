@@ -50,9 +50,9 @@ Making good on my promise to myself, I worked Sunday and took the afternoon off 
 <!---->
 With limited daylight, this is the wrong time of year to be _"pretend mechanic"_.  I pulled the road bike off the wall.
 
-I headed west and did loop that included _Happy Valley Road_.   I felt pretty good today.  The weather was really nice when I left home, but was gloomier through Langford.  If I would have taken _The Great Trail_ north, I likely would have been wet.  I wore shoulder season kit half way through December so...  it was a good ride.
+I headed west and did loop that included _Happy Valley Road_.   I felt **pretty good** today.  The weather was really nice when I left home, but was gloomier through Langford.  If I would have taken _The Great Trail_ north, I likely would have been wet.  I wore _"shoulder season kit"_ half way through December so...  it was a good ride.
 
-I ate a dozen ju-jubes and most of a bottle of lemonade.
+I ate a dozen ju-jubes and most of a bottle of lemonade (~300 cals).
 
 ### HAPPY VALLEY LOOP
 ![Ride Map](/assets/jpg/ridemap-20201214.jpeg)
