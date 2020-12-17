@@ -115,7 +115,7 @@ Honestly, there was me, another guy that was close to me in fitness, one really 
 Overall, another great day in the books.
 <!---->
 ## THURSDAY DEC 17
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **4** | Fatigue **3** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -125,7 +125,7 @@ Bike 80 minutes: 20 minutes easy spinning. 4x (:20, :40, 1:00 high cadence, :40 
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I had the most restful sleep of the week so far but I did not get the quantity of sleep that I think I need.  Calves and achilles (both) are mildly tender to the touch.  Today is looking like a decent weather day before what is forecast for the weekend.
 
 
 <!---->
