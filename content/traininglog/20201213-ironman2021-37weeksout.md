@@ -74,19 +74,31 @@ Total Time: **0 minutes**
 
 <!---->
 ## WEDNESDAY DEC 16
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **6** | Fatigue **3** | Stress **2** | Soreness **2**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 Run 50 minutes easy. Flat route.  
 5:30pm: Swim
 
+<p style="font-size:1rem;margin-bottom:0;color:#ff8c00" class="agencyvc">WIND WARNING FOR GREATER VICTORIA</p><p style="color:#ff8c00;font-size:0.9em;border-top:1px solid #ff8c00;">A frontal system moving across Vancouver Island is producing strong southeasterly winds of 70 km/h near the water of the Greater Victoria area.</p><p style="color:#ff8c00;font-size:0.9em;">The southeast winds will ease this evening but westerly winds of 50 to 70 km/h are forecast to develop overnight as the system passes.</p>
+
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I had an emergency project that kept me up until 0200 last night and when I finally did get to bed, I woke up with night sweats and a way too early trip to the bathroom.  Frustrating indeed but I have a plan.
 
+First call at work this morning was at 0830 and I did have a few hours of productivity.  Looking out the window told a different story than the weather forecast so I took advantage of a warm, windless period to go for an easy run.
 
+I knew that 50 minutes would put me between 8 and 9 kms and when I set out, I felt **really good**; zero aches or pains.  I immediately promised myself to make this run feel as good at the 8 km mark as it did at during the first kilometre.  In fact, I did just that.  I just plodded along at what I thought was very consistent 6:30/km pace and when the watch showed 8km, I was feeling as good as I did on that first km.  I was surprised to have run 5:50/km overall too.  This was a bread and butter run and I felt like I nailed it.
+
+Late in the afternoon, I also needed a to look after myself considering I had a garbage sleep last night so I put the computer away and put my head down for a solid one hour nap.
+
+There wasn't a swim workout specified for today so I chose to repeat a previously written workout.  I felt a bit anxious because I couldn't reserve the _moderate lane_ and this was going to be my first time in the _fast lane_.
+
+Honestly, there was me, another guy that was close to me in fitness, one really slow person and one woman that really knew what she was doing.  After 30 minutes, the other swimmers were done and I had the whole two lanes to myself.  I finished the 1900m workout with plenty of time on the clock so I did another easy 300m.
+
+Overall, another great day in the books.
 <!---->
 ## THURSDAY DEC 17
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
