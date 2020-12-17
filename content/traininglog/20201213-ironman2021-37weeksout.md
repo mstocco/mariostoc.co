@@ -108,6 +108,9 @@ There wasn't a swim workout specified for today so I chose to repeat a previousl
 
 Honestly, there was me, another guy that was close to me in fitness, one really slow person and one woman that really knew what she was doing.  After 30 minutes, the other swimmers were done and I had the whole two lanes to myself.  I finished the 1900m workout with plenty of time on the clock so I did another easy 300m.
 
+### HEART RATE FROM THE SWIM
+![HR Chart](/assets/jpg/hrswim-20201216.jpeg)
+
 Overall, another great day in the books.
 <!---->
 ## THURSDAY DEC 17
