@@ -101,6 +101,9 @@ I had an emergency project that kept me up until 0200 last night and when I fina
 First call at work this morning was at 0830 and I did have a few hours of productivity.  Looking out the window told a different story than the weather forecast so I took advantage of a warm, windless period to go for an easy run.
 
 I knew that 50 minutes would put me between 8 and 9 kms and when I set out, I felt **really good**; zero aches or pains.  I immediately promised myself to make this run feel as good at the 8 km mark as it did at during the first kilometre.  In fact, I did just that.  I just plodded along at what I thought was very consistent 6:30/km pace and when the watch showed 8km, I was feeling as good as I did on that first km.  I was surprised to have run 5:50/km overall too.  This was a bread and butter run and I felt like I nailed it.
+
+### 8.88 KM OF EASY RUNNING
+![Pace Chart](/assets/jpg/pace-20201216.jpeg)
 <!---->
 Late in the afternoon, I also needed a to look after myself considering I had a garbage sleep last night so I put the computer away and put my head down for a solid one hour nap.
 
