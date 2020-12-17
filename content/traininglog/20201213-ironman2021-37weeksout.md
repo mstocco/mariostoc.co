@@ -58,8 +58,8 @@ I ate a dozen ju-jubes and most of a bottle of lemonade (~300 cals).
 ![Ride Map](/assets/jpg/ridemap-20201214.jpeg)
 
 <!---->
-## TUESDAY DEC 15
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## TUESDAY DEC 15 ☁️
+Sleep **4** | Fatigue **3** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -67,13 +67,19 @@ Bike 60 minutes: 40 minutes easy spinning. 8x 1:00 high cadence, 1:00 easy after
 OTB: Run 40 minutes flat and easy.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **99 minutes**
 
-&mdash; 
+Wide awake at 0515 but I did go back to bed and get another hour of sleep.
+
+This was a long day at work and it meant getting into the garage for a ride on the rollers at 0000.  The ride felt a bit sluggish in the first few minutes but once I was up to temperature, it was all systems go.  I watched the replay of the bike leg of the _Daytona Challenge_ and it weirdly felt like it was me and a bunch of friends out for a ride in aero.  I was on the bullhorns for the cadence work and the cool down.  I had a bottle of lemonade with me and I got most of it down before the 60 minutes was up.
+
+I had my night run kit with me in the garage and I wasn't long off the bike before I was alone in the dark, plodding on the _Lochside Trail_ heading toward _Quadra Avenue_.  Everything was nice and easy on the outbound leg but when I turned around, I realized how much of a tailwind I had been running with.  I also started to feel really hungry; I was just 19 minutes before I would be home and at the dinner table.
+
+After dinner, I had a somewhat large, emergency task to do for work.  Sadly, it took longer than expected and I sent my last email at 0137 and was in bed by 0200.
 
 
 <!---->
-## WEDNESDAY DEC 16
+## WEDNESDAY DEC 16 ☁️
 Sleep **6** | Fatigue **3** | Stress **2** | Soreness **2**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -84,10 +90,10 @@ Run 50 minutes easy. Flat route.
 <p style="font-size:1rem;margin-bottom:0;color:#ff8c00" class="agencyvc">WIND WARNING FOR GREATER VICTORIA</p><p style="color:#ff8c00;font-size:0.9em;border-top:1px solid #ff8c00;">A frontal system moving across Vancouver Island is producing strong southeasterly winds of 70 km/h near the water of the Greater Victoria area.</p><p style="color:#ff8c00;font-size:0.9em;">The southeast winds will ease this evening but westerly winds of 50 to 70 km/h are forecast to develop overnight as the system passes.</p>
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **106 minutes**
 
-I had an emergency project that kept me up until 0200 last night and when I finally did get to bed, I woke up with night sweats and a way too early trip to the bathroom.  Frustrating indeed but I have a plan.
-
+I had an emergency project that kept me up until 0200 last night and when I finally did get to bed, I woke up with night sweats and a way too early trip to the bathroom.  Frustrating indeed but I have a plan...
+<!---->
 First call at work this morning was at 0830 and I did have a few hours of productivity.  Looking out the window told a different story than the weather forecast so I took advantage of a warm, windless period to go for an easy run.
 
 I knew that 50 minutes would put me between 8 and 9 kms and when I set out, I felt **really good**; zero aches or pains.  I immediately promised myself to make this run feel as good at the 8 km mark as it did at during the first kilometre.  In fact, I did just that.  I just plodded along at what I thought was very consistent 6:30/km pace and when the watch showed 8km, I was feeling as good as I did on that first km.  I was surprised to have run 5:50/km overall too.  This was a bread and butter run and I felt like I nailed it.
