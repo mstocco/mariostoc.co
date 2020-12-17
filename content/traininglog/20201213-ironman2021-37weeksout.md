@@ -71,11 +71,13 @@ Total Time: **99 minutes**
 
 Wide awake at 0515 but I did go back to bed and get another hour of sleep.  This was a long day at work and it meant getting into the garage for a ride on the rollers at 1830.
 
-The ride felt a bit sluggish in the first minute but once I was up to temperature, it was all systems go.  I watched the replay of the bike leg of the _Daytona Challenge_ and it weirdly felt like it was me and a bunch of friends out for a ride in aero.  I was on the bullhorns for the cadence work and the cool down.  I had a bottle of lemonade with me and I got most of it down before the 60 minutes was up.
+The ride felt a bit sluggish in the first minute but once I was up to temperature, it was all systems go.  I watched the replay of the bike leg of the _Daytona Challenge_ and it weirdly felt like it was me and a bunch of friends out for a ride in aero.  I was on the bullhorns for the cadence work though.  I had a bottle of lemonade with me and I got most of it down before the ride ended.
 <!---->
 I felt **pretty good** on the bike tonight.
+### HEART RATE ON THE BIKE
+![HR Chart](/assets/jpg/hrbike-20201215.jpeg)
 
-I had my night run kit with me in the garage and I wasn't long off the bike before I was alone in the dark, plodding on the _Lochside Trail_ heading toward _Quadra Avenue_.  Everything was nice and easy on the outbound leg (minus the initial jelly legs) but when I reached the turnaround, I realized how much of a tailwind I had been running with.  I also started to feel really hungry; I was just 19 minutes before I would be home and at the dinner table.  This was a good, niggle free, slow run off the bike and just what I needed on a day like today.
+I had my night run kit with me in the garage and I wasn't long off the bike before I was alone in the dark, plodding on the _Lochside Trail_ heading toward _Quadra Avenue_.  Everything was nice and easy on the outbound leg (minus the initial jelly legs) but when I reached the turnaround, I realized how much of a tailwind I had been running with.  I also started to feel really hungry; I was just 19 minutes before I would be home and at the dinner table.  This was a good, niggle free, slow run off the bike and **just what I needed** on a day like today.
 
 After a late dinner, I had a somewhat large, emergency task to do for work.  Sadly, it took longer than expected and I sent my last email at 0137 and was in bed by 0200.
 
