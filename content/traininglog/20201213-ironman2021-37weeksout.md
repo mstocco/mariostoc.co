@@ -104,7 +104,7 @@ I knew that 50 minutes would put me between 8 and 9 kms and when I set out, I fe
 
 ### 8.88 KM OF EASY RUNNING
 ![Pace Chart](/assets/jpg/pace-20201216.jpeg)
-
+<sup>Average HR: <strong>136 bpm</strong> (measured with the HRM Tri Strap)</sup>
 <!---->
 Considering I had a garbage sleep last night I needed to look after myself.  So later in the afternoon, I put the computer away and put my head down for a solid **one hour nap**.
 
