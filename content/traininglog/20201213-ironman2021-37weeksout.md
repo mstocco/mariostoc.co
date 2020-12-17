@@ -94,7 +94,9 @@ Run 50 minutes easy. Flat route.
 <p style="font-size:1rem;margin-bottom:0;color:#ff8c00" class="agencyvc">WIND WARNING FOR GREATER VICTORIA</p><p style="color:#ff8c00;font-size:0.9em;border-top:1px solid #ff8c00;">A frontal system moving across Vancouver Island is producing strong southeasterly winds of 70 km/h near the water of the Greater Victoria area.</p><p style="color:#ff8c00;font-size:0.9em;">The southeast winds will ease this evening but westerly winds of 50 to 70 km/h are forecast to develop overnight as the system passes.</p>
 
 ### NOTES
-Total Time: **106 minutes**
+Total Time: **106 minutes**  
+<sub>Average HR: <strong>131 bpm</strong> (measured with the HRM Swim Strap)</sub><br />
+<sup>Average HR: <strong>131 bpm</strong> (measured with the HRM Swim Strap)</sup>
 
 I had an emergency project that kept me up until 0200 last night and when I finally did get to bed, I woke up with night sweats and a way too early trip to the bathroom.  Frustrating indeed but I have a plan...
 <!---->
@@ -104,7 +106,6 @@ I knew that 50 minutes would put me between 8 and 9 kms and when I set out, I fe
 
 ### 8.88 KM OF EASY RUNNING
 ![Pace Chart](/assets/jpg/pace-20201216.jpeg)
-<sup>Average HR: <strong>136 bpm</strong> (measured with the HRM Tri Strap)</sup>
 <!---->
 Considering I had a garbage sleep last night I needed to look after myself.  So later in the afternoon, I put the computer away and put my head down for a solid **one hour nap**.
 
@@ -114,7 +115,6 @@ Honestly, there wasn't a reason to feel self-conscious about being in the _fast 
 
 ### HEART RATE FROM THE SWIM
 ![HR Chart](/assets/jpg/hrswim-20201216.jpeg)
-<sup>Average HR: <strong>131 bpm</strong> (measured with the HRM Swim Strap)</sup>
 
 <!---->
 ## THURSDAY DEC 17
