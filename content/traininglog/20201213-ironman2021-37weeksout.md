@@ -110,6 +110,7 @@ Honestly, there was me, another guy that was close to me in fitness, one really 
 
 ### HEART RATE FROM THE SWIM
 ![HR Chart](/assets/jpg/hrswim-20201216.jpeg)
+<sup>Average HR: <strong>131 bpm</strong> (measured with the HRM Swim Strap)</sup>
 
 Overall, another great day in the books.
 <!---->
