@@ -104,12 +104,13 @@ I knew that 50 minutes would put me between 8 and 9 kms and when I set out, I fe
 
 ### 8.88 KM OF EASY RUNNING
 ![Pace Chart](/assets/jpg/pace-20201216.jpeg)
+
 <!---->
-Late in the afternoon, I also needed a to look after myself considering I had a garbage sleep last night so I put the computer away and put my head down for a solid one hour nap.
+Considering I had a garbage sleep last night I needed to look after myself.  So later in the afternoon, I put the computer away and put my head down for a solid **one hour nap**.
 
-There wasn't a swim workout specified for today so I chose to repeat a previously written workout.  I felt a bit anxious because I couldn't reserve the _moderate lane_ and this was going to be my first time in the _fast lane_.
+There wasn't a swim workout specified for today so I chose to repeat a [previously written workout](ironman2021-43weeksout?sat).  I felt a bit anxious because I couldn't reserve a space _moderate lane_; this would be my first time in any _fast lane_.
 
-Honestly, there wasn't a reason to feel self-conscious about being in the _fast lane_; it was me, another guy with similar speed, one _really_ slow person and one woman that really knew what she was doing.  After 30 minutes, the other swimmers were done and I had the whole two lanes to myself.  I finished the 1900m workout with plenty of time on the clock so I did another easy 300m.
+Honestly, there wasn't a reason to feel self-conscious about being in the _fast lane_; it was me, another guy with similar fitness, one _really slow_ person and one woman that really knew what she was doing.  After 30 minutes, the other swimmers were done and I had the whole space to myself.  I finished the 1900m workout with plenty of time on the clock so I did another easy 3x100m.
 
 ### HEART RATE FROM THE SWIM
 ![HR Chart](/assets/jpg/hrswim-20201216.jpeg)
