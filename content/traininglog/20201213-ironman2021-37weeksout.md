@@ -95,8 +95,7 @@ Run 50 minutes easy. Flat route.
 
 ### NOTES
 Total Time: **106 minutes**  
-<sub>Average HR: <strong>131 bpm</strong> (measured with the HRM Swim Strap)</sub><br />
-<sup>Average HR: <strong>131 bpm</strong> (measured with the HRM Swim Strap)</sup>
+<sup>Avg HR Run: <strong>131 bpm</strong> &nbsp; Avg HR Swim: <strong>131 bpm</strong></sup>
 
 I had an emergency project that kept me up until 0200 last night and when I finally did get to bed, I woke up with night sweats and a way too early trip to the bathroom.  Frustrating indeed but I have a plan...
 <!---->
