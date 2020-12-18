@@ -116,7 +116,7 @@ Honestly, there wasn't a reason to feel self-conscious about being in the _fast 
 ![HR Chart](/assets/jpg/hrswim-20201216.jpeg)
 
 <!---->
-## THURSDAY DEC 17
+## THURSDAY DEC 17 🌤
 Sleep **4** | Fatigue **3** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -125,14 +125,16 @@ Mobility: 25 minutes.
 Bike 80 minutes: 20 minutes easy spinning. 4x (:20, :40, 1:00 high cadence, :40 easy after each) 3:00 easy. 6x 3:00 w/ moderately strong pressure on the pedals, something you could hold for 40-50 minutes. 2:00 easy spinning after each. Easy spinning to cool down.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **80 minutes**
 
 I had the most restful sleep of the week so far but I did not get the quantity of sleep that I think I need.  Calves and achilles (both) are mildly tender to the touch.  Today is looking like a decent weather day before what is forecast for the weekend.
 
+After a big spaghetti dinner, I got out to the garage late for the ride.  I did feel a bit more fatigue that lasted further into the workout then the bike workout on [Tuesday](javascript:flick('tue');).  I did wear my race kit to see if the forward tip of my saddle had a positive effect on the comfort of the suit.  It did help a bit but on further inspection of the suit, its chamois wasn't sewn in with much care.  I think it is repairable.
+
 
 <!---->
-## FRIDAY DEC 18
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## FRIDAY DEC 18 🌧
+Sleep **2** | Fatigue **4** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -143,8 +145,7 @@ Run 60 minutes. Flat to rolling terrain. Easy effort.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
-
+This might have been the best sleep that I had so far this week as I woke feeling rested.
 
 <!---->
 ## SATURDAY DEC 19
