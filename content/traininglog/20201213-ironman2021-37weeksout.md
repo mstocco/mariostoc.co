@@ -143,7 +143,7 @@ Sleep **2** | Fatigue **4** | Stress **2** | Soreness **3**
 Run 60 minutes. Flat to rolling terrain. Easy effort. 
 
 ### NOTES
-Total Time: **60 minutes**
+Total Time: **63 minutes** &nbsp; Distance: **10.3 km**
 
 This might have been the best sleep that I had so far this week as I woke feeling rested.
 
