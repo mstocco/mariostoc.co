@@ -153,6 +153,9 @@ It was a dark and rainy night with gore-tex, a hi-vis vest and a some of mental 
 <!---->
 I read stories of other people that have set out and completed what I am working toward and almost everybody has that same story about running in miserable weather on a dark winter night and how it was those times that helped them build the fortitude to keep going when times get tough.  The rain tonight is coming down but I don't think I am having a fortitude building experience; in fact I am really enjoying the time in the rain.
 
+### UP QUADRA - BACK ON GLANFORD
+![Run Map](/assets/jpg/runmap-20201218.jpeg)
+
 I am starting to feel the time on my feet as it is getting close to the end of the week. 
 <!---->
 ## SATURDAY DEC 19
