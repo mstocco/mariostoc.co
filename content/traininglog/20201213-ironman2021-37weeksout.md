@@ -143,10 +143,15 @@ Sleep **2** | Fatigue **4** | Stress **2** | Soreness **3**
 Run 60 minutes. Flat to rolling terrain. Easy effort. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **60 minutes**
 
 This might have been the best sleep that I had so far this week as I woke feeling rested.
 
+This was another long but productive day at work and thus, I missed a dry, daylight period to get the run done.  That meant a dark and rainy night with gore-tex, a hi-vis vest and a bit of mental coaxing to get out the door.
+
+I read stories of other people that have set out and completed what I am working toward and almost everybody has that same story about running in miserable weather on a dark winter night and how it was those times that helped them build the fortitude to keep going when times get tough.  The rain tonight is coming down but I don't think I am having a fortitude building experience; in fact I am really enjoying the time in the rain.
+
+I am starting to feel the time on my feet as it is getting close to the end of the week. 
 <!---->
 ## SATURDAY DEC 19
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
