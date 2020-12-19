@@ -149,9 +149,9 @@ This might have been the best sleep that I had so far this week as I woke feelin
 
 From morning coffee to the keyboard, I had another long but productive day at work.  Unfortunately, that meant I missed a nice and dry, daylight period to get outside for today's run.  
 
-It was a dark and rainy night with gore-tex, a hi-vis vest and a some of mental coaxing to get out the door.
+It was a dark and rainy night with a gore-tex jacket, a hi-vis vest and a some of mental coaxing to get out the door.
 <!---->
-I read stories of other people that have set out and completed what I am working toward and almost everybody has that same story about running in miserable weather on a dark winter night and how it was those times that helped them build the fortitude to keep going when times get tough.  The rain tonight is coming down but I I am having a fortitude building experience; in fact I am really enjoying the time in the rain.
+I read stories of other people that have set out and completed what I am working toward and almost everybody has that same story about running during miserable weather on some dark, winter night, and how it was those times that helped them build the fortitude to keep going when times get tough.  It was dark and the rain was coming down but I **enjoyed the moment** too much for this to be a fortitude building experience.
 
 ### UP QUADRA - BACK ON GLANFORD
 ![Run Map](/assets/jpg/runmap-20201218.jpeg?v2)
