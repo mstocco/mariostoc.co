@@ -147,8 +147,10 @@ Total Time: **60 minutes**
 
 This might have been the best sleep that I had so far this week as I woke feeling rested.
 
-From morning coffee to the keyboard, this was another long but productive day at work.  Because of that, I missed a dry, daylight period to get the run done.  That meant a dark and rainy night with gore-tex, a hi-vis vest and a bit of mental coaxing to get out the door.
+From morning coffee to the keyboard, I had another long but productive day at work.  Unfortunately, that meant I missed a nice and dry, daylight period to get outside for today's run.  
 
+It was a dark and rainy night with gore-tex, a hi-vis vest and a some of mental coaxing to get out the door.
+<!---->
 I read stories of other people that have set out and completed what I am working toward and almost everybody has that same story about running in miserable weather on a dark winter night and how it was those times that helped them build the fortitude to keep going when times get tough.  The rain tonight is coming down but I don't think I am having a fortitude building experience; in fact I am really enjoying the time in the rain.
 
 I am starting to feel the time on my feet as it is getting close to the end of the week. 
