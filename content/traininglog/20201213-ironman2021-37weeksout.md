@@ -178,7 +178,7 @@ So I thought I had a the right idea to get the stubborn bead of a MTB tire seate
 
 I was on the clock to get a 140 minute ride in before the rain started.  A counterclockwise waterfront loop would get me close on time and have me at least pointed toward home if the rain started in an hour.
 <!---->
-By the time I got to the _UVic Campus_, the rain had started, or so I thought.  I doubled back on _Cedar Hill Cross Road_ and the rain eased so I took a chance and headed north on _Blenkinsop Road_.  I had surprisingly dry roads through to _Mattick's Farm_ and on my way back south via _Lochside Drive_.  I had a little more time on the clock to burn as I rolled into my neighbourhood, so I decided to head west.  I stopped at an hour, twenty into the ride to take this week's [photograph](javascript:flkty.select(2);).  No sooner than I took the picture, the rain began in earnest; time to head for home.
+By the time I got to the _UVic Campus_, the rain had started, or so I thought.  I doubled back on _Cedar Hill Cross Road_ and the rain eased so I took a chance and headed north on _Blenkinsop Road_.  I had surprisingly dry roads through to _Mattick's Farm_ and on my way back south via _Lochside Drive_.  I had a little more time on the clock to burn as I rolled into my neighbourhood, so I decided to head west.  I stopped at 1:22:08 into the ride to take [this week's photograph](javascript:flkty.select(2);).  No sooner than I took the picture, the rain began in earnest; time to head for home.
 
 ### THE HUNT FOR DRY ROADS
 ![Ride Map](/assets/jpg/ridemap-20201219.jpeg)
