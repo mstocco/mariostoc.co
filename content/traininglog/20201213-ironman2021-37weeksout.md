@@ -7,10 +7,13 @@ Week beginning [Sunday, December 13, 2020](javascript:flick('sun');)
 On the bike 5 out of the next 7 days.  This week's goal is to get the scheduled saddle-time and maybe get to be earlier.
 
 ## SUMMARY
-I feel like was...    
-<sup>(completed at the end of the week)</sup>
+I feel like I was **STAYING CONSISTENT**
 
-![I have run and rode the path above this creek a hundred times.  I finally climbed down to take a picture.](/assets/jpg/IMG_3012-977x550.jpeg Craigflower Creek)
+Great week of focused training given that work has been busy and that we are into winter here in Victoria.
+
+Almost 10.5 hours of workout time from [Monday](javascript:flick('mon');) through [Saturday](javascript:flick('sat');)
+
+![I have run and rode the path above this creek a hundred times.  I finally climbed down to take a picture.](/assets/jpg/IMG_3012-977x550.jpeg Craigflower Creek, View Royal, BC)
 
 ## SUNDAY DEC 13 🌧
 Sleep **4** | Fatigue **3** | Stress **3** | Soreness **4**  
