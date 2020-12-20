@@ -10,8 +10,8 @@ On the bike 5 out of the next 7 days.  This week's goal is to get the scheduled 
 I feel like was...    
 <sup>(completed at the end of the week)</sup>
 
+![I have run and rode the path above this creek a hundred times.  I finally climbed down to take a picture.](/assets/jpg/IMG_3012-977x550.jpeg Craigflower Creek)
 
-<!---->
 ## SUNDAY DEC 13 🌧
 Sleep **4** | Fatigue **3** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -131,7 +131,6 @@ I had the most restful sleep of the week so far but I did not get the quantity o
 
 After a big spaghetti dinner, I got out to the garage late for the ride.  I did feel a bit more fatigue that lasted further into the workout then the bike workout on [Tuesday](javascript:flick('tue');).  I did wear my race kit to see if the forward tip of my saddle had a positive effect on the comfort of the suit.  It did help a bit but on further inspection of the suit, its chamois wasn't sewn in with much care.  I think it is repairable.
 
-
 <!---->
 ## FRIDAY DEC 18 🌧
 Sleep **2** | Fatigue **4** | Stress **2** | Soreness **3**  
@@ -157,9 +156,10 @@ I read stories of other people that have set out and completed what I am working
 ![Run Map](/assets/jpg/runmap-20201218.jpeg?v2)
 
 I am starting to feel the time on my feet as it is getting close to the end of the week. 
+
 <!---->
-## SATURDAY DEC 19
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## SATURDAY DEC 19 🌧
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -167,9 +167,12 @@ Bike 1:40 on the MTB. This would be a great day to drive further out on the goos
 Off the bike: Run 40 minutes easy and flat running.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **140 minutes**
 
-&mdash; 
+So I thought I had a the right idea to get the stubborn bead of a MTB tire seated on a rim correctly.  What worked for the rear tire and rim ended in a catastrophic failure for the front.  No mountain biking for me today.
 
+I was on the clock to get a 140 minute ride in before the rain started.  A counterclockwise waterfront loop would get me close on time and have me at least pointed toward home if the rain started in an hour.  By the time I got to the _UVic Campus_, the rain had started, or so I thought.  I doubled back on _Cedar Hill Cross Road_ and the rain eased so I took a chance and headed north on _Blenkinsop Road_.  I had surprisingly dry roads through to _Mattick's Farm_ and on my way back south via _Lochside Drive_.  I had a little more time on the clock to burn as I rolled into my neighbourhood, so I decided to head west.  I stopped at an hour, twenty into the ride to take this week's [photograph](javascript:flkty.select(2);).  No sooner than I took the picture, the rain began in earnest; time to head for home.
 
-<!---->
+The run started after a short break to rinse off the bike and put on some warm dry clothes (yes it was raining and I was going to get wet regardless).  The run was an out and back on _The Goose_, done on fatigued legs; nothing acute but certainly not comfortable.  I broke the work into four 10 minute segments and I paced it to the metre.  I was in the exact spot when the watch beeped at 10 and 30 minutes and I was bang where I pressed start when the watched beeped at 40 minutes.
+
+I am ready to get off my feet for the rest of the day.  Great week overall.
