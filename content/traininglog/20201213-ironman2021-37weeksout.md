@@ -11,7 +11,9 @@ I feel like I was **STAYING CONSISTENT**
 
 Great week of focused training given that work has been busy and that we are into winter here in Victoria.
 
-Almost 10.5 hours of workout time from [Monday](javascript:flick('mon');) through [Saturday](javascript:flick('sat');).  I enjoyed the week too.  There was no pressure to hit a pace; it was by and large, time spent enjoying the moment.  Mentally, I need these workouts too.  Christmas is next week and when I am not immersed in work or a workout, I am really missing my dad.
+Almost 10.5 hours of workout time from [Monday](javascript:flick('mon');) through [Saturday](javascript:flick('sat');).  I enjoyed the week too.  There was no pressure to hit a pace; it was by and large, time spent enjoying the moment.
+
+Mentally, I need these workouts too.  Christmas is next week and when I am not immersed in work or a workout, I am really missing my dad.
 
 ![I have run and rode the path above this creek a hundred times.  I finally climbed down to take a picture.](/assets/jpg/IMG_3012-977x550.jpeg Craigflower Creek, View Royal, BC)
 
@@ -178,6 +180,9 @@ I was on the clock to get a 140 minute ride in before the rain started.  A count
 <!---->
 By the time I got to the _UVic Campus_, the rain had started, or so I thought.  I doubled back on _Cedar Hill Cross Road_ and the rain eased so I took a chance and headed north on _Blenkinsop Road_.  I had surprisingly dry roads through to _Mattick's Farm_ and on my way back south via _Lochside Drive_.  I had a little more time on the clock to burn as I rolled into my neighbourhood, so I decided to head west.  I stopped at an hour, twenty into the ride to take this week's [photograph](javascript:flkty.select(2);).  No sooner than I took the picture, the rain began in earnest; time to head for home.
 
+### THE HUNT FOR DRY ROADS
+![Ride Map](/assets/jpg/20201219.jpeg)
+<!---->
 The run started after a short break to rinse off the bike and put on some warm dry clothes (yes it was raining and I was going to get wet regardless).  The run was an out and back on _The Goose_, done on fatigued legs; nothing acute but certainly not comfortable.  I broke the work into four 10 minute segments and I paced it to the metre.  I was in the exact spot when the watch beeped at 10 and 30 minutes and I was bang where I pressed start when the watched beeped at 40 minutes.
 
 I am ready to get off my feet for the rest of the day.  Great week overall.
