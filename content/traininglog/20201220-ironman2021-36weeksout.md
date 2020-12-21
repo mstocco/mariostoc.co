@@ -9,8 +9,8 @@ Christmas week and my goal is to get through it.
 ## SUMMARY
 I feel like was... <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
+![On my third attempt, I found the southern entrance to the Mount Work Park](/assets/jpg/IMG_3022-977x550.jpeg Eagles Lake, Highlands, BC)
 
-<!---->
 ## SUNDAY DEC 20
 Sleep **2** | Fatigue **4** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
