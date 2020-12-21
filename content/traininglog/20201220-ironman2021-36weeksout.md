@@ -12,7 +12,7 @@ I feel like was... <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT
 
 <!---->
 ## SUNDAY DEC 20
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **2** | Fatigue **4** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -20,9 +20,17 @@ Mobility: 21 Minutes.
 Bike 2:00: Another day on the MTB. You can do trails around Thetis (anywhere really) or head out to a gravel road or one of the trails. Overall an easy to steady day of pedaling.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Moving Time: **110 minutes**
 
-&mdash; 
+There was a hint of rain and I almost bailed on an outside ride but the shower passed and I headed out on the XC bike toward _Thetis_.  I followed a couple of UVic students out on an easy gravel ride.  It was interesting to see the kit they were wearing; my guess is they take their riding seriously.  They veered right at the split on _Panhandle Trail_ and I headed up a hill that kicked my ass the last time I rode here.  Hill 2, Mario 0.
+
+Where the trail meets _Munn Road_, I decided to head up to the _Regional South Trail_ but find the better entrance to the park this time.  I found it with a right turn at _Eagles Lake_.  Coming out of the park, I took the _Executive West Trail_ and would have ridden it end to end except for a lake of a puddle and a deep stream to cross.
+
+This was a ride that I believe checked off the box for the day.
+
+I am curious if a more modern geometry XC bike would help me climb that hill on the _Panhandle Trail_ though...
+
+
 
 
 <!---->
