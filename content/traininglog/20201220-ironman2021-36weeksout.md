@@ -51,11 +51,11 @@ Mobility: 27 minutes.
 2 rounds (100 easy free, 100 swim w/ buoy/easy, 2x 50 building kick from easy to strong, rest as needed after every rep)
 12x 50 1st: 25 fist drill/25 free, 2nd: 25 strong/25 EASY, 3rd: strong/but controlled. R :20 after each. 
 5x 150 steady swim, odds: Swim, evens: w/ buoy r :45. 2x 50 easy to cool down.
-
+<!---->
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I had an okay sleep last night.  I was aware of a heavy rain forecasted for today but I was more than surprised to see some white falling too.  4x4 and an indoor workout scheduled so, no problem.
 
 <!---->
 ## TUESDAY DEC 22
