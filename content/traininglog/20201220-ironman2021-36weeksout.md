@@ -22,8 +22,10 @@ Bike 2:00: Another day on the MTB. You can do trails around Thetis (anywhere rea
 ### NOTES
 Total Moving Time: **110 minutes**
 
-There was a hint of rain and I almost bailed on an outside ride but the shower passed and I headed out on the XC bike toward _Thetis_.  I followed a couple of UVic students out on an easy gravel ride.  It was interesting to see the kit they were wearing; my guess is they take their riding seriously.  They veered right at the split on _Panhandle Trail_ and I headed up a hill that kicked my ass the last time I rode here.  Hill 2, Mario 0.
+There was a hint of rain and I almost bailed on an outside ride but the shower passed and I headed out on the XC bike toward _Thetis_.  I followed a couple of UVic students out on an easy gravel ride.  It was interesting to see the kit they were wearing; my guess is they take their riding seriously.  They veered right at the split on _Panhandle Trail_ and I headed up a hill that kicked my ass the last time I rode here.
 
+**Panhandle Hill 2, Mario 0**.
+<!---->
 Where the trail meets _Munn Road_, I decided to head up to the _Regional South Trail_ but find the better entrance to the park this time.  I found it with a right turn at _Eagles Lake_.  Coming out of the park, I took the _Executive West Trail_ and would have ridden it end to end except for a lake of a puddle and a deep stream to cross.
 
 This was a ride that I believe checked off the box for the day.
