@@ -26,9 +26,9 @@ There was a hint of rain and I almost bailed on an outside ride but the shower p
 
 **Panhandle Hill 2, Mario 0**.  I wonder if a modern XC bike would help me on that climb; grrrr...
 <!---->
-Where the trail meets _Munn Road_, I decided to head up to the _Regional South Trail_ but find the better entrance to the park this time.  I found it with a right turn at  [_Eagles Lake_](javascript:flkty.select(2);).  Coming out of the park, I took the _Executive West Trail_ and would have ridden it end to end except for a lake of a puddle and a deep stream to cross.
+At _Munn Road_, I decided to head up and find the better entrance to  _Regional South Trail_.  I found it with a right turn at  [_Eagles Lake_](javascript:flkty.select(2);).  Coming out of the park, I took the _Executive West Trail_ and would have ridden it end to end except I there was a deep stream to cross.
 
-This was a fun ride that I believe checked off the box for the day.
+This ride was fun and checked off the box for the day.
 
 ### SUNDAY'S ROUTE
 ![Ride Map](/assets/jpg/ridemap-20201220.jpeg)
