@@ -1,5 +1,5 @@
 # IRONMAN TRAINING 2021
-Week beginning Sunday, December 20, 2020
+Week beginning [Sunday, December 20, 2020](javascript:flick('sun');)
 
 **36 weeks** until IRONMAN Canada.
 
@@ -24,9 +24,9 @@ Total Moving Time: **110 minutes**
 
 There was a hint of rain and I almost bailed on an outside ride but the shower passed and I headed out on the XC bike toward _Thetis_.  I followed a couple of UVic students out on an easy gravel ride.  It was interesting to see the kit they were wearing; my guess is they take their riding seriously.  They veered right at the split on _Panhandle Trail_ and I headed up a hill that kicked my ass the last time I rode here.
 
-**Panhandle Hill 2, Mario 0**.  Now I am curious if a more modern XC bike would help me climb that hill; grrrr...
+**Panhandle Hill 2, Mario 0**.  I wonder if a modern XC bike would help me on that climb; grrrr...
 <!---->
-Where the trail meets _Munn Road_, I decided to head up to the _Regional South Trail_ but find the better entrance to the park this time.  I found it with a right turn at  [_Eagles Lake_](javascript:flkty.select(2);)  Coming out of the park, I took the _Executive West Trail_ and would have ridden it end to end except for a lake of a puddle and a deep stream to cross.
+Where the trail meets _Munn Road_, I decided to head up to the _Regional South Trail_ but find the better entrance to the park this time.  I found it with a right turn at  [_Eagles Lake_](javascript:flkty.select(2);).  Coming out of the park, I took the _Executive West Trail_ and would have ridden it end to end except for a lake of a puddle and a deep stream to cross.
 
 This was a fun ride that I believe checked off the box for the day.
 
