@@ -1,5 +1,5 @@
 # IRONMAN TRAINING 2021
-Week beginning Sunday, August 22, 2021
+Week beginning [Sunday, August 22, 2021](javascript:flick('sun');)
 
 **RACE WEEK IRONMAN CANADA-PENTICTON**
 
@@ -7,7 +7,9 @@ Week beginning Sunday, August 22, 2021
 Eat, sleep, make a list and check it twice.
 
 ## SUMMARY
-I feel like was... <!-- GOOD TO GO! -->
+I feel I like was...  
+<sup>(completed at the end of the week)</sup>
+<!-- GOOD TO GO! -->
 
 <!---->
 ## SUNDAY AUG 22

@@ -7,7 +7,9 @@ Week beginning [Sunday, December 20, 2020](javascript:flick('sun');)
 Christmas week and my goal is to get through it.
 
 ## SUMMARY
-I feel like was... <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel I like was...  
+<sup>(completed at the end of the week)</sup>
+<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
 ![On my third attempt, I found the southern entrance to the Mount Work Park](/assets/jpg/IMG_3022-977x550.jpeg Eagles Lake, Highlands, BC)
 
@@ -37,7 +39,7 @@ This ride was fun and checked off today's box.
 
 <!---->
 ## MONDAY DEC 21
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **4** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -128,4 +130,4 @@ Ride 1:45 on MTB w/ a nice hilly route (read, trails or road/trail) or on the ro
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+&mdash;

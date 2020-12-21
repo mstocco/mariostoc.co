@@ -1,5 +1,5 @@
 # IRONMAN TRAINING 2021
-Week beginning Sunday, July 11, 2021
+Week beginning [Sunday, July 11, 2021](javascript:flick('sun');)
 
 **7 weeks** until IRONMAN Canada.
 
@@ -7,7 +7,9 @@ Week beginning Sunday, July 11, 2021
 &mdash; 
 
 ## SUMMARY
-I feel like was... <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel I like was...  
+<sup>(completed at the end of the week)</sup>
+<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
 
 <!---->
