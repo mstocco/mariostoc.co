@@ -42,7 +42,7 @@ This ride was fun and checked off today's box.
 Sleep **3** | Fatigue **4** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
-<p style="margin-bottom:0;color:red" class="agencyvc">Snowfall Warning for Coastal British Columbia</p><p style="color:red;font-size:0.9em;border-top:1px solid red;">POSTED 0800 PST &mdash;A deepening Pacific low will make its way across Washington state today. Abundant moisture associated with the low will result in very heavy wet snow over East Vancouver Island.</p><p style="color:red;font-size:0.9em;">For Greater Victoria, there is the potential for local snowfall accumulations of 5 cm near sea level. Rainfall amounts of up to 40 mm are also expected. The heavy precipitation will end early this evening as the low moves east.</p>
+<p style="margin-bottom:0;color:red" class="agencyvc">Snowfall Warning for Coastal British Columbia</p><p style="color:red;font-size:0.9em;border-top:1px solid red;">Posted 8am &mdash; A deepening Pacific low will make its way across Washington state today. Abundant moisture associated with the low will result in very heavy wet snow over East Vancouver Island.</p><p style="color:red;font-size:0.9em;">For Greater Victoria, there is the potential for local snowfall accumulations of 5 cm near sea level. Rainfall amounts of up to 40 mm are also expected. The heavy precipitation will end early this evening as the low moves east.</p>
 
 
 ### PLANNED WORKOUT
