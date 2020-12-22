@@ -56,7 +56,7 @@ Total Time: **53 minutes** &nbsp; Distance: **2050m**
 
 I had an okay sleep last night.  I was aware of a heavy rain forecasted for today but I was more than surprised to see some white falling too.  4x4 and an indoor workout scheduled so, no problem.
 
-I shared the moderate lanes with two dudes this afternoon; one older, one younger and both swimming generally at the pace that I was doing the 25m fist drill.  This swim flowed well though on the last few lengths, I noticed my hip flexor acting up and after dinner, my right ankle was sore too.  Weird.
+This swim flowed well though on the last few lengths, I noticed my hip flexor acting up and after dinner, my right ankle was sore too.  Weird.
 
 ### TODAY'S ACCUMULATION 
 ![Weather Map](/assets/jpg/snowfall-20201221.jpeg)
