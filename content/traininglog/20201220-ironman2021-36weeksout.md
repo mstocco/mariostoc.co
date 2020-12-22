@@ -44,7 +44,6 @@ Sleep **3** | Fatigue **4** | Stress **4** | Soreness **3**
 
 <p style="margin-bottom:0;color:red" class="agencyvc">Snowfall Warning for Coastal British Columbia</p><p style="color:red;font-size:0.9em;border-top:1px solid red;">Posted 8am &mdash; A deepening Pacific low will make its way across Washington state today. Abundant moisture associated with the low will result in very heavy wet snow over East Vancouver Island.</p><p style="color:red;font-size:0.9em;">For Greater Victoria, there is the potential for local snowfall accumulations of 5 cm near sea level. Rainfall amounts of up to 40 mm are also expected. The heavy precipitation will end early this evening as the low moves east.</p>
 
-
 ### PLANNED WORKOUT
 Mobility: 27 minutes.  
 3:30pm: Swim 2050: 
@@ -53,10 +52,14 @@ Mobility: 27 minutes.
 5x 150 steady swim, odds: Swim, evens: w/ buoy r :45. 2x 50 easy to cool down.
 <!---->
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **53 minutes** &nbsp; Distance: **2050m**
 
 I had an okay sleep last night.  I was aware of a heavy rain forecasted for today but I was more than surprised to see some white falling too.  4x4 and an indoor workout scheduled so, no problem.
 
+I shared the moderate lanes with two dudes this afternoon; one older, one younger and both swimming generally at the pace that I was doing the 25m fist drill.  This swim flowed well though on the last few lengths, I noticed my hip flexor acting up and after dinner, my right ankle was sore too.  Weird.
+
+### TODAY'S ACCUMULATION 
+![Weather Map](/assets/jpg/snowfall-20201221.jpeg)
 <!---->
 ## TUESDAY DEC 22
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
