@@ -81,7 +81,7 @@ Running slow and comfortable also meant that I was not overextending myself and 
 
 After the run, it was back to work to get a long standing project completed for presentation to a customer tomorrow.  This went longer than expected so I was late getting into the garage for the ride.
 
-Because there was a standing component to the workout, I thought I would ride my rode bike on the rollers.  Holy man, that seemed awkward.  It has never been more apparent how different the road and TT are.  I was not comfortable at all on the road bike.  It felt twitchy and it didn't take me long to hang it back on the wall and pull the TT bike down.   
+With a standing component to the bike workout, I thought I would ride my rode bike on the rollers.  Holy man, that was awkward.  It has never been more apparent to me how different the road and TT are.  The road bike was not comfortable at all;  it felt twitchy and it didn't take me long to hang it back on the wall.   
 
 The 70 minute workout was done on the TT bike and not only does it feel better on the rollers, it also has the speed and cadence sensors recording the during the ride.  I felt a bit sluggish to start but soon found a **good rhythm**; by the time I was on the 4x4:00 reps, I was in an even better space.
 
