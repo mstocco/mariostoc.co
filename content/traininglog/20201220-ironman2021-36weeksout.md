@@ -77,7 +77,7 @@ A nice sunny day to almost get the crud from yesterday off the bike paths.
 
 I felt good on the slow paced run yesterday afternoon.  I got out while the sun was out and got 32 minutes of base running in.  Zero emphasis on pace, this was just running easy and with the best form I could.
 <!---->
-Running slow and comfortable also meant that I was not overextending myself and suspect right ankle (sore in the morning, not during the run) and some tenderness in the left piriformis/hamstring (if I had strides scheduled today, I may have skipped them).
+Running slow and comfortable also meant that I was not overextending a tender left piriformis/hamstring.  If I had strides scheduled today, I may have skipped them.  After yesterday's mobility, I foam-rolled that piriformis to the point that it did finally relax but it still needs a bit more work.
 
 After the run, it was back to work to get a long standing project completed for presentation to a customer tomorrow.  This went longer than expected so I was late getting into the garage for the ride.
 
