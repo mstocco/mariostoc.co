@@ -91,7 +91,7 @@ The 70 minute workout was done on the TT bike.  Not only did it feel better on t
 
 <!---->
 ## WEDNESDAY DEC 23
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **5** | Fatigue **3** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -105,7 +105,7 @@ Run 30 minutes. Flat and easy. Again!
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I am guessing a late bike workout didn't help me get the best sleep last night.  I will look to catch up on that tonight.
 
 
 <!---->
