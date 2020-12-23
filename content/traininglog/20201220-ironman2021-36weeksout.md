@@ -73,7 +73,7 @@ Run 30 minutes. Flat and EASY.
 ### NOTES
 Total Time: **102 minutes**
 
-A nice sunny day to almost get the crud from yesterday off the bike paths.
+A nice sunny day to get most of the ice from yesterday, melted off the bike paths.
 
 I felt good on the slow paced run yesterday afternoon.  I got out while the sun was out and got 32 minutes of base running in.  Zero emphasis on pace, this was just running easy and with the best form I could.
 <!---->
