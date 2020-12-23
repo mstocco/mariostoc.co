@@ -75,7 +75,7 @@ Total Time: **102 minutes**
 
 A nice sunny day to get most of the ice from yesterday, melted off the bike paths.
 
-With the sun out and my Escalantes on, I  headed out and got 32 minutes of **comfortable base running** in.  Zero emphasis on pace; this was just running easy and with a focus on form and posture.  This was a great afternoon break from work. 
+With the sun out and my Escalantes on, I  headed out for 32 minutes of **comfortable base running** in.  Zero emphasis on pace; this was just an easy jog with a focus on form and posture.  It was a great afternoon break from work. 
 <!---->
 Running slow and comfortable also meant that I was not overextending a tender left piriformis.  If I had strides scheduled today, I may have skipped them.  After yesterday's mobility, I foam-rolled that piriformis until it finally relaxed but it still needs a bit more time.
 
@@ -83,7 +83,7 @@ After the run, it was back to work to get a project completed for presentation t
 
 With a standing component to the bike workout, I thought I would ride my rode bike on the rollers.  Holy man, that was awkward.  It has never been more apparent to me how different the road and TT are.  The road bike was not comfortable at all;  it felt twitchy and it didn't take me long to hang it back on the wall.   
 
-The 70 minute workout was done on the TT bike and not only does it feel better on the rollers, it also has the speed and cadence sensors recording the during the ride.  I felt a bit sluggish to start but soon found a **good rhythm**; by the time I was on the 4x4:00 reps, I was in an even better space.
+The 70 minute workout was done on the TT bike and not only did it feel better on the rollers, it also has the speed and cadence sensors recording the during the ride.  I felt a bit sluggish to start but soon found a **good rhythm**; by the time I was on the 4x4:00 reps, I was in an even better space.
 
 
 
