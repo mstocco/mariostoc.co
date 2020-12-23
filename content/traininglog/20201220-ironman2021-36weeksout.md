@@ -75,7 +75,7 @@ Total Time: **102 minutes**
 
 A nice sunny day to get most of the ice from yesterday, melted off the bike paths.
 
-I felt good on the slow paced run yesterday afternoon.  I got out while the sun was out and got 32 minutes of base running in.  Zero emphasis on pace, this was just running easy and with the best form I could.
+With the sun out and my Escalantes on, I  headed out and got 32 minutes of **comfortable base running** in.  Zero emphasis on pace; this was just running easy and with a focus on form and posture.  This was a great afternoon break from work. 
 <!---->
 Running slow and comfortable also meant that I was not overextending a tender left piriformis.  If I had strides scheduled today, I may have skipped them.  After yesterday's mobility, I foam-rolled that piriformis until it finally relaxed but it still needs a bit more time.
 
