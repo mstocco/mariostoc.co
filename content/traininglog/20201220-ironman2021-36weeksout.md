@@ -75,9 +75,9 @@ Total Time: **102 minutes**
 
 A nice sunny day to get most of the ice from yesterday, melted off the bike paths.
 
-With the sun out and my Escalantes on, I  headed out for 32 minutes of **comfortable base running** in.  Zero emphasis on pace; this was just an easy jog with a focus on form and posture.  It was a great afternoon break from work. 
+With the sun out and my Escalantes on, I  headed out for 32 minutes of **comfortable base running**.  Zero emphasis on pace; this was just an easy jog with a focus on form and posture.  It was a great afternoon break from work. 
 <!---->
-Running slow and comfortable also meant that I was not overextending a tender left piriformis.  If I had strides scheduled today, I may have skipped them.  After yesterday's mobility, I foam-rolled that piriformis until it finally relaxed but it still needs a bit more time.
+Running slow and comfortable also meant that I was not overextending a _tender_ left piriformis.  If I had strides scheduled today, I may have skipped them.  After mobility [yesterday](javascript:flick('mon');), I foam-rolled that piriformis until it finally relaxed but it still needs a bit more time.
 
 After the run, it was back to work to get a project completed for presentation to a customer tomorrow.  Work went longer than expected so I was late getting into the garage for the ride.
 
