@@ -60,9 +60,10 @@ This swim **flowed well**, but during the last few lengths, I felt a twinge in m
 
 ### TODAY'S ACCUMULATION 
 ![Weather Map](/assets/jpg/snowfall-20201221.jpeg)
+
 <!---->
-## TUESDAY DEC 22
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## TUESDAY DEC 22 ☀️
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -70,9 +71,18 @@ Ride 70 minutes: 12 minutes easy spinning to warm up. 5x :12 moderate standing, 
 Run 30 minutes. Flat and EASY.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **102 minutes**
 
-&mdash; 
+A nice sunny day to almost get the crud from yesterday off the bike paths.
+
+I felt good on the slow paced run yesterday afternoon.  I got out while the sun was out and got 32 minutes of base running in.  Zero emphasis on pace, this was just running easy and with the best form I could.  
+
+After the run, it was back to work to get a long standing project completed for presentation to a customer tomorrow.  This went longer than expected so I was late getting into the garage for the ride.
+
+Because there was a standing component to the workout, I thought I would ride my rode bike on the rollers.  Holy man, that seemed awkward.  It has never been more apparent how different the road and TT are.  I was not comfortable at all on the road bike.  It felt twitchy and it didn't take me long to hang it back on the wall and pull the TT bike down.   
+
+The 70 minute workout was done on the TT bike and not only does it feel better on the rollers, it also has the speed and cadence sensors recording the during the ride.  I felt a bit sluggish to start but was in a rhythm by the time I was on the 4x4:00 reps.
+
 
 
 <!---->
