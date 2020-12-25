@@ -107,7 +107,7 @@ Total Time: **77 minutes**
 
 I am guessing a late bike workout didn't help me get the best sleep last night.  I will look to catch up on that tonight.
 
-There was some lane congestion as I was swimming in the Moderate Lane with two older people.  I recorded this in Garmin as two workouts but in reality, it was just one.  What I thought was a good idea to try an old pair of googles, did not work out so well.  Switching them out for my _Kayenne_ googles was the solution.
+There was some lane congestion as I was in the Moderate Lane with two older people.  I recorded this in Garmin as two workouts but in reality, it was just one.  What I thought was a good idea to try an old pair of googles, did not work out so well.  Switching them out for my _Kayenne_ googles was the solution.
 <!---->
 The water felt thicker today or I more likely I was just tired.  I noticed another swimmer packed a water bottle and a gel the last time I swam.  I did the same, bringing a small water bottle with a bit of lemonade for flavour.  I don't think I consumed a consequential amount of calories but this is probably a good habit regardless.
 
