@@ -129,7 +129,7 @@ Total Time: **62 minutes** &nbsp; Distance: **10.3 km**
 
 I fell asleep really early but was up for a number of hours in the middle of the night.  I did eventually fall back asleep but I was pretty groggy this morning.
 
-In contemplating doing my run today or tomorrow, I weighed two things.  First, I was feeling a bit run down and probably could use the day for rest.  Second was the forecast; dry today and wet tomorrow.  The weather won and I headed out for an easy jog.  There was a hint of heaviest in my legs and a different type of ankle soreness.  It was more so in the joints themselves and not where it is typically, in the tendons.  On a pain scale of 1 to 10, I am calling this a 2, but it is novel and worth writing down.
+In contemplating when to run, I weighed two things.  First, I was feeling a bit run down and probably could use a rest day.  Second was the forecast; dry today and wet tomorrow.  The weather won and I headed out for an easy jog.  There was a hint of heaviest in my legs and a different type of ankle soreness.  It was more so in the joints themselves and not where it is typically, in the tendons.  On a pain scale of 1 to 10, I am calling this a 2, but it is novel and worth writing down.
 <!---->
 ## FRIDAY DEC 25 🎄
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
