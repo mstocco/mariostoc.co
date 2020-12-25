@@ -90,7 +90,7 @@ The 70 minute workout was done on the TT bike.  Not only did it feel better on t
 
 
 <!---->
-## WEDNESDAY DEC 23
+## WEDNESDAY DEC 23 ☀️
 Sleep **5** | Fatigue **3** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -103,14 +103,19 @@ Sleep **5** | Fatigue **3** | Stress **4** | Soreness **3**
 Run 30 minutes. Flat and easy. Again!
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **77 minutes**
 
 I am guessing a late bike workout didn't help me get the best sleep last night.  I will look to catch up on that tonight.
 
+The swim was ok.  There was some lane congestion as I was swimming in the Moderate Lane with two older people.  I recorded this in Garmin as two workouts but in reality, it was just one.  What I thought was a good idea to try an old pair of googles, did not work out so well.  Switching them out for my _Kayenne_ googles was the solution.  The water felt thicker today or I was just tired.
+
+The run was slow too.  I simply jogged out on _Lochside Trail_ after dark; the path was slippery parallel to Swan Lake but otherwise clear of yesterday's slushy patches.
+
+1930 i the evening, I laid down on the spare bed downstairs and was out like a light.
 
 <!---->
-## THURSDAY DEC 24
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## THURSDAY DEC 24 🌤
+Sleep **3** | Fatigue **4** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -118,11 +123,11 @@ Mobility: 20 minutes.
 Run 60 minutes easy, and flat. Whatever day you like. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **62 minutes** &nbsp; Distance: **10.3 km**
 
-&mdash; 
+I fell asleep really early and was up for a number of hours.  I did eventually fall back asleep but I was groggy this morning.
 
-
+In contemplating doing the 60 minute run today or tomorrow, I weighed two things.  First, I was feeling a bit run down and probably could use the day for rest.  Second was the forecast; dry today and wet tomorrow.  The weather won and I headed out for an easy jog and easy it was.  There was a hint of heaviest in my legs and a different type of ankle soreness.  It was more so in the joints themselves and not where it is typically, in the tendons.  On a pain scale of 1 to 10, I am calling this a 2, but it is novel and worth writing down.
 <!---->
 ## FRIDAY DEC 25 🎄
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
