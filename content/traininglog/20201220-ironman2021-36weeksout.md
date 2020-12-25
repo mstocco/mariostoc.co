@@ -107,11 +107,13 @@ Total Time: **77 minutes**
 
 I am guessing a late bike workout didn't help me get the best sleep last night.  I will look to catch up on that tonight.
 
-The swim was ok.  There was some lane congestion as I was swimming in the Moderate Lane with two older people.  I recorded this in Garmin as two workouts but in reality, it was just one.  What I thought was a good idea to try an old pair of googles, did not work out so well.  Switching them out for my _Kayenne_ googles was the solution.  The water felt thicker today or I was just tired.
+There was some lane congestion as I was swimming in the Moderate Lane with two older people.  I recorded this in Garmin as two workouts but in reality, it was just one.  What I thought was a good idea to try an old pair of googles, did not work out so well.  Switching them out for my _Kayenne_ googles was the solution.
+<!---->
+The water felt thicker today or I more likely I was just tired.  I noticed another swimmer packed a water bottle and a gel the last time I swam.  I did the same, bringing a small water bottle with a bit of lemonade for flavour.  I don't think I consumed a consequential amount of calories but this is probably a good habit regardless.
 
-The run was slow too.  I simply jogged out on _Lochside Trail_ after dark; the path was slippery parallel to Swan Lake but otherwise clear of yesterday's slushy patches.
+The run was slow and uneventful.  I simply jogged out on _Lochside Trail_ after dark; the path was slippery parallel to _Swan Lake_ but otherwise clear of yesterday's slushy patches.
 
-1930 i the evening, I laid down on the spare bed downstairs and was out like a light.
+1930 in the evening, I laid down on the spare bed downstairs and was out like a light.
 
 <!---->
 ## THURSDAY DEC 24 🌤
@@ -125,9 +127,9 @@ Run 60 minutes easy, and flat. Whatever day you like.
 ### NOTES
 Total Time: **62 minutes** &nbsp; Distance: **10.3 km**
 
-I fell asleep really early and was up for a number of hours.  I did eventually fall back asleep but I was groggy this morning.
+I fell asleep really early but was up for a number of hours in the middle of the night.  I did eventually fall back asleep but I was pretty groggy this morning.
 
-In contemplating doing the 60 minute run today or tomorrow, I weighed two things.  First, I was feeling a bit run down and probably could use the day for rest.  Second was the forecast; dry today and wet tomorrow.  The weather won and I headed out for an easy jog and easy it was.  There was a hint of heaviest in my legs and a different type of ankle soreness.  It was more so in the joints themselves and not where it is typically, in the tendons.  On a pain scale of 1 to 10, I am calling this a 2, but it is novel and worth writing down.
+In contemplating doing my run today or tomorrow, I weighed two things.  First, I was feeling a bit run down and probably could use the day for rest.  Second was the forecast; dry today and wet tomorrow.  The weather won and I headed out for an easy jog.  There was a hint of heaviest in my legs and a different type of ankle soreness.  It was more so in the joints themselves and not where it is typically, in the tendons.  On a pain scale of 1 to 10, I am calling this a 2, but it is novel and worth writing down.
 <!---->
 ## FRIDAY DEC 25 🎄
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
