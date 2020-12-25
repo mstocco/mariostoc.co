@@ -121,8 +121,7 @@ Sleep **3** | Fatigue **4** | Stress **4** | Soreness **3**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Mobility: 20 minutes.  
-Run 60 minutes easy, and flat. Whatever day you like. 
+Mobility: 20 minutes.  Run 60 minutes easy, and flat. Whatever day you like. 
 
 ### NOTES
 Total Time: **62 minutes** &nbsp; Distance: **10.3 km**
