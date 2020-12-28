@@ -35,7 +35,7 @@ Last year, I built a fork stand for the rollers; it didn't work as well as I wou
 
 The scheduled ride's intent was nice and steady and with a new indoor rig to test out, I pedalled steady for an hour and fifty.  I sipped a 750ml bottle of lemonade (~200 cals).  I had Tabot Cox' _2019 Kona Series Compilation_ on the screen and the Seahawks _Post Game Show_ on the radio.  
 
-The easy jog was on sore legs (glutes/adductors).
+Very sore glutes and adductors for the easy run.
 
 <!---->
 ## MONDAY DEC 28
