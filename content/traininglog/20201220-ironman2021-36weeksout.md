@@ -7,9 +7,9 @@ Week beginning [Sunday, December 20, 2020](javascript:flick('sun');)
 Christmas week and my goal is to get through it.
 
 ## SUMMARY
-I feel I like was...  
-<sup>(completed at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel I like was **LAGGING A BIT**.
+
+The hardest day emotionally was actually [Wednesday](javascript:flick('wed');) with more than a few moments of sadness.  Christmas Eve was better and Christmas Day was a bit better than I thought.  Regardless, I did feel like I needed to take [Saturday](javascript:flick('sat');) off to decompress. 
 
 ![On my third attempt, I found the southern entrance to the Mount Work Park](/assets/jpg/IMG_3022-977x550.jpeg Eagles Lake, Highlands, BC)
 
@@ -82,12 +82,9 @@ Running slow and comfortable also meant that I was not overextending a _tender_ 
 After the run, it was back to work to get a project completed for presentation to a customer tomorrow.  Work went longer than expected so I was late getting into the garage for the ride.
 
 ---
-
 With a standing component to the bike workout, I thought I would ride my road bike on the rollers.  Holy man, that was awkward.  It has never been more apparent to me how different the road and TT are.  The road bike was not comfortable at all;  it felt twitchy and it didn't take me long to hang it back on the wall.   
 
 The 70 minute workout was done on the TT bike.  Not only did it feel better on the rollers, it also had the speed and cadence sensors.  I felt a bit sluggish to start but soon found **a good rhythm**; by the time I was on the 4x4:00 reps, I was in an even better space.
-
-
 
 <!---->
 ## WEDNESDAY DEC 23 ☀️
@@ -129,23 +126,25 @@ Total Time: **62 minutes** &nbsp; Distance: **10.3 km**
 I fell asleep really early but was up for a number of hours in the middle of the night.  I did eventually fall back asleep but I was pretty groggy this morning.
 
 In contemplating when to run, I weighed two things.  First, I was feeling a bit run down and probably could use a rest day.  Second was tomorrow's wet forecast.  The weather won and I headed out for an easy jog.  There was a hint of heaviest in my legs and a different type of ankle soreness.  It was more so in the joints themselves and not where it is typically, in the tendons.  On a pain scale of 1 to 10, I am calling this a 2, but it is novel and worth writing down.
+
 <!---->
 ## FRIDAY DEC 25 🎄
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Off training.
 
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I did the run [yesterday](javascript:('thu');) which worked out because it is pretty wet outside.
 
+Today, it was my job to cook the turkey; it turned out too!
 
 <!---->
-## SATURDAY DEC 26
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## SATURDAY DEC 26 🌦
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -155,4 +154,4 @@ Ride 1:45 on MTB w/ a nice hilly route (read, trails or road/trail) or on the ro
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash;
+Emotionally, I wasn't in a spot that a ride felt appealing.  I spent the day off the computer, off the bike and off training.  I think I needed it.  In its place, I did some chores that lead me into the garage where I puttered most of the afternoon.  I did get a good amount of tidying up done and I got some woodworking in too!  I build a custom wall mount for Carina's new standup paddle board that Santa gave her.
