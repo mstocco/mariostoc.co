@@ -112,6 +112,9 @@ There was some lane congestion as I was in the Moderate Lane with two older peop
 <!---->
 The water felt thicker today or I more likely I was just tired.  I noticed another swimmer packed a water bottle and a gel the last time I swam.  I did the same, bringing a small water bottle with a bit of lemonade for flavour.  I don't think I consumed a consequential amount of calories but this is probably a good habit regardless.
 
+### HEARTRATE WHILE IN THE POOL
+![HR Chart](/assets/jpg/swmhr-20201223.jpeg)
+
 The run was slow and uneventful.  I simply jogged out on _Lochside Trail_ after dark; the path was slippery parallel to _Swan Lake_ but otherwise clear of yesterday's slushy patches.
 
 1930 in the evening, I laid down on the spare bed downstairs and was out like a light.
