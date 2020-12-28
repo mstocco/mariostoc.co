@@ -24,7 +24,10 @@ OTB: Run 40 minutes. Flat route. Easy effort.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Last night's sleep was ok; I woke feeling rested but **stiff and sore**.
+
+### REBUILT THE FORK STAND (TRAINER)
+![The Trainer](/assets/jpg/IMG_3030.jpeg)
 
 
 <!---->
