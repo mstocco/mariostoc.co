@@ -22,9 +22,9 @@ Ride 2:00 on MTB. Great Trail or the Goose. Keep it nice and steady. Cover some 
 OTB: Run 40 minutes. Flat route. Easy effort.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **150 minutes**
 
-Last night's sleep was ok; I woke feeling rested but **stiff and sore**.
+Last night's sleep was ok; I woke feeling rested but man, my posterior is **stiff and sore**.
 
 The weather was blah; not rainy but dreary nonetheless.  I went into the garage and looked at all the work that I did yesterday and realized that there was one more project.  
 
@@ -35,6 +35,7 @@ Last year, I built a fork stand for the rollers; it didn't work as well as I wou
 
 The scheduled ride's intent was nice and steady and with a new indoor rig to test out, I pedalled steady for an hour and fifty.  I sipped a 750ml bottle of lemonade (~200 cals).  I had Tabot Cox' _2019 Kona Series Compilation_ on the screen and the Seahawks _Post Game Show_ on the radio.  
 
+The easy jog was on sore legs (glutes/adductors).
 
 <!---->
 ## MONDAY DEC 28
