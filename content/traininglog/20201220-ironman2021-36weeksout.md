@@ -145,9 +145,7 @@ Off training.
 ### NOTES
 Total Time: **0 minutes**
 
-I did the run [yesterday](javascript:flick('thu');) which worked out because it is pretty wet outside.
-
-Today, it was my job to cook the turkey; it turned out too!
+I did the run [yesterday](javascript:flick('thu');) which worked out because it is pretty wet outside. Today, my job was to cook the turkey.
 ![Turkey](/assets/jpg/IMG_0500.jpeg)
 
 <!---->
