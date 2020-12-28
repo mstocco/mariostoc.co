@@ -9,7 +9,9 @@ Christmas week and my goal is to get through it.
 ## SUMMARY
 I feel I like was **LAGGING A BIT**.
 
-The hardest day emotionally was actually [Wednesday](javascript:flick('wed');) with more than a few moments of sadness.  Christmas Eve was better and Christmas Day was a bit better than I thought.  Regardless, I did feel like I needed to take [Saturday](javascript:flick('sat');) off to decompress. 
+The hardest day emotionally was actually [Wednesday](javascript:flick('wed');) with more than a few moments of sadness.  It didn't take much either; maybe a song on the radio or a simple memory to found myself welled up.
+
+Christmas Eve was better and Christmas Day was a bit better than I expected.  Regardless, I did feel like I needed to take [Saturday](javascript:flick('sat');) off to decompress.
 
 ![On my third attempt, I found the southern entrance to the Mount Work Park](/assets/jpg/IMG_3022-977x550.jpeg Eagles Lake, Highlands, BC)
 
