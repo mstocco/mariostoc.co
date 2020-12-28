@@ -1,10 +1,10 @@
 # IRONMAN TRAINING 2021
-Week beginning [Sunday, December 27, 2020
+Week beginning [Sunday, December 27, 2020](javascript:flick('sun');)
 
 **35 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-&mdash; 
+Last week of 2020 and this week needs to be consistent (don't they all).
 
 ## SUMMARY
 I feel I like was...  
@@ -14,11 +14,12 @@ I feel I like was...
 
 <!---->
 ## SUNDAY DEC 27
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Ride 2:00 on MTB. Great Trail or the Goose. Keep it nice and steady. Cover some ground! Stay well hydrated, fueled, and warm!   
+OTB: Run 40 minutes. Flat route. Easy effort.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -28,11 +29,12 @@ Total Time: **0 minutes**
 
 <!---->
 ## MONDAY DEC 28
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **4** | Stress **2** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Run 30 minutes flat and easy.   
+Mobility 17 minutes.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -46,7 +48,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Trainer 70 minutes: 20 minutes easy spinning. 6x (:30 high cadence, :15 easy, :15 moderate standing, :30 easy) 1:00 easy. 4x 5:00 @ moderately strong effort (30-45 minute effort) 4:00 easy/normal spin between each. 4 extra minutes easy to cool down.   
+Mobility 23 minutes
 
 ### NOTES
 Total Time: **0 minutes**
@@ -60,7 +63,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Ride 60 minutes easy. Inside/outside. Trainer/rollers. Up to you. Keep it easy!   
+Run 30 minutes flat and EASY.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -74,7 +78,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Run 75 minutes. Hilly route. Easy effort. 
+Mobility 20 minutes
 
 ### NOTES
 Total Time: **0 minutes**
@@ -88,7 +93,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+90 minute easy/fun MTB. If the weather is terrible, then 80 minutes easy on the rollers. (easy)   
+Mobility 22 minutes
 
 ### NOTES
 Total Time: **0 minutes**
@@ -102,7 +108,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Ride 2:15 on MTB. Ideally on the Goose or the Great Trail. Easy to steady effort. Stay well fueled. Bundle up for the inevitable showers. 
+Off the bike (but feel free to take time to get warm if needed)   
+Run 30 minutes. Flat route. Easy effort
 
 ### NOTES
 Total Time: **0 minutes**
