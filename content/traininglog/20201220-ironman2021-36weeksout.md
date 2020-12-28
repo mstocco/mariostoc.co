@@ -9,9 +9,11 @@ Christmas week and my goal is to get through it.
 ## SUMMARY
 I feel I like was **LAGGING A BIT**.
 
-The hardest day emotionally was actually [Wednesday](javascript:flick('wed');) with more than a few moments of sadness.  It didn't take much either; maybe a song on the radio or a simple memory to found myself welled up.
+The hardest day emotionally was actually [Wednesday](javascript:flick('wed');) with more than a few moments of sadness.  It didn't take much either; maybe a song on the radio or a simple memory to find myself welled up.
 
 Christmas Eve was better and Christmas Day was a bit better than I expected.  Regardless, I did feel like I needed to take [Saturday](javascript:flick('sat');) off to decompress.
+
+Even with an extra day off, I was able to exercise for **+7 hours** this week.
 
 ![On my third attempt, I found the southern entrance to the Mount Work Park](/assets/jpg/IMG_3022-977x550.jpeg Eagles Lake, Highlands, BC)
 
@@ -140,7 +142,7 @@ Off training.
 ### NOTES
 Total Time: **0 minutes**
 
-I did the run [yesterday](javascript:('thu');) which worked out because it is pretty wet outside.
+I did the run [yesterday](javascript:flick('thu');) which worked out because it is pretty wet outside.
 
 Today, it was my job to cook the turkey; it turned out too!
 
@@ -156,4 +158,4 @@ Ride 1:45 on MTB w/ a nice hilly route (read, trails or road/trail) or on the ro
 ### NOTES
 Total Time: **0 minutes**
 
-Emotionally, I wasn't in a spot that a ride felt appealing.  I spent the day off the computer, off the bike and off training.  I think I needed it.  In its place, I did some chores that lead me into the garage where I puttered most of the afternoon.  I did get a good amount of tidying up done and I got some woodworking in too!  I build a custom wall mount for Carina's new standup paddle board that Santa gave her.
+Emotionally, I wasn't in a spot where even an easy ride felt appealing.  I spent the day off the computer, off the bike and off training.  I think I needed it.  In its place, I did some chores that lead me into the garage where I puttered most of the afternoon.  I did get a good amount of tidying up done and I did some woodworking in too!  I build a custom wall mount for Carina's new standup paddle board that Santa gave her.
