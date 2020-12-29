@@ -11,8 +11,7 @@ I feel I like was...
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
-
-<!---->
+![](/assets/jpg/IMG_3039-977x550.jpeg THE GORGE WATERWAY FROM CURTIS POINT)
 ## SUNDAY DEC 27
 Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -47,9 +46,11 @@ Run 30 minutes flat and easy.
 Mobility 17 minutes.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Moving Time: **33 minutes**
 
-&mdash; 
+Another okay sleep last night but I am again, very stiff and very sore.  Like yesterday, this is mostly in the glutes and adductors but today I can feel it in the lumbar and hamstrings too.
+
+I jogged easy down to Curtis Point to catch the sunset.  Stopped because I thought I had a rock in my shoe.  Nothing in the show or sock.  This may be a problem as I can still feel it an hour after getting home.  Thankfully I don't run for another couple days.   
 
 
 <!---->
