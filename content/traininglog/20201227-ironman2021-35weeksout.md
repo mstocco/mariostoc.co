@@ -71,7 +71,7 @@ Total Time: **0 minutes**
 
 What happens when I don't read the tea leaves.
 
-Today was a no go with a headache so bad that I was bordering on vomiting.  4 Advil over the course of the day and the headache began to get better by dinner time.
+Today was a no go with a headache so bad that I was bordering on vomiting.  4 Advil over the course of the day and the headache only began to get better by dinner time.
 
 
 <!---->
@@ -123,9 +123,11 @@ Mobility 22 minutes
 Total Time: **120 minutes**
 
 
+### VARIED BUT EASY EFFORT
+![HR Chart](/assets/jpg/hr-20210101.jpeg)
 
 <!---->
-## SATURDAY JAN 02
+## SATURDAY JAN 02 🌧
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
