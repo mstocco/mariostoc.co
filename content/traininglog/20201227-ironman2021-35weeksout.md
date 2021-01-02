@@ -102,11 +102,11 @@ Mobility 20 minutes
 ### NOTES
 Total Time: **80 minutes**
 
-Mea culpa:  I thought today was Friday so I sat on the trainer for 80 minutes.
+Mea culpa:  I thought today was Friday so I was on the trainer for 80 minutes of easy spinning.
 
-In all fairness though, I would have looked to give my plantar another day off just to be safe and sat on the bike instead.  I am ok with pushing through tender soleus pain because I am generally confident in the outcome of running with that tenderness.  
+In all fairness though, I would have looked to give my plantar another day without running just to be safe.  I am ok with pushing through tender soleus pain because I am generally confident in the outcome of running with that type of tenderness.  
 
-What I felt from the run on [Monday](javascript:flick('mon');) closer to a localized burning sensation that persisted through yesterday.
+What started from the run on [Monday](javascript:flick('mon');) and persisted through yesterday was closer to a localized burning sensation.
 
 <!---->
 ## FRIDAY JAN 01 🎉
