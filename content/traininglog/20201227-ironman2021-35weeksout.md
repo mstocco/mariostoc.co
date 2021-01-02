@@ -86,9 +86,10 @@ Run 30 minutes flat and EASY.
 ### NOTES
 Total Time: **0 minutes**
 
-So, yes I did sleep better last night and yes, the headache is gone but given how terrible I felt [yesterday](javascript:flick('tue');) I am taking today off training and the internet too.
+So, yes I did sleep better last night and yes, the headache is gone but given how terrible I felt [yesterday](javascript:flick('tue');) I am taking today off training too.  The sensation of a rock in my shoe is still there even though I walk around the house barefoot.
 
-The sensation of a rock in my shoe is still there even though I walk around the house barefoot.
+I did get an email from Elliot letting me know about this  
+![Vic Half Logo](/assets/jpg/vichalf-20201230.jpeg)
 
 <!---->
 ## THURSDAY DEC 31 ☁️
