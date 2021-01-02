@@ -88,8 +88,9 @@ Total Time: **0 minutes**
 
 So I did sleep better last night and that headache is gone but given how terrible I felt [yesterday](javascript:flick('tue');) I am taking today off training too.  That sensation of a rock in my shoe is still there too, even though I am in the house barefoot.
 
-I did get an email from Elliot letting me know about this (and I registered):
+I did get an email from Elliot letting me know about this race at the end of May:
 ![Vic Half Logo](/assets/jpg/vichalf-20201230.jpeg?v2)
+I signed up!
 
 <!---->
 ## THURSDAY DEC 31 ☁️
