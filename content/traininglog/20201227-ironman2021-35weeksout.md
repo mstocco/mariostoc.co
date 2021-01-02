@@ -57,7 +57,7 @@ I jogged easy down to Curtis Point to catch the sunset.  Stopped because I thoug
 
 <!---->
 ## TUESDAY DEC 29 ⛅️
-Sleep **6** | Fatigue **4** | Stress **4** | Soreness **6**  
+<mark>Sleep **6** | Fatigue **4** | Stress **4** | Soreness **6**</mark>   
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -69,7 +69,8 @@ Total Time: **0 minutes**
 
 What happens when I don't read the tea leaves.
 
-Today was a no go with a headache so bad that I was bordering on nausea.  4 Advil over the course of the day and the headache began to get better by dinner time.
+Today was a no go with a headache so bad that I was bordering on vomiting.  4 Advil over the course of the day and the headache began to get better by dinner time.
+
 
 <!---->
 ## WEDNESDAY DEC 30  🌦
@@ -83,9 +84,9 @@ Run 30 minutes flat and EASY.
 ### NOTES
 Total Time: **0 minutes**
 
-So, yes I did sleep better last night and yes, the headache is gone but given how terrible I felt [yesterday](javascript:flick('tue');) I am taking today off training.
+So, yes I did sleep better last night and yes, the headache is gone but given how terrible I felt [yesterday](javascript:flick('tue');) I am taking today off training and the internet too.
 
-The sensation of a rock in my show is still there even though I walk around the house barefoot.
+The sensation of a rock in my shoe is still there even though I walk around the house barefoot.
 
 <!---->
 ## THURSDAY DEC 31 ☁️
@@ -97,14 +98,17 @@ Run 75 minutes. Hilly route. Easy effort.
 Mobility 20 minutes
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **80 minutes**
 
+Mea culpa:  I thought today was Friday so I sat on the trainer for 80 minutes.
 
+In all fairness though, I would have looked to give my plantar another day off just to be safe and sat on the bike instead.  I am ok with pushing through tender soleus pain because I am generally confident in the outcome of running with that tenderness.  
 
+What I felt from the run on [Monday](javascript:flick('mon');) closer to a localized burning sensation that persisted through yesterday.
 
 <!---->
 ## FRIDAY JAN 01 🎉
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **2** | Fatigue **2** | Stress **2** | Soreness **2**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -112,9 +116,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 Mobility 22 minutes
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **120 minutes**
 
-&mdash; 
 
 
 <!---->
