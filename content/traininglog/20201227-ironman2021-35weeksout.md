@@ -53,7 +53,9 @@ Total Moving Time: **33 minutes**
 
 Another okay sleep last night but I am again, very stiff and very sore.  Like yesterday, this is mostly in the glutes and adductors but today I can feel it in the lumbar and hamstrings too.
 
-I jogged easy down to Curtis Point to catch the sunset.  Stopped because I thought I had a rock in my shoe.  Nothing in the show or sock.  This may be a problem as I can still feel it an hour after getting home.  Thankfully I don't run for another couple days.   
+I jogged easy down to [Curtis Point](javascript:flkty.select(2);) to catch the sunset.  I continued on but stopped after the short hill up to _Harriet Road_ because I thought I had a rock in my shoe; nothing was in the shoe or sock though.
+
+I can still feel that bit of pain on the bottom of my foot an hour after getting home.  Thankfully I don't run for another couple days.   
 
 <!---->
 ## TUESDAY DEC 29 ⛅️
