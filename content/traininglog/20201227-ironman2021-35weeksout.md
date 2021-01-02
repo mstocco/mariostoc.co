@@ -11,7 +11,7 @@ I feel I like was **HIT BY A TRUCK** but I healed then carried on.
 
 When I look back on how unusually stiff and sore I was on [Sunday](javascript:flick('sun');) and then how that carried over to [Monday](javascript:flick('mon');) I wasn't listening.  [Tuesday](javascript:flick('tue');) was a message that was **loud and clear**; my capacity for stress was beyond it's limit.
 
-I certainly was not a bump in training volume or intensity but the culmination of an emotionally heavy Christmas season.
+It wasn't a bump in training volume or intensity but the culmination of an emotionally heavy Christmas season.
 
 ![Too cold for a dip today but come April, I am likely back here for a swim.](/assets/jpg/IMG_3039-977x550.jpeg THE GORGE WATERWAY AT CURTIS POINT)
 
