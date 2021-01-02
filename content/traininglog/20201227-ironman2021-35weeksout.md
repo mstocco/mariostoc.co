@@ -7,12 +7,15 @@ Week beginning [Sunday, December 27, 2020](javascript:flick('sun');)
 Last week of 2020 and this week needs to be consistent (don't they all).
 
 ## SUMMARY
-I feel I like was...  
-<sup>(completed at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel I like was **HIT BY A TRUCK** but I healed then carried on.
 
-![](/assets/jpg/IMG_3039-977x550.jpeg THE GORGE WATERWAY FROM CURTIS POINT)
-## SUNDAY DEC 27
+When I look back on how unusually stiff and sore I was on [Sunday](javascript:flick('sun');) and then how that carried over to [Monday](javascript:flick('mon');) I wasn't listening.  [Tuesday](javascript:flick('tue');) was a message that was **loud and clear**; my capacity for stress was beyond it's limit.
+
+I certainly was not a bump in training volume or intensity but the culmination of an emotionally heavy Christmas season.
+
+![Too cold for a dip today but come April, I am likely back here for a swim.](/assets/jpg/IMG_3039-977x550.jpeg THE GORGE WATERWAY AT CURTIS POINT)
+
+## SUNDAY DEC 27 🌧
 Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -37,7 +40,7 @@ The scheduled ride's intent was nice and steady and with a new indoor rig to tes
 Very sore glutes and adductors for the easy run.
 
 <!---->
-## MONDAY DEC 28
+## MONDAY DEC 28 ⛅️
 Sleep **3** | Fatigue **4** | Stress **2** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -52,10 +55,9 @@ Another okay sleep last night but I am again, very stiff and very sore.  Like ye
 
 I jogged easy down to Curtis Point to catch the sunset.  Stopped because I thought I had a rock in my shoe.  Nothing in the show or sock.  This may be a problem as I can still feel it an hour after getting home.  Thankfully I don't run for another couple days.   
 
-
 <!---->
-## TUESDAY DEC 29
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## TUESDAY DEC 29 ⛅️
+Sleep **6** | Fatigue **4** | Stress **4** | Soreness **6**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -65,12 +67,13 @@ Mobility 23 minutes
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+What happens when I don't read the tea leaves.
 
+Today was a no go with a headache so bad that I was bordering on nausea.  4 Advil over the course of the day and the headache began to get better by dinner time.
 
 <!---->
-## WEDNESDAY DEC 30
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## WEDNESDAY DEC 30  🌦
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -80,12 +83,13 @@ Run 30 minutes flat and EASY.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+So, yes I did sleep better last night and yes, the headache is gone but given how terrible I felt [yesterday](javascript:flick('tue');) I am taking today off training.
 
+The sensation of a rock in my show is still there even though I walk around the house barefoot.
 
 <!---->
-## THURSDAY DEC 31
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## THURSDAY DEC 31 ☁️
+Sleep **3** | Fatigue **2** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -95,7 +99,7 @@ Mobility 20 minutes
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+
 
 
 <!---->
