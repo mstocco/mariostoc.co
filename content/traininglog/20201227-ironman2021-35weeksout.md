@@ -144,11 +144,11 @@ Total Time: **165 minutes**
 
 _"Bundle up for the inevitable showers..."_   It rained so hard, the sky's so dark that we had the lights on in the house this afternoon.  I bailed on the MTB ride.  In its place, I pedalled the TT bike on the trainer for 2:15.  Instead of just pedalling aimlessly, I made this a bit more fun.
 
-![Rain Graphic](/assets/jpg/rain-20210102.jpeg)
+![Rain Graphic](/assets/jpg/rain-20210102.jpeg?v2)
 <!---->
-Earlier this week, I took a write up on the IRONMAN Canada bike course and plugged in the points of interest into a Garmin Bike Workout at a condensed rate.  For example the first point of interest in the write up is reaching _Skaha Lake_ 6 km from _T1_ which I plugging into Garman as 0.6 km.  Rinse/repeat until I had a total of 18 kms.  I rode those a constant speed last [Sunday](javascript:flick('sun');) and finally today, I took the time splits and multiplied each one by five giving me a 3 hours worth of segments and beeps from my bike computer; each beep represents a point of interest from that original write up.
+Earlier this week, I took a write up on the IRONMAN Canada bike course and plugged in the points of interest into a Garmin Bike Workout at a condensed, 10:1 ratio.  For example the first point of interest in the write up is reaching _Skaha Lake_ 6 km from _T1_ which I plugging into Garman as 0.6 km.  Rinse/repeat until I had a total of 18 kms.  Then I rode that workout at a constant, easy effort last [Sunday](javascript:flick('sun');).  Finally, I took Sunday's time splits, multiplied each one by five, giving me a 3 hours worth of segments and beeps for my bike computer; each beep represents a point of interest from the original IMC Bike Course article.
 
-The fifth beep put me at the foot of _"Richter Pass"_ at an hour and seventeen minutes in; after and hour and fifty-three minutes, the bike computer let me know I was at _Keremeos_ and _HWY 3A_.  Anyway, this was a novel attempt to add some contextual fun into an indoor ride.
+During today's trainer session, the fifth beep put me at _"the foot of Richter Pass"_ at an hour and seventeen minutes.  After and hour and fifty-three minutes, the bike computer let me know I was at _"Keremeos and _HWY 3A"_.  Anyway, this was a novel attempt to add some contextual fun into an indoor ride.
 
 I ran out of lemonade so I had a can of ginger ale and snacked on ju-jubes.
 
