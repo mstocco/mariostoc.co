@@ -154,7 +154,7 @@ During today's trainer session, the fifth beep put me at _"the foot of Richter P
 
 I ran out of lemonade crystals so I had a can of ginger ale and snacked on ju-jubes.  Apart from a sore bottom the legs felt relatively good.
 <!---->
-The untended result of riding late was that the rain stopped by the time I got off the trainer.  Bonus!
+The untended result of starting the workout(s) later was that the rain had stopped by the time I got off the trainer; bonus!
 
 ### A TYPICAL ROUTE
 ![Run Map](/assets/jpg/runmap-20210102.jpeg) 
