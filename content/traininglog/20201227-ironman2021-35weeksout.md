@@ -162,4 +162,4 @@ The untended result of starting the workout(s) later was that the rain had stopp
 I ran easy and generally felt pretty good on my feet; the exception being my **left piriformis** which is still knotted up and tender.
 
 ---
-Before I when to bed, I revisited an old Kelly Starrett video on piriformis syndrome.  That knotted up tissue got worked over with a lacrosse ball.  This has worked in the past; let's see how it feels tomorrow.
+Before I when to bed, I revisited an old Kelly Starrett video on piriformis syndrome.  That knotted up tissue got a solid work over with a lacrosse ball.  This has worked in the past; let's see how it feels [tomorrow](ironman2021-34weeksout?sun).
