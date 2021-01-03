@@ -124,7 +124,7 @@ Mobility 22 minutes
 ### NOTES
 Total Time: **120 minutes**
 
-Just like how I thought [yesterday](javascript:flick('thu');) was Friday, I thought today was tomorrow.  I rode the trainer because the weather outside was terrible and I rode with the idea that I was going to run off the bike.  I did my best to vary the intensity as if it was an outside ride but still, the effort was **easy**.  ~200 calories of lemonade in a 750ml bottle consumed.  Second day on the trainer and I feel pretty good, minus the piriformis (noticed during slower cadences).
+The weather outside was terrible so the TT Bike set up on the trainer it was.  I did my best to vary the intensity as if it was an outside ride but still, the effort was **easy**.  ~200 calories of lemonade in a 750ml bottle consumed.  Second day on the trainer and I feel pretty good, minus the piriformis (only noticed during slower cadences).
 
 ### VARIED BUT EASY EFFORT
 ![HR Chart](/assets/jpg/hr-20210101.jpeg)
@@ -144,7 +144,7 @@ Total Time: **165 minutes**
 
 ![Rain Graphic](/assets/jpg/rain-20210102.jpeg?v2)
 
-_"Bundle up for the inevitable showers..."_   It rained so hard and the sky was so dark that we had the lights on in the house this afternoon.  I bailed on the outside MTB ride.  In its place, I pedalled the TT bike on the trainer for 2:15.  Instead of just pedalling aimlessly, today I made this a bit more fun.
+_"Bundle up for the inevitable showers..."_   It rained so hard and the sky was so dark that we had the lights on in the house this afternoon.  I bailed on the outside MTB ride.  In its place, I was the on the trainer but instead of just pedalling aimlessly, today I made this a bit more fun.
 
 <!---->
 Earlier this week, I took a write up on the IRONMAN Canada bike course and plugged in the points of interest into a Garmin Bike Workout at a condensed, 10:1 ratio.  For example the first point of interest in the write up is reaching _Skaha Lake_ 6 km from _T1_ which I plugging into Garman as 0.6 km.  Rinse/repeat until I had a total of 18 kms.  Then I "rode" that workout at a constant, easy effort last [Sunday](javascript:flick('sun');).  Finally, I took Sunday's time splits, multiplied each time by five, giving me a 3 hours worth of segments and beeps for my bike computer; each beep represents a point of interest from that original IMC Bike Course article.
