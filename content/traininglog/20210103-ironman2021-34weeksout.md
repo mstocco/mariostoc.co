@@ -4,7 +4,7 @@ Week beginning [Sunday, January 3, 2021](javascript:flick('sun');)
 **34 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-&mdash; 
+If [last week](ironman2021-35weeksout) showed me anything, it is that I really need to do a better job of recognizing and paying heed to the different stressors that may come up.  It is time to start putting more raw veggies on the plate too.
 
 ## SUMMARY
 I feel I like was...  
@@ -13,8 +13,8 @@ I feel I like was...
 
 
 <!---->
-## SUNDAY JAN 03
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## SUNDAY JAN 03 🌦
+Sleep **2** | Fatigue **4** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
