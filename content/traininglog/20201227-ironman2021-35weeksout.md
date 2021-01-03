@@ -145,7 +145,7 @@ Total Time: **165 minutes**
 _"Bundle up for the inevitable showers..."_
 ![Rain Graphic](/assets/jpg/rain-20210102.jpeg?v2)
 
-It rained HARD all day. The sky was so dark that we needed the lights on in the house too.  I bailed on the outside MTB ride.  In its place, I was the on the trainer but instead of just pedalling aimlessly, today I made this a bit more fun.
+It rained HARD all day.  Needless to say, I bailed on the outside MTB ride.  In its place, I was the on the trainer but instead of just pedalling aimlessly, today I made this a bit more fun.
 
 <!---->
 Earlier this week, I took a write up on the IRONMAN Canada bike course and plugged in the points of interest into a Garmin Bike Workout at a condensed, 10:1 ratio.  For example the first point of interest in the write up is reaching _Skaha Lake_ 6 km from _T1_ which I plugging into Garman as 0.6 km.  Rinse/repeat until I had a total of 18 kms.  Then I "rode" that workout at a constant, easy effort last [Sunday](javascript:flick('sun');).  Finally, I took Sunday's time splits, multiplied each time by five, giving me a 3 hours worth of segments and beeps for my bike computer; each beep represents a point of interest from that original IMC Bike Course article.
