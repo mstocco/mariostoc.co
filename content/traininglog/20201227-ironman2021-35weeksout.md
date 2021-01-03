@@ -13,6 +13,8 @@ When I look back on how unusually stiff and sore I was on [Sunday](javascript:fl
 
 It wasn't a bump in training volume or intensity but the culmination of an emotionally heavy Christmas season.
 
+Although this week didn't go to plan, I was able to get +9 hours of training in and to me that is a small win.
+
 ![Too cold for a dip today but come April, I am likely back here for a swim.](/assets/jpg/IMG_3039-977x550.jpeg THE GORGE WATERWAY AT CURTIS POINT)
 
 ## SUNDAY DEC 27 🌧
@@ -137,9 +139,15 @@ Off the bike (but feel free to take time to get warm if needed)
 Run 30 minutes. Flat route. Easy effort
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **165 minutes**
 
-&mdash; 
+_"Bundle up for the inevitable showers..."_   It rained so hard, the sky's so dark that we had the lights on in the house this afternoon.  I bailed on the MTB ride.  In its place, I pedalled the TT bike on the trainer for 2:15.  Instead of just pedalling aimlessly, I made this a bit more fun.
+
+Earlier this week, I took a write up on the IRONMAN Canada bike course and plugged in the points of interest into a Garmin Bike Workout at a condensed rate.  For example the first point of interest in the write up is reaching _Skaha Lake_ 6 km from _T1_ which I plugging into Garman as 0.6 km.  Rinse/repeat until I had a total of 18 kms.  I rode those a constant speed last [Sunday](javascript:flick('sun');) and finally today, I took the time splits and multiplied each one by five giving me a 3 hours worth of segments and beeps from my bike computer; each beep represents a point of interest from that original write up.
+
+The fifth beep put me at the foot of _"Richter Pass"_ at an hour and seventeen minutes in; after and hour and fifty-three minutes, the bike computer let me know I was at _Keremeos_ and _HWY 3A_.  Anyway, this was a novel attempt to add some contextual fun into an indoor ride.
+
+I ran out of lemonade so I had a can of ginger ale and snacked on ju-jubes.
 
 
 <!---->
