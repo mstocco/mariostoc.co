@@ -50,7 +50,7 @@ Mobility 25 minutes
 ### NOTES
 Total Time: **0 minutes**
 
-Sleep was ok last night.  I slept in too but in moving around this morning, I am feeling the [yesterday's run](javascript:flick('sat');) (stiff).
+Sleep was ok last night.  I slept in too but in moving around this morning, I am feeling the [yesterday's run](javascript:flick('sun');) (stiff).
 
 
 <!---->
