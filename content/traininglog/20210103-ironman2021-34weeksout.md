@@ -21,14 +21,18 @@ Run 90 minutes. Hilly route. Maybe on some trails?? Easy effort. Bring some calo
 Mobility 25 minutes
 
 ### NOTES
-Total Time: **0 minutes**
+Approximate Moving Time: **85 minutes**
 
-&mdash; 
+The Seahawks were up 6 - 3 over the 49ers midway through the 2nd quarter when I headed out the door for the run.  I thought I'd change up the route and make my way to the _Maplewood/Blenkinsop Road_ area and then figure out a way to incorporate [Christmas Hill](javascript:flkty.select(2);).  It didn't take too long to figure out that there wasn't much pop in the legs this afternoon which encouraged me to quickly settle into a conservative pace. 
 
+Around the 42 minute mark, I had a really nice surprise; my cousin Tania and her husband David noticed me jogging on _Cedar Hill X-Road_.  I stopped my watch and we had a wonderful ~20 minute visit.      
 
+Getting going again meant another warm up and reinforced that conservative pace that I was chugging along with during the fist part of this workout.  I made it to the base of Christmas Hill but after leaving the road, the trail was muddy and wet.  I walked most of the trail to the top.  Once at the top, I stopped to snap a picture for this week before walking down the west side of the hill until I was back on a dry trail. 
+
+Regardless of stopping twice on today run, the last 10 minutes felt more like the end of a 2 hour run versus the 80th minute. 
 <!---->
 ## MONDAY JAN 04
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **4** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -40,7 +44,7 @@ Mobility 25 minutes
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Sleep was ok last night.  I slept in too but in moving around this morning, I am feeling the [yesterday's run](javascript:flick('sat');) (stiff).
 
 
 <!---->
