@@ -11,8 +11,7 @@ I feel I like was...
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
-
-<!---->
+![Another round of rain is on the horizon; winter in Victoria](IMG_3054-977x550.jpeg CHRISTMAS HILL, SAANICH BC.)
 ## SUNDAY JAN 03 🌦
 Sleep **2** | Fatigue **4** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
