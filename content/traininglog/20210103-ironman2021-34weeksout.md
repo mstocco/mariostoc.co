@@ -33,7 +33,9 @@ Around the 42 minute mark, I had a really nice surprise; my cousin Tania and her
 
 Getting going again meant another warm up and reinforced that conservative pace that I was chugging along with during the fist part of this workout.  I made it to the base of Christmas Hill but after leaving the road, the trail was muddy and wet.  I walked most of the trail to the top.  Once at the top, I stopped to snap a picture for this week before walking down the west side of the hill until I was back on a dry trail. 
 
+![Run Map](/assets/jpg/runmap-20210104.jpeg)
 Regardless of stopping twice on today run, the last 10 minutes felt more like the end of a 2 hour run versus the 80th minute. 
+
 <!---->
 ## MONDAY JAN 04
 Sleep **3** | Fatigue **4** | Stress **2** | Soreness **3**  
