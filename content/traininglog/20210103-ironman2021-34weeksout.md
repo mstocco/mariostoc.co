@@ -11,7 +11,7 @@ I feel I like was...
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
-![Another round of rain is on the horizon; winter in Victoria](/assets/jpg/IMG_3054-977x550.jpeg CHRISTMAS HILL, SAANICH BC.)
+![Winter in Victoria with another round of rain is on the horizon.](/assets/jpg/IMG_3054-977x550.jpeg CHRISTMAS HILL, SAANICH BC.)
 ## SUNDAY JAN 03 🌦
 Sleep **2** | Fatigue **4** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -27,9 +27,9 @@ I had a good sleep last night and woke feeling refreshed.
 
 The Seahawks were up 6 - 3 over the 49ers midway through the 2nd quarter when I headed out the door for the run.  I thought I'd change up the route and make my way to the _Maplewood/Blenkinsop Road_ area and then figure out a way to incorporate [Christmas Hill](javascript:flkty.select(2);).
 
-It didn't take too long to figure out that there wasn't much pop in the legs this afternoon which encouraged me to quickly settle into a conservative pace. 
+It didn't take too long to figure out that there wasn't much juice in the legs this afternoon which encouraged me to settle into a conservative pace early. 
 <!---->
-Around the 42 minute mark, I had a really nice surprise; my cousin Tania and her husband David noticed me jogging on _Cedar Hill X-Road_.  I stopped my watch and we had a wonderful twenty minute visit.      
+Around the 42 minute mark, I had a really nice surprise.  My cousin Tania and her husband David noticed me jogging on _Cedar Hill X-Road_.  I stopped my watch and we had a wonderful twenty minute visit.      
 
 Getting going again meant another warm up and reinforced that conservative pace that I was chugging along with during the fist part of this workout.  I made it to the base of Christmas Hill but after leaving the road, the trail was muddy and wet.  I walked most of the trail to the top.  Once at the top, I stopped to snap a picture for this week before walking down the west side of the hill until I was back on a dry trail. 
 
@@ -95,7 +95,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 Run 30 minutes. Flat route. Easy effort.   
 Mobility 20 minutes
 
-**&mdash; A spot came up at the Esquimalt pool and I took it.  11:30am**
+**&mdash; A spot came up at the Esquimalt pool and I took it.  13:30**
 
 ### NOTES
 Total Time: **0 minutes**
