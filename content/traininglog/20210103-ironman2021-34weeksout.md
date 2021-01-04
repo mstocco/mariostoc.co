@@ -23,8 +23,12 @@ Mobility 25 minutes
 ### NOTES
 Approximate Moving Time: **85 minutes**
 
-The Seahawks were up 6 - 3 over the 49ers midway through the 2nd quarter when I headed out the door for the run.  I thought I'd change up the route and make my way to the _Maplewood/Blenkinsop Road_ area and then figure out a way to incorporate [Christmas Hill](javascript:flkty.select(2);).  It didn't take too long to figure out that there wasn't much pop in the legs this afternoon which encouraged me to quickly settle into a conservative pace. 
+I had a good sleep last night and woke feeling refreshed.
 
+The Seahawks were up 6 - 3 over the 49ers midway through the 2nd quarter when I headed out the door for the run.  I thought I'd change up the route and make my way to the _Maplewood/Blenkinsop Road_ area and then figure out a way to incorporate [Christmas Hill](javascript:flkty.select(2);).
+
+It didn't take too long to figure out that there wasn't much pop in the legs this afternoon which encouraged me to quickly settle into a conservative pace. 
+<!---->
 Around the 42 minute mark, I had a really nice surprise; my cousin Tania and her husband David noticed me jogging on _Cedar Hill X-Road_.  I stopped my watch and we had a wonderful ~20 minute visit.      
 
 Getting going again meant another warm up and reinforced that conservative pace that I was chugging along with during the fist part of this workout.  I made it to the base of Christmas Hill but after leaving the road, the trail was muddy and wet.  I walked most of the trail to the top.  Once at the top, I stopped to snap a picture for this week before walking down the west side of the hill until I was back on a dry trail. 
