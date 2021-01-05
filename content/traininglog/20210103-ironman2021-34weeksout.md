@@ -88,8 +88,10 @@ I felt pretty good on the run too with just a hint of soreness in the left pirif
 Once home, I had time for some toast and honey, to mix a bottle of Gatorade and get out the door for the pool session.
 
 The swim was as I was expecting it would be after a bit of running.  There was a heaviness to my arms but other than that, the swim went ok.  I miss counted a 150m rep, going longer (200m) but cut the cool down by 50m to make up the difference.
+### SWIM HR CHART
+![Swim Heart Rate Chart](/assets/jpg/swimhr-20210105.jpeg)
 
-Pretty solid morning!  Now that storm can blow through.
+Pretty solid morning!  Now that afternoon storm can blow through.
 <!---->
 ## WEDNESDAY JAN 06
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
