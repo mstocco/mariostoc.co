@@ -48,7 +48,7 @@ If there is standing water: Trainer 90 minutes: 15 minutes easy spinning to warm
 Mobility 25 minutes
 
 ### NOTES
-Total Time: **110 minutes**
+Total Time: **110 minutes** &nbsp; Distance: **45 km**
 
 Sleep was ok last night.  I slept in too but in moving around this morning, I am feeling the [yesterday's run](javascript:flick('sun');) (stiff).
 
