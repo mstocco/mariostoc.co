@@ -56,9 +56,11 @@ With intermittent showers in the vicinity, I picked the road bike and did a coun
 <!---->
 Not much to write about as I felt pretty good for the most part.  I had a gel at an hour and ten minutes in (Salted Watermelon Gu).  Near the _UVic Campus_, the rain began so I made a beeline for home on _McKenzie Avenue_.  That put me in back to where I pressed start with 9 minutes still on the clock.  I could have done a bit (a lot) more but I called it a ride.
 
+### WATERFRONT LOOP
 ![Ride Map](/assets/jpg/ridemap-20210104.jpeg)
 
 I spend some time with the foam roller before dinner and was surprised at how sore my hamstrings (both) were.
+
 <!---->
 ## TUESDAY JAN 05 🌦
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
