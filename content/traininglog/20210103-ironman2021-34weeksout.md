@@ -89,7 +89,7 @@ Once home, I had time for some toast and honey, to mix a bottle of Gatorade and 
 
 The swim was as I was expecting it would be after a bit of running.  There was a heaviness to my arms but other than that, the swim went ok.  I miss counted a 150m rep, going longer (200m) but cut the cool down by 50m to make up the difference.
 ### SWIM HR CHART
-![Swim Heart Rate Chart](/assets/jpg/swimhr-20210105.jpeg)
+![Swim Heart Rate Chart](/assets/png/swimhr-20210105.png)
 
 Pretty solid morning!  Now that afternoon storm can blow through.
 <!---->
