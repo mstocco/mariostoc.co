@@ -48,11 +48,15 @@ If there is standing water: Trainer 90 minutes: 15 minutes easy spinning to warm
 Mobility 25 minutes
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **110 minutes**
 
 Sleep was ok last night.  I slept in too but in moving around this morning, I am feeling the [yesterday's run](javascript:flick('sun');) (stiff).
 
+With intermittent showers in the vicinity, I picked the road bike and did a counterclockwise loop of the waterfront with a short run west to start.
+<!---->
+Not much to write about as I felt pretty good for the most part.  I had a gel at an hour and ten minutes in (Salted Watermelon Gu).  Near the _UVic Campus_, the rain began so I made a beeline for home on _McKenzie Avenue_.  That put me in back to where I pressed start with 9 minutes still on the clock.  I could have done a bit (a lot) more but I called it a ride.
 
+I spend some time with the foam roller before dinner and was surprised at how sore my hamstrings (both) were.
 <!---->
 ## TUESDAY JAN 05 🌦
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
@@ -65,11 +69,6 @@ Mobility 27 minutes
 
 ### NOTES
 Total Time: **0 minutes**
-
-Another ok sleep last night but I should be going to bed a little earlier.
-
-The weather was touch and go with intermittent showers in the vicinity.  I picked the road bike and did a counterclockwise loop of the waterfront with a short run west to start.  Not much to write about as I felt pretty good for the most part.  I had a gel at an hour and ten minutes in (Salted Watermelon Gu).  Near the _UVic Campus_, the rain began so I made a beeline for home on _McKenzie Avenue_.  That put me in back to where I pressed start with 9 minutes still on the clock.  I could have done a bit (a lot) more but I called it a ride.
-
 
 <!---->
 ## WEDNESDAY JAN 06
