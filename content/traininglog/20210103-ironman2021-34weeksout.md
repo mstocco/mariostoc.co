@@ -79,7 +79,11 @@ Total Time: **85 minutes**
 
 Another pretty restful sleep last night.
 
-I checked in with work and completed a quick task before heading out for the run.  I felt pretty good on the run too with just a hint of soreness in the left piriformis and hamstring junction.  I thought it was an easy effort out to _Quadra_ and back along _Lochside Trail_ but my HR monitor said I was working a bit harder.
+I checked in with work and completed a quick task before starting today's workouts.  
+
+At 10am, there was a calm before the storm and that was more than enough reason to get out the door for an easy 6km.
+<!---->
+I felt pretty good on the run too with just a hint of soreness in the left piriformis and hamstring junction.  I thought it was an easy effort out to _Quadra_ and back along _Lochside Trail_ but my HR monitor said I was working a bit harder.
 
 Once home, I had time for some toast and honey, to mix a bottle of Gatorade and get out the door for the pool session.
 
