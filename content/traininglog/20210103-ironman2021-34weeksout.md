@@ -54,7 +54,7 @@ Sleep was ok last night.  I slept in too but in moving around this morning, I am
 
 
 <!---->
-## TUESDAY JAN 05
+## TUESDAY JAN 05 🌦
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -66,7 +66,9 @@ Mobility 27 minutes
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Another ok sleep last night but I should be going to bed a little earlier.
+
+The weather was touch and go with intermittent showers in the vicinity.  I picked the road bike and did a counterclockwise loop of the waterfront with a short run west to start.  Not much to write about as I felt pretty good for the most part.  I had a gel at an hour and ten minutes in (Salted Watermelon Gu).  Near the _UVic Campus_, the rain began so I made a beeline for home on _McKenzie Avenue_.  That put me in back to where I pressed start with 9 minutes still on the clock.  I could have done a bit (a lot) more but I called it a ride.
 
 
 <!---->
