@@ -37,7 +37,7 @@ Getting going again meant another warm up and reinforced that conservative pace 
 Regardless of stopping twice on today run, the last 10 minutes felt more like the end of a 2 hour run versus the 80th minute. 
 
 <!---->
-## MONDAY JAN 04
+## MONDAY JAN 04 🌦
 Sleep **3** | Fatigue **4** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -54,7 +54,7 @@ Sleep was ok last night.  I slept in too but in moving around this morning, I am
 
 With intermittent showers in the vicinity, I picked the road bike and did a counterclockwise loop of the waterfront with a short run west to start.
 <!---->
-Not much to write about as I felt pretty good for the most part.  I had a gel at an hour and ten minutes in (Salted Watermelon Gu).  Near the _UVic Campus_, the rain began so I made a beeline for home on _McKenzie Avenue_.  That put me in back to where I pressed start with 9 minutes still on the clock.  I could have done a bit (a lot) more but I called it a ride.
+Not much to write about as I felt pretty good for the most part.  I had a gel at an hour and ten minutes in (Salted Watermelon Gu).  The rain started near the _UVic Campus_, so I made a beeline for home on _McKenzie Avenue_.  That put me in back at the _Switch Bridge_ with 9 minutes still on the clock.  I could have done a bit (a lot) more but I called it a ride.
 
 ### WATERFRONT LOOP
 ![Ride Map](/assets/jpg/ridemap-20210104.jpeg)
@@ -62,8 +62,8 @@ Not much to write about as I felt pretty good for the most part.  I had a gel at
 I spend some time with the foam roller before dinner and was surprised at how sore my hamstrings (both) were.
 
 <!---->
-## TUESDAY JAN 05 🌦
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## TUESDAY JAN 05 🌧
+Sleep **2** | Fatigue **3** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -71,9 +71,21 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 Run 40 minutes. Flat route. Easy effort.   
 Mobility 27 minutes
 
-### NOTES
-Total Time: **0 minutes**
+<p class="weather alert">WIND WARNING FOR GREATER VICTORIA</p>
+<p class="weather synopsis">Strong southeasterly winds of 70 to 90 km/h winds are occurring over Inner South Coast today.</p>
 
+### NOTES
+Total Time: **85 minutes**
+
+Another pretty restful sleep last night.
+
+I checked in with work and completed a quick task before heading out for the run.  I felt pretty good on the run too with just a hint of soreness in the left piriformis and hamstring junction.  I thought it was an easy effort out to _Quadra_ and back along _Lochside Trail_ but my HR monitor said I was working a bit harder.
+
+Once home, I had time for some toast and honey, to mix a bottle of Gatorade and get out the door for the pool session.
+
+The swim was as I was expecting it would be after a bit of running.  There was a heaviness to my arms but other than that, the swim went ok.  I miss counted a 150m rep, going longer (200m) but cut the cool down by 50m to make up the difference.
+
+Pretty solid morning!  Now that storm can blow through.
 <!---->
 ## WEDNESDAY JAN 06
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
