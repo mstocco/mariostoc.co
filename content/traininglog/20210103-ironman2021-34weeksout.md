@@ -116,8 +116,12 @@ What a fantastic afternoon!  No sooner than I rode to _Thetis Lake Park_, the sk
 ![Elevation Chart](/assets/jpg/bikeprofile-20210106.jpeg)
 <!---->
 Apart from walking a tricky section and a few creek crossings, the ride went really well.
+### RIDE MAP
+![Ride Map](/assets/jpg/ridemap-20210106.jpeg)
 
-Getting home I still had a capitalized "NOT" off the bike, easy effort run to do.  I debated for a bit as I had a bit of daylight left and a belly full of sugar from the ride.  Off with the bike kit, on with the run kit and I was back out the door.  I felt good to start, jogging down _The Goose_ toward the water.  After 20 minutes, I turned around at _Harbour Road_ and it was then I really started to get the hint that my legs have had their share of stimulus for the day.
+Getting home I still had a capitalized "NOT" off the bike, easy effort run to do.  I debated _"when to run"_ for a short bit as I had a bit of daylight left and a belly full of sugar from the ride.  Off with the bike kit, on with the run kit and I was back out the door.
+
+I felt good to start, jogging down _The Goose_ toward the water.  After 20 minutes, I turned around at _Harbour Road_ and it was then I really started to get the hint that my legs have had their share of stimulus for the day.  Pace was easy though I found a bit of a kick for the last 800m.
 
 
 
