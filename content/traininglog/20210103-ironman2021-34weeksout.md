@@ -112,7 +112,7 @@ All morning and into the afternoon, I would look out the window to the west and 
 <!---->
 What a fantastic afternoon!  No sooner than I rode to _Thetis Lake Park_, the skies cleared.  The trails near the base of Scafe Hill were soggy wet but the further I went, the better the fire roads became.  I pushed on past _Mount Stewart_ and explored further up the road.  The fire roads became _Kali's Korner_; a single track trail that took me the rest of the way to _Munn Road_.  I coasted downhill, past the trailheads into the _Mount Work Regional Park_ but did go off-road once more before connecting with _Prospect Lake Road_.  There was another connecting trail that would have taken me to _Hector Road_ but it was in mud soup, so it would be on asphalt for the rest of the ride.
 
-### AMOST LIKE ONE BIG HILL
+### ALMOST LIKE ONE BIG HILL
 ![Elevation Chart](/assets/jpg/bikeprofile-20210106.jpeg)
 <!---->
 Apart from walking a tricky section and a few creek crossings, the ride went really well.
@@ -125,7 +125,7 @@ I felt good, jogging the _Goose_ toward the water.  I turned around at _Harbour 
 
 <!---->
 ## THURSDAY JAN 07
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **2** | Fatigue **5** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -138,7 +138,7 @@ Mobility 20 minutes
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Another wonderful _"sleep-in"_ morning.
 
 
 <!---->
