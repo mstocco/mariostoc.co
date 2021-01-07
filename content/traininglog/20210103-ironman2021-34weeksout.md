@@ -85,16 +85,17 @@ At 10am, there was a calm before the storm and that was more than enough reason 
 <!---->
 I felt pretty good on the run too with just a hint of soreness in the left piriformis and hamstring junction.  I thought it was an easy effort out to _Quadra_ and back along _Lochside Trail_ but my HR monitor said I was working a bit harder.
 
-Once home, I had time for some toast and honey, to mix a bottle of Gatorade and get out the door for the pool session.
+Once home, I had just enough time for some toast and honey, to mix a bottle of Gatorade and get out the door for the pool session.
 
 The swim was as I was expecting it would be after a bit of running.  There was a heaviness to my arms but other than that, the swim went ok.  I miss counted a 150m rep, going longer (200m) but cut the cool down by 50m to make up the difference.
 ### SWIM HR CHART
-![Swim Heart Rate Chart](/assets/png/swimhr-20210105.png)
+![Swim Heart Rate Chart](/assets/jpg/swimhr-20210105.jpeg?v2)
 
 Pretty solid morning!  Now that afternoon storm can blow through.
+
 <!---->
-## WEDNESDAY JAN 06
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## WEDNESDAY JAN 06 ⛅️
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -103,9 +104,17 @@ If Standing water: 90 minutes: 30 minutes easy spinning. 12x 1:00 high cadence/s
 Run 45 minutes. Flat route. Easy effort. Ideally this will NOT be off the bike
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **150 minutes**
 
-&mdash; 
+All morning and into the afternoon, I would look out the window to the west and see sunshine here in town, but dark ominous clouds surrounding _Mount Stewart_, where if I go for an MTB ride, I'd surely be soaked.  After watching just too much of the incomprehensible activity going on in _Washington, D.C._, I had to just go.
+
+What a fantastic afternoon it was too.  No sooner as I rode into _Thetis Lake Park_, the skies cleared.  The trails near the base of Scafe Hill were soggy wet but the further up I went, the better the fire roads became.  I pushed on past _Mount Stewart_ and explored further up the road.  The fire roads became _Kali's Korner_; a single track trail that took me the rest of the way to _Munn Road_.  I coasted past the trailheads into the _Mount Work Regional Park_ but did go off-road before connecting with _Prospect Lake Road_.  There was connecting trail that would have taken me to _Hector Road_ but it was in pretty bad shape (mud pit) so I was on asphalt for the remainder of the ride.
+
+Apart from walking a tricky section and a few creek crossings, the ride went really well.
+
+Getting home I still had a capitalized "NOT" off the bike, easy effort run to do.  I debated for a bit as I had a bit of daylight left and a belly full of sugar from the ride.  Off with the bike kit, on with the run kit and I was back out the door.  I felt good to start, jogging down _The Goose_ toward the water.  After 20 minutes, I turned around at _Harbour Road_ and it was then I really started to get the hint that my legs have had their share of stimulus for the day.
+
+
 
 
 <!---->
