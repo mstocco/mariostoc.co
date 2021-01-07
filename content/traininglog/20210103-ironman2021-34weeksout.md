@@ -110,9 +110,12 @@ TLDR: **Solid afternoon, bike and run**.
 
 All morning and into the afternoon, I would look out the window to the west and see sunshine here in town, but dark ominous clouds surrounding _Mount Stewart_, where if I take the XC Bike, I'd surely be soaked.  After watching just too much of the incomprehensible activity going on in _Washington, D.C._, I had to go.
 <!---->
-What a fantastic afternoon it was too.  No sooner as I rode into _Thetis Lake Park_, the skies cleared.  The trails near the base of Scafe Hill were soggy wet but the further up I went, the better the fire roads became.  I pushed on past _Mount Stewart_ and explored further up the road.  The fire roads became _Kali's Korner_; a single track trail that took me the rest of the way to _Munn Road_.  I coasted past the trailheads into the _Mount Work Regional Park_ but did go off-road before connecting with _Prospect Lake Road_.  There was connecting trail that would have taken me to _Hector Road_ but it was in pretty bad shape (mud pit) so I was on asphalt for the remainder of the ride.
+What a fantastic afternoon!  No sooner than I rode to _Thetis Lake Park_, the skies cleared.  The trails near the base of Scafe Hill were soggy wet but the further I went, the better the fire roads became.  I pushed on past _Mount Stewart_ and explored further up the road.  The fire roads became _Kali's Korner_; a single track trail that took me the rest of the way to _Munn Road_.  I coasted past the trailheads into the _Mount Work Regional Park_ but did go off-road before connecting with _Prospect Lake Road_.  There was connecting trail that would have taken me to _Hector Road_ but it was in pretty bad shape (mud pit) so I was on asphalt for the remainder of the ride.
 
 Apart from walking a tricky section and a few creek crossings, the ride went really well.
+
+### AMOST LIKE ONE BIG HILL
+![Elevation Chart](/assets/jpg/bikeprofile-20210106.jpeg)
 
 Getting home I still had a capitalized "NOT" off the bike, easy effort run to do.  I debated for a bit as I had a bit of daylight left and a belly full of sugar from the ride.  Off with the bike kit, on with the run kit and I was back out the door.  I felt good to start, jogging down _The Goose_ toward the water.  After 20 minutes, I turned around at _Harbour Road_ and it was then I really started to get the hint that my legs have had their share of stimulus for the day.
 
