@@ -124,7 +124,7 @@ Getting home I still had a capitalized "NOT" off the bike, easy effort run to do
 I felt good, jogging the _Goose_ toward the water.  I turned around at _Harbour Road_ and it was then, I really started to get the hint that my legs had some good stimulus today.  Effort was easy, though I found a bit of a kick for the last 800m.
 
 <!---->
-## THURSDAY JAN 07
+## THURSDAY JAN 07 ⛅️
 Sleep **2** | Fatigue **5** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -133,13 +133,16 @@ Sleep **2** | Fatigue **5** | Stress **2** | Soreness **4**
 Run 30 minutes. Flat route. Easy effort.   
 Mobility 20 minutes
 
-**&mdash; A spot came up at the Esquimalt pool and I took it.  13:30**
+**&mdash; A spot came up at the Esquimalt pool and I took it.**
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **90 minutes**
 
 Another wonderful _"sleep-in"_ morning.
 
+Today, I travelled to the pool and did a repeat of [Tuesday's workout](javascript:flick('tue');).  The way it worked out, there was a 4th person swimming the moderate lane(s) which added to the congestion.  Not a big deal as everything worked out but I did feel a bit more tired while doing the lengths compared to my memory of the same workout two days ago.
+
+After the swim, I had a choice of easy run or easy bike.  The tired feeling during the swim made the decision for me and I sat on the trainer for 45 minutes.  I ended up watching the condensed game video of last Sunday's, Week 17 matchup between the Seahawks and 49ers; effort was super easy.
 
 <!---->
 ## FRIDAY JAN 08
