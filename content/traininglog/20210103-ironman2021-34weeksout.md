@@ -140,11 +140,11 @@ Another wonderful _"sleep-in"_ morning.
 
 A spot came up at the Esquimalt pool so I repeated [Tuesday's workout](javascript:flick('tue');).  There 4 of us swimming the moderate lane(s) which made for some congestion; not a big deal as everything worked out.  I did feel **a bit more tired** while doing the lengths compared to my memory of the same workout just two days ago.
 
-After the swim, I had a choice of easy run or easy bike.  The tired feeling during the swim made the decision for me and I sat on the trainer for 45 minutes.  I ended up watching the condensed game video of last Sunday's, Week 17 matchup between the Seahawks and 49ers; effort was super easy.
+After the swim, I had a choice of easy run or easy bike.  The tired feeling during the swim made the decision for me and I sat on the trainer for 45 minutes; effort was **super easy**.  I watched a condensed version of the Seahawks vs 49ers game.
 
 <!---->
-## FRIDAY JAN 08
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## FRIDAY JAN 08 🌦
+Sleep **3** | Fatigue **4** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -156,7 +156,6 @@ Mobility 15 minutes
 Total Time: **0 minutes**
 
 &mdash; 
-
 
 <!---->
 ## SATURDAY JAN 09
