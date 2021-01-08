@@ -138,9 +138,9 @@ Total Time: **90 minutes**
 
 Another wonderful _"sleep-in"_ morning.
 
-A spot came up at the Esquimalt pool so I repeated [Tuesday's workout](javascript:flick('tue');).  There 4 of us swimming the moderate lane(s) which made for some congestion; not a big deal as everything worked out.  I did feel **a bit more tired** while doing the lengths compared to my memory of the same workout just two days ago.
+A spot came up at the Esquimalt pool so I repeated [Tuesday's workout](javascript:flick('tue');).  Four of us swimming the moderate lane(s) made for some congestion; not a big deal as everything worked out.  I did feel **a bit more tired** while doing the lengths compared to my memory of the same workout just two days ago.
 
-After the swim, I had a choice of easy run or easy bike.  The tired feeling during the swim made the decision for me and I sat on the trainer for 45 minutes; effort was **super easy**.  I watched a condensed version of the Seahawks vs 49ers game.
+After the swim, I had a choice of easy run or easy bike.  The tired feeling during the swim made the decision for me.  I sat on the trainer for 45 minutes; effort was **super easy**.  I watched a condensed version of the Seahawks vs 49ers game.
 
 <!---->
 ## FRIDAY JAN 08 🌦
