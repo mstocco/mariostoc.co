@@ -160,7 +160,7 @@ What a fantastic afternoon to be on a road bike!
 I needed to drop off a laptop at my boss's home so I worked that into the ride.  That lead into a longer conversation which did eat into available daylight; it is January but you would never know it with a sunny and windless 11°C afternoon.
 
 I travelled the _Lochside Route_ north to _Sidney_ and once I was there, I stopped briefly to put on a jacket, have a second gel before tracing my path south.
-
+<!--->
 I felt **good to great** this afternoon.  Partly because of a big pasta dinner the night before, partly due the on bike fuelling but I really think the weather had a HUGE part in keeping my spirits high from start to finish.
 
 ### SUNSET BEFORE FINALLY HEADING IN
