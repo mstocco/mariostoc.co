@@ -164,8 +164,9 @@ I travelled the _Lochside Route_ north to _Sidney_ and once I was there, I stopp
 I felt **good to great** this afternoon.  Partly because of a big pasta dinner the night before, partly due the on bike fuelling but I really think the weather had a HUGE part in keeping my spirits high from start to finish.
 
 ### SUNSET BEFORE FINALLY HEADING IN
-![Sunset over Portage Inlet](/assets/jpg/sunset-20210108.jpeg)
+![Sunset over Portage Inlet](/assets/jpg/sunset-20210108.jpeg?v2)
 
+Quads are feeling worked over now that the bike is washed and put away.
 
 <!---->
 ## SATURDAY JAN 09
