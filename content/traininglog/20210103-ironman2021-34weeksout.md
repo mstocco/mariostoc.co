@@ -143,7 +143,7 @@ A spot came up at the Esquimalt pool so I repeated [Tuesday's workout](javascrip
 After the swim, I had a choice of easy run or easy bike.  The tired feeling during the swim made the decision for me.  I sat on the trainer for 45 minutes; effort was **super easy**.
 
 <!---->
-## FRIDAY JAN 08 🌦
+## FRIDAY JAN 08 ☀️
 Sleep **3** | Fatigue **4** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -153,9 +153,19 @@ Stay well fueled!
 Mobility 15 minutes
 
 ### NOTES
-Total Time: **0 minutes**
+Moving Time: **147 minutes** &nbsp; Distance: **61 km**
 
-&mdash; 
+What a fantastic afternoon to be on a road bike!
+
+I needed to drop off a laptop at my boss's home so I worked that into the ride.  That lead into a longer conversation which did eat into available daylight; it is January but you would never know it with a sunny and windless 11°C afternoon.
+
+I travelled the _Lochside Route_ north to _Sidney_ and once I was there, I stopped briefly to put on a jacket, have a second gel before tracing my path south.
+
+I felt **good to great** this afternoon.  Partly because of a big pasta dinner the night before, partly due the on bike fuelling but I really think the weather had a HUGE part in keeping my spirits high from start to finish.
+
+### SUNSET BEFORE FINALLY HEADING IN
+![Sunset over Portage Inlet](/assets/jpg/sunset-20210108.jpeg)
+
 
 <!---->
 ## SATURDAY JAN 09
