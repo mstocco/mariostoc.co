@@ -189,5 +189,9 @@ Bacon, eggs, potatoes and english muffins with jam to start the weekend.  Then a
 
 On the run, I immediately set a familiar goal of making the last 10 minutes feel as comfortable as the first.  There was next to **no pop** in the legs and this had the potential to be a long run.  I stuck to the plan through _Downtown_, the _James Bay shoreline_, _Dallas Road_ and a bit of _Beacon Hill Park_; easy effort, good posture.
 <!---->
-I thought I was 	starting to feel the fade  before the _Selkirk Trestle_ but the last 10 minutes was as comfortable enough to call this another great run.
+I thought I was 	starting to feel the fade  before the _Selkirk Trestle_ but the last 10 minutes was as comfortable enough to call this a great run.
 
+### ALONG DALLAS ROAD
+![Run Map](/assets/jpg/runmap-20210109.jpeg)
+
+Seahawks are done and that sucks.
