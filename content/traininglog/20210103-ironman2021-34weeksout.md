@@ -13,10 +13,11 @@ With extra time off work, I was able to get:
 
 * my first **14 hour training week** of 2021,
 * hit really nice weather for outdoor workouts,
-* saw the first small drop in weight,
-* more sleep.
+* saw the first small drop in weight and
+* got more sleep.
 
 ![Winter in Victoria with another round of rain is on the horizon.](/assets/jpg/IMG_3054-977x550.jpeg CHRISTMAS HILL, SAANICH BC.)
+
 ## SUNDAY JAN 03 🌦
 Sleep **2** | Fatigue **4** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -188,9 +189,9 @@ Total Time: **90 minutes**
 
 Bacon, eggs, potatoes and english muffins with jam to start the weekend.  Then a new run warm up routine before heading out the door.
 
-On the run, I immediately set a familiar goal of making the last 10 minutes feel as comfortable as the first.  There was next to **no pop** in the legs and this had the potential to be a long run.  I stuck to the plan through _Downtown_, the _James Bay shoreline_, _Dallas Road_ and a bit of _Beacon Hill Park_; easy effort, good posture.
+On the run, I immediately set a familiar goal of making the last 10 minutes feel as comfortable as the first.  There was next to **no pop** in the legs and this had the potential to be a mentally long run.  I stuck to my plan through _Downtown, James Bay, Dallas Road_ and a bit of _Beacon Hill Park_; easy effort, good posture and keep it comfortable.
 <!---->
-I thought I was 	starting to feel the fade  before the _Selkirk Trestle_ but the last 10 minutes was as comfortable enough to call this a great run.
+I thought I was starting to feel the fade before the _Selkirk Trestle_ but the last 10 minutes was as comfortable enough to call _"Goal Accomplished"_ for this run.
 
 ### NICE MORNING ALONG DALLAS ROAD
 ![Run Map](/assets/jpg/runmap-20210109.jpeg?v2)
