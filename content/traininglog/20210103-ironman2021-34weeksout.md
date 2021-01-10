@@ -9,11 +9,12 @@ If [last week](ironman2021-35weeksout) showed me anything, it is that I really n
 ## SUMMARY
 I feel I like was **GETTING IT DONE**.
 
-With extra time off work, I was able to get
-* my first 14 hour training week of 2021 in
-* hit really nice weather for outdoor workouts
-* saw the first consistent drop in weight
-* more sleep
+With extra time off work, I was able to get:
+
+* my first **14 hour training week** of 2021 in,
+* hit really nice weather for outdoor workouts,
+* saw the first consistent drop in weight,
+* more sleep.
 
 ![Winter in Victoria with another round of rain is on the horizon.](/assets/jpg/IMG_3054-977x550.jpeg CHRISTMAS HILL, SAANICH BC.)
 ## SUNDAY JAN 03 🌦
