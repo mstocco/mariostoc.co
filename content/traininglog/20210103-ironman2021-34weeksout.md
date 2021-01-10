@@ -195,4 +195,7 @@ I thought I was 	starting to feel the fade  before the _Selkirk Trestle_ but the
 ### NICE MORNING ALONG DALLAS ROAD
 ![Run Map](/assets/jpg/runmap-20210109.jpeg?v2)
 
+My watch read **5:48/km** which I was surprised as I would have thought the pace was much slower.  My heart rate, measured from the strap apparently averaged **139 BPM** so maybe I was working harder than I thought; who knows?
+
+---
 Seahawks are done and that sucks.
