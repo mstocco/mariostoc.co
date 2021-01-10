@@ -7,9 +7,13 @@ Week beginning [Sunday, January 3, 2021](javascript:flick('sun');)
 If [last week](ironman2021-35weeksout) showed me anything, it is that I really need to do a better job of recognizing and paying heed to the different stressors that may come up.  It is time to start putting more raw veggies on the plate too.
 
 ## SUMMARY
-I feel I like was...  
-<sup>(completed at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel I like was **GETTING IT DONE**.
+
+With extra time off work, I was able to get
+* my first 14 hour training week of 2021 in
+* hit really nice weather for outdoor workouts
+* saw the first consistent drop in weight
+* more sleep
 
 ![Winter in Victoria with another round of rain is on the horizon.](/assets/jpg/IMG_3054-977x550.jpeg CHRISTMAS HILL, SAANICH BC.)
 ## SUNDAY JAN 03 🌦
@@ -169,8 +173,8 @@ I felt **good to great** this afternoon.  Partly because of a big pasta dinner t
 I am noticing the quads are feeling **worked over** now that the bike is washed and put away.
 
 <!---->
-## SATURDAY JAN 09
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## SATURDAY JAN 09 🌤
+Sleep **3** | Fatigue **4** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -179,6 +183,11 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 Mobility 18 minutes
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **90 minutes**
 
-&mdash;
+Bacon, eggs, potatoes and english muffins with jam to start the weekend.
+
+A new run warm up routine was done before heading out.
+
+On the run, I immediately set a familiar goal of making the last 10 minutes feel as comfortable as the first.  There was next to **no pop** in the legs and this had the potential to be a long run.  I stuck to the plan through _Downtown_, the _James Bay shoreline_, _Dallas Road_ and a bit of _Beacon Hill Park_; easy effort, good posture.  I thought I was 	starting to feel the fade  before the _Selkirk Trestle_ but the last 10 minutes was as comfortable enough to call this another great run.
+
