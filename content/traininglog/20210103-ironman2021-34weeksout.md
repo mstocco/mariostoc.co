@@ -11,9 +11,9 @@ I feel I like was **GETTING IT DONE**.
 
 With extra time off work, I was able to get:
 
-* my first **14 hour training week** of 2021 in,
+* my first **14 hour training week** of 2021,
 * hit really nice weather for outdoor workouts,
-* saw the first consistent drop in weight,
+* saw the first small drop in weight,
 * more sleep.
 
 ![Winter in Victoria with another round of rain is on the horizon.](/assets/jpg/IMG_3054-977x550.jpeg CHRISTMAS HILL, SAANICH BC.)
@@ -192,7 +192,7 @@ On the run, I immediately set a familiar goal of making the last 10 minutes feel
 <!---->
 I thought I was 	starting to feel the fade  before the _Selkirk Trestle_ but the last 10 minutes was as comfortable enough to call this a great run.
 
-### ALONG DALLAS ROAD
-![Run Map](/assets/jpg/runmap-20210109.jpeg)
+### NICE MORNING ALONG DALLAS ROAD
+![Run Map](/assets/jpg/runmap-20210109.jpeg?v2)
 
 Seahawks are done and that sucks.
