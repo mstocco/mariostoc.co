@@ -199,4 +199,4 @@ I thought I was starting to feel the fade before the _Selkirk Trestle_ but the l
 My watch read **5:48/km** which I was surprised as I would have thought the pace was much slower.  My heart rate, measured from the strap apparently averaged **139 BPM** so maybe I was working harder than I thought; who knows?
 
 ---
-Although the 40 minute spin would put me just over 14 hours of training, I am feeling like an evening off would be just as beneficial.
+Although a 40 minute spin would put me at 14 hours of training for the week, I am feeling like an evening off would be just as beneficial.
