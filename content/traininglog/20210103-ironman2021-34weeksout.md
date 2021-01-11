@@ -11,7 +11,7 @@ I feel I like was **GETTING IT DONE**.
 
 With extra time off work, I was able to get:
 
-* my first **14 hour training week** of 2021,
+* my first **13.5 hour training week** of 2021,
 * hit really nice weather for outdoor workouts,
 * saw the first small drop in weight and
 * got more sleep.
@@ -199,4 +199,4 @@ I thought I was starting to feel the fade before the _Selkirk Trestle_ but the l
 My watch read **5:48/km** which I was surprised as I would have thought the pace was much slower.  My heart rate, measured from the strap apparently averaged **139 BPM** so maybe I was working harder than I thought; who knows?
 
 ---
-Seahawks are done and that sucks.
+It is the end of a solid week.  Although the 40 minute spin would put me just over 14 hours of training, I am feeling like an evening off would be just as beneficial.
