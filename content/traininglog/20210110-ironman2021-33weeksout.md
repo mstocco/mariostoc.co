@@ -28,11 +28,11 @@ It may have been cloudy to start the day but looking west, dark clouds surrounde
 
 I took the same route into _Thetis Lake Park_ but instead of following the fire roads north to _Munn Road_, I decided to explore a couple of single track trails that I had be looking at on <a href="https://www.trailforks.com/trails/electric-avenue-101420/" target="_blank" rel="noreferrer">trailforks.com</a>. 
 
-Overall, this was a fun ride with some fatigue in my legs.  
+Overall, this was a fun ride with some fatigue in my legs.  The trails were wet but the weather was dry.
 
 
 <!---->
-## MONDAY JAN 11
+## MONDAY JAN 11 🌧
 Sleep **2** | Fatigue **3** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -53,11 +53,14 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Trainer ~ 60 minutes. Easy spinning. 
+Trainer ~ 60 minutes. Easy spinning.  
 Run 45 minutes. Flat route. EASY effort.
 
 ### NOTES
 Total Time: **0 minutes**
+
+&mdash;
+
 
 <!---->
 ## WEDNESDAY JAN 13
@@ -97,7 +100,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 
 ### PLANNED WORKOUT
 Run 40 minutes. Flat route. Easy effort.  
-Mobility 17 minutes
+Mobility 17 minutes.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -111,14 +114,10 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Ride 2:30 on the road bike. Steady effort. Flat to rolling terrain. OR>>>>> MTB on the Goose or Great trail. Still a steady effort if you ride dirt. 
-Focus on getting in some steady calories and staying well hydrated. 200+ calories an hour. Try to eat something you'd consider eating on race day. 
-Mobility 20 minutes:
+Ride 2:30 on the road bike. Steady effort. Flat to rolling terrain. OR>>>>> MTB on the Goose or Great trail. Still a steady effort if you ride dirt.  Focus on getting in some steady calories and staying well hydrated. 200+ calories an hour. Try to eat something you'd consider eating on race day.   
+Mobility 20 minutes.
 
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
-
-
-<!---->
+&mdash;
