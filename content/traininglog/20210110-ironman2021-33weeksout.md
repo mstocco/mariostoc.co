@@ -4,17 +4,17 @@ Week beginning [Sunday, January 10, 2021](javascript:flick('sun');)
 **33 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-&mdash; 
+[Last week](ironman2021-34weeksout) was a solid week but I was officially off work.  My goal this week is to have a similar training week while integrating work back into my daily routine.
 
 ## SUMMARY
 I feel I like was...  
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
+![I really didn't expect spending time on my mountain bike as valid training for an Ironman.](/assets/jpg/bellamy-977x550.jpeg Bellamy Trail in the Thetis Lake Regional Park)
 
-<!---->
 ## SUNDAY JAN 10
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **2** | Fatigue **5** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
