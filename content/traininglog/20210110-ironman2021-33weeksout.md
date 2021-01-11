@@ -18,10 +18,11 @@ Sleep **2** | Fatigue **5** | Stress **2** | Soreness **3**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+MTB ~ 1:45. Hilly route. Easy to moderate effort. Nothing super long, but certainly a solid ride after the couple of days before this.  
+Mobility 23 minutes
 
 ### NOTES
-Total Time: **0 minutes**
+Moving Time: **120 minutes**
 
 &mdash; 
 
@@ -32,7 +33,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+2 rounds (150 easy swimming, 100 swim w/ buoy, 50 steady kick. Rest as needed after each)
+2 rounds (50 kick build easy to strong r :20, 5x 100 moderately strong effort (something you could hold for 10 minutes or so. R :30 after each. 50 EASY swim. r :30)
+200 easy swimming to cool down.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -46,13 +49,11 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Trainer ~ 60 minutes. Easy spinning. 
+Run 45 minutes. Flat route. EASY effort.
 
 ### NOTES
 Total Time: **0 minutes**
-
-&mdash; 
-
 
 <!---->
 ## WEDNESDAY JAN 13
@@ -60,7 +61,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Run 60 minutes. Hilly route. Easy effort.  
+Mobility 18 minutes
 
 ### NOTES
 Total Time: **0 minutes**
@@ -74,7 +76,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Swim 2000: 4x 100 easy swimming to warm up. Rest as needed. 12x 50 Odds: Building kick, evens: Building swim. R :20. 3x 250 steady swimming w/ consistent turnover. r 1:00. 3x 50 as 25 Strong/25 relaxed. r :20. 100 easy to cool down.
+
+Trainer 60 minutes: 20 minutes easy spinning. 5x 1:00 high cadence/very stable hips, 1:00 easy after each. 2 rounds (:50, :40, :30, :20, :10 high cadence on 1:00. Gradually increasing cadence from :50 - :10) 20 minutes easy to finish up.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -88,7 +92,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Run 40 minutes. Flat route. Easy effort.  
+Mobility 17 minutes
 
 ### NOTES
 Total Time: **0 minutes**
@@ -102,7 +107,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Ride 2:30 on the road bike. Steady effort. Flat to rolling terrain. OR>>>>> MTB on the Goose or Great trail. Still a steady effort if you ride dirt. 
+Focus on getting in some steady calories and staying well hydrated. 200+ calories an hour. Try to eat something you'd consider eating on race day. 
+Mobility 20 minutes:
 
 ### NOTES
 Total Time: **0 minutes**
