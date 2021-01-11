@@ -13,7 +13,7 @@ I feel I like was...
 
 ![Spending time on my mountain bike as training for an Ironman leads me into some beautiful forests.](/assets/jpg/bellamy-977x550.jpeg Bellamy Trail, Thetis Lake Regional Park)
 
-## SUNDAY JAN 10
+## SUNDAY JAN 10 ☁️
 Sleep **2** | Fatigue **5** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -24,7 +24,11 @@ Mobility 23 minutes
 ### NOTES
 Moving Time: **120 minutes**
 
-&mdash; 
+It may have been cloudy to start the day but looking west, dark clouds surrounded Mount Stewart.  2 patches needed to repair the rear tube on the MTB and then I was on the trail.
+
+I took the same route into _Thetis Lake Park_ but instead of following the fire roads north to _Munn Road_, I decided to explore a couple of single track trails that I had be looking at on <a href="https://www.trailforks.com/trails/electric-avenue-101420/" target="_blank" rel=”noreferrer”>trailforks.com</a>. 
+
+Overall, this was a fun ride with some fatigue in my legs.  
 
 
 <!---->
