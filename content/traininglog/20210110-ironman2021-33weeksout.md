@@ -11,7 +11,7 @@ I feel I like was...
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
-![Spending time on my mountain bike while training for an Ironman leads me into some beautiful forests.](/assets/jpg/bellamy-977x550.jpeg Bellamy Trail, Thetis Lake Regional Park)
+![Spending time on my mountain bike while training for an Ironman leads me into some beautiful forests.](/assets/jpg/bellamy-trail-977x550.jpeg Bellamy Trail, Thetis Lake Regional Park)
 
 ## SUNDAY JAN 10 ☁️
 Sleep **2** | Fatigue **5** | Stress **2** | Soreness **3**  
@@ -33,7 +33,7 @@ Overall, this was a fun ride with some fatigue in my legs.
 
 <!---->
 ## MONDAY JAN 11
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **2** | Fatigue **3** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
