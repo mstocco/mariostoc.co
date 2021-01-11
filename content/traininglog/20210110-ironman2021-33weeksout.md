@@ -11,7 +11,7 @@ I feel I like was...
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
-![I really didn't expect spending time on my mountain bike as valid training for an Ironman.](/assets/jpg/bellamy-977x550.jpeg Bellamy Trail in the Thetis Lake Regional Park)
+![Spending time on my mountain bike as training for an Ironman leads me into some beautiful forests.](/assets/jpg/bellamy-977x550.jpeg Bellamy Trail, Thetis Lake Regional Park)
 
 ## SUNDAY JAN 10
 Sleep **2** | Fatigue **5** | Stress **2** | Soreness **3**  
