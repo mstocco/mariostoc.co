@@ -42,7 +42,7 @@ Sleep **2** | Fatigue **3** | Stress **3** | Soreness **3**
 ### NOTES
 Total Time: **48 minutes** &nbsp; Distance: **2000m**
 
-The swim felt good; tired arms during the warm up but I got into a nice, **comfortable rhythm** during the sets of 100m.  I contemplated swimming longer but decided to stick to the plan.
+The swim felt good; tired arms during the warm up but I got into a nice, **comfortable rhythm** during the 100m reps.  I contemplated swimming longer but decided to stick to the plan.
 
 ### NORMALIZED PACES
 ![Swim Pace Chart](/assets/jpg/swim-20210111.jpeg?v2)
