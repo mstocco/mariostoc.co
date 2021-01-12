@@ -30,7 +30,6 @@ I took the same route into _Thetis Lake Park_ but instead of following the fire 
 
 Overall, this was a fun ride with some fatigue in my legs.  The trails were wet but the weather was dry.
 
-
 <!---->
 ## MONDAY JAN 11 🌧
 Sleep **2** | Fatigue **3** | Stress **3** | Soreness **3**  
@@ -38,14 +37,14 @@ Sleep **2** | Fatigue **3** | Stress **3** | Soreness **3**
 
 ### PLANNED WORKOUT
 2 rounds (150 easy swimming, 100 swim w/ buoy, 50 steady kick. Rest as needed after each)
-2 rounds (50 kick build easy to strong r :20, 5x 100 moderately strong effort (something you could hold for 10 minutes or so. R :30 after each. 50 EASY swim. r :30)
-200 easy swimming to cool down.
+2 rounds (50 kick build easy to strong r :20, 5x 100 moderately strong effort (something you could hold for 10 minutes or so. R :30 after each. 50 EASY swim. r :30) 200 easy swimming to cool down.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **48 minutes** &nbsp; Distance: **2000m**
 
-&mdash; 
+An okay sleep last night (slept in late for a work day).
 
+The swim felt good too; a bit of tired arms during the first set but I was in a nice, **comfortable rhythm** during the sets of 100m.  I contemplated swimming longer but decided to stick to the plan as this is just the middle of a good mini-block of training.
 
 <!---->
 ## TUESDAY JAN 12
