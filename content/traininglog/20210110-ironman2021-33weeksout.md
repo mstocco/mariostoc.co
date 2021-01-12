@@ -42,9 +42,9 @@ Sleep **2** | Fatigue **3** | Stress **3** | Soreness **3**
 ### NOTES
 Total Time: **48 minutes** &nbsp; Distance: **2000m**
 
-An okay sleep last night (slept in late for a work day).
+The swim felt good; tired arms during the first set but I got into a nice, **comfortable rhythm** during the sets of 100m.  I contemplated swimming longer but decided to stick to the plan as this is just the middle of a good mini-block of training.
 
-The swim felt good too; a bit of tired arms during the first set but I was in a nice, **comfortable rhythm** during the sets of 100m.  I contemplated swimming longer but decided to stick to the plan as this is just the middle of a good mini-block of training.
+![Swim Pace Chart](/assets/jpg/swim-20210111.jpeg)
 
 <!---->
 ## TUESDAY JAN 12
