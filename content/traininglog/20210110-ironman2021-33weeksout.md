@@ -69,11 +69,11 @@ The ride on the trainer was very easy spinning that started at around 90 RPM and
 ### CADENCE GRAPH WHILE WATCHING
 ![Cadendes](/assets/jpg/cadence-20210112.jpeg)
 
-Effort on the bike was light and easy; basically one gear and letting my legs spin for an hour.  I was still getting sweaty without the fan going.
+Effort on the bike was **light and easy**; basically one gear and letting my legs spin for an hour.  I was still getting sweaty without the fan going.
 
 All in all, a really good _"Bread and Butter"_ kind of training day (and a good day at work).
 
-One thing I am a bit peeved at is the timing of booking swimming.  Two days in a row I have been shut out from getting a spot at Esquimalt.
+One thing I am a bit peeved at is my timing at getting a swim lane booked.  Two days in a row I have been shut out from getting a spot at Esquimalt.
 
 <!---->
 ## WEDNESDAY JAN 13
