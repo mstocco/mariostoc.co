@@ -75,6 +75,8 @@ All in all, a really good _"Bread and Butter"_ kind of training day (and a good 
 
 One thing I am a bit peeved at is my timing at getting a swim lane booked.  Two days in a row I have been shut out from getting a spot at Esquimalt.
 
+Lastly, I missed an opportunity to do the new warm up routine _before_ the run.
+
 <!---->
 ## WEDNESDAY JAN 13 ☀️
 Sleep **5** | Fatigue **3** | Stress **3** | Soreness **5**  
