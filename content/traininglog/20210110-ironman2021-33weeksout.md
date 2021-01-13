@@ -62,13 +62,18 @@ Total Time: **105 minutes**
 With a weather system forecast for this evening, I did the scheduled run first.  I had a tiny, posterior tendon near my right ankle that was angry for the first 20ish minutes of the run; it finally got the message that I wasn't stopping and calmed down.  Apart from that, the run felt **really good**; a bit of drizzle but no bad weather (yet).
 
 ### FIBULARIS TERTIUS
-![Fibularis Tertius](/assets/jpg/ankle-20210112.jpeg)
+![Fibularis Tertius](/assets/jpg/ankle-20210112.jpeg?v2)
 <!---->
 The ride on the trainer was very easy spinning that started at around 90 RPM and progressively became faster over the course of the hour.  I watched the full reply of the _2020 Arzachena ITU Triathlon World Cup_ (Men's Race).
 
-All in all, a really good _"Bread and Butter"_ kind of training day.
+### CADENCE GRAPH WHILE WATCHING
+![Cadendes](/assets/jpg/cadence-20210112.jpeg)
 
+Effort on the bike was light and easy; basically one gear and letting my legs spin for an hour.  I was still getting sweaty without the fan going.
 
+All in all, a really good _"Bread and Butter"_ kind of training day (and a good day at work).
+
+One thing I am a bit peeved at is the timing of booking swimming.  Two days in a row I have been shut out from getting a spot at Esquimalt.
 
 <!---->
 ## WEDNESDAY JAN 13
