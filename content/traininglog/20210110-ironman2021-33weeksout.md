@@ -64,7 +64,7 @@ With a weather system forecast for this evening, I did the scheduled run first. 
 ### FIBULARIS TERTIUS
 ![Fibularis Tertius](/assets/jpg/ankle-20210112.jpeg?v2)
 <!---->
-The ride on the trainer was very easy spinning that started at around 90 RPM and progressively became faster over the course of the hour.  I watched the full reply of the _2020 Arzachena ITU Triathlon World Cup_ (Men's Race).
+The ride on the trainer was very easy spinning that started at around 90 RPM and progressively became faster over the course of the hour.  I watched the full replay of the _2020 Arzachena ITU Triathlon World Cup_ (Men's Race).
 
 ### CADENCE GRAPH WHILE WATCHING
 ![Cadendes](/assets/jpg/cadence-20210112.jpeg)
@@ -76,8 +76,8 @@ All in all, a really good _"Bread and Butter"_ kind of training day (and a good 
 One thing I am a bit peeved at is my timing at getting a swim lane booked.  Two days in a row I have been shut out from getting a spot at Esquimalt.
 
 <!---->
-## WEDNESDAY JAN 13
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## WEDNESDAY JAN 13 ☀️
+Sleep **5** | Fatigue **3** | Stress **3** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -87,7 +87,7 @@ Mobility 18 minutes
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Terrible sleep last night; the wind storm woke me up at 0054 and multiple times there after.  The wind was strong enough to damage the railing on our back deck too; I have some woodworking in my near future.  That little tendon in front of my right ankle is angry this morning too.
 
 
 <!---->
