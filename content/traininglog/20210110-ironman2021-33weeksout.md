@@ -48,8 +48,8 @@ The swim felt good; tired arms during the warm up but I got into a nice, **comfo
 ![Swim Pace Chart](/assets/jpg/swim-20210111.jpeg?v2)
 
 <!---->
-## TUESDAY JAN 12
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## TUESDAY JAN 12 ☁️
+Sleep **2** | Fatigue **4** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -57,9 +57,14 @@ Trainer ~ 60 minutes. Easy spinning.
 Run 45 minutes. Flat route. EASY effort.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **105 minutes**
 
-&mdash;
+With a weather system forecast for this evening, I did the scheduled run first.  I had a tiny, posterior tendon near my right ankle that was angry for the first 20ish minutes of the run; it finally got the message that I wasn't stopping and calmed down.  Apart from that, the run felt **really good**; a bit of drizzle but no bad weather yet.
+
+The ride on the trainer was very easy spinning that started at around 90 RPM and progressively became faster over the course of the hour.  I watched the full reply of the _2020 Arzachena ITU Triathlon World Cup_ (Men's Race).
+
+All in all, a really good _"Bread and Butter"_ kind of training day.
+
 
 
 <!---->
