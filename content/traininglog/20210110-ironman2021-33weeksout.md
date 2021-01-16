@@ -87,14 +87,15 @@ Run 60 minutes. Hilly route. Easy effort.
 Mobility 18 minutes
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **60 minutes**
 
 Terrible sleep last night; the wind storm woke me up at 0054 and multiple times there after.  The wind was strong enough to damage the railing on our back deck too; I have some woodworking in my near future.  That little tendon in front of my right ankle is angry this morning too.
 
+I procrastinated long enough for the sun to go down and the wind to stop blowing.  I did my _Craigflower Route_ with a few extra hills to make for an hour of hilly jogging.  It was a really nice night for a run too.  I took it really easy because my right ankle is still pretty sore.
 
 <!---->
-## THURSDAY JAN 14
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## THURSDAY JAN 14 ☀️
+Sleep **2** | Fatigue **3** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -103,14 +104,14 @@ Swim 2000: 4x 100 easy swimming to warm up. Rest as needed. 12x 50 Odds: Buildin
 Trainer 60 minutes: 20 minutes easy spinning. 5x 1:00 high cadence/very stable hips, 1:00 easy after each. 2 rounds (:50, :40, :30, :20, :10 high cadence on 1:00. Gradually increasing cadence from :50 - :10) 20 minutes easy to finish up.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **110 minutes**
 
-&mdash; 
+Even though the Esquimalt Pool is just 25m in length, swimming at that facility, with its amount of windows letting in the sunshine is a nice experience.  Apart from a longer rest 
 
 
 <!---->
-## FRIDAY JAN 15
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## FRIDAY JAN 15 ☀️
+Sleep **2** | Fatigue **3** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -118,10 +119,11 @@ Run 40 minutes. Flat route. Easy effort.
 Mobility 17 minutes.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **39 minutes** &nbsp; Distance: **6.5 km**
 
-&mdash; 
+Good sleep and even better weather; 15°C, sunny and no wind.
 
+The streak continues with a easy run down to the _Bay Street Bridge_ and back.  This was really easy with caution being taken because my right ankle still has tender moments.  I have revisited an old Kelly Starrett ankle treatment (compression and flossing) that seems to be helping.
 
 <!---->
 ## SATURDAY JAN 16
