@@ -118,7 +118,7 @@ Last year around this time, I swam at a 25m pool in _South Surrey_ that had a 30
 
 ### NORMALIZED SWIM PACES
 ![Swim Paces](/assets/jpg/swim-20210114.jpeg)
-So while the numbers appear to be similar, the feeling is easier this year.
+<sup>So while the numbers appear to be similar, the feeling is easier this year.</sup>
 
 I was late getting on the bike after dinner, but I got this scheduled 60 minutes on the trainer too.  Not much to report except it is late and time to get some sleep.
 
