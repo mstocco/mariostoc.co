@@ -155,17 +155,17 @@ Total Time: **170 minutes** &nbsp; Distance: **74 km**
 
 I had a good sleep last night and my right ankle is feeling a bit better.
 
-It is nice to have a choice of bikes to ride.  It is easier for me to get calories in on a long ride while on the road bike and although it is a cloudy day, the roads are dry.  It was the road bike for the win.  It is the middle of January and still no fenders needed; incredible!
+It is nice to have a choice of bikes to ride.  It is easier (for me) to get calories in on a long ride while on the road bike and although it is a cloudy day, the roads are _dry_.  It was the road bike for the win.  It is the middle of January and still no fenders needed; incredible!
 
 <!--With a choice to make, the road bike it would be; it is easier for me to get calories in on a long ride while on the road bike.  The weather was cloudy but dry which is a great bonus for the middle of January. --> 
 <!---->
-Before heading out, I had 4 pieces of toast and honey and I was packing two bottles with ~200 calories each (Gatorade) 24 jujubes and a pack of _Honey Stinger Chews_.  Zero GI throughout the ride for a total of ~700 calories consumed on the bike (not counting the toast).  I liked the chews too but they are expensive.
+Before heading out, I had 4 pieces of toast and honey and I was packing two bottles with ~200 calories each (Gatorade), 24 jujubes and a pack of _Honey Stinger Chews_ (something new).  Zero GI throughout the ride for a total of ~700 calories consumed on the bike (not counting the toast).  I liked the chews too but they are _expensive_.
 
-I started the ride at a pace like I was going to ride for 3 hours but that didn't last too long; I got into a groove and just went with it.  I wondered at what point I'd regret the early effort but I would pull another snack out of my pocket, wash it down and carried on.  If I did have a low point, it was maybe at the 2:20 point leaving _Brentwood Bay_.
+I started the ride at a pace like I was going to ride for 3 hours but that didn't last too long; I got into a groove and just went with it.  I wondered at what point I'd regret the early effort but I would pull another snack out of my pocket, wash it down and carry on.  If I did have a low point, it was maybe at the 2:20 point leaving _Brentwood Bay_.
 
-There was couple of flare ups with my left piriformis (at the _Ferry Terminal_ and climbing past _Dean Park_).
+There was couple of flare ups with my left piriformis (at the _Ferry Terminal_ and climbing past the entrance to the _Dean Park Subdivision_).
 
-Overall, I am feeling pretty stoked about how this ride went and its stimulus felt in my legs afterwards.
+Overall, I am **feeling pretty stoked** about how this ride went and its stimulus felt in my legs afterwards.
 <!---->
 ### LANDS END LOOP - COUNTER CLOCKWISE
 ![Lands End Road](/assets/jpg/ridemap-20210116.jpeg?v2)
