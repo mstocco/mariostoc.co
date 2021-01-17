@@ -116,7 +116,9 @@ Even though the Esquimalt Pool is just 25m in length, swimming at that facility,
 <!---->
 Last year around this time, I swam at a 25m pool in _South Surrey_ that had a 300m effort.  I compared that to the 250m effort(s) from today.  The data seems to show similar paces and heart rate (measured with the same heart-rate monitor strap) between last year and today.  But from memory, that 300m effort last year felt a magnitude harder than any of today's 250m efforts.  When coming to the wall at the end of a 250m effort today, it would not have been difficult to add another lap to make it an even 300m.
 
-So if the numbers are the same, the feeling is easier this year.
+### NORMALIZED SWIM PACES
+![Swim Paces](/assets/jpg/swim-20210114.jpeg)
+So while the numbers appear to be similar, the feeling is easier this year.
 
 I was late getting on the bike after dinner, but I got this scheduled 60 minutes on the trainer too.  Not much to report except it is late and time to get some sleep.
 
