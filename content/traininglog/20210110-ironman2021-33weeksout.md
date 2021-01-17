@@ -114,11 +114,11 @@ Total Time: **110 minutes**
 
 Even though the Esquimalt Pool is just 25m in length, swimming at that facility, with its amount of windows letting in the sunshine is a nice experience.  Apart from a longer rest before the 3x50 set, this was a cleanly executed workout.
 <!---->
-Last year around this time, I swam at a 25m pool in _South Surrey_ that had a timed 300m effort.  I compared that to today's 250m effort(s).  The data shows similar pace and heart rate between last year and today (measured with the same watch and strap).  But from memory, last year's 300m effort felt a magnitude harder than any of today's 250m efforts.  When coming to the wall at the end of a 250m effort today, it would not have been difficult to add another lap to make it an even 300m.
+Last year around this time, I swam at a 25m pool in _South Surrey_ that had a timed 300m effort.  I compared that to today's 250m effort(s).  The data shows similar pace and heart rate between last year and today (measured with the same watch and strap).  But from memory, last year's 300m effort felt a magnitude harder than any of today's 250m efforts.
 
 ### NORMALIZED SWIM PACES
 ![Swim Paces](/assets/jpg/swim-20210114.jpeg)
-So while the numbers appear to be similar, the feeling is easier this year.
+When coming to the wall at the end of a 250m effort today, it would not have been difficult to add another lap to make it an even 300m.
 
 Late getting on the bike after dinner, but the scheduled 60 minutes on the trainer was completed too.  Not much to report except it is late and time to get some sleep.
 
