@@ -7,9 +7,13 @@ Week beginning [Sunday, January 10, 2021](javascript:flick('sun');)
 [Last week](ironman2021-34weeksout) was a solid week but I was officially off work.  My goal this week is to have a similar training week while integrating work back into my daily routine.
 
 ## SUMMARY
-I feel I like was...  
-<sup>(completed at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel I like was **STAYING CONSISTENT**.
+
+I finished this week on the longest daily activity streak I think I ever put together &mdash; ** seventeen days**.
+
+I did pick up a tiny issue to the fibularis tertius tendon of my right ankle and though my left piriformis is better, it still gets knotted up.  
+
+Swimming and biking are becoming more comfortable and I am enjoying the freedom of running just for the act of running.
 
 ![Spending time on my mountain bike while training for an Ironman leads me into some beautiful forests.](/assets/jpg/bellamy-trail-977x550.jpeg Bellamy Trail, Thetis Lake Regional Park)
 
@@ -124,6 +128,9 @@ Total Time: **39 minutes** &nbsp; Distance: **6.5 km**
 Good sleep and even better weather; 15°C, sunny and no wind.
 
 The streak continues with a easy run down to the _Bay Street Bridge_ and back.  This was really easy with caution being taken because my right ankle still has tender moments.  I have revisited an old Kelly Starrett ankle treatment (compression and flossing) that seems to be helping.
+
+### VERY EASY PACE
+![Easy Paces](/assets/jpg/pace-20210115.jpeg)
 
 <!---->
 ## SATURDAY JAN 16 ☁️
