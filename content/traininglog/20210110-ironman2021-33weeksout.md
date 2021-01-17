@@ -137,8 +137,10 @@ Mobility 20 minutes.
 ### NOTES
 Total Time: **170 minutes**
 
-Road bike it was; it is easier for me to get calories in on a long ride while on the road bike.  The weather was cloudy but dry which is a great bonus for the middle of January.  
+I had a good sleep last night and my right ankle is feeling a bit better.
 
+With a choice to make, the road bike it would be; it is easier for me to get calories in on a long ride while on the road bike.  The weather was cloudy but dry which is a great bonus for the middle of January.  
+<!---->
 Before heading out, I had 4 pieces of toast and honey and I was packing two bottles with ~200 calories each (Gatorade) 24 jujubes and a pack of _Honey Stinger Chews_.  Zero GI throughout the ride for a total of ~700 calories consumed on the bike (not counting the toast).  I liked the chews too but they are expensive.
 
 I started the ride at a pace like I was going to ride for 3 hours but that didn't last too long; I got into a groove and just went with it.  I wondered at what point I'd regret the early effort but I would pull another snack out of my pocket, wash it down and carried on.  If I did have a low point, it was maybe at the 2:20 point leaving _Brentwood Bay_.
