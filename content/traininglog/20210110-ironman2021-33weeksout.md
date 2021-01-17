@@ -148,6 +148,6 @@ I started the ride at a pace like I was going to ride for 3 hours but that didn'
 There was couple of flare ups with my left piriformis (at the _Ferry Terminal_ and climbing past _Dean Park_).
 
 Overall, I am feeling pretty stoked about how this ride went and its stimulus felt in my legs afterwards.
-
-
-&mdash;
+<!---->
+### LANDS END LOOP - COUNTER CLOCKWISE
+![Lands End Road](/assets/jpg/ridemap-20210116.jpeg)
