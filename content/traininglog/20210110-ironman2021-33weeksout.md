@@ -126,8 +126,8 @@ Good sleep and even better weather; 15°C, sunny and no wind.
 The streak continues with a easy run down to the _Bay Street Bridge_ and back.  This was really easy with caution being taken because my right ankle still has tender moments.  I have revisited an old Kelly Starrett ankle treatment (compression and flossing) that seems to be helping.
 
 <!---->
-## SATURDAY JAN 16
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## SATURDAY JAN 16 ☁️
+Sleep **2** | Fatigue **3** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -135,6 +135,17 @@ Ride 2:30 on the road bike. Steady effort. Flat to rolling terrain. OR>>>>> MTB 
 Mobility 20 minutes.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **170 minutes**
+
+Road bike it was; it is easier for me to get calories in on a long ride while on the road bike.  The weather was cloudy but dry which is a great bonus for the middle of January.  
+
+Before heading out, I had 4 pieces of toast and honey and I was packing two bottles with ~200 calories each (Gatorade) 24 jujubes and a pack of _Honey Stinger Chews_.  Zero GI throughout the ride for a total of ~700 calories consumed on the bike (not counting the toast).  I liked the chews too but they are expensive.
+
+I started the ride at a pace like I was going to ride for 3 hours but that didn't last too long; I got into a groove and just went with it.  I wondered at what point I'd regret the early effort but I would pull another snack out of my pocket, wash it down and carried on.  If I did have a low point, it was maybe at the 2:20 point leaving _Brentwood Bay_.
+
+There was couple of flare ups with my left piriformis (at the _Ferry Terminal_ and climbing past _Dean Park_).
+
+Overall, I am feeling pretty stoked about how this ride went and its stimulus felt in my legs afterwards.
+
 
 &mdash;
