@@ -135,7 +135,7 @@ Ride 2:30 on the road bike. Steady effort. Flat to rolling terrain. OR>>>>> MTB 
 Mobility 20 minutes.
 
 ### NOTES
-Total Time: **170 minutes**
+Total Time: **170 minutes** &nbsp; Distance: **74 km**
 
 I had a good sleep last night and my right ankle is feeling a bit better.
 
@@ -150,4 +150,4 @@ There was couple of flare ups with my left piriformis (at the _Ferry Terminal_ a
 Overall, I am feeling pretty stoked about how this ride went and its stimulus felt in my legs afterwards.
 <!---->
 ### LANDS END LOOP - COUNTER CLOCKWISE
-![Lands End Road](/assets/jpg/ridemap-20210116.jpeg)
+![Lands End Road](/assets/jpg/ridemap-20210116.jpeg?v2)
