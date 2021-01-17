@@ -23,10 +23,11 @@ Sleep **4** | Fatigue **5** | Stress **2** | Soreness **3**
 2nd: (Timing is up to you) Ride 60 minutes. Any bike. Keep the effort EASY. Can be inside or outside. This is basically your spin out after the longer run.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **90 minutes**
 
 I don't think I slept all that well as I was very groggy this morning.  I am a bit stiff too.
 
+The question for me today is how do I follow up a solid ride from [yesterday](ironman2021-33weeksout?sat), while feeling that ride in my legs?  The answer is to have an even better run on Sunday!
 
 <!---->
 ## MONDAY JAN 18
