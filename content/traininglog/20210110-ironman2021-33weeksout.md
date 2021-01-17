@@ -9,11 +9,13 @@ Week beginning [Sunday, January 10, 2021](javascript:flick('sun');)
 ## SUMMARY
 I feel I like was **STAYING CONSISTENT**.
 
-I finished this week on the longest daily activity streak I think I ever put together &mdash; ** seventeen days**.
+I finished this week on the longest daily activity streak I think I ever put together &mdash; **17 days**.
 
 I did pick up a tiny issue to the fibularis tertius tendon of my right ankle and though my left piriformis is better, it still gets knotted up.  
 
-Swimming and biking are becoming more comfortable and I am enjoying the freedom of running just for the act of running.
+Swimming and biking are becoming more comfortable and I am enjoying the running simply for the meditative act of running.
+
+This was an **11 hour week**; down a couple hours from last week. 
 
 ![Spending time on my mountain bike while training for an Ironman leads me into some beautiful forests.](/assets/jpg/bellamy-trail-977x550.jpeg Bellamy Trail, Thetis Lake Regional Park)
 
@@ -110,8 +112,13 @@ Trainer 60 minutes: 20 minutes easy spinning. 5x 1:00 high cadence/very stable h
 ### NOTES
 Total Time: **110 minutes**
 
-Even though the Esquimalt Pool is just 25m in length, swimming at that facility, with its amount of windows letting in the sunshine is a nice experience.  Apart from a longer rest 
+Even though the Esquimalt Pool is just 25m in length, swimming at that facility, with its amount of windows letting in the sunshine is a nice experience.  Apart from a longer rest before the 3x50 set, this was a cleanly executed workout.
+<!---->
+Last year around this time, I swam at a 25m pool in _South Surrey_ that had a 300m effort.  I compared that to the 250m effort(s) from today.  The data seems to show similar paces and heart rate (measured with the same heart-rate monitor strap) between last year and today.  But from memory, that 300m effort last year felt a magnitude harder than any of today's 250m efforts.  When coming to the wall at the end of a 250m effort today, it would not have been difficult to add another lap to make it an even 300m.
 
+So if the numbers are the same, the feeling is easier this year.
+
+I was late getting on the bike after dinner, but I got this scheduled 60 minutes on the trainer too.  Not much to report except it is late and time to get some sleep.
 
 <!---->
 ## FRIDAY JAN 15 ☀️
