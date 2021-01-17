@@ -161,7 +161,7 @@ It is nice to have a choice of bikes to ride.  It is easier (for me) to get calo
 <!---->
 Before heading out, I had 4 pieces of toast and honey and I was packing two bottles with ~200 calories each (Gatorade), 24 jujubes and a pack of _Honey Stinger Chews_ (something new).  Zero GI throughout the ride for a total of ~700 calories consumed on the bike (not counting the toast).  I liked the chews too but they are _expensive_.
 
-I started the ride at a pace like I was going to ride for 3 hours but that didn't last too long; I got into a groove and just went with it.  I wondered at what point I'd regret the early effort but I would pull another snack out of my pocket, wash it down and carry on.  If I did have a low point, it was maybe at the 2:20 point leaving _Brentwood Bay_.
+I started the ride at a pace like I was going to ride for 3 hours but that didn't last too long; I got into a groove and just went with it.  I wondered at what point I'd regret the early effort but I would pull another snack out of my pocket, wash it down and carry on.  If I did have a low point, it was maybe around the 2:20 point, just past _Brentwood Bay_ on _Wallace Drive_.
 
 There was couple of flare ups with my left piriformis (at the _Ferry Terminal_ and climbing past the entrance to the _Dean Park Subdivision_).
 
