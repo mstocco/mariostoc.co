@@ -138,7 +138,7 @@ Good sleep and even better weather; 15°C, sunny and no wind.
 
 The **streak continues** with a easy run down to the _Bay Street Bridge_ and back.  This was really easy with caution being taken because my right ankle still has tender moments.  I have revisited an old Kelly Starrett ankle treatment (compression and flossing) that seems to be helping.
 
-### VERY EASY PACE
+### NORMALIZED 1KM PACES (EASY)
 ![Easy Paces](/assets/jpg/pace-20210115.jpeg)
 
 <!---->
