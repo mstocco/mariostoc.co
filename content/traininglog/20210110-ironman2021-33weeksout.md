@@ -9,13 +9,13 @@ Week beginning [Sunday, January 10, 2021](javascript:flick('sun');)
 ## SUMMARY
 I feel I like was **STAYING CONSISTENT**.
 
-I finished this week on the longest daily activity streak I think I ever put together &mdash; **17 days**.
+I finished this week on the longest daily activity streak I think I ever put together &mdash; **17 days**!
 
 I did pick up a tiny issue to the fibularis tertius tendon of my right ankle and though my left piriformis is better, it still gets knotted up.  
 
 Swimming and biking are becoming more comfortable and I am enjoying the running simply for the meditative act of running.
 
-This was an **11 hour week**; down a couple hours from last week. 
+This was an **+11 hour training week**. 
 
 ![Spending time on my mountain bike while training for an Ironman leads me into some beautiful forests.](/assets/jpg/bellamy-trail-977x550.jpeg Bellamy Trail, Thetis Lake Regional Park)
 
@@ -32,9 +32,9 @@ Moving Time: **120 minutes**
 
 It may have been cloudy to start the day but looking west, dark clouds surrounded Mount Stewart.  2 patches needed to repair the rear tube on the MTB and then I was on the trail.
 
-I took the same route into _Thetis Lake Park_ but instead of following the fire roads north to _Munn Road_, I decided to explore a couple of single track trails that I had be looking at on <a href="https://www.trailforks.com/trails/electric-avenue-101420/" target="_blank" rel="noreferrer">trailforks.com</a>. 
+I took the same route into [Thetis Lake Park](javascript:flkty.select(2);) but instead of following the fire roads north to _Munn Road_, I decided to explore a couple of single track trails that I had be looking at on <a href="https://www.trailforks.com/trails/electric-avenue-101420/" target="_blank" rel="noreferrer">trailforks.com</a>. 
 
-Overall, this was a fun ride with some fatigue in my legs.  The trails were wet but the weather was dry.
+Overall, this was a **fun ride** with some fatigue in my legs.  The trails were wet but the weather was dry.
 
 <!---->
 ## MONDAY JAN 11 🌧
@@ -120,7 +120,7 @@ Last year around this time, I swam at a 25m pool in _South Surrey_ that had a 30
 ![Swim Paces](/assets/jpg/swim-20210114.jpeg)
 <sup>So while the numbers appear to be similar, the feeling is easier this year.</sup>
 
-I was late getting on the bike after dinner, but I got this scheduled 60 minutes on the trainer too.  Not much to report except it is late and time to get some sleep.
+Late getting on the bike after dinner, but the scheduled 60 minutes on the trainer was completed too.  Not much to report except it is late and time to get some sleep.
 
 <!---->
 ## FRIDAY JAN 15 ☀️
@@ -136,7 +136,7 @@ Total Time: **39 minutes** &nbsp; Distance: **6.5 km**
 
 Good sleep and even better weather; 15°C, sunny and no wind.
 
-The streak continues with a easy run down to the _Bay Street Bridge_ and back.  This was really easy with caution being taken because my right ankle still has tender moments.  I have revisited an old Kelly Starrett ankle treatment (compression and flossing) that seems to be helping.
+The **streak continues** with a easy run down to the _Bay Street Bridge_ and back.  This was really easy with caution being taken because my right ankle still has tender moments.  I have revisited an old Kelly Starrett ankle treatment (compression and flossing) that seems to be helping.
 
 ### VERY EASY PACE
 ![Easy Paces](/assets/jpg/pace-20210115.jpeg)
@@ -155,7 +155,9 @@ Total Time: **170 minutes** &nbsp; Distance: **74 km**
 
 I had a good sleep last night and my right ankle is feeling a bit better.
 
-With a choice to make, the road bike it would be; it is easier for me to get calories in on a long ride while on the road bike.  The weather was cloudy but dry which is a great bonus for the middle of January.  
+It is nice to have a choice of bikes to ride.  It is easier for me to get calories in on a long ride while on the road bike and although it is a cloudy day, the roads are dry.  It was the road bike for the win.  It is the middle of January and still no fenders needed; incredible!
+
+<!--With a choice to make, the road bike it would be; it is easier for me to get calories in on a long ride while on the road bike.  The weather was cloudy but dry which is a great bonus for the middle of January. --> 
 <!---->
 Before heading out, I had 4 pieces of toast and honey and I was packing two bottles with ~200 calories each (Gatorade) 24 jujubes and a pack of _Honey Stinger Chews_.  Zero GI throughout the ride for a total of ~700 calories consumed on the bike (not counting the toast).  I liked the chews too but they are expensive.
 
