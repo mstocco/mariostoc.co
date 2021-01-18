@@ -35,9 +35,9 @@ Carina dropped me off at _Mitchell Farm_ on her way to _Sidney_; that should put
 
 The story I couldn't wait to get home and write started just south of _Royal Oak Avenue_.  3 guys, all half my age, had gathered along the side of the trail.  As I went past, I heard them talk about the run they were planing to do.  
 
-It was maybe a minute down the trail when I heard their footsteps.  The first guy went by me at what I guessed to be about sub-5 min/km and his two friends were a touch slower.  So I am feeling good and with quicker people just ahead me, I decided to match pace with the slower two.
+It was maybe a minute down the trail when I heard their footsteps.  The first guy went by me at what I guessed to be 5 min/km and his two friends were a touch slower.  I am feeling good and with quicker people ahead me, I decided to match pace with the slower two.
 
-That pace lasted a just a few minutes for the two guys ahead of me.  The gap that they put into me was gone and their effort fell right off.  No only was the first guy putting the hurt on these two, I don't think they were happy being caught by me.
+That pace lasted for maybe a kilometre for the two ahead of me.  The gap that they put into me was gone and their effort fell off.  No only was the first guy putting the hurt on these two, I don't think they were happy being caught either.
 
 <!---->
 The fastest of the these 3 was further up the trail but had stopped to wait for his buddies.  He was looking at his friends still down the trail with a dejected disposition as I went past.
