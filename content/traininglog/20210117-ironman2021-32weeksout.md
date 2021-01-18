@@ -23,12 +23,19 @@ Sleep **4** | Fatigue **5** | Stress **2** | Soreness **3**
 2nd: (Timing is up to you) Ride 60 minutes. Any bike. Keep the effort EASY. Can be inside or outside. This is basically your spin out after the longer run.
 
 ### NOTES
-Total Time: **90 minutes**
+Total Time: **145 minutes** &nbsp;Run Distance: **10 miles**
 
 I don't think I slept all that well as I was very groggy this morning.  I am a bit stiff too.
 
-The question for me today is how do I follow up a solid ride from [yesterday](ironman2021-33weeksout?sat), while feeling that ride in my legs?  The answer is to have an even better run on Sunday!
+The question for me today is how do I follow up a solid ride from [yesterday](ironman2021-33weeksout?sat), while feeling that ride in my legs?
 
+The answer is to have an even better run on Sunday!
+<!---->
+Carina dropped me off at _Mitchell Farm_ on her way to _Sidney_; that should put me at 90 minutes away from home on a flat route with sections of dirt road.  My right ankle barked on my first step, and _only_ my first step; it was solid for the remainder of the run.  In fact, everything felt solid today.
+
+The story I couldn't wait to get home and write started just south of _Royal Oak Avenue_.  3 guys, all half my age, had gathered along the side of the trail; I heard them talk about the run they were planing to do.  It wasn't even a minute before they caught up to me.  The first guy went by me at what I thought was sub-5 min/km but the next 2 were a touch slower.  So I am feeling good and having quicker people just ahead, I went with their pace.  The pace lasted a just a few minutes for the two guys ahead of me; when I closed the gap that they put into me, their effort fell right off.  One guy was done after a little more than a kilometre, his friend probably could have held pace a bit longer but decided to let me go.  The fastest of the these 3 was further up the trail but had stopped to wait for his buddies.  He was looking auth his friends still down the trail with a dejected as I went past.
+
+The bike really had not much to report.  I watched the 4th quarter of the _Tampa Bay_ v _New Orleans_ game.  I stopped 5 minutes short of the hour to roll out my hamstrings and piriformis. 
 <!---->
 ## MONDAY JAN 18
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
