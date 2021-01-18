@@ -13,7 +13,7 @@ I feel I like was...
 
 
 <!---->
-## SUNDAY JAN 17
+## SUNDAY JAN 17 🌤
 Sleep **4** | Fatigue **5** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -23,13 +23,13 @@ Sleep **4** | Fatigue **5** | Stress **2** | Soreness **3**
 2nd: (Timing is up to you) Ride 60 minutes. Any bike. Keep the effort EASY. Can be inside or outside. This is basically your spin out after the longer run.
 
 ### NOTES
-Total Time: **145 minutes** &nbsp;Run Distance: **10 miles**
+Total Time: **145 minutes** &nbsp; Run: **10 miles**
 
 I don't think I slept all that well as I was very groggy this morning.  I am a bit stiff too.
 
-The question for me today is how do I follow up a solid ride from [yesterday](ironman2021-33weeksout?sat), while feeling that ride in my legs?
+The question for me today is, how do I follow up a solid ride from [yesterday](ironman2021-33weeksout?sat), while still feeling that ride in my legs?
 
-The answer is to have an even better run on Sunday!
+The answer is to go out and have an even better run on Sunday!
 <!---->
 Carina dropped me off at _Mitchell Farm_ on her way to _Sidney_; that should put me at 90 minutes away from home on a flat route with sections of dirt road.  My right ankle barked on my first step, and _only_ my first step; it was solid for the remainder of the run.  In fact, everything felt solid today.
 
