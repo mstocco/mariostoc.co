@@ -37,10 +37,10 @@ The story I couldn't wait to get home and write started just south of _Royal Oak
 
 I don't think it was even a minute down the trail, when I heard their footsteps as they caught up to me.  The first guy went by me at what I guessed to be about sub-5 min/km but his two friends were already a touch slower.  So after 9km of comfortable running, I am feeling good and with quicker people just ahead me, I decided to match the pace of the slower two.
 
- That pace lasted a just a few minutes for the two guys ahead of me; when I closed the gap that they put into me, their effort fell right off.  One guy was done after a little more than a kilometre, his friend probably could have held pace a bit longer but decided to let me go
+That pace lasted a just a few minutes for the two guys ahead of me.  The gap that they put into me was gone and their effort fell right off.  No only was the first guy putting the hurt on these two, I don't think they were happy being caught by me.
 
 <!---->
-The pace lasted a just a few minutes for the two guys ahead of me; when I closed the gap that they put into me, their effort fell right off.  One guy was done after a little more than a kilometre, his friend probably could have held pace a bit longer but decided to let me go.  The fastest of the these 3 was further up the trail but had stopped to wait for his buddies.  He was looking at his friends still down the trail with a dejected disposition as I went past.
+The fastest of the these 3 was further up the trail but had stopped to wait for his buddies.  He was looking at his friends still down the trail with a dejected disposition as I went past.
 
 I held the effort through to the _Monkey Tree Pub_ but really, I felt good right through to _Pearkes Arena_ where I did a lap of the parking lot to get to 90 minutes and 10 miles even.  I felt like had lots more in the tank at the end too.
 
