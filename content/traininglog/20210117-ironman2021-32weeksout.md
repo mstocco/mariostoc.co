@@ -44,6 +44,9 @@ The fastest of the these 3 was further up the trail but had stopped to wait for 
 
 I held the effort through to the _Monkey Tree Pub_ but really, I felt good right through to _Pearkes Arena_ where I did a lap of the parking lot to get to 90 minutes and 10 miles even.  I felt like had lots more in the tank at the end too.
 
+### NORMALIZED KILOMETRE PACES
+![Pace Graph](/assets/jpg/pacing-20210117.jpeg)
+
 The bike really had not much to report.  I watched the 4th quarter of the _Tampa Bay_ v _New Orleans_ game.  I stopped 5 minutes short of the hour to roll out my hamstrings and piriformis. 
 <!---->
 ## MONDAY JAN 18
