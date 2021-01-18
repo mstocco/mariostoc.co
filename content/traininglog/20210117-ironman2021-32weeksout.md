@@ -33,7 +33,13 @@ The answer is to have an even better run on Sunday!
 <!---->
 Carina dropped me off at _Mitchell Farm_ on her way to _Sidney_; that should put me at 90 minutes away from home on a flat route with sections of dirt road.  My right ankle barked on my first step, and _only_ my first step; it was solid for the remainder of the run.  In fact, everything felt solid today.
 
-The story I couldn't wait to get home and write started just south of _Royal Oak Avenue_.  3 guys, all half my age, had gathered along the side of the trail; I heard them talk about the run they were planing to do.  It wasn't even a minute before they caught up to me.  The first guy went by me at what I thought was sub-5 min/km but the next 2 were a touch slower.  So I am feeling good and having quicker people just ahead, I went with their pace.  The pace lasted a just a few minutes for the two guys ahead of me; when I closed the gap that they put into me, their effort fell right off.  One guy was done after a little more than a kilometre, his friend probably could have held pace a bit longer but decided to let me go.  The fastest of the these 3 was further up the trail but had stopped to wait for his buddies.  He was looking auth his friends still down the trail with a dejected as I went past.
+The story I couldn't wait to get home and write started just south of _Royal Oak Avenue_.  3 guys, all half my age, had gathered along the side of the trail.  As I went past, I heard them talk about the run they were planing to do.  
+
+It wasn't even a minute down the trail when I heard footsteps and they caught up to me.  The first guy went by me at what I thought was sub-5 min/km but the next 2 were a touch slower.  So I am feeling good and having quicker people just ahead, I went with their pace.
+<!---->
+The pace lasted a just a few minutes for the two guys ahead of me; when I closed the gap that they put into me, their effort fell right off.  One guy was done after a little more than a kilometre, his friend probably could have held pace a bit longer but decided to let me go.  The fastest of the these 3 was further up the trail but had stopped to wait for his buddies.  He was looking at his friends still down the trail with a dejected disposition as I went past.
+
+I held the effort through to the _Monkey Tree Pub_ but really, I felt good right through to _Pearkes Arena_ where I did a lap of the parking lot to get to 90 minutes and 10 miles even.  I felt like had lots more in the tank at the end too.
 
 The bike really had not much to report.  I watched the 4th quarter of the _Tampa Bay_ v _New Orleans_ game.  I stopped 5 minutes short of the hour to roll out my hamstrings and piriformis. 
 <!---->
