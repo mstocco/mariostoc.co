@@ -13,7 +13,6 @@ I feel I like was...
 
 ![First time in the "Fast Lane" though to be honest, it is all relative.](/assets/jpg/IMG_3069-977x550.jpeg Esquimalt Recreation Centre)
 
-<!---->
 ## SUNDAY JAN 17 🌤
 Sleep **4** | Fatigue **5** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -64,7 +63,7 @@ Mobility 22 minutes
 ### NOTES
 Total Time: **58 minutes**
 
-The swim went ok.  Two people didn't show so there were just two of us in the "Fast Lane" this evening and there was plenty of room.  Two things of note:  I did get a pretty good chlorine burn in my right eye; uncomfortable but not a show-stopper.  The other being my right ankle was not happy with the kicking tonight.  On the 6th of 6 rounds, I replaced that last kickboard rep with just a 50m swim because my ankle was pretty aggravated.
+The swim went ok.  There were just two of us in the "Fast Lane" this evening so there was plenty of room.  Two things of note:  I did get a pretty good chlorine burn in my right eye; uncomfortable but not a show-stopper.  The other being my right ankle was not happy with the kicking tonight.  On the 6th of 6 rounds, I replaced that last kickboard rep with just a 50m swim because my ankle was pretty aggravated.
 
 
 <!---->
