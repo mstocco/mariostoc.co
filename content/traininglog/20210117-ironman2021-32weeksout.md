@@ -11,7 +11,7 @@ I feel I like was...
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
-![First time in the "Fast Lane" though to be honest, it is all relative.](/assets/jpg/IMG_3069-977x550.jpeg Esquimalt Recreation Centre)
+![First time in the "Fast Lane" though to be honest, it is all relative.](/assets/jpg/IMG_3069-977x550.jpeg?v2 Esquimalt Recreation Centre)
 
 ## SUNDAY JAN 17 🌤
 Sleep **4** | Fatigue **5** | Stress **2** | Soreness **3**  
