@@ -47,7 +47,7 @@ I held the effort through to the _Monkey Tree Pub_ but really, I felt good right
 ### NORMALIZED KILOMETRE PACES
 ![Pace Graph](/assets/jpg/pacing-20210117.jpeg)
 
-The bike really had not much to report.  I watched the 4th quarter of the _Tampa Bay_ v _New Orleans_ game.  I stopped 5 minutes short of the hour to roll out my hamstrings and piriformis. 
+The bike really had not much to report.  I watched the 4th quarter of the _Tampa Bay vs New Orleans_ game.  I stopped 5 minutes short of the hour to roll out my hamstrings and piriformis. 
 <!---->
 ## MONDAY JAN 18
 Sleep **3** | Fatigue **4** | Stress **4** | Soreness **4**  
@@ -61,7 +61,7 @@ Sleep **3** | Fatigue **4** | Stress **4** | Soreness **4**
 Mobility 22 minutes
 
 ### NOTES
-Total Time: **58 minutes**
+Total Time: **58 minutes** &nbsp; Distance: **2200 m**
 
 The swim went ok.  Two things of note:  I did get a pretty good chlorine burn in my right eye; uncomfortable but not a show-stopper.  The other being my right ankle was not happy with the kicking tonight.  On the 6th of 6 rounds, I replaced that last kickboard rep with just a 50m swim because my ankle was pretty aggravated.
 
