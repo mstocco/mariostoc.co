@@ -37,7 +37,7 @@ The story I couldn't wait to get home and write started just south of _Royal Oak
 
 It was maybe a minute down the trail when I heard their footsteps.  The first guy went by me at what I guessed to be 5 min/km and his two friends were a touch slower.  I am feeling good and with quicker people ahead me, I decided to match pace with the slower two.
 
-That pace lasted for maybe a kilometre for the two ahead of me.  The gap that they put into me was gone and their effort fell off.  No only was the first guy putting the hurt on these two, I don't think they were happy being caught either.
+That pace lasted for maybe a kilometre for the two ahead of me.  The gap that they put into me was gone and their effort fell off.  Not only was the first guy putting the hurt on these two, I don't think they were happy being caught either.
 
 <!---->
 The fastest of the these 3 was further up the trail but had stopped to wait for his buddies.  He was looking at his friends still down the trail with a dejected disposition as I went past.
@@ -49,7 +49,7 @@ I held the effort through to the _Monkey Tree Pub_ but really, I felt good right
 
 The bike really had not much to report.  I watched the 4th quarter of the _Tampa Bay vs New Orleans_ game.  I stopped 5 minutes short of the hour to roll out my hamstrings and piriformis. 
 <!---->
-## MONDAY JAN 18
+## MONDAY JAN 18 🌤
 Sleep **3** | Fatigue **4** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -68,7 +68,7 @@ The swim went ok.  Two things of note:  I did get a pretty good chlorine burn in
 
 <!---->
 ## TUESDAY JAN 19
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -80,7 +80,7 @@ Run 45 minutes easy.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+A bit of a restless sleep and I am stiff and sore this morning.  I think an hour on the massage chair is in order today.
 
 
 <!---->
