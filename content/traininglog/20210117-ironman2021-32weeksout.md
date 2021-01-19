@@ -63,7 +63,7 @@ Mobility 22 minutes
 ### NOTES
 Total Time: **58 minutes**
 
-The swim went ok.  There were just two of us in the "Fast Lane" this evening so there was plenty of room.  Two things of note:  I did get a pretty good chlorine burn in my right eye; uncomfortable but not a show-stopper.  The other being my right ankle was not happy with the kicking tonight.  On the 6th of 6 rounds, I replaced that last kickboard rep with just a 50m swim because my ankle was pretty aggravated.
+The swim went ok.  Two things of note:  I did get a pretty good chlorine burn in my right eye; uncomfortable but not a show-stopper.  The other being my right ankle was not happy with the kicking tonight.  On the 6th of 6 rounds, I replaced that last kickboard rep with just a 50m swim because my ankle was pretty aggravated.
 
 
 <!---->
