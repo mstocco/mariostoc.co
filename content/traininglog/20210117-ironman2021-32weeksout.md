@@ -11,6 +11,7 @@ I feel I like was...
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
+![First time in the "Fast Lane" though to be honest, it is all relative.](/assets/jpg/IMG_3069-977x550.jpeg Esquimalt Recreation Centre)
 
 <!---->
 ## SUNDAY JAN 17 🌤
@@ -50,7 +51,7 @@ I held the effort through to the _Monkey Tree Pub_ but really, I felt good right
 The bike really had not much to report.  I watched the 4th quarter of the _Tampa Bay_ v _New Orleans_ game.  I stopped 5 minutes short of the hour to roll out my hamstrings and piriformis. 
 <!---->
 ## MONDAY JAN 18
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **4** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -61,9 +62,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 Mobility 22 minutes
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **58 minutes**
 
-&mdash; 
+The swim went ok.  Two people didn't show so there were just two of us in the "Fast Lane" this evening and there was plenty of room.  Two things of note:  I did get a pretty good chlorine burn in my right eye; uncomfortable but not a show-stopper.  The other being my right ankle was not happy with the kicking tonight.  On the 6th of 6 rounds, I replaced that last kickboard rep with just a 50m swim because my ankle was pretty aggravated.
 
 
 <!---->
