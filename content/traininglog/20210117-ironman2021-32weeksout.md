@@ -67,7 +67,7 @@ The swim went ok.  Two things of note:  I did get a pretty good chlorine burn in
 
 
 <!---->
-## TUESDAY JAN 19
+## TUESDAY JAN 19 ☀️
 Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -78,11 +78,13 @@ Ride 65 minutes: 30 minutes easy spinning. 12x :30 high cadence, :45 easy spinni
 Run 45 minutes easy.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **120 minutes**
 
 A bit of a restless sleep and I am stiff and sore this morning.  I think an hour on the massage chair is in order today.
 
+Today was cooler but sunny so the indoor ride was replaced with a clockwise loop of the waterfront.  It might have been easier to ride in the gargage.  Nice weather but my quads had very little to give.
 
+The run was a slightly lengthened jog out to _Quadra Street_ via the bike path.  Again, no juice in the legs and if I had a chance to do this over, I probably would have cut this short to 30 minutes.  Fiblaris longus tendon, behind the lateral malleolus (to be specific) was not happy; so same ankle that I was complaining about recently except the tendon running behind the outer ankle bone instead of in front of it.
 <!---->
 ## WEDNESDAY JAN 20
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
