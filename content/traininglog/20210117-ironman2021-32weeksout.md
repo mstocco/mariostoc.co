@@ -94,8 +94,8 @@ The run was a slightly lengthened jog out to _Quadra Street_ via the bike path. 
 I am feeling last weekend tonight.
 
 <!---->
-## WEDNESDAY JAN 20
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## WEDNESDAY JAN 20 ☁️
+Sleep **4** | Fatigue **5** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -106,7 +106,7 @@ Mobility 22 minutes
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+After a so-so sleep last night, it was a 4 appendage effort to get out of bed this morning.  Good news is the first steps of the day were pain free for my right ankle but the rest of the body is stiff.
 
 
 <!---->
