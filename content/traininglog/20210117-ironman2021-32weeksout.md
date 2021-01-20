@@ -86,10 +86,13 @@ Today was cooler but sunny so the indoor ride was replaced with a clockwise loop
 
 I did ride with for a bit with another trackie; cool!
 <!---->
-### GOLDEN HOUR RIDE
+### GOLDEN HOUR RIDE, KING GEORGE TERRACE
 ![King George Terrace](/assets/jpg/ridepic-20210119.jpeg)
 
 The run was a slightly lengthened jog out to _Quadra Street_ via the bike path.  Again, no juice in the legs and if I had a chance to do this over, I probably would have cut this short to 30 minutes.  Fiblaris longus tendon, behind the lateral malleolus (to be specific) was not happy; so same ankle that I was complaining about recently except the tendon running behind the outer ankle bone instead of in front of it.
+
+I am feeling last weekend tonight.
+
 <!---->
 ## WEDNESDAY JAN 20
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
