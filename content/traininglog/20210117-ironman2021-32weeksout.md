@@ -110,9 +110,11 @@ After a so-so sleep last night, it was a 4 appendage effort to get out of bed th
 
 My right ankle did ok on the run tonight but maybe it was that the rest of me was feeling a bit beat up that made that ankle feel not so bad...
 
-With the intension of doing my typical _Craigflower Loop_, I needed to find another ~20 minutes to make up the difference for tonight's total time.  As I got to _Gorge Road_, I made a left thinking that I could join up with _Craigflower Road_ further south and finish my loop with some added time.  Once I got to the _Selkirk Trestle_ though, the night couldn't have been more perfect for a cruise along the shoreline; that's what I did and it was awesome.  The windless night made for a perfect reflections of the city lights on the water of the _Upper and Outer Harbour_.
+With the intension of doing my typical _Craigflower Loop_ plus a bit more, I needed figure out that "bit more" and account for another ~20 minutes to make tonight's scheduled total time.
+<!---->
+As I reached to _Gorge Road_, I made a left thinking that I could join up with _Craigflower Road_ further south and finish my loop with some added time.  Once I got to the _Selkirk Trestle_ though, I abandoned that plan.  This night couldn't have been more perfect for a cruise along the shoreline; it was dark, meditative and awesome.  The windless night made for a perfect reflections of the city lights on the water of the _Upper and Outer Harbour_.  I feel lucky to call this place home.
 
-I got to _Head Street_ and climbed up from there.  My thought was the hill would add to the "hiily terrain" component but in reviewing the activity, there wasn't as much elevation gain as I typically get on hilly course.  Just the same, I am left feeling like I did more than 10km and I am looking forward a day off from running.   
+At the end of the _Songhess Walkway_, I headed up _Head Street_; my thought was the hill would add to the "hiily terrain" component.  After reviewing the activity, there unfortunately wasn't as much elevation gain as I typically get on hilly run.  Just the same, I am left feeling like I did more than 10km and I am looking forward a tomorrow's day off from running.   
 
 <!---->
 ## THURSDAY JAN 21
