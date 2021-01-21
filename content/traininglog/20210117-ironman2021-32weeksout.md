@@ -116,6 +116,8 @@ At _Gorge Road_, I had an idea thinking that I could join up with _Craigflower R
 
 At the end of the _Songhess Walkway_, I headed up _Head Street_; my thought was the hill would add to tonight's "hiily terrain" component.  After reviewing the activity, unfortunately there wasn't as much elevation change as I typically get on hilly run.  Just the same, I am left feeling like I did more than 10km and I am looking forward a tomorrow's day off from running.   
 
+![Run Map](/assets/jpg/runmap-20210120.jpeg)
+
 <!---->
 ## THURSDAY JAN 21
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
