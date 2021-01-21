@@ -114,7 +114,7 @@ With the intension of doing my typical _Craigflower Loop_ plus a bit more, I nee
 <!---->
 At _Gorge Road_, I had an idea thinking that I could join up with _Craigflower Road_ further south and continue with my loop and some added time.  Once I got to the _Selkirk Trestle_ though, I abandoned that plan.  This night couldn't have been more perfect for a cruise along the shoreline; it was dark, meditative and awesome.  The windless night made for a perfect reflections of the city lights on the water of the _Upper and Outer Harbour_.  I feel lucky to call this place home.
 
-At the end of the _Songhess Walkway_, I headed up _Head Street_; my thought was the hill would add to tonight's "hiily terrain" component.  After reviewing the activity, unfortunately there wasn't as much elevation change as I typically get on hilly run.  Just the same, I am left feeling like I did more than 10km and I am looking forward a tomorrow's day off from running.   
+At the end of the _Songhess Walkway_, I headed up _Head Street_; my thought was the hill would add to tonight's "hiily terrain" component.  After reviewing the activity, there wasn't as much elevation change as I thought.  Just the same, my body  feels like I did more than 10km.   
 
 ![Run Map](/assets/jpg/runmap-20210120.jpeg)
 
