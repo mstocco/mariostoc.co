@@ -119,8 +119,8 @@ At the end of the _Songhess Walkway_, I headed up _Head Street_; my thought was 
 ![Run Map](/assets/jpg/runmap-20210120.jpeg)
 
 <!---->
-## THURSDAY JAN 21
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## THURSDAY JAN 21 ☁️
+Sleep **2** | Fatigue **3** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -131,7 +131,7 @@ Ride 65 minutes: 15 minutes easy spinning. 3x (:45 high cadence, :30 highER cade
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Amazing what a good night sleep will do.  My feet hit the floor this morning with more engergy than the past few days.
 
 
 <!---->
