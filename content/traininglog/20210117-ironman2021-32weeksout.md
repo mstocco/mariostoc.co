@@ -9,11 +9,11 @@ I have a good streak going so far this January.  My goal for this week is to kee
 ## SUMMARY
 I feel I like was **SURFING THE WHOLE WAVE**
 
-From peak to trough, this week had it all.  The week started with a solid [long run](javascript:flick('sun');) <sup>(peak)</sup> and ended with a 3 hour ride on fatigued legs <sub>(trough)</sub>.  This week also saw the [end of my streak](javascript:flick('fri');) of 22 consecutive days of at least one workout.  It was a week was just shy of **12 hours** of training.
+From peak to trough, this week had it all.  The week started with a solid [long run](javascript:flick('sun');) (peak) and ended with a 3 hour ride on fatigued legs (trough).  This week also saw the [end of my streak](javascript:flick('fri');) of 22 consecutive days of at least one workout.  It was a week was just shy of **12 hours** of training.
 
 Work/life balance was a bit harder this week; I did have to spend more time on the keyboard than normal.
 
-I ended the week with some memories of my dad.  I am not anywhere near over the loss of him.
+The week with some memories of my dad.  I am not anywhere near over the loss of him.
 
 ![First time in the "Fast Lane" though to be honest, it is all relative.](/assets/jpg/IMG_3069-977x550.jpeg?v2 Esquimalt Recreation Centre)
 
@@ -179,7 +179,7 @@ Mobility 20 minutes
 ### NOTES
 Total Time: **197 minutes** &nbsp; Distance: **80 km**
 
-Another day with dry road and that means I am on the road bike time.  Given that my ride [last Saturday](/ironman2021-33weeksout?sat) was close to 3 hours, it was a no brainer to do another loop out to _Lands End Road_.  This week, I reversed the direction of the route and rode it clockwise.  I also included the punchy, _Prospect Lake Road_ into the early part of the route.
+Another day with dry road and that means I am on the road bike time.  My ride [last Saturday](/ironman2021-33weeksout?sat) was close to 3 hours so it was a no brainer to do another ride out to _Lands End Road_.  This week, I reversed the direction of the route and rode it clockwise.  I also included the punchy, _Prospect Lake Road_ into the early part of the route.
 <!---->
 I felt a fatigued in my quads right from the start and the _Prospect Lake_ idea did not help to get me into the groove that I thought it would.  This was a _"soldier on"_ effort from start to finish as I did not feel anywhere near as fresh as a week ago.  The twinge in my piriformis didn't appear until the second hour this week (an improvement) and I really only noticed it once (_Mt. Newton X-Road_ area).
 
