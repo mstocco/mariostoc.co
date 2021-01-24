@@ -7,9 +7,13 @@ Week beginning [Sunday, January 17, 2021](javascript:flick('sun');)
 I have a good streak going so far this January.  My goal for this week is to keep that momentum going and to stay on top of a couple of niggles.
 
 ## SUMMARY
-I feel I like was...  
-<sup>(completed at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel I like was **SURFING THE WHOLE WAVE**
+
+Front the peak to the trough, this week had it all.  The week started with a confidence inspiring [long run](javascript:flick('sun');) (the peak) and ended with a 3 hour ride on fatigued legs.  This week also saw the [end of my streak](javascript:flick('fri');) of 22 consecutive days of at least one workout.  In between, I had 2 decent efforts in the pool, a meditative run and a time on the bike (indoors and out on the road).  This week was just shy of **12 hours** of training.
+
+Work/life balance was a bit harder this week; I did have to spend more time on the keyboard than normal.
+
+I ended the week with some memories of my dad.  I am not anywhere near over the loss of him.
 
 ![First time in the "Fast Lane" though to be honest, it is all relative.](/assets/jpg/IMG_3069-977x550.jpeg?v2 Esquimalt Recreation Centre)
 
@@ -129,14 +133,19 @@ Sleep **2** | Fatigue **3** | Stress **3** | Soreness **3**
 Ride 65 minutes: 15 minutes easy spinning. 3x (:45 high cadence, :30 highER cadence, :15 HighEST cadence, :30 easy after each) 1:00 easy. 5x 3:00 @ an effort you could hold for 30-40 minutes(20k effort or so) 3:00 easy spinning after each. 10 minutes easy to cool down. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **117 minutes**
 
 Amazing what a good night sleep will do.  My feet hit the floor this morning with more engergy than the past few days.
 
+At the pool, I was in Esquimalt's_"Fast Lane"_ for the second time.  I think I am over the mental hesitation of booking this lane.  I haven't seen the crowd that occupies the fast lane at _Crystal Pool_.  This workout, along with the swim on [Monday](javascript:flick('mon');), flowed well with everyone around me.
+
+Swimming 2200m is an easy ask by itself but I was challenged with the shorter, 10 second rests during the 8x25 sets.
+
+The ride on the trainer was uneventful and I had an Elite Men's XCO race on in the background.  The garage was noticeably colder tonight, even with the fan on its _lowest_ setting.
 
 <!---->
 ## FRIDAY JAN 22
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **4** | Fatigue **4** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -148,12 +157,15 @@ Mobility 30 minutes
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+_"All good things come to and end."_
 
+The streak is over and to be honest, I am feeling ok about it.  This was a long day on the keyboard and even though it was sunny, I more felt more motivated to finish a project for work than I did to go outside.  The procrastination to go for a run meant that be the time I was finished work, it was dark, dinner time and it was colder than normal outside.  Zero motivation to lace up the sneakers.
+
+Instead, I cooked dinner with Carina and spent the evening with a lacrosse ball focusing on some tender quads and hamstrings.
 
 <!---->
-## SATURDAY JAN 23
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## SATURDAY JAN 23 ⛅️
+Sleep **4** | Fatigue **4** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -164,6 +176,11 @@ Effort is easy to steady. Ok to have some pressure on the pedals, as long as you
 Mobility 20 minutes
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **197 minutes** &nbsp; Distance: **80 km**
 
-&mdash;
+Dry roads to me is road bike time and give I was close to 3 hours [last Saturday](/ironman2021-33weeksout?sat), it was a no brainer to do a _Lands End Road_ loop.  This week, I reversed the direction and road the loop clockwise and included the punchy, _Prospect Lake Road_ into the early part of the route.  I felt a bit fatigued in my quads to start and I don't know if the _Prospect Lake_ idea helped get me into a groove.  I certainly did not feel as fresh as last week.  This was a _"soldier on"_ effort from start to finish.  The twinge in my piriformis didn't appear until the second hour this week (an improvement).
+
+Calories and fluids:  
+I packed 36 jujubes and consumed 32 (~530 calories).  I also upped the concentration of Gatorade in my bottles from 53g to 66g (~250 calories each) and consumed a litre (~300 calories).  No GI today though I can hear the talk I may get of next Thursday regarding just 1 litre of fluid.  This did meet the goal of minimum 200 calories per hour at around 275 cals/hour.  I could do more if it was warmer.
+
+Before bed, my legs had a nice ache going; stimulus received.
