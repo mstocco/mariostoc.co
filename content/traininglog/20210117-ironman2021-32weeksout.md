@@ -189,4 +189,4 @@ I packed 36 jujubes and consumed 32 (~530 calories).  I also upped the concentra
 Before bed, my legs had a nice ache going; stimulus received.
 <!---->
 ### LANDS END LOOP CLOCKWISE
-![Ride Map](/assets/jpg/ridemap-20210123.jpeg)
+![Ride Map](/assets/jpg/ridemap-20210123.jpeg?v2)
