@@ -9,7 +9,7 @@ I have a good streak going so far this January.  My goal for this week is to kee
 ## SUMMARY
 I feel I like was **SURFING THE WHOLE WAVE**
 
-Front the peak to the trough, this week had it all.  The week started with a confidence inspiring [long run](javascript:flick('sun');) (the peak) and ended with a 3 hour ride on fatigued legs.  This week also saw the [end of my streak](javascript:flick('fri');) of 22 consecutive days of at least one workout.  In between, I had 2 decent efforts in the pool, a meditative run and a time on the bike (indoors and out on the road).  This week was just shy of **12 hours** of training.
+Front the peak to the trough, this week had it all.  The week started with a solid [long run](javascript:flick('sun');) <sup>(the peak)</sup> and ended with a 3 hour ride on fatigued legs <sub>(the trough)</sub>.  This week also saw the [end of my streak](javascript:flick('fri');) of 22 consecutive days of at least one workout.  It was a week was just shy of **12 hours** of training.
 
 Work/life balance was a bit harder this week; I did have to spend more time on the keyboard than normal.
 
@@ -95,7 +95,7 @@ I did ride with for a bit with another trackie; cool!
 
 The run was a slightly lengthened jog out to _Quadra Street_ via the bike path.  Again, no juice in the legs and if I had a chance to do this over, I probably would have cut this short to 30 minutes.  Fiblaris longus tendon, behind the lateral malleolus (to be specific) was not happy; so same ankle that I was complaining about recently except the tendon running behind the outer ankle bone instead of in front of it.
 
-I am feeling last weekend tonight.
+I can feel the workouts from last weekend.
 
 <!---->
 ## WEDNESDAY JAN 20 ☁️
@@ -137,9 +137,10 @@ Total Time: **117 minutes**
 
 Amazing what a good night sleep will do.  My feet hit the floor this morning with more engergy than the past few days.
 
+<!---->
 At the pool, I was in Esquimalt's_"Fast Lane"_ for the second time.  I think I am over the mental hesitation of booking this lane.  I haven't seen the crowd that occupies the fast lane at _Crystal Pool_.  This workout, along with the swim on [Monday](javascript:flick('mon');), flowed well with everyone around me.
 
-Swimming 2200m is an easy ask by itself but I was challenged with the shorter, 10 second rests during the 8x25 sets.
+Swimming 2200m is an easy ask by itself but I was challenged with the shorter, 10 second rests during the 8x25 sets.  I felt a good upper body _"pump"_ after this swim (like I had just left the gym).
 
 The ride on the trainer was uneventful and I had an Elite Men's XCO race on in the background.  The garage was noticeably colder tonight, even with the fan on its _lowest_ setting.
 
@@ -178,7 +179,9 @@ Mobility 20 minutes
 ### NOTES
 Total Time: **197 minutes** &nbsp; Distance: **80 km**
 
-Dry roads to me is road bike time and give I was close to 3 hours [last Saturday](/ironman2021-33weeksout?sat), it was a no brainer to do a _Lands End Road_ loop.  This week, I reversed the direction and road the loop clockwise and included the punchy, _Prospect Lake Road_ into the early part of the route.  I felt a bit fatigued in my quads to start and I don't know if the _Prospect Lake_ idea helped get me into a groove.  I certainly did not feel as fresh as last week.  This was a _"soldier on"_ effort from start to finish.  The twinge in my piriformis didn't appear until the second hour this week (an improvement).
+Another day with dry road and that means I am on the road bike time.  Given that my ride [last Saturday](/ironman2021-33weeksout?sat) was close to 3 hours, it was a no brainer to do another loop out to _Lands End Road_.  This week, I reversed the direction of the route and rode it clockwise.  I also included the punchy, _Prospect Lake Road_ into the early part of the route.
+<!---->
+I felt a bit fatigued in my quads to start and I don't know if the _Prospect Lake_ idea helped get me into a groove.  I certainly did not feel as fresh as last week.  This was a _"soldier on"_ effort from start to finish.  The twinge in my piriformis didn't appear until the second hour this week (an improvement).
 
 Calories and fluids:  
 I packed 36 jujubes and consumed 32 (~530 calories).  I also upped the concentration of Gatorade in my bottles from 53g to 66g (~250 calories each) and consumed a litre (~300 calories).  No GI today though I can hear the talk I may get of next Thursday regarding just 1 litre of fluid.  This did meet the goal of minimum 200 calories per hour at around 275 cals/hour.  I could do more if it was warmer.
