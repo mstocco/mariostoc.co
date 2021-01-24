@@ -13,7 +13,7 @@ From peak to trough, this week had it all.  The week started with a solid [long 
 
 Work/life balance was a bit harder this week; I did have to spend more time on the keyboard than normal.
 
-The week with some memories of my dad.  I am not anywhere near over the loss of him.
+The week ended with some memories of my dad.  I am not anywhere near over the loss of him.
 
 ![First time in the "Fast Lane" though to be honest, it is all relative.](/assets/jpg/IMG_3069-977x550.jpeg?v2 Esquimalt Recreation Centre)
 
@@ -179,7 +179,7 @@ Mobility 20 minutes
 ### NOTES
 Total Time: **197 minutes** &nbsp; Distance: **80 km**
 
-Another day with dry road and that means I am on the road bike time.  My ride [last Saturday](/ironman2021-33weeksout?sat) was close to 3 hours so it was a no brainer to do another ride out to _Lands End Road_.  This week, I reversed the direction of the route and rode it clockwise.  I also included the punchy, _Prospect Lake Road_ into the early part of the route.
+Another January day with dry roads and that means I am on the road bike.  My ride [last Saturday](/ironman2021-33weeksout?sat) was close to 3 hours so it was a no brainer to do another ride out to _Lands End Road_.  This week, I reversed the direction of the route and rode it clockwise.  I also included the punchy, _Prospect Lake Road_ into the early part of the route.
 <!---->
 I felt a fatigued in my quads right from the start and the _Prospect Lake_ idea did not help to get me into the groove that I thought it would.  This was a _"soldier on"_ effort from start to finish as I did not feel anywhere near as fresh as a week ago.  The twinge in my piriformis didn't appear until the second hour this week (an improvement) and I really only noticed it once (_Mt. Newton X-Road_ area).
 
@@ -187,3 +187,6 @@ I felt a fatigued in my quads right from the start and the _Prospect Lake_ idea 
 I packed 36 jujubes and consumed 32 (~530 calories).  I also upped the concentration of Gatorade in my bottles from 53g to 66g (~250 calories each) and consumed a litre (~300 calories).  No GI today though I can hear the talk I may get of next Thursday regarding just 1 litre of fluid.  This did meet the goal of minimum 200 calories per hour at around 275 cals/hour.  I could do more if it was warmer.
 
 Before bed, my legs had a nice ache going; stimulus received.
+<!---->
+### LANDS END LOOP CLOCKWISE
+![Ride Map](/assets/jpg/ridemap-20210123.jpeg)
