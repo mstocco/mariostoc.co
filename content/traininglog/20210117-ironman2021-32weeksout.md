@@ -144,6 +144,9 @@ Swimming 2200m is an easy ask by itself but I was challenged with the shorter, 1
 
 The ride on the trainer was uneventful and I had an Elite Men's XCO race on in the background.  The garage was noticeably colder tonight, even with the fan on its _lowest_ setting.
 
+### SWIM PACES
+![Swim Pace Chart](/assets/jpg/swim-20210121.jpeg)
+
 <!---->
 ## FRIDAY JAN 22
 Sleep **4** | Fatigue **4** | Stress **4** | Soreness **3**  
