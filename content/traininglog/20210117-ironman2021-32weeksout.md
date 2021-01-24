@@ -186,7 +186,9 @@ I felt a fatigued in my quads right from the start and the _Prospect Lake_ idea 
 ### Calories and fluids
 I packed 36 jujubes and consumed 32 (~530 calories).  I also upped the concentration of Gatorade in my bottles from 53g to 66g (~250 calories each) and consumed a litre (~300 calories).  No GI today though I can hear the talk I may get of next Thursday regarding just 1 litre of fluid.  This did meet the goal of minimum 200 calories per hour at around 275 cals/hour.  I could do more if it was warmer.
 
+---
+
 Before bed, my legs had a nice ache going; stimulus received.
 <!---->
 ### LANDS END LOOP CLOCKWISE
-![Ride Map](/assets/jpg/ridemap-20210123.jpeg?v2)
+![Ride Map](/assets/jpg/ridemap-20210123.jpeg?v3)
