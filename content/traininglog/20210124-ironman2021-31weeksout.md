@@ -35,6 +35,9 @@ I was on the trainer pretty quick after getting home; I even stayed in my run ki
 
 I rolled out the hamstrings, adductors and glutes really well after the spin too.
 
+### INNER HARBOUR SHORELINE
+![Run Map](/assets/jpg/runmap-20210124.jpeg)
+
 <!---->
 ## MONDAY JAN 25
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
