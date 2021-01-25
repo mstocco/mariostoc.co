@@ -142,13 +142,13 @@ At the pool, I was in Esquimalt's_"Fast Lane"_ for the second time.  I think I a
 
 Swimming 2200m is an easy ask by itself but I was challenged with the shorter, 10 second rests during the 8x25 sets.  I felt a good upper body _"pump"_ after this swim (like I had just left the gym).
 
-The ride on the trainer was uneventful and I had an Elite Men's XCO race on in the background.  The garage was noticeably colder tonight, even with the fan on its _lowest_ setting.
-
 ### SWIM PACES
 ![Swim Pace Chart](/assets/jpg/swim-20210121.jpeg)
 
+The ride on the trainer was uneventful and I had an Elite Men's XCO race on in the background.  The garage was noticeably colder tonight, even with the fan on its _lowest_ setting.
+
 <!---->
-## FRIDAY JAN 22
+## FRIDAY JAN 22 ☀️
 Sleep **4** | Fatigue **4** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -163,7 +163,7 @@ Total Time: **0 minutes**
 
 _"All good things come to and end."_
 
-The streak is over and to be honest, I am feeling ok about it.  This was a long day on the keyboard and even though it was sunny, I more felt more motivated to finish a project for work than I did to go outside.  The procrastination to go for a run meant that be the time I was finished work, it was dark, dinner time and it was colder than normal outside.  Zero motivation to lace up the sneakers.
+The streak is over and to be honest, I am feeling ok about it.  This was a long day on the keyboard and even though it was sunny, I more felt more motivated to finish a project for work than I did to go outside.  Soon it was dark, dinner time and it was colder than normal outside; little motivation to lace up the sneakers.
 
 Instead, I cooked dinner with Carina and spent the evening with a lacrosse ball focusing on some tender quads and hamstrings.
 
@@ -182,12 +182,14 @@ Mobility 20 minutes
 ### NOTES
 Total Time: **197 minutes** &nbsp; Distance: **80 km**
 
-Another January day with dry roads and that means I am on the road bike.  My ride [last Saturday](/ironman2021-33weeksout?sat) was close to 3 hours so it was a no brainer to do another ride out to _Lands End Road_.  This week, I reversed the direction of the route and rode it clockwise.  I also included the punchy, _Prospect Lake Road_ into the early part of the route.
+Another January day with dry roads and that means I am on the road bike.  [Last Saturday](/ironman2021-33weeksout?sat) was close to a 3 hour ride so it was a no brainer to do another trip out to _Lands End Road_.  This week, I reversed the direction of the route and rode it clockwise.  I also included the punchy, _Prospect Lake Road_ into the early part of the route.
 <!---->
-I felt a fatigued in my quads right from the start and the _Prospect Lake_ idea did not help to get me into the groove that I thought it would.  This was a _"soldier on"_ effort from start to finish as I did not feel anywhere near as fresh as a week ago.  The twinge in my piriformis didn't appear until the second hour this week (an improvement) and I really only noticed it once (_Mt. Newton X-Road_ area).
+My quads felt fatigued right from the start and that _Prospect Lake_ idea did not help to get me into the groove that I thought it would.  This was a _"soldier on"_ effort from start to finish as I did not feel anywhere near as fresh as a week ago.  It was noticeably cooler than last week too.
+
+The twinge in my piriformis didn't appear until the second hour this week (an improvement) and I really only noticed it once (_Mt. Newton X-Road_ area).
 
 ### Calories and fluids
-I packed 36 jujubes and consumed 32 (~530 calories).  I also upped the concentration of Gatorade in my bottles from 53g to 66g (~250 calories each) and consumed a litre (~300 calories).  No GI today though I can hear the talk I may get of next Thursday regarding just 1 litre of fluid.  This did meet the goal of minimum 200 calories per hour at around 275 cals/hour.  I could do more if it was warmer.
+I packed 36 jujubes and consumed 32 (~530 calories).  I also upped the concentration of Gatorade in my bottles from 53g to 66g (~250 calories each) and consumed a litre (~300 calories).  No GI today though I can hear the talk I may get of next Thursday regarding just 1 litre of fluid.  This did meet the goal of minimum 200 calories per hour at around 275 cals/hour.  The more I do this, the better I will get at it.
 
 ---
 
