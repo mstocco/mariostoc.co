@@ -4,7 +4,7 @@ Week beginning [Sunday, January 24, 2021](javascript:flick('sun');)
 **31 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-&mdash; 
+My goal this week is to be a bit more recovery _"focused"_ .  There is a MTB ride scheduled for [Saturday](javascript:flick('sat');) which looks like fun too.
 
 ## SUMMARY
 I feel I like was...  
