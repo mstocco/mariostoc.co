@@ -27,7 +27,9 @@ Effort is easy/covering ground for the entire run.
 ### NOTES
 Total Time: **148 minutes**
 
-For the first time in a what feels like a month, my soleus felt tender to start the run; that didn't last very long though (less than a kilometre).  What did last was **heavy legs**.  What a difference a week makes!  [Last Sunday](/ironman2021-32weeksout?sun) I was feeling light and energetic on my feet; today was the opposite.  Regardless, I kept to the plan of easy effort and aerobically, that was the result.  I split the 100 minute schedule into 3rds and had a gel (Gu Lemonade flavoured _"Roctane"_) at the 33rd and 66th minute.  I finished 500ml of water too.  Taking a full gel in one go instead of smaller portions will need some practice as the second packet didn't sit 100% comfortably.  
+For the first time in a what feels like a month, my soleus felt tender to start the run; that didn't last very long though (less than a kilometre).  What did last was **heavy legs**.  What a difference a week makes!  [Last Sunday](/ironman2021-32weeksout?sun) I was feeling light and energetic on my feet; today was the opposite.  Regardless, I kept to the plan of easy effort and aerobically, that was the result.
+<!---->
+I split the 100 minute scheduled time into 3rds and had a gel (Gu Lemonade flavoured _"Roctane"_) at the 33rd and 66th minute.  I finished 500ml of water too.  Taking a full gel in one go instead of smaller portions will need some practice as the second packet didn't sit 100% comfortably.
 
 I was on the trainer pretty quick after getting home; I even stayed in my run kit (but with cycling shoes).  As soon as I started pedalling, I noticed my right vastus medialis muscle was talking to me.  I kept the turnover light and settled into the 2nd quarter of the _Bills vs Chiefs_ game.  Being on the trainer without a chamois was ok (or I was too tired to notice).
 
