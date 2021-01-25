@@ -135,7 +135,7 @@ Ride 65 minutes: 15 minutes easy spinning. 3x (:45 high cadence, :30 highER cade
 ### NOTES
 Total Time: **117 minutes**
 
-Amazing what a good night sleep will do.  My feet hit the floor this morning with more engergy than the past few days.
+Amazing what a good night sleep will do.  My feet hit the floor this morning with more energy than the past few days.
 
 <!---->
 At the pool, I was in Esquimalt's_"Fast Lane"_ for the second time.  I think I am over the mental hesitation of booking this lane.  I haven't seen the crowd that occupies the fast lane at _Crystal Pool_.  This workout, along with the swim on [Monday](javascript:flick('mon');), flowed well with everyone around me.
