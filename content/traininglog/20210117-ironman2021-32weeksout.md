@@ -9,7 +9,7 @@ I have a good streak going so far this January.  My goal for this week is to kee
 ## SUMMARY
 I feel I like was **SURFING THE WHOLE WAVE**
 
-From peak to trough, this week had it all.  The week started with a solid [long run](javascript:flick('sun');) (peak) and ended with a [3 hour ride](javascript:flick('sat');) on fatigued legs (trough).  This week also saw the end of [my streak](javascript:flick('fri');) of 22 consecutive days of at least one workout.  It was a training week just shy of **12 hours**.
+From peak to trough, this week had it all.  The week started with a solid [long run](javascript:flick('sun');) (peak) and ended with a [3 hour ride](javascript:flick('sat');) on fatigued legs (trough).  This week also saw the end of [my streak](javascript:flick('fri');) of 22 consecutive days of at least one workout.  This week was just shy of **12 hours**.
 
 Work/life balance was a bit harder this week; I did have to spend more time on the keyboard than normal.
 
