@@ -40,18 +40,19 @@ I rolled out the hamstrings, adductors and glutes really well after the spin too
 
 <!---->
 ## MONDAY JAN 25
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **5** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-**Off S/B/R**  
+
+<mark><strong>Off S/B/R</strong></mark>
+
 Mobility 30 minutes
 
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
-
+I had an okay sleep last night but my legs are quite stiff and sore today.
 
 <!---->
 ## TUESDAY JAN 26
