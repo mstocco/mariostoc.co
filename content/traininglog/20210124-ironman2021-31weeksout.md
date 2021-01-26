@@ -39,7 +39,7 @@ I rolled out the hamstrings, adductors and glutes really well after the spin too
 ![Run Map](/assets/jpg/runmap-20210124.jpeg)
 
 <!---->
-## MONDAY JAN 25
+## MONDAY JAN 25 🌤
 Sleep **3** | Fatigue **5** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
