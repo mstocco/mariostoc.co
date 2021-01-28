@@ -55,8 +55,8 @@ Total Time: **0 minutes**
 I had an okay sleep last night but my legs are quite stiff and sore today.
 
 <!---->
-## TUESDAY JAN 26
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## TUESDAY JAN 26 ⛅️
+Sleep **3** | Fatigue **4** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -64,14 +64,14 @@ Ride 60 minutes. Easy spinning. Any bike. Inside or outside.
 Run 45 minutes. Flat route. Easy effort.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **100 minutes**
 
-&mdash; 
+Getting going after a day off is like the first stride in a run workout.
 
-
+I choice to put the front wheel on my TT bike and balance on the rollers tonight.  I felt pretty good on the bike; easy effort with a nice turnover.  The run was not quite off the bike.  I needed to bundle up with some winter running kit.  I was going to do a typical (but lengthened) out and back to _Quadra Street_ on the bike path but when I reached the turnaround, I decided to run on the lit sidewalks instead of the pitch black trail.  That had me head up the shallow but stead grade to _Tatersall_; I was worried that I would be longer than the scheduled 45 minutes but evidently, I was back to my starting point in 40.
 <!---->
-## WEDNESDAY JAN 27
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## WEDNESDAY JAN 27 ☁️
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -79,14 +79,15 @@ Ride 90 minutes: Most likely on the trainer. 20 minutes easy to warm up. 5x :15 
 Mobility 15 minutes
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **90 minutes**
 
-&mdash; 
+I was up far early that I had hoped.  Today was a harder day for focusing; work was a chore.  I could have pushed away from the keyboard in the afternoon and gone for a road ride but I didn't have much of an appetite for getting cold (I can see snow on the _Malahat_).
 
+When I did get into the garage for the bike workout, I was tired but I found a groove early on and this ended up being a pretty solid effort.  I did forget to bring my HR strap with me to the garage so I don't have heart rate data but there I did get a pretty good burn in the quads.
 
 <!---->
 ## THURSDAY JAN 28
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **5** | Fatigue **3** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -99,7 +100,7 @@ Run 60 minutes: 35 minutes easy/flat running. 12x :30 strides (Keep these contro
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Both Carina and I woke with headaches this morning; this feels like a hangover or an MSG headache and it may have been the sauce used in a new recipe for dinner.  Needless to say, no leftovers for me this afternoon.
 
 
 <!---->
