@@ -69,6 +69,7 @@ Total Time: **100 minutes**
 Getting going after a day off is like the first stride in a run workout.
 
 I choice to put the front wheel on my TT bike and balance on the rollers tonight.  I felt pretty good on the bike; easy effort with a nice turnover.  The run was not quite off the bike.  I needed to bundle up with some winter running kit.  I was going to do a typical (but lengthened) out and back to _Quadra Street_ on the bike path but when I reached the turnaround, I decided to run on the lit sidewalks instead of the pitch black trail.  That had me head up the shallow but stead grade to _Tattersall Drive_; I was worried that I would be longer than the scheduled 45 minutes but evidently, I was back to my starting point in 40.
+
 <!---->
 ## WEDNESDAY JAN 27 ☁️
 Sleep **3** | Fatigue **3** | Stress **4** | Soreness **4**  
@@ -105,7 +106,7 @@ Both Carina and I woke with headaches this morning; this feels like a hangover o
 
 <!---->
 ## FRIDAY JAN 29
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -117,12 +118,13 @@ Mobility 25 minutes
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I had an ok sleep last night but focus at work was a bit off.
 
+I did feel good in the pool tonight though.  I was expecting to feel sore, sluggish, tired, all of the above but none of those things transpired.  The 8 rounds of 25m/75m were solid efforts with consistent times for the _"fast"_ lengths.
 
 <!---->
 ## SATURDAY JAN 30
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **2** | Fatigue **2** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
