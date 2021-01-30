@@ -82,13 +82,16 @@ Mobility 15 minutes
 ### NOTES
 Total Time: **90 minutes**
 
-I was up far early than I wanted.  Today was a harder to focus day at work.  I could have pushed away from the keyboard in the afternoon and gone for a road ride but I didn't have much of an appetite for getting cold (Looking out the window, I can see a fresh dusting of snow on the _Malahat_).
+I was up far early than I wanted.  
+
+Today was a harder to focus day at work.  I could have pushed away from the keyboard in the afternoon and gone for a road ride but I didn't have much of an appetite for getting cold (Looking out the window, I can see a fresh dusting of snow on the _Malahat_).
 <!---->
 When I did get into the garage for the bike workout, I was tired but I found a groove early on and this ended up being a pretty **solid effort**.  I didn't record any heart rate data (forgot the strap) but there I did get a pretty good burn in the quads.
 
 ### REVOLUTIONS PER MINUTE
 ![Cadence Chart](/assets/jpg/cadence-20210127.jpeg)
 
+I had a XC bike race from 2018 on the screen with the volume down and podcast playing in the background.  Time for dinner!
 
 <!---->
 ## THURSDAY JAN 28 ⛅️
