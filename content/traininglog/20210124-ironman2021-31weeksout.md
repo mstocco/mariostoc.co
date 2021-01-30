@@ -87,7 +87,7 @@ I was up far early that I had hoped.  Today was a harder day for focusing; work 
 When I did get into the garage for the bike workout, I was tired but I found a groove early on and this ended up being a pretty solid effort.  I did forget to bring my HR strap with me to the garage so I don't have heart rate data but there I did get a pretty good burn in the quads.
 
 <!---->
-## THURSDAY JAN 28
+## THURSDAY JAN 28 ⛅️
 Sleep **5** | Fatigue **3** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -103,9 +103,12 @@ Total Time: **0 minutes**
 
 Both Carina and I woke with headaches this morning; this feels like a hangover or an MSG headache and it may have been the sauce used in a new recipe for dinner.  Needless to say, no leftovers for me this afternoon.
 
+It was Esquimalt today although the maintenance at Crystal Pool is completed and it is accepting reservations for February as of today; I grabbed 2 morning slots 2 weeks from now.  Today's swim felt good; lot's of pull-buoy work and I am beginning to notice some asymmetries between my dominant and non-dominant sides.  Cool!  Something to work on.
+
+The run was what it was.  It felt like a run after a 2200m swim; not fresh but not wrecked either.  The first 4 strides sucked and felt terribly awkward.  The last 4 strides were the opposite, feeling comfortable and controlled.
 
 <!---->
-## FRIDAY JAN 29
+## FRIDAY JAN 29 ☁️
 Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
