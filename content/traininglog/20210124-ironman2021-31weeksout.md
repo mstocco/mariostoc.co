@@ -122,6 +122,8 @@ I had an ok sleep last night but focus at work was a bit off.
 
 I did feel good in the pool tonight though.  I was expecting to feel sore, sluggish, tired, all of the above but none of those things transpired.  The 8 rounds of 25m/75m were solid efforts with consistent times for the _"fast"_ lengths.
 
+![Swim Paces](/assets/jpg/swim-20210129.jpeg)
+
 <!---->
 ## SATURDAY JAN 30
 Sleep **2** | Fatigue **2** | Stress **2** | Soreness **3**  
