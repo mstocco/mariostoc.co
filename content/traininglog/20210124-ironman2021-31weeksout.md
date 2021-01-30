@@ -107,6 +107,9 @@ It was Esquimalt Pool for today's swim although the maintenance at Crystal Pool 
 
 The run was what it was.  It felt like a run after a 2200m swim; not fresh but not wrecked either.  The first 4 strides sucked and felt terribly awkward.  The last 4 strides were the opposite, feeling comfortable and controlled.
 
+### OUT AND BACK, ESQUIMALT ROAD
+![Run Map](/assets/jpg/runmap-20210128.jpeg)
+
 <!---->
 ## FRIDAY JAN 29 ☁️
 Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**  
