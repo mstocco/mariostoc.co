@@ -66,9 +66,7 @@ Run 45 minutes. Flat route. Easy effort.
 ### NOTES
 Total Time: **100 minutes**
 
-Getting going after a day off is like the first stride in a run workout.
-
-I choice to put the front wheel on my TT bike and balance on the rollers tonight.  I felt pretty good on the bike; easy effort with a nice turnover.  The run was not quite off the bike.  I needed to bundle up with some winter running kit.  I was going to do a typical (but lengthened) out and back to _Quadra Street_ on the bike path but when I reached the turnaround, I decided to run on the lit sidewalks instead of the pitch black trail.  That had me head up the shallow but stead grade to _Tattersall Drive_; I was worried that I would be longer than the scheduled 45 minutes but evidently, I was back to my starting point in 40.
+I choice to put the front wheel on my TT bike and balance **on the rollers** tonight.  I felt pretty good on the bike; easy effort with a nice turnover.  The run was not quite off the bike.  I needed to bundle up with some winter running kit.  I was going to do a typical (but lengthened) out and back to _Quadra Street_ on the bike path but when I reached the turnaround, I decided to run on the lit sidewalks instead of the pitch black trail.  That had me head up the shallow but stead grade to _Tattersall Drive_; I was worried that I would be longer than the scheduled 45 minutes but evidently, I was back to my starting point in 40.
 
 <!---->
 ## WEDNESDAY JAN 27 ☁️
