@@ -102,8 +102,8 @@ Run 60 minutes: 35 minutes easy/flat running. 12x :30 strides (Keep these contro
 Total Time: **110 minutes**
 
 Both Carina and I woke with headaches this morning; this feels like a hangover or an MSG headache and it may have been the sauce used in a new recipe for dinner.  Needless to say, no leftovers for me this afternoon.
-
-It was Esquimalt today although the maintenance at Crystal Pool is completed and it is accepting reservations for February as of today; I grabbed 2 morning slots 2 weeks from now.  Today's swim felt good; lot's of pull-buoy work and I am beginning to notice some asymmetries between my dominant and non-dominant sides.  Cool!  Something to work on.
+<!---->
+It was Esquimalt Pool for today's swim although the maintenance at Crystal Pool is completed and it is accepting reservations for February as of today; I grabbed 2 morning slots (50m) at Crystal Pool, 2 weeks from now.  Today's swim felt good to great; lot's of pull-buoy work and I am getting comfortable enough to notice some asymmetries between my dominant and non-dominant sides.  Cool!  Something I think I can improve on.
 
 The run was what it was.  It felt like a run after a 2200m swim; not fresh but not wrecked either.  The first 4 strides sucked and felt terribly awkward.  The last 4 strides were the opposite, feeling comfortable and controlled.
 
