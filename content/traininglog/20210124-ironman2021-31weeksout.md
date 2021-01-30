@@ -99,7 +99,7 @@ Sleep **5** | Fatigue **3** | Stress **4** | Soreness **3**
 Run 60 minutes: 35 minutes easy/flat running. 12x :30 strides (Keep these controlled!), :45 easy running after each. 10 minutes easy to finish up
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **110 minutes**
 
 Both Carina and I woke with headaches this morning; this feels like a hangover or an MSG headache and it may have been the sauce used in a new recipe for dinner.  Needless to say, no leftovers for me this afternoon.
 
@@ -119,7 +119,7 @@ Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**
 Mobility 25 minutes
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **50 minutes**
 
 I had an ok sleep last night but focus at work was a bit off.
 
