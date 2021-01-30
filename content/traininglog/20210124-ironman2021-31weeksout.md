@@ -82,9 +82,9 @@ Mobility 15 minutes
 ### NOTES
 Total Time: **90 minutes**
 
-I was up far early that I had hoped.  Today was a harder day for focusing; work was a chore.  I could have pushed away from the keyboard in the afternoon and gone for a road ride but I didn't have much of an appetite for getting cold (I can see snow on the _Malahat_).
+I was up far early than I wanted.  Today was a harder to focus day at work.  I could have pushed away from the keyboard in the afternoon and gone for a road ride but I didn't have much of an appetite for getting cold (I can see snow on the _Malahat_).
 
-When I did get into the garage for the bike workout, I was tired but I found a groove early on and this ended up being a pretty solid effort.  I did forget to bring my HR strap with me to the garage so I don't have heart rate data but there I did get a pretty good burn in the quads.
+When I did get into the garage for the bike workout, I was tired but I found a groove early on and this ended up being a pretty **solid effort**.  I didn't record any heart rate data (forgot the strap) but there I did get a pretty good burn in the quads.
 
 <!---->
 ## THURSDAY JAN 28 ⛅️
