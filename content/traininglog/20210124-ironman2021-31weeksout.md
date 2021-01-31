@@ -7,12 +7,11 @@ Week beginning [Sunday, January 24, 2021](javascript:flick('sun');)
 My goal this week is to be a bit more recovery _"focused"_ .  There is a MTB ride scheduled for [Saturday](javascript:flick('sat');) which looks like fun too.
 
 ## SUMMARY
-I feel I like was...  
-<sup>(completed at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel I like was **STAYING IN MY LANE**
 
 
-<!---->
+![Prospect Lake](/assets/jpg/IMG_3087-977x550.jpeg)
+
 ## SUNDAY JAN 24 ☁️
 Sleep **4** | Fatigue **5** | Stress **1** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -149,6 +148,13 @@ Aiming for over a liter of liquid and at least 750 calories.
 Off the bike: Run 30 minutes. Flat route. Easy effort. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Moving Time: **165 minutes**
 
-&mdash; 
+The weather was nice enough to go either way, road bike or mountain bike.  I picked the mountain bike just because it is a bit of a different stimulus than the _"Lands End Loop"_ that I have been riding the past couple of weekends.
+
+I looked on the map and thought I would be able to link Thetis and Mount Work Parks using the Mount Work Park Entrance off Munn Road.  Both trails from this spot were marked hikers only (no biking).  I wasn't into riding down _Munn Road_ from here so I headed up and over, turned right and entered the north end of the park off of _Ross Durrance Road_.
+
+It was a grunt for me to get up and over the top of Regional Trail North but once recovered on the way down, I took my favourite _Executive West_ trail out of _Mount Work Park_.
+
+
+500 calories in jujubes and 330 calories in lemonade mixed in 1.3 litres of water
