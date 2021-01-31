@@ -12,7 +12,7 @@ I feel I like was **STAYING ON SCHEDULE**
 The goal was to get a bit more recovery in this week and for the most part, I think that was accomplished.  I don't feel beat 
 up or run down even though my cumulative training time for this week (11:43) was within 5 minutes of [last week](ironman2021-32weeksout).  
 
-Work has given me an additional project which will be give me an opportunity to test my time management abilities in the upcoming weeks.
+Work has given me an additional project which will be an opportunity to test my time management abilities in the upcoming weeks...
 
 ![Still a bit to cold for an open water swim; it is January after all.](/assets/jpg/IMG_3087-977x550.jpeg Prospect Lake, Saanich, BC)
 
