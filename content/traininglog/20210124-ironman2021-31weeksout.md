@@ -113,7 +113,7 @@ Total Time: **110 minutes**
 
 Both Carina and I woke with headaches this morning; this feels like a hangover or an MSG headache and it may have been the sauce used in a new recipe for dinner.  Needless to say, no leftovers for me this afternoon.
 <!---->
-It was the _Esquimalt Pool_ for today's swim.  The maintenance at _Crystal Pool_ hass completed and they are accepting reservations for February as of today; I grabbed 2 morning slots (50m) at Crystal Pool, 2 weeks from now.  Today's swim felt good to great; lot's of pull-buoy work and I am **getting comfortable** enough to notice some asymmetries between my dominant and non-dominant sides.  Cool!  Something I think I can improve on.
+It was the _Esquimalt Pool_ for today's swim.  The maintenance at _Crystal Pool_ has completed and they are accepting reservations for February as of today; I grabbed 2 morning slots (50m) at Crystal Pool, 2 weeks from now.  Today's swim felt good to great; lot's of pull-buoy work and I am **getting comfortable** enough to notice some asymmetries between my dominant and non-dominant sides.  Cool!  Something I think I can improve on.
 
 The run was what it was.  It felt like a run after a 2200m swim; not fresh but not wrecked either.  The first 4 strides sucked and felt terribly awkward.  The last 4 strides were the opposite, feeling comfortable and controlled.
 
@@ -164,3 +164,8 @@ This put me on _Regional Trail North_ and it was a grunt for me to get up and ov
 
 **Calories Consumed :**  500 calories in jujubes and 330 calories in lemonade crystals mixed in 1.3 litres of water.  There was 100ml left in my camelback bladder when I got home.  I'd round down to call it 800 calories total.
 
+---
+I did not run off the bike tonight.  I was needed at home.
+<!---->
+### MUNN ROAD, THE FUN WAY
+![Ride Map](/assets/jpg/ridemap-20210130.jpeg)
