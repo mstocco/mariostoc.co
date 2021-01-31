@@ -55,6 +55,8 @@ Total Time: **0 minutes**
 
 I had an okay sleep last night but my legs are quite stiff and sore today.
 
+Mondays are generally a busy day at work and today was no different.
+
 <!---->
 ## TUESDAY JAN 26 ⛅️
 Sleep **3** | Fatigue **4** | Stress **4** | Soreness **4**  
@@ -111,7 +113,7 @@ Total Time: **110 minutes**
 
 Both Carina and I woke with headaches this morning; this feels like a hangover or an MSG headache and it may have been the sauce used in a new recipe for dinner.  Needless to say, no leftovers for me this afternoon.
 <!---->
-It was Esquimalt Pool for today's swim although the maintenance at Crystal Pool is completed and it is accepting reservations for February as of today; I grabbed 2 morning slots (50m) at Crystal Pool, 2 weeks from now.  Today's swim felt good to great; lot's of pull-buoy work and I am getting comfortable enough to notice some asymmetries between my dominant and non-dominant sides.  Cool!  Something I think I can improve on.
+It was the _Esquimalt Pool_ for today's swim.  The maintenance at _Crystal Pool_ hass completed and they are accepting reservations for February as of today; I grabbed 2 morning slots (50m) at Crystal Pool, 2 weeks from now.  Today's swim felt good to great; lot's of pull-buoy work and I am **getting comfortable** enough to notice some asymmetries between my dominant and non-dominant sides.  Cool!  Something I think I can improve on.
 
 The run was what it was.  It felt like a run after a 2200m swim; not fresh but not wrecked either.  The first 4 strides sucked and felt terribly awkward.  The last 4 strides were the opposite, feeling comfortable and controlled.
 
@@ -134,7 +136,7 @@ Total Time: **50 minutes**
 
 I had an ok sleep last night but focus at work was a bit off.
 
-I did feel good in the pool tonight though.  I was expecting to feel sore, sluggish, tired, all of the above but none of those things transpired.  The 8 rounds of 25m/75m were solid efforts with consistent times for the _"fast"_ lengths.
+I did feel good in the pool tonight though.  I was expecting to feel sore, sluggish, tired, all of the above but none of those things transpired.  The 8 rounds of 25m/75m were **solid efforts** with consistent times for the _"fast"_ lengths.
 
 ![Swim Paces](/assets/jpg/swim-20210129.jpeg)
 
