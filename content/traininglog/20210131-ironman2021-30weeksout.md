@@ -32,11 +32,12 @@ The run today did feel better than [last week](ironman2021-31weeksout?sun) but i
 
 For calories, I mixed a 60g of lemonade into a 500ml bottle; this concentration was sweet and it was close to being too sweet for where I am at today.  That bottle was empty at 70 minutes.
 
----
-I rode the trainer to close out the day.  Light spinning while I watched an old CBC Sports video of _2012 Subaru Ironman Canada_ (the last one on the Penticton course).  I'll probably watch that video again.
-
 ### UP LAMPSON AND A MIX OF TRAILS
 ![Run Map](/assets/jpg/runmap-20210131.jpeg)
+
+I rode the trainer to close out the day.  Light spinning while I watched an old CBC Sports video of _2012 Subaru Ironman Canada_ (the last one on the Penticton course).  I'll probably watch that video again.
+
+
 
 <!---->
 ## MONDAY FEB 01 🌧
