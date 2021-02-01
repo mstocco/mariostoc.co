@@ -53,7 +53,7 @@ Mobility 18 minutes
 ### NOTES
 Total Time: **0 minutes**
 
-Night sweats and a very groggy start to the morning; "Happy Monday!" 
+Night sweats and a very groggy start to the morning; just like last week, I am stiff from the lumbar to my toes.  "Happy Monday!"
 
 <!---->
 ## TUESDAY FEB 02
