@@ -30,7 +30,7 @@ Motivation was low today and I procrastinated getting out the door.  I walked fo
 <!---->
 The run today did feel better than [last week](ironman2021-31weeksout?sun) but it still wasn't as _"springy"_ as [two weeks ago](ironman2021-32weeksout?sun).  Regardless, I was feeling good through the first 80 minutes but the last 10, the legs started to feel heavy and I was thankful to be on the final stretch home.
 
-For calories, I mixed a 60g of lemonade into a 500ml bottle; this concentration was sweet and it was close to being too sweet for where I am at today.  That bottle was empty at 70 minutes.
+225 calories from 60g of lemonade in a 500ml bottle; this was close to being too sweet for where I am at today.  That bottle was empty at 70 minutes.
 
 ### UP LAMPSON AND A MIX OF TRAILS
 ![Run Map](/assets/jpg/runmap-20210131.jpeg)
