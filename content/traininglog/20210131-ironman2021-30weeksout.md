@@ -26,18 +26,17 @@ Total Time: **150 minutes**
 
 I could have slept a bit more as I was late getting to bed last night.
 
-Motivation was low today and I procrastinated getting out the door.  I walked for a bit before hitting the start button on the watch.  I could have easily blamed today's rain for my low energy but my thoughts while walking were about my father and I was having a moment of missing him.  I took my time, breathed and when I was ready to get the workout started, that's when I started.
+Motivation was low today and I procrastinated getting out the door.  I walked for a bit before hitting the start button on the watch.  I could have easily blamed today's rain for my low energy but my thoughts while walking were about my father and I was having a moment of missing him.  I took my time, breathed and when I was ready to start, that's when I started.
 <!---->
 The run today did feel better than [last week](ironman2021-31weeksout?sun) but it still wasn't as _"springy"_ as [two weeks ago](ironman2021-32weeksout?sun).  Regardless, I was feeling good through the first 80 minutes but the last 10, the legs started to feel heavy and I was thankful to be on the final stretch home.
 
 225 calories from 60g of lemonade in a 500ml bottle; this was close to being too sweet for where I am at today.  That bottle was empty at 70 minutes.
 
-### UP LAMPSON AND A MIX OF TRAILS
-![Run Map](/assets/jpg/runmap-20210131.jpeg)
-
+---
 I rode the trainer to close out the day.  Light spinning while I watched an old CBC Sports video of _2012 Subaru Ironman Canada_ (the last one on the Penticton course).  I'll probably watch that video again.
 
-
+### UP LAMPSON AND A MIX OF TRAILS
+![Run Map](/assets/jpg/runmap-20210131.jpeg)
 
 <!---->
 ## MONDAY FEB 01 🌧
