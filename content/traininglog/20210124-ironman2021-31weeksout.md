@@ -160,7 +160,7 @@ I woke up this morning feeling rested; what a nice way to start a Saturday!
 
 The weather was nice enough to go either way, road bike or mountain bike.  I picked the mountain bike just because it is a bit of a different stimulus than the _"Lands End Loop"_ that I have been riding the past couple of weekends.  Besides, I bought new tires for my XC bike and I was looking to try them out.
 <!---->
-Before I headed out, I looked on the map and thought I would be able to link Thetis and Mount Work Parks using the _Mount Work Park Entrance_ off of _Munn Road_.  Unfortunately, the 2 trailheads I found from that spot were marked "Hikers Only" (no biking).  I wasn't into riding down _Munn Road_ so I headed up and over _Munn_, turned right on _Millstream_ and entered the north end of the park off of _Ross Durrance Road_.
+Before heading out, I looked on the map and thought I would be able to link Thetis Lake and Mount Work Parks using the _Mount Work Park Entrance_ off of _Munn Road_.  Unfortunately, the 2 trailheads I found from that spot were marked "Hikers Only" (no biking).  I wasn't into riding down _Munn Road_ so I headed up and over _Munn_, turned right on _Millstream_ and entered the north end of the park off of _Ross Durrance Road_.
 
 This put me on _Regional Trail North_ and it was a grunt for me to get up and over the top of that hill.  Once recovered on the way down, I took my favourite _Executive West_ single-track out of _Mount Work Park_.
 
