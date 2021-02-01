@@ -26,7 +26,11 @@ Total Time: **150 minutes**
 
 I could have slept a bit more as I was late getting to bed last night.
 
-My energy was low today and I procrastinated getting out the door for the run. going out in the rain to do the run.  For calories, I mixed a 60g of lemonade into a 500ml bottle; this concentration was sweet.  I walked for the first few minutes before hitting the start button on the watch.  I first thought the procrastination may have been because of the rain but my thoughts while walking were about my father and I was having a moment of missing him.  I took my time and when I was ready to get the workout started, that's when I started.
+My energy was low today and I procrastinated getting out the door for the run.
+
+For calories, I mixed a 60g of lemonade into a 500ml bottle; this concentration was sweet.  
+
+I walked for the first few minutes before hitting the start button on the watch.  I first thought the procrastination may have been because of the rain but my thoughts while walking were about my father and I was having a moment of missing him.  I took my time and when I was ready to get the workout started, that's when I started.
 
 I rode the trainer to close out the day.  Light spinning while I watched an old CBC Sports video of _2012 Subaru Ironman Canada_ (the last one on the Penticton course).  I'll probably watch that video again.
 
