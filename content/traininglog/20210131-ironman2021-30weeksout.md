@@ -36,7 +36,7 @@ For calories, I mixed a 60g of lemonade into a 500ml bottle; this concentration 
 I rode the trainer to close out the day.  Light spinning while I watched an old CBC Sports video of _2012 Subaru Ironman Canada_ (the last one on the Penticton course).  I'll probably watch that video again.
 
 ### UP LAMPSON AND A MIX OF TRAILS
-![Run Map)(/assets/jpg/runmap-20210131.jpeg)
+![Run Map](/assets/jpg/runmap-20210131.jpeg)
 
 <!---->
 ## MONDAY FEB 01 🌧
