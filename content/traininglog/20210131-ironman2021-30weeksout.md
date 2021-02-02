@@ -57,8 +57,8 @@ Night sweats and a very groggy start to the morning; just like last week, I am s
 
 In the pool, things felt good.  2 things of note:
 
-1. During the main set, the difference between 2:19 and 2:26 for 125m is concentration.
-2. I noticed the difference a between 2200 and 2350 m workout.
+* During the main set, the difference between 2:19 and 2:26 for 125m is concentration.
+* I noticed the difference a between 2200 and 2350 m workout.
 
 <!---->
 ## TUESDAY FEB 02
