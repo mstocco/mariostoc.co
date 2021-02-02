@@ -55,12 +55,10 @@ Total Time: **0 minutes**
 
 Night sweats and a very groggy start to the morning; just like last week, I am stiff from the lumbar to my toes.  "Happy Monday!"
 
-In the pool, things felt pretty good.  2 things of note:
+In the pool, things felt good.  2 things of note:
 
-1. During the main set, the difference between 2:19 and 2:26 is concentration.
-2. I noticed the small bump in lengths.
-3. I have just 15 minutes of COVID reservation time @ for the total time at the facility.
-
+1. During the main set, the difference between 2:19 and 2:26 for 125m is concentration.
+2. I noticed the difference a between 2200 and 2350 m workout.
 
 <!---->
 ## TUESDAY FEB 02
