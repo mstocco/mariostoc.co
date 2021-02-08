@@ -14,7 +14,7 @@ I got the volume in as this was a complete **+13 hour** week.
 Between getting the work in and working as in getting bills paid something gave and it was keeping this training log up to date.
 
 ### JANUARY STATS
-![January Stats](/assets/janstats-20210131.jpeg)
+![January Stats](/assets/jpg/janstats-20210131.jpeg)
 
 ![This harbour was nicely sheltered on an otherwise windy Saturday in Greater Victoria.](/assets/jpg/IMG_3094-977x550.jpeg Royal Victoria Yacht Club, Tsehum Haven, North Saanich)
 
