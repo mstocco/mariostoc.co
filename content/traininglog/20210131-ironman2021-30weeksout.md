@@ -7,11 +7,14 @@ Week beginning [Sunday, January 31, 2021](javascript:flick('sun');)
 This week is a _"rinse, repeat"_ of [last week](ironman2021-31weeksout) with an small uptick in volume.  My goal is to handle that extra bit volume while paying attention to my overall energy level. 
 
 ## SUMMARY
-I feel I like was...  
-<sup>(completed at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel I like was **ON THE EDGE**
 
-<!---->
+I got the volume in as this was a complete **+13 hour** week.
+
+Between getting the work in and working as in getting bills paid something gave and it was this documentation project.
+
+![Like any good harbour, today this spot was sheltered from an otherwise windy day](/assets/jpg/IMG_3094-977x550.jpeg Royal Victoria Yacht Club, Tsehum Haven, North Saanich)
+
 ## SUNDAY JAN 31 🌧
 Sleep **4** | Fatigue **3** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -73,7 +76,9 @@ Run 40 minutes easy. Flat route.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I put the front wheel back on the TT Bike and balanced on the rollers tonight.
+
+I was running immediately off the bike tonight too.
 
 <!---->
 ## WEDNESDAY FEB 03
@@ -86,9 +91,9 @@ Ride 80 minutes: 15 minutes easy spinning. 8x :30 high cadence, :45 easy. 2:00 e
 Mobility 22 minutes
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **80 minutes**
 
-&mdash; 
+Back on the rollers again tonight after work.  And again, I felt pretty good on the bike.
 
 <!---->
 ## THURSDAY FEB 04
@@ -101,12 +106,14 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 Run 45 minutes: 25 minutes easy running to warm up. 8x :40 strides, :50 jog after each. 8 minutes easy to cool down.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **100 minutes**
 
-&mdash; 
+I felt ok in the pool again today; 2 others and myself were generally swimming the same speeds but there was a slower guy that made for a bit of congestion; funny thing as he didn't seem to like being passed; as soon as I would pull up along side him, he'd find another gear and seem to race me to the wall.
+
+After the swim, I left the facility with my run kit on and made my way toward town on the _Songhess Walkway_. This felt exactly like a run immediately after a swim workout; it was uncomfortable.  I attempted my best idea of what a stride might look like on the flat road near _Spinnaker's Pub_ but after the 2nd and every stride thereafter, I walked during the recovery period.  It was a slog back to the car too.
 
 <!---->
-## FRIDAY FEB 05
+## FRIDAY FEB 05 ☀️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -116,13 +123,15 @@ Ride 70 minutes: 30 minutes easy spinning. 8x 1:00 high cadence, 1:30 easy after
 Mobility 22 minutes
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **60 minutes** Total Distance(s): ** km**
 
-&mdash; 
+Weather was really nice and I had a lunch meeting for work so I jumped on the road bike and rode to _Royal Oak_.  This took about 18 minutes.
+
+After lunch, I headed north on _Lochside Drive_ and crossed the highway at _Haliburton_ to ride _Old West Saanich_ and _Interurban_ home (the long way).
 
 <!---->
-## SATURDAY FEB 06
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## SATURDAY FEB 06 ⛅️
+Sleep **2** | Fatigue **4** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -131,6 +140,17 @@ Ride 3:00 on road or MTB. Steady riding. Staying well fueled. Staying well hydra
 Off the bike (within an hour or so) Run 30 minutes. Flat route. Easy effort. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **243 minutes**
 
-&mdash; 
+Road bike day only because I re-added the Shimano medium arch supports to my RP-9 shoes to see if that would help with their fit.  I have been on the fence for some time on shoes and although these shoes are _"close"_ in fit, there is something about them that I don't love about them.  The arch supports feel a bit _"aggressive"_ when just standing in the shoes but did disappear while pedalling.
+
+Today was a mixed bag of weather and was mostly windy with a squall blowing in off the ocean to start.  I decided to pedal north and do a lap of the peninsula to see if I could stay out of the weather.  That idea paid of and heading into _Saanichton_, I enjoyed a decent tailwind.
+
+I was out a bit longer than the scheduled 3 hours and that wasn't intensional.  I just miss judged the time.  
+
+The ride didn't feel super fresh and I was on cruise control for the better part of the ride and enjoying the saddle time.  For calories, I replaced _"Jujubes"_ for _"Swedish Berries"_ to see if I liked them better.  They are sweeter but take more effort to chew and get down.  I measured 600 calories of candy and added 200 more in lemonade crystals to a water bottle.
+
+I did take a relief stop at 3:13 into the ride and finished the last of the _Swedish Berries_ 15 minutes after that.  Throughout the ride, I thought about the run.  It was my legs driving the conversation in my head mostly.  Could I even do 30 minutes of running?  Do I 20 minutes and call it good?  Would Elliot mind if I replaced the run for a walk?  Rolling into the driveway, I still did not have a plan but the shoes, hi-vis vest and headlamp went on an out the door I went.
+
+The run began sucking just as much as I thought it would; if I just carried on, the jelly legs would clear up in about 2 to 3 minutes.  7 minutes in and the legs are still not comfortable.  After 11 minutes, I finally noticed some spring off the bike path.  At 15:06, I turned around to follow my way back home.  If I could hold form, I might be able to even split the return to my starting point.  With 5 minutes to go, I really notice how hungry I am.  Back to the crack in the road where I started the clock, I am seconds faster on the return trip.  I wonder how much this will haunt me [tomorrow](ironman2021-29weeksout?sun)... 
+
