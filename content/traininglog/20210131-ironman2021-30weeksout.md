@@ -9,10 +9,10 @@ This week is a _"rinse, repeat"_ of [last week](ironman2021-31weeksout) with an 
 ## SUMMARY
 I feel I like was **EXPANDING MY ENVELOPE**
 
-Before I knew it, this was a complete, **+13 hour** training week and what I didn't do well was keep this training log up to date.
+Before I knew it, this was a **+13 hour** training week and what I didn't do well was keep this training log up to date.
 
-## 52 HOURS, 42 MINUTES OF JANUARY
-![January Stats](/assets/jpg/janstats-20210131.jpeg)
+## THE 52 HOURS, 42 MINUTES OF JANUARY
+![January Stats](/assets/jpg/janstats-20210131.jpeg?v2)
 <sup>19 Hours more than December</sup>
 
 ![This harbour was nicely sheltered on an otherwise windy Saturday in Greater Victoria.](/assets/jpg/IMG_3094-977x550.jpeg Royal Victoria Yacht Club, Tsehum Haven, North Saanich)
