@@ -7,13 +7,11 @@ Week beginning [Sunday, January 31, 2021](javascript:flick('sun');)
 This week is a _"rinse, repeat"_ of [last week](ironman2021-31weeksout) with an small uptick in volume.  My goal is to handle that extra bit volume while paying attention to my overall energy level. 
 
 ## SUMMARY
-I feel I like was **ON THE EDGE**
+I feel I like was **EXPANDING MY ENVELOPE**
 
-I got the volume in as this was a complete **+13 hour** week.
+And before I knew it, this was a complete **+13 hour** training week and what I didn't do well was keep this training log up to date.
 
-Between getting the work in and working as in getting bills paid something gave and it was keeping this training log up to date.
-
-### JANUARY STATS
+### 52 HOURS, 42 MINUTES OF JANUARY
 ![January Stats](/assets/jpg/janstats-20210131.jpeg)
 
 ![This harbour was nicely sheltered on an otherwise windy Saturday in Greater Victoria.](/assets/jpg/IMG_3094-977x550.jpeg Royal Victoria Yacht Club, Tsehum Haven, North Saanich)
