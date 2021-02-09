@@ -136,11 +136,11 @@ Ride 70 minutes: 30 minutes easy spinning. 8x 1:00 high cadence, 1:30 easy after
 Mobility 22 minutes
 
 ### NOTES
-Total Time: **60 minutes** Total Distance(s): ** km**
+Total Time: **60 minutes** Total Distance(s): **26 km**
 
-Weather was really nice and I had a lunch meeting for work so I jumped on the road bike and rode to _Royal Oak_.  This took about 18 minutes.
+Weather was really nice and I had a lunch meeting for work so I jumped on the road bike and rode to _Royal Oak_.  This took about 18 minutes. 
 
-After lunch, I headed north on _Lochside Drive_ and crossed the highway at _Haliburton_ to ride _Old West Saanich_ and _Interurban_ home (the long way). 
+After lunch, I headed north on _Lochside Drive_ and crossed the highway at _Haliburton_ to ride _Old West Saanich_ and _Interurban_ home (the long way).  I had good pressure on the pedals on the hill up to the highway and on the hills of _Old W. Saanich_; an opportunity to burn off the burger that I had.
 
 <!---->
 ## SATURDAY FEB 06 ⛅️
@@ -167,3 +167,6 @@ I did take a relief stop at 3:13 into the ride and finished the last of the _Swe
 
 The run began sucking just as much as I thought it would; if I just carried on, the jelly legs would clear up in about 2 to 3 minutes.  7 minutes in and the legs are still not comfortable.  After 11 minutes, I finally noticed some spring off the bike path.  At 15:06, I turned around to follow my way back home.  If I could hold form, I might be able to even split the return to my starting point.  With 5 minutes to go, I really notice how hungry I am.  Back to the crack in the road where I started the clock, I am seconds faster on the return trip.  I wonder how much this will haunt me [tomorrow](ironman2021-29weeksout?sun)... 
 
+<!---->
+### CLOCKWISE PENINSULA RIDE 
+![Ride Map](/assets/jpg/ridemap-20210206.jpeg)
