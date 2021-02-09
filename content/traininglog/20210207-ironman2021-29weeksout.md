@@ -56,11 +56,14 @@ Lining up outside the facility before 0730, there was some triathlon swag being 
 <!---->
 Apart from maybe one or two people, the _Slow Lane_ was people swimming closer to my level.
 
-I felt ok with the change to 50m lengths too, though the 2x100m kick near the end of the workout bordered on torturous given [yesterday's run](javascript:flick('sun');).
+I felt better than I thought with the change to 50m lengths but the 2x100m kick near the end of the workout bordered on torturous given [yesterday's run](javascript:flick('sun');).
+
+The watch recorded me 50m long but I corrected it manually afterwards.  Here is a pretty chart that says I was in the water:
+
+![Swim Chart](/assets/jpg/swim-20210208.jpeg )
 
 ---
-**15 Minute Full Body Mobility Routine**
-My neck is super crunchy and stiff on the sides.  
+_15 Minute Full Body Mobility Routine_ was done at the end of the day.  My neck is super crunchy and stiff on the sides.  
 
 <!---->
 ## TUESDAY FEB 09
