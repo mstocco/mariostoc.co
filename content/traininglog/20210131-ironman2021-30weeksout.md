@@ -100,6 +100,7 @@ Total Time: **80 minutes**
 
 Back on the rollers again tonight after work.  And like [last night](javascript:flick('tue');), I felt **pretty good** on the bike.  On the screen, I watched an old _Ironman Canada_ video from 1995.
 
+<h3 style="margin-bottom:-20px;">BIKE EFFORT</h3>
 ![Bike Effort Graph](/assets/jpg/bike-20210203.jpeg)
 
 <!---->
@@ -115,9 +116,12 @@ Run 45 minutes: 25 minutes easy running to warm up. 8x :40 strides, :50 jog afte
 ### NOTES
 Total Time: **100 minutes**
 
-I felt ok in the pool again today; 2 others and myself were generally swimming the same speeds but there was a slower guy that made for a bit of congestion; funny thing as he didn't seem to like being passed; as soon as I would pull up along side him, he'd find another gear and seem to race me to the wall.
-
+I felt ok in the pool again today; 2 others and myself were generally swimming the same speeds but there was a slower guy that made for a bit of congestion; funny thing as he didn't seem to like being passed; as soon as I would pull up along side him, he'd find another gear and race me to the wall.
+<!---->
 After the swim, I left the facility with my run kit on and made my way toward town on the _Songhess Walkway_. This felt exactly like a run immediately after a swim workout; it was uncomfortable.  I attempted my best idea of what a stride might look like on the flat road near _Spinnaker's Pub_ but after the 2nd and every stride thereafter, I walked during the recovery period.  It was a slog back to the car too.
+
+### SONGHESS RUN FROM THE POOL
+![Run Map](/assets/jpg/runmap-20210204.jpeg)
 
 <!---->
 ## FRIDAY FEB 05 ☀️
