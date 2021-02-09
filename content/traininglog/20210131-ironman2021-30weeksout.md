@@ -157,9 +157,9 @@ Total Time: **243 minutes**
 
 Good sleep and Carina made me french toast for breakfast!
 
-Road bike day only because I re-added the Shimano medium arch supports to my RP-9 shoes to see if that would help with their fit.  I have been on the fence for some time on shoes and although these shoes are _"close"_ in fit, there is something about them that I don't love about them.  The arch supports feel a bit _"aggressive"_ when just standing in the shoes but did disappear while pedalling.
+Road bike day mostly because I added the Shimano medium arch supports to my RP-9 shoes with the hope that it would help with the fit.  I have been on the fence for some time with these shoes and although they are _"close"_, there is something about them that I don't love about them.  The arch supports feel a bit _"aggressive"_ when just standing in the shoes but did disappear while pedalling.
 <!---->
-Today was a mixed bag of weather and was mostly windy with a squall blowing in off the ocean to at the south end of today's route.  I was going to go west but decided to pedal north and do a lap of the peninsula and see if I could stay out of the weather.  That idea paid of and heading into _Saanichton_, I enjoyed a decent tailwind.
+Today was a mixed bag of weather; it was mostly windy with a squall blowing in from the ocean at the south end of today's route.  I was thinking about heading west but decided to pedal north and do a lap of the peninsula with the hope of staying out of the weather.  That idea paid of and heading into _Saanichton_, I enjoyed a decent tailwind.
 
 That tailwind didn't last long and I was pedalling into the wind again from the airport through to _Lands End Road_.
 
