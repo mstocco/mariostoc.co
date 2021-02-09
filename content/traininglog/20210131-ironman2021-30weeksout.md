@@ -83,6 +83,8 @@ I put the front wheel back on the TT Bike and balanced on the rollers tonight.  
 
 I was running immediately off the bike tonight; I felt pretty good from the get-go too.  There was a hint of soleus tenderness that didn't last very long.  I headed on the typical route out to _Quadra Street_ on the bike path.  It was pretty cool in that in the darkness, it was just me out there.
 
+Time for a big dinner.
+
 <!---->
 ## WEDNESDAY FEB 03 🌤
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
@@ -97,6 +99,8 @@ Mobility 22 minutes
 Total Time: **80 minutes**
 
 Back on the rollers again tonight after work.  And like [last night](javascript:flick('tue');), I felt **pretty good** on the bike.  On the screen, I watched an old video of the _1995 Ironman Canada_ and I am pretty sure that I caught a glimpse of my buddy Jason near T2.
+
+![Bike Effort Graph](/assets/jpg/bike-20210203.jpeg)
 
 <!---->
 ## THURSDAY FEB 04 ☁️
