@@ -34,6 +34,8 @@ If the name of the game is to learn how to run on tired legs, then the 10 miles 
 
 I do have options to make the back half of this route hillier but I will save that for another day.  I walked the last 600m home.
 
+### McD's TO UPTOWN
+![Run Map](/assets/jpg/runmap-20210207.jpeg)
 
 <!---->
 ## MONDAY FEB 08
