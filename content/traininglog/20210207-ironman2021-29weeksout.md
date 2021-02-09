@@ -28,7 +28,7 @@ Even though I slept well last night, my start to the day was pretty stiff and so
 
 I may have been making my way south through the countryside, but I was stuck in **heavy leg city** from start to finish today.  Ironically, walking (to time the light the Royal Oak crosswalk) proved to be a sorer experience than just plodding at 6:10/km pace.
 <!---->
-If the name of the game is to learn how to run on tired legs, then the 10 miles today where money.
+If the name of the game is to learn how to run on tired legs, then the 10 miles of today's run was money.
 
 200 calories mixed in a 500ml bottle was finished in a litter over an hour.
 
