@@ -24,11 +24,15 @@ Mobility: 24 minutes
 ### NOTES
 Total Time: **103 minutes** &nbsp; Distance: **16.6 km**
 
-Even though I slept well, I am started the day pretty stiff and sore; mostly my quads but not exclusively.  I did a stretch before jumping in the car with Carina.  She dropped my off at _Mount Newton X-Road_ where I start my jog home.
+Even though I slept well last night, my start to the day was pretty stiff and sore; mostly my quads but not exclusively.  I did a stretch routine before jumping in the car with Carina.  She dropped my off at _Mount Newton X-Road_ where I started my jog home.
 
-I may have been making my way south through the countryside, but I was stuck in **heavy leg city** from start to finish today.  Ironically, walking (to time the light the Royal Oak crosswalk) proved to be a sorer experience than just plodding at 6:10/km pace.  
+I may have been making my way south through the countryside, but I was stuck in **heavy leg city** from start to finish today.  Ironically, walking (to time the light the Royal Oak crosswalk) proved to be a sorer experience than just plodding at 6:10/km pace.
+<!---->
+If the name of the game is to learn how to run on tired legs, then the 10 miles today where money.
 
 200 calories mixed in a 500ml bottle was finished in a litter over an hour.
+
+I do have options to make the back half of this route hillier but I will save that for another day.  I walked the last 600m home.
 
 
 <!---->
