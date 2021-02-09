@@ -14,7 +14,7 @@ Before I knew it, this was a **+13 hour training week** and what I didn't do wel
 ## JANUARY STATS
 52 Hours, 42 Minutes in the books.
 ![January Stats](/assets/jpg/janstats-20210131.jpeg?v2)
-<sup>19 Hours more than December</sup>
+<sup>19 Hours more than December.</sup>
 
 ![This harbour was nicely sheltered on an otherwise windy Saturday in Greater Victoria.](/assets/jpg/IMG_3094-977x550.jpeg Royal Victoria Yacht Club, Tsehum Haven, North Saanich)
 
@@ -57,7 +57,7 @@ Swim 2350: 3 rounds (50 free, 50 as 25 fist/25 easy, 50 as 25 build/25 easy, 50 
 Mobility 18 minutes
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **57 minutes**
 
 Night sweats and a very groggy start to the morning; just like last week, I am stiff from the lumbar to my toes.  "Happy Monday!"
 
@@ -67,7 +67,7 @@ In the pool, things felt good.  2 things of note:
 * I noticed the difference a between 2200 and 2350 m workout.
 
 <!---->
-## TUESDAY FEB 02
+## TUESDAY FEB 02 ☁️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -77,14 +77,14 @@ Ride 60 minutes easy. Inside or outside. Any bike. Keep it easy.
 Run 40 minutes easy. Flat route.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **102 minutes**
 
-I put the front wheel back on the TT Bike and balanced on the rollers tonight.
+I put the front wheel back on the TT Bike and balanced on the rollers tonight.  It is nice to have the option to flip between the two modes of indoor riding.  I did have a can of Ginger Ale over the course of the hour too.
 
-I was running immediately off the bike tonight too.
+I was running immediately off the bike tonight; I felt pretty good from the get-go too.  There was a hint of soleus tenderness that didn't last very long.  I headed on the typical route out to _Quadra Street_ on the bike path.  It was pretty cool in that in the darkness, it was just me out there.
 
 <!---->
-## WEDNESDAY FEB 03
+## WEDNESDAY FEB 03 🌤
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -96,10 +96,10 @@ Mobility 22 minutes
 ### NOTES
 Total Time: **80 minutes**
 
-Back on the rollers again tonight after work.  And again, I felt pretty good on the bike.
+Back on the rollers again tonight after work.  And like [last night](javascript:flick('tue');), I felt **pretty good** on the bike.  On the screen, I watched an old video of the _1995 Ironman Canada_ and I am pretty sure that I caught a glimpse of my buddy Jason near T2.
 
 <!---->
-## THURSDAY FEB 04
+## THURSDAY FEB 04 ☁️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
