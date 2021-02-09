@@ -34,7 +34,7 @@ If the name of the game is to learn how to run on tired legs, then the 10 miles 
 
 I do have options to make the back half of this route hillier but I will save that for another day.  I walked the last 600m home.
 
-### McD's TO UPTOWN
+### SAANICHTON TO SAANICH
 ![Run Map](/assets/jpg/runmap-20210207.jpeg)
 
 <!---->
@@ -58,6 +58,9 @@ Apart from maybe one or two people, the _Slow Lane_ was people swimming closer t
 
 I felt ok with the change to 50m lengths too, though the 2x100m kick near the end of the workout bordered on torturous given [yesterday's run](javascript:flick('sun');).
 
+---
+**15 Minute Full Body Mobility Routine**
+My neck is super crunchy and stiff on the sides.  
 
 <!---->
 ## TUESDAY FEB 09
