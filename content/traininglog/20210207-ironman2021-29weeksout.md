@@ -12,7 +12,7 @@ I feel I like was...
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
 <!---->
-## SUNDAY FEB 07
+## SUNDAY FEB 07 ☀️
 Sleep **3** | Fatigue **5** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -24,7 +24,11 @@ Mobility: 24 minutes
 ### NOTES
 Total Time: **103 minutes** &nbsp; Distance: **16.6 km**
 
-&mdash; 
+Even though I slept well, I am started the day pretty stiff and sore; mostly my quads but not exclusively.  I did a stretch before jumping in the car with Carina.  She dropped my off at _Mount Newton X-Road_ where I start my jog home.
+
+I may have been making my way south through the countryside, but I was stuck in **heavy leg city** from start to finish today.  Ironically, walking (to time the light the Royal Oak crosswalk) proved to be a sorer experience than just plodding at 6:10/km pace.  
+
+200 calories mixed in a 500ml bottle was finished in a litter over an hour.
 
 
 <!---->
@@ -40,9 +44,13 @@ Mobility 15 minutes
 ### NOTES
 Total Time: **57 minutes**
 
-Up and out the door early for my first swim back at _Crystal Pool_ in almost a year.  Standing outside, there was triathlon swag being sported; a HP Jacket, Vic 70.3 Hoodie, etc.  The pool had a _Fast, Slow_ and _Continuous Lane_ to self select from.  There were genuine fast swimmers in both the _Fast Lane_ and the _Continuous Lane_.  Apart from maybe one or two people, the _Slow Lane_ was full of people swimming at my level.
+Up and out the door early for my first swim back at _Crystal Pool_ in almost a year.
 
-I felt ok with the 50m lengths too though the 2x100m kick near the end of the workout bordered on torturous given [yesterday's run](javascript:flick('sun');).
+Lining up outside the facility before 0730, there was some triathlon swag being sported; an HPR Jacket, Vic 70.3 Hoodie, etc.  The pool had a _Fast, Slow_ and _Continuous Lane_ to self select from.  There were genuine fast swimmers in both the _Fast Lane_ and the _Continuous Lane_.
+<!---->
+Apart from maybe one or two people, the _Slow Lane_ was people swimming closer to my level.
+
+I felt ok with the change to 50m lengths too, though the 2x100m kick near the end of the workout bordered on torturous given [yesterday's run](javascript:flick('sun');).
 
 
 <!---->
