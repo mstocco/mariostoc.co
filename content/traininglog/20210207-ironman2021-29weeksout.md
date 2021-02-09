@@ -38,7 +38,7 @@ I do have options to make the back half of this route hillier but I will save th
 ![Run Map](/assets/jpg/runmap-20210207.jpeg)
 
 <!---->
-## MONDAY FEB 08
+## MONDAY FEB 08 ☀️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
