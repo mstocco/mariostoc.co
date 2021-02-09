@@ -157,7 +157,7 @@ Total Time: **243 minutes**
 
 Good sleep and Carina made me french toast for breakfast!
 
-Road bike day mostly because I added the Shimano medium arch supports to my RP-9 shoes with the hope that it would help with the fit.  I have been on the fence for some time with these shoes and although they are _"close"_, there is something about them that I don't love about them.  The arch supports feel a bit _"aggressive"_ when just standing in the shoes but did disappear while pedalling.
+Road bike day mostly because I added the Shimano medium arch supports to my RP-9 shoes.  I have been on the fence for some time with these shoes and although they are _"close"_, there is something about them that I don't love about them.  The arch supports feel a bit _"aggressive"_ when just standing in the shoes but did disappear while pedalling.
 <!---->
 Today was a mixed bag of weather; it was mostly windy with a squall blowing in from the ocean at the south end of today's route.  I was thinking about heading west but decided to pedal north and do a lap of the peninsula with the hope of staying out of the weather.  That idea paid of and heading into _Saanichton_, I enjoyed a decent tailwind.
 
