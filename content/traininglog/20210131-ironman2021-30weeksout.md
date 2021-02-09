@@ -98,7 +98,7 @@ Mobility 22 minutes
 ### NOTES
 Total Time: **80 minutes**
 
-Back on the rollers again tonight after work.  And like [last night](javascript:flick('tue');), I felt **pretty good** on the bike.  On the screen, I watched an old video of the _1995 Ironman Canada_ and I am pretty sure that I caught a glimpse of my buddy Jason near T2.
+Back on the rollers again tonight after work.  And like [last night](javascript:flick('tue');), I felt **pretty good** on the bike.  On the screen, I watched an old _Ironman Canada_ video from 1995.
 
 ![Bike Effort Graph](/assets/jpg/bike-20210203.jpeg)
 
