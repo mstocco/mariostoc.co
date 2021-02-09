@@ -165,7 +165,9 @@ I was out a bit longer than the scheduled 3 hours and that wasn't intensional.  
 
 The ride didn't feel super fresh and I was on cruise control for the better part of the ride and enjoying the saddle time.  For calories, I replaced _"Jujubes"_ for _"Swedish Berries"_ to see if I liked them better.  They are sweeter but take more effort to chew and get down.  I measured 600 calories of candy and added 200 more in lemonade crystals to a water bottle.
 
-I did take a relief stop at 3:13 into the ride and finished the last of the _Swedish Berries_ 15 minutes after that.  Throughout the ride, I thought about the run.  It was my legs driving the conversation in my head mostly.  Could I even do 30 minutes of running?  Do I 20 minutes and call it good?  Would Elliot mind if I replaced the run for a walk?  Rolling into the driveway, I still did not have a plan but the shoes, hi-vis vest and headlamp went on an out the door I went.
+I did take a relief stop at 3:13 into the ride and finished the last of the _Swedish Berries_ 15 minutes after that.
+<!---->
+Throughout the ride, I thought about the run.  It was my legs driving the conversation in my head mostly.  Could I even do 30 minutes of running?  Do I 20 minutes and call it good?  Would Elliot mind if I replaced the run for a walk?  Rolling into the driveway, I still did not have a plan but the shoes, hi-vis vest and headlamp went on an out the door I went.
 
 The run began sucking just as much as I thought it would; if I just carried on, the jelly legs would clear up in about 2 to 3 minutes.  7 minutes in and the legs are still not comfortable.  After 11 minutes, I finally noticed some spring off the bike path.  At 15:06, I turned around to follow my way back home.  If I could hold form, I might be able to even split the return to my starting point.  With 5 minutes to go, I really notice how hungry I am.  Back to the crack in the road where I started the clock, I am seconds faster on the return trip.  I wonder how much this will haunt me [tomorrow](ironman2021-29weeksout?sun)... 
 
