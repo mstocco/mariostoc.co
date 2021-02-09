@@ -159,11 +159,13 @@ Good sleep and Carina made me french toast for breakfast!
 
 Road bike day only because I re-added the Shimano medium arch supports to my RP-9 shoes to see if that would help with their fit.  I have been on the fence for some time on shoes and although these shoes are _"close"_ in fit, there is something about them that I don't love about them.  The arch supports feel a bit _"aggressive"_ when just standing in the shoes but did disappear while pedalling.
 <!---->
-Today was a mixed bag of weather and was mostly windy with a squall blowing in off the ocean to start.  I decided to pedal north and do a lap of the peninsula to see if I could stay out of the weather.  That idea paid of and heading into _Saanichton_, I enjoyed a decent tailwind.
+Today was a mixed bag of weather and was mostly windy with a squall blowing in off the ocean to at the south end of today's route.  I was going to go west but decided to pedal north and do a lap of the peninsula and see if I could stay out of the weather.  That idea paid of and heading into _Saanichton_, I enjoyed a decent tailwind.
+
+That tailwind didn't last long and I was pedalling into the wind again from the airport through to _Lands End Road_.
 
 I was out a bit longer than the scheduled 3 hours and that wasn't intensional.  I just miss judged the time.  
 
-The ride didn't feel super fresh and I was on cruise control for the better part of the ride and enjoying the saddle time.  For calories, I replaced _"Jujubes"_ for _"Swedish Berries"_ to see if I liked them better.  They are sweeter but take more effort to chew and get down.  I measured 600 calories of candy and added 200 more in lemonade crystals to a water bottle.
+The ride didn't feel super fresh and I was on cruise control for the better part of the ride and enjoying the saddle time.  For calories, I replaced _"Jujubes"_ for _"Swedish Berries"_ to see if I liked them better.  They are sweeter and I was ok with that (no GI) but they do take more effort to chew and get down.  I measured 600 calories worth of candy and added 200 more calories in lemonade crystals to a water bottle.
 
 I did take a relief stop at 3:13 into the ride and finished the last of the _Swedish Berries_ 15 minutes after that.
 <!---->
