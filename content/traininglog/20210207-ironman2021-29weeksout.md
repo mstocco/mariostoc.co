@@ -60,7 +60,7 @@ I felt better than I thought with the change to 50m lengths but the 2x100m kick 
 
 The watch recorded me 50m long but I corrected it manually afterwards.  Here is a pretty chart that says I was in the water:
 
-![Swim Chart](/assets/jpg/swim-20210208.jpeg )
+![Swim Chart](/assets/jpg/swim-20210208.jpeg)
 
 ---
 _15 Minute Full Body Mobility Routine_ was done at the end of the day.  My neck is super crunchy and stiff on the sides.  
