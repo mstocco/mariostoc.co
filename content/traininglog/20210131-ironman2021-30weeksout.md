@@ -155,8 +155,10 @@ Off the bike (within an hour or so) Run 30 minutes. Flat route. Easy effort.
 ### NOTES
 Total Time: **243 minutes**
 
-Road bike day only because I re-added the Shimano medium arch supports to my RP-9 shoes to see if that would help with their fit.  I have been on the fence for some time on shoes and although these shoes are _"close"_ in fit, there is something about them that I don't love about them.  The arch supports feel a bit _"aggressive"_ when just standing in the shoes but did disappear while pedalling.
+Good sleep and Carina made me french toast for breakfast!
 
+Road bike day only because I re-added the Shimano medium arch supports to my RP-9 shoes to see if that would help with their fit.  I have been on the fence for some time on shoes and although these shoes are _"close"_ in fit, there is something about them that I don't love about them.  The arch supports feel a bit _"aggressive"_ when just standing in the shoes but did disappear while pedalling.
+<!--->
 Today was a mixed bag of weather and was mostly windy with a squall blowing in off the ocean to start.  I decided to pedal north and do a lap of the peninsula to see if I could stay out of the weather.  That idea paid of and heading into _Saanichton_, I enjoyed a decent tailwind.
 
 I was out a bit longer than the scheduled 3 hours and that wasn't intensional.  I just miss judged the time.  
