@@ -66,8 +66,8 @@ The watch recorded me 50m long but I corrected it manually afterwards.  Here is 
 _15 Minute Full Body Mobility Routine_ was done at the end of the day.  My neck is super crunchy and stiff on the sides.  
 
 <!---->
-## TUESDAY FEB 09
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## TUESDAY FEB 09 ☀️
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -78,7 +78,7 @@ Run 30 minutes flat and easy. Can be off the bike or earlier/later in the day. I
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I had a restful sleep last night and my first steps of the day were less stiff than the past couple of days.
 
 
 <!---->
