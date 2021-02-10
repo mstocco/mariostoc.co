@@ -76,11 +76,15 @@ Ride 70 minutes: 12 minutes easy riding. 2 rounds (:50, :40, :30, :20, :10 high 
 Run 30 minutes flat and easy. Can be off the bike or earlier/later in the day. Ideally NOT before the bike.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **100 minutes**
 
 I had a restful sleep last night and my first steps of the day were less stiff than the past couple of days.
 
+I set up the trainer for the workout on the bike with the idea of doing the cadence and 2:30 reps in the aero bars.  That was done by feel and the looking back on my heart rate data, it didn't look like I was working at all.  My legs felt differently about the exercise.  Not that they were cooked and could turn a crank but that they were working just the same.  The low heart rate could have something to do with pedalling in a much cooler garage.
 
+The run was not right off the bike but it was before dinner.  I felt much better than on [Sunday](javascript:flick('sun');) as I jogged to the trestle and back.  Maybe I was just imagining this but I swear that I could feel the foam in my show get harder the longer I was out in the minus degree weather.
+
+I found a tender spot high up on my left calf with a lacrosse ball tonight.
 <!---->
 ## WEDNESDAY FEB 10
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
