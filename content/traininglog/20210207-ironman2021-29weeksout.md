@@ -85,9 +85,10 @@ I set up the trainer for the workout on the bike with the idea of doing the cade
 The run was not right off the bike but it was before dinner.  I felt much better than on [Sunday](javascript:flick('sun');) as I jogged to the trestle and back.  Maybe I was just imagining this but I swear that I could feel the foam in my show get harder the longer I was out in the minus degree weather.
 
 I found a tender spot high up on my left calf with a lacrosse ball tonight.
+
 <!---->
 ## WEDNESDAY FEB 10
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -99,7 +100,11 @@ Run 40 minutes flat and easy
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Up early this morning and happy to score 3's across the board to start the day.
+
+The swim went ok overall.  I was a bit behind getting to the pool hitting traffic lights on the was to _Crystal Pool_.  I missed counted the 300m rep and swam and extra 100m.  I was paying attention to other swimmers and my own effort that I missed the buzzing from my watch telling me that I can stop when I reach the next wall.
+
+
 
 
 <!---->
