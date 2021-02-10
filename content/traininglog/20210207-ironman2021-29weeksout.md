@@ -80,7 +80,9 @@ Total Time: **100 minutes**
 
 I had a restful sleep last night and my first steps of the day were less stiff than the past couple of days.
 
-I set up the trainer for the workout on the bike with the idea of doing the cadence and 2:30 reps in the aero bars.  That was done by feel and the looking back on my heart rate data, it didn't look like I was working at all.  My legs felt differently about the exercise.  Not that they were cooked and could turn a crank but that they were working just the same.  The low heart rate could have something to do with pedalling in a much cooler garage.
+I set up the trainer for the workout on the bike with the idea of doing the cadence and 2:30 reps in the aero bars.  I did have to stop briefly to tighten a spindle nut on the rollers.
+<!---->
+The workout was done by feel and the looking back on my heart rate data, it didn't look like I was working at all.  My legs felt differently about the exercise; there was a good burn in the quads when it was time to turn the crank.  The low heart rate could have something to do with pedalling in a much cooler garage.
 
 The run was not right off the bike but it was before dinner.  I felt much better than on [Sunday](javascript:flick('sun');) as I jogged to the trestle and back.  Maybe I was just imagining this but I swear that I could feel the foam in my show get harder the longer I was out in the minus degree weather.
 
@@ -102,7 +104,9 @@ Total Time: **60 minutes**
 
 Up early this morning and happy to score 3's across the board to start the day.
 
-The swim went ok overall.  I was a bit behind getting to the pool hitting traffic lights on the was to _Crystal Pool_.  I missed counted the 300m rep and swam and extra 100m.  I was paying attention to other swimmers and my own effort that I missed the buzzing from my watch telling me that I can stop when I reach the next wall.  I was pretty tight on time this morning too as I was just starting the final 100m when the announcement over the PA system came on to _"get out of the building."_
+The swim went ok overall.  I was a bit behind getting to the pool hitting traffic lights on the was to _Crystal Pool_.  I was dreading doing the fist drill in a 50m lane but it was fine.
+<!---->
+I missed counted the 300m rep and swam and extra 100m.  I was paying attention to other swimmers and my own effort that I missed the buzzing from my watch telling me that I can stop when I reach the next wall.  I was pretty tight on time this morning too as I was just starting the final 100m when the announcement over the PA system came on to _"get out of the building."_
 
 
 
