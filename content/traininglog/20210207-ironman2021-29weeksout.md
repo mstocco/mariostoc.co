@@ -104,7 +104,7 @@ Total Time: **60 minutes**
 
 Up early this morning and happy to score 3's across the board to start the day.
 
-The swim went ok overall.  I was a bit behind getting to the pool hitting traffic lights on the was to _Crystal Pool_.  I was dreading doing the fist drill in a 50m lane but it was fine.
+The swim went ok overall.  I was a bit behind getting to the pool hitting traffic lights on the was to _Crystal Pool_.  I was dreading doing the fist drill in a 50m lane but it was fine.  My only issue was using a bit too much baby shampoo in my swim googles.
 <!---->
 I missed counted the 300m rep and swam and extra 100m.  I was paying attention to other swimmers and my own effort that I missed the buzzing from my watch telling me that I can stop when I reach the next wall.  I was pretty tight on time this morning too as I was just starting the final 100m when the announcement over the PA system came on to _"get out of the building."_
 
