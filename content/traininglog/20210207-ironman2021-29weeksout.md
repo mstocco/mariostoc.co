@@ -128,7 +128,7 @@ Total Time: **0 minutes**
 
 60 minutes on the trainer but I put a touch more effort in than _"easy"._  
 
-I was a bit concerned (and I know I shouldn't be) wit the low heartrate number from the workout on [date]().   I don't have a powermeter and
+I was a bit concerned (and I know I shouldn't be) with the low heartrate number from the workout on [Tuesday](javascript:flick('tue');).   I don't have a powermeter and I am still dialling in RPE for indoor riding.
 
 53g of lemonade with a touch more salt in a 600ml bottle downed before the 50 minute mark.
 
