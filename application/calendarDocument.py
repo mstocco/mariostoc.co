@@ -13,12 +13,13 @@ class CalendarMonth(DIV):
 	def __init__(self, yyyy, mm):
 
 		specialDates = []
-		specialDates.append(date(2021,8,29))	# Ironman Canada
-		specialDates.append(date(2020,10,31))	# 5K Workout
-		specialDates.append(date(2020,11,21))	# 5K Workout
-		specialDates.append(date(2020,12,5))	# 5KM TT
-		specialDates.append(date(2021,5,16))	# Westwood Lake Triathlon
-		specialDates.append(date(2021,8,1))		# Elk Lake Triathlon
+		specialDates.append(date(2021,8,29))    # Ironman Canada
+		specialDates.append(date(2020,10,31))   # 5K Workout
+		specialDates.append(date(2020,11,21))   # 5K Workout
+		specialDates.append(date(2020,12,5))    # 5KM TT
+		specialDates.append(date(2021,5,16))    # Westwood Lake Triathlon
+		specialDates.append(date(2021,5,30))    # Victoria Half
+		specialDates.append(date(2021,8,1))     # Elk Lake Triathlon
 
 		imc = specialDates[0]	# IronMan Canada
 		dateobj = date(yyyy, mm, 1)
