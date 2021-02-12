@@ -82,14 +82,14 @@ I had a restful sleep last night and my first steps of the day were less stiff t
 
 I set up the trainer for the workout on the bike with the idea of doing the cadence and 2:30 reps in the aero bars.  I did have to stop briefly to tighten a spindle nut on the rollers.
 <!---->
-The workout was done by feel and the looking back on my heart rate data, it didn't look like I was working at all.  My legs felt differently about the exercise; there was a good burn in the quads when it was time to turn the crank.  The low heart rate could have something to do with pedalling in a much cooler garage.
+The workout was done by feel and the looking back on my heart rate data, it didn't look like I was working at all.  My legs felt differently about the exercise; there was a good burn in the quads when it was time to turn a crank.  The low heart rate could have something to do with pedalling in a much cooler garage; who knows?
 
 The run was not right off the bike but it was before dinner.  I felt much better than on [Sunday](javascript:flick('sun');) as I jogged to the trestle and back.  Maybe I was just imagining this but I swear that I could feel the foam in my show get harder the longer I was out in the minus degree weather.
 
 I found a tender spot high up on my left calf with a lacrosse ball tonight.
 
 <!---->
-## WEDNESDAY FEB 10 ⛅️
+## WEDNESDAY FEB 10 ❄️
 Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -104,16 +104,18 @@ Total Time: **60 minutes**
 
 Up early this morning and happy to score 3's across the board to start the day.
 
-The swim went ok overall.  I was a bit behind getting to the pool hitting traffic lights on the was to _Crystal Pool_.  I was dreading doing the fist drill in a 50m lane but it was fine.  My only issue was using a bit too much baby shampoo in my swim googles.
+The swim went ok overall.  I was a bit behind getting to the pool hitting traffic lights on the was to _Crystal Pool_.  I was dreading doing the fist drill in a 50m lane but it was fine.  My biggest issue was the sting from using a bit too much baby shampoo in my swim googles.
 <!---->
 I missed counted the 300m rep and swam and extra 100m.  I was paying attention to other swimmers and my own effort that I missed the buzzing from my watch telling me that I can stop when I reach the next wall.  I was pretty tight on time this morning too as I was just starting the final 100m when the announcement over the PA system came on to _"get out of the building."_
 
 
+The flurries started around noon but nothing is sticking (yet).  Still I was able to get the 40 minute easy run in just before dark.  I jogged the bike path to the trestle and back (same as yesterday), plus a bit more to make up the additional 10 minutes.  I did have an acute but very brief twinge in my right _Fibularis Longus Tendon_ (behind the ankle bone) around the 39 minute mark.   
 
+![Fibularis Longus](/assets/jpg/fibularis-20210210.jpeg)
 
 <!---->
-## THURSDAY FEB 11
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## THURSDAY FEB 11 ☁️
+Sleep **3** | Fatigue **2** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -124,12 +126,17 @@ Mobility 30 minutes
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+60 minutes on the trainer but I put a touch more effort in than _"easy"._  
 
+I was a bit concerned (and I know I shouldn't be) wit the low heartrate number from the workout on [date]().   I don't have a powermeter and
+
+53g of lemonade with a touch more salt in a 600ml bottle downed before the 50 minute mark.
+
+I listened to an episode of _"The 99% Podcast"_ with a video (on mute) of Kona 1997 on the screen.  The same era that Peter Reid would blow by me on local training rides here in Victoria.
 
 <!---->
 ## FRIDAY FEB 12
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -142,13 +149,16 @@ Run 45 minutes: 20 minutes easy running. 12x :30 strides, :45 easy jog after eac
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I slept in this morning and my feet were oddly sore when they hit the floor.  Odd because I didn't run yesterday.
 
 
 <!---->
 ## SATURDAY FEB 13
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+
+<h4 style="color:red;border-bottom:1px solid red;">Winter Storm Warning: Greater Victoria</h4>
+<p style="margin-top:0;color:red;font-size:0.85em;">Significant amounts of snow are expected.</p><p style="color:red;font-size:0.85em;">Pacific moisture associated with an approaching frontal system will collide with the arctic front along Vancouver Island. Snow at times heavy will begin by midnight tonight and last through Saturday morning.</p><p style="color:red;font-size:0.85em;">Total snowfall amounts of 10 to 25 cm are expected with the higher amounts occurring closer to Juan De Fuca Strait. In addition, strong easterly winds will give areas of poor visibility in snow and blowing snow.</p>
 
 ### PLANNED WORKOUT
 Ride 2:15 on the MTB on one of Goose/Great trails or a road/TT bike on flatter roads. Nice steady ride. Fueling shouldn't be too big of an issue, but always good to practice.
