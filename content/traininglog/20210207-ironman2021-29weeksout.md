@@ -108,8 +108,7 @@ The swim went ok overall.  I was a bit behind getting to the pool hitting traffi
 <!---->
 I missed counted the 300m rep and swam and extra 100m.  I was paying attention to other swimmers and my own effort that I missed the buzzing from my watch telling me that I can stop when I reach the next wall.  I was pretty tight on time this morning too as I was just starting the final 100m when the announcement over the PA system came on to _"get out of the building."_
 
-
-The flurries started around noon but nothing is sticking (yet).  Still I was able to get the 40 minute easy run in just before dark.  I jogged the bike path to the trestle and back (same as yesterday), plus a bit more to make up the additional 10 minutes.  I did have an acute but very brief twinge in my right _Fibularis Longus Tendon_ (behind the ankle bone) around the 39 minute mark.   
+I was able to get the 40 minute easy run in just before dark.  I jogged the bike path to the trestle and back (same as yesterday), plus a bit more to get to 40 minutes.  I did have an acute but very brief twinge in my right _Fibularis Longus Tendon_ (behind the ankle bone) around the 39 minute mark.   
 
 ![Fibularis Longus](/assets/jpg/fibularis-20210210.jpeg?v2)
 
