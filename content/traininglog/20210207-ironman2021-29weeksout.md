@@ -111,7 +111,7 @@ I missed counted the 300m rep and swam and extra 100m.  I was paying attention t
 
 The flurries started around noon but nothing is sticking (yet).  Still I was able to get the 40 minute easy run in just before dark.  I jogged the bike path to the trestle and back (same as yesterday), plus a bit more to make up the additional 10 minutes.  I did have an acute but very brief twinge in my right _Fibularis Longus Tendon_ (behind the ankle bone) around the 39 minute mark.   
 
-![Fibularis Longus](/assets/jpg/fibularis-20210210.jpeg)
+![Fibularis Longus](/assets/jpg/fibularis-20210210.jpeg?v2)
 
 <!---->
 ## THURSDAY FEB 11 ☁️
