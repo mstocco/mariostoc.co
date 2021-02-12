@@ -157,14 +157,14 @@ I slept in this morning and my feet were oddly sore when they hit the floor.  Od
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
-<h4 style="color:red;border-bottom:1px solid red;">Winter Storm Warning: Greater Victoria</h4>
-<p style="margin-top:0;color:red;font-size:0.85em;">Significant amounts of snow are expected.</p><p style="color:red;font-size:0.85em;">Pacific moisture associated with an approaching frontal system will collide with the arctic front along Vancouver Island. Snow at times heavy will begin by midnight tonight and last through Saturday morning.</p><p style="color:red;font-size:0.85em;">Total snowfall amounts of 10 to 25 cm are expected with the higher amounts occurring closer to Juan De Fuca Strait. In addition, strong easterly winds will give areas of poor visibility in snow and blowing snow.</p>
+<h3 style="color:red;border-bottom:1px solid red;">Winter Storm Warning: Greater Victoria</h3>
+<p style="margin-top:0;color:red;font-size:0.9em;">Significant amounts of snow are expected.</p><p style="color:red;font-size:0.9em;">Pacific moisture associated with an approaching frontal system will collide with the arctic front along Vancouver Island. Snow at times heavy will begin by midnight tonight and last through Saturday morning.</p><p style="color:red;font-size:0.9em;">Total snowfall amounts of 10 to 25 cm are expected with the higher amounts occurring closer to Juan De Fuca Strait. In addition, strong easterly winds will give areas of poor visibility in snow and blowing snow.</p>
 
 ### PLANNED WORKOUT
 Ride 2:15 on the MTB on one of Goose/Great trails or a road/TT bike on flatter roads. Nice steady ride. Fueling shouldn't be too big of an issue, but always good to practice.
 
 OTB: Run 45 minutes. Hilly route. Yes, a bit longer run and the hills will add some intensity.
-
+<!---->
 ### NOTES
 Total Time: **0 minutes**
 
