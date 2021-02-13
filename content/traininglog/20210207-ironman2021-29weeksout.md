@@ -146,9 +146,12 @@ Run 45 minutes: 20 minutes easy running. 12x :30 strides, :45 easy jog after eac
 8x (25 building swim, 25 strong swim, 25 steady kick w/ board r :15 after each) 150 very easy to cool down
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **43y minutes**
 
 I slept in this morning and my feet were oddly sore when they hit the floor.  Odd because I didn't run yesterday.
+
+The run felt good for the most part.  If anything was holding me back it would have been some slight tenderness in my right ankle.  I wasn't held back though because I did an extra stride (counting to 12 is hard apparently).
+
 
 <!---->
 ## SATURDAY FEB 13
