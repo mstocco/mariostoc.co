@@ -147,18 +147,17 @@ Run 45 minutes: 20 minutes easy running. 12x :30 strides, :45 easy jog after eac
 8x (25 building swim, 25 strong swim, 25 steady kick w/ board r :15 after each) 150 very easy to cool down
 
 ### NOTES
-Total Time: **43y minutes**
+Total Time: **92 minutes**
 
 I slept in this morning and my feet were oddly sore when they hit the floor.  Odd because I didn't run yesterday.
 
 The run this afternoon felt **pretty good** for the most part.  If anything was holding me back it would have been some slight tenderness in my right ankle.  I wasn't held back though because I did an extra stride (counting to 12 is hard apparently).
 
-The swim on the other hand was **heavy arms and shoulders**.  
-
+The swim on the other hand was **heavy arms, heavy shoulders**.  I didn't complete the full workout and called it a solid week of swimming at 1900m.  Having booked the _"Bubble Lane"_ for Carina and myself, I was able to set my GoPro on the [bottom of the pool](javascript:flkty.select(2);) and record a bit of video; needless to say, I am humbled with what I reviewed after dinner.
 
 <!---->
 ## SATURDAY FEB 13
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **2** | Fatigue **4** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 <h3 style="color:red;border-bottom:1px solid red;">Winter Storm Warning: Greater Victoria</h3>
@@ -172,4 +171,4 @@ OTB: Run 45 minutes. Hilly route. Yes, a bit longer run and the hills will add s
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash;
+I woke up feeling mentally rested but my body reminded me that I did strides before a swim [yesterday](javascript:flick('fri');).
