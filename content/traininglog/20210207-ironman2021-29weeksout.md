@@ -11,7 +11,7 @@ I feel I like was...
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
-![Looking at the video, man I have lots of work to do.](/assets/jpg/IMG_0567-977x550.jpeg THIRD SWIM THIS WEEK)
+![Looking at the video, man I have lots of work to do.  Perfect practice makes perfect.](/assets/jpg/IMG_0567-977x550.jpeg THIRD SWIM THIS WEEK, ESQUIMALT RECREATION)
 
 ## SUNDAY FEB 07 ☀️
 Sleep **3** | Fatigue **5** | Stress **2** | Soreness **4**  
