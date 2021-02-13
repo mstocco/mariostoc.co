@@ -11,7 +11,8 @@ I feel I like was...
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
-<!---->
+![Looking at the video, man I have lots of work to do.](/assets/jpg/IMG_0567-977x550.jpeg THIRD SWIM THIS WEEK)
+
 ## SUNDAY FEB 07 ☀️
 Sleep **3** | Fatigue **5** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -150,7 +151,9 @@ Total Time: **43y minutes**
 
 I slept in this morning and my feet were oddly sore when they hit the floor.  Odd because I didn't run yesterday.
 
-The run felt good for the most part.  If anything was holding me back it would have been some slight tenderness in my right ankle.  I wasn't held back though because I did an extra stride (counting to 12 is hard apparently).
+The run this afternoon felt **pretty good** for the most part.  If anything was holding me back it would have been some slight tenderness in my right ankle.  I wasn't held back though because I did an extra stride (counting to 12 is hard apparently).
+
+The swim on the other hand was **heavy arms and shoulders**.  
 
 
 <!---->
