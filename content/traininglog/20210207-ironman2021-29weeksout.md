@@ -173,10 +173,15 @@ OTB: Run 45 minutes. Hilly route. Yes, a bit longer run and the hills will add s
 ### NOTES
 Total Time: **128 minutes**
 
-I woke up feeling mentally rested but my body reminded me that I did strides before a swim [yesterday](javascript:flick('fri');).  Looking out the window and it looks to be a foot of snow on that fell overnight.   I spent almost two hours clearing paths with the shovel before getting into the garage for an **indoor ride**.
+I woke up feeling mentally rested but my body reminded me that I did strides before a swim [yesterday](javascript:flick('fri');).  Looking out the window and it looks to be a foot of snow on that fell overnight.   I spent almost two hours clearing paths with the shovel before getting into the garage for an indoor ride.
 
 I prepped a little bit of a different recipe for a bottle this afternoon.  I mixed a total of 90g of sugar and lemonade (3:1) then a pinch of sea salt into a 750ml bottle.  I also brought a can of Red Bull, a bottle of water and bag of Maynards Fuzzy Peach candy to the garage with me.  Everything liquid was consumed with what I guessed be between 200 and 300 calories in candy.  Zero GI and the flavour of the modified lemonade complimented the candy way better than what I was mixing previously.
 
-I rode the rollers for the first hour and 40 minutes.  In and out of aero bars and short breaks roughly on the 10 minute marks to drink and give relief to a blood starved region.  When I stopped to set up the trainer, it took me just over a minute to pop the front wheel off, clamp into the rig and get going again.  I hit the lap button to mark the difference in the work out.  Effort was easy to steady over the course of 2:15 with 2:08 of moving time at the back wheel.
+I rode the rollers for the first hour and 40 minutes.  In and out of aero bars and short breaks roughly on the 10 minute marks to drink and give relief to a blood starved region.
+<!---->
+When I stopped to set up the trainer, it took me just over a minute to pop the front wheel off, clamp into the rig and get going again.  I hit the lap button to mark the difference in the work out.  Effort was **easy to steady** over the course of 2:15 with 2:08 of moving time at the back wheel.
 
-There was no chance of running today.  I picked my neighbour off the street earlier when he fell walking in front of my house.
+### RIDE HEARTRATE CHART
+![Heart Rate Chart](/assets/jpg/hr-20210213.jpeg)
+
+There was **no chance of running** today.  I picked my neighbour off the street earlier when he fell walking in front of my house.
