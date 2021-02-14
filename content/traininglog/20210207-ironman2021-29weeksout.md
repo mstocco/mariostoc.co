@@ -179,9 +179,13 @@ I prepped a little bit of a different recipe for a bottle this afternoon.  I mix
 
 I rode the rollers for the first hour and 40 minutes.  In and out of aero bars and short breaks roughly on the 10 minute marks to drink and give relief to a blood starved region.
 <!---->
-When I stopped to set up the trainer, it took me just over a minute to pop the front wheel off, clamp into the rig and get going again.  I hit the lap button to mark the difference in the work out.  Effort was **easy to steady** over the course of 2:15 with 2:08 of moving time at the back wheel.
+When I stopped to set up the trainer, it took me just over a minute to pop the front wheel off, clamp into the rig and get going again.  I hit the lap button to mark the difference in the work out.
+
+Effort was **easy to steady** over the course of 2:15 with 2:08 of moving time at the back wheel.
 
 ### RIDE HEARTRATE CHART
 ![Heart Rate Chart](/assets/jpg/hr-20210213.jpeg)
+
+---
 
 There was **no chance of running** today.  I picked my neighbour off the street earlier when he fell walking in front of my house.
