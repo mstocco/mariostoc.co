@@ -7,9 +7,11 @@ Week beginning [Sunday, February 7, 2021](javascript:flick('sun');)
 I am starting this week on tired legs and that's ok.  I will get a reprieve [next Sunday](ironman2021-28weeksout?sun) but until then, it is work, workout, eat and rest.
 
 ## SUMMARY
-I feel I like was...  
-<sup>(completed at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel I like was **STAYING CONSISTENT**
+
+Although my cumulative training time was lower than [last week](ironman2021-30weeksout), I felt like I was in the same groove with the daily workouts.  The week started with fatigued legs but got better as the week progressed.  I did have an extra swim session on [Friday](javascript:flick('fri');) that felt like I was pushing it.
+
+The week ended with a late winter storm that has Victoria blanketed in snow.
 
 ![Looking at the video, man I have lots of work to do.  Perfect practice makes perfect.](/assets/jpg/IMG_0567-977x550.jpeg THIRD SWIM THIS WEEK, ESQUIMALT RECREATION)
 
@@ -156,7 +158,7 @@ The run this afternoon felt **pretty good** for the most part.  If anything was 
 The swim on the other hand was **heavy arms, heavy shoulders**.  I didn't complete the full workout and called it a solid week of swimming at 1900m.  Having booked the _"Bubble Lane"_ for Carina and myself, I was able to set my GoPro on the [bottom of the pool](javascript:flkty.select(2);) and record a bit of video; needless to say, I am humbled with what I reviewed after dinner.
 
 <!---->
-## SATURDAY FEB 13
+## SATURDAY FEB 13 ❄️
 Sleep **2** | Fatigue **4** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -169,6 +171,12 @@ Ride 2:15 on the MTB on one of Goose/Great trails or a road/TT bike on flatter r
 OTB: Run 45 minutes. Hilly route. Yes, a bit longer run and the hills will add some intensity.
 <!---->
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **128 minutes**
 
-I woke up feeling mentally rested but my body reminded me that I did strides before a swim [yesterday](javascript:flick('fri');).
+I woke up feeling mentally rested but my body reminded me that I did strides before a swim [yesterday](javascript:flick('fri');).  Looking out the window and it looks to be a foot of snow on that fell overnight.   I spent almost two hours clearing paths with the shovel before getting into the garage for an **indoor ride**.
+
+I prepped a little bit of a different recipe for a bottle this afternoon.  I mixed a total of 90g of sugar and lemonade (3:1) then a pinch of sea salt into a 750ml bottle.  I also brought a can of Red Bull, a bottle of water and bag of Maynards Fuzzy Peach candy to the garage with me.  Everything liquid was consumed with what I guessed be between 200 and 300 calories in candy.  Zero GI and the flavour of the modified lemonade complimented the candy way better than what I was mixing previously.
+
+I rode the rollers for the first hour and 40 minutes.  In and out of aero bars and short breaks roughly on the 10 minute marks to drink and give relief to a blood starved region.  When I stopped to set up the trainer, it took me just over a minute to pop the front wheel off, clamp into the rig and get going again.  I hit the lap button to mark the difference in the work out.  Effort was easy to steady over the course of 2:15 with 2:08 of moving time at the back wheel.
+
+There was no chance of running today.  I picked my neighbour off the street earlier when he fell walking in front of my house.
