@@ -4,7 +4,7 @@ Week beginning [Sunday, February 14, 2021](javascript:flick('sun');)
 **28 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-
+Getting up earlier (pre-dawn swims now scheduled), handling the change (my role at work, winter weather) are things that I expect to navigate this week.  I believe I can be a better athlete proprioceptively while in the pool too.
 
 ## SUMMARY
 I feel I like was...  
@@ -27,12 +27,11 @@ Valentine's Day!
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
-
+I feeling bit stiff and sore from shovelling snow yesterday.  I shovelled again today for a couple hours and got +10,000 steps in doing so.
 
 <!---->
-## MONDAY FEB 15
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## MONDAY FEB 15 🌧
+Sleep **4** | Fatigue **4** | Stress **4** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -42,7 +41,7 @@ Mobility 30 minutes
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Poor sleep and I woke with what feels like an MSG headache.  Snow, slush and ice on the roads and the Goose is not clear (yet).  I am going to swap tomorrow's scheduled indoor ride with today's run.
 
 
 <!---->
