@@ -36,7 +36,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Run 50 minutes easy. Followed by 10x :25 strides, :35 walk after each. Short walk to cool down.   
+Mobility 30 minutes
 
 ### NOTES
 Total Time: **0 minutes**
@@ -50,7 +51,11 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+7:30am: Swim 2300: 
+2x (100 easy swim, 100 swim w/ buoy, 100 kick. r :20 after each)
+2 rounds (50 strong r :20, 200 aerobic/steady r :30, 50 strong r :20, 150 aerobic/steady r :30, 50 strong r :20, 100 aerobic/steady r :30, 50 strong r :20, 50 aerobic/steady r :30) 100 super easy to cool down. 
+
+Ride 60 minutes: Easy spinning on the trainer or rollers.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -64,7 +69,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Ride 75 minutes: 15 minutes easy spinning to warm up. 8x :45 high cadence, :45 easy spinning after each. 4:00 easy spinning. 2 rounds (3x 4:00 @ a pace you could hold for 30-40 minutes, 1:00 very easy spinning between each) 8 minutes easy spinning after each round. 
+
+Run 30 minutes easy. 
 
 ### NOTES
 Total Time: **0 minutes**
@@ -78,7 +85,11 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+5:30am: Swim 2300: 
+6x 50 gradual descend 1-3, 4-6 from easy to moderate r :15.  6x 50 as 25 fist drill/25 strong finish to your stroke r :15. 
+100 steady kick. 10x 150 steady as 2 Swim, 2 w/ buoy r :30 after each. (You'll do 6 swim, 4 w/ buoy) 100 super easy to cool down. 
+
+Mobility 25 minutes
 
 ### NOTES
 Total Time: **0 minutes**
@@ -92,7 +103,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Run 60 minutes. Flat route. EASY effort
 
 ### NOTES
 Total Time: **0 minutes**
@@ -106,7 +117,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+3:30 Ride on road or MTB. You haven't hopped on the goose or Great trails. I'm a proponent. Minimal stops, very safe, lots of places to pee. Gives you a great chance to practice drinking more! 
+Fueling all day long. That's the name of the game. 
+Easy to steady ride. You've got a big run the next day. No need to crush yourself on this ride.
 
 ### NOTES
 Total Time: **0 minutes**
