@@ -45,8 +45,8 @@ Poor sleep and I woke with what feels like an MSG headache.  Snow, slush and ice
 
 The Advil kicked in early in the afternoon and I was on the rollers before dinner.  Easy effort and I watch the Rich Roll interview of Justin Williams.
 <!---->
-## TUESDAY FEB 16
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## TUESDAY FEB 16 🌤
+Sleep **4** | Fatigue **3** | Stress **3** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -57,9 +57,11 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 Ride 60 minutes: Easy spinning on the trainer or rollers.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **52 minutes**
 
-&mdash; 
+I slept oddly and what was yesterday muscle soreness from shovelling snow over the weekend is this morning and stiff and sore localized pain in my lumbar.  Nothing that kept me from swimming but very noticeable just the same.
+
+The swim itself was ok in the beginning.  The watch didn't credit me for the full **2100m** but all the lengths were done.  The last 200m in the main set felt slower and I noticed my mind thinking about work on the next 150m effort.  It is unlikely that I will book a 7:30am swim on a work day going forward.
 
 
 <!---->
