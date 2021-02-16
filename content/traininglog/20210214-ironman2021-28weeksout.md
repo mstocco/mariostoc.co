@@ -39,11 +39,11 @@ Run 50 minutes easy. Followed by 10x :25 strides, :35 walk after each. Short wal
 Mobility 30 minutes
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **60 minutes**
 
 Poor sleep and I woke with what feels like an MSG headache.  Snow, slush and ice on the roads and the Goose is not clear (yet).  I am going to swap tomorrow's scheduled indoor ride with today's run.
 
-
+The Advil kicked in early in the afternoon and I was on the rollers before dinner.  Easy effort and I watch the Rich Roll interview of Justin Williams.
 <!---->
 ## TUESDAY FEB 16
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
