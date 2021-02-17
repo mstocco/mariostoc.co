@@ -65,7 +65,7 @@ The swim itself was ok in the beginning.  I swam in the _"continuous lane"_ this
 
 Along with time on the yoga mat, I spent a bit of time on my massage chair this afternoon and it felt good.
 
-I walked instead of running tonight.  My back felt good while moving but if I sit or stand for any length of time, I stiffens up.
+I walked instead of running tonight.  My back felt good while moving but if I sit or stand for any length of time, it stiffens up.
 
 <!---->
 ## WEDNESDAY FEB 17 ☘
