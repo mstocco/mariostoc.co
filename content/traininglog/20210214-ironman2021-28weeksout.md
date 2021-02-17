@@ -59,7 +59,7 @@ Ride 60 minutes: Easy spinning on the trainer or rollers.
 ### NOTES
 Total Time: **52 minutes**
 
-I slept oddly and what was yesterday, muscle soreness from shovelling snow, is now a stiff and sore, localized pain in my lumbar.  Nothing that kept me from going to the pool but noticeable enough for me to write it down.  
+I slept oddly and what was yesterday, general overall muscle soreness from shovelling snow, is now a localized, soreness in my lumbar.  Nothing that was going to keep me from going to the pool but noticeable enough for me to write it down.  
 <!---->
 The swim itself was ok in the beginning.  I swam in the _"continuous lane"_ this morning and it seemed to be a good rotation with the others I was sharing the lane with.  The watch didn't credit me for the full **2100m** but all the lengths were done; I plugged in the workout and it didn't add up to 2300m (a 600m warmup, a 1400m main set and 100m cool down).  I was just happy to be in the pool regardless.  The last 200m in the main set **felt slower** and I noticed my mind thinking about work on the next 150m effort.  It is unlikely that I will book a 7:30am swim on a work day going forward.
 
