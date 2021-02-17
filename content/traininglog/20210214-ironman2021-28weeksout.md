@@ -65,11 +65,11 @@ The swim itself was ok in the beginning.  I swam in the _"continuous lane"_ this
 
 Along with time on the yoga mat, I spent a bit of time on my massage chair this afternoon and it felt good.
 
-I walked instead of running tonight.  My back felt good while moving but if I sit or stand for any length of time, it stiffens up.
+I walked instead of running tonight.  My back felt good while moving but if I sit or stand for any length of time, it stiffens up.  I spent about 30 minutes of very focused time on the massage chair tonight and followed that up with another session on the yoga mat.  It felt like the knot gave up its fight while getting worked over by the chair and I had a very satisfying, chiropractic-like realignment while stretching.
 
 <!---->
 ## WEDNESDAY FEB 17 ☘
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **2** | Fatigue **2** | Stress **3** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -80,7 +80,7 @@ Run 30 minutes easy.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Good sleep last night but more importantly, my lower back can be described as _"deep tissue massage"_ sore and versus the _"protect the spine at all cost"_ sore felt yesterday.
 
 
 <!---->
