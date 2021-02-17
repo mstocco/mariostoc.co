@@ -11,8 +11,8 @@ I feel I like was...
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
+![Last of the melting snow.](/assets/jpg/IMG_0571-977x550.jpeg COLQUITZ RIVER, SAANICH BC.)
 
-<!---->
 ## SUNDAY FEB 14 ❤️
 Sleep **3** | Fatigue **4** | Stress **2** | Soreness **6**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -63,8 +63,9 @@ I slept oddly and what was yesterday, general overall muscle soreness from shove
 <!---->
 The swim itself was ok in the beginning.  I swam in the _"continuous lane"_ this morning and it seemed to be a good rotation with the others I was sharing the lane with.  The watch didn't credit me for the full **2100m** but all the lengths were done; I plugged in the workout and it didn't add up to 2300m (a 600m warmup, a 1400m main set and 100m cool down).  I was just happy to be in the pool regardless.  The last 200m in the main set **felt slower** and I noticed my mind thinking about work on the next 150m effort.  It is unlikely that I will book a 7:30am swim on a work day going forward.
 
-I spent a bit of time on my massage chair this afternoon and it felt good.
+Along with time on the yoga mat, I spent a bit of time on my massage chair this afternoon and it felt good.
 
+I walked instead of running tonight.  My back felt good while moving but if I sit or stand for any length of time, I stiffens up.
 
 <!---->
 ## WEDNESDAY FEB 17 ☘
