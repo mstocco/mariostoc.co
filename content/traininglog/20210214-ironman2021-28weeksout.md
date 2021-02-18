@@ -63,7 +63,7 @@ I slept oddly and what was yesterday, general overall muscle soreness from shove
 <!---->
 The swim itself was ok in the beginning.  I swam in the _"continuous lane"_ this morning and it seemed to be a good rotation with the others I was sharing the lane with.  The watch didn't credit me for the full **2100m** but all the lengths were done; I plugged in the workout and it didn't add up to 2300m (a 600m warmup, a 1400m main set and 100m cool down).  I was just happy to be in the pool regardless.  The last 200m in the main set **felt slower** and I noticed my mind thinking about work on the next 150m effort.  It is unlikely that I will book a 7:30am swim on a work day going forward.
 
-Along with time on the yoga mat, I spent a bit of time on my massage chair this afternoon and it felt good.
+Along with time on the yoga mat, I briefly used my massage chair too; it felt good.
 
 I walked instead of running tonight.  My back felt good while moving but if I sit or stand for any length of time, it stiffens up.  I spent about 30 minutes of very focused time on the massage chair tonight and followed that up with another session on the yoga mat.  It felt like the knot gave up its fight while getting worked over by the chair and I had a very satisfying, chiropractic-like realignment while stretching.
 
