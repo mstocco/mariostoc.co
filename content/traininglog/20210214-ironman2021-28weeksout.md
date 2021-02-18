@@ -68,7 +68,7 @@ Along with time on the yoga mat, I spent a bit of time on my massage chair this 
 I walked instead of running tonight.  My back felt good while moving but if I sit or stand for any length of time, it stiffens up.  I spent about 30 minutes of very focused time on the massage chair tonight and followed that up with another session on the yoga mat.  It felt like the knot gave up its fight while getting worked over by the chair and I had a very satisfying, chiropractic-like realignment while stretching.
 
 <!---->
-## WEDNESDAY FEB 17 ☘
+## WEDNESDAY FEB 17 🌤
 Sleep **2** | Fatigue **2** | Stress **3** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -78,14 +78,17 @@ Ride 75 minutes: 15 minutes easy spinning to warm up. 8x :45 high cadence, :45 e
 Run 30 minutes easy. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **30 minutes**
 
 Good sleep last night but more importantly, my lower back can be described as _"deep tissue massage"_ sore and versus the _"protect the spine at all cost"_ sore felt yesterday.
 
+The back held up for most of the day and after work, I decided to get the run done first.  The sun was shining and I'd rather not run in the dark if there was still the odd patch of ice.  I started with a walk (+2 mins), then a light jog.  I felt pretty good; good enough to stray out of my neighbourhood and down the bike path.  I turned around early not because I was feeling bad or that I was worried about my back, but because someone had a pit bull out for a walk and I trusted my instincts to not approach that animal any closer than I did.
+
+The run was a success, or so I thought.  Maybe 30 minutes after getting home, things with my back started to go downhill.
 
 <!---->
-## THURSDAY FEB 18
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## THURSDAY FEB 18 ☁️
+Sleep **4** | Fatigue **2** | Stress **4** |<mark> Soreness **6** &nbsp;</mark>  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -98,8 +101,14 @@ Mobility 25 minutes
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+No swimming.  Up at 0440 to test the back and I am a no-go today.
 
+Specific to what is sore in order of pain:  
+- Longissimus Thorasis (Lower Left)
+- Tensor Fasciae Latae (Left)
+- Sartorius (Left)
+
+I've been here before and even though this sucks right now, I will recover.  Specifically recalling a very similar situation with my back 14 months ago in Maui where I rode the top third of the road to the summit of Haleakalā after a back spasm just two days before.
 
 <!---->
 ## FRIDAY FEB 19
