@@ -82,9 +82,13 @@ Total Time: **30 minutes**
 
 Good sleep last night but more importantly, my lower back can be described as _"deep tissue massage"_ sore and versus the _"protect the spine at all cost"_ sore felt yesterday.
 
-The back held up for most of the day and after work, I decided to get the run done first.  The sun was shining and I'd rather not run in the dark if there was still the odd patch of ice.  I started with a walk (+2 mins), then a light jog.  I felt pretty good; good enough to stray out of my neighbourhood and down the bike path.  I turned around early not because I was feeling bad or that I was worried about my back, but because someone had a pit bull out for a walk and I trusted my instincts to not approach that animal any closer than I did.
+The back held up for most of the day and after work, I decided to get the run done first.  The sun was shining and I'd rather not run in the dark if there was still the odd patch of ice.
+<!---->
+I started with a walk (+2 mins), then a light jog.  I felt pretty good; good enough to stray out of my neighbourhood and down the bike path.  I turned around early not because I was feeling bad or that I was worried about my back, but because someone had a pit bull out for a walk and I trusted my instincts to not approach that animal any closer than I did.
 
 The run was a success, or so I thought.  Maybe 30 minutes after getting home, things with my back started to go downhill.
+
+Advil before bed is not a good omen.
 
 <!---->
 ## THURSDAY FEB 18 ☁️
@@ -104,12 +108,12 @@ Total Time: **0 minutes**
 No swimming.  Up at 0440 to test the back and I am a no-go today.
 
 Specific to what is sore in order of pain:  
-- Longissimus Thorasis (Lower Left)
-- Tensor Fasciae Latae (Left)
-- Sartorius (Left)
+- Longissimus Thorasis (Lower Left).  
+- Tensor Fasciae Latae (Left).  
+- Sartorius (Left). 
 
-I've been here before and even though this sucks right now, I will recover.  Specifically recalling a very similar situation with my back 14 months ago in Maui where I rode the top third of the road to the summit of Haleakalā after a back spasm just two days before.
-
+<!---->
+I've been here before and even though this sucks right now, I will recover.  Specifically recalling a very similar situation with myback 14 months ago in Maui where I rode the top third of the road to the summit of Haleakalā after a back spasm just two days before.
 <!---->
 ## FRIDAY FEB 19
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
