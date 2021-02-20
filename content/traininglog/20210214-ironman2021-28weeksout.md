@@ -7,9 +7,9 @@ Week beginning [Sunday, February 14, 2021](javascript:flick('sun');)
 Getting up earlier (pre-dawn swims now scheduled), handling the change (my role at work, winter weather) are things that I expect to navigate this week.  I believe I can be a better athlete proprioceptively while in the pool too.
 
 ## SUMMARY
-I feel I like was...  
-<sup>(completed at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel I like was in **INJURY PROTOCOL**
+
+I only have myself to blame for this one.  A little to much time playing in the snow with the shovel tipped me over the edge.  I've been here before, specifically with this injury.  Sometimes it is a seemingly harmless crack in my back forshadows what is to come and this was no different.
 
 ![Last of the melting snow.](/assets/jpg/IMG_0571-977x550.jpeg COLQUITZ RIVER, SAANICH BC.)
 
@@ -116,7 +116,7 @@ Specific to what is sore in order of pain:
 I've been here before and even though this sucks right now, I will recover.  Specifically recalling a very similar situation with myback 14 months ago in Maui where I rode the top third of the road to the summit of Haleakalā after a back spasm just two days before.
 <!---->
 ## FRIDAY FEB 19
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **1** | Fatigue **2** | Stress **4** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -125,12 +125,12 @@ Run 60 minutes. Flat route. EASY effort
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+No run today.  Besides a sound sleep last night, I did get a late afternoon sleep in as well.  I would have normally would have marked that down as a nap but I was out for more than a couple hours and I was told that there was some pretty good snoring too.  
 
 
 <!---->
 ## SATURDAY FEB 20
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **2** | Fatigue **1** | Stress **4** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -141,7 +141,7 @@ Easy to steady ride. You've got a big run the next day. No need to crush yoursel
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Despite the extra sleep yesterday, I slept pretty soundly again last night (up once to use the bathroom).  No Advil to mask the paint in my back and I am still less than ready to push anything today.  Carina and I went for a walk this morning.  The good news is that the pain is moving outward from the localized spot on my lumbar; this is usually a good sign.   
 
 
 <!---->
