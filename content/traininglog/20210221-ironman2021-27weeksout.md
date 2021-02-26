@@ -4,7 +4,7 @@ Week beginning [Sunday, February 21, 2021](javascript:flick('sun');)
 **27 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-&mdash; 
+This is one is easy.  Heal and not just my back.
 
 ## SUMMARY
 I feel I like was...  
@@ -13,73 +13,34 @@ I feel I like was...
 
 
 <!---->
-## SUNDAY FEB 21
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
-<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+## SUNDAY FEB 21 
 
-### PLANNED WORKOUT
-&mdash; 
+I have been thinking about a new pair of Altra Escalantes as my current pair are on the back half of their training life.  MEC had them in stock so I set off on my walk to downtown.  Walking was ok but if I scooted through a pedestrian crossing because a driver was waiting for me to clear, My lower back was still a bit sketchy.
 
-### NOTES
-Total Time: **0 minutes**
+I got to the store, and tried on a 10.5 and an 11 (just in case there was a sizing difference with the newer model).  I settled on staying with a 10.5 and then...
 
-&mdash; 
+**POP**
+
+That one hurt and hurt bad.  There was an instant rush of thoughts.  Questions from "how long will I be unable to train?" to "will I be able to walk out of the store?".    
 
 
 <!---->
 ## MONDAY FEB 22
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
-<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+No training.   I am stuggling to move about the house.  I am medicating with Robaxact.
 
-### PLANNED WORKOUT
-&mdash; 
-
-### NOTES
-Total Time: **0 minutes**
-
-&mdash; 
-
-
-<!---->
 ## TUESDAY FEB 23
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
-<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
-
-### PLANNED WORKOUT
-&mdash; 
-
-### NOTES
-Total Time: **0 minutes**
-
-&mdash; 
-
+No training.  I am still struggling physically and the pain is wearing on me beyond that too.
 
 <!---->
 ## WEDNESDAY FEB 24
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
-<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+No training but I was able to get into to _The Athlete Centre_ for an assessment on my back.
 
-### PLANNED WORKOUT
-&mdash; 
-
-### NOTES
-Total Time: **0 minutes**
-
-&mdash; 
+**TLDR:** I am on the mend and the injury feels worse than it actually is.  I am ok to walk and swim (neutral spine activities) but staying off the bike for a bit longer.
 
 
 <!---->
 ## THURSDAY FEB 25
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
-<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
-
-### PLANNED WORKOUT
-&mdash; 
-
-### NOTES
-Total Time: **0 minutes**
-
-&mdash; 
+Not much to report except that my back is feeling marginally better again today and that I typically feel better after an hour on the phone with Elliot.
 
 
 <!---->
