@@ -32,7 +32,7 @@ No training.  I am still struggling physically and the pain is wearing on me bey
 ## WEDNESDAY FEB 24
 No training but I was able to get into to _The Athlete Centre_ for an assessment on my back.
 
-**TLDR:** I am on the mend and the injury feels worse than it actually is.  I am ok to walk and swim (neutral spine activities) but staying off the bike for a bit longer.
+TLDR:&nbsp; I am on the mend and the injury feels worse than it actually is.  I am ok to walk and swim (neutral spine activities) but need to stay off the bike for a bit longer.
 
 ---
 ## THURSDAY FEB 25
@@ -40,16 +40,16 @@ Not much to report except that my back is feeling marginally better again today 
 
 <!---->
 ## FRIDAY FEB 26
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **1** | Stress **3** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Swim.  No fixed distance, no fixed pace, no kickboard and no flip turns.
 
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Another morning and another marginal improvement in the range of motion in my back.
 
 
 <!---->
