@@ -38,6 +38,7 @@ TLDR:&nbsp; I am on the mend and the injury feels worse than it actually is.  I 
 ## THURSDAY FEB 25
 Not much to report except that my back is feeling marginally better again today and that I typically feel better after an hour on the phone with Elliot.
 
+The soreness is reduced to the QL muscle and a tiny bit of stiffness around the L5/S1 joint.
 <!---->
 ## FRIDAY FEB 26
 Sleep **3** | Fatigue **1** | Stress **3** | Soreness **5**  
@@ -49,7 +50,7 @@ Swim.  No fixed distance, no fixed pace, no kickboard and no flip turns.
 ### NOTES
 Total Time: **0 minutes**
 
-Another morning and another marginal improvement in the range of motion in my back.
+Another morning and another marginal improvement in the range of motion in my back; I am still not 100% and putting on socks is not (yet) comfortable.
 
 
 <!---->
