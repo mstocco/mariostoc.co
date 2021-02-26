@@ -19,10 +19,7 @@ I have been thinking about a new pair of Altra Escalantes as my current pair are
 
 I got to the store, and tried on a 10.5 and an 11 (just in case there was a sizing difference with the newer model).  I settled on staying with a 10.5 and then...
 
-**POP**
-
-That one hurt and hurt bad.  There was an instant rush of thoughts.  Questions from "how long will I be unable to train?" to "will I be able to walk out of the store?".    
-
+**POP!**. That one hurt and hurt bad.  There was an instant rush of questions in my head from "how long will I be unable to train after this one?" to "will I be able to walk out of the store?".  It was scary.
 
 <!---->
 ## MONDAY FEB 22
@@ -31,17 +28,13 @@ No training.   I am stuggling to move about the house.  I am medicating with Rob
 ## TUESDAY FEB 23
 No training.  I am still struggling physically and the pain is wearing on me beyond that too.
 
-<!---->
 ## WEDNESDAY FEB 24
 No training but I was able to get into to _The Athlete Centre_ for an assessment on my back.
 
 **TLDR:** I am on the mend and the injury feels worse than it actually is.  I am ok to walk and swim (neutral spine activities) but staying off the bike for a bit longer.
 
-
-<!---->
 ## THURSDAY FEB 25
 Not much to report except that my back is feeling marginally better again today and that I typically feel better after an hour on the phone with Elliot.
-
 
 <!---->
 ## FRIDAY FEB 26
