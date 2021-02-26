@@ -17,9 +17,7 @@ I feel I like was...
 
 I have been thinking about a new pair of Altra Escalantes as my current pair are on the back half of their training life.  MEC had them in stock so I set off on my walk to downtown.  Walking was ok but if I scooted through a pedestrian crossing because a driver was waiting for me to clear, My lower back was still a bit sketchy.
 
-I got to the store, and tried on a 10.5 and an 11 (just in case there was a sizing difference with the newer model).  I settled on staying with a 10.5 and then...
-
-**POP!**. That one hurt and hurt bad.  There was an instant rush of questions in my head from "how long will I be unable to train after this one?" to "will I be able to walk out of the store?".  It was scary.
+I got to the store, and tried on a 10.5 and an 11 (just in case there was a sizing difference with the newer model).  I settled on staying with a 10.5 and then...  **POP!**. That one hurt and hurt bad.  There was an instant rush of questions in my head from "how long will I be unable to train after this one?" to "will I be able to walk out of the store?".  It was scary.
 
 ![New Shoes](/assets/jpg/escalante-2.5-340.jpeg)
 <!---->
