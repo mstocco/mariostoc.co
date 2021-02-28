@@ -11,10 +11,10 @@ I feel I like was **STRUGGLING**
 
 The idea was that if I was to say, not be able to run, then I'd be able to maintain fitness on the bike or in the pool.  That is of course if you don't over do it and put a muscle in your back into spasm.  The past two weeks have felt like two months and I have dealt with a range of emotions, none that I would consider postive.
 
-Last week's issue with my **longissimus thorasis** was replaced with an even more acute spasm in my **quadratus lumborum**.   Sitting was next to impossible; sleeping meant waking up with every attempt to roll into a different position.
-
 ## 9 DAYS LOST
-and counting...
+<sup>and counting...</sup><br />Last week's issue with my **longissimus thorasis** was replaced with an even more acute spasm in my **quadratus lumborum**.   Sitting was next to impossible; sleeping meant waking up with every attempt to roll into a different position.
+
+
 
 <!---->
 ## SUNDAY FEB 21 
