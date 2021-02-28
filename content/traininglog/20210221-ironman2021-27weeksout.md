@@ -14,8 +14,6 @@ The idea was that if I was to say, not be able to run, then I'd be able to maint
 ## 9 DAYS LOST
 <sup>and counting...</sup><br />Last week's issue with my **longissimus thorasis** was replaced with an even more acute spasm in my **quadratus lumborum**.   Sitting was next to impossible; sleeping meant waking up with every attempt to roll into a different position.
 
-
-
 <!---->
 ## SUNDAY FEB 21 
 
@@ -52,23 +50,21 @@ Sleep **3** | Fatigue **1** | Stress **3** | Soreness **5**
 Swim.  No fixed distance, no fixed pace, no kickboard and no flip turns.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **40 minutes** &nbsp; Distance: **1500m**
 
 Another morning and another marginal improvement in the range of motion in my back; I am still not 100% and putting on socks is not (yet) comfortable.
 
+Carina and I had a _"Bubble Lane"_ booked at Esquimalt Recreation Centre.  I swam 50s, the odd 100 and the odd 150; sometimes with a pull buoy.  I felt ok, the effort was light and my back felt ok through 1400m (my watch stopped counting lengths at 1150 for some odd reason).
 
 <!---->
 ## SATURDAY FEB 27
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **4** | Fatigue **1** | Stress **3** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+2 short walks.
 
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
-
-
-<!---->
+Maybe the swim was what I needed but I woke up feeling a bit tighter than what I remembered yesterday and on Thursday.  
