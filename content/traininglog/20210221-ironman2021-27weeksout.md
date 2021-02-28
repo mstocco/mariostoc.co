@@ -7,10 +7,14 @@ Week beginning [Sunday, February 21, 2021](javascript:flick('sun');)
 This is one is easy.  Heal and not just my back.
 
 ## SUMMARY
-I feel I like was...  
-<sup>(completed at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel I like was **STRUGGLING**
 
+The idea was that if I was to say, not be able to run, then I'd be able to maintain fitness on the bike or in the pool.  That is of course if you don't over do it and put a muscle in your back into spasm.  The past two weeks have felt like two months and I have dealt with a range of emotions, none that I would consider postive.
+
+Last week's issue with my **longissimus thorasis** was replaced with an even more acute spasm in my **quadratus lumborum**.   Sitting was next to impossible; sleeping meant waking up with every attempt to roll into a different position.
+
+## 9 DAYS LOST
+and counting...
 
 <!---->
 ## SUNDAY FEB 21 
