@@ -7,7 +7,7 @@ Week beginning [Sunday, February 21, 2021](javascript:flick('sun');)
 This is one is easy.  Heal and not just my back.
 
 ## SUMMARY
-I feel I like was **STRUGGLING**
+I feel I like was **STRUGGLING** (mentally and physically)
 
 The idea was that if I was to say, not be able to run, then I'd be able to maintain fitness on the bike or in the pool.  That is of course if you don't over do it and put a muscle in your back into spasm.  The past two weeks have felt like two months and I have dealt with a range of emotions, none that I would consider postive.
 
@@ -32,7 +32,7 @@ No training.  I am still struggling physically and the pain is wearing on me bey
 
 ---
 ## WEDNESDAY FEB 24
-No training but I was able to get into to _The Athlete Centre_ for an assessment on my back.
+No training but I was able to get into to _The Athlete Centre_ for an assessment on my back.  
 
 TLDR:&nbsp; I am on the mend and the injury feels worse than it actually is.  I am ok to walk and swim (neutral spine activities) but need to stay off the bike for a bit longer.
 
@@ -67,4 +67,6 @@ Sleep **4** | Fatigue **1** | Stress **3** | Soreness **5**
 ### NOTES
 Total Time: **0 minutes**
 
-Maybe the swim was what I needed but I woke up feeling a bit tighter than what I remembered yesterday and on Thursday.  
+Maybe the swim was what I needed but I woke up feeling a bit tighter than what I remembered yesterday and on Thursday.
+
+I took it easy today.  I did the regular Saturday chores (laundry) and gave myslef a haircut but formally getting outside to walk around, that was skipped.  Today felt far too much like last Sunday before walking to Downtown.
