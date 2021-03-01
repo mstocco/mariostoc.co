@@ -30,19 +30,20 @@ During the walk, I started to feel the fatigue in my QL become noticeable at the
 I rested and worked with both a lacrosse and golf ball to finish up the day.
 
 I am frustrated that at 6 months in and 6 months to go, my reality has been reduced to a walk.
-vf
+
 <!---->
-## MONDAY MAR 01
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## MONDAY MAR 01 ⛅️
+Sleep **3** | Fatigue **1** | Stress **3** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+am: Walk 20-30 minutes.  
+5:30pm. Swim. Same deal. Easy 50's. With and without the buoy. If that goes well, progress to moderate effort and up to 100 continuous at a time
 
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+The score of this morning's sock test was a bit better; I hit the end range of motion in my back about an inch before getting the sock lined up with my big toe and no other support (wall, chair, etc) used.
 
 
 <!---->
@@ -51,7 +52,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+AM/Noon: Walk 30 minutes.   
+Noon/PM: Walk 45 minutes.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -65,7 +67,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Noon: PT appointment. 
+Whenever: Walk 90 minutes.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -79,7 +82,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+AM/Noon: Walk 45 minutes.  
+Noon/PM: Walk 45- 60 minutes.
 
 ### NOTES
 Total Time: **0 minutes**
