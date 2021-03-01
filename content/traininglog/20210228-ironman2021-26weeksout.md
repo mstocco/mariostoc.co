@@ -4,7 +4,7 @@ Week beginning [Sunday, February 28, 2021](javascript:flick('sun');)
 **26 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-&mdash; 
+My goal is to discover some patience with myself as my back continues to mend.
 
 ## SUMMARY
 I feel I like was...  
@@ -13,17 +13,21 @@ I feel I like was...
 
 
 <!---->
-## SUNDAY FEB 28
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## SUNDAY FEB 28 ☁️
+Sleep **3** | Fatigue **1** | Stress **3** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+A long walk.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Walk Time: **118 minutes** &nbsp; Distance: **11 km**
 
-&mdash; 
+I was stiff when I first woke up but once I was up and about, my back felt as good as it has been in what feels like forever.  The test of putting on a pair of socks confirmed as much but I am not 100% yet; call it 80%.
+
+During the walk, I started to feel the fatigue in my QL become noticeable at the one hour mark.  Nothing acute but enough to remind me to continue with good posture.
+
+I rested and worked with both a lacrosse and golf ball to finish up the day. 
 
 
 <!---->
