@@ -29,8 +29,8 @@ During the walk, I started to feel the fatigue in my QL become noticeable at the
 
 I rested and worked with both a lacrosse and golf ball to finish up the day.
 
-I am frustrated that at 6 months in and 6 months to go, my reality has been reduced to a walk.v
-
+I am frustrated that at 6 months in and 6 months to go, my reality has been reduced to a walk.
+vf
 <!---->
 ## MONDAY MAR 01
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
