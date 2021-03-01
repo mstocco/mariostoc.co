@@ -23,12 +23,13 @@ A long walk.
 ### NOTES
 Total Walk Time: **118 minutes** &nbsp; Distance: **11 km**
 
-I was stiff when I first woke up but once I was up and about, my back felt as good as it has been in what feels like forever.  The test of putting on a pair of socks confirmed as much but I am not 100% yet; call it 80%.
+I was stiff when I first woke up but once I was up and about, my back felt as good as it has been in what feels like forever.  The test of putting on a pair of socks confirmed as much but I am not 100% yet; call it 75%.
 
 During the walk, I started to feel the fatigue in my QL become noticeable at the one hour mark.  Nothing acute but enough to remind me to continue with good posture.
 
-I rested and worked with both a lacrosse and golf ball to finish up the day. 
+I rested and worked with both a lacrosse and golf ball to finish up the day.
 
+I am frustrated that at 6 months in and 6 months to go, my reality has been reduced to a walk.v
 
 <!---->
 ## MONDAY MAR 01
