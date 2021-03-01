@@ -43,7 +43,7 @@ am: Walk 20-30 minutes.
 ### NOTES
 Total Time: **0 minutes**
 
-The score of this morning's sock test was a bit better; I hit the end range of motion in my back about an inch before getting the sock lined up with my big toe and no other support (wall, chair, etc) used.
+The score of this morning's sock test was a bit better; I hit the end range of motion in my back about an inch before getting the sock lined up with my big toe and no other support (wall, chair, etc) used.  What is interesting is the muscle soreness in other areas related to this QL.  This morning it happens to be the top of my left quad that is lit up and feeling almost bruised.
 
 
 <!---->
