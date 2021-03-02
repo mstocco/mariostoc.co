@@ -41,10 +41,11 @@ am: Walk 20-30 minutes.
 5:30pm. Swim. Same deal. Easy 50's. With and without the buoy. If that goes well, progress to moderate effort and up to 100 continuous at a time
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **40 minutes** &nbsp; Distance: **1850m**
 
 The score of this morning's sock test was a bit better; I hit the end range of motion in my back about an inch before getting the sock lined up with my big toe and no other support (wall, chair, etc) used.  What is interesting is the muscle soreness in other areas related to this QL.  This morning it happens to be the top of my left quad that is lit up and feeling almost bruised.
 
+I did plug in a swim workout into my watch, consisting of 50 and 100m efforts, with and without a pull buoy.  Swimming at easy to steady effort felt good.  I had the lane to myself for most of the time in the pool.  I swam to 1850m and although I could have gone to 2000 (maybe more) I decided not to press my luck.  I felt like my time was productive.
 
 <!---->
 ## TUESDAY MAR 02
@@ -53,7 +54,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 
 ### PLANNED WORKOUT
 AM/Noon: Walk 30 minutes.   
-Noon/PM: Walk 45 minutes.
+Noon/PM: Walk 45 minutes.  
+*BONUS Swim!
 
 ### NOTES
 Total Time: **0 minutes**
