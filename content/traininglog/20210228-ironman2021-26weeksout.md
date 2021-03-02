@@ -49,7 +49,7 @@ I did plug in a swim workout into my watch, consisting of 50 and 100m efforts, w
 
 <!---->
 ## TUESDAY MAR 02
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **2** | Fatigue **1** | Stress **4** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -60,7 +60,7 @@ Noon/PM: Walk 45 minutes.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+It is **difficult** to see how slow the progress has been with my back; this is not typical and previous flare ups generally have not taken this long.  Regardless of my frustration, there has been small improvements every day and today there is another, noticeable but small improvement.  The soreness where the QL attaches to the ribs has calmed right down and I am left with some tenderness surrounding the L5 joint and tightness throughout the hip/glute area.  Putting on my socks this morning reminded me that I am not out of the woods with this issue yet.
 
 
 <!---->
