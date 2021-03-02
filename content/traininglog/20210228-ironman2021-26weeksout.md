@@ -43,7 +43,7 @@ am: Walk 20-30 minutes.
 ### NOTES
 Total Time: **40 minutes** &nbsp; Distance: **1850m**
 
-The score of this morning's sock test was a bit better; I hit the end range of motion in my back about an inch before getting the sock lined up with my big toe and no other support (wall, chair, etc) used.  What is interesting is the muscle soreness in other areas related to this QL.  This morning it happens to be the top of my left quad that is lit up and feeling almost bruised.
+This morning's sock test was a bit better; I hit the end range of motion in my back about an inch before getting the sock lined up with my big toe (no wall, chair, support used).  New muscle soreness, apart from my QL, is the top of my left quad; is lit up and feeling almost bruised.
 
 I did plug in a swim workout into my watch, consisting of 50 and 100m efforts, with and without a pull buoy.  Swimming at easy to steady effort felt good.  I had the lane to myself for most of the time in the pool.  I swam to 1850m and although I could have gone to 2000 (maybe more) I decided not to press my luck.  I felt like my time was productive.
 
