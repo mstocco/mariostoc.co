@@ -38,7 +38,7 @@ Sleep **3** | Fatigue **1** | Stress **3** | Soreness **5**
 
 ### PLANNED WORKOUT
 am: Walk 20-30 minutes.  
-5:30pm. Swim. Same deal. Easy 50's. With and without the buoy. If that goes well, progress to moderate effort and up to 100 continuous at a time
+5:30pm. Swim. Same deal. Easy 50's. With and without the buoy. If that goes well, progress to moderate effort and up to 100 continuous
 
 ### NOTES
 Total Time: **40 minutes** &nbsp; Distance: **1850m**
