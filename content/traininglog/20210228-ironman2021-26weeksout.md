@@ -68,6 +68,9 @@ I was able to find an open spot at Esquimalt today and although I swam [yesterda
 
 Compared to yesterday, today was 5 minutes longer in the water.  Both session included a 200m effort at the end.  Yesterday, I comfortably swam that in _3:54.3_ and today, that 200m was _4:02.7_.  Numbers aside, I am thankful that I swam.
 
+### SWIM PACES
+![Pace Chart](/assets/jpg/swim-20210302.jpeg)
+
 <!---->
 ## WEDNESDAY MAR 03
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
