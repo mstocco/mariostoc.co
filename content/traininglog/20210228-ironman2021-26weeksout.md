@@ -48,7 +48,7 @@ This morning's sock test was a bit better; I hit the end range of motion in my b
 My swim workout consisted of 50 and 100m efforts, with/without a pull buoy.  Easy to steady effort **felt good**.  I had a lane to myself for most of the time.  Although I could have gone to 2000 (maybe more) I decided not to press my luck.  I felt like my time **was productive**.
 
 <!---->
-## TUESDAY MAR 02
+## TUESDAY MAR 02 ⛅️
 Sleep **2** | Fatigue **1** | Stress **4** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -58,10 +58,15 @@ Noon/PM: Walk 45 minutes.
 *BONUS Swim!
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **49 minutes** &nbsp; Distance: **2100m**
 
-It is **difficult** to see how slow the progress has been with my back; this is not typical and previous flare ups generally have not taken this long.  Regardless of my frustration, there has been small improvements every day and today there is another, noticeable but small improvement.  The soreness where the QL attaches to the ribs has calmed right down and I am left with some tenderness surrounding the L5 joint and tightness throughout the hip/glute area.  Putting on my socks this morning reminded me that I am not out of the woods with this issue yet.
+It is **difficult** to see how slow the progress has been with my back; this is not typical and previous flare ups generally have not taken this long.  Regardless of my frustration, there has been small improvements every day and today there is another, noticeable but small improvement.  The soreness where the QL attaches to the ribs has calmed right down and I am left with some tenderness surrounding the L5 joint and tightness throughout the hip/glute area.
 
+Putting on my socks this morning reminded me that I am not out of the woods with this issue yet.
+<!---->
+I was able to find an open spot at Esquimalt today and although I swam [yesterday](javascript:flick('mon');), the upcoming weeks are looking spotty for lane availability (both at Crystal Pool and Esquimalt).  With yesterday's simple swim still in my head, I took that same workout and tacked on a little more at the beginning and the end.  I feel like this was another **productive session** with good focus on posture and form.
+
+Compared to yesterday, today was 5 minutes longer in the water.  Both session included a 200m effort at the end.  Yesterday, I comfortably swam that in _3:54.3_ and today, that 200m was _4:02.7_.  Numbers aside, I am thankful that I swam.
 
 <!---->
 ## WEDNESDAY MAR 03
