@@ -54,7 +54,8 @@ Sleep **2** | Fatigue **1** | Stress **4** | Soreness **5**
 
 ### PLANNED WORKOUT
 AM/Noon: Walk 30 minutes.   
-Noon/PM: Walk 45 minutes.  
+Noon/PM: Walk 45 minutes.
+
 *BONUS Swim!
 
 ### NOTES
