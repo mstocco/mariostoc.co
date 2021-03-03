@@ -86,7 +86,7 @@ Total Time: **0 minutes**
 
 Each day, I am slowly returning to my good self.  When the socks went on this morning, I hit the end of range in my L5 joint without the an accompanying jolt of pain.  Overall, I am scoring this injury as 90% back to health.  Maybe by the weekend I will be doing more that walk or swim.
  
-
+This afternoon, I had an epiphany moment when I was working with Michelle from The Athlete Centre; more movement pattern discovery and core engagement work.  I was surprised to be able to bend over and touch my toes.  I am looking forward to getting back at training sooner than later.
 
 <!---->
 ## THURSDAY MAR 04
