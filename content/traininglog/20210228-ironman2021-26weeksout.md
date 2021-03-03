@@ -78,7 +78,7 @@ Sleep **2** | Fatigue **1** | Stress **4** | Soreness **4**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Noon: PT appointment. 
+Noon: PT appointment.   
 Whenever: Walk 90 minutes.
 
 ### NOTES
