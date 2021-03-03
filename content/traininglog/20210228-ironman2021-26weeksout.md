@@ -73,8 +73,8 @@ Compared to yesterday, today was 5 minutes longer in the water.  Both session in
 ![Pace Chart](/assets/jpg/swim-20210302.jpeg?v2)
 
 <!---->
-## WEDNESDAY MAR 03
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## WEDNESDAY MAR 03 ☁️
+Sleep **2** | Fatigue **1** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -84,7 +84,8 @@ Whenever: Walk 90 minutes.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Each day, I am slowly returning to my good self.  When the socks went on this morning, I hit the end of range in my L5 joint without the an accompanying jolt of pain.  Overall, I am scoring this injury as 90% back to health.  Maybe by the weekend I will be doing more that walk or swim.
+ 
 
 
 <!---->
