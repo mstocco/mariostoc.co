@@ -95,8 +95,8 @@ Walking included to and from PT (3km) and a trip up and around [Christmas Hill](
 During the walk after work, I felt great but after dinner, my QL was tired and a bit sore.
 
 <!---->
-## THURSDAY MAR 04
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## THURSDAY MAR 04 🌤
+Sleep **3** | Fatigue **1** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -106,7 +106,7 @@ Noon/PM: Walk 45- 60 minutes.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Interestingly, my QL is sore this morning but not in an acute way; this feels like normal muscle soreness (I did effectively walk around a hill with stairs for a trail yesterday).  I am thinking this is another small win toward getting back at it.
 
 
 <!---->
