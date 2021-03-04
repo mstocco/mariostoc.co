@@ -87,10 +87,13 @@ Each day, I am slowly returning to my good self.  When the socks went on this mo
  
 This afternoon, I had an epiphany moment when I was working with Michelle from The Athlete Centre; more movement pattern discovery and core engagement work.  I was surprised to be able to bend over and touch my toes.  I am looking forward to getting back at training sooner than later.
 <!---->
-Walking included to and from PT (3km) and a trip up and around [Christmas Hill](javascript:flkty.select(2);).  During the walk after work, I felt fine but after dinner, I could tell that the QL was tired. 
+Walking included to and from PT (3km) and a trip up and around [Christmas Hill](javascript:flkty.select(2);).
 
 ### WALK AROUND THE HILL
 ![Map](/assets/jpg/walk-20210303.jpeg)
+
+During the walk after work, I felt great but after dinner, my QL was tired and a bit sore.
+
 <!---->
 ## THURSDAY MAR 04
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
