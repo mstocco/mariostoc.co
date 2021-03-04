@@ -11,7 +11,7 @@ I feel I like was...
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
-![Feeling better during a sunset walk on Wednesday.](/assets/jpg/IMG_3103-977x550.jpeg SUNSET FROM CHRISTMAS HILL)
+![Feeling better during a sunset walk on Wednesday.](/assets/jpg/IMG_3103-977x550.jpeg?v2 SUNSET FROM CHRISTMAS HILL)
 ## SUNDAY FEB 28 ☁️
 Sleep **3** | Fatigue **1** | Stress **3** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -86,8 +86,9 @@ Total Time: **100 minutes**
 Each day, I am slowly returning to my good self.  When the socks went on this morning, I hit the end of range in my L5 joint without the an accompanying jolt of pain.  Overall, I am scoring this injury as 90% back to health.  Maybe by the weekend I will be doing more that walk or swim.
  
 This afternoon, I had an epiphany moment when I was working with Michelle from The Athlete Centre; more movement pattern discovery and core engagement work.  I was surprised to be able to bend over and touch my toes.  I am looking forward to getting back at training sooner than later.
+<!---->
+Walking included to and from PT (3km) and a trip up and around [Christmas Hill](javascript:flkty.select(2);).  During the walk after work, I felt fine but after dinner, I could tell that the QL was tired. 
 
-Walking included to and from PT (3km) and a trip up and around [Christmas Hill](javascript:flkty.select(2);).
 <!---->
 ## THURSDAY MAR 04
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
