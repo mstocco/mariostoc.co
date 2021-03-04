@@ -81,7 +81,7 @@ Noon: PT appointment.
 Whenever: Walk 90 minutes.
 
 ### NOTES
-Total Time: **100 minutes**
+Total Walking Time: **+110 minutes**
 
 Each day, I am slowly returning to my good self.  When the socks went on this morning, I hit the end of range in my L5 joint without the an accompanying jolt of pain.  Overall, I am scoring this injury as 90% back to health.  Maybe by the weekend I will be doing more that walk or swim.
  
