@@ -11,7 +11,7 @@ I feel I like was...
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
-![Feeling better during a sunset walk on Wednesday.](/assets/jpg/IMG_3103-977x550.jpeg?v2 SUNSET FROM CHRISTMAS HILL)
+![Feeling better during a sunset walk on Wednesday.](/assets/jpg/IMG_3115-977x550.jpeg?v2 SUNSET FROM CHRISTMAS HILL)
 ## SUNDAY FEB 28 ☁️
 Sleep **3** | Fatigue **1** | Stress **3** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -89,6 +89,7 @@ This afternoon, I had an epiphany moment when I was working with Michelle from T
 <!---->
 Walking included to and from PT (3km) and a trip up and around [Christmas Hill](javascript:flkty.select(2);).  During the walk after work, I felt fine but after dinner, I could tell that the QL was tired. 
 
+![Map](/assets/jpg/walk-20210303.jpeg)
 <!---->
 ## THURSDAY MAR 04
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
