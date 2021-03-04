@@ -89,6 +89,7 @@ This afternoon, I had an epiphany moment when I was working with Michelle from T
 <!---->
 Walking included to and from PT (3km) and a trip up and around [Christmas Hill](javascript:flkty.select(2);).  During the walk after work, I felt fine but after dinner, I could tell that the QL was tired. 
 
+### WALK AROUND THE HILL
 ![Map](/assets/jpg/walk-20210303.jpeg)
 <!---->
 ## THURSDAY MAR 04
