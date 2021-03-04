@@ -106,7 +106,7 @@ Noon/PM: Walk 45- 60 minutes.
 ### NOTES
 Total Time: **0 minutes**
 
-Interestingly, my QL is sore this morning but not in an acute way; this feels like normal muscle soreness (I did effectively walk around a hill with stairs for a trail yesterday).  I am thinking this is another small win toward getting back at it.
+Interestingly, my QL is sore this morning but not in an acute way; this feels like normal muscle soreness (I did effectively walk a bunch of stairs on the trail yesterday).  I am thinking this is another small win toward getting back at it.
 
 
 <!---->
