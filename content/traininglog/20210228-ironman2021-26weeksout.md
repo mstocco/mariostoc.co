@@ -125,7 +125,9 @@ Although today's morning was way early (for me), once in the water, I felt great
 <!---->
 I originally thought about swimming 2100m but as the workout progressed, my times increased; what started as low 50 seconds for a length, slowly crept up to just over a minute.  I decided to call it a workout at the 1900m mark.  No sense swimming with degraded form just to get 200 more metres.
 
-In other news, my back feels fantastic!  Zero difficulty using _"the sock test"_ before and after the swim.  Good times are coming.
+---
+
+In other news, **my back feels fantastic!**  Zero difficulty using _"the sock test"_ before and after the swim.  Good times are coming.
 
 
 
