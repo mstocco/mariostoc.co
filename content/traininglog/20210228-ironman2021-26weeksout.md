@@ -129,8 +129,8 @@ I originally thought about swimming 2100m but as the workout progressed, my time
 
 ---
 
-In other news, **my back feels fantastic!**  Zero difficulty using _"the sock test"_ before and after the swim.  Good times are coming.
-
+In other news, **my back feels fantastic!**  
+Zero difficulty using _"the sock test"_ before and after the swim.  Good times are coming.
 
 
 <!---->
@@ -139,12 +139,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Run/walk: 60 Minutes.   10 minutes walking, 8x4min jog with 1 minutes recovery.  10 minutes of walking to finish.  Focus on breath work.
 
 ### NOTES
 Total Time: **0 minutes**
 
 &mdash; 
-
-
-<!---->
