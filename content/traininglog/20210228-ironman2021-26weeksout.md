@@ -121,7 +121,9 @@ Total Time: **45 minutes**
 
 I was awake more than a few times throughout the night; mostly in anticipation of the 0500 alarm that I had set.  The only open lane that I could book was Crystal Pool for 0530.
 
-Although today's morning was way early (for me), once in the water, I felt great.  I swam in the _"Continuous Lane"_ and there was little congestion.  2 lengths without a bouy, 2 lengths with a bouy with a minimum of 10 seconds rest between lengths.  I'd stretch the rest a bit longer if I needed spacing with others in the pool.  I originally thought about doing 2100m but as the workout progressed, my times increase and what started at in the low 50s for a length, slowly crept up over a minute.  I decided to finish with 1900m.  No sense swimming with poor form just to get 200 more metres.
+Although today's morning was way early (for me), once in the water, I felt great.  I swam in the _"Continuous Lane"_ and there was not much congestion.  2 lengths without a bouy, 2 lengths with a bouy with at least 10 seconds rest between lengths.  I'd stretch the rest a bit longer if I needed spacing with others in the pool.  
+<!---->
+I originally thought about swimming 2100m but as the workout progressed, my times increased; what started as low 50 seconds for a length, slowly crept up to just over a minute.  I decided to call it a workout at the 1900m mark.  No sense swimming with degraded form just to get 200 more metres.
 
 In other news, my back feels fantastic!  Zero difficulty using _"the sock test"_ before and after the swim.  Good times are coming.
 
