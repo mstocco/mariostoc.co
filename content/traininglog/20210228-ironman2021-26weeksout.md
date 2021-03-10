@@ -7,9 +7,11 @@ Week beginning [Sunday, February 28, 2021](javascript:flick('sun');)
 My goal is to discover some patience with myself as my back continues to mend.
 
 ## SUMMARY
-I feel I like was...  
-<sup>(completed at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel I like had **TURNED THE CORNER**
+
+Walking and swimming.  I typically would not count walking as training but if that is all I should/could do, then this was an ok week; it certainly could have been worse.
+
+Work stress is still high and maybe that has had an effect on my recovery from the QL spasm.
 
 ![Feeling better during a sunset walk on Wednesday.](/assets/jpg/IMG_3115-977x550.jpeg?v2 SUNSET FROM CHRISTMAS HILL)
 ## SUNDAY FEB 28 ☁️
@@ -132,10 +134,9 @@ I originally thought about swimming 2100m but as the workout progressed, my time
 In other news, **my back feels fantastic!**  
 Zero difficulty using _"the sock test"_ before and after the swim.  Good times are coming.
 
-
 <!---->
-## SATURDAY MAR 06
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## SATURDAY MAR 06 🌦
+Sleep **2** | Fatigue **1** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -144,4 +145,6 @@ Run/walk: 60 Minutes.   10 minutes walking, 8x4min jog with 1 minutes recovery. 
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I felt asleep and stayed asleep last night; nice!  My lower back is again, pain free and my range of motion is getting close to my normal; nice!
+
+The walk/jog was generally ok.  No back pain.  My focus was on a new (for me) diaphragmatic breathing technique.  I suck at it; it is not natural but I didn't quit on the idea.
