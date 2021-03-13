@@ -11,7 +11,9 @@ I feel I like had **TURNED THE CORNER**
 
 Walking and swimming.  I typically would not count walking as training but if that is all I should/could do, then this was an ok week; it certainly could have been worse.
 
-Work stress is still high and maybe that has had an effect on my recovery from the QL spasm.
+Work stress is still high and maybe that is why this QL spasm has taken longer to bounce back.
+
+![Feb Stats](/assets/jpg/stats-feb2021.jpeg)
 
 ![Feeling better during a sunset walk on Wednesday.](/assets/jpg/IMG_3115-977x550.jpeg?v2 SUNSET FROM CHRISTMAS HILL)
 ## SUNDAY FEB 28 ☁️
