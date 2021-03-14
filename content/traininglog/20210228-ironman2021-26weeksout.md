@@ -13,7 +13,7 @@ Walking and swimming.  I typically would not count walking as training but if th
 
 Work stress is still high and maybe that is why this QL spasm has taken longer to bounce back.
 
-Outside of training and work, I must say, I like that sunrises are getting earlier.
+Outside of training and work, I must say, I like that sunrises are getting earlier.  We also had nicer weather this week too.
 
 ![Feeling better during a sunset walk on Wednesday.](/assets/jpg/IMG_3115-977x550.jpeg?v2 SUNSET FROM CHRISTMAS HILL)
 ## SUNDAY FEB 28 ☁️
