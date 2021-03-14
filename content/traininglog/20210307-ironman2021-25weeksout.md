@@ -15,8 +15,7 @@ I thought I had a good week for being on the mend.  I got a little over an hour 
 
 I thought I was getting a handle on a really tough project at work but any inertia I had at the beginning of the week was gone by [Friday](javascript('fri');).
 
-It is apparent that the bike is going to be a no-go until this back clears up and that make me feel mad.
-
+It is apparent that riding is going to be an issue until this back heals completely; that make me feel frustrated and mad.
 
 ![Trees are flowering, the days are getting longer and my back isn't healthy enough to take advantage.](/assets/jpg/IMG_3127-977x550.jpeg SPRING HAS ARRIVED IN VICTORIA)
 ## SUNDAY MAR 07
