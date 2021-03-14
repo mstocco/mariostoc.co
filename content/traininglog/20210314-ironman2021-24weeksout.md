@@ -4,7 +4,7 @@ Week beginning [Sunday, March 14, 2021](javascript:flick('sun');)
 **24 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-&mdash; 
+Status Quo:  Manage the stress from work and do things that will benefit my back.
 
 ## SUMMARY
 I feel I like was...  
@@ -18,12 +18,12 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Day 2 TAC Routine.  Run/Walk 60 minutes: 10 minutes walking to warm up/start/ 40 minutes easy/flat running. 10 minutes walking to finish up.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **60 minutes**
 
-&mdash; 
+
 
 
 <!---->
@@ -32,7 +32,12 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Day 1 TAC Routine. 
+5:30am: Swim 2100: 
+2 rounds (6x 50 Steady swim w/ strong finish to stroke r :20. 2x 50 kick w/ tight kick. r :15) 
+4 rounds (100 steady swim w/ tighter kick r :30, 50 steady/tight kick r :20)
+4x 150 steady/aerobic w/ buoy and strong finish to stroke. r :45. 2x 50 super easy to cool down. 
+Noon/Pm: Ride 30 minutes EASY on the trainer. Road bike (more upright than the TT) Keep this effort very easy. 
 
 ### NOTES
 Total Time: **0 minutes**
@@ -46,7 +51,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Day 2 routine. 
+Run/Walk 60 minutes: 10 minutes walking to warm up. 45 minutes easy running. Fairly flat route. 5 minutes walk to finish up. 
 
 ### NOTES
 Total Time: **0 minutes**
@@ -60,7 +66,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Day 1 TAC Routine. 
+Ride 75 minutes on MTB. Flat to rolling terrain. Easy effort. Getting outside. 
+Walk 30 minutes. Nice short walk to get outside and on your feet.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -74,7 +82,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Day 2 routine. 
+Run/Walk 60 minutes: 10 minutes walk to start. 50 minutes easy running. Flat terrain works. If you're feeling great, you can hit a local hill or two. Aka: You don't have to avoid all the hills.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -88,7 +97,14 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Day 1 TAC Routine. 
+Morning/Noon: Walk 30 minutes. Another nice short walk. To get you outside and work on your breathing. 
+5:30pm: Swim 2000: 
+4x 50 swim w/ tight/controlled kick r :30. 4x 50 swim w/ buoy/keep the legs tight AND have a strong finish to your stroke. r :30. 
+12x 50 D 1-4, 5-8, 9-12 using your strong finish to your stroke to go faster from rep to rep. R :20. 
+100 super easy swimming. 
+2x 400 continuous/steady. Trying to finish your stroke at the hip for the entire 400. r 2:00 between each. 
+2x 50 easy to cool down
 
 ### NOTES
 Total Time: **0 minutes**
