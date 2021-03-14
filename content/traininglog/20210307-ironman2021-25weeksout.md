@@ -7,9 +7,15 @@ Week beginning [Sunday, March 7, 2021](javascript:flick('sun');)
 It looks like from the works out, I will spend this week slowly coming back from the back injury.
 
 ## SUMMARY
-I feel I like was **TWO STEPS FORWARD, ONE STEP BACK**
+I feel I like was:  
+**&rarr TWO STEPS FORWARD**   
+**&larr; ONE STEP BACK**
 
-I thought I had a good week for being on the mend.  I got a little over an hour of running in, lots of walking and a bit of time on the bike.  
+I thought I had a good week for being on the mend.  I got a little over an hour of running in, lots of walking and a bit of time on the bike.  I had a really good day on [Wednesday](javascript:flick('wed');) but sadly, I had a QL flare up on [Saturday](javascript:flick('sat');).
+
+I thought I was getting a handle on a really tough project at work but any inertia I had at the beginning of the week was gone by [Friday](javascript('fri');).
+
+
 
 ![Trees are flowering, the days are getting longer and my back isn't healthy enough to take advantage.](/assets/jpg/IMG_3127-977x550.jpeg SPRING HAS ARRIVED IN VICTORIA)
 ## SUNDAY MAR 07
