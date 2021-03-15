@@ -11,7 +11,7 @@ I feel I like was...
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
-![I took this on my ride home from the pool](/assets/jpg/IMG_3161-977x550.jpeg SUNRISE ON A COOL VICTORIA MORNING)
+![I took this on my ride home from the pool.  ](/assets/jpg/IMG_3161-977x550.jpeg INNER HARBOUR SUNRISE ON A CRISP MONDAY MORNING)
 ## SUNDAY MAR 14
 Sleep **3** | Fatigue **1** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
