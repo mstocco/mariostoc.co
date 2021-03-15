@@ -13,7 +13,7 @@ I feel I like was...
 
 ![On my ride home from the pool; this view never gets old.](/assets/jpg/IMG_3161-977x550.jpeg INNER HARBOUR SUNRISE ON A CRISP MONDAY MORNING)
 
-## SUNDAY MAR 14
+## SUNDAY MAR 14 ☁️
 Sleep **3** | Fatigue **1** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -31,7 +31,7 @@ I spent time with both TAC routines before heading out for the walk/run.  My QL 
 I spent some massage time with the QL late in the afternoon; it is sore to the touch at its top (ribs).
 
 <!---->
-## MONDAY MAR 15
+## MONDAY MAR 15 🌤
 Sleep **4** | Fatigue **2** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -44,13 +44,13 @@ Day 1 TAC Routine.
 Noon/Pm: Ride 30 minutes EASY on the trainer. Road bike (more upright than the TT) Keep this effort very easy. 
 
 ### NOTES
-Total Time: **80 minutes**
+Total Time: **80 minutes** &nbsp; Swim: **2100m**
 
 I was awake a couple times in anticipation of an early 5am start; not the best sleep.
 
 Once there, the fast lane had the least congestion but as more people arrived, that lane became busy and I felt pressure to put out more effort than was appropriate for me.
 <!---->
-Recognizing that, I did my 2nd round of kick work over in the slow lane before slotting into some space in the continuous lane.  Overall, this felt like a good workout and again, I was able to comfortably swim the last 100m at 1:49.
+Recognizing that, I did my 2nd round of kick work over in the slow lane before slotting into some space in the continuous lane.  Overall, this felt like a good workout and again, I was able to comfortably swim the **last 100m** in **1:49**.
 
 ---
 
