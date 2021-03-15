@@ -52,12 +52,13 @@ Once there, the fast lane had the least congestion but as more people arrived, t
 <!---->
 Recognizing that, I did my 2nd round of kick work over in the slow lane before slotting into some space in the continuous lane.  Overall, this felt like a good workout and again, I was able to comfortably swim the last 100m at 1:49.
 
-I rode my mountain bike to and from the pool this morning.  I swung through downtown before riding home and I was able to catch the [sunrise](javascript:flkty.select(2);); nice start to the work week.
+---
+
+I rode my mountain bike to and from the pool this morning (30 minutes of moving time).  I swung through downtown before riding home and I was able to catch the [sunrise](javascript:flkty.select(2);); nice start to the work week.
 
 ---
 
-My back is a bit better again this morning.  The lumbar is just tight; not sore or pinchy.  The top of my QL is still tender but swimming and the ride did not aggrevate it further.
-
+My back is a bit better again this morning.  The lumbar is just tight; not sore or pinchy.  The top of my QL is still tender but less so than yesterday. Today's swimming and riding did not aggrevate it further.
 
 <!---->
 ## TUESDAY MAR 16
