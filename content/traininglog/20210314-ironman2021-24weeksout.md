@@ -23,7 +23,7 @@ Day 2 TAC Routine.  Run/Walk 60 minutes: 10 minutes walking to warm up/start/ 40
 ### NOTES
 Total Time: **60 minutes**
 
-I spent time with both TAC routines before heading out for the walk/run.  My QL is sore this morning but in good enough shape to put on socks and good enough shape for me to get out the door.  I walked to _Pearkes Arena_ before pressing start on the run.  I spent 90% of my time on the dirt trails of _Culthbert Homes and Colquitz River Parks_.   My back felt good; zero issues with the activity of running.  I did feel soreness in my left piriformis but for the most part, this was easily breathing, marathon pace for the prescribed 50 minutes.
+I spent time with both TAC routines before heading out for the walk/run.  My QL is sore this morning but in good enough shape to put on socks and good enough shape for me to get out the door.  I walked to _Pearkes Arena_ before pressing start on the run.  I spent 90% of my time on the dirt trails of _Cuthbert Homes, Colquitz River and Swan Creek Parks_.   My back felt good; zero issues with the activity of running.  I did feel soreness in my left piriformis but for the most part, this was easily breathing, marathon pace for the prescribed 50 minutes.
 <!---->
 ### RUN THROUGH THE PARK(s)
 ![Run Map](/assets/jpg/runmap-20210314.jpeg)
