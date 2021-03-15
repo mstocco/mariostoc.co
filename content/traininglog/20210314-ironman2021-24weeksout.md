@@ -51,7 +51,6 @@ I was awake a couple times in anticipation of an early 5am start; not the best s
 Once there, the fast lane had the least congestion but as more people arrived, that lane became busy and I felt pressure to put out more effort than was appropriate for me.
 <!---->
 Recognizing that, I did my 2nd round of kick work over in the slow lane before slotting into some space in the continuous lane.  Overall, this felt like a good workout and again, I was able to comfortably swim the **last 100m** in **1:49**.
-![HR Chart](/assets/jpg/swim-hr-20210315.jpeg)
 
 ---
 
@@ -61,7 +60,7 @@ I rode my mountain bike to and from the pool this morning (30 minutes of moving 
 
 My back is a bit better again this morning.  The lumbar is just tight; not sore or pinchy.  The top of my QL is still tender but less so than yesterday. Today's swimming and riding did not aggrevate it further.
 
-
+![HR Chart](/assets/jpg/swim-hr-20210315.jpeg)
 <!---->
 ## TUESDAY MAR 16
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
