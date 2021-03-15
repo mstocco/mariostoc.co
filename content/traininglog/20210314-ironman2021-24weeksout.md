@@ -60,6 +60,7 @@ I rode my mountain bike to and from the pool this morning (30 minutes of moving 
 
 My back is a bit better again this morning.  The lumbar is just tight; not sore or pinchy.  The top of my QL is still tender but less so than yesterday. Today's swimming and riding did not aggrevate it further.
 
+![HR Chart](/assets/jpg/swim-hr-20210315.jpeg)
 <!---->
 ## TUESDAY MAR 16
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
