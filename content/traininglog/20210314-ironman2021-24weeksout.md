@@ -36,7 +36,7 @@ Sleep **4** | Fatigue **2** | Stress **4** | Soreness **4**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Day 1 TAC Routine. 
+Day 1 TAC Routine.  
 5:30am: Swim 2100: 
 2 rounds (6x 50 Steady swim w/ strong finish to stroke r :20. 2x 50 kick w/ tight kick. r :15) 
 4 rounds (100 steady swim w/ tighter kick r :30, 50 steady/tight kick r :20)
@@ -48,7 +48,9 @@ Total Time: **80 minutes**
 
 I was awake a couple times in anticipation of an early 5am start; not the best sleep.
 
-I rode my MTB to the pool.  Once there, it looked like the fast lane had the least congestion so I hopped in there.  As people continued to arrive, that lane became busy and I felt like I was putting in more effort than I should; I did my kick work over in the slow lane before slotting into some space in the continuous lane.  Overall, this felt like a good workout and again, I was able to comfortably swim the last 100m at 1:49.
+I rode my MTB to the pool.  Once there, it looked like the fast lane had the least congestion so I hopped in there.  As people continued to arrive, that lane became busy and I felt like I was putting in more effort than I should.
+<!---->
+Recognizing that, I did my kick work over in the slow lane before slotting into some space in the continuous lane.  Overall, this felt like a good workout and again, I was able to comfortably swim the last 100m at 1:49.
 
 I swung through downtown before riding home and I was able to catch the [sunrise](javascript:flkty.select(2);); nice start to the work week.
 
