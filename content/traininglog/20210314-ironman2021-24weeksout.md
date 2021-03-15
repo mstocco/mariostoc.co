@@ -46,9 +46,9 @@ Noon/Pm: Ride 30 minutes EASY on the trainer. Road bike (more upright than the T
 ### NOTES
 Total Time: **80 minutes**
 
-I was awake a couple times in anticipation of an early 5am start; not the best sleep.
+I was awake a couple times in anticipation of an early 5am start; not the best sleep.  I rode to the pool.
 
-I rode to the pool.  Once there, the fast lane had the least congestion but as people continued to arrive, that lane became busy and I felt pressure to put out more effort than was appropriate for me.
+Once there, the fast lane had the least congestion but as more people arrived, that lane became busy and I felt pressure to put out more effort than was appropriate for me.
 <!---->
 Recognizing that, I did my 2nd round of kick work over in the slow lane before slotting into some space in the continuous lane.  Overall, this felt like a good workout and again, I was able to comfortably swim the last 100m at 1:49.
 
