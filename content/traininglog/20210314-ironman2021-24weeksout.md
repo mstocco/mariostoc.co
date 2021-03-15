@@ -12,6 +12,7 @@ I feel I like was...
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
 ![On my ride home from the pool; this view never gets old.](/assets/jpg/IMG_3161-977x550.jpeg INNER HARBOUR SUNRISE ON A CRISP MONDAY MORNING)
+
 ## SUNDAY MAR 14
 Sleep **3** | Fatigue **1** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -23,12 +24,15 @@ Day 2 TAC Routine.  Run/Walk 60 minutes: 10 minutes walking to warm up/start/ 40
 Total Time: **60 minutes**
 
 I spent time with both TAC routines before heading out for the walk/run.  My QL is sore this morning but in good enough shape to put on socks and good enough shape for me to get out the door.  I walked to _Pearkes Arena_ before pressing start on the run.  I spent 90% of my time on the dirt trails of _Culthbert Homes and Colquitz River Parks_.   My back felt good; zero issues with the activity of running.  I did feel soreness in my left piriformis but for the most part, this was easily breathing, marathon pace for the prescribed 50 minutes.
+<!---->
+### RUN THROUGH THE PARK(s)
+![Run Map](/assets/jpg/runmap-20210314.jpeg)
 
 I spent some massage time with the QL late in the afternoon; it is sore to the touch at its top (ribs).
 
 <!---->
 ## MONDAY MAR 15
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **4** | Fatigue **2** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -40,9 +44,15 @@ Day 1 TAC Routine.
 Noon/Pm: Ride 30 minutes EASY on the trainer. Road bike (more upright than the TT) Keep this effort very easy. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **80 minutes**
 
-&mdash; 
+I was awake a couple times in anticipation of an early 5am start; not the best sleep.
+
+I rode my MTB to the pool.  Once there, it looked like the fast lane had the least congestion so I hopped in there.  As people continued to arrive, that lane became busy and I felt like I was putting in more effort than I should; I did my kick work over in the slow lane before slotting into some space in the continuous lane.  Overall, this felt like a good workout and again, I was able to comfortably swim the last 100m at 1:49.
+
+I swung through downtown before riding home and I was able to catch the [sunrise](javascript:flkty.select(2);); nice start to the work week.
+
+My back is a bit better again this morning.  The lumbar is just tight; not sore or pinchy.  The top of my QL is still tender but swimming and the ride did not aggrevate it further.
 
 
 <!---->
