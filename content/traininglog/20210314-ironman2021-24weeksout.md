@@ -61,9 +61,10 @@ I rode my mountain bike to and from the pool this morning (30 minutes of moving 
 My back is a bit better again this morning.  The lumbar is just tight; not sore or pinchy.  The top of my QL is still tender but less so than yesterday. Today's swimming and riding did not aggrevate it further.
 
 ![HR Chart](/assets/jpg/swim-hr-20210315.jpeg)
+
 <!---->
-## TUESDAY MAR 16
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## TUESDAY MAR 16 🌤
+Sleep **3** | Fatigue **1** | Stress **5** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -73,8 +74,7 @@ Run/Walk 60 minutes: 10 minutes walking to warm up. 45 minutes easy running. Fai
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
-
+Somewhat of an okay sleep despite the switch to Daylight Savings Time.  My lumbar is tight and the tender spot high on my QL is a lot less sore today.  I did not expect this to have cost me a month of training and that is super frustrating.
 
 <!---->
 ## WEDNESDAY MAR 17
