@@ -87,7 +87,7 @@ I felt heavy (I am heavy) and the piriformis on the right is aggravated now too.
 Outside of the activity, I hit an important milestone with a project at work.  Hopefully this will turn the wick down on the overall stress to a level more conducive for getting back to January's training volume.
 
 <!---->
-## WEDNESDAY MAR 17
+## WEDNESDAY MAR 17 🌤
 Sleep **2** | Fatigue **2** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
