@@ -72,9 +72,13 @@ Day 2 routine.
 Run/Walk 60 minutes: 10 minutes walking to warm up. 45 minutes easy running. Fairly flat route. 5 minutes walk to finish up. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **53 minutes**
 
 Somewhat of an okay sleep despite the switch to Daylight Savings Time.  My lumbar is tight and the tender spot high on my QL is a lot less sore today.  I did not expect this to have cost me a month of training and that is super frustrating.
+
+Perfect evening for a pre-supper jog around _Swan Lake_.  Unfortunately, both soleus' were pretty lit up so I stuck to the dirt for the better part of the first 30 minutes.  Ironically, I really didn't feel good until I was back on asphalt and heading towards home.  Apart from nice weather and a spectacular sunset, physically this wasn't a the most fun 43 minutes (I got back home early).  Piriformis on the right is aggravated now too.
+
+Outside of the activity, I hit an important milestone with a project at work.  Hopefully this will turn the wick down on the overall stress to a more conducive level.
 
 <!---->
 ## WEDNESDAY MAR 17
