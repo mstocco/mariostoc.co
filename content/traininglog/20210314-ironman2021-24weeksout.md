@@ -68,7 +68,7 @@ Sleep **3** | Fatigue **1** | Stress **5** | Soreness **4**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Day 2 routine. 
+Day 2 TAC Routine. 
 Run/Walk 60 minutes: 10 minutes walking to warm up. 45 minutes easy running. Fairly flat route. 5 minutes walk to finish up. 
 
 ### NOTES
@@ -88,7 +88,7 @@ Outside of the activity, I hit an important milestone with a project at work.  H
 
 <!---->
 ## WEDNESDAY MAR 17
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **2** | Fatigue **2** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -99,7 +99,7 @@ Walk 30 minutes. Nice short walk to get outside and on your feet.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Decent sleep last night and I am looking forward to riding today (last sunny day in the forecast).
 
 
 <!---->
