@@ -79,12 +79,12 @@ Somewhat of an okay sleep despite the switch to Daylight Savings Time.  My lumba
 Perfect evening for a pre-supper jog around _Swan Lake_.  Unfortunately, both soleus' were pretty lit up so I stuck to the dirt for the better part of the first 30 minutes.  Ironically, I really didn't feel good until I was back on asphalt and heading towards home.  Apart from nice weather and a spectacular sunset, physically this wasn't a the most fun 43 minutes (I got back early).
 <!---->
 I felt heavy (I am heavy) and the piriformis on the right is aggravated now too.
+
 ![runmap](/assets/jpg/runmap-20210316.jpeg)
 
 ---
 
 Outside of the activity, I hit an important milestone with a project at work.  Hopefully this will turn the wick down on the overall stress to a more conducive level.
-
 
 <!---->
 ## WEDNESDAY MAR 17
