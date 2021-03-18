@@ -145,12 +145,12 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Day 2 TAC Routine.   
+Ride 90 minutes on the Goose or Lochside. Read: **FLAT**. Keep the effort easy. Just going for a spin. Road or MTB.   
+Walk 60 minutes. Flat to rolling terrain. Ok for a hill or two, but don't go to Gowlland Tod! 🙂 
+Might be nice to do your routine, then go for the walk.
 
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
-
-
-<!---->
+&mdash;
