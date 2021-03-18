@@ -101,7 +101,7 @@ Total Time: **70 minutes**
 
 Decent sleep last night and I am looking forward to riding today (last sunny day in the forecast).  I knocked out another productive day at work too.
 
-Wanted to ride my road bike but MTB it was.  I ended up pushed a bit more effort to keep up with a roadie on his commute back to _Colwood_.  I headed back towards town at the _E&N Junction_ but that was fun to ride with someone if only for a short bit.  I rode easy for the balance of an hour before stopping at Carina's office.  We pedalled home together after that.  I felt like I could have ridden my _Bellamy Trail Loop (Thetis Lk)_.
+Wanted to ride my road bike but MTB it was.  I ended up pushed a bit more effort to keep up with a roadie on his commute back to _Colwood_.    It was fun to ride with someone if only for a short bit.  At the _E&N Junction_, I headed back to toward town.  I rode easy for the remainder of the hour before stopping at Carina's office.  We pedalled home together after that.  I felt like I could have ridden my _Bellamy Trail Loop (Thetis Lk)_.
 
 <!---->
 ## THURSDAY MAR 18
