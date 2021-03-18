@@ -101,7 +101,7 @@ Total Time: **70 minutes**
 
 Decent sleep last night and I am looking forward to riding today (last sunny day in the forecast).  I knocked out another productive day at work too.
 
-I got out on the MTB for a bit of time on the bike paths.  I ended up pushing with a bit more effort to keep up with a roadie on his commute back to _Colwood_.  I headed back towards town at the _E&N Junction_ but that was fun to ride with someone if only for a short bit.  I rode easy for the balance of an hour before stopping at Carina's office.  We pedalled home together after that.  I felt good and probably could have handled a loop around _Thetis Lake_.
+Wanted to ride my road bike but MTB it was.  I ended up pushed a bit more effort to keep up with a roadie on his commute back to _Colwood_.  I headed back towards town at the _E&N Junction_ but that was fun to ride with someone if only for a short bit.  I rode easy for the balance of an hour before stopping at Carina's office.  We pedalled home together after that.  I felt good and probably could have handled a loop around _Thetis Lake_.
 
 
 <!---->
@@ -125,8 +125,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Day 1 TAC Routine. 
-Morning/Noon: Walk 30 minutes. Another nice short walk. To get you outside and work on your breathing. 
+Day 1 TAC Routine.  
+Morning/Noon: Walk 30 minutes. Another nice short walk. To get you outside and work on your breathing.  
 5:30pm: Swim 2000: 
 4x 50 swim w/ tight/controlled kick r :30. 4x 50 swim w/ buoy/keep the legs tight AND have a strong finish to your stroke. r :30. 
 12x 50 D 1-4, 5-8, 9-12 using your strong finish to your stroke to go faster from rep to rep. R :20. 
