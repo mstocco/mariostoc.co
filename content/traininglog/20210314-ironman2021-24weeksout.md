@@ -97,9 +97,11 @@ Ride 75 minutes on MTB. Flat to rolling terrain. Easy effort. Getting outside.
 Walk 30 minutes. Nice short walk to get outside and on your feet.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **70 minutes**
 
-Decent sleep last night and I am looking forward to riding today (last sunny day in the forecast).
+Decent sleep last night and I am looking forward to riding today (last sunny day in the forecast).  I knocked out another productive day at work too.
+
+I got out on the MTB for a bit of time on the bike paths.  I ended up pushing with a bit more effort to keep up with a roadie on his commute back to _Colwood_.  I headed back towards town at the _E&N Junction_ but that was fun to ride with someone if only for a short bit.  I rode easy for the balance of an hour before stopping at Carina's office.  We pedalled home together after that.  I felt good and probably could have handled a loop around _Thetis Lake_.
 
 
 <!---->
