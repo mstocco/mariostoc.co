@@ -106,17 +106,17 @@ Wanted to ride my road bike but MTB it was.  I ended up pushed a bit more effort
 
 <!---->
 ## THURSDAY MAR 18
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **2** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Day 2 routine. 
-Run/Walk 60 minutes: 10 minutes walk to start. 50 minutes easy running. Flat terrain works. If you're feeling great, you can hit a local hill or two. Aka: You don't have to avoid all the hills.
+Day 2 routine.  
+Run/Walk 60 minutes: 10 minutes walk to start. 50 minutes easy running. Flat terrain works. If you're feeling great, <strike>you can hit a local hill or two. Aka: You don't have to avoid all the hills</strike>.
 
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Good sleep and unless someone told my I have been dealing with a sore back, I would not have known this morning.  Things are looking up.
 
 
 <!---->
