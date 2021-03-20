@@ -120,7 +120,7 @@ Good sleep and unless someone told my I have been dealing with a sore back, I wo
 
 <!---->
 ## FRIDAY MAR 19
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **2** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -134,9 +134,11 @@ Morning/Noon: Walk 30 minutes. Another nice short walk. To get you outside and w
 2x 50 easy to cool down
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **100 minutes**
 
-&mdash; 
+Probably the best day I've had in a month.  It started with work and a project that I had been worked on at work has come to an end.  That is a weight off my shoulders.  To celebrate, I did yesterday's 50 minute jog mostly on the dirt paths of _Cuthbert Homes Park_.  With the reflection of a storefront window, I did catch a glimpse of my posture at the 49th minute and I did see a hinge in my hips.  I had a stretch as soon as I returned home to confirm that my quads and hip flexors were tight.  This was a good catch.
+
+In the pool, I had a decent workout too.  Officially recorded 2050 because I over-swam the second 400.
 
 
 <!---->
