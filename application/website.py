@@ -35,6 +35,7 @@ class Website:
 			filename = filenames[index]
 			if int(filename[0:8]) > self.today:
 				break
+			self.currentContent = '%s/traininglog/%s' % (self.content, filename)
 			self.current = '/traininglog/%s' % filename[9:].split('.md')[0]
 			self.previous = '/traininglog/%s' % filenames[index - 1][9:].split('.md')[0]
 		return
@@ -124,6 +125,16 @@ class Website:
 		self.saveHumansTxt()
 		print('\ndone.')
 		
+	def publishCurrent(self):
+		print('\npublishing current traininglog page...')
+		webpage = TemplateDocument()
+		webpage.lastModified = int(self.today)
+		webpage.documentURI = self.current
+		webpage.nocache = True
+		webpage.handleMarkdown(self.currentContent)
+		self.saveDocument(webpage)
+		print('\ndone.')
+	
 	def saveDocument(self, webpage):
 		""" Save the HTML5 Doc if it is new or its markdown
 		    is different from a previous version.
@@ -188,8 +199,11 @@ class Website:
 		if hasattr(self, 'action'):
 			if self.action == 'clean':
 				return self.clean()
+			if self.action == 'makecurrent':
+				return self.publishCurrent()
 			if self.action == 'makeall':
 				self.clean()
+
 		self.publish()
 		return
 
