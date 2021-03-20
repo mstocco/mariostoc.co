@@ -7,9 +7,9 @@ Week beginning [Sunday, March 14, 2021](javascript:flick('sun');)
 Status Quo:  Manage the stress from work and do things that will benefit my back.
 
 ## SUMMARY
-I feel I like was...  
-<sup>(completed at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel I like was **GETTING CLOSE TO GO**
+
+So many lessons delivered with this back spasm, injury, setback.  Coming out of this past month, I am in a better spot with recognizing how I can react to certain pressures from work.  I am in a better spot proprioceptively after working with Michelle at The Athlete Centre and some swim video analysis with Elliott.  I really wish I didn't loose a month of consistancy as I was in a nice groove to kick off 2021.
 
 ![On my ride home from the pool; this view never gets old.](/assets/jpg/IMG_3161-977x550.jpeg INNER HARBOUR SUNRISE ON A CRISP MONDAY MORNING)
 
@@ -117,6 +117,8 @@ Total Time: **0 minutes**
 
 Good sleep and unless someone told my I have been dealing with a sore back, I would not have known this morning.  Things are looking up.
 
+Work however, threw a curveball at my afternoon.  I was about to head out the door for today's scheduled jog when I answered a _"bing!"_ from my computer.  That was a call that pushed passed 1800 and into dinner.  After dinner, I was back on the keyboard and today's training was a miss.
+
 
 <!---->
 ## FRIDAY MAR 19
@@ -138,12 +140,11 @@ Total Time: **100 minutes**
 
 Probably the best day I've had in a month.  It started with work and a project that I had been worked on at work has come to an end.  That is a weight off my shoulders.  To celebrate, I did yesterday's 50 minute jog mostly on the dirt paths of _Cuthbert Homes Park_.  With the reflection of a storefront window, I did catch a glimpse of my posture at the 49th minute and I did see a hinge in my hips.  I had a stretch as soon as I returned home to confirm that my quads and hip flexors were tight.  This was a good catch.
 
-In the pool, I had a decent workout too.  Officially recorded 2050 because I over-swam the second 400.
-
+In the pool, I had a decent workout too.  Officially recorded 2050m because I over-swam the second 400.
 
 <!---->
-## SATURDAY MAR 20
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## SATURDAY MAR 20 🌦
+Sleep **2** | Fatigue **2** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
