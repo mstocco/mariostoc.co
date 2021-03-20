@@ -28,15 +28,15 @@ class Website:
 		""" The current training week is referenced in a
 		    document's <nav> element
 		"""
-		logfiles = os.listdir('%s/traininglog/' % self.content)
-		logfiles.sort()
+		filenames = os.listdir('%s/traininglog/' % self.content)
+		filenames.sort()
 
-		for index in range(len(logfiles)):
-			logfile = logfiles[index]
-			if int(logfile[0:8]) > self.today:
+		for index in range(len(filenames)):
+			filename = filenames[index]
+			if int(filename[0:8]) > self.today:
 				break
-			self.current = '/traininglog/%s' % logfile[9:].split('.md')[0]
-			self.previous = '/traininglog/%s' % logfiles[index - 1][9:].split('.md')[0]
+			self.current = '/traininglog/%s' % filename[9:].split('.md')[0]
+			self.previous = '/traininglog/%s' % filenames[index - 1][9:].split('.md')[0]
 		return
 
 	def clean(self):
