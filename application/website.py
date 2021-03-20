@@ -50,7 +50,6 @@ class Website:
 			print('->', directory)
 			targetdir = '%s/%s' % (self.public, directory)
 			for root, dirs, files in os.walk(targetdir):
-
 				for filename in files:
 					target = '%s/%s' % (root, filename)
 					print('  - %s' % target.replace(self.public, ''))
@@ -193,8 +192,7 @@ class Website:
 		fileobj.write('\n'.join(humans))
 		fileobj.close()
 		return
-  
-	
+
 	def do(self):
 		if hasattr(self, 'action'):
 			if self.action == 'clean':
@@ -203,9 +201,9 @@ class Website:
 				return self.publishCurrent()
 			if self.action == 'makeall':
 				self.clean()
-
 		self.publish()
 		return
+
 
 if __name__ == '__main__':
 	import argparse
