@@ -9,7 +9,11 @@ Status Quo:  Manage the stress from work and do things that will benefit my back
 ## SUMMARY
 I feel I like was **CLOSER TO "GO TIME"**
 
-So many lessons delivered with this back spasm, injury, setback.  Coming out of this past month, I am in a better spot with recognizing how I can choose to react to certain pressures from work.  I am in a better spot proprioceptively after working with Michelle at The Athlete Centre and some swim video analysis with Elliott.  I really wish I didn't loose a month of consistancy as I was in a nice groove to kick off 2021.
+So many lessons delivered with this back spasm, injury, setback...
+
+Coming out of this past month, I am a bit better at recognizing pressures from work and how to make better choices when reacting to them.  The injury introduced me to Michelle from The Athlete Centre and I am proprioceptively, a bit more in tune with my posture after working with her.
+
+I really wish I didn't loose 4 weeks of of consistancy; I was in a nice training groove to kick off the first 6 weeks of 2021.
 
 ![On my ride home from the pool; this view never gets old.](/assets/jpg/IMG_3161-977x550.jpeg INNER HARBOUR SUNRISE ON A CRISP MONDAY MORNING)
 
@@ -118,7 +122,6 @@ Total Time: **0 minutes**
 Good sleep and unless someone told my I have been dealing with a sore back, I would not have known this morning.  Things are looking up.
 
 Work however, threw a curveball at my afternoon.  I was about to head out the door for today's scheduled jog when I answered a _"bing!"_ from my computer.  That was a call that pushed passed 1800 and into dinner.  After dinner, I was back on the keyboard and today's training was a miss.
-
 
 <!---->
 ## FRIDAY MAR 19
