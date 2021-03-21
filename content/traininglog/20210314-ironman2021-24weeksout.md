@@ -141,9 +141,11 @@ Morning/Noon: Walk 30 minutes. Another nice short walk. To get you outside and w
 ### NOTES
 Total Time: **100 minutes**
 
-Probably the best day I've had in a month.  It started with work and a project that I had been worked on at work has come to an end.  That is a weight off my shoulders.  To celebrate, I did yesterday's 50 minute jog mostly on the dirt paths of _Cuthbert Homes Park_.  With the reflection of a storefront window, I did catch a glimpse of my posture at the 49th minute and I did see a hinge in my hips.  I had a stretch as soon as I returned home to confirm that my quads and hip flexors were tight.  This was a good catch.
+Probably the best day I've had in a month.  It started with work and a project that I had been worked on at work has come to an end.  That is a weight off my shoulders.
+<!---->
+To celebrate, I did yesterday's 50 minute jog mostly on the dirt paths of _Cuthbert Homes Park_.  With the reflection of a storefront window, I did catch a glimpse of my posture at the 49th minute and I did see a hinge in my hips.  I had a stretch as soon as I returned home to confirm that my quads and hip flexors were tight.  This was a good catch.
 
-In the pool, I had a decent workout too.  Officially recorded 2050m because I over-swam the second 400.
+In the pool, I had a decent workout too.  Officially recorded 2050m because I over-swam the second 400.  I recorded (again) with the GoPro and I am still shorting my stoke at the end of the workout.  
 
 <!---->
 ## SATURDAY MAR 20 🌦
@@ -161,4 +163,6 @@ Total Time: **100 minutes** &nbsp; Distance: **34 km**
 
 It was shorter walk this morning before breakfast (30 minutes). 
 
-For the ride, the route that I picked was a little less than FLAT in some places and I spent a little longer in the saddle (10 minutes).  I was on the mountain bike but if I wanted to be hip and modern, I'd call today a "gravel" ride (so mountain biking without a mountain).  Basically, this was the _Centennial Trail_ paralleling _West Saanich Road_, then _Old West Saanich_ to _Elk Lake_ then home.  The route kept me out of the wind for the most part.  I felt good for the most part; my back was ok and I was thankful to have MTB gearing for the hill on _Old West Saanich_.
+For the ride, the route that I picked was a little less than FLAT in some places and I spent a little longer in the saddle (10 minutes).  I was on the mountain bike but if I wanted to be hip and modern, I'd call today a "gravel" ride (so mountain biking without a mountain).
+<!---->
+Basically, this was the _Centennial Trail_ paralleling _West Saanich Road_, then _Old West Saanich_ to _Elk Lake_ then home.  The route kept me out of the wind for the most part.  I felt good for the most part; my back was ok and I was thankful to have MTB gearing for the hill on _Old West Saanich_.
