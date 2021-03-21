@@ -145,7 +145,8 @@ Probably the best day I've had in a month.  It started with work and a project t
 <!---->
 To celebrate, I did yesterday's 50 minute jog mostly on the dirt paths of _Cuthbert Homes Park_.  With the reflection of a storefront window, I did catch a glimpse of my posture at the 49th minute and I did see a hinge in my hips.  I had a stretch as soon as I returned home to confirm that my quads and hip flexors were tight.  This was a good catch.
 
-In the pool, I had a decent workout too.  Officially recorded 2050m because I over-swam the second 400.  I recorded (again) with the GoPro and I am still shorting my stoke at the end of the workout.  
+In the pool, I had a decent workout too.  Officially recorded 2050m because I over-swam the second 400.  I recorded (again) with the GoPro and I am still shorting my stoke at the end of the workout.  The last 100m was still in the ballpark (1:46 after some rest).
+
 
 <!---->
 ## SATURDAY MAR 20 🌦
