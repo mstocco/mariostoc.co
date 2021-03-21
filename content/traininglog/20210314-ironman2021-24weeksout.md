@@ -7,7 +7,7 @@ Week beginning [Sunday, March 14, 2021](javascript:flick('sun');)
 Status Quo:  Manage the stress from work and do things that will benefit my back.
 
 ## SUMMARY
-I feel I like was **GETTING CLOSE TO "GO"**
+I feel I like was **CLOSER TO "GO TIME"**
 
 So many lessons delivered with this back spasm, injury, setback.  Coming out of this past month, I am in a better spot with recognizing how I can choose to react to certain pressures from work.  I am in a better spot proprioceptively after working with Michelle at The Athlete Centre and some swim video analysis with Elliott.  I really wish I didn't loose a month of consistancy as I was in a nice groove to kick off 2021.
 
@@ -154,6 +154,8 @@ Walk 60 minutes. Flat to rolling terrain. Ok for a hill or two, but don't go to 
 Might be nice to do your routine, then go for the walk.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **100 minutes** &nbsp; Distance: **34 km**
 
-&mdash;
+It was shorter walk this morning before breakfast (30 minutes). 
+
+For the ride, the route that I picked was a little less than FLAT in some places and I spent a little longer in the saddle (10 minutes).  I was on the mountain bike but if I wanted to be hip and modern, I'd call today a "gravel" ride (so mountain biking without a mountain).  Basically, this was the _Centennial Trail_ paralleling _West Saanich Road_, then _Old West Saanich_ to _Elk Lake_ then home.  The route kept me out of the wind for the most part.  I felt good for the most part; my back was ok and I was thankful to have MTB gearing for the hill on _Old West Saanich_.
