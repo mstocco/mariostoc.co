@@ -170,7 +170,7 @@ It was shorter walk this morning before breakfast (30 minutes).
 
 For the ride, the route that I picked was a little less than FLAT in some places and I spent a little longer in the saddle (10 minutes).  I was on the mountain bike but if I wanted to be hip and modern, I'd call today a "gravel" ride (so mountain biking without a mountain).
 <!---->
-Basically, this was the _Centennial Trail_ paralleling _West Saanich Road_, then _Old West Saanich_ to _Elk Lake_ then home.  The route kept me out of the wind for the most part.  I felt good for the most part; my back was ok and I was thankful to have MTB gearing for the hill on _Old West Saanich_.
+Basically, today's route was out to _Centennial Trail_ paralleling _West Saanich Road_, then _Old West Saanich_ to _Elk Lake_ then home.  The route kept me out of the wind (and drizzle) for the most part.  **I felt good**; my back was ok, my legs got to spin circles and I was thankful to have MTB gearing up the hill on _Old West Saanich Road_.
 
 ### DIRT PATH AND ROAD MIX
 ![Ride Map](/assets/jpg/ridemap-20210320.jpeg)
