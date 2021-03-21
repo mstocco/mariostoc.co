@@ -147,6 +147,8 @@ To celebrate, I did yesterday's 50 minute jog mostly on the dirt paths of _Cuthb
 
 ![Run Map](/assets/jpg/runmap-20210319.jpeg)
 
+---
+
 In the pool, I had a decent workout too.  Officially recorded 2050m because I over-swam the second 400.  I recorded (again) with the GoPro and I am still shorting my stoke at the end of the workout.  The last 100m was still in the ballpark (1:46 after some rest).
 
 <!---->
@@ -169,4 +171,5 @@ For the ride, the route that I picked was a little less than FLAT in some places
 <!---->
 Basically, this was the _Centennial Trail_ paralleling _West Saanich Road_, then _Old West Saanich_ to _Elk Lake_ then home.  The route kept me out of the wind for the most part.  I felt good for the most part; my back was ok and I was thankful to have MTB gearing for the hill on _Old West Saanich_.
 
+### DIRT PATH AND ROAD MIX
 ![Ride Map](/assets/jpg/ridemap-20210320.jpeg)
