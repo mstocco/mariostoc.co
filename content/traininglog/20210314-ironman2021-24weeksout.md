@@ -108,7 +108,7 @@ Decent sleep last night and I am looking forward to riding today (last sunny day
 Wanted to ride my road bike but MTB it was.  I pushed with a bit more effort to keep up with a roadie on his commute back to _Colwood_.    It was fun to ride with someone if only for a short bit.  At the _E&N Junction_, I headed back to town.  I rode easy for the remainder of the hour before stopping at Carina's office.  From there, she and I pedalled home.  I felt like I could have ridden _Bellamy Trail_ (XC loop).
 
 <!---->
-## THURSDAY MAR 18
+## THURSDAY MAR 18 🌤
 Sleep **3** | Fatigue **2** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -117,14 +117,14 @@ Day 2 TAC Routine.
 Run/Walk 60 minutes: 10 minutes walk to start. 50 minutes easy running. Flat terrain works. If you're feeling great, <strike>you can hit a local hill or two. Aka: You don't have to avoid all the hills</strike>.
 
 ### NOTES
-Total Time: **0 minutes**
+<mark>Total Time: **0 minutes** &nbsp;</mark>
 
 Good sleep and unless someone told my I have been dealing with a sore back, I would not have known this morning.  Things are looking up.
 
-Work however, threw a curveball at my afternoon.  I was about to head out the door for today's scheduled jog when I answered a _"bing!"_ from my computer.  That was a call that pushed passed 1800 and into dinner.  After dinner, I was back on the keyboard and today's training was a miss.
+Work however, threw a curveball at my afternoon.  I was about to head out the door for today's scheduled jog when I answered a _"bing!"_ from my computer.  That was a call that pushed passed 1800 and into dinner.  After dinner, I was back on the keyboard and today's training was a miss.  My goal this week was to manage this exact thing better; today was unavoidable.
 
 <!---->
-## FRIDAY MAR 19
+## FRIDAY MAR 19 🌤
 Sleep **3** | Fatigue **2** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
