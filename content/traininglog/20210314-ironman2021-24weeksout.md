@@ -7,9 +7,9 @@ Week beginning [Sunday, March 14, 2021](javascript:flick('sun');)
 Status Quo:  Manage the stress from work and do things that will benefit my back.
 
 ## SUMMARY
-I feel I like was **GETTING CLOSE TO GO**
+I feel I like was **GETTING CLOSE TO "GO"**
 
-So many lessons delivered with this back spasm, injury, setback.  Coming out of this past month, I am in a better spot with recognizing how I can react to certain pressures from work.  I am in a better spot proprioceptively after working with Michelle at The Athlete Centre and some swim video analysis with Elliott.  I really wish I didn't loose a month of consistancy as I was in a nice groove to kick off 2021.
+So many lessons delivered with this back spasm, injury, setback.  Coming out of this past month, I am in a better spot with recognizing how I can choose to react to certain pressures from work.  I am in a better spot proprioceptively after working with Michelle at The Athlete Centre and some swim video analysis with Elliott.  I really wish I didn't loose a month of consistancy as I was in a nice groove to kick off 2021.
 
 ![On my ride home from the pool; this view never gets old.](/assets/jpg/IMG_3161-977x550.jpeg INNER HARBOUR SUNRISE ON A CRISP MONDAY MORNING)
 
