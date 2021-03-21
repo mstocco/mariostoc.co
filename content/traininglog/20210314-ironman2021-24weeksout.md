@@ -150,7 +150,7 @@ To celebrate, I did yesterday's 50 minute jog mostly on the dirt paths of _Cuthb
 ---
 
 In the pool, I had a decent workout too.  Officially recorded 2050m because I over-swam the second 400.  I recorded (again) with the GoPro and I am still shorting my stoke at the end of the workout.  The last 100m was still in the ballpark (1:46 after some rest).
-
+![Pace Chart](/assets/jpg/swim-20210319.jpeg)
 <!---->
 ## SATURDAY MAR 20 🌦
 Sleep **2** | Fatigue **2** | Stress **2** | Soreness **3**  
