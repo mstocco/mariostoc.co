@@ -28,15 +28,16 @@ class Website:
 		""" The current training week is referenced in a
 		    document's <nav> element
 		"""
-		logfiles = os.listdir('%s/traininglog/' % self.content)
-		logfiles.sort()
+		filenames = os.listdir('%s/traininglog/' % self.content)
+		filenames.sort()
 
-		for index in range(len(logfiles)):
-			logfile = logfiles[index]
-			if int(logfile[0:8]) > self.today:
+		for index in range(len(filenames)):
+			filename = filenames[index]
+			if int(filename[0:8]) > self.today:
 				break
-			self.current = '/traininglog/%s' % logfile[9:].split('.md')[0]
-			self.previous = '/traininglog/%s' % logfiles[index - 1][9:].split('.md')[0]
+			self.currentContent = '%s/traininglog/%s' % (self.content, filename)
+			self.current = '/traininglog/%s' % filename[9:].split('.md')[0]
+			self.previous = '/traininglog/%s' % filenames[index - 1][9:].split('.md')[0]
 		return
 
 	def clean(self):
@@ -49,7 +50,6 @@ class Website:
 			print('->', directory)
 			targetdir = '%s/%s' % (self.public, directory)
 			for root, dirs, files in os.walk(targetdir):
-
 				for filename in files:
 					target = '%s/%s' % (root, filename)
 					print('  - %s' % target.replace(self.public, ''))
@@ -124,6 +124,16 @@ class Website:
 		self.saveHumansTxt()
 		print('\ndone.')
 		
+	def publishCurrent(self):
+		print('\npublishing current traininglog page...')
+		webpage = TemplateDocument()
+		webpage.lastModified = int(self.today)
+		webpage.documentURI = self.current
+		webpage.nocache = True
+		webpage.handleMarkdown(self.currentContent)
+		self.saveDocument(webpage)
+		print('\ndone.')
+	
 	def saveDocument(self, webpage):
 		""" Save the HTML5 Doc if it is new or its markdown
 		    is different from a previous version.
@@ -182,16 +192,18 @@ class Website:
 		fileobj.write('\n'.join(humans))
 		fileobj.close()
 		return
-  
-	
+
 	def do(self):
 		if hasattr(self, 'action'):
 			if self.action == 'clean':
 				return self.clean()
+			if self.action == 'makecurrent':
+				return self.publishCurrent()
 			if self.action == 'makeall':
 				self.clean()
 		self.publish()
 		return
+
 
 if __name__ == '__main__':
 	import argparse
