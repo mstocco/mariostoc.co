@@ -28,7 +28,7 @@ Flat and easy jog for an hour put me at 10 km for the day (not including the wal
 
 My **legs felt dead** for all but the last kilometre; nothing specific and certainly nothing acute, just legs with the memory of [yesterday's ride](ironman2021-24weeksout?sat).
 
-Walking past the soccer field on the way home, a group of Italian exchange students organized a pickup game against some other teenagers.  I had to stop a watch; very cool!
+Walking past the soccer field on the way home, a group of Italian exchange students had organized a pickup game against some other teenagers.  I had to stop a watch; **Che forza!**
 
 <!---->
 ## MONDAY MAR 22 ☀️
