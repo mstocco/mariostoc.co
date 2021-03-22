@@ -14,7 +14,7 @@ I feel I like was...
 
 <!---->
 ## SUNDAY MAR 21 🌧
-Sleep **3** | Fatigue **3** | Stress **2** | Soreness **3**  
+Sleep **3** | Fatigue **4** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -22,9 +22,9 @@ Day 1 TAC Routine.
 75 minutes on your feet: Walk 10 minutes, focus on your breathing. THEN... 60 minutes of flat and easy running. No need to focus on your breathing during the run. 5 minute walk to cool down.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Jog Time: **60 minutes** &nbsp; Step Count: **17,362**
 
-&mdash; 
+Flat and easy for an hour put me at 10 km for the day (not including the walk time).  My legs felt dead for all but the last kilometre; nothing specific and certainly nothing acute, just legs that could be remembering yesterday's ride.
 
 
 <!---->
