@@ -28,8 +28,8 @@ Flat and easy for an hour put me at 10 km for the day (not including the walk ti
 
 
 <!---->
-## MONDAY MAR 22
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## MONDAY MAR 22 ☀️
+Sleep **2** | Fatigue **4** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -44,13 +44,13 @@ Short ride to the pool. Slightly longer ride home. About 30-40 minutes of total 
 ### NOTES
 Total Time: **80 minutes**
 
-Early start today.  It wasn't the warmest of mornings but I did hit a few green lights and pedalled to Crystal Pool in just 9 minutes.
+Early start today.  It wasn't the warmest of mornings but I did hit a few green lights and pedalled my XC bike to Crystal Pool in just 9 minutes.
 <!---->
 The pool workout was swam short by 200m or 4 minutes.  There was a bit more congestion in the _Continuous Lane_ this morning and I think in the confusion, I missed a couple of 100m reps.  I moved over to the _Fast Lane_ and finished the back half of the workout there (probably should have just started in that lane).
 
 There was a really nice sunrise to enjoy on the commute home.
 
-### REWARD TO START THE WEEK
+### FIRST COFFEE OF THE WEEK
 ![My Steel Vintage Bikes Coffee Mug](/assets/jpg/coffee-20210322.jpeg)
 <!---->
 ## TUESDAY MAR 23
