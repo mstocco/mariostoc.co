@@ -24,7 +24,7 @@ Day 1 TAC Routine.
 ### NOTES
 Total Jog Time: **60 minutes** &nbsp; Step Count: **17,362**
 
-Flat and easy for an hour put me at 10 km for the day (not including the walk time).  My legs felt dead for all but the last kilometre; nothing specific and certainly nothing acute, just legs that could be remembering yesterday's ride.
+Flat and easy jog for an hour put me at 10 km for the day (not including the walk time).  My **legs felt dead** for all but the last kilometre; nothing specific and certainly nothing acute, just legs with the memory of [yesterday's ride](ironman2021-24weeksout?sat).
 
 
 <!---->
