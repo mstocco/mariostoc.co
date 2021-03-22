@@ -42,11 +42,16 @@ Day 2 TAC Routine.
 Short ride to the pool. Slightly longer ride home. About 30-40 minutes of total time spinning for the day 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **80 minutes**
 
-&mdash; 
+It wasn't the warmest of mornings but I did hit a few green lights and pedalled to Crystal Pool in just 9 minutes.
 
+The pool workout was swam short by 200m or 4 minutes.  There was a bit more congestion in the _Continuous Lane_ this morning and I think in the confusion, I missed a couple of 100m reps.  I moved over to the _Fast Lane_ and finished the back half of the workout there (probably should have just started in that lane).
 
+There was a really nice sunrise to enjoy on the commute home.
+
+### REWARD TO START THE WEEK
+![My Steel Vintage Bikes Coffee Mug](/assets/jpg/coffee-20210322.jpeg)
 <!---->
 ## TUESDAY MAR 23
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
