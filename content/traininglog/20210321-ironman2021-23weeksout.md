@@ -57,9 +57,10 @@ There was a really nice sunrise to enjoy on the commute home.
 
 ### FIRST COFFEE OF THE WEEK
 ![My Steel Vintage Bikes Coffee Mug](/assets/jpg/coffee-20210322.jpeg)
+
 <!---->
-## TUESDAY MAR 23
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## TUESDAY MAR 23 ☀️
+Sleep **2** | Fatigue **3** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -69,7 +70,7 @@ Day 1 TAC Routine.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I do notice that my QL is tight(er) this morning; something will be paying attention to for the next bit.
 
 
 <!---->
