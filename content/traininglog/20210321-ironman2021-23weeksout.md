@@ -73,10 +73,9 @@ My QL is tight(er) this morning.  Being honest with myself, there is still some 
 
 I walked 15 minutes to _Swan Lake_.  When I reached the dirt path, I hit start on the watch to record the run.  It was easy pace, nothing more and when I finished the first loop, I went around the lake again.  My **legs felt heavy** but my QL was unbothered.  Getting back on to the bike path, I found a bit of a rhythm and just like the run on [Sunday](javascript:flick('sun');), the last kilometre was my comfortable kilometre.
 
-
 <!---->
-## WEDNESDAY MAR 24
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## WEDNESDAY MAR 24 🌧
+Sleep **3** | Fatigue **2** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -90,7 +89,7 @@ Short ride to the pool. Slightly longer ride home. About 30-40 minutes of total 
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Probably my best swim so far this year for no other reason than it **felt good**.  9:06 for 450m and 1:50 for the final 100m.  The 0530 time slot at Crystal Pool was much busier today.
 
 
 <!---->
