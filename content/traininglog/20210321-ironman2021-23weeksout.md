@@ -70,7 +70,7 @@ Day 1 TAC Routine.
 ### NOTES
 Run Time: **50 minutes**
 
-I noticed that my QL is tight(er) this morning; something will be paying attention to for the next bit.
+I noticed that my QL is tight(er) this morning; something I'll pay attention to.
 
 I walked 15 minutes to the Swan Lake Trail and when I reached the dirt, I hit start on the watch to record the run.  It was easy pace, nothing more and when I finished the first loop, I went around the lake again.  My legs felt heavy but my QL was unbothered.  Getting back on to the bike path, I found a bit of a rhythm and just like [Sunday](javascript:flick('sun');), my last kilometre was the only comfortable kilometre.
 
