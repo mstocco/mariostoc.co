@@ -72,7 +72,7 @@ Run Time: **50 minutes**
 
 My QL is tight(er) this morning.  Being honest with myself, there is still some healing needed.
 
-I walked 15 minutes to the Swan Lake Trail.  When I reached the dirt, I hit start on the watch to record the run.  It was easy pace, nothing more and when I finished the first loop, I went around the lake again.  My **legs felt heavy** but my QL was unbothered.  Getting back on to the bike path, I found a bit of a rhythm and just like [Sunday](javascript:flick('sun');), my last kilometre was my only comfortable kilometre.
+I walked 15 minutes to _Swan Lake_.  When I reached the dirt path, I hit start on the watch to record the run.  It was easy pace, nothing more and when I finished the first loop, I went around the lake again.  My **legs felt heavy** but my QL was unbothered.  Getting back on to the bike path, I found a bit of a rhythm and just like [Sunday](javascript:flick('sun');), the last kilometre was my comfortable kilometre.
 
 
 <!---->
