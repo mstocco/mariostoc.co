@@ -55,7 +55,7 @@ The pool workout was swam short by 200m or 4 minutes.  There was a bit more cong
 
 There was a really nice sunrise to enjoy on the commute home.
 
-### FIRST COFFEE OF THE WEEK
+### REWARD AFTER THE EARLY WORKOUT
 ![My Steel Vintage Bikes Coffee Mug](/assets/jpg/coffee-20210322.jpeg)
 
 <!---->
