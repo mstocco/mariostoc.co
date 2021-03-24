@@ -68,11 +68,11 @@ Day 1 TAC Routine.
 60 minutes on your feet: 10 minutes walking to warm up. Focus on your breathing while walking. Run 50 minutes. Flat route. Easy effort. Focus on your form while running. Find a comfortable rhythm.
 
 ### NOTES
-Total Time: **50 minutes**
+Run Time: **50 minutes**
 
 I noticed that my QL is tight(er) this morning; something will be paying attention to for the next bit.
 
-I walked an extra 5 minutes to the Swan Lake Trail as I was not totally convinced that I should run or just walk tonight.  When I reached the dirt, I hit start on the watch to start the run.  It was easy pace, nothing more and when I finished the first loop, I went around the lake again.  My legs felt heavy but my QL was unbothered.  Getting back on to the bike path, I found a bit of a rhythm and just like [Sunday](javascript:flick('sun');), my last kilometre was the only comfortable kilometre.
+I walked 15 minutes to the Swan Lake Trail and when I reached the dirt, I hit start on the watch to record the run.  It was easy pace, nothing more and when I finished the first loop, I went around the lake again.  My legs felt heavy but my QL was unbothered.  Getting back on to the bike path, I found a bit of a rhythm and just like [Sunday](javascript:flick('sun');), my last kilometre was the only comfortable kilometre.
 
 
 <!---->
