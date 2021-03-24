@@ -68,7 +68,7 @@ Day 1 TAC Routine.
 60 minutes on your feet: 10 minutes walking to warm up. Focus on your breathing while walking. Run 50 minutes. Flat route. Easy effort. Focus on your form while running. Find a comfortable rhythm.
 
 ### NOTES
-Run Time: **50 minutes**
+Run Time: **50 minutes** &nbsp; Distance: **5 miles**
 
 My QL is tight(er) this morning.  Being honest with myself, there is still some healing needed.
 
