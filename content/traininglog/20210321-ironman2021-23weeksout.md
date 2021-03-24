@@ -64,8 +64,7 @@ Sleep **2** | Fatigue **3** | Stress **4** | Soreness **4**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Day 1 TAC Routine.  
-60 minutes on your feet: 10 minutes walking to warm up. Focus on your breathing while walking. Run 50 minutes. Flat route. Easy effort. Focus on your form while running. Find a comfortable rhythm.
+Day 1 TAC Routine.  &nbsp; 60 minutes on your feet: 10 minutes walking to warm up. Focus on your breathing while walking. Run 50 minutes. Flat route. Easy effort. Focus on your form while running. Find a comfortable rhythm.
 
 ### NOTES
 Run Time: **50 minutes** &nbsp; Distance: **5 miles**
