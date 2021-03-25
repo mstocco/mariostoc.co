@@ -94,9 +94,12 @@ Probably my best swim so far this year for no other reason than it **felt good**
 Apart from feeling good, I as felt immersed in the activity; good workout coach! 
 
 <!---->
+### SWIM PACES
+![Swim Pace Chart](/assets/jpg/swim-20210324.jpeg)
+
 On another note, ALL of the 50m time slots are booked through April.  With the exception of next week, I just lost the oppertunity to swim at Crystal Pool.  Bookings for May open on April 19th and are expected to be sold out in minutes according to reception.  Not cool, especially after how things were working for me this morning.
 
-
+It was raining early this morning so I drove to the pool.  To get the ride in, I was on the trainer for 40 minutes after dinner.  The effort was easy, just spinning with an Ironman video on the screen.  I kept it in the same gear for the duration and I always find it interesting to see (after the fact) that my cadence increases as I go (my mind did not percieve the change in RPM, I was at the same effort start to finish).
 
 <!---->
 ## THURSDAY MAR 25
