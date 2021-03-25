@@ -114,8 +114,7 @@ Ride 60-70 minutes on the road or MTB. Ideally this is outside and relatively fl
 ### NOTES
 Total Time: **0 minutes**
 
-Sleep was marked down as **one** today because I had a solid nap before dinner last night.  I also rode on the trainer after dinner and the check-in with my back this morning is good news!
-
+Last night's sleep was marked down as **1**  because I also had a solid nap before dinner last night.  I also rode on the trainer after dinner and the check-in with my back this morning is good news; so minor stiffness (less than yesterday but not sore).
 
 <!---->
 ## FRIDAY MAR 26
