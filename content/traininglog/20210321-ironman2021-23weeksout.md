@@ -90,13 +90,13 @@ Short ride to the pool. Slightly longer ride home. About 30-40 minutes of total 
 Total Time: **50 minutes**
 
 Probably my best swim so far this year for no other reason than it **felt good**.  9:06 for 450m and 1:50 for the final 100m.  The 0530 time slot at Crystal Pool was much busier today.
-
+<!---->
 On another note, ALL of the 50m time slots are booked through April.  With the exception of next week, I just lost the oppertunity to swim at Crystal Pool.  Bookings for May open on April 19th and are expected to be sold out in minutes according to reception.  Not cool, especially after how things were working for me this morning.  
 
 
 <!---->
 ## THURSDAY MAR 25
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **1** | Fatigue **2** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -107,7 +107,7 @@ Ride 60-70 minutes on the road or MTB. Ideally this is outside and relatively fl
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Sleep was marked down as **one** today because I had a solid nap before dinner last night.  I also rode on the trainer after dinner and the check-in with my back this morning is good news!
 
 
 <!---->
