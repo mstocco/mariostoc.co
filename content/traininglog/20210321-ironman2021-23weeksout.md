@@ -11,7 +11,7 @@ I feel I like was...
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
-![I have not been down here for 23 years.](/assets/jpg/IMG_3177-977x550.jpeg JUAN DE FUCA VELODROME, COLWOOD, BC)
+![I have not been down here for 23 years.  Where did the time go?](/assets/jpg/IMG_3177-977x550.jpeg JUAN DE FUCA VELODROME, COLWOOD, BC)
 
 ## SUNDAY MAR 21 🌧
 Sleep **3** | Fatigue **4** | Stress **2** | Soreness **3**  
@@ -115,7 +115,7 @@ Ride 60-70 minutes on the road or MTB. Ideally this is outside and relatively fl
 Total Time: **100 minutes**
 
 Last night's sleep was marked down as **1**  because I also had a solid nap before dinner last night.  I also rode on the trainer after dinner and the check-in with my back this morning is good news; so minor stiffness (less than yesterday but not sore).
-
+<!---->
 I could have just jumped on the XC bike and gone for a ride but I saw my road bike and thought, why not, the weather is perfect for a road ride.  Then I noticed that there was a patch of breaker tape visible through the worn rubber on the back tire.  I decided to swap out the Spinergy wheelset for the Dura-ace C50s.  45 minutes to remove and thoroughly clean the cassette, the chain, jockey wheels and chainrings then to install the cassette on the C50, re-index the deraillier.
 
 The ride was easy effort and I made my way out to Colwood.  I stopped by the [velodrome](javascript:flkty.select(2);).  The last time I was there, it was 1998; lots of memories.  Back then, Thursday night was Track Night in the summer.  It was a bit eerie to be back here on a bike with no other cyclists at the facility.  I pedalled back home via Esquimalt for a tiny bit longer ride than scheduled.
