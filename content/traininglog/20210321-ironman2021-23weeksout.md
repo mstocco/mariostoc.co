@@ -11,8 +11,8 @@ I feel I like was...
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
+![I have not been down here for 23 years.](/assets/jpg/IMG_3177-977x550.jpeg JUAN DE FUCA VELODROME, COLWOOD, BC)
 
-<!---->
 ## SUNDAY MAR 21 🌧
 Sleep **3** | Fatigue **4** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -102,7 +102,7 @@ On another note, ALL of the 50m time slots are booked through April.  With the e
 It was raining early this morning so I drove to the pool.  To get the ride in, I was on the trainer for 40 minutes after dinner.  The effort was easy, just spinning with an Ironman video on the screen.  I kept it in the same gear for the duration and I always find it interesting to see (after the fact) that my cadence increases as I go (my mind did not percieve the change in RPM, I was at the same effort start to finish).
 
 <!---->
-## THURSDAY MAR 25
+## THURSDAY MAR 25 ☀️
 Sleep **1** | Fatigue **2** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -112,10 +112,17 @@ Ride 60-70 minutes on the road or MTB. Ideally this is outside and relatively fl
 40 minutes on your feet. 5 minutes walking to warm up. 30 minutes flat and easy running. Focus on your rhythm. Walk 5 minutes to cool down.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **100 minutes**
 
 Last night's sleep was marked down as **1**  because I also had a solid nap before dinner last night.  I also rode on the trainer after dinner and the check-in with my back this morning is good news; so minor stiffness (less than yesterday but not sore).
 
+I could have just jumped on the XC bike and gone for a ride but I saw my road bike and thought, why not, the weather is perfect for a road ride.  Then I noticed that there was a patch of breaker tape visible through the worn rubber on the back tire.  I decided to swap out the Spinergy wheelset for the Dura-ace C50s.  45 minutes to remove and thoroughly clean the cassette, the chain, jockey wheels and chainrings then to install the cassette on the C50, re-index the deraillier.
+
+The ride was easy effort and I made my way out to Colwood.  I stopped by the [velodrome](javascript:flkty.select(2);).  The last time I was there, it was 1998; lots of memories.  Back then, Thursday night was Track Night in the summer.  It was a bit eerie to be back here on a bike with no other cyclists at the facility.  I pedalled back home via Esquimalt for a tiny bit longer ride than scheduled.
+
+The run felt like a run after a ride for the first 5 minutes then my legs started to feel marginally better.  Easy pace was truly easy from a heart and lungs perspective; my ankles, calves and quads were my limiter.  
+
+And my back?  Motion is lotion and the QL was unnoticed. 
 <!---->
 ## FRIDAY MAR 26
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
