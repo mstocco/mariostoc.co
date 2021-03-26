@@ -123,9 +123,10 @@ The ride was easy effort and I made my way out to Colwood.  I stopped by the [ve
 The run felt like a run after a ride for the first 5 minutes then my legs started to feel marginally better.  Easy pace was truly easy from a heart and lungs perspective; my ankles, calves and quads were my limiter.  
 
 And my back?  Motion is lotion and the QL was unnoticed. 
+
 <!---->
-## FRIDAY MAR 26
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## FRIDAY MAR 26 ☀️
+Sleep **2** | Fatigue **3** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
