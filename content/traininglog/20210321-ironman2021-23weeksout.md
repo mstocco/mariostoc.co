@@ -144,8 +144,10 @@ No formal walk today as work went longer, through to 5pm this afternoon.  I did 
 
 My back felt good today.
 <!---->
-In the pool, I swam the first 6x lengths a little easier today; this was my third swim of the week and I briefly felt a twinge in the front part of my right deltoid.  The twinge didn't last long and I was into a nice rhythm for the 6x125m set.  Overall, this felt like a **productive workout** and the final 100m was clocked at 1:47/100m (25m pool).
+In the pool late this afternoon, I swam the first 6x lengths a little easier today; this was my third swim of the week and I briefly felt a twinge in the front part of my right deltoid.  The twinge didn't last long and I was into a nice rhythm for the 6x125m set.  Overall, this felt like a **productive workout** and the final 100m was clocked at 1:47/100m (25m pool).
 
+### FRIDAY'S SWIM PACES
+![Swim Pace Chart](/assets/jpg/swim-20210326.jpeg)
 
 <!---->
 ## SATURDAY MAR 27 ☁️
