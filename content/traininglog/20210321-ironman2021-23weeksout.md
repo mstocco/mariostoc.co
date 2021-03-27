@@ -138,9 +138,14 @@ Walk 45-60 minutes. Just out for a walk. If you want to practice breathing and m
 12x 25 Odds: Strong effort, evens: EASY effort. r :15. 100 easy to cool down.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **50 minutes** &nbsp; Distance: **2050m**
 
-&mdash; 
+No formal walk today as work went longer, through to 5pm this afternoon.
+
+In the pool, I swam the first 6x lengths a little easier today; this was my third swim of the week and I briefly felt a twinge in the front part of my right deltoid.  The twinge didn't last long and I was into a nice rhythm for the 6x125m set.  Overall, this felt like a **productive workout** and the final 100m was clocked at 1:47/100m (25m pool).
+
+My back felt good today.
+
 
 
 <!---->
