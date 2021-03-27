@@ -140,7 +140,7 @@ Walk 45-60 minutes. Just out for a walk. If you want to practice breathing and m
 ### NOTES
 Total Time: **50 minutes** &nbsp; Distance: **2050m**
 
-No formal walk today as work went longer, through to 5pm this afternoon.
+No formal walk today as work went longer, through to 5pm this afternoon.  I did get a project at work over a technical hurdle that has been present for months.  I just needed permission to work on the task (though I don't think I even got that today).
 
 My back felt good today.
 <!---->
