@@ -149,6 +149,8 @@ In the pool late this afternoon, I swam the first 6x lengths a little easier tod
 ### FRIDAY'S SWIM PACES
 ![Swim Pace Chart](/assets/jpg/swim-20210326.jpeg)
 
+Despite not going for a walk, today was a good day.
+
 <!---->
 ## SATURDAY MAR 27 ☁️
 Sleep **2** | Fatigue **3** | Stress **3** | Soreness **3**  
