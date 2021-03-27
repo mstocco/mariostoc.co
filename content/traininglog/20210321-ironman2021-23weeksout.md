@@ -149,17 +149,15 @@ My back felt good today.
 
 
 <!---->
-## SATURDAY MAR 27
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## SATURDAY MAR 27 ☁️
+Sleep **2** | Fatigue **3** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; Pending
+Day 1 TAC Routine.  
+Ride 2:00 on the MTB. Flat to rolling route. I'd suggest doing your routine BEFORE you ride. Make sure set up and feeling good.  Bring at least 400 calories. Easy to steady riding. Stay hydrated. Weather looks nice.
 
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
-
-
-<!---->
+&mdash;
