@@ -36,6 +36,8 @@ I had a nap once I got home and when I woke, the wind was still blowing but the 
 While out on walk, the sun was shining and I made my way upwind.  Once it was time to press go on the jog, a huge squall appeared on the horizon; I was in a race to get the 30 minutes in.  By luck, that squall missed me on my route and when I reached the 30 minute mark, I was feeling good to run another hill _(Lurline)_ and go a bit longer.  
 
 Before I got too far past that hill, a biblical hail fell; message to not go beyond Elliot's 30 minutes received.
+![Run Map](/assets/jpg/runmap-20210328.jpeg)
+
 <!---->
 ## MONDAY MAR 29 ☀️
 Sleep **4** | Fatigue **2** | Stress **2** | Soreness **3**  
@@ -50,7 +52,7 @@ Rounds 4 rounds (50 as 25 fist drill/25 smooth, 50 as 25 strong finish to stroke
 5x 200 steady w/ strong finish to stroke. Odds: Swim, Evens: w/ buoy r :40. 2x 50 EASY to cool down
 
 ### NOTES
-Total Time: **104 minutes** &nbsp; Swim Distance: **2100m** 
+Total Time: **104 minutes** &nbsp; Swim Total: **2100m** 
 
 Maybe it was the nap yesterday afternoon but I was up and restless from about midnight until about 2am.  
 
@@ -59,6 +61,10 @@ After a very crisp ride to the pool; there was a heavy frost last night but the 
 At the pool, I was able to put together, what I felt was a **solid workout** (for me).  The second to last 200m (with the pull buoy) was starting to drag but the last 200m effort felt on point.  The final 100m _"cool down"_ was clocked with a smooth **1:46.7**
 
 I did notice that my left (non-dominant) arm splashes on entry the more tired I get.  If I focus, I can correct it with better hand placement and better timing of the start of the pull.
+
+### SWIM PACES
+![Swim Chart](/assets/jpg/swim-20210329.jpeg)
+
 
 
 <!---->
