@@ -36,6 +36,8 @@ I had a nap once I got home and when I woke, the wind was still blowing but the 
 While out on walk, the sun was shining and I made my way upwind.  Once it was time to press go on the jog, a huge squall appeared on the horizon; I was in a race to get the 30 minutes in.  By luck, that squall missed me on my route and when I reached the 30 minute mark, I was feeling good to run another hill _(Lurline)_ and go a bit longer.  
 
 Before I got too far past that hill, a biblical hail fell; message to not go beyond Elliot's 30 minutes received.
+
+### SHORT BUT PRODUCTIVE SUNDAY RUN
 ![Run Map](/assets/jpg/runmap-20210328.jpeg)
 
 <!---->
@@ -65,7 +67,7 @@ I did notice that my left (non-dominant) arm splashes on entry the more tired I 
 ### SWIM PACES
 ![Swim Chart](/assets/jpg/swim-20210329.jpeg)
 
-
+There was an absolutely [beautiful sunrise](javascript:flkty.select(2);) on the ride home.
 
 <!---->
 ## TUESDAY MAR 30
