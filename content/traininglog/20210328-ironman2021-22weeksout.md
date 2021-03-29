@@ -15,7 +15,7 @@ I feel I like was...
 ![&mdash;Terry Fox, Canadian athlete, humanitarian, and cancer research activist. &nbsp;1958-1981](/assets/jpg/IMG_0614-977x550.jpeg "DREAMS ARE MADE POSSIBLE IF YOU TRY")
 
 ## SUNDAY MAR 28
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **4** | Fatigue **2** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 <h3 style="color:orange;border-bottom:1px solid orange;">Wind Warning for Greater Victoria</h3>
@@ -29,7 +29,7 @@ Travel to/From Duncan. Moving furniture.
 ### NOTES
 Run Time: **33 minutes** &nbsp; Average Pace: **5:41/km**
 
-I started the day helping family with a trip to and from Duncan.  I thought about doing the run up there (for nostalgia I guess) but decided that I'd rather just make my way south.  I needed food and thought it best to do my TAC Routine before the activity and after sitting in the driver's seat.
+I started the day helping family with an early morning trip to Duncan.  I thought about doing the run up there (for nostalgia I guess) but decided that after moving boxes and furniture, I'd rather just make my way south.  I needed food and thought it best to do my TAC Routine before the activity and after sitting in the driver's seat.
 <!---->
 I had a nap once I got home and when I woke, the wind was still blowing but the rain had stopped.  Perfect.
 
