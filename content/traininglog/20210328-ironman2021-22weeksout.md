@@ -12,7 +12,7 @@ I feel I like was...
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
 
-![Terry Fox &nbsp; 1958&mdash;1981](/assets/jpg/IMG_0614-977x550.jpeg "DREAMS ARE MADE POSSIBLE IF YOU TRY")
+![&mdash;Terry Fox, Canadian athlete, humanitarian, and cancer research activist. &nbsp;1958-1981](/assets/jpg/IMG_0614-977x550.jpeg "DREAMS ARE MADE POSSIBLE IF YOU TRY")
 
 ## SUNDAY MAR 28
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
@@ -41,9 +41,15 @@ Sleep **4** | Fatigue **2** | Stress **2** | Soreness **3**
 &mdash; 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **104 minutes** 
 
-&mdash; 
+Maybe it was the nap yesterday afternoon but I was up and restless from about midnight until about 2am.
+
+After a very crisp ride to the pool, I put together, what I felt was a **solid workout** (for me).  The second to last 200m (with the pull buoy) was starting to drag but the last 200m effort felt on point.  The final 100m _"cool down"_ was clocked with a smooth **1:46.7**
+
+
+
+
 
 
 <!---->
