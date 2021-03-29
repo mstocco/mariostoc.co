@@ -22,10 +22,12 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <p style="color:orange;font-size:0.85em;">West winds of 70 km/h gusting to 90 will continue near Juan De Fuca Strait this evening.</p>
 
 ### PLANNED WORKOUT
-&mdash; 
+Day 2 TAC Routine.   
+Travel to/From Duncan. Moving furniture.   
+50 minutes: 15 minutes of walking to warmup. Give yourself the time to loosen up and get into a walking rhythm. Run 30 minutes, Flat route, EASY effort. Walk 5 minutes to cool down/relax
 
 ### NOTES
-Total Time: **30 minutes**
+Run Time: **33 minutes**
 
 An intense Pacific cold front crossed Vancouver Island today. Strong westerly winds developed in the wake of the front this afternoon, especially near Juan De Fuca Strait; it blew pretty good here in town too.  At least is wasn't raining while I was out on the scheduled run.  I started the day helping family in Duncan.  I thought about doing the run up there but decided that I'd rather just make my way south.
 
@@ -38,7 +40,12 @@ Sleep **4** | Fatigue **2** | Stress **2** | Soreness **3**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Day 1 routine.  
+Bike commute: 10 minutes easy to the pool. 30 minutes, long way home. Also easy.  
+5:30am: Swim 2100: 
+4 rounds (50 Easy swim, 50 swim w/ tight kick and a strong finish to your stroke, 50 steady kick w/ board. r :20 after each)
+Rounds 4 rounds (50 as 25 fist drill/25 smooth, 50 as 25 strong finish to stroke/25 Strong. r :20) 
+5x 200 steady w/ strong finish to stroke. Odds: Swim, Evens: w/ buoy r :40. 2x 50 EASY to cool down
 
 ### NOTES
 Total Time: **104 minutes** 
@@ -46,6 +53,8 @@ Total Time: **104 minutes**
 Maybe it was the nap yesterday afternoon but I was up and restless from about midnight until about 2am.
 
 After a very crisp ride to the pool, I put together, what I felt was a **solid workout** (for me).  The second to last 200m (with the pull buoy) was starting to drag but the last 200m effort felt on point.  The final 100m _"cool down"_ was clocked with a smooth **1:46.7**
+
+I did notice that my left (non-dominant) arm splashes on entry the more tired I get.  If I focus, I can correct it.
 
 
 
@@ -58,7 +67,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Day 2 TAC Routine.   
+Ride 60 minutes. Any bike you like. Flat to rolling terrain (or inside) EASY effort.  
+Run/Walk 35 minutes: 5 minutes walking to get loose, 30 minutes flat and easy running. Optional walk to cool down.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -72,7 +83,13 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Day 1 TAC Routine.  
+Bike commute: 10 minutes easy to the pool. 30 minutes, long way home. Easy back as well.  
+5:30am: Swim 2100: 
+3 rounds (50 easy free, 50 w/ strong finish to stroke, 50 w/ buoy-Strong rotation from hips, 50 w/ buoy-Strong finish to stroke r :20)
+4 rounds (50 steady kick w/ board r :15, 100 steady swim w/ steady kick r :30)
+8x 100 steady w/ one form cue of your choice (whatever is working that day) Stronger effort on #4/8. R :25 after each. 
+2x 50 super easy to cool down
 
 ### NOTES
 Total Time: **0 minutes**
@@ -86,7 +103,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Run/Walk 75 minutes: 10 minutes walk to loosen up. Run 60 minutes. EASY effort. Flat route. Walk 5 minutes to cool down.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -100,7 +117,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Day 1 TAC Routine.    
+Ride 1:15-1:25 on the road bike. Getting outside for a nice spin. Easy effort. If the weather acts up, then we can have you ride inside, as long as you feel confident in your back. 
 
 ### NOTES
 Total Time: **0 minutes**
@@ -114,7 +132,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+&mdash; (pending)
 
 ### NOTES
 Total Time: **0 minutes**
