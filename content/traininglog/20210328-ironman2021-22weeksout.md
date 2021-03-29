@@ -27,15 +27,17 @@ Travel to/From Duncan. Moving furniture.
 50 minutes: 15 minutes of walking to warmup. Give yourself the time to loosen up and get into a walking rhythm. Run 30 minutes, Flat route, EASY effort. Walk 5 minutes to cool down/relax
 
 ### NOTES
-Run Time: **33 minutes**
+Run Time: **33 minutes** &nbsp; Average Pace: **5:41/km**
 
-An intense Pacific cold front crossed Vancouver Island today. Strong westerly winds developed in the wake of the front this afternoon, especially near Juan De Fuca Strait; it blew pretty good here in town too.  At least is wasn't raining while I was out on the scheduled run.  I started the day helping family in Duncan.  I thought about doing the run up there but decided that I'd rather just make my way south.
-
+I started the day helping family with a trip to and from Duncan.  I thought about doing the run up there (for nostalgia I guess) but decided that I'd rather just make my way south.  I needed food and thought it best to do my TAC Routine before the activity and after sitting in the driver's seat.
+<!---->
 I had a nap once I got home and when I woke, the wind was still blowing but the rain had stopped.  Perfect.
 
+While out on walk, the sun was shining and I made my way upwind.  Once it was time to press go on the jog, a huge squall appeared on the horizon; I was in a race to get the 30 minutes in.  By luck, that squall missed me on my route and when I reached the 30 minute mark, I was feeling good to run another hill _(Lurline)_ and go a bit longer.  
 
+Before I got too far past that hill, a biblical hail fell; message to not go beyond Elliot's 30 minutes received.
 <!---->
-## MONDAY MAR 29
+## MONDAY MAR 29 ☀️
 Sleep **4** | Fatigue **2** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -48,17 +50,15 @@ Rounds 4 rounds (50 as 25 fist drill/25 smooth, 50 as 25 strong finish to stroke
 5x 200 steady w/ strong finish to stroke. Odds: Swim, Evens: w/ buoy r :40. 2x 50 EASY to cool down
 
 ### NOTES
-Total Time: **104 minutes** 
+Total Time: **104 minutes** &nbsp; Swim Distance: **2100m** 
 
-Maybe it was the nap yesterday afternoon but I was up and restless from about midnight until about 2am.
+Maybe it was the nap yesterday afternoon but I was up and restless from about midnight until about 2am.  
 
-After a very crisp ride to the pool, I put together, what I felt was a **solid workout** (for me).  The second to last 200m (with the pull buoy) was starting to drag but the last 200m effort felt on point.  The final 100m _"cool down"_ was clocked with a smooth **1:46.7**
+After a very crisp ride to the pool; there was a heavy frost last night but the roads dry and safe.
+<!---->
+At the pool, I was able to put together, what I felt was a **solid workout** (for me).  The second to last 200m (with the pull buoy) was starting to drag but the last 200m effort felt on point.  The final 100m _"cool down"_ was clocked with a smooth **1:46.7**
 
-I did notice that my left (non-dominant) arm splashes on entry the more tired I get.  If I focus, I can correct it.
-
-
-
-
+I did notice that my left (non-dominant) arm splashes on entry the more tired I get.  If I focus, I can correct it with better hand placement and better timing of the start of the pull.
 
 
 <!---->
