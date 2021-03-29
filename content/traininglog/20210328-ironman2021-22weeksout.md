@@ -14,7 +14,7 @@ I feel I like was...
 
 ![&mdash;Terry Fox, Canadian athlete, humanitarian, and cancer research activist. &nbsp;1958-1981](/assets/jpg/IMG_0614-977x550.jpeg "DREAMS ARE MADE POSSIBLE IF YOU TRY")
 
-## SUNDAY MAR 28
+## SUNDAY MAR 28 🌦
 Sleep **4** | Fatigue **2** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -67,7 +67,11 @@ I did notice that my left (non-dominant) arm splashes on entry the more tired I 
 ### SWIM PACES
 ![Swim Chart](/assets/jpg/swim-20210329.jpeg)
 
-There was an absolutely [beautiful sunrise](javascript:flkty.select(2);) on the ride home.
+Special shout out to Skylar @Crystal Pool.  Thank you!
+
+---
+
+There was an absolutely [beautiful sunrise](javascript:flkty.select(2);) on the extended ride home from the pool.
 
 <!---->
 ## TUESDAY MAR 30
