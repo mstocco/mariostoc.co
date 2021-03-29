@@ -7,9 +7,13 @@ Week beginning [Sunday, March 21, 2021](javascript:flick('sun');)
 I am expecting work to be more predictable this week.  My goal is to stay on task with Elliot's schedule and recover some of the hip mobility lost over the last month. 
 
 ## SUMMARY
-I feel I like was...  
-<sup>(completed at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel I like was **BUILDING IT BACK UP**
+
+If I include the walking, this was a 10.5 hour week; that's telling me that I am pointed in the right direction.  The highlights are roughly 6000m of swimming and a bit more comfort incorporating the breath work into the running.
+
+My back is feeling stronger.
+
+The time management and productivity at work was on point this past week too.  I do have to admit that as Easter approaches, I am dealing with bouts of sadness as there is soon to be another holiday without my father.
 
 ![I have not been down here for 23 years.  Where did the time go?](/assets/jpg/IMG_3177-977x550.jpeg JUAN DE FUCA VELODROME, COLWOOD, BC)
 
