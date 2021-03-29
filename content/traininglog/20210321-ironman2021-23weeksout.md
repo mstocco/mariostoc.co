@@ -161,6 +161,6 @@ Day 1 TAC Routine.
 Ride 2:00 on the MTB. Flat to rolling route. I'd suggest doing your routine BEFORE you ride. Make sure set up and feeling good.  Bring at least 400 calories. Easy to steady riding. Stay hydrated. Weather looks nice.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Rolling Time: **114 minutes** &nbsp; Distance: **39 km**
 
-&mdash;
+With 2 hours on the calendar, I decided to recce the approach to the southern woodland section of _The Great Trail_.  The small section from the _Humpback Reservoir_ to the suspension bridge did not disappoint.  Although it was short, the trail was groomed nav-jack and it was **fun to pedal.**.  116g of Maynards Swedish Fish for calories and
