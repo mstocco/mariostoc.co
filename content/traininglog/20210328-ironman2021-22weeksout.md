@@ -67,7 +67,7 @@ I did notice that my left (non-dominant) arm splashes on entry the more tired I 
 ### SWIM PACES
 ![Swim Chart](/assets/jpg/swim-20210329.jpeg)
 
-Special shout out to Skylar @Crystal Pool.  Thank you!
+Special shout out to Skylar@Crystal Pool. Thank you!
 
 ---
 
