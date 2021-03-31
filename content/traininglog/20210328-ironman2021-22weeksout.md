@@ -112,7 +112,7 @@ Bike commute: 10 minutes easy to the pool. 30 minutes, long way home. Easy back 
 ### NOTES
 Total Time: **90 minutes** &nbsp; Swim: **2000m**
 
-Another clear and frosty morning for the ride to the pool.  Once there, I think I found the culprit(s) that bought out all of the 5:30am swim slots for April and I wasn't impressed.  This was a group of 6 people that occupied the fast lane.
+Another clear and frosty morning for the ride to the pool.  Once there, I think I found the culprit(s) that bought out all of the 5:30am swim slots for April and I wasn't impressed.  This was about 6 people doing a group workout in the fast lane.
 <!---->
 In between their sets, the would congregate on the wall and enjoy small talk, leaving zero space for anyone else.  Then when that group decides what the next set will be, they all send with next to little spacing between them.  At one point, I saw them coming back, kicking 3 abreast; how would someone not in that group get by?
 
