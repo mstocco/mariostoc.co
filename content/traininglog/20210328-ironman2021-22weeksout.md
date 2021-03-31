@@ -122,6 +122,11 @@ With that group monopolizing the fast lane, everyone else was squeezed into othe
 
 I did not get into a flow like the swim on [Monday](javascript:flick('mon');).  I was running short on time and I skipped the 2x50m cool down lengths.  My last 100m was clocked at **1:55.1**; I was getting tired.  For contrast, my best 100m (mid-workout, after the first 50 kick) was **1:45.7**.  Some of the slower times were probably because of lane congestion.
 <!---->
+### LAST SWIM BEFORE EASTER
+![Swim Paces](/assets/jpg/swim-20210331.jpeg)
+
+---
+
 Finding a longer ride home took me up Doncaster Drive; cresting the eastern aspect of that hill meant an opportunity to soak in another breathtaking sunrise.  Whatever frustration I felt in the pool was erased with that moment of sunshine.
 ![Ride Map](/assets/jpg/ride2-20210331.jpeg)
 <!---->
