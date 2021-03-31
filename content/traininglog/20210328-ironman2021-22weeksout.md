@@ -110,7 +110,7 @@ Bike commute: 10 minutes easy to the pool. 30 minutes, long way home. Easy back 
 2x 50 super easy to cool down
 
 ### NOTES
-Total Time: **90 minutes** &nbsp; Swim: **2000m**
+Swim &amp; Bike Time: **90 minutes** &nbsp; Swim: **2000m**
 
 Another clear and frosty morning for the ride to the pool.  Once there, I think I found the culprit(s) that bought out all of the 5:30am swim slots for April and I wasn't impressed.  This was about 6 adults doing a group workout in the fast lane.
 <!---->
