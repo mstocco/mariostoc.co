@@ -94,9 +94,7 @@ Sunshine and a 60 minute ride, it was the road bike this afternoon.  I rode an o
 
 Once home, and before I put my shoes on, I took the time to do the TAC routine with some extra focus on the hip flexors. 
 
-On the run, I picked a my simple, down to the _Selkirk Trestle_ and back route.  I focused on breath-work for the majority of the run.  I would not say the breath-work is completely _"natural"_ yet, but I am starting to get a feel things.  For example, holding the bit of tension in the pelvis and letting the thoracic relax is becoming familiar.  Getting lost in the activity may have meant that I wasn't running as easy as I should.  My average pace for the short run was **5:37/km** and I was slow up and over the _Switch Bridge_ on the way home.
-
-Overall, solid day.
+On the run, I picked a my simple, down to the _Selkirk Trestle_ and back route.  I focused on breath-work for the majority of the run.  I would not say the breath-work is completely _"natural"_ yet, but I am starting to get a feel things.  For example, holding the bit of tension in the pelvis and letting the thoracic relax is becoming familiar.  Getting lost in the activity may have meant that I wasn't running as easy as I should.  My average pace for the short run was **5:37/km** and I was slow up and over the _Switch Bridge_ on the way home. &mdash;Overall, solid day.
 <!---->
 ## WEDNESDAY MAR 31 ☀️
 Sleep **2** | Fatigue **3** | Stress **4** | Soreness **3**  
@@ -114,12 +112,12 @@ Bike commute: 10 minutes easy to the pool. 30 minutes, long way home. Easy back 
 ### NOTES
 Total Time: **90 minutes** &nbsp; Swim: **2000m**
 
-Another clear and frosty morning for the ride to the pool.  Once there, I think I found the culprit(s) that bought out all of the 5:30am swim slots for April and I wasn't impressed.  This was about 6 people doing a group workout in the fast lane.
+Another clear and frosty morning for the ride to the pool.  Once there, I think I found the culprit(s) that bought out all of the 5:30am swim slots for April and I wasn't impressed.  This was about 6 adults doing a group workout in the fast lane.
 <!---->
-In between their sets, the would congregate on the wall and enjoy small talk, leaving zero space for anyone else.  Then when that group decides what the next set will be, they all send with next to little spacing between them.  At one point, I saw them coming back, kicking 3 abreast; how would someone not in that group get by?
+In between their sets, they would congregate on the wall and enjoy small talk, leaving zero space for anyone else.  Then when that group decides what their next set will be, they all send with next to little spacing between them.  At one point, I saw them coming back, kicking 3 abreast; how would someone not in that group get by?
 
-With that group monopolizing the fast lane, everyone else was squeezed into the slow or the continuous lanes.  I counted 9 swimmers in the continuous and 5 in the slow lane; I did my workout in the slow lane and I am pretty sure that made a few people uncomfortable too.  Needless to say, I didn't quickly get into a flow like the swim on [Monday](javascript:flick('mon');).  I was running short on time and I skipped the cool down lengths.  My last 100m was clocked at **1:55.1**; I was getting tired.  For contrast, my best 100m (mid-workout, after the first 50 kick) was **1:45.7**.  Some of the slower times were probably because of lane congestion.
-
+With that group monopolizing the fast lane, everyone else was squeezed into either the slow lane or the continuous lane.  I counted 9 swimmers in the continuous and 5 in the slow lane; I did my workout in the slow lane and I am pretty sure that made a few people uncomfortable too.  Needless to say, I didn't get into a flow like the swim on [Monday](javascript:flick('mon');).  I was running short on time and I skipped the cool down lengths.  My last 100m was clocked at **1:55.1**; I was getting tired.  For contrast, my best 100m (mid-workout, after the first 50 kick) was **1:45.7**.  Some of the slower times were probably because of lane congestion.
+<!---->
 The ride home took me up Doncaster Drive; cresting the eastern aspect of that hill meant another breathtaking sunrise.  Whatever frustration I felt in the pool was erased with that moment of sunshine.
 
 <!---->
