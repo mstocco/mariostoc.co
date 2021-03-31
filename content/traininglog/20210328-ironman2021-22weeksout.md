@@ -90,6 +90,8 @@ A bit of a headache this morning; might have needed a bit more dinner last night
 
 Sunshine and a 60 minute ride, it was the road bike this afternoon.  I rode an out and back route, _The Goose_ to _Highland Road_, then up to its end at _Herbate Road_.  My **legs felt strong** this afternoon; according to Strava, I PR'd a bunch of segments too.  It wasn't all roses; the extra kick up and over some of the punchy parts had my lumbar a bit _"cramped"_.
 <!---->
+![Ride Map](/assets/jpg/ride-20210330.jpeg)
+
 Once home, and before I put my shoes on, I took the time to do the TAC routine with some extra focus on the hip flexors. 
 
 On the run, I picked a my simple, down to the _Selkirk Trestle_ and back route.  I focused on breath-work for the majority of the run.  I would not say the breath-work is completely _"natural"_ yet, but I am starting to get a feel things.  For example, holding the bit of tension in the pelvis and letting the thoracic relax is becoming familiar.  Getting lost in the activity may have meant that I wasn't running as easy as I should.  My average pace for the short run was **5:37/km** and I was slow up and over the _Switch Bridge_ on the way home.
