@@ -127,8 +127,9 @@ I did not get into a flow like the swim on [Monday](javascript:flick('mon');).  
 
 ---
 
-Finding a longer ride home took me up Doncaster Drive; cresting the eastern aspect of that hill meant an opportunity to soak in another breathtaking sunrise.  Whatever frustration I felt in the pool was erased with that moment of sunshine.
+ For a longer ride home, I pedalled up Doncaster Drive; cresting the eastern aspect of that hill meant an opportunity to soak in another breathtaking sunrise.  Whatever frustration I felt in the pool was erased with that moment of sunshine.
 ![Ride Map](/assets/jpg/ride2-20210331.jpeg)
+
 <!---->
 ## THURSDAY APR 01
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
