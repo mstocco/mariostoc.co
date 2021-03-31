@@ -116,11 +116,13 @@ Another clear and frosty morning for the ride to the pool.  Once there, I think 
 <!---->
 In between their sets, they would congregate on the wall and enjoy small talk, leaving zero space for anyone else.  Then when that group eventually decided what their next set will be, they'd all send off with next to little spacing between.  At one point, I saw them coming back, kicking 3 abreast; how would someone not in that group get by?
 
-I should only focus on what I can control but that selfishness bothered me today.
+I should only focus on what I can control but that selfishness on display bothered me today.
 
 With that group monopolizing the fast lane, everyone else was squeezed into other 2 lanes.  I counted 9 swimmers in the continuous lane and 5 in the slow lane; I did my workout in the slow lane and did my best with spacing.
 
-I did not get into a flow like the swim on [Monday](javascript:flick('mon');).  I ran short on time and skipped the last 2x50m; I was definitely getting tired.  My last 100m was clocked at **1:55.1**; for contrast, my best 100m (mid-workout, after a 50m kick) was **1:45.7**.  Some of the slower times posted earlier in the workout were because of lane congestion.
+I did not get into a flow like the swim on [Monday](javascript:flick('mon');).  I ran short on time and skipped the last 2x50m; I was definitely getting tired.  My last 100m was clocked at **1:55.1**.  For contrast, my best 100m (mid-workout, after a 50m kick) was **1:45.7**.
+
+Some of the slower times posted earlier in the workout were because of lane congestion.
 <!---->
 ### LAST SWIM BEFORE EASTER
 ![Swim Paces](/assets/jpg/swim-20210331.jpeg)
