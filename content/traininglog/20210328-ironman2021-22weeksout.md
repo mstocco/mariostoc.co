@@ -118,10 +118,12 @@ In between their sets, they would congregate on the wall and enjoy small talk, l
 
 I know I should let something I can't control bother me but these people are selfish.
 
-With that group monopolizing the fast lane, everyone else was squeezed into other 2 lanes.  I counted 9 swimmers in the continuous lane and 5 in the slow lane; I did my workout in the slow lane and did my best with spacing.  I did not get into a flow like the swim on [Monday](javascript:flick('mon');).  I was running short on time and I skipped the 2x50m cool down lengths.  My last 100m was clocked at **1:55.1**; I was getting tired.  For contrast, my best 100m (mid-workout, after the first 50 kick) was **1:45.7**.  Some of the slower times were probably because of lane congestion.
+With that group monopolizing the fast lane, everyone else was squeezed into other 2 lanes.  I counted 9 swimmers in the continuous lane and 5 in the slow lane; I did my workout in the slow lane and did my best with spacing.
+
+I did not get into a flow like the swim on [Monday](javascript:flick('mon');).  I was running short on time and I skipped the 2x50m cool down lengths.  My last 100m was clocked at **1:55.1**; I was getting tired.  For contrast, my best 100m (mid-workout, after the first 50 kick) was **1:45.7**.  Some of the slower times were probably because of lane congestion.
 <!---->
 Finding a longer ride home took me up Doncaster Drive; cresting the eastern aspect of that hill meant an opportunity to soak in another breathtaking sunrise.  Whatever frustration I felt in the pool was erased with that moment of sunshine.
-
+![Ride Map](/assets/jpg/ride2-20210331.jpeg)
 <!---->
 ## THURSDAY APR 01
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
