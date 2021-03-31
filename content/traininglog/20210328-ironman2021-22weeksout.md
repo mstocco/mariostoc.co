@@ -120,7 +120,7 @@ I should only focus on what I can control but that selfishness bothered me today
 
 With that group monopolizing the fast lane, everyone else was squeezed into other 2 lanes.  I counted 9 swimmers in the continuous lane and 5 in the slow lane; I did my workout in the slow lane and did my best with spacing.
 
-I did not get into a flow like the swim on [Monday](javascript:flick('mon');).  I ran short on time and I skipped the 2x50m cool down lengths.  My last 100m was clocked at **1:55.1**; I was definitely getting tired.  For contrast, my best 100m (mid-workout, after a 50m kick) was **1:45.7**.  Some of the slower times posted earlier in the workout were because of lane congestion.
+I did not get into a flow like the swim on [Monday](javascript:flick('mon');).  I ran short on time and skipped the last 2x50m; I was definitely getting tired.  My last 100m was clocked at **1:55.1**; for contrast, my best 100m (mid-workout, after a 50m kick) was **1:45.7**.  Some of the slower times posted earlier in the workout were because of lane congestion.
 <!---->
 ### LAST SWIM BEFORE EASTER
 ![Swim Paces](/assets/jpg/swim-20210331.jpeg)
