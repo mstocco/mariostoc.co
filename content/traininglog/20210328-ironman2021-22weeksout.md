@@ -133,8 +133,8 @@ Some of the slower times posted earlier in the workout were because of lane cong
 ![Ride Map](/assets/jpg/ride2-20210331.jpeg)
 
 <!---->
-## THURSDAY APR 01
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## THURSDAY APR 01 ☁️
+Sleep **2** | Fatigue **3** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -143,7 +143,7 @@ Run/Walk 75 minutes: 10 minutes walk to loosen up. Run 60 minutes. EASY effort. 
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Refreshed is the word to describe how I felt to start the day.
 
 
 <!---->
