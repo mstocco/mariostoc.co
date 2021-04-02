@@ -150,6 +150,9 @@ This afternoon's run was a bit of a mixed bag.  After a 15 minute walk, I eased 
 <!---->
 It was there that I started to fade a bit.  Around 9 km, I noticed that I was starting to chafe.  At 10 km, I was in the home stretch and finished strong but my old running shorts are definitely being retired.
 
+### KILOMETRE SPLITS
+![KM Split Chart](/assets/jpg/runsplits-20210401.jpeg)
+
 I wore my Nike Zoomfly 3 trainers for the first time since the 5K block of training last winter.  They are noticeably louder than the Altra Escalente 2.
 
 <!---->
