@@ -178,7 +178,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; (pending)
+Day 2 TAC Routine.  
+Ride 2:00 on MTB ~ Easy to steady riding. Flat to rolling terrain. Stay well fueled. Minimum of 500 calories on this ride. 
+Off the bike: Run 30 minutes. Flat route. EASY effort.
 
 ### NOTES
 Total Time: **0 minutes**
