@@ -146,7 +146,7 @@ Total Time: **60 minutes** &nbsp; Distance: **10.6 km**
 
 Refreshed is the word to describe how I felt to start the day.
 
-This afternoon's run was a bit of a mixed bag.  After a 15 minute walk, I eased into the activity that took me to _E&N Bike Path_, along the _Songhess Waterfront_ and then the _Goose_ home.  Once on the bike path, I found a rhythm with breathing and pace and simply went with it.  For the first 7 kms, running was effortless and my focus on posture was on point, so much so that I realized that I'd be home sooner than the scheduled 60 minutes.  Around 8 km, I took a detour through a nearby industrial park.
+This afternoon's run was a bit of a mixed bag.  After a 15 minute walk, I eased into the activity that took me to _E&N Bike Path_, along the _Songhess Waterfront_ and then the _Goose_ home.  Once on the bike path, I found a rhythm with breathing and pace and simply went with it.  For the first 7 kms, **running was effortless** and my focus on posture was on point, so much so that I realized that I'd be home sooner than the scheduled 60 minutes.  Around 8 km, I took a detour through a nearby industrial park.
 <!---->
 It was there that I started to fade a bit.  Around 9 km, I noticed that I was starting to chafe.  At 10 km, I was in the home stretch and finished feeling strong.  My old running shorts are definitely being retired.
 
@@ -156,6 +156,7 @@ It was there that I started to fade a bit.  Around 9 km, I noticed that I was st
 I wore my Nike Zoomfly 3 trainers for the first time since the 5K block of training last winter.  They are noticeably louder than the Altra Escalente 2.
 
 The effort and distance was right tonight.
+
 <!---->
 ## FRIDAY APR 02 ☁️
 Sleep **3** | Fatigue **3** | Stress **5** | Soreness **3**  
@@ -168,7 +169,7 @@ Ride 1:15-1:25 on the road bike. Getting outside for a nice spin. Easy effort. I
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Went to bed early and slept well until I woke from a **terrible nightmare**.
 
 
 <!---->
