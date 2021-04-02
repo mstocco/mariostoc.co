@@ -155,7 +155,7 @@ It was there that I started to **fade a bit**.  Around 9 km, I noticed that I wa
 
 I wore my Nike Zoomfly 3 trainers for the first time since the 5K block of training last winter.  They are noticeably louder than the Altra Escalente 2.
 
-The effort and distance was right tonight.
+The effort and distance (load) was right tonight.
 
 <!---->
 ## FRIDAY APR 02 ☁️
