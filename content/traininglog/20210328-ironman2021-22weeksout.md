@@ -169,7 +169,7 @@ Ride 1:15-1:25 on the road bike. Getting outside for a nice spin. Easy effort. I
 ### NOTES
 Total Time: **0 minutes**
 
-Went to bed early and slept well until I woke from a **terrible nightmare**.
+Went to bed early and slept well until I woke from a **terrible nightmare**; another holiday, another stressful time.
 
 
 <!---->
