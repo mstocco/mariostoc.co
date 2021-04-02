@@ -95,6 +95,7 @@ Sunshine and a 60 minute ride, it was the road bike this afternoon.  I rode an o
 Once home, and before I put my shoes on, I took the time to do the TAC routine with some extra focus on the hip flexors. 
 
 On the run, I picked a my simple, down to the _Selkirk Trestle_ and back route.  I focused on breath-work for the majority of the run.  I would not say the breath-work is completely _"natural"_ yet, but I am starting to get a feel things.  For example, holding the bit of tension in the pelvis and letting the thoracic relax is becoming familiar.  Getting lost in the activity may have meant that I wasn't running as easy as I should.  My average pace for this short run was **5:37/km** and I was slow up and over the _Switch Bridge_ on the way home. &nbsp; &mdash; Overall, solid day.
+
 <!---->
 ## WEDNESDAY MAR 31 ☀️
 Sleep **2** | Fatigue **3** | Stress **4** | Soreness **3**  
@@ -141,14 +142,17 @@ Sleep **2** | Fatigue **3** | Stress **3** | Soreness **3**
 Run/Walk 75 minutes: 10 minutes walk to loosen up. Run 60 minutes. EASY effort. Flat route. Walk 5 minutes to cool down.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **60 minutes** &nbsp; Distance: **10.6 km**
 
 Refreshed is the word to describe how I felt to start the day.
 
+This afternoon's run was a bit of a mixed bag.  After a 15 minute walk, I eased into the activity that took me to _E&N Bike Path_, along the _Songhess Waterfront_ and then the _Goose_ home.  Once on the bike path, I found a rhythm with breathing and pace and simply went with it.  For the first 7 kms, running was effortless and my focus on posture was on point, so much so that I realized that I'd be home sooner than the scheduled 60 minutes.  I took a detour through an industrial park adjacent to the _Goose_.  It was there that I started to fade a bit.  Around 9 km, I noticed that I was starting to chafe.  At 10 km, I was in the home stretch and finished strong but my old running shorts are definitely being retired.
+
+I wore my Nike Zoomfly 3 trainers for the first time since the 5K block of training last winter.  They are noticeably louder than the Altra Escalente 2.
 
 <!---->
-## FRIDAY APR 02
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## FRIDAY APR 02 ☁️
+Sleep **3** | Fatigue **3** | Stress **5** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
