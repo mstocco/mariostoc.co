@@ -167,7 +167,7 @@ Day 1 TAC Routine.
 Ride 1:15-1:25 on the road bike. Getting outside for a nice spin. Easy effort. If the weather acts up, then we can have you ride inside, as long as you feel confident in your back. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **82 minutes** &nbsp; Distance: **37.25 km**
 
 Went to bed early and slept well until I woke from a **terrible nightmare**; another holiday, another stressful time.
 
