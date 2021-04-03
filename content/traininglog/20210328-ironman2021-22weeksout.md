@@ -179,9 +179,9 @@ There was a group of 3 cyclists that I spent most of the ride leapfrogging with.
 ![Blenkinsop Stats](/assets/jpg/pr-blenkinclimb-20210402.jpeg)
 <sup>&mdash; PR'd a total of 13 Strava Segments; really not expected.</sup>
 
-A couple klicks before home, I saw an elderly man using a walker.  It reminded me of my father and I was hit with a flood of sadness.  The tears didn't stop until I had been home for some time.
-
 On the ride, I had one 750ml bottle of plain water and 48g of Maynards Watermelon Sours.
+
+A couple klicks before home, I saw an elderly man using a walker.  It reminded me of my father and I was hit with a flood of sadness.  The tears didn't stop until after I had been home for some time.
 
 <!---->
 ## SATURDAY APR 03
