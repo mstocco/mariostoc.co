@@ -177,8 +177,7 @@ A counterclockwise spin around the waterfront seemed like a great route for some
 There was a group of 3 cyclists that I spent most of the ride leapfrogging with.  At _Cadboro Bay_, they continued on to _Ash Road_  and I decided to blow myself up with a hard effort up _Sinclair Road_ (the hill leading up to the UVic campus).  I had my breathing under control by the varsity fields.  At _Blenkinsop Road_, I turned right because I still had time left on the ride and felt really strong again heading toward _Royal Oak_
 
 ![Blenkinsop Stats](/assets/jpg/pr-blenkinclimb-20210402.jpeg)
-
-PR'd a total of 13 Strava Segments; really not expecting this.
+<sup>PR'd a total of 13 Strava Segments</sup>
 
 A couple klicks before home, I saw an elderly man using a walker.  It reminded me of my father and I was hit with a flood of sadness.  The tears didn't stop until I had been home for some time.
 
