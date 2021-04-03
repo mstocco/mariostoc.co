@@ -174,10 +174,12 @@ Went to bed early and slept well until I woke from a **terrible nightmare**; ano
 A counterclockwise spin around the waterfront seemed like a great route for some saddle time on the road bike.  I must have read the weather forecast wrong because I was peddling into the wind for a good part of the route.  Regardless, I **felt really good** on the road bike again.  After the run [yesterday](javascript:flick('thu');), I was expecting the opposite. 
 <!---->
 ![Waterfront Stats](/assets/jpg/pr-waterfront-full-20210402.jpeg)
-There was a group of 3 cyclists that I spent most of the ride leapfrogging with.  At _Cadboro Bay_, they continued on to _Ash Road_  and I decided to blow myself up with a hard effort up _Sinclair Road_ (the hill leading up to the UVic campus).  I had my breathing under control by the varsity fields.  At _Blenkinsop Road_, I turned right because I still had time left on the ride and felt really strong again heading toward _Royal Oak Ave._
+There was a group of 3 cyclists that I spent most of the ride leapfrogging with.  At _Cadboro Bay_, they continued on to _Ash Road_  and I decided to blow myself up with a hard effort up _Sinclair Road_ (the hill leading up to the UVic campus).  I had my breathing under control by the varsity fields.  At _Blenkinsop Road_, I turned right because I still had time left on the ride and felt really strong again heading toward _Royal Oak_
 ![Blenkinsop Stats](/assets/jpg/pr-blenkinclimb-20210402.jpeg)
 
-A couple klicks before home, I saw an elderly man using a walker.  It reminded me of my father and I was hit with a flood of sadness.  The tears didn't stop until I had been home for some time.  
+A couple klicks before home, I saw an elderly man using a walker.  It reminded me of my father and I was hit with a flood of sadness.  The tears didn't stop until I had been home for some time.
+
+A 750ml bottle of plain water at 48g of Maynards Watermelon Sours consumed on the ride.
 
 <!---->
 ## SATURDAY APR 03
