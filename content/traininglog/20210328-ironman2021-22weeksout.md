@@ -205,9 +205,9 @@ Once in the north end of _Thetis Park_, I added some single-track to this ride w
 <!---->
 I have been making to the top of that rock garden on previous rides; today I needed to push the bike the last 50m.  Regardless I kept riding up from there.  I stopped for some sugar and a breather half way up _Scafe Hill Trail_ an had another push-bike session before the cresting the _Mount Stewart Trail_.
 
-What goes up...  It was a blast coming down off the hill.
+What goes up...  was a blast down the hill.
 
-I doubled back down _Highland Road_ and spent some time exploring the area near _Panhandle Trail_.  There was another trail nearby called the _Hector Connector_ that I seen friends on Strava ride.  I went in search for that.  I should be careful what I wish for as that trail is a goat path rated as black diamond **&diamond;**.  Needless to say I walked more that I rode the tricky parts.
+I doubled back down _Highland Road_ and spent some time exploring the area near _Panhandle Trail_.  There was another trail nearby called the _Hector Connector_ that I noticed friends on Strava ride.  I went in search for that.  I should be careful what I wish for as that trail is a goat path rated as black diamond.  Needless to say I walked more that I rode the tricky parts.
 
 I was passed by a grandma on an e-bike on the _Goose_; legs were feeling it at the end.
 
