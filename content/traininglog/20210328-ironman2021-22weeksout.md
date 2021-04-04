@@ -209,9 +209,7 @@ I doubled back down _Highland Road_, an spent some time exploring the area near 
 I was passed by a grandma on an e-bike on the _Goose_; legs were feeling it at the end.
 
 Total moving time for the ride was 2 hours, I had a 84g of lemonade, sugar (pinch of salt) in a 1.25 litre bladder (315 cals) and 65g of Maynards Watermelon Sours (220 cals).
-
----
-
+<!---->
 I procrastinated getting my shoes on once I got home.  I did start the run and it was about 3 and a half minutes before my legs started to feel like running legs.  A few minutes later, I felt an unfamiliar twinge in my left ankle.  Instead of tempting fate, I walked for the next bit.  Thinking back, I did come off the mountain bike a bit awkwardly earlier this afternoon.  Something says, enough for today and get ready for a run tomorrow.
 
 
