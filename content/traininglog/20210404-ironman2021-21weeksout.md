@@ -23,7 +23,7 @@ Run/Walk 80 minutes: Walk 10 minutes to loosen up. Run 65 minutes. Easy effort. 
 ### NOTES
 Run Time: **66 minutes** &nbsp; Distance: **11.6 km**
 
-A nice socially distanced, outdoor Easter brunch at the in-laws.
+A nice socially distanced, outdoor Easter brunch at the in-laws.  From there, I hitched a ride to _Sayward Road_ which gave me enough distance to run the rest of the way home.  This is a flat to false-flat and overall net downhill route with some dirt sections too; perfect for an easy effort.  I averaged **5:41/km pace** and this was again, comfortable.  I did get passed by Melanie McQuaid on _Lochside Drive_; she was cruising at a pretty good clip too.
 
 
 <!---->
