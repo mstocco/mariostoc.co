@@ -7,10 +7,11 @@ Week beginning [Sunday, March 28, 2021](javascript:flick('sun');)
 Last week showed that I am on the right trajectory, let's keep that momentum going!
 
 ## SUMMARY
-I feel I like was...  
-<sup>(completed at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel I like was **HAVING FUN**
 
+Activity time as measured on my Garmin account shows that this week, I completed 44 more seconds compared to [last week](ironman2021-23weeksout) for a total of 10:40:44.  Even so, this week had a bit more intensity added including 2 really fun road rides and 2 pre-dawn rides to/from the pool that featured spectacular sunrises. 
+
+I have been able to maintain focus at work but on the flip side, this week has been emotionally hard with another holiday without my dad.
 
 ![&mdash;Terry Fox, Canadian athlete, humanitarian, and cancer research activist. &nbsp;1958-1981](/assets/jpg/IMG_0614-977x550.jpeg "DREAMS ARE MADE POSSIBLE IF YOU TRY")
 
