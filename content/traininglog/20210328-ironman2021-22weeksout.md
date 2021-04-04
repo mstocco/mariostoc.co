@@ -198,7 +198,9 @@ Total Time: **130 minutes**
 
 Wish I would have saved a couple of matches from the ride [yesterday](javascript:flick('fri');); I could have used one or two today.  Getting off the asphalt, it was nice to see that the trails were in nice shape; a sign that spring is here.
 
-Once in the north end of _Thetis Park_, I added some single-track to this ride with a go at _"Comfy Wooden Chair"_.  Some features I previously missed, I rode today but it wasn't a totally clean ride.  Getting back on to _Bellamy Trail_ I had a rock garden of a hill to navigate.  I have been previously climbing this section but today, a lack of juice in the legs had me pushing the bike the last 50m.  I kept climbing, or tryed to climb.  I stopped for some sugar and a breather half way up _Mount Stewart_ an had another push-bike session before the crease of that hill.
+Once in the north end of _Thetis Park_, I added some single-track to this ride with a go at _"Comfy Wooden Chair"_.  Some features I previously missed, I rode today but it wasn't a totally clean ride.  Getting back on to _Bellamy Trail_ I had a rock garden of a hill to navigate.  Here it starts...
+<!---->
+I have been previously climbing this section but today, a lack of juice in the legs had me pushing the bike the last 50m.  I kept climbing, or tryed to climb.  I stopped for some sugar and a breather half way up _Mount Stewart_ an had another push-bike session before the crease of that hill.
 
 What goes up...  It was a blast coming down off the hill.
 
