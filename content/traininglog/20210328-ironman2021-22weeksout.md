@@ -207,7 +207,7 @@ I have been making to the top of that rock garden on previous rides; today I nee
 
 What goes up...  was a blast down the hill.
 
-I doubled back down _Highland Road_ and spent some time exploring the area near _Panhandle Trail_.  There was another trail nearby called the _Hector Connector_ that I noticed friends on Strava ride.  I went in search for that.  I should be careful what I wish for as that trail is a goat path rated as black diamond.  Needless to say I walked more that I rode the tricky parts.
+I doubled back down _Highland Road_ and spent some time exploring the area near _Panhandle Trail_.  There was another trail nearby called the _Hector Connector_ that I noticed friends on Strava ride.  I went in search for that.  I should be careful what I wish for as that trail is a goat path rated as black diamond on _TrailPeaks_.  Needless to say I walked more than I rode the tricky parts.
 
 I was passed by a grandma on an e-bike on the _Goose_; legs were feeling cooked at the end.
 
