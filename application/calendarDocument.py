@@ -17,7 +17,7 @@ class CalendarMonth(DIV):
 		specialDates.append(date(2020,10,31))   # 5K Workout
 		specialDates.append(date(2020,11,21))   # 5K Workout
 		specialDates.append(date(2020,12,5))    # 5KM TT
-		specialDates.append(date(2021,5,16))    # Westwood Lake Triathlon
+		specialDates.append(date(2021,5,8))     # Tiger Claw VERTual
 		specialDates.append(date(2021,7,18))    # Victoria Half
 		specialDates.append(date(2021,8,1))     # Elk Lake Triathlon
 

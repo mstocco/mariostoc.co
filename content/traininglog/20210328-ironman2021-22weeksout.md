@@ -7,7 +7,7 @@ Week beginning [Sunday, March 28, 2021](javascript:flick('sun');)
 Last week showed that I am on the right trajectory, let's keep that momentum going!
 
 ## SUMMARY
-I feel I like was **SEEING IMPROVEMENT**
+I feel I like was **REBUILDING, IMPROVING**
 
 Activity time as measured on my Garmin account shows that this week, I completed 44 more seconds compared to [last week](ironman2021-23weeksout) for a total of 10:40:44.  Even so, this week had a bit more intensity added including 2 really fun road rides and 2 pre-dawn rides to/from the pool that featured spectacular sunrises. 
 
@@ -203,11 +203,11 @@ Wish I would have saved a couple of matches from the ride [yesterday](javascript
 
 Once in the north end of _Thetis Park_, I added some single-track to this ride with a go at _"Comfy Wooden Chair"_.  Some features I previously missed, I rode today but it wasn't a totally clean ride.  Getting back on to _Bellamy Trail_ I had a rock garden of a hill to navigate.  Here it starts...
 <!---->
-I have been previously climbing this section but today, a lack of juice in the legs had me pushing the bike the last 50m.  I kept climbing, or tryed to climb.  I stopped for some sugar and a breather half way up _Mount Stewart_ an had another push-bike session before the crease of that hill.
+I have been making to the top of that rock garden on previous rides; today I needed to push the bike the last 50m.  Regardless I kept riding up from there.  I stopped for some sugar and a breather half way up _Scafe Hill Trail_ an had another push-bike session before the cresting the _Mount Stewart Trail_.
 
 What goes up...  It was a blast coming down off the hill.
 
-I doubled back down _Highland Road_, an spent some time exploring the area near _Panhandle Trail_.  There was another trail nearby called the _Hector Connector_ that I seen friends on Strava ride.  I went in search for that.  I should be careful what I wish for as that trail is a goat path rated as Black Diamond &diamond;.  Needless to say I walked more that I rode the tricky parts.
+I doubled back down _Highland Road_ and spent some time exploring the area near _Panhandle Trail_.  There was another trail nearby called the _Hector Connector_ that I seen friends on Strava ride.  I went in search for that.  I should be careful what I wish for as that trail is a goat path rated as black diamond **&diamond;**.  Needless to say I walked more that I rode the tricky parts.
 
 I was passed by a grandma on an e-bike on the _Goose_; legs were feeling it at the end.
 
