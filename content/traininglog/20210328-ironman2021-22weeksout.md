@@ -203,13 +203,13 @@ Wish I would have saved a couple of matches from the ride [yesterday](javascript
 
 Once in the north end of _Thetis Park_, I added some single-track to this ride with a go at _"Comfy Wooden Chair"_.  Some features I previously missed, I rode today but it wasn't a totally clean ride.  Getting back on to _Bellamy Trail_ I had a rock garden of a hill to navigate.  Here it starts...
 <!---->
-I have been making to the top of that rock garden on previous rides; today I needed to push the bike the last 50m.  Regardless I kept riding up from there.  I stopped for some sugar and a breather half way up _Scafe Hill Trail_ an had another push-bike session before the cresting the _Mount Stewart Trail_.
+I have been making to the top of that rock garden on previous rides; today I needed to push the bike the last 50m.  Regardless I kept riding uphill from there.  I stopped for some sugar and a breather half way up _Scafe Hill Trail_ an had another push-bike session before the cresting the _Mount Stewart Trail_.
 
 What goes up...  was a blast down the hill.
 
 I doubled back down _Highland Road_ and spent some time exploring the area near _Panhandle Trail_.  There was another trail nearby called the _Hector Connector_ that I noticed friends on Strava ride.  I went in search for that.  I should be careful what I wish for as that trail is a goat path rated as black diamond.  Needless to say I walked more that I rode the tricky parts.
 
-I was passed by a grandma on an e-bike on the _Goose_; legs were feeling it at the end.
+I was passed by a grandma on an e-bike on the _Goose_; legs were feeling cooked at the end.
 
 Moving time for the ride was 2 hours, I had a 84g of lemonade, sugar (pinch of salt) in a 1.25 litre bladder (315 cals) and 65g of Maynards Watermelon Sours (220 cals).
 <!---->
@@ -218,6 +218,4 @@ Moving time for the ride was 2 hours, I had a 84g of lemonade, sugar (pinch of s
 
 I procrastinated getting my shoes on once I got home.  I did start the run and it was about 3 and a half minutes before my legs started to feel like running legs.  A few minutes later, I felt an unfamiliar twinge in my left ankle.  Instead of tempting fate, I walked for the next bit.  Thinking back, I did come off the mountain bike a bit awkwardly earlier this afternoon.
 
-Something is telling me, "enough for today, get ready for a run [tomorrow](ironman2021-21weeksout?sun)."
-
-
+The voice in my head says, "Enough for today.  Get ready for the run [tomorrow](ironman2021-21weeksout?sun)."
