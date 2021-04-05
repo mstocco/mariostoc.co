@@ -31,8 +31,8 @@ I did get passed by Melanie McQuaid on _Lochside Drive_; she was cruising at a p
 
 
 <!---->
-## MONDAY APR 05
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## MONDAY APR 05 ☀️
+Sleep **2** | Fatigue **5** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
