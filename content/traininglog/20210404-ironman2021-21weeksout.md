@@ -75,7 +75,7 @@ I took the road bikie for a spin on the Goose to Colwood and then rode the shoul
 
 ---
 
-Getting off the bike, I didn't waste much time before heading out for the run.
+Getting off the bike, I didn't waste much time before heading out for the run; enough to get into some running kit and put my bike away.
 
 **This run sucked.**  My legs didn't just feel heavy, they felt like concrete.  It took a long 13 minutes to shake the effects of the bike, and even after that, the legs had no juice tonight.  Ironically, after 8 minutes, I was averaging **5:35/km** but if you would have asked me, I would have guessed closer to 7:00/km.
 
