@@ -79,6 +79,8 @@ Getting off the bike, I didn't waste much time before heading out for the run; e
 
 **This run sucked.**  My legs didn't just feel heavy, they felt like concrete.  It took a long 13 minutes to shake the effects of the bike, and even after that, the legs had no juice tonight.  Ironically, after 8 minutes, I was averaging **5:35/km** on a flat section of the _Goose_ but if you would have asked me, I would have honestly guessed closer to 7:00/km.
 
+I pulled the plug on this torture session after 22 minutes.
+
 <!---->
 ## WEDNESDAY APR 07 ☁️
 Sleep **4** | Fatigue **4** | Stress **3** | Soreness **3**  
