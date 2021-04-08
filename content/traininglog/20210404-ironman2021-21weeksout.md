@@ -47,10 +47,11 @@ Ride 45 minutes. Easy. Inside on the trainer or outside on any bike you like. Sp
 ### NOTES
 Total Time: **48 minutes**
 
-Almost a shame that I didn't get to ride outside but so far this April, it has been cold.  After work, I spent some time on the bathroom renovation and rode the TT bike on the rollers after dinner.
+After work, I spent some time on the bathroom renovation and rode the TT bike on the rollers after dinner.
 
-Light pressure on the pedals and I watched an old Kona race on YouTube.
+Light pressure on the pedals and I watched an old Kona race on YouTube.  Most of the time I was up on the bullhorns and maybe ~10 minutes on the aerobars.
 
+Almost a shame that I didn't get to ride outside but so far this April, it has been far colder than normal.  This worked.
 
 <!---->
 ## TUESDAY APR 06 ⛅️
