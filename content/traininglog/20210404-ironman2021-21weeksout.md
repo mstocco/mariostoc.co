@@ -25,12 +25,12 @@ Run Time: **66 minutes** &nbsp; Distance: **11.6 km**
 
 A nice socially distanced, outdoor Easter brunch at the in-laws.  From there, I hitched a ride to _Sayward Road_ which gave me enough distance to run the rest of the way home.
 
-I walked 15 minutes before the run; not much after.
+I walked 15 minutes before the run and not much after I reached my neighbourhood.
 
 This route was a flat to false-flat, overall net downhill route with some dirt sections; perfect for an easy effort.  I averaged **5:45/km pace** and this was like other recent runs, comfortably aerobic and very focused on maintaining a stable pelvis.
 
 <!---->
-Pretty sure that it was Mel McQuiad that flew past me on _Lochside Avenue_. Cool!
+Pretty sure that it was Melanie McQuaid that flew past me on _Lochside Drive_. Cool!
 
 ### Lochside Trail South to Swan Lake
 ![Run Map](/assets/jpg/runmap-20210404.jpeg)
