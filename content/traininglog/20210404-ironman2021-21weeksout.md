@@ -96,9 +96,9 @@ I started the workout in the slow lane as that had the least amount of people in
 <!---->
 The lane congestion was as bad as I'd ever seen it at Crystal Pool.  I finally got out and walked over to the Continous Lane and swam the rest of my time there.  In total, I got to 1600m and before I could the set of 5x100m with a buoy, my time had run out.
 
-The forecast had called for rain early this moring but it was dry before I left home and was still dry when I left the pool.  I took a 35 minute detour through Esquimalt to make my way home.  My legs felt heavy.
+The forecast had called for rain early this moring but it was dry before I left home and was still dry when I left the pool.  I took a 35 minute route through Esquimalt to make my way home.  My legs felt heavy, likely from [yesterday](javascript:flick('tue');).
 
-After work, it just so happened that I had a second, afternoon lane paid for at the Esquimalt Rec Centre.  I was back in the water to get that 5x100m set complete and I did a little more (1200m).  After a casual warm up, I did the 5x100m and felt really good (maybe the shorter pool).  I followed that with 300m of easy effort swimming and it was then that I started to feel the day catching up with me.  After a bit of rest, I finished with a steady 100m and came in at **1:43.1**;  no joke, this was unexpected.
+After work, it just so happened that I had a second, afternoon lane paid for at Esquimalt Rec.  I was back in the water to get that 5x100m set complete and I did a little more (1200m).  After a casual warm up, I did the 5x100m and **felt really good** (maybe the shorter pool).  I followed that with 300m of easy effort swimming and it was then that I started to feel the day catching up with me.  After a bit of rest, I finished with a steady 100m and came in at **1:43.1**;  no joke, this was unexpected.
 
 Solid day, time for bed.
 
