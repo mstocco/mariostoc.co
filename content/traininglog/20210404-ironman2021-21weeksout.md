@@ -40,14 +40,14 @@ Day 2 TAC Routine.
 Ride 45 minutes. Easy. Inside on the trainer or outside on any bike you like. Spinning out after a weekend of solid volume. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **48 minutes**
 
-&mdash; 
+Almost a shame that I didn't get to ride outside but so far this April, it has been cold.  After work, I spent some time on the bathroom renovation and rode the TT bike on the rollers after dinner.  Light pressure on the pedals and I watch an old Kona race.
 
 
 <!---->
-## TUESDAY APR 06
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## TUESDAY APR 06 ⛅️
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -56,14 +56,17 @@ Ride 60 minutes. Any bike you like. Flat to rolling terrain (or inside) EASY eff
 Run/Walk 30 minutes: 30 minutes flat and easy running. Optional walk to cool down.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **82 minutes**
 
-&mdash; 
+Busy day at work.
 
+I took the road bikie for a spin on the Goose to Colwood and then rode the shoulder until the intersection of Goldstream Avenue and Vetran's Memorial Parkway.  That put me at 30 minutes and with a net downhill on the way back; I needed to find a bit more road to ride.  The solution was to re-visit the Crystal View Hill, going up to Ruby Court.  I felt good going up that hill too (it was only one trip to the top).
+
+Getting off the bike, I didn't waste much time before heading out for the run.  This run sucked.  My legs didn't just feel heavy, they felt like concrete.  It took a long 13 minutes to shake the effects of the bike, and even after that, the legs had no juice tonight.
 
 <!---->
-## WEDNESDAY APR 07
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## WEDNESDAY APR 07 ☁️
+Sleep **4** | Fatigue **4** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -75,10 +78,17 @@ Day 2 TAC Routine.
 Bike commute: 10 minutes easy to the pool. 30 minutes, long way home. Easy back as well. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **123 minutes**
 
-&mdash; 
+I was awake early enough but with the right amount of procrastination, I was late getting to the pool.
 
+I started the workout in the slow lane as that had the least amount of people in it; that was my second mistake of the morning as the lane congestion was as bad as I'd ever seen it at Crystal Pool.  I finally got out and walked over to the Continous Lane and swam the rest of my time there.  In total, I got to 1600m and before I could the set of 5x100m with a buoy, my time had run out.
+
+The forecast had called for rain early this moring but it was dry before I left home and was still dry when I left the pool.  I took a 35 minute detour through Esquimalt to make my way home.  My legs felt heavy.
+
+After work, it just so happened that I had a second, afternoon lane paid for at the Esquimalt Rec Centre.  I was back in the water to get that 5x100m set complete and I did a little more (1200m).  After a casual warm up, I did the 5x100m and felt really good (maybe the shorter pool).  I followed that with 300m of easy effort swimming and it was then that I started to feel the day catching up with me.  After a bit of rest, I finished with a steady 100m and came in at **1:43.1**;  no joke, this was unexpected.
+
+Solid day, time for bed.
 
 <!---->
 ## THURSDAY APR 08
