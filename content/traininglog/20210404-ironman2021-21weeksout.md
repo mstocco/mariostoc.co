@@ -72,7 +72,11 @@ I took the road bikie for a spin on the Goose to Colwood and then rode the shoul
 ### SIMPLY TIME IN THE SADDLE
 ![Ride Map](/assets/jpg/ridemap-20210406.jpeg)
 
-Getting off the bike, I didn't waste much time before heading out for the run.  **This run sucked.**  My legs didn't just feel heavy, they felt like concrete.  It took a long 13 minutes to shake the effects of the bike, and even after that, the legs had no juice tonight.  Ironically, after 8 minutes, I was averaging **5:35/km** but if you would have asked me, I would have guessed closer to 7:00/km.
+---
+
+Getting off the bike, I didn't waste much time before heading out for the run.
+
+**This run sucked.**  My legs didn't just feel heavy, they felt like concrete.  It took a long 13 minutes to shake the effects of the bike, and even after that, the legs had no juice tonight.  Ironically, after 8 minutes, I was averaging **5:35/km** but if you would have asked me, I would have guessed closer to 7:00/km.
 
 <!---->
 ## WEDNESDAY APR 07 ☁️
@@ -88,7 +92,7 @@ Day 2 TAC Routine.
 Bike commute: 10 minutes easy to the pool. 30 minutes, long way home. Easy back as well. 
 
 ### NOTES
-Total Time: **123 minutes**
+Total Time: **123 minutes** &nbsp; Total Swim: **2800m**
 
 I was awake early enough but with the right amount of procrastination, I was late getting to the pool.
 
