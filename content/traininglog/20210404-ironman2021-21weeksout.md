@@ -77,7 +77,7 @@ I took the road bikie for a spin on the Goose to Colwood and then rode the shoul
 
 Getting off the bike, I didn't waste much time before heading out for the run; enough to get into some running kit and put my bike away.
 
-**This run sucked.**  My legs didn't just feel heavy, they felt like concrete.  It took a long 13 minutes to shake the effects of the bike, and even after that, the legs had no juice tonight.  Ironically, after 8 minutes, I was averaging **5:35/km** but if you would have asked me, I would have guessed closer to 7:00/km.
+**This run sucked.**  My legs didn't just feel heavy, they felt like concrete.  It took a long 13 minutes to shake the effects of the bike, and even after that, the legs had no juice tonight.  Ironically, after 8 minutes, I was averaging **5:35/km** on a flat section of the _Goose_ but if you would have asked me, I would have honestly guessed closer to 7:00/km.
 
 <!---->
 ## WEDNESDAY APR 07 ☁️
@@ -101,7 +101,7 @@ I started the workout in the _Slow Lane_ as that had the least amount of people 
 <!---->
 The lane congestion was as bad as I'd ever seen it at _Crystal Pool_.  I finally got out and walked over to the _Continous Lane_ and swam the rest of my time there.  In total, I completed 1600m but before staring the _5x100m w/ buoy_ set, my allotted time had run out.
 
-The forecast had called for rain early this moring but it was dry before I left home and was still dry when I left the pool.  I took a 35 minute route through Esquimalt to make my way home.  My legs felt heavy, likely from [yesterday](javascript:flick('tue');).
+The forecast had called for rain early this moring but it was dry before I left home and was still dry when I left the pool.  I took a 35 minute route through Esquimalt to make my way home.  My **legs felt heavy**, likely from [yesterday](javascript:flick('tue');).
 
 After work, it just so happened that I had a second, afternoon lane paid for at Esquimalt Rec.  I was back in the water to get that 5x100m set complete and I did a little more (1200m).  After a casual warm up, I did the 5x100m and **felt really good** (maybe the shorter pool).  I followed that with 300m of easy effort swimming and it was then that I started to feel the day catching up with me.  After a bit of rest, I finished with a steady 100m and came in at **1:43.1**;  no joke, this was unexpected.
 
