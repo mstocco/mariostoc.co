@@ -25,9 +25,9 @@ Run Time: **66 minutes** &nbsp; Distance: **11.6 km**
 
 A nice socially distanced, outdoor Easter brunch at the in-laws.  From there, I hitched a ride to _Sayward Road_ which gave me enough distance to run the rest of the way home.
 
-I walked 15 minutes before the run and not much after I reached my neighbourhood.
+I walked 15 minutes before the run and not much after I pressed "stop" on the watch.
 
-This route was a flat to false-flat, overall net downhill route with some dirt sections; perfect for an easy effort.  I averaged **5:45/km pace** and this was like other recent runs, comfortably aerobic and very focused on maintaining a stable pelvis.
+This route was mostly flat to false-flat; an overall net downhill route with some dirt sections (perfect for an easy effort).  I averaged **5:45/km pace** and this was like other recent runs, comfortably aerobic and very focused on maintaining a stable pelvis over the +hour.
 
 <!---->
 Pretty sure that it was Melanie McQuaid that flew past me on _Lochside Drive_. Cool!
