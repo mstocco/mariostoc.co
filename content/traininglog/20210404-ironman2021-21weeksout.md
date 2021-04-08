@@ -49,7 +49,7 @@ Total Time: **48 minutes**
 
 After work, I spent some time on the bathroom renovation and rode the TT bike on the rollers after dinner.
 
-Light pressure on the pedals and I watched an old Kona race on YouTube (1997: PNF v Badmann).  Most of the time I was up on the bullhorns and maybe ~10 minutes on the aerobars.
+Light pressure on the pedals and I watched the 1997 Kona race (PNF v Badmann) on YouTube .  Most of the time I was up on the bullhorns and maybe ~10 minutes on the aerobars.
 
 Almost a shame that I didn't get to ride outside but so far this April, it has been far colder than normal.  This worked.
 
