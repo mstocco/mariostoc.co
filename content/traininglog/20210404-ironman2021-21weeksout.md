@@ -47,7 +47,9 @@ Ride 45 minutes. Easy. Inside on the trainer or outside on any bike you like. Sp
 ### NOTES
 Total Time: **48 minutes**
 
-Almost a shame that I didn't get to ride outside but so far this April, it has been cold.  After work, I spent some time on the bathroom renovation and rode the TT bike on the rollers after dinner.  Light pressure on the pedals and I watch an old Kona race.
+Almost a shame that I didn't get to ride outside but so far this April, it has been cold.  After work, I spent some time on the bathroom renovation and rode the TT bike on the rollers after dinner.
+
+Light pressure on the pedals and I watched an old Kona race on YouTube.
 
 
 <!---->
@@ -63,16 +65,14 @@ Run/Walk 30 minutes: 30 minutes flat and easy running. Optional walk to cool dow
 ### NOTES
 Total Time: **82 minutes**
 
-Busy day at work.
+Another busy day at work.
 
-I took the road bikie for a spin on the Goose to Colwood and then rode the shoulder until the intersection of Goldstream Avenue and Vetran's Memorial Parkway.  That put me at 30 minutes and with a net downhill on the way back; I needed to find a bit more road to ride.  The solution was to re-visit the Crystal View Hill, going up to Ruby Court.  I felt good going up that hill too (it was only one trip to the top).
-
-On this ride, I didn't have to stop once.
+I took the road bikie for a spin on the Goose to Colwood and then rode the shoulder until the intersection of Goldstream Avenue and Vetran's Memorial Parkway.  That put me at 30 minutes and with a net downhill on the way back; I needed to find a bit more road to ride.  The solution was to re-visit the Crystal View Hill, going up to Ruby Court.  I **felt good** going up that hill too (it was only one trip to the top).  On this ride, I didn't have to stop once.
 <!---->
 ### SIMPLY TIME IN THE SADDLE
 ![Ride Map](/assets/jpg/ridemap-20210406.jpeg)
 
-Getting off the bike, I didn't waste much time before heading out for the run.  This run sucked.  My legs didn't just feel heavy, they felt like concrete.  It took a long 13 minutes to shake the effects of the bike, and even after that, the legs had no juice tonight.
+Getting off the bike, I didn't waste much time before heading out for the run.  **This run sucked.**  My legs didn't just feel heavy, they felt like concrete.  It took a long 13 minutes to shake the effects of the bike, and even after that, the legs had no juice tonight.  Ironically, after 8 minutes, I was averaging **5:35/km** but if you would have asked me, I would have guessed closer to 7:00/km.
 
 <!---->
 ## WEDNESDAY APR 07 ☁️
