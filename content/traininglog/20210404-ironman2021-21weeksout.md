@@ -92,7 +92,8 @@ Total Time: **123 minutes**
 
 I was awake early enough but with the right amount of procrastination, I was late getting to the pool.
 
-I started the workout in the slow lane as that had the least amount of people in it; that was my second mistake of the morning <!---->
+I started the workout in the slow lane as that had the least amount of people in it; that was my second mistake of the morning.
+<!---->
 The lane congestion was as bad as I'd ever seen it at Crystal Pool.  I finally got out and walked over to the Continous Lane and swam the rest of my time there.  In total, I got to 1600m and before I could the set of 5x100m with a buoy, my time had run out.
 
 The forecast had called for rain early this moring but it was dry before I left home and was still dry when I left the pool.  I took a 35 minute detour through Esquimalt to make my way home.  My legs felt heavy.
