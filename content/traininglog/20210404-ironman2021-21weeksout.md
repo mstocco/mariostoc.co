@@ -25,10 +25,12 @@ Run Time: **66 minutes** &nbsp; Distance: **11.6 km**
 
 A nice socially distanced, outdoor Easter brunch at the in-laws.  From there, I hitched a ride to _Sayward Road_ which gave me enough distance to run the rest of the way home.
 
-This route was a flat to false-flat, overall net downhill route with some dirt sections; perfect for an easy effort.  I averaged **5:45/km pace** and this was like other recent runs, comfortable.
+This route was a flat to false-flat, overall net downhill route with some dirt sections; perfect for an easy effort.  I averaged **5:45/km pace** and this was like other recent runs, comfortably aerobic and very focused on maintaining a stable pelvis.
 
-I did get passed by Melanie McQuaid on _Lochside Drive_; she was cruising at a pretty good clip too.
-
+I did get passed by Melanie McQuaid on _Lochside Drive_; she was cruising at a pretty good clip too.  Cool!
+<!---->
+### Lochside Trail South to Swan Lake
+![Run Map](/assets/jpg/runmap-20210404.jpeg)
 
 <!---->
 ## MONDAY APR 05 ☀️
@@ -62,6 +64,11 @@ Busy day at work.
 
 I took the road bikie for a spin on the Goose to Colwood and then rode the shoulder until the intersection of Goldstream Avenue and Vetran's Memorial Parkway.  That put me at 30 minutes and with a net downhill on the way back; I needed to find a bit more road to ride.  The solution was to re-visit the Crystal View Hill, going up to Ruby Court.  I felt good going up that hill too (it was only one trip to the top).
 
+On this ride, I didn't have to stop once.
+<!---->
+### SIMPLY TIME IN THE SADDLE
+![Ride Map](/assets/jpg/ridemap-20210406.jpeg)
+
 Getting off the bike, I didn't waste much time before heading out for the run.  This run sucked.  My legs didn't just feel heavy, they felt like concrete.  It took a long 13 minutes to shake the effects of the bike, and even after that, the legs had no juice tonight.
 
 <!---->
@@ -82,7 +89,8 @@ Total Time: **123 minutes**
 
 I was awake early enough but with the right amount of procrastination, I was late getting to the pool.
 
-I started the workout in the slow lane as that had the least amount of people in it; that was my second mistake of the morning as the lane congestion was as bad as I'd ever seen it at Crystal Pool.  I finally got out and walked over to the Continous Lane and swam the rest of my time there.  In total, I got to 1600m and before I could the set of 5x100m with a buoy, my time had run out.
+I started the workout in the slow lane as that had the least amount of people in it; that was my second mistake of the morning <!---->
+The lane congestion was as bad as I'd ever seen it at Crystal Pool.  I finally got out and walked over to the Continous Lane and swam the rest of my time there.  In total, I got to 1600m and before I could the set of 5x100m with a buoy, my time had run out.
 
 The forecast had called for rain early this moring but it was dry before I left home and was still dry when I left the pool.  I took a 35 minute detour through Esquimalt to make my way home.  My legs felt heavy.
 
