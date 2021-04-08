@@ -99,7 +99,7 @@ I was awake early enough but with the right amount of procrastination, I was lat
 
 I started the workout in the slow lane as that had the least amount of people in it; that was my second mistake of the morning.
 <!---->
-The lane congestion was as bad as I'd ever seen it at Crystal Pool.  I finally got out and walked over to the Continous Lane and swam the rest of my time there.  In total, I got to 1600m and before I could the set of 5x100m with a buoy, my time had run out.
+The lane congestion was as bad as I'd ever seen it at Crystal Pool.  I finally got out and walked over to the Continous Lane and swam the rest of my time there.  In total, I got 1600m in but before staring the 5x100m with a buoy set, my time had run out.
 
 The forecast had called for rain early this moring but it was dry before I left home and was still dry when I left the pool.  I took a 35 minute route through Esquimalt to make my way home.  My legs felt heavy, likely from [yesterday](javascript:flick('tue');).
 
@@ -108,8 +108,8 @@ After work, it just so happened that I had a second, afternoon lane paid for at 
 Solid day, time for bed.
 
 <!---->
-## THURSDAY APR 08
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## THURSDAY APR 08 ☀️
+Sleep **3** | Fatigue **4** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -119,7 +119,7 @@ Run/Walk 80 minutes: 5 minutes easy walking to warm up. Run 70 minutes. Flat rou
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+The first few minutes of the day were groggy, and any idea of doing the run before breakfast was tossed.
 
 
 <!---->
