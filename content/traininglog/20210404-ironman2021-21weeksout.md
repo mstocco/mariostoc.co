@@ -123,8 +123,9 @@ Total Time: **70 minutes** &nbsp; Distance: **11 km**
 
 The first few minutes of the day were groggy, and any idea of doing the run before breakfast was tossed.  A ~15 minute nap at 1600 came it handy.
 
-The run was nothing special; just time on feet.  I probably did a better job with the breathing/posture on [Sunday](javascript:flick('sun');) than I did tonight.  My pace was more down to earth too at ~6:10/km over the 10km of bike path and dirt.  I stopped after 63 minutes to say hi to an old hockey buddy, Mike M. in the parking lot of _Pearkes Arena_.
-
+The run was simply time on feet effort.  I probably did a better job with the breathing/posture on [Sunday](javascript:flick('sun');) than I did tonight though.  My pace was more down to earth too; 6:07/km over the 10km of bike path and dirt.  I stopped after 63 minutes to say hi to an old hockey buddy, Mike M. in the parking lot of _Pearkes Arena_.
+<!---->
+![Run Map](/assets/jpg/runmap-20210408.jpeg)
 I did jog home after that.
 
 <!---->
