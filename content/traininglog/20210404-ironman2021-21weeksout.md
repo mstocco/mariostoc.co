@@ -155,7 +155,7 @@ Yes, it's a broken hour ride. If you'd rather do 10/50 or 50/10, that is ok with
 ### NOTES
 Total Time: **0 minutes**
 
-I am feeling a bit stiff this morning.  Intension on riding the rollers before breakfast was replaced with a sleep in.
+I am feeling a bit stiff this morning.  Riding the rollers before breakfast was replaced with a sleep in.
 
 
 <!---->
