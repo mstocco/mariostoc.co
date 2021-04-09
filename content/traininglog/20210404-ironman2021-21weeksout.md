@@ -133,7 +133,7 @@ About 100 calories of Maynards candy in lieu of a gel was consumed and my soleus
 
 ---
 
-Although it was a sunny evening, a stiff south-west wind felt way colder than it should for April in Victoria.  Looking at the forecast for next week, I am looking forward to some seasonal temperatures soon.
+Although it was a sunny evening, a stiff south-west wind felt way colder than it should for April in Victoria.  A quick glance at the forecast for next week gives me some hope. I am looking forward to some seasonal temperatures soon.
 <!---->
 ## FRIDAY APR 09 🌧
 Sleep **2** | Fatigue **2** | Stress **3** | Soreness **4**  
