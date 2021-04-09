@@ -125,12 +125,13 @@ The first few minutes of the day were groggy, and any idea of doing the run befo
 
 The run was simply time on feet effort.  I probably did a better job with the breathing/posture on [Sunday](javascript:flick('sun');) than I did tonight though.  My pace was more down to earth too; 6:07/km over the 10km of bike path and dirt.  I stopped after 63 minutes to say hi to an old hockey buddy, Mike M. in the parking lot of _Pearkes Arena_.
 <!---->
-### MIX OF BIKE PATH AND DIRT
+### FIRST 63 OF 70 MINUTES
 ![Run Map](/assets/jpg/runmap-20210408.jpeg)
 I walked for 15 minutes before the run and I did jogged the last kilometre home after my catch-up with Mike.
 
 About 100 calories of Maynards candy in lieu of a gel was consumed and my soleus (left and right) were mildly stiff tonight.
 
+Although it was a sunny evening, a stiff south-west wind felt way colder than it should for April in Victoria.  Looking at the forecast for next week, I am looking forward to some seasonal temperatures soon.
 <!---->
 ## FRIDAY APR 09 🌧
 Sleep **2** | Fatigue **2** | Stress **3** | Soreness **4**  
