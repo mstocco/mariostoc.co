@@ -131,6 +131,8 @@ I walked for 15 minutes before the run and I did jogged the last kilometre home 
 
 About 100 calories of Maynards candy in lieu of a gel was consumed and my soleus (left and right) were mildly stiff tonight.
 
+---
+
 Although it was a sunny evening, a stiff south-west wind felt way colder than it should for April in Victoria.  Looking at the forecast for next week, I am looking forward to some seasonal temperatures soon.
 <!---->
 ## FRIDAY APR 09 🌧
