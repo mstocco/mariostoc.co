@@ -16,7 +16,7 @@ With extra time off work, I was able to get:
 * saw the first small drop in weight and
 * got more sleep.
 
-![Winter in Victoria with another round of rain is on the horizon.](/assets/jpg/IMG_3054-977x550.jpeg CHRISTMAS HILL, SAANICH BC.)
+![Winter in Victoria with another round of rain approaching from the Pacific.](/assets/jpg/IMG_3054-977x550.jpeg CHRISTMAS HILL, SAANICH BC.)
 
 ## SUNDAY JAN 03 🌦
 Sleep **2** | Fatigue **4** | Stress **2** | Soreness **3**  

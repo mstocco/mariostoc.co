@@ -119,10 +119,13 @@ Day 1 TAC Routine.
 Run/Walk 80 minutes: 5 minutes easy walking to warm up. Run 70 minutes. Flat route. Bring a gel! Maybe some water as well. 5 minutes walking to cool down. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **70 minutes** &nbsp; Distance: **11 km**
 
-The first few minutes of the day were groggy, and any idea of doing the run before breakfast was tossed.
+The first few minutes of the day were groggy, and any idea of doing the run before breakfast was tossed.  A ~15 minute nap at 1600 came it handy.
 
+The run was nothing special; just time on feet.  I probably did a better job with the breathing/posture on [Sunday](javascript:flick('sun');) than I did tonight.  My pace was more down to earth too at ~6:10/km over the 10km of bike path and dirt.  I stopped after 63 minutes to say hi to an old hockey buddy, Mike M. in the parking lot of _Pearkes Arena_.
+
+I did jog home after that.
 
 <!---->
 ## FRIDAY APR 09
