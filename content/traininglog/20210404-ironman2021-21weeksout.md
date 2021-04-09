@@ -165,7 +165,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-<sup>(pending)</sup>
+Day 1 TAC Routine. 
+Ride 3:00 on MTB or road bike. Steady effort for most of the day. Rolling terrain. All the stuff you've been riding is good. You can always head out on the Goose or Great trail if you like.   
+*Fueling. Minimum of 600 calories on the ride. Try to get down at least two bottles. Stop to pee if you need to!
 
 ### NOTES
 Total Time: **0 minutes**
