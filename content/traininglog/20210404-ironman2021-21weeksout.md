@@ -128,8 +128,8 @@ The run was nothing special; just time on feet.  I probably did a better job wit
 I did jog home after that.
 
 <!---->
-## FRIDAY APR 09
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## FRIDAY APR 09 🌧
+Sleep **2** | Fatigue **2** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -148,7 +148,7 @@ Yes, it's a broken hour ride. If you'd rather do 10/50 or 50/10, that is ok with
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I am feeling a bit stiff this morning.  Intension on riding the rollers before breakfast was replaced with a sleep in.
 
 
 <!---->
