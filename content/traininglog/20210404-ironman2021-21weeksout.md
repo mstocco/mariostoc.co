@@ -121,7 +121,7 @@ Run/Walk 80 minutes: 5 minutes easy walking to warm up. Run 70 minutes. Flat rou
 ### NOTES
 Total Time: **70 minutes** &nbsp; Distance: **11 km**
 
-The first few minutes of the day were groggy, and any idea of doing the run before breakfast was tossed.  A ~15 minute nap at 1600 came it handy.
+The first few minutes of the day were groggy, and any idea of doing the run before breakfast was tossed.  A 15 minute nap at 1600 helped.
 
 The run was simply time on feet effort.  I probably did a better job with the breathing/posture on [Sunday](javascript:flick('sun');) than I did tonight though.  My pace was more down to earth too; 6:07/km over the 10km of bike path and dirt.  I stopped after 63 minutes to say hi to an old hockey buddy, Mike M. in the parking lot of _Pearkes Arena_.
 <!---->
