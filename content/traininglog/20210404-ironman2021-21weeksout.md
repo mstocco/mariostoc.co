@@ -156,12 +156,13 @@ Yes, it's a broken hour ride. If you'd rather do 10/50 or 50/10, that is ok with
 ### NOTES
 Total Time: **0 minutes**
 
-I am feeling a bit stiff this morning.  Riding the rollers before breakfast did not happen.
+I am feeling a bit stiff this morning.  Riding the rollers before breakfast did not happen.  In fact, I had another late afternoon nap (before swimming)
 
+The warmup sets were a warm up that I needed.  My arms felt tired, like my legs did [yesterday](javascript:flick('thu');).  The feeling didn't last I soon I was into the workout.  My watch quit counting lengths after 1375m; I noticed this part way into the 600m effort.  Math in my head is never a strong point but I found myself figuring that I am averaging 1:50/100m so, round that up to 2:00 minutes, multiply by 6 and I should be done shortly before 12 minutes.  The last wall was touched at 11:39.
 
 <!---->
-## SATURDAY APR 10
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## SATURDAY APR 10 ☀️
+Sleep **2** | Fatigue **2** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -172,7 +173,7 @@ Ride 3:00 on MTB or road bike. Steady effort for most of the day. Rolling terrai
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Glorious sleep last night.
 
 
 <!---->
