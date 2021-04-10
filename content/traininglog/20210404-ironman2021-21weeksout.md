@@ -162,7 +162,7 @@ In fact, I had another late afternoon nap (after a long day at work and before s
 
 The warmup sets were a warm up that I needed.  My arms felt tired, like my legs did [yesterday](javascript:flick('thu');).  The feeling didn't last I soon I was into the workout.  My watch quit counting lengths after 1375m; I noticed this part way into the 600m effort.  Math in my head is never a strong point but I found myself figuring that I am averaging 1:50/100m so, round that up to 2:00 minutes, multiply by 6 and I should be done shortly before 12 minutes.  The last wall was touched at 11:39.
 
-I did short myself 50m on an early warm-up so that I could "cool down" with a 100m and I touched that wall in 1:43.
+I did short myself 50m on an early warm-up so that I could "cool down" with a 100m and I touched that wall in 1:43. &larr; PR effort a year ago.
 
 I am feeling (less effort) and seeing (times are better) improvements in the pool.  That is until I bring my GoPro to the pool and watch after the fact.  It looks to me that I am hinged at the hip and I need to dedicate time to the mobility work (TAC Routine 2).
 
