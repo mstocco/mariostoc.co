@@ -177,13 +177,10 @@ Ride 3:00 on MTB or road bike. Steady effort for most of the day. Rolling terrai
 ### NOTES
 Total Time: **175 minutes** &nbsp; Distance: **70 km**
 
-Glorious sleep last night.
-
 The weather forecast was for clear skys today.  That was a nice thought but by the time I put the tools down and started to get ready for an afternoon ride, the winds started to pick up.
 
-<!---->
 I headed toward the [waterfront](javascript:flkty.select(2);) thinking that I might be able to put some of that wind at my back for a spin up to Sidney.  That worked for a bit but basically is was just gusty from any random direction.
-
+<!---->
 At Matticks' Farm on Cordova Bay Road, a dark cell appeared and it started to spit.  The precipitation started to get a bit heavier the further north I rode and once in the farmland of the Hunt Valley, I could see the rain over Central Saanich.  If I was going to do a loop of the airport, I was going to get wet.  
 
 Instead I rode an out and back to Island View Beach and on the return, I could see that the weather was getting worse.
@@ -197,6 +194,6 @@ It was a southbound trip from there, fingers crossed that I can get some luck wi
 84g of Maynard's Sours and 54g of lemonade mix in one bottle, another bottle of plain water.  Good to go or so I thought.  I should have packed a bit more Maynards to get to 600 calories; I added a banana instead.
 
  
-
+Glorious sleep last night.
 
 <!---->
