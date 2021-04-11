@@ -187,11 +187,15 @@ Instead I rode an out and back to Island View Beach and on the return, I could s
 
 ### FORECAST WAS FOR SUNSHINE
 ![Near Island View Beach](/assets/jpg/ridephoto-20210410.jpeg)
+
+It was a southbound race against the rain from there.
 <!---->
-It was a southbound trip from there, fingers crossed that I can get some luck with the weather.
+Luck was on my side right until Saanich PD, when I hit an isolated shower.  I still had about 20 minutes left on a 3 hour ride too. 
 
-
-84g of Maynard's Sours and 54g of lemonade mix in one bottle, another bottle of plain water.  Good to go or so I thought.  I should have packed a bit more Maynards to get to 600 calories; I added a banana instead.
+5
+### CALORIES
+84g of Maynard's Sours (Watermelon and Peach Fuzz), 54g of lemonade mix in for a sweet bottle, another bottle of plain water.  Good to go or so I thought.  I should have packed a bit more Maynards to get to 600 calories; I added a banana instead.
+Candy consumed after _Island View Beach_, lemodade bottle done on _Lochside Drive_ (going south) and the water was gone before _McKenzie Ave._
 
  
 Glorious sleep last night.
