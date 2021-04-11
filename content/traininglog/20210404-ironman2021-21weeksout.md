@@ -9,6 +9,10 @@ Two productive training weeks in a row.  Let's go for three!
 ## SUMMARY
 I feel I like was **STAYING CONSISTENT**.
 
+Although I did not get on the bike on [Friday](javascript:flick('fri');), this felt like a descent week in the build.  Work life has been stable, I am seeing improvements in the pool and we started a renovation project (bathroom).
+
+
+
 ![It was windy on Saturday.  I caught 5 kite-surfers in frame, there were 2 dozen enjoying the day.](/assets/jpg/IMG_3187-977x550.jpeg CLOVER POINT, VICTORIA BC)
 
 ## SUNDAY APR 04 ☀️
