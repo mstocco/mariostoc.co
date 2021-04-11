@@ -190,10 +190,13 @@ Instead I rode an out and back to _Island View Beach_.  On the return, I could s
 
 From there, it would be a southbound race to avoid the rain.
 <!---->
-Luck was on my side right until _Saanich PD_, when I hit an isolated shower.  I still had about 20 minutes left on a 3 hour ride too. I stayed out for a bit longer in an effort to get closer to 3 hours.  My legs were pretty much done from the ride and with the reno-work in the bathroom earlier, the rest of me was done too. 
+Luck was on my side right until _Saanich PD_, when I hit an isolated shower.  I still had about 20 minutes left on a 3 hour ride too. I stayed out for a bit longer in an effort to get closer to 3 hours.  
 
+### SATURDAY'S ROUTE
 ![Ride Map](/assets/jpg/ridemap-20210410.jpeg)
 <!---->
+My legs were pretty much done from the ride and with the reno-work in the bathroom earlier, the rest of me was done too. 
+
 ### CONSUMPTION
 84g of Maynard's Sours (Watermelon and Peach Fuzz), 54g of lemonade mix in for a sweet bottle, another bottle of plain water.  Good to go or so I thought.  I should have packed a bit more Maynards to get to 600 calories; I added a banana instead.
 Candy consumed after _Island View Beach_, lemodade bottle done on _Lochside Drive_ (going south) and the water was gone before _McKenzie Ave._
