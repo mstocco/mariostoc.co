@@ -177,7 +177,7 @@ Ride 3:00 on MTB or road bike. Steady effort for most of the day. Rolling terrai
 ### NOTES
 Total Time: **175 minutes** &nbsp; Distance: **70 km**
 
-The weather forecast was for clear skys today.  That was a nice thought but by the time I put the tools down and started to get ready for an afternoon ride, the winds started to pick up.
+The weather forecast was for a nice day but by the time I put the tools down and started to get ready for an afternoon ride, the winds started to pick up.
 
 I headed toward the [waterfront](javascript:flkty.select(2);) thinking that I might be able to put some of that wind at my back for a spin up to Sidney.  That worked for a bit but basically is was just gusty from any random direction.
 <!---->
