@@ -186,7 +186,12 @@ I headed toward the [waterfront](javascript:flkty.select(2);) thinking that I mi
 
 At Matticks' Farm on Cordova Bay Road, a dark cell appeared and it started to spit.  The precipitation started to get a bit heavier the further north I rode and once in the farmland of the Hunt Valley, I could see the rain over Central Saanich.  If I was going to do a loop of the airport, I was going to get wet.  
 
-Instead I rode an out and back to Island View Beach and on the return, I could see that the weather was getting worse.  It was a southbound trip from there, fingers crossed that I can get some luck with the weather.
+Instead I rode an out and back to Island View Beach and on the return, I could see that the weather was getting worse.
+
+### FORECAST WAS FOR SUNSHINE
+![Near Island View Beach](/assets/jpg/ridephoto-20210410.jpeg)
+<!---->
+It was a southbound trip from there, fingers crossed that I can get some luck with the weather.
 
 
 84g of Maynard's Sours and 54g of lemonade mix in one bottle, another bottle of plain water.  Good to go or so I thought.  I should have packed a bit more Maynards to get to 600 calories; I added a banana instead.
