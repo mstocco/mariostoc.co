@@ -7,12 +7,10 @@ Week beginning [Sunday, April 4, 2021](javascript:flick('sun');)
 Two productive training weeks in a row.  Let's go for three! 
 
 ## SUMMARY
-I feel I like was...  
-<sup>(completed at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel I like was **STAYING CONSISTENT**.
 
+![It was windy on Saturday.  I caught 5 kite-surfers in frame, there were 2 dozen enjoying the day.](/assets/jpg/IMG_3187-977x550.jpeg CLOVER POINT, VICTORIA BC)
 
-<!---->
 ## SUNDAY APR 04 ☀️
 Sleep **2** | Fatigue **4** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
