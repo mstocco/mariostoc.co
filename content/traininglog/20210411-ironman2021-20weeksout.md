@@ -54,9 +54,11 @@ Total Time: **110 minutes** &nbsp; Swim Distance: **2050m**
 
 A bit short on time this morning meant missing the 3x50 Strong set; regardless I was feeling **pretty cooked** from the effort this morning.
 
-The final 100m was done with a clear lane and I nailed the flip turn and was still a bit behind schedule touching the wall in 1:48 (steady effort).
+The final 100m was done with a lane all to myself; I nailed the flip turn and with a steady effort, was still a bit behind schedule touching the wall in 1:48.
 <!---->
-The commute was with the road bike this morning and it was 10 minutes to the pool (traffic lights) and 40 minutes of easy pedaling along _Dallas Road_, through _Downtown_ and back on the _Goose_.
+The commute was with the road bike this morning and it was 10 minutes to the pool (stopping for traffic lights) and 40 minutes of easy pedaling along _Dallas Road_, through _Downtown_ and back on the _Goose_.
+
+---
 
 Before the run [yesterday](javascript:flick('sun');), I had a can of Redbull.  I swear that had an effect on my sleep as I am normally _"lights out"_ when my head hits the pillow.  That didn't happen last night.
  
