@@ -37,7 +37,7 @@ The 90 minute easy ride was 24 minutes short but had a **bit more effort** on th
 ![Ride Map](/assets/jpg/ride-20210411.jpeg)
 
 <!---->
-## MONDAY APR 12
+## MONDAY APR 12 ☀️
 Sleep **4** | Fatigue **4** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -59,7 +59,6 @@ A bit short on time this morning meant missing the 3x50 Strong set; regardless I
 
 The final 100m was done with a lane all to myself; Even though I nailed the flip turn and held a comfortable effort, I was still a bit behind schedule, touching the wall in 1:48.
 <!---->
-### SWIM WORKOUT
 ![Pace Chart](/assets/jpg/swim-20210412.jpeg)
 
 The commute was with the road bike this morning and it was 10 minutes to the pool (stopping for traffic lights) and 40 minutes of easy pedaling along _Dallas Road_, through _Downtown_ and back on the _Goose_.
