@@ -31,7 +31,7 @@ I spent +3 hours chipping away at mortar and slate tiles before heading out for 
 
 **My legs felt heavy**, particularly going uphill.  Up and over Craigflower Hill and then rolling terrain until I got back to my neighbourhood.  There was a bit of downhill on McKenzie Avenue which seem to "wake" my legs up a bit.
 <!---->
-The 90 minute easy ride was 24 minutes short but had a bit **more effort** on the crank to make up the difference.  I pedalled a mostly flat route to Sidney to meet Carina who was already up there.  At the _McTavish Interchange_, I hopped onto the shouder of the _Pat Bay Highway_ and held 35kph until _Bevan Avenue_ in _Sidney_.  My legs did not feel fresh and there was a light headwind.
+The 90 minute easy ride was 24 minutes short but had a **bit more effort** on the crank to make up the difference.  I pedalled a mostly flat route to Sidney to meet Carina who was already up there.  At the _McTavish Interchange_, I hopped onto the shouder of the _Pat Bay Highway_ and held 35kph until _Bevan Avenue_ in _Sidney_.  My legs did not feel fresh and there was a light, NNE headwind.
 
 ### 1:05:32 TO RESTHAVEN
 ![Ride Map](/assets/jpg/ride-20210411.jpeg)
@@ -63,6 +63,8 @@ The final 100m was done with a lane all to myself; I nailed the flip turn and wi
 ![Pace Chart](/assets/jpg/swim-20210412.jpeg)
 
 The commute was with the road bike this morning and it was 10 minutes to the pool (stopping for traffic lights) and 40 minutes of easy pedaling along _Dallas Road_, through _Downtown_ and back on the _Goose_.
+
+![Ride Map](/assets/jpg/ride2-20210412.jpeg)
 
 ---
 
