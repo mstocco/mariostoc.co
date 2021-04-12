@@ -30,7 +30,7 @@ Total Time: **113 minutes**
 I spent +3 hours chipping away at mortar and slate tiles before heading out for the run.
 
 My legs felt heavy, particularly going uphill.  Up and over Craigflower Hill and then rolling terrain until I got back to my neighbourhood.  There was a bit of downhill on McKenzie Avenue which seem to "wake" my legs up a bit.
-
+<!---->
 The 90 minute easy ride was a bit short on time but had a bit more effort on the crank to make up the difference.  I pedalled up to Sidney to meet Carina who was already up there.  I took a mostly flat route and at the McTavish Interchange, I hopped onto the shouder of the Pat Bay Highway and held 35kph until Bevan Avenue in Sidney.  My legs didn't feel fresh but I was surprised with the result.
  
  <!---->
