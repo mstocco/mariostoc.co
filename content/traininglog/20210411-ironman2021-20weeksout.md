@@ -57,7 +57,7 @@ Total Time: **110 minutes** &nbsp; Swim Distance: **2050m**
 
 A bit short on time this morning meant missing the 3x50 Strong set; regardless I was feeling **pretty cooked** from the effort this morning.
 
-The final 100m was done with a lane all to myself; I nailed the flip turn and with a steady effort, was still a bit behind schedule touching the wall in 1:48.
+The final 100m was done with a lane all to myself; Even though I nailed the flip turn and held a comfortable effort, I was still a bit behind schedule, touching the wall in 1:48.
 <!---->
 ### SWIM WORKOUT
 ![Pace Chart](/assets/jpg/swim-20210412.jpeg)
