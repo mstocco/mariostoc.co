@@ -33,6 +33,7 @@ My legs felt heavy, particularly going uphill.  Up and over Craigflower Hill and
 <!---->
 The 90 minute easy ride was a bit short on time but had a bit more effort on the crank to make up the difference.  I pedalled up to Sidney to meet Carina who was already up there.  I took a mostly flat route and at the _McTavish Interchange_, I hopped onto the shouder of the _Pat Bay Highway_ and held 35kph until _Bevan Avenue_ in _Sidney_.  My legs didn't feel fresh but I was surprised with the result.
 
+### 1:05:32 TO RESTHAVEN
 ![Ride Map](/assets/jpg/ride-20210411.jpeg)
 
 <!---->
