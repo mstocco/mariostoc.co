@@ -64,6 +64,7 @@ The final 100m was done with a lane all to myself; Even though I nailed the flip
 The commute was with the road bike this morning and it was 10 minutes to the pool (stopping for traffic lights) and 40 minutes of easy pedaling along _Dallas Road_, through _Downtown_ and back on the _Goose_.
 
 ![Ride Map](/assets/jpg/ride2-20210412.jpeg)
+---
 
 Before the run [yesterday](javascript:flick('sun');), I had a can of Redbull.  I swear that had an effect on my sleep as I am normally _"lights out"_ when my head hits the pillow.  That didn't happen last night.
  
