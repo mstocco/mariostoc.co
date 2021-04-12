@@ -56,6 +56,9 @@ A bit short on time this morning meant missing the 3x50 Strong set; regardless I
 
 The final 100m was done with a lane all to myself; I nailed the flip turn and with a steady effort, was still a bit behind schedule touching the wall in 1:48.
 <!---->
+### SWIM WORKOUT
+![Pace Chart](/assets/jpg/swim-20210412.jpeg)
+
 The commute was with the road bike this morning and it was 10 minutes to the pool (stopping for traffic lights) and 40 minutes of easy pedaling along _Dallas Road_, through _Downtown_ and back on the _Goose_.
 
 ---
