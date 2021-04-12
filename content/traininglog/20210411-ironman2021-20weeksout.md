@@ -66,8 +66,6 @@ The commute was with the road bike this morning and it was 10 minutes to the poo
 
 ![Ride Map](/assets/jpg/ride2-20210412.jpeg)
 
----
-
 Before the run [yesterday](javascript:flick('sun');), I had a can of Redbull.  I swear that had an effect on my sleep as I am normally _"lights out"_ when my head hits the pillow.  That didn't happen last night.
  
 <!---->
