@@ -4,7 +4,7 @@ Week beginning [Sunday, April 11, 2021](javascript:flick('sun');)
 **20 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-&mdash; 
+With the bathroom reno in flight, I am going to have to be diligent with time management this week.  It looks like this is going to be the first week of real spring weather too.
 
 ## SUMMARY
 I feel I like was...  
@@ -13,8 +13,8 @@ I feel I like was...
 
 
 <!---->
-## SUNDAY APR 11
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## SUNDAY APR 11 ☀️
+Sleep **2** | Fatigue **4** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -25,12 +25,15 @@ Day 2 TAC Routine.
 2nd: Ride 90 minutes. FLAT terrain. Ideally on the road bike (to keep it easier) Spinning the legs out after the morning run. (Can be anytime of day)
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **113 minutes**
 
-&mdash; 
+I spent +3 hours chipping away at mortar and slate tiles before heading out for the run.
 
+My legs felt heavy, particularly going uphill.  Up and over Craigflower Hill and then rolling terrain until I got back to my neighbourhood.  There was a bit of downhill on McKenzie Avenue which seem to "wake" my legs up a bit.
 
-<!---->
+The 90 minute easy ride was a bit short on time but had a bit more effort on the crank to make up the difference.  I pedalled up to Sidney to meet Carina who was already up there.  I took a mostly flat route and at the McTavish Interchange, I hopped onto the shouder of the Pat Bay Highway and held 35kph until Bevan Avenue in Sidney.  My legs didn't feel fresh but I was surprised with the result.
+ 
+ <!---->
 ## MONDAY APR 12
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
