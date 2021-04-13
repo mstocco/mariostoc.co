@@ -72,18 +72,18 @@ The commute was with the road bike this morning and it was 10 minutes to the poo
 Before the run [yesterday](javascript:flick('sun');), I had a can of Redbull.  I swear that had an effect on my sleep as I am normally _"lights out"_ when my head hits the pillow.  That didn't happen last night.
  
 <!---->
-## TUESDAY APR 13
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## TUESDAY APR 13 ☀️
+Sleep **2** | Fatigue **3** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Day 1 TAC Routine
+Day 1 TAC Routine. 
 Run/Walk 85 minutes: 5 minutes easy walking to warm up. Run 75 minutes. Feel free to do a rolling route. No need to search for big climbs, but you have to run more than pancake routes. Bring a gel! Maybe some water as well. 5 minutes walking to cool down.
 
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Ok sleep last night but I wasn't so eager to get the run in before breakfast.
 
 
 <!---->
