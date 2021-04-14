@@ -89,7 +89,7 @@ A gel was replaced with about 100 calories of lemonade in bottle.  Used an old w
 <!---->
 Running this afternoon felt heavy legged to start, really good after 45 minutes and then heavy legged to wrap up.
 
-There was a hint that my left ankle might still be a bit bothered from a mountain bike ride [10 days ago](ironman2021-22weeksout?sat); there were a couple of mild twinges early in the first couple of kms but all clear on the remaining 10 km.
+There was a hint that my left ankle might still be a bit bothered from a mountain bike ride [10 days ago](ironman2021-22weeksout?sat); a couple of mild twinges in the first couple of kms but all clear for the remaining 10 km.
 
 My run clock must be off because after that 45 minute mark, I swear I was popping of the ground at 5:30/km pace but the GPS/footpod was measuring closer to 6:05/km.  I really don't care either way, the goal was to run a rolling route and this checked that box nicely ☑️
 
