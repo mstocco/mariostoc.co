@@ -83,11 +83,9 @@ Run/Walk 85 minutes: 5 minutes easy walking to warm up. Run 75 minutes. Feel fre
 ### NOTES
 Total Time: **0 minutes** &nbsp; Distance: **12.5 km**
 
-Ok sleep last night but I wasn't so eager to get the run in before breakfast.
+Ok sleep last night but I wasn't so eager to get the run in before breakfast.  After work, I did the Hip Mobility Routine V2 right before heading out for the run. 
 
-After work, I did the Hip Mobility Routine V2 right before heading out for the run.  
-
-On the run, I felt ___.  There was a hint that my left ankle is still a bit bothered from that mountain bike ride last [](ironman2021-21weeksout?); meaning there were a couple of mild twinges early in the first couple of kms but all clear on the remaining 10 km.
+On the run, I felt heavy legged to start, really good after 45 minutes and heavy legged to wrap up.  There was a hint that my left ankle might still be a bit bothered from a mountain bike ride [10 days ago](ironman2021-22weeksout?sat); there were a couple of mild twinges early in the first couple of kms but all clear on the remaining 10 km.
 
 My run clock must be pretty off because I swear I was popping of the ground at 5:30/km pace while the GPS/footpod was measuring 6:00/km.  I really don't care either way, the goal was to run a rolling route and this checked that box nicely ☑️
 
@@ -112,7 +110,7 @@ Total Time: **80 minutes** &nbsp; Swim Distance: **2200m**
 
 Not the best sleep last night, up at 0115, 0200, 0430 and finally 0500.
 
-The first 100m in the pool was less than comfortable but once I was warmed up, things started to click.  I swam in the _Continuous Lane_ with only minor congestion.  Nothing out of the ordinary to report except that my focus and effort was good.  I walked to the showers with a bit of a pump.
+The first 100m in the pool was less than comfortable but once warmed up, things started to click.  I swam in the _Continuous Lane_ with only minor congestion.  Nothing out of the ordinary to report except that my focus and effort was good.  I walked to the showers with a bit of a pump.
 
 The air temperature on the ride home had warmed up to 39	°F; looks like another gorgeous spring day.
 
