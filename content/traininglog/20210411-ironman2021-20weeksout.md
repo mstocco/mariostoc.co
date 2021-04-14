@@ -118,6 +118,8 @@ Not the best sleep last night, up at 0115, 0200, 0430 and finally 0500.
 The first 100m in the pool was less than comfortable but once warmed up, things started to click.  I swam in the _Continuous Lane_ with only minor congestion.  Nothing out of the ordinary to report except that my focus and effort was good.  I walked to the showers with a bit of a pump.
 
 The air temperature on the ride home had warmed up to 39	°F; looks like another gorgeous spring day.
+<!---->
+I must say that reno-work and training combined is felt.  I am stiff through my neck and shoulders.
 
 <!---->
 ## THURSDAY APR 15
