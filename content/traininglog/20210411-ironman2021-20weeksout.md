@@ -81,14 +81,21 @@ Day 1 TAC Routine.
 Run/Walk 85 minutes: 5 minutes easy walking to warm up. Run 75 minutes. Feel free to do a rolling route. No need to search for big climbs, but you have to run more than pancake routes. Bring a gel! Maybe some water as well. 5 minutes walking to cool down.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **0 minutes** &nbsp; Distance: **12.5 km**
 
 Ok sleep last night but I wasn't so eager to get the run in before breakfast.
 
+After work, I did the Hip Mobility Routine V2 right before heading out for the run.  
 
+On the run, I felt ___.  There was a hint that my left ankle is still a bit bothered from that mountain bike ride last [](ironman2021-21weeksout?); meaning there were a couple of mild twinges early in the first couple of kms but all clear on the remaining 10 km.
+
+My run clock must be pretty off because I swear I was popping of the ground at 5:30/km pace while the GPS/footpod was measuring 6:00/km.  I really don't care either way, the goal was to run a rolling route and this checked that box nicely ☑️
+
+A gel was replaced with about 100 calories of lemonade in bottle.  Used an old water bottle carrier only to be reminded why it is an _"old"_ water bottle carrier.  I also ran in my new pair of Altra Escalante 2.5 for the first time; nice update.
+ 
 <!---->
-## WEDNESDAY APR 14
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## WEDNESDAY APR 14 ☀️ 
+Sleep **4** | Fatigue **4** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -101,10 +108,13 @@ Short commute to the pool.
 30 minute commute home. EASY!
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **80 minutes** &nbsp; Swim Distance: **2200m**
 
-&mdash; 
+Not the best sleep last night, up at 0115, 0200, 0430 and finally 0500.
 
+The first 100m in the pool was less than comfortable but once I was warmed up, things started to click.  I swam mostly in the _Continuous Lane_ except for a couple lengths in the _Fast Lane_ (to avoid congestion).  Nothing out of the ordinary to report except that my focus and effort was good.  I walked to the showers with a bit of a pump.
+
+The air temperature on the ride home had warmed up to 39	°F; looks like another gorgeous spring day.
 
 <!---->
 ## THURSDAY APR 15
