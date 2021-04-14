@@ -77,11 +77,11 @@ Sleep **2** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Day 1 TAC Routine. 
+Day 1 TAC Routine.  
 Run/Walk 85 minutes: 5 minutes easy walking to warm up. Run 75 minutes. Feel free to do a rolling route. No need to search for big climbs, but you have to run more than pancake routes. Bring a gel! Maybe some water as well. 5 minutes walking to cool down.
 
 ### NOTES
-Total Time: **0 minutes** &nbsp; Distance: **12.5 km**
+Total Time: **78 minutes** &nbsp; Distance: **12.5 km**
 
 Ok sleep last night but I wasn't so eager to get the run in before breakfast.  After work is when I put on my run kit.  I did the Hip Mobility Routine V2 right before heading out too.
 
