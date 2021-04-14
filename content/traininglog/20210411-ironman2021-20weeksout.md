@@ -112,7 +112,7 @@ Total Time: **80 minutes** &nbsp; Swim Distance: **2200m**
 
 Not the best sleep last night, up at 0115, 0200, 0430 and finally 0500.
 
-The first 100m in the pool was less than comfortable but once I was warmed up, things started to click.  I swam mostly in the _Continuous Lane_ except for a couple lengths in the _Fast Lane_ (to avoid congestion).  Nothing out of the ordinary to report except that my focus and effort was good.  I walked to the showers with a bit of a pump.
+The first 100m in the pool was less than comfortable but once I was warmed up, things started to click.  I swam in the _Continuous Lane_ with only minor congestion.  Nothing out of the ordinary to report except that my focus and effort was good.  I walked to the showers with a bit of a pump.
 
 The air temperature on the ride home had warmed up to 39	°F; looks like another gorgeous spring day.
 
