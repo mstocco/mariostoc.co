@@ -83,9 +83,13 @@ Run/Walk 85 minutes: 5 minutes easy walking to warm up. Run 75 minutes. Feel fre
 ### NOTES
 Total Time: **0 minutes** &nbsp; Distance: **12.5 km**
 
-Ok sleep last night but I wasn't so eager to get the run in before breakfast.  After work, I did the Hip Mobility Routine V2 right before heading out for the run. 
+Ok sleep last night but I wasn't so eager to get the run in before breakfast.
 
-On the run, I felt heavy legged to start, really good after 45 minutes and heavy legged to wrap up.  There was a hint that my left ankle might still be a bit bothered from a mountain bike ride [10 days ago](ironman2021-22weeksout?sat); there were a couple of mild twinges early in the first couple of kms but all clear on the remaining 10 km.
+After work, I did the Hip Mobility Routine V2 right before heading out for the run. 
+
+Running this afternoon felt heavy legged to start, really good after 45 minutes and then heavy legged to wrap up.
+<!---->
+There was a hint that my left ankle might still be a bit bothered from a mountain bike ride [10 days ago](ironman2021-22weeksout?sat); there were a couple of mild twinges early in the first couple of kms but all clear on the remaining 10 km.
 
 My run clock must be pretty off because I swear I was popping of the ground at 5:30/km pace while the GPS/footpod was measuring 6:00/km.  I really don't care either way, the goal was to run a rolling route and this checked that box nicely ☑️
 
