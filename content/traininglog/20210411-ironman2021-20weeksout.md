@@ -92,6 +92,8 @@ There was a hint that my left ankle might still be a bit bothered from a mountai
 My run clock must be off because after that 45 minute mark, I swear I was popping of the ground at 5:30/km pace but the GPS/footpod was measuring closer to 6:05/km.  I really don't care either way, the goal was to run a rolling route and this checked that box nicely ☑️
 
 A gel was replaced with about 100 calories of lemonade in bottle.  Used an old water bottle carrier only to be reminded why it is an _"old"_ water bottle carrier.  I also ran in my new pair of Altra Escalante 2.5 for the first time; nice update.
+
+![Run Profile](/assets/jpg/runprofile-20210413.jpeg)
  
 <!---->
 ## WEDNESDAY APR 14 ☀️ 
