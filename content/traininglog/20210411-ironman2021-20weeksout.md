@@ -147,8 +147,15 @@ Off the bike: Run 30 minutes. Easy effort. Run with the best form you have!
 ### NOTES
 Total Time: **0 minutes**
 
-I woke congested (nasal) and with a bit of a headache.  [Yesterday](javascript:flick('wed');), I cut the grass and worked on the reno with a just simple dust mask. 
+I woke congested (nasal) and with a bit of a headache.  [Yesterday](javascript:flick('wed');), I cut the grass and worked on the reno with just a dust mask. 
+<!---->
+I did have intentions on riding before dawn (like yesterday) but my body said no.
 
+### RIDE NOTES
+<sup>(fill in here)</sup>
+
+### RUN NOTES
+<sup>(fill in here)</sup>
 
 <!---->
 ## FRIDAY APR 16
