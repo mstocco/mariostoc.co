@@ -119,7 +119,9 @@ Walking to the garage, I noticed that 0520 is now about the start of dawn with l
 
 I was still pretty crisp temperature wise though.
 <!---->
-The first 100m in the pool was less than comfortable but once warmed up, things started to click.  I swam in the _Continuous Lane_ with only minor congestion.  Nothing out of the ordinary to report except that my focus and effort was good.  I walked to the showers with a bit of a pump.
+The first 100m in the pool was less than comfortable but once warmed up, things started to click.  I swam in the _Continuous Lane_ with only minor lane congestion.  Nothing out of the ordinary to report except that my focus and effort was on point this morning.
+
+I walked to the showers with a bit of a pump going on; nice!
 
 ### Swim Pacing
 ![Swim Pace Graph](/assets/jpg/swim-20210414.jpeg)
