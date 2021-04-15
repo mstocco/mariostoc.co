@@ -115,12 +115,16 @@ Total Time: **80 minutes** &nbsp; Swim Distance: **2200m**
 
 Not the best sleep last night, up at 0115, 0200, 0430 and finally 0500.
 
+Walking to the garage, I noticed that 0520 is now about the start of dawn with light beginning in the eastern sky.  Riding to the pool just last week meant this time of the day was pitch black.  The birds were in full song too!  What an absolutely wonderful way to start a Wednesday.
+
+I was still pretty crisp temperature wise though.
+<!---->
 The first 100m in the pool was less than comfortable but once warmed up, things started to click.  I swam in the _Continuous Lane_ with only minor congestion.  Nothing out of the ordinary to report except that my focus and effort was good.  I walked to the showers with a bit of a pump.
 
-The air temperature on the ride home had warmed up to 39	°F; looks like another gorgeous spring day.
-<!---->
 ### Swim Pacing
 ![Swim Pace Graph](/assets/jpg/swim-20210414.jpeg)
+
+The air temperature on the ride home had warmed up to 39	°F; looks like another gorgeous spring day.
 
 ---
 
