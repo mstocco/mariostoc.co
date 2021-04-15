@@ -134,12 +134,12 @@ I must say that the combination of reno-work and training is starting to be felt
 
 
 <!---->
-## THURSDAY APR 15
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## THURSDAY APR 15 ☀️
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Day 2 Routine
+Day 2 TAC Routine.  
 Ride 70 minutes. Road bike. Purposely head to a few climbs. Ride up them under control, but you have the all clear to put a bit of pressure in the pedals and get the HR up. You are surrounded by short punch climbs. I'm not expecting you (or want you) to do the same climb all ride, but it would be nice if you got in 3-5 1-3 minute climbs. Just enough so you finish the ride feeling like you get your legs pumping a bit. (Feel free to shoot me a route if you have questions) 
 
 Off the bike: Run 30 minutes. Easy effort. Run with the best form you have!
@@ -147,7 +147,7 @@ Off the bike: Run 30 minutes. Easy effort. Run with the best form you have!
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Brutal morning.  I mean it is the start of a really nice day outside but I woke congested (nasal) and with a headache.  I did cut the grass yesterday and worked for a bit on the reno with a dust mask (instead of the respirator). 
 
 
 <!---->
