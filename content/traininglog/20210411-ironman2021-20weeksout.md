@@ -119,7 +119,8 @@ The first 100m in the pool was less than comfortable but once warmed up, things 
 
 The air temperature on the ride home had warmed up to 39	°F; looks like another gorgeous spring day.
 <!---->
-I must say that reno-work and training combined is felt.  I am stiff through my neck and shoulders.
+I must say that the combination of reno-work and training is starting to be felt.  I am stiff through my neck, shoulders and arms.  I probably need another evening to finish prepping the floor for new tile.  I'll have some drywall to remove after that and the rest will be mostly done by the pros.
+
 
 <!---->
 ## THURSDAY APR 15
