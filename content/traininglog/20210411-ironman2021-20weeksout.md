@@ -147,7 +147,7 @@ Off the bike: Run 30 minutes. Easy effort. Run with the best form you have!
 ### NOTES
 Total Time: **0 minutes**
 
-Brutal morning.  I mean it is the start of a really nice day outside but I woke congested (nasal) and with a headache.  I did cut the grass yesterday and worked for a bit on the reno with a dust mask (instead of the respirator). 
+Brutal morning.  I woke congested (nasal) and with a headache.  I did cut the grass yesterday and worked for a bit on the reno with a dust mask (instead of the respirator). 
 
 
 <!---->
