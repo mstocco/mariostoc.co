@@ -87,7 +87,7 @@ Ok sleep last night but I wasn't so eager to get the run in before breakfast.  A
 
 A gel was replaced with about 100 calories of lemonade in bottle.  Used an old water bottle carrier only to be reminded why it is an _"old"_ water bottle carrier.  I also ran in my new pair of Altra Escalante 2.5 for the first time; nice update.
 <!---->
-Running this afternoon felt heavy legged to start, really good after 45 minutes and then heavy legged to wrap up.  It was the warmest run of the year.
+Running this afternoon felt heavy legged to start, really good after 45 minutes and then heavy legged to wrap up.  It was warm too.
 
 There was a hint that my left ankle might still be a bit bothered from a mountain bike ride [10 days ago](ironman2021-22weeksout?sat); a couple of mild twinges in the first couple of kms but all clear for the remaining 10 km.
 
