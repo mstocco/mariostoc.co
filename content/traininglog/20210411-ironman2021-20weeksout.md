@@ -172,10 +172,12 @@ Run 30 minutes. EASY running. Nice short run whenever you have time.
 25, 50, 75, 100, 125, 150, 175, 200 steady trying to find your rhythm in the water. R :20 after each. 16x 25 Kick D 1-4, 5-8, 9-12, 13-16 From easy to strong. r :10. 100 easy swimming to cool down.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **29 minutes**
 
 Up at 0500 but went back to bed for more 💤.   Neck is is still a bit stiff but my arms and shoulders less so this morning.
 
+###That's much better!
+I had an errand (pick up filters for my respirator) so I incorporated that into today's easy run.  It was essentially my go to, 30 minute easy run route except I hit _pause_ before going into the supply store and _resume_ when leaving.  I was popping off the bike path nicely and I was averaging 5:35/km on the way back home (net uphill).
 
 <!---->
 ## SATURDAY APR 17
