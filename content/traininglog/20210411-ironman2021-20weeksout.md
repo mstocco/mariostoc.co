@@ -160,8 +160,8 @@ Almost 2 bottles of water and 200 calories consumed.  It was nice to finally be 
 There was **no juice** in the legs.  Short jog to the _Selkirk Trestle_; turned around at about 14 minutes and made it back to my start point (net uphill) with a negative split.
 
 <!---->
-## FRIDAY APR 16
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## FRIDAY APR 16 ☀️
+Sleep **2** | Fatigue **3** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -174,7 +174,7 @@ Run 30 minutes. EASY running. Nice short run whenever you have time.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Up at 0500 but went back to bed for more 💤.   Neck is is still a bit stiff but my arms and shoulders less so this morning.
 
 
 <!---->
