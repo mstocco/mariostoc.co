@@ -157,7 +157,7 @@ I noticed that I have hill repeats on the bike next week up _Mill Hill_ so I set
 Almost 2 bottles of water and 200 calories consumed.  It was nice to finally be riding in summer kit.
 
 ### RUN NOTES
-Short, flat_ish_ jog to the _Selkirk Trestle_.  There was **no juice** in the legs.  I got to the wood in about 14 minutes (net downhill) and made it back to my start point (net uphill) with a negative split.  I started to feel good with 600m to go.
+Short jog to the _Selkirk Trestle_.  There was **no juice** in the legs.  Turned around at about 14 minutes and made it back to my start point (net uphill) with a negative split.  I started to feel good with 600m to go.
 
 <!---->
 ## FRIDAY APR 16
