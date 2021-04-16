@@ -185,7 +185,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-<sup>pending...</sup>
+Day 1 TAC Routine.  
+Ride 3:00 on the road bike. A few climbs are ok. But try to avoid the steeper climbs. Easy to steady effort all ride. Steady fueling. Minimum of 600 calories. It'll be warm. Try to get down two bottles or more!
 
 ### NOTES
 Total Time: **0 minutes**
