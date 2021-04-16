@@ -152,12 +152,12 @@ I woke congested (nasal) and with a bit of a headache.  [Yesterday](javascript:f
 I did have intentions on riding before dawn (like yesterday) but my body said no.
 
 ### RIDE NOTES
-I noticed that I have hill repeats on the bike next week up _Mill Hill_ so I set off to explore something new for today.  I ended up on _Haida Drive_ in the _Braemar Heights_ subdivision of _Langford_.  3 times up that plus the hill on _Veterans Memorial Parkway_ checked off the requisite hill efforts for the scheduled ride.   With more fitness, there are more hills to explore here.  _Fulton Road_ looked to be longer and steeper but would need to be timed for a low traffic period.   I rode a bit longer as this subdivision is a bit further away (90 minutes).
+I noticed that I have hill repeats on the bike next week up _Mill Hill_ so I set off to explore something new for today.  I ended up on _Haida Drive_ in the _Braemar Heights_ subdivision of _Langford_.  3 times up that plus the hill on _Veterans Memorial Parkway_ checked off the requisite hill efforts (4) for the scheduled ride.   With more fitness, there are more hills to explore here.  _Fulton Road_ looked to be longer and steeper but would need to be timed for a low traffic period.   I rode a bit longer as this subdivision is a bit further away (90 minutes).
 
 Almost 2 bottles of water and 200 calories consumed.  It was nice to finally be riding in summer kit.
 
 ### RUN NOTES
-Short jog to the _Selkirk Trestle_.  There was **no juice** in the legs.  Turned around at about 14 minutes and made it back to my start point (net uphill) with a negative split.  I started to feel good with 600m to go.
+Short jog to the _Selkirk Trestle_.  There was **no juice** in the legs.  Turned around at about 14 minutes and made it back to my start point (net uphill) with a negative split.
 
 <!---->
 ## FRIDAY APR 16
