@@ -178,7 +178,7 @@ Up at 0500 but went back to bed for more 💤.   Neck is is still a bit stiff bu
 
 I had an errand (pick up filters for my respirator) so I incorporated that into today's easy run.  
 <!---->
-The route was essentially my go to, 30 minute easy run route except I hit _pause_ before going into the supply store and _resume_ when leaving.  I was **popping off the ground** nicely and I was averaging 5:35/km on the way back home (net uphill).  Moving time was 29:35 and **effort was easy**.  It was hot, even at the water's edge too.
+The route was essentially my _Selkirk Trestle_ out and back, except for a small detour to go to a supply store.  I hit _pause_ going into store and _resume_ when leaving.  Moving time was 29:35; time in the store was 5:03.  Unlike [yesterday](javascript:flick('thu');), this afternoon I was **popping off the ground** and I was averaging 5:35/km on the way back home.  It was hot, even at the water's edge; regardless this short run felt effortless.
 
 ![Run Map](/assets/jpg/run-20210416.jpeg) 
 
