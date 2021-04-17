@@ -172,7 +172,7 @@ Run 30 minutes. EASY running. Nice short run whenever you have time.
 25, 50, 75, 100, 125, 150, 175, 200 steady trying to find your rhythm in the water. R :20 after each. 16x 25 Kick D 1-4, 5-8, 9-12, 13-16 From easy to strong. r :10. 100 easy swimming to cool down.
 
 ### NOTES
-Total Time: **29 minutes**
+Total Time: **81 minutes**
 
 Up at 0500 but went back to bed for more 💤.   Neck is is still a bit stiff but my arms and shoulders less so this morning.
 
@@ -183,12 +183,11 @@ The route was essentially my _Selkirk Trestle_ out and back, except for a small 
 
 ![Run Map](/assets/jpg/run-20210416.jpeg)
 
-Unlike [yesterday](javascript:flick('thu');), I was **popping off the ground** this afternoon and averaged 5:35/km on the way back home.  No aches, pains or abundance of fatigue to report.
+Unlike [yesterday](javascript:flick('thu');), I was **popping off the ground** this afternoon and even averaged 5:35/km on the way back home.  No aches, pains or abundance of fatigue to report.
 
-It was a warmer than usual afternoon; 22°C and no breeze even at the water's edge; regardless this short run felt effortless.
+It was a warmer than usual afternoon; 22°C with no breeze, even at the water's edge; regardless this short run felt effortless.
 <!---->
 ### 2000m Swim Notes
-
 This swim felt like I had a run about 90 minutes prior.  That long kick set did work the hips but was enough of a rest to crank out the following:
 
 ![100m Swim PR](/assets/jpg/swimpr-20210416.jpeg)
