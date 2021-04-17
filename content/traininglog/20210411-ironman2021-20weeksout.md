@@ -180,12 +180,11 @@ I had an errand (pick up filters for my respirator) so I incorporated that into 
 <!---->
 The route was essentially my _Selkirk Trestle_ out and back, except for a small detour to go to a supply store.  I hit _pause_ going into store and _resume_ when leaving.  Moving time was 29:35; time in the store was 5:03.
 
-Unlike [yesterday](javascript:flick('thu');), I was **popping off the ground** this afternoon and averaged 5:35/km on the way back home.  It was hot, even at the water's edge; regardless this short run felt effortless.
-
 ![Run Map](/assets/jpg/run-20210416.jpeg)
 
----
+Unlike [yesterday](javascript:flick('thu');), I was **popping off the ground** this afternoon and averaged 5:35/km on the way back home.  No aches, pains or abundance of fatigue to report.
 
+It was a warmer that usual afternoon; 22°C an no breeze even at the water's edge; regardless this short run felt effortless.
 <!---->
 Besides the cruelty of 16x25 kick set, the swim was about staying on point.
 
