@@ -185,15 +185,16 @@ The route was essentially my _Selkirk Trestle_ out and back, except for a small 
 
 Unlike [yesterday](javascript:flick('thu');), I was **popping off the ground** this afternoon and averaged 5:35/km on the way back home.  No aches, pains or abundance of fatigue to report.
 
-It was a warmer that usual afternoon; 22°C an no breeze even at the water's edge; regardless this short run felt effortless.
+It was a warmer than usual afternoon; 22°C and no breeze even at the water's edge; regardless this short run felt effortless.
 <!---->
 ### Swim Notes
-![Swim Pace Chart](/assets/jpg/swim-20210416.jpeg)
 
 This swim felt like I had a run about 90 minutes prior.  That long kick set did have hips working but also was enough of a rest to crank out a the following:
 
 ![100m Swim PR](/assets/jpg/swimpr-20210416.jpeg)
-<div class="agencyvc" style="text-align:center;margin-top:-200px;font-size:4em;color:white;">1:35<small>/100m</small></div>
+<div class="agencyvc" style="text-align:center;margin-top:-200px;font-size:4.5em;color:white;">1:35<small>/100m</small></div>
+
+![Swim Pace Chart](/assets/jpg/swim-20210416.jpeg)
 <!---->
 ## SATURDAY APR 17
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
