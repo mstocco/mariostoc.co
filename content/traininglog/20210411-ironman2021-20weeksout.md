@@ -189,9 +189,7 @@ It was a warmer that usual afternoon; 22°C an no breeze even at the water's edg
 <!---->
 ### Swim Notes
 ![Swim Pace Chart](/assets/jpg/swim-20210416.jpeg)
-It felt like I had a run about 90 minutes prior.  That long kick set did have hips working but also was enough of a rest to crank out a 100m PR at the end.
-
-![100m Swim PR](/assets/jpg/swimpr-20210416.jpeg)
+It felt like I had a run about 90 minutes prior.  That long kick set did have hips working but also was enough of a rest to crank out a the following:  ![100m Swim PR](/assets/jpg/swimpr-20210416.jpeg)
 <!---->
 ## SATURDAY APR 17
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
