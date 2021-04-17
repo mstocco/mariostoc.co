@@ -186,8 +186,9 @@ Unlike [yesterday](javascript:flick('thu');), I was **popping off the ground** t
 
 It was a warmer that usual afternoon; 22°C an no breeze even at the water's edge; regardless this short run felt effortless.
 <!---->
+### Swim @Esquimalt
 ![Swim Pace Chart](/assets/jpg/swim-20210416.jpeg)
-The swim was about staying on point.  I think I did ok with that but I did notice that I had a run about 90 minutes prior to getting in the water.  That long kick set did have hips working but was also enough of a rest to crank out a 100m PR.
+It felt like I had a run about 90 minutes prior to getting in the water.  That long kick set did have hips working but also was enough of a rest to crank out a 100m PR at the end.
 
 ![100m Swim PR](/assets/jpg/swimpr-20210416.jpeg)
 <!---->
