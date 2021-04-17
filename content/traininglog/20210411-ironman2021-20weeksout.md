@@ -189,7 +189,8 @@ It was a warmer that usual afternoon; 22°C an no breeze even at the water's edg
 <!---->
 ### Swim Notes
 ![Swim Pace Chart](/assets/jpg/swim-20210416.jpeg)
-It felt like I had a run about 90 minutes prior.  That long kick set did have hips working but also was enough of a rest to crank out a the following:
+
+This swim felt like I had a run about 90 minutes prior.  That long kick set did have hips working but also was enough of a rest to crank out a the following:
 
 ![100m Swim PR](/assets/jpg/swimpr-20210416.jpeg)
 <div class="agencyvc" style="text-align:center;margin-top:-200px;font-size:4em;color:white;">1:35<small>/100m</small></div>
