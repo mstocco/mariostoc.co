@@ -178,6 +178,7 @@ Up at 0500 but went back to bed for more 💤.   Neck is is still a bit stiff bu
 
 I had an errand (pick up filters for my respirator) so I incorporated that into today's easy run.  
 <!---->
+### Run Notes
 The route was essentially my _Selkirk Trestle_ out and back, except for a small detour to go to a supply store.  I hit _pause_ going into store and _resume_ when leaving.  Moving time was 29:35; time in the store was 5:03.
 
 ![Run Map](/assets/jpg/run-20210416.jpeg)
@@ -186,9 +187,9 @@ Unlike [yesterday](javascript:flick('thu');), I was **popping off the ground** t
 
 It was a warmer that usual afternoon; 22°C an no breeze even at the water's edge; regardless this short run felt effortless.
 <!---->
-### Swim @Esquimalt
+### Swim Notes
 ![Swim Pace Chart](/assets/jpg/swim-20210416.jpeg)
-It felt like I had a run about 90 minutes prior to getting in the water.  That long kick set did have hips working but also was enough of a rest to crank out a 100m PR at the end.
+It felt like I had a run about 90 minutes prior.  That long kick set did have hips working but also was enough of a rest to crank out a 100m PR at the end.
 
 ![100m Swim PR](/assets/jpg/swimpr-20210416.jpeg)
 <!---->
