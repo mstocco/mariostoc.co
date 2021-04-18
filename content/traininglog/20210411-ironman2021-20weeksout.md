@@ -220,7 +220,7 @@ Stiff to begin the ride.
 
 Kangaroo Road was a blast, feeling good and probably pushing on the pedals harder than I should have.
 
-End of William Head Road with 1:30:00 on the clock, did the math on where to go next to get another 90 minutes of saddle time.
+End of [William Head Road](javascript:flkty.select(2);) with 1:30:00 on the clock, did the math on where to go next to get another 90 minutes of saddle time.
 
 Started pedalling back towards _Metchosin_ and my legs with that brief stop, legs stiffened up.
 
