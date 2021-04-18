@@ -4,7 +4,7 @@ Week beginning [Sunday, April 18, 2021](javascript:flick('sun');)
 **19 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-The goal this week is to duplicate the productivity of [last week](ironman2021-20weeksout)
+The goal this week is to simply duplicate the productivity of [last week](ironman2021-20weeksout).
 
 ## SUMMARY
 I feel I like was...  
@@ -21,9 +21,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 Day 2 TAC Routine.
  
 1st: Ride 90 minutes on the MTB. Ride whatever route sounds the most FUN. Easy to steady effort. I'm sure you'll have to dig deep to get up a climb or two. That is expected. Enjoy a sunny day on the trails!
-2nd: Does NOT have to be off the bike, but it can if that is what works with your schedule....
 
-Run 60 minutes. Very flat route. Aka: Path running. Easy effort.
+2nd: Does NOT have to be off the bike, run 60 minutes. Very flat route. Aka: Path running. Easy effort.
 
 ### NOTES
 Total Time: **0 minutes**
