@@ -12,6 +12,8 @@ I feel I like was...
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
 
+![Saturday's ride could not have had nicer weather.  Race Rocks Lighthouse in the distance, the Olympic Mountains at the horizon.](/assets/jpg/IMG_3201-977x550.jpeg Pedder Bay, BC)
+
 <!---->
 ## SUNDAY APR 11 ☀️
 Sleep **2** | Fatigue **4** | Stress **2** | Soreness **4**  
