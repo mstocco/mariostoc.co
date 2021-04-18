@@ -7,14 +7,13 @@ Week beginning [Sunday, April 11, 2021](javascript:flick('sun');)
 With the bathroom reno in flight, I am going to have to be diligent with time management this week.  It looks like this is going to be the first week of real spring weather too.
 
 ## SUMMARY
-I feel I like was...  
-<sup>(completed at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel I like was **STAYING CONSISTENT**
 
 
-![Saturday's ride could not have had nicer weather.  Race Rocks Lighthouse in the distance, the Olympic Mountains at the horizon.](/assets/jpg/IMG_3201-977x550.jpeg Pedder Bay, BC)
 
-<!---->
+
+![Saturday's ride could not have had nicer weather.  Race Rocks Lighthouse off in the distance, the Olympic Mountains fill the horizon.](/assets/jpg/IMG_3201-977x550.jpeg Pedder Bay, Vancouver Island)
+
 ## SUNDAY APR 11 ☀️
 Sleep **2** | Fatigue **4** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
