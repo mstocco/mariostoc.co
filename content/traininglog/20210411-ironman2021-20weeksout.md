@@ -218,9 +218,9 @@ I was stiff to begin the ride though that didn't last long, maybe until the _Nes
 <!---->
 ![Humpback Road](/assets/jpg/forest-20210417.jpeg)<em><sup>Humpback Road, Mount Wells Regional Park</sup></em>
 
-I made my way through Langford and eventually on to the shoulder of Highway 14.  I turned off the highway on to Kangaroo Road; the southern half being downhill was a blast.  I was feeling good at that point and probably pushing on the pedals harder than I should have.
+I made my way through _Langford_ and eventually on to the shoulder of _Highway 14_.  I turned off the highway on to _Kangaroo Road_; the southern half of _Kangaroo_ being downhill was an absolute blast to ride on a road bike.  At that point, I was feeling good at that point and probably pushing on the pedals harder than I should have.
 
-I rode to the end of _William Head Road_ to get [this week's photo](javascript:flkty.select(2);).  At that point, I had 1:30:00 on the clock and a decision on where to go next to get another 90 minutes of saddle time.  After that brief stop, I noticed my legs stiffened back up as I started pedalling back towards _Metchosin_.
+I rode to the end of _William Head Road_ to get [this week's photo](javascript:flkty.select(2);).  At that point, I had 1:30:00 on the clock and a decision on where to go for the next 90 minutes of saddle time.  After that brief stop, I noticed my legs stiffened back up as I started pedalling back towards _Metchosin_.
 
 <!---->
 ![Ride Map](/assets/jpg/ridemap-20210417.jpeg)
