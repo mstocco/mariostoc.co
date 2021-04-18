@@ -222,5 +222,8 @@ I made my way through Langford and eventually on to the shoulder of Highway 14. 
 
 I rode to the end of _William Head Road_ to get [this week's photo](javascript:flkty.select(2);).  At that point, I had 1:30:00 on the clock and a decision on where to go next to get another 90 minutes of saddle time.  After that brief stop, I noticed my legs stiffened back up as I started pedalling back towards _Metchosin_.
 
+<!---->
+![Ride Map](/assets/jpg/ridemap-20210417.jpeg)
+
 Caught a group of 3 riders on the _E&N Rail Trail_.  I was ever so slightly carrying a bit more speed than the group.
 
