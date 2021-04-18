@@ -9,8 +9,11 @@ With the bathroom reno in flight, I am going to have to be diligent with time ma
 ## SUMMARY
 I feel I like was **STAYING CONSISTENT**
 
+Overall this was a productive week.  Work has been going well, the renovation is progressing and I have been getting the workouts in.  This was the week that winter turned into summer too.
 
+My confidence in the water is heading in the right direction.  The early morning Monday/Wednesday sessions are paying dividends.
 
+Ironman published the Participant List for IMC.  My name appears on page 83; 2772 people registered.  With that number of people descending on Penticton, I wonder if the event is going to go ahead.
 
 ![Saturday's ride could not have had nicer weather.  Race Rocks Lighthouse off in the distance, the Olympic Mountains fill the horizon.](/assets/jpg/IMG_3201-977x550.jpeg Pedder Bay, Vancouver Island)
 
@@ -205,9 +208,20 @@ Day 1 TAC Routine.
 Ride 3:00 on the road bike. A few climbs are ok. But try to avoid the steeper climbs. Easy to steady effort all ride. Steady fueling. Minimum of 600 calories. It'll be warm. Try to get down two bottles or more!
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **178 minutes** &nbsp; Distance: **71 km**
 
-&mdash; 
-
+After 3 hours on the renovation, it was time to get on the bike.  It would have been easy to ride up the peninsula for a 3 hour loop but this afternoon, I headed west instead.
 
 <!---->
+
+Stiff to begin the ride.
+
+600 calories and 2 full bottles downed.
+
+Kangaroo Road was a blast, feeling good and probably pushing on the pedals harder than I should have.
+
+End of William Head Road with 1:30:00 on the clock, did the math on where to go next to get another 90 minutes of saddle time.
+
+Started pedalling back towards _Metchosin_ and my legs with that brief stop, legs stiffened up.
+
+Caught a group of 3 riders on the _E&N Rail Trail_.  I was ever so slightly carrying a bit more speed than the group.
