@@ -210,13 +210,13 @@ Ride 3:00 on the road bike. A few climbs are ok. But try to avoid the steeper cl
 ### NOTES
 Total Time: **178 minutes** &nbsp; Distance: **71 km**
 
-After 3 hours on the renovation, it was time to get on the bike.  It would have been easy to ride up the peninsula for a 3 hour loop but this afternoon, I headed west instead.
+After 3 hours on the renovation, it was time to get on the bike.  It would have been easy to ride up the peninsula for a 3 hour loop but this afternoon, I decided to mix it up and headed west instead.
 
+I was stiff to begin the ride though that didn't last long, maybe until the _Nest Cafe_. 
 <!---->
+![](/assets/jpg/forest-20210417.jpeg)
 
-Stiff to begin the ride.
 
-600 calories and 2 full bottles downed.
 
 Kangaroo Road was a blast, feeling good and probably pushing on the pedals harder than I should have.
 
@@ -225,3 +225,5 @@ End of [William Head Road](javascript:flkty.select(2);) with 1:30:00 on the cloc
 Started pedalling back towards _Metchosin_ and my legs with that brief stop, legs stiffened up.
 
 Caught a group of 3 riders on the _E&N Rail Trail_.  I was ever so slightly carrying a bit more speed than the group.
+
+600 calories and 2 full bottles downed.
