@@ -200,7 +200,7 @@ This swim felt like I had a run about 90 minutes prior.  That long kick set did 
 ![Swim Pace Chart](/assets/jpg/swim-20210416.jpeg)
 <!---->
 ## SATURDAY APR 17
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **4** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -217,7 +217,7 @@ I was stiff to begin the ride though that didn't last long, maybe until the _Nes
 <!---->
 ![Humpback Road](/assets/jpg/forest-20210417.jpeg)<em><sup>Humpback Road, Mount Wells Regional Park</sup></em>
 
-I made my way through _Langford_ and eventually on to the shoulder of _Highway 14_.  I turned off the highway on to _Kangaroo Road_; the southern half of _Kangaroo_ was downhill and an absolute blast to ride on a road bike.  At that point, I was feeling good at that point and probably pushing on the pedals harder than I should have.
+I made my way through _Langford_ and eventually on to the shoulder of _Highway 14_.  I turned off the highway on to _Kangaroo Road_; the southern half of _Kangaroo_ was downhill and an absolute blast to ride on a road bike.  At that point, I was feeling good and probably pushing on the pedals harder than I should have.
 
 Before leaving _Metchosin_, I rode west to the end of _William Head Road_ for a brief stop and to capture [this week's photo](javascript:flkty.select(2);).  I had 90 minutes on the clock and a decision on for the next 90 minutes of saddle time.  As I started to make my way back, I noticed my legs had stiffened again.
 <!---->
