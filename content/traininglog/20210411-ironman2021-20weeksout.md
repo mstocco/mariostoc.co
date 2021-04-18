@@ -217,9 +217,9 @@ I was stiff to begin the ride though that didn't last long, maybe until the _Nes
 <!---->
 ![Humpback Road](/assets/jpg/forest-20210417.jpeg)<em><sup>Humpback Road, Mount Wells Regional Park</sup></em>
 
-I made my way through _Langford_ and eventually on to the shoulder of _Highway 14_.  I turned off the highway on to _Kangaroo Road_; the southern half of _Kangaroo_ being downhill and an **absolute blast** to ride on a road bike.  At that point, I was feeling good at that point and probably pushing on the pedals harder than I should have.
+I made my way through _Langford_ and eventually on to the shoulder of _Highway 14_.  I turned off the highway on to _Kangaroo Road_; the southern half of _Kangaroo_ was downhill and an absolute blast to ride on a road bike.  At that point, I was feeling good at that point and probably pushing on the pedals harder than I should have.
 
-Before leaving _Metchosin_, I rode west to the end of _William Head Road_ for a brief stop and to capture [this week's photo](javascript:flkty.select(2);).  I had 1:30:00 on the clock and a decision on where to go for the next 90 minutes of saddle time.  As I started to pedal and make my way east, I noticed my legs had stiffened up again; like the start of a new ride.
+Before leaving _Metchosin_, I rode west to the end of _William Head Road_ for a brief stop and to capture [this week's photo](javascript:flkty.select(2);).  I had 90 minutes on the clock and a decision on for the next 90 minutes of saddle time.  As I started to make my way back, I noticed my legs had stiffened up again; like the start of a new ride.
 <!---->
 Back in _View Royal_, I caught a group of 3 riders on the _E&N Rail Trail_.  I was ever so slightly carrying a bit more speed than they were.  Once it was safe, I put a little torque on the crank to ride passed.
 
