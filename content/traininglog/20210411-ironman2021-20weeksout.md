@@ -9,9 +9,9 @@ With the bathroom reno in flight, I am going to have to be diligent with time ma
 ## SUMMARY
 I feel I like was **STAYING CONSISTENT**
 
-Overall this was a productive week.  Work has been going well, the renovation is progressing and I have been getting the workouts in.  This was the week that winter turned into summer too.
+Overall this was a productive week.  Work has been going well, the renovation is progressing and I managed **12.5 hours of training**.  This was the week that winter turned into summer too.
 
-Steady improvements in the water are starting to show.  The early morning sessions are paying off.
+Steady improvements in the pool are starting to show.  The early morning sessions are paying off.
 
 Ironman published the Participant List for IMC.  My name appears on page 83; 2772 people registered.  With that many people descending on Penticton, I wonder if the event is going to go ahead...
 
