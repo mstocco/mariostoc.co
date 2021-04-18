@@ -212,18 +212,15 @@ Total Time: **178 minutes** &nbsp; Distance: **71 km**
 
 After 3 hours on the renovation, it was time to get on the bike.  It would have been easy to ride up the peninsula for a 3 hour loop but this afternoon, I decided to mix it up and headed west instead.
 
+I packed and consumed 600 calories and 2 full bottles.  Zero "GI" and I think I could handle more calories (or at least, I will bring more next time).
+
 I was stiff to begin the ride though that didn't last long, maybe until the _Nest Cafe_. 
 <!---->
-![](/assets/jpg/forest-20210417.jpeg)
+![Humpback Road](/assets/jpg/forest-20210417.jpeg)<em><sup>Humpback Road, Mount Wells Regional Park</sup></em>
 
+I made my way through Langford and eventually on to the shoulder of Highway 14.  I turned off the highway on to Kangaroo Road; the southern half being downhill was a blast.  I was feeling good at that point and probably pushing on the pedals harder than I should have.
 
-
-Kangaroo Road was a blast, feeling good and probably pushing on the pedals harder than I should have.
-
-End of [William Head Road](javascript:flkty.select(2);) with 1:30:00 on the clock, did the math on where to go next to get another 90 minutes of saddle time.
-
-Started pedalling back towards _Metchosin_ and my legs with that brief stop, legs stiffened up.
+I rode to the end of _William Head Road_ to get [this week's photo](javascript:flkty.select(2);).  At that point, I had 1:30:00 on the clock and a decision on where to go next to get another 90 minutes of saddle time.  After that brief stop, I noticed my legs stiffened back up as I started pedalling back towards _Metchosin_.
 
 Caught a group of 3 riders on the _E&N Rail Trail_.  I was ever so slightly carrying a bit more speed than the group.
 
-600 calories and 2 full bottles downed.
