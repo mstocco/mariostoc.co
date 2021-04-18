@@ -13,7 +13,7 @@ Overall this was a productive week.  Work has been going well, the renovation is
 
 Steady improvements in the water are starting to show.  The early morning sessions are paying off.
 
-Ironman published the Participant List for IMC.  My name appears on page 83; 2772 people registered.  With that number of people descending on Penticton, I wonder if the event is going to go ahead...
+Ironman published the Participant List for IMC.  My name appears on page 83; 2772 people registered.  With that many people descending on Penticton, I wonder if the event is going to go ahead...
 
 ![Saturday's ride could not have had nicer weather.  Race Rocks Lighthouse off in the distance, the Olympic Mountains fill the horizon.](/assets/jpg/IMG_3201-977x550.jpeg Pedder Bay, Vancouver Island)
 
