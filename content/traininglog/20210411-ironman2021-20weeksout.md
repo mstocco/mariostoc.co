@@ -11,7 +11,7 @@ I feel I like was **STAYING CONSISTENT**
 
 Overall this was a productive week.  Work has been going well, the renovation is progressing and I have been getting the workouts in.  This was the week that winter turned into summer too.
 
-My confidence in the water is heading in the right direction.  The early morning sessions are paying dividends.
+Steady improvements in the water are starting to show.  The early morning sessions are paying off.
 
 Ironman published the Participant List for IMC.  My name appears on page 83; 2772 people registered.  With that number of people descending on Penticton, I wonder if the event is going to go ahead...
 
