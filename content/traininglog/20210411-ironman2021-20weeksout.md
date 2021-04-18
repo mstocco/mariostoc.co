@@ -204,7 +204,6 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Day 1 TAC Routine.  
 Ride 3:00 on the road bike. A few climbs are ok. But try to avoid the steeper climbs. Easy to steady effort all ride. Steady fueling. Minimum of 600 calories. It'll be warm. Try to get down two bottles or more!
 
 ### NOTES
@@ -220,10 +219,11 @@ I was stiff to begin the ride though that didn't last long, maybe until the _Nes
 
 I made my way through _Langford_ and eventually on to the shoulder of _Highway 14_.  I turned off the highway on to _Kangaroo Road_; the southern half of _Kangaroo_ being downhill and an **absolute blast** to ride on a road bike.  At that point, I was feeling good at that point and probably pushing on the pedals harder than I should have.
 
-Before leaving _Metchosin_, I rode west to the end of _William Head Road_ to capture [this week's photo](javascript:flkty.select(2);) and a brief stop.  I had 1:30:00 on the clock and a decision on where to go for the next 90 minutes of saddle time.  As I started to pedal and make my way east, I noticed my legs had stiffened up again; like the start of a new ride.
-
+Before leaving _Metchosin_, I rode west to the end of _William Head Road_ for a brief stop and to capture [this week's photo](javascript:flkty.select(2);).  I had 1:30:00 on the clock and a decision on where to go for the next 90 minutes of saddle time.  As I started to pedal and make my way east, I noticed my legs had stiffened up again; like the start of a new ride.
 <!---->
+Back in _View Royal_, I caught a group of 3 riders on the _E&N Rail Trail_.  I was ever so slightly carrying a bit more speed than they were.  Once it was safe, I put a little torque on the crank to ride passed.
+
+Unexpectedly, I found myself now the lead out for a group of now 4 riders.  Nice group; they were intending on following the _E&N Trail_ to _Downtown_ but they ended up following me through an extended tour of _Esquimalt_.  This was near the end of my ride; I was out of sugar, on cooked legs but they made the last bit of the ride fun for me as I hope I did for them.
+
+### Saturday's Route
 ![Ride Map](/assets/jpg/ridemap-20210417.jpeg)
-
-Back in _View Royal_, I caught a group of 3 riders on the _E&N Rail Trail_.  I was ever so slightly carrying a bit more speed than they were.  Once it was safe, I put a little torque on the crank to ride passed. Unexpectedly, I found myself now the lead out for a group of now 4 riders.  Nice group; they were intending on following the _E&N Trail_ to _Downtown_ but they ended up following me through an extended tour of _Esquimalt_.  This was near the end of my ride; I was out of sugar, out of juice in the legs but they made the last bit of the ride fun for me as I hope I did for them.
-
