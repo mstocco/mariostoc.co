@@ -45,6 +45,8 @@ By 7km, my feet were getting tired too.
 
 Time for a spaghetti dinner and then off to bed.
 
+### Time In Zones (RUN)
+![HR Chart](/assets/jpg/run-20210418.jpeg)
 
 
 
