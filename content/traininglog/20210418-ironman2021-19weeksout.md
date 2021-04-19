@@ -53,8 +53,8 @@ Time for a spaghetti dinner and then off to bed.
 
 
 <!---->
-## MONDAY APR 19
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## MONDAY APR 19 ☀️
+Sleep **4** | Fatigue **6** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -67,10 +67,15 @@ Commute: 10 minutes easy/to the pool.
 Commute: 20 minutes easy/back home. Not to long on the way back!
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **85 minutes**
 
-&mdash; 
+Under 6 hours of sleep but I did feel rested at 0500.
 
+In the pool, I really felt the weekend.  It wasn't any one thing (legs/arms) but a general feeling of fatigue and a need to push through it.
+
+The ride home is where it really hit me.  There is a good deal of fatigue in my legs.  A dude on an e-bike caught up to me on Pandora Avenue and followed me across the Johnson Street Bridge and north on the bike path.  He stayed there too, a metre or two back drafting off me on my mountain bike.  I don't know why I felt the need to race someone with a throttle and worse, I don't know why I got upset when the dude wasn't willing to take a pull.  
+
+I need food and a coffee.
 
 <!---->
 ## TUESDAY APR 20
