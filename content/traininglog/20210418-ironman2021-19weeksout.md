@@ -73,6 +73,11 @@ Just under 6 hours of sleep but I did feel rested at 0500.  No need for winter k
 
 In the pool, I really felt the weekend.  It wasn't any one thing (legs/arms) but a general feeling of fatigue and a need to push through it.
 <!---->
+### Normalized Swim Paces
+![Swim Paces](/assets/jpg/swim-20210419.jpeg)
+
+---
+
 The ride home is where it really hit me.  There is a good deal of fatigue in my legs.  A dude on an e-bike caught up to me on Pandora Avenue and followed me across the Johnson Street Bridge and north on the bike path.  He stayed there too, a metre or two back drafting off me on my mountain bike.  I don't know why I felt the need to race someone with a throttle and worse, I don't know why I got upset when the dude wasn't willing to take a pull.  
 
 I need food and a coffee.
