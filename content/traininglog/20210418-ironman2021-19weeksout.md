@@ -84,6 +84,7 @@ A dude on an e-bike rode up behind to me as I turned onto _Pandora Avenue_ and f
 
 I need food and a coffee.
 
+Crystal Pool 50m lengths for May sold out in 10 minutes.
 <!---->
 ## TUESDAY APR 20
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
