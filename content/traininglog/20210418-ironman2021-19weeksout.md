@@ -80,7 +80,7 @@ In the pool, I really felt the weekend.  It wasn't any one thing (legs/arms) but
 
 The ride home is where it really hit me that there is a good deal of fatigue in my legs.
 
-A dude on an e-bike rode up behind to me as I turned onto _Pandora Avenue_ and followed me across the _Johnson Street Bridge_ then north on the bike path.  He stayed right there too; a metre or two back, drafting off _me_ on my mountain bike.  I don't know why I felt the need to race someone with a throttle and worse, I don't know why I got inwardly upset when the dude wasn't willing to take a pull.  
+A dude on an e-bike rode up behind to me as I turned onto _Pandora Avenue_ and followed me across the _Johnson Street Bridge_ then north on the bike path.  He stayed right there too; a metre or two back, drafting off _me_ on my mountain bike.  My legs were screaming and I don't know why I felt the need to race someone with a throttle.  Worse yet, I don't know why I got inwardly upset when the dude wasn't willing to take a pull.  
 
 I need food and a coffee.
 
