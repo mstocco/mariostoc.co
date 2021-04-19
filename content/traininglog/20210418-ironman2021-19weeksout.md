@@ -37,6 +37,7 @@ There is another hill on _Bellamy_ that throws a heck of a punch.  I cleared tha
 
 ![Ride Map](/assets/jpg/ride-20210418.jpeg)
 <!---->
+### AN HOUR-FIFTEEN LATER
 A little before 1800, I set off for a jog to the _Inner Harbour_.
 
 There was really not much left in my legs.  I did my best to fabricate a rhythm and I sort of did ok with that.  I was not challenged aerobically and I used that to focus on posture.  I had about a hundred calories worth of Maynards candy before heading out the door and packed another hundred with me for the jog.
