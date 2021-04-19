@@ -14,7 +14,7 @@ I feel I like was...
 
 <!---->
 ## SUNDAY APR 18
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **5** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -25,9 +25,13 @@ Day 2 TAC Routine.
 2nd: Does NOT have to be off the bike, run 60 minutes. Very flat route. Aka: Path running. Easy effort.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **153 minutes**
 
-&mdash; 
+Plenty of fatigue in my legs from the ride [yesterday](ironmam2021-20weeksout?sat).  I took it super easy up _Highland Road_ to the north end of _Thetis Lake Park_.   
+
+"[Comfy Wooden Chair](https://www.trailforks.com/trails/comfy-wooden-chair/)" is a short XC trail that is just enough of a a technical challenge for where my MTB skills are at.  I rode it a couple weeks ago and it wasn't pretty.  I decided to give it another go this afternoon.
+
+
 
 
 <!---->
