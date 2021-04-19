@@ -67,7 +67,8 @@ Commute: 10 minutes easy/to the pool.
 Commute: 20 minutes easy/back home. Not to long on the way back!
 
 ### NOTES
-Total Time: **85 minutes** Distance: **2100m**
+Total Time: **85 minutes** Distance: **2100m**  
+<sup style="color:red;">50m lengths for May sold out in <strong>10 minutes</strong>.</sup>
 
 Just under 6 hours of sleep but I did feel rested at 0500.  No need for winter kit on the commute to the pool this morning!
 
@@ -80,8 +81,8 @@ The ride home is where it really hit me that there is a good deal of fatigue in 
 
 A dude on an e-bike rode up behind to me as I turned onto _Pandora Avenue_ and followed me across the _Johnson Street Bridge_ then north on the bike path.  He stayed right there too; a metre or two back, drafting off _me_ on my mountain bike.  My legs were screaming and I don't know why I felt the need to race someone with a throttle.  Worse yet, I don't know why I got inwardly upset when the dude wasn't willing to take a pull.  
 
-I need food and a coffee.  
-<sup style="color:red;">50m lengths for May sold out in 10 minutes.</sup>
+I need food and a coffee.
+
 <!---->
 ## TUESDAY APR 20
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
