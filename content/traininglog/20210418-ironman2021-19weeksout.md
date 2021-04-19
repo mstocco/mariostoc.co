@@ -29,15 +29,15 @@ Total Time: **153 minutes**
 
 Plenty of fatigue in my legs from the ride [yesterday](ironmam2021-20weeksout?sat).  I took it super easy up _Highland Road_ to the north end of _Thetis Lake Park_.  My thoughts were about the hour run afterward, at least until I was in the park with the entire forest to myself.
 <!---->
-"[Comfy Wooden Chair](https://www.trailforks.com/trails/comfy-wooden-chair/)" is a short XC trail that is just technical enough for where my MTB skills are at.  I rode it a couple weeks ago and it wasn't pretty.  I decided to give it another go this afternoon.  I solved a couple of problems, a couple other parts I have yet to link together.
+"[Comfy Wooden Chair](https://www.trailforks.com/trails/comfy-wooden-chair/)" is a short XC trail that is just technical enough for my current MTB skillset.  I rode it a couple weeks ago and it wasn't pretty.  I decided to give it another go this afternoon.  I solved a couple of problems, a couple other parts I have yet to link together.
 
 The single track ends at _Bellamy Trail_.  With just 40 minutes on the clock, I tackled a "rock garden" of a hill before doubling back to attempt _Comfy Wooden Chair_ again.  Second time around was better than the first and I headed south out of the park from there.
 
-There is another hill on _Bellamy_ that throws a heck of a punch.  I cleared that one this afternoon too. This ride was fun.
+There is another hill on _Bellamy_ that throws a heck of a punch.  I cleared that one this afternoon too. **This ride was fun.**
 
 ![Ride Map](/assets/jpg/ride-20210418.jpeg)
 <!---->
-### AN HOUR-FIFTEEN LATER
+### AN HOUR-FIFTEEN LATER...
 A little before 1800, I set off for a jog to the _Inner Harbour_.
 
 There was really not much left in my legs.  I did my best to fabricate a rhythm and I sort of did ok with that.  I was not challenged aerobically and I used that to focus on posture.  I had about a hundred calories worth of Maynards candy before heading out the door and packed another hundred with me for the jog.
@@ -49,7 +49,7 @@ By 7km, my feet were getting tired too.
 
 ---
 
-Time for a spaghetti dinner and then off to bed.
+Time for a BIG spaghetti dinner.
 
 
 <!---->
