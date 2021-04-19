@@ -35,7 +35,7 @@ The single track dumps on to _Bellamy Trail_.  I had just 40 minutes on the cloc
 
 There is another hill on _Bellamy_ that throws a heck of a punch.  I cleared that one this afternoon too.
 
-[Ride Map](/assets/jpg/ride-20210418.jpeg)
+![Ride Map](/assets/jpg/ride-20210418.jpeg)
 
 This ride was fun.
 
