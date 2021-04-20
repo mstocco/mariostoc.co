@@ -29,7 +29,7 @@ Total Time: **153 minutes**
 
 Plenty of fatigue in my legs from the ride [yesterday](ironmam2021-20weeksout?sat).  I took it super easy up _Highland Road_ to the north end of _Thetis Lake Park_.  My thoughts were about how to complete an hour run later.  At least those thoughts lasted until I was in the park with the entire forest to myself.
 <!---->
-"[Comfy Wooden Chair](https://www.trailforks.com/trails/comfy-wooden-chair/)" is a short XC trail that is just technical enough for my current MTB skillset.  I rode it a couple weeks ago and it wasn't pretty.  I decided to give it another go this afternoon.  I solved a couple of problems, a couple other parts I have yet to link together.
+[Comfy Wooden Chair](https://www.trailforks.com/trails/comfy-wooden-chair/) is a short XC trail that is just technical enough for my current MTB skillset.  I rode it a couple weeks ago and it wasn't pretty.  I decided to give it another go this afternoon.  I solved a couple of problems, a couple other parts I have yet to link together.
 
 The single track ends at _Bellamy Trail_.  With just 40 minutes on the clock, I tackled a "rock garden" of a hill before doubling back to attempt _Comfy Wooden Chair_ again.  Second time around was better than the first and I headed south out of the park from there.
 
