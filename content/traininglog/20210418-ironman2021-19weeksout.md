@@ -35,7 +35,7 @@ The single track ends at _Bellamy Trail_.  With just 40 minutes on the clock, I 
 
 There is another hill on _Bellamy_ that throws a heck of a punch.  I cleared that one this afternoon too. **This ride was fun.**
 
-![Ride Map](/assets/jpg/ride-20210418.jpeg)
+![Ride Map](/assets/jpg/ride-20210418.jpeg?v2)
 <!---->
 ### AN HOUR-FIFTEEN LATER...
 A little before 1800, I set off for a jog to the _Inner Harbour_.
