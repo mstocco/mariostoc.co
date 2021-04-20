@@ -27,7 +27,7 @@ Day 2 TAC Routine.
 ### NOTES
 Total Time: **153 minutes**
 
-Plenty of fatigue in my legs from the ride [yesterday](ironmam2021-20weeksout?sat).  I took it super easy up _Highland Road_ to the north end of _Thetis Lake Park_.  My thoughts were about the hour run afterward, at least until I was in the park with the entire forest to myself.
+Plenty of fatigue in my legs from the ride [yesterday](ironmam2021-20weeksout?sat).  I took it super easy up _Highland Road_ to the north end of _Thetis Lake Park_.  My thoughts were about how to complete an hour run later.  At least those thoughts lasted until I was in the park with the entire forest to myself.
 <!---->
 "[Comfy Wooden Chair](https://www.trailforks.com/trails/comfy-wooden-chair/)" is a short XC trail that is just technical enough for my current MTB skillset.  I rode it a couple weeks ago and it wasn't pretty.  I decided to give it another go this afternoon.  I solved a couple of problems, a couple other parts I have yet to link together.
 
@@ -81,7 +81,7 @@ The ride home is where it really hit me that there is a good deal of fatigue in 
 A dude on an e-bike rode up behind to me as I turned onto _Pandora Avenue_ and followed me across the _Johnson Street Bridge_ then north on the bike path.  He stayed right there too; a metre or two back, drafting off _me_ on my mountain bike.  My legs were screaming and I don't know why I felt the need to race someone with a throttle.  Worse yet, I don't know why I got inwardly upset when the dude wasn't willing to take a pull.  
 
 I need food and a coffee.  
-<sup style="color:red;"><strong>!</strong> 50m lengths for May sold out in <strong>10 minutes</strong>.</sup>
+<sup style="color:red;"><strong>!!</strong> 50m lengths for May sold out in <strong>10 minutes</strong>.</sup>
 
 <!---->
 ## TUESDAY APR 20
