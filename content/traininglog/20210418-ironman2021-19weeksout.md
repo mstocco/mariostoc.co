@@ -86,8 +86,8 @@ I need food and a coffee.
 <sup style="color:red;"><strong>!!</strong> 50m lengths for May sold out in <strong>10 minutes</strong>.</sup>
 
 <!---->
-## TUESDAY APR 20
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## TUESDAY APR 20 ☀️
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -98,8 +98,7 @@ Easy effort overall. Bring at least 100 calories.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
-
+I got a bit of a sleep in this morning (nice) but I am feeling a little beat up; ankles and hips in particular.
 
 <!---->
 ## WEDNESDAY APR 21
