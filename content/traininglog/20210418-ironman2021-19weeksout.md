@@ -126,13 +126,15 @@ Things were going just swimmingly until...
 ![Poolside Hazard](/assets/jpg/poolhazard-20210421.jpeg)
 I smoked my fifth metacarpal bone on a metal latch of a metal structure protruding into the lane.   That hurt!  I am not normally that close to the edge of the pool but I was giving a slower swimmer some space as she had drifted toward the middle of the lane.  I didn't know it was there until I REALLY knew it was there.
 
-As soon as I could, I got back to the workout but my hand is still smarting as I type this hours later.
+As soon as I could (~4 minutes), I got back to the workout but my hand is still smarting as I type this hours later.
 
 The 6x50 Strong Effort set got this morning's best focus from me (end of the workout, less people remaining).
 
 <!---->
 ### Easy Waterfront Ride
-I think the last time a ride started off feeling like this was when Elliot invited me to a sprint/workout at _Elk Lake_ last August.  I is like there is fatigue in the legs but not in the typical sense.  Less hurt but still no power.  I did a modified, counterclockwise loop of the waterfront.  I took my time and sucked down a 220 calorie bottle of lemonade.  
+I think the last time a ride started off feeling like this was when Elliot invited me to a sprint/workout at _Elk Lake_ last August.  It could be described like an atypical fatigue in the legs: **less hurt but still no power**.
+
+I did a modified, counterclockwise loop of the waterfront.  I took my time and sucked down a 220 calorie bottle of lemonade.  I purposefully missed the hill on _Sinclair_ but that just put me into the Hills of _Cedar Hill X Road_ and _Blenkinsop_.   
 
 <!---->
 ## THURSDAY APR 22
