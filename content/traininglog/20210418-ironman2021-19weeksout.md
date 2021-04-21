@@ -11,7 +11,7 @@ I feel I like was...
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
-![Wednesday morning on the ride around Victoria's waterfront route](/assets/jpg/IMG_3205-977x550.jpg McNeill Bay, Victoria, British Columbia)
+![Wednesday morning on the ride around Victoria's waterfront route](/assets/jpg/IMG_3205-977x550.jpeg McNeill Bay, Victoria, British Columbia)
 ## SUNDAY APR 18
 Sleep **3** | Fatigue **5** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
