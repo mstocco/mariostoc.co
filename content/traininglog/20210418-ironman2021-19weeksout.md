@@ -101,8 +101,8 @@ I got a bit of a sleep-in this morning (nice) but I am feeling a little beat up;
 Life hit me hard this evening.  Started the run but pulled the plug and just walked.  50 minutes of walking, thinking, processing.  Once home, I did a long session of stretching and lacrosse ball work.  _Vastus Lateralis (both)_ tender, _Glut Med (left)_ very tight and my old friend _QL (left)_ tired.  _Splenius Capitis_ got some work too. 
 
 <!---->
-## WEDNESDAY APR 21
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## WEDNESDAY APR 21 ☀️
+Sleep **4** | Fatigue **4** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -123,8 +123,12 @@ Total Time: **0 minutes**
 &mdash; 
 <!---->
 ### SWIM
+Things were going just swimmingly until...  
+[Poolside Hazard](/assets/jpg/swimhazzard-20210421.jpeg)
+
 
 ### RIDE
+I think the last time a ride started off feeling like this was when Elliot invited me to a sprint/workout at _Elk Lake_ last August.  I is like there is fatigue in the legs but not in the typical sense.  Less hurt but still no power.  I did a modified, counterclockwise loop of the waterfront.  I took my time and sucked down a 220 calorie bottle of lemonade.  
 
 <!---->
 ## THURSDAY APR 22
