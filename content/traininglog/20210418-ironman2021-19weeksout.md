@@ -134,7 +134,9 @@ The 6x50 Strong Effort set got this morning's best focus from me (end of the wor
 ### Easy Waterfront Ride
 I think the last time a ride started off feeling like this was when Elliot invited me to a sprint/workout at _Elk Lake_ last August.  It could be described like an atypical fatigue in the legs: **less hurt but still no power**.
 
-I did a modified, counterclockwise loop of the waterfront.  I took my time and sucked down a 220 calorie bottle of lemonade.  I purposefully missed the hill on _Sinclair_ but that just put me into the Hills of _Cedar Hill X Road_ and _Blenkinsop_.   
+I did a modified, counterclockwise loop of the waterfront.  I took my time and sucked down a 220 calorie bottle of lemonade.  I purposefully missed the hill on _Sinclair_ but that just put me into the Hills of _Cedar Hill X Road_ and _Blenkinsop_.
+
+![Ride Map](/assets/jpg/ride-20210421.jpeg) 
 
 <!---->
 ## THURSDAY APR 22
