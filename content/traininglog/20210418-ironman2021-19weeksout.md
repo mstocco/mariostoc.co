@@ -106,12 +106,14 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
+Commute: 10 minutes easy/to the pool.
+
 5:30am: Swim 2100: 
 2 rounds (50 easy free, 50 Fist drill, 50 swim w/ buoy, 50 swim w/ buoy and fist drill r :20 after each)
 2 rounds (50 steady free, 50 free w/ strong finish to stroke, 50 swim w/ fins/steady, 50 swim w/ fins/strong finish to stroke r :20)
 6 rounds (50 Strong effort/focus r :30, 100 relaxed/steady and continuous effort. r :30)
 6x 50 Strong effort/focus. r :30 after each. 2x 50 EASY to cool down. 
-Commute: 10 minutes easy/to the pool. 
+
 Commute: 60 minutes easy/back home. *Bring calories! This is a swim/bike brick. And I'm sure you'll be hungry by the end. 
 Water front would be great. Just keep it easy. 
 
@@ -119,7 +121,10 @@ Water front would be great. Just keep it easy.
 Total Time: **0 minutes**
 
 &mdash; 
+<!---->
+### SWIM
 
+### RIDE
 
 <!---->
 ## THURSDAY APR 22
