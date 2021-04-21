@@ -87,7 +87,7 @@ I need food and a coffee.
 
 <!---->
 ## TUESDAY APR 20 ☀️
-Sleep **3** | Fatigue **3** | Stress **4** | Soreness **5**  
+Sleep **3** | Fatigue **3** |<mark> Stress **5** </mark>| Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -98,7 +98,9 @@ Easy effort overall. Bring at least 100 calories.
 ### NOTES
 Total Time: **0 minutes**
 
-I got a bit of a sleep in this morning (nice) but I am feeling a little beat up; ankles and hips in particular.
+I got a bit of a sleep-in this morning (nice) but I am feeling a little beat up; ankles and hips in particular.
+
+Life hit me pretty hard this evening.  I started the run but pulled the plug and just walked.  50 minutes of walking, thinking, processing.  Once home, I did a longer session of stretching and lacrosse ball work.  Vastus Lateralis (both sides) ropey and tender, Glut Med on the left was very tight and the QL (my old friend) was tired.  Splenius Capitis got the golf ball work over. 
 
 <!---->
 ## WEDNESDAY APR 21
