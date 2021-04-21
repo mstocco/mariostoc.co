@@ -125,7 +125,9 @@ Total Time: **0 minutes**
 ### SWIM
 Things were going just swimmingly until...  
 ![Poolside Hazard](/assets/jpg/poolhazard-20210421.jpeg)
+I smoked my fifth metacarpal bone on that metal structure protruding into the lane.   That hurt!  I am not normally that close to the edge of the pool but I was giving a slower swimmer some space as she had drifted toward the middle of the lane.
 
+As soon as I could, I got back to the workout but my hand is still smarting as I type this hours later.
 
 ### RIDE
 I think the last time a ride started off feeling like this was when Elliot invited me to a sprint/workout at _Elk Lake_ last August.  I is like there is fatigue in the legs but not in the typical sense.  Less hurt but still no power.  I did a modified, counterclockwise loop of the waterfront.  I took my time and sucked down a 220 calorie bottle of lemonade.  
