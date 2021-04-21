@@ -11,8 +11,7 @@ I feel I like was...
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
-
-<!---->
+![Wednesday morning on the ride around Victoria's waterfront route](/assets/jpg/IMG_3205-977x550.jpg McNeill Bay, Victoria, British Columbia)
 ## SUNDAY APR 18
 Sleep **3** | Fatigue **5** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -118,16 +117,18 @@ Commute: 60 minutes easy/back home. *Bring calories! This is a swim/bike brick. 
 Water front would be great. Just keep it easy. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **120 minutes**
 
-&mdash; 
+So, so sleep but a better start to the day.
 <!---->
 ### 2100m Swim Workout
 Things were going just swimmingly until...  
 ![Poolside Hazard](/assets/jpg/poolhazard-20210421.jpeg)
 I smoked my fifth metacarpal bone on a metal latch of a metal structure protruding into the lane.   That hurt!  I am not normally that close to the edge of the pool but I was giving a slower swimmer some space as she had drifted toward the middle of the lane.  I didn't know it was there until I REALLY knew it was there.
 
-As soon as I could, I got back to the workout but my hand is still smarting as I type this hours later.  The 6x50 Strong Effort set got this morning's best focus from me (end of the workout, less people remaining).
+As soon as I could, I got back to the workout but my hand is still smarting as I type this hours later.
+
+The 6x50 Strong Effort set got this morning's best focus from me (end of the workout, less people remaining).
 
 <!---->
 ### Easy Waterfront Ride
