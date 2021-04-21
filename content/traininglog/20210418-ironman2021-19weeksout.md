@@ -98,7 +98,7 @@ Easy effort overall. Bring at least 100 calories.
 ### NOTES
 I got a bit of a sleep-in this morning (nice) but I am feeling a little beat up; ankles and hips in particular.
 
-Life hit me pretty hard this evening.  I started the run but pulled the plug and just walked.  50 minutes of walking, thinking, processing.  Once home, I did a long session of stretching and lacrosse ball work.  Both _Vastus Lateralis_ ropey and tender, _Glut Med (left)_ was very tight and the _QL_ (my old friend) was tired.  _Splenius Capitis_ got some work too. 
+Life hit me pretty hard this evening.  I started the run but pulled the plug and just walked.  50 minutes of walking, thinking, processing.  Once home, I did a long session of stretching and lacrosse ball work.  _Vastus Lateralis (both)_ tender, _Glut Med (left)_ very tight and my old friend _QL (left)_ tired.  _Splenius Capitis_ got some work too. 
 
 <!---->
 ## WEDNESDAY APR 21
