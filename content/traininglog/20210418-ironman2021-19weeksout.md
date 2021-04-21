@@ -87,7 +87,7 @@ I need food and a coffee.
 
 <!---->
 ## TUESDAY APR 20 ☀️
-Sleep **3** | Fatigue **3** |<mark> Stress **5** </mark>| Soreness **5**  
+Sleep **3** | Fatigue **3** |<mark> Stress **5** | Soreness **5**&nbsp;</mark>  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
