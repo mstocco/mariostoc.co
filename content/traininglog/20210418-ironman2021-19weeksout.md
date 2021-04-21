@@ -124,7 +124,7 @@ Total Time: **0 minutes**
 <!---->
 ### SWIM
 Things were going just swimmingly until...  
-![Poolside Hazard](/assets/jpg/poolhazzard-20210421.jpeg)
+![Poolside Hazard](/assets/jpg/poolhazard-20210421.jpeg)
 
 
 ### RIDE
