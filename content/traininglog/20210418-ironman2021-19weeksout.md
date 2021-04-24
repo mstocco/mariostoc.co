@@ -161,12 +161,12 @@ I rode from the stop sign at the base of the hill, to a manhole cover at the cre
 Each trip down the hill was consistently a minute and a half (not 3 minutes).  Each subsequent time up was with a bit more intensity, except I blew midway up on the fourth climb and paid for it on the top half.  The 5th time up was paced way better. 
 
 ### Climb Stats
-<table style="width:330px;"><thead><tr><td style="width:30px;"></td>
+<table style="width:330px;"><thead><tr><td style="width:20px;"></td>
 <td style="font-size:0.8em;">Time</td>
 <td style="text-align:right;font-size:0.8em;">Avg KPH</td>
 <td style="text-align:right;font-size:0.8em;">Avg BPM</td>
 <td style="text-align:right;font-size:0.8em;">Max BPM</td>
-<td style="text-align:right;font-size:0.8em;">Est Pwr</td>
+<td style="text-align:right;font-size:0.8em;">Est Power</td>
 </tr></thead><tbody><tr>
 <td style="">1</td>
 <td style="text-align:right;">3:21</td>
@@ -203,8 +203,7 @@ Each trip down the hill was consistently a minute and a half (not 3 minutes).  E
 <td style="text-align:right;">158</td>
 <td style="text-align:right;">268w</td>
 </tr></tbody></table>
-
-
+<!---->
 
 
 I ran well considering it was pretty close to being right off the bike.  I shouldn't be that surprised though; I did miss a run on [Tuesday](javascript:('tue';).  Basic route to the middle of the _Selkirk Trestle_ in 15 minutes and negative split the net uphill on the way back.
