@@ -165,9 +165,8 @@ Each trip down the hill was consistently a minute and a half of rest (not 3 minu
 <!---->
 ### Silverstone Strava Segment
 ![Strava Segment Chart](/assets/jpg/climb5-20210422.jpeg)
-
 I found this on Strava later tonight.  Red line is my heartrate, blue is their estimated power on the fifth time up the hill tonight.  It looks like I matched my personal best of 2:37 going up this hill, set on June 17th last summer.
-![Strava Segment Map](/assets/jpg/ridemap-20210422.jpg)
+![Strava Segment Map](/assets/jpg/ridemap-20210422.jpeg)
 
 ### Making It A Brick
 I ran well considering it was pretty close to being right off the bike.  I shouldn't be that surprised though; I did miss a run on [Tuesday](javascript:('tue');).  Basic route to the middle of the _Selkirk Trestle_ in 15 minutes and negative split the net uphill on the way back.
