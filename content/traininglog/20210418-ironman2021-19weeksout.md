@@ -168,8 +168,9 @@ Each trip down the hill was consistently a minute and a half of rest (not 3 minu
 I found this on Strava later tonight.  Red line is my heartrate, blue is their estimated power on the fifth time up the hill tonight.  It looks like I **matched my personal best** of 2:37 going up this hill, set on June 17th last summer.
 ![Strava Segment Map](/assets/jpg/ridemap-20210422.jpeg)
 
-### Making It A Brick - 5.33KM @5:33/KM Pace
-I **ran well** considering it was pretty close to being right off the bike.  I shouldn't be that surprised though; I did miss a run on [Tuesday](javascript:('tue');).  Basic route to the middle of the _Selkirk Trestle_ in 15 minutes and negative split the net uphill on the way back.
+---
+
+I **ran well** considering it was pretty close to being right off the bike.  I shouldn't be that surprised though; I did miss a run on [Tuesday](javascript:('tue');).  Basic route to the middle of the _Selkirk Trestle_ in 15 minutes and 30 second negative split (net uphill) on the way back!  <small>5.33 km @5:33/km pace</small>
 
 
 <!---->
@@ -190,7 +191,7 @@ Run 30 minutes. EASY. Flat route. Not hard in the slightest.
 4x 25 super easy to cool down. 
 
 ### NOTES
-Total Time: **50 minutes** &nbsp; Swim: **2100m**
+Total Time: **80 minutes** &nbsp; Swim: **2100m**
 
 Thankful that today's swim workout was easy to remember as I couldn't get it to sync with my watch.  It was a nice change as I used the clock(s) on the wall to monitor my rest times.  One thing not measured was the kick lengths so the activity shows 1800m of "swimming".
 <!---->
@@ -201,7 +202,7 @@ Effort and focus were **on point** at the pool this afternoon.  I bested my prev
 
 ---
 
-The run was a relaxed pace a little while after dinner.  Same route as [yesterday](javascript:flick('thu');) but a notch slower.  30 minutes, evenly split to the _Selkirk Trestle_ and back.  It was noticeably cooler tonight and the 13 day run on sunny weather has ended.
+The run was a relaxed pace a little while after dinner.  Same 5km route as [yesterday](javascript:flick('thu');) but a notch slower.  30 minutes, evenly split to the _Selkirk Trestle_ and back.  It was noticeably cooler tonight and the 13 day run on sunny weather has ended.
 <!---->
 ## SATURDAY APR 24 🌧
 Sleep **3** | Fatigue **3** | Stress **2** | Soreness **4**  
