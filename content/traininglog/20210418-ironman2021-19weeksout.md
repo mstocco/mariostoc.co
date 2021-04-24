@@ -152,9 +152,60 @@ Off the bike: Run 30 minutes. Flat route. EASY effort.
 ### NOTES
 Total Time: **110 minutes**
 
-I am glad that I had time with "coach" before heading out on the ride this afternoon.  It help me reset expectations from how I read the workout vs the objectives needed to be achieved.  I rode out to _Langford and doubled back a few minutes to get to the _Subdivision_.
+I am glad that I had a FaceTime meeting with my coach before heading out on the ride this afternoon.  It help me reset expectations from how I read the workout vs the objectives needed to be achieved.  I rode out to _Langford_, then doubled back on _Atkins Road_ few minutes to get to the entry of the _Crystal View Subdivision_.
 
-I rode from the stop sign to a manhole cover at the crest of _Greenmansions Place_.  The total time to the top on the first spin up the hill was 3 minutes (easy effort).  Coasting back to the bottom was just a minute and a half (not 3 minutes).  Each subsequent time up was faster and a bit more intense.
+I rode from the stop sign at the base, to a manhole cover at the crest of _Greenmansions Place_.  The total time to the top on the first spin up the hill was 3 minutes (easy effort).  Coasting back to the bottom was just a minute and a half (not 3 minutes).  Each subsequent time up was faster and a bit more intense.  I did not program the workout into my bike computer.  Instead I focused on perceived effort to get to the top of the hill.
+
+<table><thead><tr style="border-bottom:1px solid #aaa;"><td></td>
+<td style="align:right;font-size:0.8em;">Time</td>
+<td style="align:right;font-size:0.8em;">Avg Speed</td>
+<td style="align:right;font-size:0.8em;">Avg HR</td>
+<td style="align:right;font-size:0.8em;">Max HR</td>
+<td style="align:right;font-size:0.8em;">Est Avg Power</td>
+</tr></thead><tbody>
+<tr>
+<td style="align:right;">1</td>
+<td style="align:right;"></td>
+<td style="align:right;"></td>
+<td style="align:right;"></td>
+<td style="align:right;"></td>
+<td style="align:right;"></td>
+</tr>
+<tr>
+<td style="align:right;">2</td>
+<td style="align:right;"></td>
+<td style="align:right;"></td>
+<td style="align:right;"></td>
+<td style="align:right;"></td>
+<td style="align:right;"></td>
+</tr>
+<tr>
+<td style="align:right;">3</td>
+<td style="align:right;"></td>
+<td style="align:right;"></td>
+<td style="align:right;"></td>
+<td style="align:right;"></td>
+<td style="align:right;"></td>
+</tr>
+<tr>
+<td style="align:right;">4</td>
+<td style="align:right;"></td>
+<td style="align:right;"></td>
+<td style="align:right;"></td>
+<td style="align:right;"></td>
+<td style="align:right;"></td>
+</tr>
+<tr>
+<td style="align:right;">5</td>
+<td style="align:right;"></td>
+<td style="align:right;"></td>
+<td style="align:right;"></td>
+<td style="align:right;"></td>
+<td style="align:right;"></td>
+</tr></tbody></table>
+
+
+
 
 I ran well considering it was pretty close to being right off the bike.  I shouldn't be that surprised though; I did miss a run on [Tuesday](javascript:('tue';).  Basic route to the middle of the _Selkirk Trestle_ in 15 minutes and negative split the net uphill on the way back.
 
