@@ -219,9 +219,7 @@ Worked on the bathroom renovation today.
 Back to training [tomorrow](ironman2021-18weeksout?sun).
 
 End of the week roundup of niggles includes:
-* Left Vastus Medialis: feel like a very minor tear
+
+* Left Vastus Medialis: feel like a very minor tear.
 * Left Glute Med: stiff/tight
 * Right Ankle (lateral below the Fibula): general soreness
-
-
-<!---->
