@@ -170,7 +170,7 @@ I found this on Strava later tonight.  Red line is my heartrate, blue is their e
 
 ---
 
-I **ran well** considering it was pretty close to being right off the bike.  I shouldn't be that surprised though; I did miss a run on [Tuesday](javascript:('tue');).  Basic route to the middle of the _Selkirk Trestle_ in 15 minutes and 30 second negative split (net uphill) on the way back!  <small>5.33 km @5:33/km pace</small>
+I **ran well** considering it was pretty close to being right off the bike.  I shouldn't be that surprised though; I did miss a run on [Tuesday](javascript:('tue');).  Basic route to the middle of the _Selkirk Trestle_ in 15 minutes and 30 second negative split (net uphill) on the way back! &nbsp; <small>&mdash; 5.33 km @5:33/km pace</small>
 
 
 <!---->
