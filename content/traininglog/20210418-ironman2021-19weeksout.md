@@ -158,7 +158,7 @@ I rode out to _Langford_, then doubled back on _Atkins Road_ few minutes to get 
 
 I rode from the stop sign at the base of the hill, 47m up to a manhole cover at the crest of _Greenmansions Place_.  I did not program the workout into my bike computer; in fact, I didn't even look at it except to push the lap button.  Instead I focused only on perceived effort.
 
-Each trip down the hill was consistently a minute and a half (not 3 minutes).  Each subsequent time up was with a bit more intensity, except I blew midway up on the fourth climb and paid for it on the top half.  The 5th time up was paced way better. 
+Each trip down the hill was consistently a minute and a half of rest (not 3 minutes).  Each subsequent time up was with a bit more intensity, except I blew midway up on the fourth climb and paid for it on the top half.  The 5th time up was paced way better. 
 
 ### Climb Stats
 <table style="width:330px;"><thead><tr><td style="width:20px;"></td>
