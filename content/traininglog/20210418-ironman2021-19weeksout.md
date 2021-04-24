@@ -7,9 +7,9 @@ Week beginning [Sunday, April 18, 2021](javascript:flick('sun');)
 The goal this week is to simply duplicate the productivity of [last week](ironman2021-20weeksout).
 
 ## SUMMARY
-I feel I like was...  
-<sup>(completed at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel I like was **ON THE EDGE** but not exclusive to training stress.
+
+The +14 hours of training [last week](ironman2021-20weeksout) plus what life gave me this week gave me a reason to pause.  I replaced the scheduled run on [Tuesday](javascript:flick('tue');) with a walk.
 
 ![Wednesday morning on the ride around Victoria's waterfront route](/assets/jpg/IMG_3205-977x550.jpeg McNeill Bay, Victoria, British Columbia)
 ## SUNDAY APR 18
@@ -217,6 +217,11 @@ Total Time: **0 minutes**
 Worked on the bathroom renovation today.
 
 Back to training [tomorrow](ironman2021-18weeksout?sun).
+
+End of the week roundup of niggles includes:
+* Left Vastus Medialis: feel like a very minor tear
+* Left Glute Med: stiff/tight
+* Right Ankle (lateral below the Fibula): general soreness
 
 
 <!---->
