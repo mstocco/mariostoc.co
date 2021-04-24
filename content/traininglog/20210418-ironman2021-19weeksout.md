@@ -162,41 +162,41 @@ Each trip down the hill was consistently a minute and a half (not 3 minutes).  E
 
 ### Climb Stats
 <table style="width:330px;"><thead><tr style="background-color:#eee;"><td></td>
-<td style="text-align:right;font-size:0.8em;">Time</td>
-<td style="text-align:right;font-size:0.8em;">Avg Speed</td>
-<td style="text-align:right;font-size:0.8em;">Avg HR</td>
-<td style="text-align:right;font-size:0.8em;">Max HR</td>
+<td style="width:30px;font-size:0.8em;">Time</td>
+<td style="text-align:right;font-size:0.8em;">Avg KPH</td>
+<td style="text-align:right;font-size:0.8em;">Avg BPM</td>
+<td style="text-align:right;font-size:0.8em;">Max BPM</td>
 <td style="text-align:right;font-size:0.8em;">Est Power</td>
 </tr></thead><tbody><tr>
-<td style="text-align:right;">1</td>
+<td style="">1</td>
 <td style="text-align:right;">3:21</td>
-<td style="text-align:right;">10.7kph</td>
-<td style="text-align:right;">130bpm</td>
-<td style="text-align:right;">138bpm</td>
+<td style="text-align:right;">10.7</td>
+<td style="text-align:right;">130</td>
+<td style="text-align:right;">138</td>
 <td style="text-align:right;">218w</td>
 </tr><tr>
-<td style="text-align:right;">2</td>
+<td style="">2</td>
 <td style="text-align:right;">2:57</td>
 <td style="text-align:right;">11.8</td>
 <td style="text-align:right;">134</td>
 <td style="text-align:right;">146</td>
 <td style="text-align:right;">235w</td>
 </tr><tr>
-<td style="text-align:right;">3</td>
+<td style="">3</td>
 <td style="text-align:right;">2:44</td>
 <td style="text-align:right;">12.7</td>
 <td style="text-align:right;">142</td>
 <td style="text-align:right;">153</td>
 <td style="text-align:right;">257w</td>
 </tr><tr>
-<td style="text-align:right;">4</td>
+<td style="">4</td>
 <td style="text-align:right;">2:45</td>
 <td style="text-align:right;">12.7</td>
 <td style="text-align:right;">145</td>
 <td style="text-align:right;">153</td>
 <td style="text-align:right;">255w</td>
 </tr><tr>
-<td style="text-align:right;">5</td>
+<td style="">5</td>
 <td style="text-align:right;">2:38</td>
 <td style="text-align:right;">13.3</td>
 <td style="text-align:right;">148</td>
