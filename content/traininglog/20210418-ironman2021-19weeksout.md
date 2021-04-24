@@ -199,6 +199,8 @@ The warmup felt like should.  I was stiff through the shoulders initially but it
 ![Swim Pace Chart](/assets/jpg/swim-20210423.jpeg)
 Effort and focus were **on point** at the pool this afternoon.  I bested my previous 400m PR from Feb 29, 2020 by 22 seconds without trying.
 
+---
+
 The run was a relaxed pace a little while after dinner.  Same route as [yesterday](javascript:flick('thu');) but a notch slower.  30 minutes, evenly split to the _Selkirk Trestle_ and back.  It was noticeably cooler tonight and the 13 day run on sunny weather has ended.
 <!---->
 ## SATURDAY APR 24 🌧
