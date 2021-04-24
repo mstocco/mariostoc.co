@@ -158,55 +158,19 @@ I rode out to _Langford_, then doubled back on _Atkins Road_ few minutes to get 
 
 I rode from the stop sign at the base of the hill, 47m up to a manhole cover at the crest of _Greenmansions Place_.  I did not program the workout into my bike computer; in fact, I didn't even look at it except to push the lap button.  Instead I focused only on perceived effort.
 
-Each trip down the hill was consistently a minute and a half of rest (not 3 minutes).  Each time up was with a bit more intensity, except I blew midway up on the fourth climb and paid for it on the top half.  The 5th time up was paced way better. 
+Each trip down the hill was consistently a minute and a half of rest (not 3 minutes).  Each time up was with a bit more intensity, except I blew up midway on the fourth climb and paid for it on the top half.  The 5th time up was paced way better. 
 
 ### Climb Stats
-<table style="width:330px;"><thead><tr><td style="width:20px;"></td>
-<td style="font-size:0.8em;">Time</td>
-<td style="text-align:right;font-size:0.8em;">Avg KPH</td>
-<td style="text-align:right;font-size:0.8em;">Avg BPM</td>
-<td style="text-align:right;font-size:0.8em;">Max BPM</td>
-<td style="text-align:right;font-size:0.8em;">Est Power</td>
-</tr></thead><tbody><tr>
-<td style="">1</td>
-<td style="text-align:right;">3:21</td>
-<td style="text-align:right;">10.7</td>
-<td style="text-align:right;">130</td>
-<td style="text-align:right;">138</td>
-<td style="text-align:right;">218w</td>
-</tr><tr>
-<td style="">2</td>
-<td style="text-align:right;">2:57</td>
-<td style="text-align:right;">11.8</td>
-<td style="text-align:right;">134</td>
-<td style="text-align:right;">146</td>
-<td style="text-align:right;">235w</td>
-</tr><tr>
-<td style="">3</td>
-<td style="text-align:right;">2:44</td>
-<td style="text-align:right;">12.7</td>
-<td style="text-align:right;">142</td>
-<td style="text-align:right;">153</td>
-<td style="text-align:right;">257w</td>
-</tr><tr>
-<td style="">4</td>
-<td style="text-align:right;">2:45</td>
-<td style="text-align:right;">12.7</td>
-<td style="text-align:right;">145</td>
-<td style="text-align:right;">153</td>
-<td style="text-align:right;">255w</td>
-</tr><tr>
-<td style="">5</td>
-<td style="text-align:right;">2:38</td>
-<td style="text-align:right;">13.3</td>
-<td style="text-align:right;">148</td>
-<td style="text-align:right;">158</td>
-<td style="text-align:right;">268w</td>
-</tr></tbody></table>
+<table style="width:330px;"><thead><tr><td style="width:20px;"></td><td style="font-size:0.8em;">Time</td><td style="text-align:right;font-size:0.8em;">Avg KPH</td><td style="text-align:right;font-size:0.8em;">Avg BPM</td><td style="text-align:right;font-size:0.8em;">Max BPM</td><td style="text-align:right;font-size:0.8em;">Est Power</td></tr></thead><tbody><tr><td style="">1</td><td style="text-align:right;">3:21</td><td style="text-align:right;">10.7</td><td style="text-align:right;">130</td><td style="text-align:right;">138</td><td style="text-align:right;">218w</td></tr><tr><td style="">2</td><td style="text-align:right;">2:57</td><td style="text-align:right;">11.8</td><td style="text-align:right;">134</td><td style="text-align:right;">146</td><td style="text-align:right;">235w</td></tr><tr><td style="">3</td><td style="text-align:right;">2:44</td><td style="text-align:right;">12.7</td><td style="text-align:right;">142</td><td style="text-align:right;">153</td><td style="text-align:right;">257w</td></tr><tr><td style="">4</td><td style="text-align:right;">2:45</td><td style="text-align:right;">12.7</td><td style="text-align:right;">145</td><td style="text-align:right;">153</td><td style="text-align:right;">255w</td></tr><tr><td style="">5</td><td style="text-align:right;">2:38</td><td style="text-align:right;">13.3</td><td style="text-align:right;">148</td><td style="text-align:right;">158</td><td style="text-align:right;">268w</td></tr></tbody></table>
 <!---->
+### Silverstone Strava Segment
+![Strava Segment Chart](/assets/jpg/climb5-20210422.jpeg)
 
+I found this on Strava later tonight.  Red line is my heartrate, blue is their estimated power on the fifth time up the hill tonight.  It looks like I matched my personal best of 2:37 going up this hill, set on June 17th last summer.
+![Strava Segment Map](/assets/jpg/ridemap-20210422.jpg)
 
-I ran well considering it was pretty close to being right off the bike.  I shouldn't be that surprised though; I did miss a run on [Tuesday](javascript:('tue';).  Basic route to the middle of the _Selkirk Trestle_ in 15 minutes and negative split the net uphill on the way back.
+### Making It A Brick
+I ran well considering it was pretty close to being right off the bike.  I shouldn't be that surprised though; I did miss a run on [Tuesday](javascript:('tue');).  Basic route to the middle of the _Selkirk Trestle_ in 15 minutes and negative split the net uphill on the way back.
 
 
 <!---->
