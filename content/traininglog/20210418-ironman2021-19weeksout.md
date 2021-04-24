@@ -161,12 +161,12 @@ I rode from the stop sign at the base of the hill, to a manhole cover at the cre
 Each trip down the hill was consistently a minute and a half (not 3 minutes).  Each subsequent time up was with a bit more intensity, except I blew midway up on the fourth climb and paid for it on the top half.  The 5th time up was paced way better. 
 
 ### Climb Stats
-<table style="width:330px;"><thead><tr style="background-color:#eee;"><td></td>
-<td style="width:30px;font-size:0.8em;">Time</td>
+<table style="width:330px;"><thead><tr><td style="width:30px;"></td>
+<td style="font-size:0.8em;">Time</td>
 <td style="text-align:right;font-size:0.8em;">Avg KPH</td>
 <td style="text-align:right;font-size:0.8em;">Avg BPM</td>
 <td style="text-align:right;font-size:0.8em;">Max BPM</td>
-<td style="text-align:right;font-size:0.8em;">Est Power</td>
+<td style="text-align:right;font-size:0.8em;">Est Pwr</td>
 </tr></thead><tbody><tr>
 <td style="">1</td>
 <td style="text-align:right;">3:21</td>
