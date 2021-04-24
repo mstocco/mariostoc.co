@@ -194,10 +194,10 @@ Total Time: **50 minutes** &nbsp; Swim: **2100m**
 
 Thankful that today's swim workout was easy to remember as I couldn't get it to sync with my watch.  It was a nice change as I used the clock(s) on the wall to monitor my rest times.  One thing not measured was the kick lengths so the activity shows 1800m of "swimming".
 <!---->
-The warmup felt like should.  I was stiff through the shoulders initially but it didn't last all that long.  The 600m was paced appropriately (new 400m PR) and I was digging a little bit deeper on the 6x125 set.  1:42/100m to wrap things up after a _longer_ break after the last 125m effort.
+The warmup felt like should.  I was stiff through the shoulders initially but it didn't last all that long.  The 600m was paced appropriately and I was digging a little bit deeper on the 6x125 set.  1:42/100m to wrap things up after a _longer_ break after the last 125m effort.
 
 ![Swim Pace Chart](/assets/jpg/swim-20210423.jpeg)
-Effort and focus were **on point** at the pool this afternoon.
+Effort and focus were **on point** at the pool this afternoon.  I bested my previous 400m PR from Feb 29, 2020 by 22 seconds without trying.
 
 The run was a relaxed pace a little while after dinner.  Same route as [yesterday](javascript:flick('thu');) but a notch slower.  30 minutes, evenly split to the _Selkirk Trestle_ and back.  It was noticeably cooler tonight and the 13 day run on sunny weather has ended.
 <!---->
