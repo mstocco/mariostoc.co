@@ -159,51 +159,51 @@ I rode out to _Langford_, then doubled back on _Atkins Road_ few minutes to get 
 I rode from the stop sign at the base of the hill, to a manhole cover at the crest of _Greenmansions Place_.  The total time to the top on the first spin up the hill was 3 minutes (easy effort).  Coasting back to the bottom was just a minute and a half (not 3 minutes).  Each subsequent time up was faster and a bit more intense.  I did not program the workout into my bike computer; in fact, I didn't even look at it except to push the lap button.  Instead I focused on perceived effort as I rode to the top of the hill.
 
 <table><thead><tr style="border-bottom:1px solid #aaa;"><td></td>
-<td style="align:right;font-size:0.8em;">Time</td>
-<td style="align:right;font-size:0.8em;">Avg Speed</td>
-<td style="align:right;font-size:0.8em;">Avg HR</td>
-<td style="align:right;font-size:0.8em;">Max HR</td>
-<td style="align:right;font-size:0.8em;">Est Avg Power</td>
+<td style="text-align:right;font-size:0.8em;">Time</td>
+<td style="text-align:right;font-size:0.8em;">Avg KPH</td>
+<td style="text-align:right;font-size:0.8em;">Avg HR</td>
+<td style="text-align:right;font-size:0.8em;">Max HR</td>
+<td style="text-align:right;font-size:0.8em;">Est Power</td>
 </tr></thead><tbody>
 <tr>
-<td style="align:right;">1</td>
-<td style="align:right;">3:21</td>
-<td style="align:right;">10.7</td>
-<td style="align:right;">130</td>
-<td style="align:right;">138</td>
-<td style="align:right;">218w</td>
+<td style="text-align:right;">1</td>
+<td style="text-align:right;">3:21</td>
+<td style="text-align:right;">10.7</td>
+<td style="text-align:right;">130</td>
+<td style="text-align:right;">138</td>
+<td style="text-align:right;">218w</td>
 </tr>
 <tr>
-<td style="align:right;">2</td>
-<td style="align:right;">2:57</td>
-<td style="align:right;">11.8</td>
-<td style="align:right;">134</td>
-<td style="align:right;">146</td>
-<td style="align:right;">235w</td>
+<td style="text-align:right;">2</td>
+<td style="text-align:right;">2:57</td>
+<td style="text-align:right;">11.8</td>
+<td style="text-align:right;">134</td>
+<td style="text-align:right;">146</td>
+<td style="text-align:right;">235w</td>
 </tr>
 <tr>
-<td style="align:right;">3</td>
-<td style="align:right;">2:44</td>
-<td style="align:right;">12.7</td>
-<td style="align:right;">142</td>
-<td style="align:right;">153</td>
-<td style="align:right;">257w</td>
+<td style="text-align:right;">3</td>
+<td style="text-align:right;">2:44</td>
+<td style="text-align:right;">12.7</td>
+<td style="text-align:right;">142</td>
+<td style="text-align:right;">153</td>
+<td style="text-align:right;">257w</td>
 </tr>
 <tr>
-<td style="align:right;">4</td>
-<td style="align:right;">2:45</td>
-<td style="align:right;">12.7</td>
-<td style="align:right;">145</td>
-<td style="align:right;">153</td>
-<td style="align:right;">255w</td>
+<td style="text-align:right;">4</td>
+<td style="text-align:right;">2:45</td>
+<td style="text-align:right;">12.7</td>
+<td style="text-align:right;">145</td>
+<td style="text-align:right;">153</td>
+<td style="text-align:right;">255w</td>
 </tr>
 <tr>
-<td style="align:right;">5</td>
-<td style="align:right;">2:38</td>
-<td style="align:right;">13.3</td>
-<td style="align:right;">148</td>
-<td style="align:right;">158</td>
-<td style="align:right;">268w</td>
+<td style="text-align:right;">5</td>
+<td style="text-align:right;">2:38</td>
+<td style="text-align:right;">13.3</td>
+<td style="text-align:right;">148</td>
+<td style="text-align:right;">158</td>
+<td style="text-align:right;">268w</td>
 </tr></tbody></table>
 
 
