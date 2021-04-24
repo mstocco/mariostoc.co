@@ -150,14 +150,18 @@ Ride 80 minutes: 30 minutes easy spinning. 5x 3:00 uphill (Mill hill area works 
 Off the bike: Run 30 minutes. Flat route. EASY effort.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **110 minutes**
 
-&mdash; 
+I am glad that I had time with "coach" before heading out on the ride this afternoon.  It help me reset expectations from how I read the workout vs the objectives needed to be achieved.  I rode out to _Langford and doubled back a few minutes to get to the _Subdivision_.
+
+I rode from the stop sign to a manhole cover at the crest of _Greenmansions Place_.  The total time to the top on the first spin up the hill was 3 minutes (easy effort).  Coasting back to the bottom was just a minute and a half (not 3 minutes).  Each subsequent time up was faster and a bit more intense.
+
+I ran well considering it was pretty close to being right off the bike.  I shouldn't be that surprised though; I did miss a run on [Tuesday](javascript:('tue';).  Basic route to the middle of the _Selkirk Trestle_ in 15 minutes and negative split the net uphill on the way back.
 
 
 <!---->
-## FRIDAY APR 23
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## FRIDAY APR 23 ⛅️
+Sleep **3** | Fatigue **4** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -173,10 +177,11 @@ Run 30 minutes. EASY. Flat route. Not hard in the slightest.
 4x 25 super easy to cool down. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **50 minutes** &nbsp; Swim: **2100m**
 
-&mdash; 
+Thankful that today's swim workout was easy to remember as I couldn't get it to sync with my watch.  It was a nice change as I used the clock(s) on the wall to monitor my rest times.  One thing not measured was the kick lengths so the activity shows 1800m of "swimming".
 
+The warmup felt like should.  I was stiff through the shoulders initially but it didn't last all that long.  The 600m was paced appropriately (new 400m PR) and I was digging a little bit deeper on the 6x125 set.  1:4/100m to wrap things up after a longer break.  Effort and focus were **on point** at the pool this afternoon.
 
 <!---->
 ## SATURDAY APR 24
