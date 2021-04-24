@@ -152,7 +152,9 @@ Off the bike: Run 30 minutes. Flat route. EASY effort.
 ### NOTES
 Total Time: **110 minutes**
 
-I am glad that I had a FaceTime meeting with my coach before heading out on the ride this afternoon.  It help me reset expectations from how I read the workout vs the objectives needed to be achieved.  I rode out to _Langford_, then doubled back on _Atkins Road_ few minutes to get to the entry of the _Crystal View Subdivision_.
+I am glad that I had a FaceTime meeting with my coach before heading out on the ride this afternoon.  It help me reset expectations from how I read the workout vs the objectives needed to be achieved.  With work done, its time to ride.
+<!---->
+I rode out to _Langford_, then doubled back on _Atkins Road_ few minutes to get to the entry of the _Crystal View Subdivision_.
 
 I rode from the stop sign at the base, to a manhole cover at the crest of _Greenmansions Place_.  The total time to the top on the first spin up the hill was 3 minutes (easy effort).  Coasting back to the bottom was just a minute and a half (not 3 minutes).  Each subsequent time up was faster and a bit more intense.  I did not program the workout into my bike computer.  Instead I focused on perceived effort to get to the top of the hill.
 
