@@ -158,7 +158,7 @@ I rode out to _Langford_, then doubled back on _Atkins Road_ few minutes to get 
 
 I rode from the stop sign at the base of the hill, to a manhole cover at the crest of _Greenmansions Place_.  The total time to the top on the first spin up the hill was 3 minutes (easy effort).  Coasting back to the bottom was just a minute and a half (not 3 minutes).  Each subsequent time up was faster and a bit more intense.  I did not program the workout into my bike computer; in fact, I didn't even look at it except to push the lap button.  Instead I focused on perceived effort as I rode to the top of the hill.
 
-<table><thead><tr style="border-bottom:1px solid #aaa;"><td></td>
+<table style="width:330px;"><thead><tr style="padding:1px;border-bottom:1px solid #aaa;"><td></td>
 <td style="text-align:right;font-size:0.8em;">Time</td>
 <td style="text-align:right;font-size:0.8em;">Avg KPH</td>
 <td style="text-align:right;font-size:0.8em;">Avg HR</td>
