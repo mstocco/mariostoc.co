@@ -23,7 +23,16 @@ Sleep **2** | Fatigue **2** | Stress **2** | Soreness **4**
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+### THETIS MTB RIDE
+
+Trails wet.  Comfy Wooden Chair, then up to Scafe Hill.  The last trail to the summit is a call Scafe Hill Push Up on TrailForks but I had to pack the bike on my shoulder for the short scramble sections.  The descent down was rated <span style="color:blue;">"blue"</span> and at least a third of it was beyond my comfort level.  
+
+Before leaving the park, I did Comfy Wooden Chair once more.  I was nailing it too but on one rocky bit, I got a little too confident, lost momentum trying to clear an off camber rocky bit and crashed into a stump.  Most of the wood was rotten and that broke my fall; it could have been worse.
+
+Fun ride except for the hike-a-bike bits.
+
+### TYEE ROAD OTB
+260 calories consumed on the bike helped and my legs felt better than normal.  My only aches were tired feet.  At the 24 minute mark, I started to think about pizza and then got really hungry.  If I would have packed a mask and my bank card, I would have run into downtown and find a pizza by the slice restaurant and called it for the day.  Instead, I found myself in a mental battle to block out the cravings and focus on getting home.  It wasn't easy but by minute 37, I was back into a groove and on my way home.
 
 
 <!---->
@@ -37,12 +46,20 @@ Sleep **2** | Fatigue **4** | Stress **4** | Soreness **4**
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+So Garmin made an update to their Connect app and made it more cumbersome to plug in a swim workout.  I must have done something wrong because the watch seemed to skip over the 100m lengths of the 3x
+
+Regardless, I carried on and tacked on the as many of the missing 100m lengths as I could at the end of what was programmed into my watch.
+
+The water felt heavy this morning.
+
+Piriformis is back
+
+Right thigh is bruised from the falling into that rotten stump yesterday too.
 
 
 <!---->
 ## TUESDAY APR 27
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **2** | Fatigue **3** | Stress **4** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -51,7 +68,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Piriformis, despite working 
 
 
 <!---->
