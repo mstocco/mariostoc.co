@@ -4,17 +4,17 @@ Week beginning [Sunday, April 25, 2021](javascript:flick('sun');)
 **18 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-&mdash; 
+Getting closer to having the dirty work on the renovation done.  One more week of balancing work, training, life and that one project.
 
 ## SUMMARY
 I feel I like was...  
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
+![According to the Old Farmer’s Almanac, this Monday's full moon is the first of two supermoons in 2021.](/assets/jpg/IMG_3221-977x550.jpeg Pink Moon Rising over Chatham Island)
 
-<!---->
-## SUNDAY APR 25
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## SUNDAY APR 25 🌧
+Sleep **2** | Fatigue **2** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -27,8 +27,8 @@ Total Time: **0 minutes**
 
 
 <!---->
-## MONDAY APR 26
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## MONDAY APR 26 🌤
+Sleep **2** | Fatigue **4** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
