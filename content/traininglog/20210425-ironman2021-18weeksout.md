@@ -7,9 +7,13 @@ Week beginning [Sunday, April 25, 2021](javascript:flick('sun');)
 Getting closer to having the dirty work on the renovation done.  One more week of balancing work, training, life and that one project.
 
 ## SUMMARY
-I feel I like was...  
-<sup>(completed at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel I like was **SWIMMING AND BIKING**
+
+Well, the renovation work is coming along slowly and in a way, that is a good thing.  When I do get into the bathroom for some manual labour, I am doing so in smaller, spread out blocks of time and listening to my body.  I am conscious about my back and my overall energy levels and stopping before things begin working against my goals.
+
+Time/frequency on the bike(s) is up this week starting with the XC bike on [Sunday](javascript:flick('sun');) and finishing with my first outdoor ride on the TT bike on [Saturday](javascript:flick('sat');).  The only day I wasn't on a bike was [Friday](javascript:flick('fri');).
+
+With everything going on, this was a **+13 hour training week**.  
 
 ![According to the Old Farmer’s Almanac, this Monday's full moon is the first of two supermoons in 2021.](/assets/jpg/IMG_3221-977x550.jpeg Pink Moon Rising over Chatham Island)
 
@@ -58,7 +62,7 @@ Right thigh is bruised from the falling into that rotten stump yesterday too.
 
 
 <!---->
-## TUESDAY APR 27
+## TUESDAY APR 27 ⛅️
 Sleep **2** | Fatigue **3** | Stress **4** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -68,7 +72,7 @@ Sleep **2** | Fatigue **3** | Stress **4** | Soreness **5**
 ### NOTES
 Total Time: **0 minutes**
 
-Piriformis, despite working 
+Piriformis, despite working it with a lacrosse ball last night.
 
 
 <!---->
