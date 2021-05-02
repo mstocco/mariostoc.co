@@ -118,7 +118,8 @@ Total Time: **120 mins** &nbsp; Swim Distance: **2100m**
 
 Busy morning in the pool; regardless, I was able to get the swim completed as it was written and I **felt pretty good** in the water this morning.
 
-The last three 50m strong efforts felt really good with pretty consistent times of **47.8**, **47.8** and **46.4** secs.  <small>(first not timed b/c lane congestion)</small>
+The last three 50m strong efforts ended with pretty consistent times of **47.8**, **47.8** and **46.4** secs.  
+<small>(first not timed b/c of lane congestion)</small>
 <!---->
 ### Take the long way home...
 
