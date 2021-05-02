@@ -122,7 +122,7 @@ Last three strong 50m lenghts ended with pretty consistent times of **47.8**, **
 <!---->
 ### Take the long way home...
 
-The 60 minute bike was a bit of a different story as I was feeling it with some fatigue in my legs.  Case in point, heading up the hill on _Admirals Road_ was less than comfortable.
+The 60 minute bike was a different story as I was feeling it with some fatigue in my legs.  Case in point, heading up the hill northbound on _Admirals Road_ was less than comfortable.
 
 ![Ride Map](/assets/jpg/ridemap-20210428.jpeg)
 
