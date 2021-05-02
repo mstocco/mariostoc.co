@@ -156,6 +156,7 @@ From the bottom of the hill (at a 30KPH sign) to the crest of the hill is a litt
 ### Average Heartrate Overlaying Elevation
 ![HR Chart](/assets/jpg/ridehr-20210429.jpeg)
 Maximum HR: **157bpm**
+
 <!---->
 ## FRIDAY APR 30
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
@@ -173,10 +174,11 @@ Run 30 minutes easy.
 4x 25 easy to cool down
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **0 minutes** &nbsp;
 
-&mdash; 
-
+Twice this week I have been tripped up with Garmin's new UI for entering workouts.  Today I missed entering the second of 4 rounds into the app.  I didn't recognize it until the end of the swim when I was short on time and distance.  I swam an easy, steady 200m to make up both.
+<!---->
+After the swim, I did my easy jog home.  Nothing special about it except that I now know that I am a 24 minute jog to the _Esquimalt Rec Centre_ going up and over the hill on _Lampson_.  I jogged a couple extra blocks once home to get closer to the 30 minute time.
 <!---->
 ## SATURDAY MAY 01 ☀️
 Sleep **3** | Fatigue **3** | Stress **2** | Soreness **3**  
