@@ -187,7 +187,7 @@ I made a mental note of my times after the first set of 175m and again after the
 That actually happened.  With a buoy, my times were 3:12.8 and 3:14.3, then without a buoy, 3:13.5 and 3:15.2.  The last 2x175m strong w/bouy saw 3:08.6 and 3:08.9. 
 
 ### Easy Jog Back Home
-Now I know that I am about a 24 minute jog to the _Esquimalt Rec Centre_ going up the hill on _Lampson_.  Piriformis did ok and I jogged a couple extra blocks to get closer to the 30 minute time.
+Now I know that I am about a 24 minute jog to the _Esquimalt Rec Centre_ going up the hill on _Lampson_.  **Piriformis did ok** and I jogged a couple extra blocks to get closer to the 30 minute time.
 
 <!---->
 ## SATURDAY MAY 01 ☀️
@@ -203,7 +203,5 @@ Stay hydrated!
 ### NOTES
 Total Time: **190 minutes** &nbsp; Distance: **81 km**
 
-&mdash; 
+First _"outside"_ ride on the TT bike!
 
-
-<!---->
