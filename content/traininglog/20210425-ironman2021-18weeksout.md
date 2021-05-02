@@ -118,7 +118,7 @@ Total Time: **120 mins** &nbsp; Swim Distance: **2100m**
 
 Busy morning in the pool; regardless, I was able to get the swim completed as it was written and I **felt pretty good** in the water this morning.  The 4x50 set at the end felt good and my times were pretty consistent with a:   
 &nbsp; 47.8, 47.8 and 46.4   
-<sup>the first length was timed longer because I moved into the then vacant "fast lane".</sup>
+<sup>(the first length timed long b/c I moved into a vacant lane)</sup>
 <!---->
 ### Take the long way home...
 
