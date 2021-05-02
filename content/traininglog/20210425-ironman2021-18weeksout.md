@@ -145,9 +145,9 @@ Find the most gradual 4 minute climb that is 20-30 minutes from home.
 ### NOTES
 Total Time: **90 minutes**
 
-The gearing on the road bike is 11x30 with 50/34 chainrings versus the TT bike currently set up with an 11x25 on the back and a 52/36 crankset.  Today it is the road bike for the win!
+The road bike has a 11x30 cassette with 50/34 chainrings versus the TT bike currently set up with an 11x25 on the back and a 52/36 crankset.  It is the road bike for the win!
 
-In retrospect, I could have found a more gradual climb than _Haida Drive_.  Regardless, I counted the rise on _Veterans Memorial_ into the subdivision as the first rep and tackled "the hill" for 2, 3 and 4.
+I was riding _Colwood_ [recently](ironman2021-20weeksout?thu) scouting hills.  In retrospect, I could have found a more gradual climb than _Haida Drive_.  Regardless, I counted the rise on _Veterans Memorial_ into the subdivision as the first rep and tackled "the hill" for 2, 3 and 4.
 <!---->
 From the bottom of the hill (at a 30KPH sign) to the crest of the hill is a little over 3 minutes for me.  From there I would start to grab gears until I got to the end of the cup de sac at the 4 minute mark.
 
