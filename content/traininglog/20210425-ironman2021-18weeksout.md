@@ -98,8 +98,9 @@ Total Time: **60 minutes**
 After a longer, **stressful day at work**, I looked at the weather and I was not up for riding in the cold wind tonight.  I grabbed the TT bike and hopped on the rollers for an almost continuous hour of spinning.  I stopped for a 30 second stretch break at 30 minutes to check in with my back.  It seemed to be ok with the TT position tonight. 
 
 My piriformis is still angry; I **skipped the run** and further aggravating it.
+
 <!---->
-## WEDNESDAY APR 28
+## WEDNESDAY APR 28 ⛅️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -113,13 +114,17 @@ Bike commute to pool. 10 minutes easy.
 Bike commute home. Long way ~ 60 minutes. Easy spinning.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **120 minutes** &nbsp; Swim Distance: **2100m**
 
-&mdash; 
+It looks like I got a better handle on Garmin's new UI for entering swim workouts in their Connect app.
+
+Busy morning in the pool and I suspect that most of May will be the same.  Regardless, I was able to get the swim completed as it was written and I **felt pretty good** in the water this morning.  The 4x50 set at the end felt good and my times were pretty consistent with a 47.8, 47.8 and 46.4 (the first of the set was timed longer because I moved into the then vacant "fast lane").
+
+The 60 minute bike was a bit of a different story as I was feeling it with some fatigue in my legs.  Case in point, heading up the hill on _Admirals Road_ was less than comfortable.
 
 
 <!---->
-## THURSDAY APR 29
+## THURSDAY APR 29 ☁️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -168,7 +173,7 @@ Great day to try and put down 750+ calories. See how the stomach holds up.
 Stay hydrated!
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **190 minutes** &nbsp; Distance: **81 km**
 
 &mdash; 
 
