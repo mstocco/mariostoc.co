@@ -35,10 +35,13 @@ The weather was wet in the morning so I worked on the reno until the rain stoppe
 Dark, ominous clouds obscured the hills toward the west.  I resigned to the fact that I was going to get wet and pedalled toward the last bit of lingering weather.  Lucky for me, the weather was clearing fast and by the time I reached the entrance to the _Thetis Park_, the rain had all but ended.
 <!---->
 The trails were still wet.  I took a run at my favourite bit of single track, _Comfy Wooden Chair_, before heading  up to the summit of _Scafe Hill_.  According to TrailForks, the final trail to the summit is called _"Scafe Hill Push Up"_; no way this is a "push up" as I had to pack the bike on my shoulder for its short scramble sections.
+
+
 ![Scafe Hill View](/assets/jpg/scafe-20210425.jpeg)
+<sup>Looking west toward Mt. Finlayson from the top of Scafe Hill.</sup>
 
 The descent down off _Scafe Hill_ was rated <span style="color:blue;">"blue"</span> and I would say at least a third of it was beyond my current comfort level.
-
+<!---->
 Before leaving the park, I did Comfy Wooden Chair once more.  I was nailing it too until one obstacle; I got a little too confident, lost momentum trying to clear an off camber rocky bit and crashed into a stump.  Most of the wood was rotten and that broke my fall; it could have been worse.
 
 Fun ride including walking the _"hike-a-bike"_ sections.
