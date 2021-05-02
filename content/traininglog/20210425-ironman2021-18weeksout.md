@@ -78,7 +78,7 @@ The **water felt heavy** this morning.
 
 ---
 
-Piriformis is back on my left side.  Maybe it was carrying bricks or maybe just old age.
+Piriformis is back on my left side.  Maybe it was carrying bricks or maybe just old age.  I gave it a work over with the lacrosse ball before bed tonight.
 
 Right thigh is bruised from the falling into that rotten stump [yesterday](javascript:flick('sun');) too.
 
@@ -95,9 +95,9 @@ Run 30 minutes. Easy effort. Whatever route you like. (You can only run so many 
 ### NOTES
 Total Time: **60 minutes**
 
-After a longer, stressful day at work, I looked at the weather and I was not up for riding in the cold wind tonight.  I grabbed the TT bike and hopped on the rollers for an almost continuous hour of spinning.  I stopped for a 30 second stretch break at 30 minutes to check in with my back.  It seemed to be ok with the TT position tonight. 
+After a longer, **stressful day at work**, I looked at the weather and I was not up for riding in the cold wind tonight.  I grabbed the TT bike and hopped on the rollers for an almost continuous hour of spinning.  I stopped for a 30 second stretch break at 30 minutes to check in with my back.  It seemed to be ok with the TT position tonight. 
 
-My piriformis is still angry; I skipped the run and further aggravating it.
+My piriformis is still angry; I **skipped the run** and further aggravating it.
 <!---->
 ## WEDNESDAY APR 28
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
