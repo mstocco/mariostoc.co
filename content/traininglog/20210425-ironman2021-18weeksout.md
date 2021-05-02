@@ -190,7 +190,7 @@ That actually happened.  With a buoy, my times were 3:12.8 and 3:14.3, then with
 Now I know that I am about a 24 minute jog to the _Esquimalt Rec Centre_ going up the hill on _Lampson_.  **Piriformis did ok** and I jogged a couple extra blocks to get closer to the 30 minute time.
 
 <!---->
-## SATURDAY MAY 01 ☀️
+## SATURDAY MAY 1 ☀️
 Sleep **3** | Fatigue **3** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -203,7 +203,7 @@ Stay hydrated!
 ### NOTES
 Total Time: **190 minutes** &nbsp; Distance: **81 km**
 
-First _"outside"_ ride on the TT bike!
+First _"outside"_ ride on the TT bike!  Loved it!
 
 Two 750ml bottles of lemonade (400 cals) and 350 calories in Maynards consumed in the first 2:30:00.  Ironically, I started to feel the hills and wind in my legs at around 2:50:00.  Nothing much else to report except that it was fun to be on the TT bike outside.  Beside the fatigue setting into my legs at the end, the sorest body part was my crotch.
 
