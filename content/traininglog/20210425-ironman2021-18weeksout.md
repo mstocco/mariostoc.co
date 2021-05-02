@@ -9,9 +9,9 @@ Getting closer to having the dirty work on the renovation done.  One more week o
 ## SUMMARY
 I feel I like was **SWIMMING AND BIKING**
 
-Well, the renovation work is coming along slowly and in a way, that is a good thing.  When I do get into the bathroom for some manual labour, I am doing so in smaller, spread out blocks of time and listening to my body.  I am conscious about my back and my overall energy levels and stopping before things begin working against my goals.
+Well, the renovation work is coming along slowly and in a way, that is a good thing.  When I do get into the manual labour, it's in smaller, spread out blocks of time.  I am conscious about my back and my overall energy levels and stopping before things begin working against my goals.
 
-Time/frequency on the bike(s) is up this week starting with the XC bike on [Sunday](javascript:flick('sun');) and finishing with my first outdoor ride on the TT bike on [Saturday](javascript:flick('sat');).  The only day I wasn't on a bike was [Friday](javascript:flick('fri');).
+Time and frequency on a bike was up this week, starting with the XC bike on [Sunday](javascript:flick('sun');) and finishing with the TT bike on [Saturday](javascript:flick('sat');).  The only day I wasn't on a bike was [Friday](javascript:flick('fri');).
 
 With everything going on, this was a **+13 hour training week**.  
 
