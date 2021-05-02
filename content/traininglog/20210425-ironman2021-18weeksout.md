@@ -76,15 +76,15 @@ Regardless, I carried on and did the 50m STRONG lengths and tacked on the as man
 
 The **water felt heavy** this morning.
 
+---
 
-Piriformis is back on my left side.
+Piriformis is back on my left side.  Maybe it was carrying bricks or maybe just old age.
 
-Right thigh is bruised from the falling into that rotten stump yesterday too.
-
+Right thigh is bruised from the falling into that rotten stump [yesterday](javascript:flick('sun');) too.
 
 <!---->
 ## TUESDAY APR 27 ⛅️
-Sleep **2** | Fatigue **3** | Stress **4** | Soreness **5**  
+Sleep **2** | Fatigue **3** | Stress **5** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -93,11 +93,13 @@ Ride 75 minutes on the road bike. Easy cruising around town or on the trainer/ro
 Run 30 minutes. Easy effort. Whatever route you like. (You can only run so many hills in 30 minutes) 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **60 minutes**
 
 Piriformis, despite working it with a lacrosse ball last night.
 
+After a longer, stressful day at work, I looked at the weather and I was not up for riding in the cold wind tonight.  I grabbed the TT bike and hopped on the rollers for an almost continuous hour of spinning.  I stopped for a 30 second stretch break at 30 minutes to check in with my back.  It seemed to be ok with the TT position tonight. 
 
+Because that piriformis is lit up, I skipped the run and further aggravating it.
 <!---->
 ## WEDNESDAY APR 28
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
