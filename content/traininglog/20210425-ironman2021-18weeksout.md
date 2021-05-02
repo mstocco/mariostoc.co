@@ -205,3 +205,6 @@ Total Time: **190 minutes** &nbsp; Distance: **81 km**
 
 First _"outside"_ ride on the TT bike!
 
+<!---->
+
+![Lands End Road](/assets/jpg/ridemap-20210501.jpeg)
