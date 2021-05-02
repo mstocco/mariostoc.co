@@ -181,11 +181,9 @@ Twice this week I have been tripped up entering workouts with Garmin's new UI.  
 ### The First 1900m
 ![Swim Chart](/assets/jpg/swim-20210430.jpeg)
 
-For the most part, I felt relaxed and comfortable in the water this afternoon.  I made a mental note of my times after the first set of 175m and again after the set with a buoy.  Being faster with the buoy was a tell and the next set of 175m was determined to make an improvement without an increase in effort.
+I **felt comfortable** in the water this afternoon.  I made a mental note of my times after the first set of 175m and again after the set with a buoy.  Being faster with the buoy was a tell and the next set of 175m was determined to make an improvement without an increase in effort.
 
-That actually happened.  With the buoy, my times where 3:12.8 and 3:14.3, next efforts without clocked 3:13.5 and 3:15.2.  
-
-The last 2x175m strong focus set saw 3:08.6 and 3:08.9. 
+That actually happened.  With a buoy, my times were 3:12.8 and 3:14.3, then without a buoy, 3:13.5 and 3:15.2.  The last 2x175m strong w/bouy saw 3:08.6 and 3:08.9. 
 
 ---
 
