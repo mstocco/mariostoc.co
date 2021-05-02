@@ -72,9 +72,10 @@ So Garmin made an update to their Connect app and made it more cumbersome to plu
 <!---->
 Regardless, I carried on and did the 50m STRONG lengths and tacked on the as many of the missing 100m lengths as I could at the end of what was programmed into my watch.
 
-![Swim Chart](/assets/jpg/swim-20210425.jpeg)
+![Swim Chart](/assets/jpg/swim-20210426.jpeg)
 
 The **water felt heavy** this morning.
+
 
 Piriformis is back on my left side.
 
