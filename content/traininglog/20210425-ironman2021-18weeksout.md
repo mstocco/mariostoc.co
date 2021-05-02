@@ -177,17 +177,18 @@ Run 30 minutes easy.
 Total Time: **0 minutes** &nbsp; Swim: **2000m**
 
 Twice this week I have been tripped up entering workouts with Garmin's new UI.  When I realized that I was short on time and distance, I swam an easy 200m to make up both.
+
+I felt **comfortable in the water** this afternoon.
 <!---->
 ### The First 1900m
 ![Swim Chart](/assets/jpg/swim-20210430.jpeg)
-
-I **felt comfortable** in the water this afternoon.  I made a mental note of my times after the first set of 175m and again after the set with a buoy.  Being faster with the buoy was a tell and the next set of 175m was determined to make an improvement without an increase in effort.
+I made a mental note of my times after the first set of 175m and again after the set with a buoy.  Being faster with the buoy was a tell and the next 175m set, I was determined to make an improvement without an increase in effort.
 
 That actually happened.  With a buoy, my times were 3:12.8 and 3:14.3, then without a buoy, 3:13.5 and 3:15.2.  The last 2x175m strong w/bouy saw 3:08.6 and 3:08.9. 
 
 ---
 
-After the swim, I did my easy jog home.  Nothing special about it except that I now know that I am a 24 minute jog to the _Esquimalt Rec Centre_ going up and over the hill on _Lampson_.  I jogged a couple extra blocks once home to get closer to the 30 minute time.
+It was an **easy jog** home from the pool.  I now know that I am a 24 minute jog to the _Esquimalt Rec Centre_ going up and over the hill on _Lampson_.  I jogged a couple extra blocks once home to get closer to the 30 minute time.  Piriformis did ok.
 <!---->
 ## SATURDAY MAY 01 ☀️
 Sleep **3** | Fatigue **3** | Stress **2** | Soreness **3**  
