@@ -149,9 +149,10 @@ Total Time: **90 minutes**
 <!---->
 The road bike has a 11x30 cassette with 50/34 chainrings versus the TT bike currently set up with an 11x25 on the back and a 52/36 crankset.  It is the road bike for the win!
 
-I was riding _Colwood_ [recently](ironman2021-20weeksout?thu) scouting hills.  In retrospect, I could have found a more gradual climb than _Haida Drive_.  Regardless, I counted the rise on _Veterans Memorial_ into the subdivision as the first rep and tackled "the hill" for 2, 3 and 4.
+In retrospect, I could have found a more gradual climb than _Haida Drive_.  Regardless, I counted the rise on _Veterans Memorial_ into the subdivision as the first rep and tackled "the hill" for 2, 3 and 4.
 
 From the bottom of the hill (at a 30KPH sign) to the crest of the hill is a little over 3 minutes for me.  From there I would start to grab gears until I got to the end of the cup de sac at the 4 minute mark.
+![HR Chart](/assets/jpg/ridehr-20210429.jpeg)
 
 Looking comparatively to the crest of _Greenmansions Place_ in the Crystal View subdivision, _Haida Drive_ is about 10m taller and in today's fitness, 30 seconds longer to the top.
 
