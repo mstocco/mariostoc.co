@@ -32,19 +32,22 @@ Total Time: **190 minutes** &nbsp; Avg Pace: **6:00/km**
 The weather was wet in the morning so I worked on the reno until the rain stopped later in the afternoon.
 
 ### THETIS MTB RIDE
-The morning rain finally stopped, but dark, ominous clouds obscured the hills toward the west.  I resigned to the fact that I was going to get wet and pedalled toward the last bit of lingering weather.  Lucky for me, the weather was clearing fast and by the time I reached the entrance to the _Thetis Park_, the rain had all but ended.
+Dark, ominous clouds obscured the hills toward the west.  I resigned to the fact that I was going to get wet and pedalled toward the last bit of lingering weather.  Lucky for me, the weather was clearing fast and by the time I reached the entrance to the _Thetis Park_, the rain had all but ended.
 <!---->
-The trails were still wet.  I took a run at my favourite bit of single track, _"Comfy Wooden Chair"_, before heading  up to the summit of _Scafe Hill_.  According to TrailForks, the final trail to the summit is called _"Scafe Hill Push Up"_; no way this is a "push up" as I had to pack the bike on my shoulder for its short scramble sections.
+The trails were still wet.  I took a run at my favourite bit of single track, _Comfy Wooden Chair_, before heading  up to the summit of _Scafe Hill_.  According to TrailForks, the final trail to the summit is called _"Scafe Hill Push Up"_; no way this is a "push up" as I had to pack the bike on my shoulder for its short scramble sections.
 
-The descent down off _Scafe Hill_ was rated <span style="color:blue;">"blue"</span> and I would say at least a third of it was beyond my current comfort level.  
-<!---->
-Before leaving the park, I did Comfy Wooden Chair once more.  I was nailing it too but on one rocky bit, I got a little too confident, lost momentum trying to clear an off camber rocky bit and crashed into a stump.  Most of the wood was rotten and that broke my fall; it could have been worse.
+The descent down off _Scafe Hill_ was rated <span style="color:blue;">"blue"</span> and I would say at least a third of it was beyond my current comfort level.
+
+Before leaving the park, I did Comfy Wooden Chair once more.  I was nailing it too until one obstacle; I got a little too confident, lost momentum trying to clear an off camber rocky bit and crashed into a stump.  Most of the wood was rotten and that broke my fall; it could have been worse.
 
 Fun ride including walking the _"hike-a-bike"_ sections.
 
 ### TYEE ROAD OTB
-260 calories consumed on the bike helped and my legs felt better than normal.  My only aches were tired feet.  At the 24 minute mark, I started to think about pizza and then got really hungry.  If I would have packed a mask and my bank card, I would have run into downtown and find a pizza by the slice restaurant and called it for the day.  Instead, I found myself in a mental battle to block out the cravings and focus on getting home.  It wasn't easy but by minute 37, I was back into a groove and on my way home.
+260 calories consumed on the bike helped and my legs felt better than normal.  My only aches were tired feet.
 
+At the 24 minute mark, I started to think about pizza and then got really hungry.  If I would have packed a mask and my bank card, I would have run straight into downtown, found a pizza by the slice restaurant and call it for the day.  Instead, I found myself in a mental battle to block out the cravings and focus on getting home.
+
+It wasn't easy but by minute 37, I was back into a groove and on my way home.
 
 <!---->
 ## MONDAY APR 26 🌤
