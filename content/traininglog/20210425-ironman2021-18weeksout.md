@@ -143,7 +143,7 @@ Find the most gradual 4 minute climb that is 20-30 minutes from home.
 4x 4 minutes uphill w/ 1st Rep: Steady climbing. #2-4 @ 20k effort/focus. But you can er on the side of a bit easier than 20k. 3-4 minutes of recovery/easy spinning after each effort. Then 30_ish_ minutes easy to cool down. 
 
 ### NOTES
-Total Time: **90 minutes**
+Total Time: **90 minutes** &nbsp; Elev Gain: **468m**
 
 ![Ride Map](/assets/jpg/ridemap-20210429.jpeg)
 <!---->
@@ -153,9 +153,9 @@ In retrospect, I could have found a more gradual climb than _Haida Drive_.  Rega
 
 From the bottom of the hill (at a 30KPH sign) to the crest of the hill is a little over 3 minutes for me.  From there I would start to grab gears until I reached the end of the cul de sac and a total of 4 minutes.
 
-### Normalized HR overlaying Elevation
+### Average Heartrate Overlaying Elevation
 ![HR Chart](/assets/jpg/ridehr-20210429.jpeg)
-
+Maximum HR: **157bpm**
 <!---->
 ## FRIDAY APR 30
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
