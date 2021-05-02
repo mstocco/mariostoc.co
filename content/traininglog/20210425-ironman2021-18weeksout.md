@@ -49,6 +49,7 @@ At the 24 minute mark, I started to think about pizza and then got really hungry
 
 It wasn't easy but by minute 37, I was back into a groove and on my way home.
 
+![Run Map](/assets/jpg/runmap-20210425.jpeg)
 <!---->
 ## MONDAY APR 26 🌤
 Sleep **2** | Fatigue **4** | Stress **4** | Soreness **4**  
