@@ -174,10 +174,21 @@ Run 30 minutes easy.
 4x 25 easy to cool down
 
 ### NOTES
-Total Time: **0 minutes** &nbsp;
+Total Time: **0 minutes** &nbsp; Swim: **2000m**
 
-Twice this week I have been tripped up with Garmin's new UI for entering workouts.  Today I missed entering the second of 4 rounds into the app.  I didn't recognize it until the end of the swim when I was short on time and distance.  I swam an easy, steady 200m to make up both.
+Twice this week I have been tripped up entering workouts with Garmin's new UI.  When I realized that I was short on time and distance, I swam an easy 200m to make up both.
 <!---->
+### The First 1900m
+![Swim Chart](/assets/jpg/swim-20210430.jpeg)
+
+For the most part, I felt relaxed and comfortable in the water this afternoon.  I made a mental note of my times after the first set of 175m and again after the set with a buoy.  Being faster with the buoy was a tell and the next set of 175m was determined to make an improvement without an increase in effort.
+
+That actually happened.  With the buoy, my times where 3:12.8 and 3:14.3, next efforts without clocked 3:13.5 and 3:15.2.  
+
+The last 2x175m strong focus set saw 3:08.6 and 3:08.9. 
+
+---
+
 After the swim, I did my easy jog home.  Nothing special about it except that I now know that I am a 24 minute jog to the _Esquimalt Rec Centre_ going up and over the hill on _Lampson_.  I jogged a couple extra blocks once home to get closer to the 30 minute time.
 <!---->
 ## SATURDAY MAY 01 ☀️
