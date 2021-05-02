@@ -116,9 +116,15 @@ Bike commute home. Long way ~ 60 minutes. Easy spinning.
 ### NOTES
 Total Time: **120 mins** &nbsp; Swim Distance: **2100m**
 
-Busy morning in the pool; regardless, I was able to get the swim completed as it was written and I **felt pretty good** in the water this morning.  The 4x50 set at the end felt good and my times were pretty consistent with a 47.8, 47.8 and 46.4 (the first of the set was timed longer because I moved into the then vacant "fast lane").
+Busy morning in the pool; regardless, I was able to get the swim completed as it was written and I **felt pretty good** in the water this morning.  The 4x50 set at the end felt good and my times were pretty consistent with a:   
+&nbsp; 47.8, 47.8 and 46.4   
+<sup>the first length was timed longer because I moved into the then vacant "fast lane".</sup>
 <!---->
+### Take the long way home...
+
 The 60 minute bike was a bit of a different story as I was feeling it with some fatigue in my legs.  Case in point, heading up the hill on _Admirals Road_ was less than comfortable.
+
+![Ride Map](/assets/jpg/ridemap-20210428.jpeg)
 
 ---
 
