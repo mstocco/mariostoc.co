@@ -114,15 +114,15 @@ Bike commute to pool. 10 minutes easy.
 Bike commute home. Long way ~ 60 minutes. Easy spinning.
 
 ### NOTES
-Total Time: **120 minutes** &nbsp; Swim Distance: **2100m**
-
-It looks like I got a better handle on Garmin's new UI for entering swim workouts in their Connect app.
+Total Time: **120 mins** &nbsp; Swim Distance: **2100m**
 
 Busy morning in the pool and I suspect that most of May will be the same.  Regardless, I was able to get the swim completed as it was written and I **felt pretty good** in the water this morning.  The 4x50 set at the end felt good and my times were pretty consistent with a 47.8, 47.8 and 46.4 (the first of the set was timed longer because I moved into the then vacant "fast lane").
-
+<!---->
 The 60 minute bike was a bit of a different story as I was feeling it with some fatigue in my legs.  Case in point, heading up the hill on _Admirals Road_ was less than comfortable.
 
+---
 
+It looks like I got a better handle on Garmin's new UI for entering swim workouts in their Connect app.
 <!---->
 ## THURSDAY APR 29 ☁️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
