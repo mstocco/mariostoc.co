@@ -27,12 +27,16 @@ Ride 2:10 on MTB. Head to some trails. Get in some climbing. Have fun. Stay hydr
 Off the bike: Run 50 minutes. Flat route. Easy effort.
 
 ### NOTES
-Total Time: **190 minutes** Avg Pace: **6:00/km**
+Total Time: **190 minutes** &nbsp; Avg Pace: **6:00/km**
 
 The weather was wet in the morning so I worked on the reno until the rain stopped later in the afternoon.
 
 ### THETIS MTB RIDE
-Trails wet.  Comfy Wooden Chair, then up to Scafe Hill.  The last trail to the summit is a call Scafe Hill Push Up on TrailForks but I had to pack the bike on my shoulder for the short scramble sections.  The descent down was rated <span style="color:blue;">"blue"</span> and at least a third of it was beyond my comfort level.  
+The morning rain finally stopped, but dark, ominous clouds obscured the hills toward the west.  I resigned to the fact that I was going to get wet and pedalled toward the last bit of lingering weather.  Lucky for me, the weather was clearing fast and by the time I reached the entrance to the _Thetis Park_, the rain had all but ended.
+<!---->
+The trails were still wet.  I took a run at my favourite bit of single track, _"Comfy Wooden Chair"_, before heading  up to the summit of _Scafe Hill_.  According to TrailForks, the final trail to the summit is called _"Scafe Hill Push Up"_; no way this is a "push up" as I had to pack the bike on my shoulder for its short scramble sections.
+
+The descent down off _Scafe Hill_ was rated <span style="color:blue;">"blue"</span> and I would say at least a third of it was beyond my current comfort level.  
 <!---->
 Before leaving the park, I did Comfy Wooden Chair once more.  I was nailing it too but on one rocky bit, I got a little too confident, lost momentum trying to clear an off camber rocky bit and crashed into a stump.  Most of the wood was rotten and that broke my fall; it could have been worse.
 
