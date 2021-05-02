@@ -205,6 +205,8 @@ Total Time: **190 minutes** &nbsp; Distance: **81 km**
 
 First _"outside"_ ride on the TT bike!
 
-<!---->
+Two 750ml bottles of lemonade (400 cals) and 350 calories in Maynards consumed in the first 2:30:00.  Ironically, I started to feel the hills and wind in my legs at around 2:50:00.  Nothing much else to report except that it was fun to be on the TT bike outside.  Beside the fatigue setting into my legs at the end, the sorest body part was my crotch.
 
+I got back to town quicker than I thought.
+<!---->
 ![Lands End Road](/assets/jpg/ridemap-20210501.jpeg)
