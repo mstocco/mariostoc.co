@@ -29,13 +29,14 @@ Off the bike: Run 50 minutes. Flat route. Easy effort.
 ### NOTES
 Total Time: **190 minutes** Avg Pace: **6:00/km**
 
+The weather was wet in the morning so I worked on the reno until the rain stopped later in the afternoon.
+
 ### THETIS MTB RIDE
-
 Trails wet.  Comfy Wooden Chair, then up to Scafe Hill.  The last trail to the summit is a call Scafe Hill Push Up on TrailForks but I had to pack the bike on my shoulder for the short scramble sections.  The descent down was rated <span style="color:blue;">"blue"</span> and at least a third of it was beyond my comfort level.  
-
+<!---->
 Before leaving the park, I did Comfy Wooden Chair once more.  I was nailing it too but on one rocky bit, I got a little too confident, lost momentum trying to clear an off camber rocky bit and crashed into a stump.  Most of the wood was rotten and that broke my fall; it could have been worse.
 
-Fun ride except for the hike-a-bike bits.
+Fun ride including walking the _"hike-a-bike"_ sections.
 
 ### TYEE ROAD OTB
 260 calories consumed on the bike helped and my legs felt better than normal.  My only aches were tired feet.  At the 24 minute mark, I started to think about pizza and then got really hungry.  If I would have packed a mask and my bank card, I would have run into downtown and find a pizza by the slice restaurant and called it for the day.  Instead, I found myself in a mental battle to block out the cravings and focus on getting home.  It wasn't easy but by minute 37, I was back into a groove and on my way home.
