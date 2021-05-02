@@ -68,7 +68,7 @@ Bike commute to/from the pool. 10 minutes easy each way.
 ### NOTES
 Total Time: **75 minutes** &nbsp; Swim Distance: **2000m**
 
-So Garmin made an update to their Connect app and made it more cumbersome to plug in a swim workout.  I must have done something wrong because the watch seemed to skip over the 100m lengths of the 3 rounds (3x100/50 Strong).
+So Garmin made an update to their Connect app and made it more cumbersome to plug in a swim workout.  I must have done something wrong when entering the workout because the watch seemed to skip over the 100m lengths of the 3 rounds (3x100/50 Strong) (or user error)
 <!---->
 Regardless, I carried on and did the 50m STRONG lengths and tacked on the as many of the missing 100m lengths as I could at the end of what was programmed into my watch.
 
