@@ -42,7 +42,7 @@ The trails were still wet.  I took a run at my favourite bit of single track, _C
 
 Before leaving the park, I did Comfy Wooden Chair once more.  I was nailing it too until one obstacle; I got a little too confident, lost momentum trying to clear an off camber rocky bit and crashed into a stump.  Most of the wood was rotten and that broke my fall; it could have been worse.
 <!---->
-### TYEE ROAD OTB
+### Tyee & Esquimalt Road OTB
 260 calories consumed on the bike helped and my legs felt better than normal.  My only aches were tired feet.
 
 At the 24 minute mark, I started to think about pizza and then got really hungry.  If I would have packed a mask and my bank card, I would have run straight into downtown, found a pizza by the slice restaurant and call it for the day.  Instead, I found myself in a mental battle to block out the cravings and focus on getting home.
@@ -52,7 +52,7 @@ It wasn't easy but by minute 37, I was back into a groove and on my way home.
 ![Run Map](/assets/jpg/runmap-20210425.jpeg)
 <!---->
 ## MONDAY APR 26 🌤
-Sleep **2** | Fatigue **4** | Stress **4** | Soreness **4**  
+Sleep **2** | Fatigue **4** | Stress **4** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -66,15 +66,17 @@ Sleep **2** | Fatigue **4** | Stress **4** | Soreness **4**
 Bike commute to/from the pool. 10 minutes easy each way.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **75 minutes** &nbsp; Swim Distance: **2000m**
 
-So Garmin made an update to their Connect app and made it more cumbersome to plug in a swim workout.  I must have done something wrong because the watch seemed to skip over the 100m lengths of the 3x
+So Garmin made an update to their Connect app and made it more cumbersome to plug in a swim workout.  I must have done something wrong because the watch seemed to skip over the 100m lengths of the 3 rounds (3x100/50 Strong).
+<!---->
+Regardless, I carried on and did the 50m STRONG lengths and tacked on the as many of the missing 100m lengths as I could at the end of what was programmed into my watch.
 
-Regardless, I carried on and tacked on the as many of the missing 100m lengths as I could at the end of what was programmed into my watch.
+![Swim Chart](/assets/jpg/swim-20210425.jpeg)
 
-The water felt heavy this morning.
+The **water felt heavy** this morning.
 
-Piriformis is back
+Piriformis is back on my left side.
 
 Right thigh is bruised from the falling into that rotten stump yesterday too.
 
