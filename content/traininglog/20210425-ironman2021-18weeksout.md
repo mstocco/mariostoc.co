@@ -188,7 +188,8 @@ That actually happened.  With a buoy, my times were 3:12.8 and 3:14.3, then with
 
 ---
 
-It was an **easy jog** home from the pool.  I now know that I am a 24 minute jog to the _Esquimalt Rec Centre_ going up and over the hill on _Lampson_.  I jogged a couple extra blocks once home to get closer to the 30 minute time.  Piriformis did ok.
+It was an **easy jog** home from the pool.  I now know that I am a 24 minute jog to the _Esquimalt Rec Centre_ going up the hill on _Lampson_.  Piriformis did ok and I jogged a couple extra blocks to get closer to the 30 minute time.
+
 <!---->
 ## SATURDAY MAY 01 ☀️
 Sleep **3** | Fatigue **3** | Stress **2** | Soreness **3**  
