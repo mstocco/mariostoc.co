@@ -95,11 +95,9 @@ Run 30 minutes. Easy effort. Whatever route you like. (You can only run so many 
 ### NOTES
 Total Time: **60 minutes**
 
-Piriformis, despite working it with a lacrosse ball last night.
-
 After a longer, stressful day at work, I looked at the weather and I was not up for riding in the cold wind tonight.  I grabbed the TT bike and hopped on the rollers for an almost continuous hour of spinning.  I stopped for a 30 second stretch break at 30 minutes to check in with my back.  It seemed to be ok with the TT position tonight. 
 
-Because that piriformis is lit up, I skipped the run and further aggravating it.
+My piriformis is still angry; I skipped the run and further aggravating it.
 <!---->
 ## WEDNESDAY APR 28
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
