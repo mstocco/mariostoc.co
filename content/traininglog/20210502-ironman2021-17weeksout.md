@@ -68,7 +68,7 @@ I did the last 100m in 1:36.8 which is not far off my rested time in a 25m pool.
 
 ---
 
-I woke up with the 1975 song __"Slow Ride"__ by the British rock band _Foghat_ in a perpetual loop in my head.  Awesome!
+I woke up with the 1975 song __"Slow Ride"__ by the British rock band _Foghat_ in a perpetual loop in my head.  How awesome is that?
 
 _I'm in the mood_  
 _The rhythm is right_  
