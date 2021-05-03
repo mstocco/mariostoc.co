@@ -61,7 +61,7 @@ Total Time: **80 minutes** &nbsp; Swim: **2100m**
 
 I felt just okay in the pool this morning.  On the sighting lengths, I practiced almost exclusively picking my head up when breathing on my left; it is just a bit more awkward on that side for me.
 <!---->
-The ladder was swam with consistency and the kicking was a thigh burner and probably the best medicine for a sketchy piriformis.
+The ladder was swam with consistency; the kicking was a thigh-burner and probably the best medicine for a sketchy piriformis.
 
 ![Swim Paces](/assets/jpg/swim-20210503.jpeg)
 I did the last 100m in 1:36.8 which is not far off my rested time in a 25m pool.
