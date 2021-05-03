@@ -24,10 +24,12 @@ Run 1:20. Easy effort. Maybe on some dirt on flatter trails at Thetis. Elk lake 
 ### NOTES
 Total Time: **83 minutes** &nbsp; Distance: **13.5 km**
 
-Good sleep last night.   I took most of the day as a personal reset day.  I worked on getting this training log caught back up to date, gave my self a haircut at chilled out on the deck.
+Good sleep last night.
+
+I took most of the day as a personal reset day.  I worked on getting this training log caught back up to date, gave my self a haircut at chilled out on the deck.
 
 For the run, I took it **nice and easy** for the entire duration.  I noticed that I left my foot pod at home and while I was close enough to go back and get it, I decided otherwise.  I did not need an accurate pace to accomplish the goal of this workout.
-
+<!---->
 It was close to dinner when I left too.  Before heading out the door, I had a gel and I packed a 500ml bottle of Maurten 320 with me.
 
 I drank on every 10 minutes and was empty at the 60 minute mark.  There was little intensity and zero GI.  I did notice the residual lemonade was setting off the Maurten; the consistency was getting thicker as the bottle emptied.
