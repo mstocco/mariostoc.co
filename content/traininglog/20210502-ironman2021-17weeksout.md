@@ -28,7 +28,7 @@ Good sleep last night.
 
 I took most of the day as a personal reset day.  I worked on getting this training log caught back up to date, gave my self a haircut at chilled out on the deck.
 
-For the run, I took it **nice and easy** for the entire duration.  I noticed that I left my foot pod at home and while I was close enough to go back and get it, I decided otherwise.  I did not need an accurate pace to accomplish the goal of this workout.
+For the run, it was **easy effort** for the entire duration.  I noticed that I left my footpod at home.  While I was close enough to go back and get it, I decided otherwise.  I did not need an accurate pace to accomplish this run's objective.
 <!---->
 It was close to dinner when I left too.  Before heading out the door, I had a gel and I packed a 500ml bottle of Maurten 320 with me.
 
