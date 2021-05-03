@@ -64,7 +64,7 @@ I felt just okay in the pool this morning.  On the sighting lengths, I practiced
 The ladder was swam with consistency; the kicking was a thigh-burner and probably the best medicine for a sketchy piriformis.
 
 ![Swim Paces](/assets/jpg/swim-20210503.jpeg)
-I did the last 100m in 1:36.8 which is not far off my rested time in a 25m pool.
+I **finished strong** getting the last 100m in 1:36.8; pretty close to my best _"rested"_ time in a 25m pool.
 
 ---
 
