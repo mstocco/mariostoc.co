@@ -57,7 +57,7 @@ Bike commute. Easy spin to/from the pool. 10 minutes easy way.
 ### NOTES
 Total Time: **80 minutes** &nbsp; Swim: **2100m**
 
-2 bananas and I was out the door.
+2 bananas and I was out the door, pedalling into a cold headwind to the pool.
 
 I felt just okay in the pool this morning.  On the sighting lengths, I practiced almost exclusively picking my head up when breathing on my left; it is just a bit more awkward on that side for me.
 <!---->
