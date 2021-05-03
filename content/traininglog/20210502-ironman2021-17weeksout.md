@@ -59,6 +59,10 @@ Total Time: **80 minutes** &nbsp; Swim: **2100m**
 
 2 bananas and I was out the door.
 
+I felt just okay in the pool this morning.  On the sighting lengths, I practiced almost exclusively picking my head up when breathing on my left; it is just a bit more awkward on that side for me.
+<!---->
+The ladder was swam with consistency and the kicking was a thigh burner.  I did the last 100m in 1:36.8 which is not far off my rested time in a 25m pool.
+
 I woke up with the song _"Slow Ride"_ by the British rock band Foghat in a perpetual loop in my head.
 
 _I'm in the mood_  
@@ -68,9 +72,9 @@ _We can roll all night, yeah_
 
 _Slow ride, take it easy_...
 
-I feel just okay in the pool this morning.  On the sighting lengths, I practiced almost exclusively picking my head up when breathing on my left; it is just a bit more awkward on that side for me.
 
-The ladder was swam with consistency and the kicking was a thigh burner.  I did the last 100m in 1:36.8 which is not far off my rested time in a 25m pool.
+
+
 <!---->
 ## TUESDAY MAY 04
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
