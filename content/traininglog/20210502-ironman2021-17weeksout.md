@@ -32,7 +32,7 @@ For the run, it was **easy effort** for the entire duration.  I noticed that I l
 <!---->
 It was close to dinner when I left too.  Before heading out the door, I had a gel and I packed a 500ml bottle of Maurten 320 with me.
 
-I drank on every 10 minutes and was empty at the 60 minute mark.  There was little intensity and zero GI.  I did notice the residual lemonade was setting off the Maurten; the consistency was getting thicker as the bottle emptied.
+I drank every 10 minutes and was empty at the 60 minute mark.  There was little intensity and zero GI.  I did notice the residual lemonade was setting off the Maurten; the consistency was getting thicker as the bottle emptied.
 
 Piriformis held up; tomorrow will be a better tell.
 
@@ -41,7 +41,7 @@ Piriformis held up; tomorrow will be a better tell.
 
 <!---->
 ## MONDAY MAY 03
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **4** | Fatigue **4** | Stress **3** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -55,11 +55,22 @@ Swim 2100:
 Bike commute. Easy spin to/from the pool. 10 minutes easy way.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **80 minutes** &nbsp; Swim: **2100m**
 
-&mdash; 
+2 bananas and I was out the door.
 
+I woke up with the song _"Slow Ride"_ by the British rock band Foghat in a perpetual loop in my head.
 
+_I'm in the mood_  
+_The rhythm is right_  
+_Move to the music_   
+_We can roll all night, yeah_  
+
+_Slow ride, take it easy_...
+
+I feel just okay in the pool this morning.  On the sighting lengths, I practiced almost exclusively picking my head up when breathing on my left; it is just a bit more awkward on that side for me.
+
+The ladder was swam with consistency and the kicking was a thigh burner.  I did the last 100m in 1:36.8 which is not far off my rested time in a 25m pool.
 <!---->
 ## TUESDAY MAY 04
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
