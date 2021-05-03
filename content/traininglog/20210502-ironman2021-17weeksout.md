@@ -34,6 +34,8 @@ It was close to dinner when I left too.  Before heading out the door, I had a ge
 
 I drank on every 10 minutes and was empty at the 60 minute mark.  There was little intensity and zero GI.  I did notice the residual lemonade was setting off the Maurten; the consistency was getting thicker as the bottle emptied.
 
+### Tour de Esquimalt
+![Run Map](/assets/jpg/runmap-20210502.jpeg)
 
 <!---->
 ## MONDAY MAY 03
