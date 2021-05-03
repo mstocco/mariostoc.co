@@ -40,7 +40,7 @@ Piriformis held up; tomorrow will be a better tell.
 ![Run Map](/assets/jpg/runmap-20210502.jpeg)
 
 <!---->
-## MONDAY MAY 03
+## MONDAY MAY 3 🌧
 Sleep **4** | Fatigue **4** | Stress **3** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
