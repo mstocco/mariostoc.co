@@ -62,6 +62,9 @@ Total Time: **80 minutes** &nbsp; Swim: **2100m**
 I felt just okay in the pool this morning.  On the sighting lengths, I practiced almost exclusively picking my head up when breathing on my left; it is just a bit more awkward on that side for me.
 <!---->
 The ladder was swam with consistency and the kicking was a thigh burner.  I did the last 100m in 1:36.8 which is not far off my rested time in a 25m pool.
+![Swim Paces](/assets/jpg/swim-20210503.jpeg)
+
+---
 
 I woke up with the song _"Slow Ride"_ by the British rock band Foghat in a perpetual loop in my head.
 
