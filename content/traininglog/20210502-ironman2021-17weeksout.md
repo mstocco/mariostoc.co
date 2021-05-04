@@ -85,7 +85,7 @@ _Slow ride, take it easy_...
 Sleep **3** | Fatigue **3** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
-<span class="agencyvc">Happy Star Wars Day</span> &nbsp; <small>_"May the fourth be with you, always."_</small>
+<span class="agencyvc">Happy Star Wars Day</span> &nbsp; <small>-_May the fourth be with you, always._</small>
 
 ### PLANNED WORKOUT
 Day 1 TAC Routine.   
