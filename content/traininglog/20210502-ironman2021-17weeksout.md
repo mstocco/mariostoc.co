@@ -97,7 +97,7 @@ Run 30 minutes easy. This can be off the bike, but it can also be to start/end t
 ### NOTES
 Total Time: **0 minutes**
 
-My right ankle is experiencing some lingering soreness (run on [Sunday](javascript:flick('sun');)) and my piriformis (left) continues to hint that it still needs consideration, even though it felt good all day after the swim [yesterday](javascript:flick('mon');).
+My right ankle is experiencing some lingering soreness (run on [Sunday](javascript:flick('sun');)) and my piriformis (left) continues to hint that it still needs consideration, even though it felt good yesterday](javascript:flick('mon');) after the swim and short ride home.
 
 <!---->
 ### Easy Run
