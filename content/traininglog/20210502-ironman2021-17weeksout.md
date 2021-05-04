@@ -81,7 +81,7 @@ _Slow ride, take it easy_...
 
 
 <!---->
-## TUESDAY MAY 4 - Star Wars Day ⛅️
+## TUESDAY MAY THE 4TH &mdash; Star Wars Day &nbsp; ⛅️
 Sleep **3** | Fatigue **3** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -103,7 +103,7 @@ Right ankle experiencing some lingering soreness (run on [Sunday](javascript:fli
 &mdash;
 
 <!---->
-## WEDNESDAY MAY 05
+## WEDNESDAY CINCO DE MAYO
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
