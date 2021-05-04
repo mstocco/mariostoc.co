@@ -81,8 +81,8 @@ _Slow ride, take it easy_...
 
 
 <!---->
-## TUESDAY MAY 04
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## TUESDAY MAY 4 - Star Wars Day ⛅️
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -93,7 +93,7 @@ Run 30 minutes easy. This can be off the bike, but it can also be to start/end t
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Right ankle experiencing some lingering soreness (run on [Sunday](javascript:flick('sun');) and my piriformis (left) is still hinting that it needs consideration even though it felt good all day after the swim [yesterday](javascript:flick('mon');).
 
 
 <!---->
