@@ -85,7 +85,7 @@ _Slow ride, take it easy_...
 Sleep **3** | Fatigue **3** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
-**Happy Star Wars Day**   
+<span class="agencyvc">Happy Star Wars Day</span>   
 _May the fourth be with you always._
 
 ### PLANNED WORKOUT
