@@ -85,13 +85,13 @@ _Slow ride, take it easy_...
 Sleep **3** | Fatigue **3** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
+<!--
 <span class="agencyvc">Happy Star Wars Day</span> &nbsp; <small>-_May the fourth be with you, always._</small>
+-->
 
 ### PLANNED WORKOUT
-Day 1 TAC Routine.
-
-Ride 75 minutes. Spin 20-25 minutes easy. (Towards Mill hill) 5x 3:00 #1: Steady climbing to warm up. #2-5 @ a touch easier than 20k effort, 2-3 minutes easy after each. 20-25 minutes easy riding to cool down.
-
+Day 1 TAC Routine.  
+Ride 75 minutes. Spin 20-25 minutes easy. (Towards Mill hill) 5x 3:00 #1: Steady climbing to warm up. #2-5 @ a touch easier than 20k effort, 2-3 minutes easy after each. 20-25 minutes easy riding to cool down.  
 Run 30 minutes easy. This can be off the bike, but it can also be to start/end the day.
 
 ### NOTES
