@@ -101,10 +101,7 @@ Sleep **5** | Fatigue **2** | Stress **5** | Soreness **2**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Bike commute to pool. 10 minutes easy.
-
-5:30am:   
-Swim 2200: 
+5:30am:   Swim 2200: 
 2x 50 easy free. 2x 50 steady w/ buoy. 2x 50 steady kick. R :15. 
 4x 50 as 20 meters strong/30 meters easy/relaxed. r :20. 
 8x 100 Best effort. Trying to hold the best pace you can for all six reps combined. aka: Total time adds up to the fastest average. Leaving on the 2:15. (You start ever rep 2:15 after the start of the previous rep) 
@@ -112,7 +109,8 @@ Swim 2200:
 2x 50 steady kick r :20. 2x 50 easy swim w/ buoy. r :20, 2x 50 easy/steady swim. r :20. 
 400 continuous swim w/ buoy. Trying to finish each stroke well. (That will be hard after the main set!) 
 2x 50 super easy to cool down. 
-   
+
+Bike commute to pool. 10 minutes easy.     
 Bike commute home. Long way ~ 60 minutes. Easy spinning
 
 ### NOTES
