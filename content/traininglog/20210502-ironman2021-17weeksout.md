@@ -114,8 +114,7 @@ Bike commute to pool. 10 minutes easy.
 Bike commute home. Long way ~ 60 minutes. Easy spinning
 
 ### NOTES
-Total Time: **100 minutes** &nbsp; Swim: **2200m**
-
+Total Time: **100 minutes** &nbsp; Swim: **2200m**   
 Work was still on my mind at 0300 this morning.
 <!---->
 Given that I was awake anyway, I did a bit of extra research and sent off an email _before_ pedalling to the pool.
