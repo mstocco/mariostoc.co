@@ -121,9 +121,9 @@ Given that I was awake anyway, I did a bit of extra research and sent off an ema
 
 Once in the water, I calmed down and got to work.  The lanes were pretty open this morning compared to recent days and I was able to take advantage of that when it came to the fixed time reps (leaving every 2:15).
 
-Those 8 fixed time reps were paced fairly consistently:   **1:51**, **1:52**, **1:51**, **1:49**, **1:52**, **1:52**, **1:48** and finished with a **1:47.6** ![Swim Paces](/assets/jpg/swim-20210505.jpeg)
+Those 8 fixed time reps were paced fairly consistently:   **1:51**, **1:52**, **1:51**, **1:49**, **1:52**, **1:52**, **1:48** and finished with a **1:47.6** 
 
-Garmin thinks I set a PR for the 400m but I won't count it because I was using a buoy.
+![Swim Paces](/assets/jpg/swim-20210505.jpeg) Garmin thinks I set a PR for the 400m (7:27) but I won't count it because I was using a buoy.
 
 I rode home after the swim and jumped on the rollers with the TT Bike in the garage.  I wanted to be close to home because we have the plumbers scheduled for this morning to work in the bathroom and I have meetings scheduled for work.
 
