@@ -81,7 +81,7 @@ _Slow ride, take it easy_...
 
 
 <!---->
-## TUESDAY MAY THE 4TH <small>be with you, always.</small>  ⛅️
+## TUESDAY MAY THE 4TH <span style="font-size:0.5em">be with you, always.</span>  ⛅️
 Sleep **3** | Fatigue **3** | Stress **6** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
