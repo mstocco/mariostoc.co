@@ -95,9 +95,11 @@ Ride 75 minutes. Spin 20-25 minutes easy. (Towards Mill hill) 5x 3:00 #1: Steady
 Run 30 minutes easy. This can be off the bike, but it can also be to start/end the day.
 
 ### NOTES
-Total Time: **0 minutes**
+<mark>Total Time: **0 minutes** &nbsp;</mark>
 
 My right ankle is experiencing some lingering soreness (run on [Sunday](javascript:flick('sun');)) and my piriformis (left) continues to hint that it still needs consideration, even though it felt good [yesterday](javascript:flick('mon');) after the swim and short ride home.
+
+This day went from good to bad in one afternoon.  Exactly the opposite of what work is trying to accomplish with separating me from technical support happened again and before I knew it, I was missing a training day.
 
 <!---->
 ### Easy Run
@@ -107,8 +109,8 @@ My right ankle is experiencing some lingering soreness (run on [Sunday](javascri
 &mdash;
 
 <!---->
-## WEDNESDAY CINCO DE MAYO
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## WEDNESDAY CINCO DE MAYO ⛅️
+Sleep **5** | Fatigue **2** | Stress **5** | Soreness **2**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -127,10 +129,18 @@ Swim 2200:
 Bike commute home. Long way ~ 60 minutes. Easy spinning
 <!---->
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **100 minutes** &nbsp; Swim: **2200m**
 
-&mdash; 
+Work was still on my mind a 0300 and I did get a bit of extra research and an email before pedalling to the pool.
 
+Once in the water, I calmed down and got to work.  The lanes were pretty open this morning compared to recent days and I was able to take advantage of that when it came to the fixed time reps (leaving every 2:15).
+
+Those 8 fixed time reps were paced fairly consistently:   
+1:51, 1:52, 1:51, 1:49, 1:52, 1:52, 1:48 and finished with a 1:47.6
+
+Garmin thinks I set a PR for the 400m but I won't count it because I was using a buoy.
+
+I rode home after the swim and jumped on the rollers with the TT Bike in the garage.  I wanted to be close to home because we have the plumbers scheduled for this morning to work in the bathroom and I have meetings scheduled for work.
 
 <!---->
 ## THURSDAY MAY 06
