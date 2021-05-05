@@ -90,23 +90,14 @@ Sleep **3** | Fatigue **3** | Stress **4** | Soreness **4**
 -->
 
 ### PLANNED WORKOUT
-Day 1 TAC Routine.  
-Ride 75 minutes. Spin 20-25 minutes easy. (Towards Mill hill) 5x 3:00 #1: Steady climbing to warm up. #2-5 @ a touch easier than 20k effort, 2-3 minutes easy after each. 20-25 minutes easy riding to cool down.  
-Run 30 minutes easy. This can be off the bike, but it can also be to start/end the day.
+Day 1 TAC Routine.  Ride 75 minutes. Spin 20-25 minutes easy. (Towards Mill hill) 5x 3:00 #1: Steady climbing to warm up. #2-5 @ a touch easier than 20k effort, 2-3 minutes easy after each. 20-25 minutes easy riding to cool down.  Run 30 minutes easy. This can be off the bike, but it can also be to start/end the day.
 
 ### NOTES
 <mark>Total Time: **0 minutes** &nbsp;</mark>
 
 My right ankle is experiencing some lingering soreness (run on [Sunday](javascript:flick('sun');)) and my piriformis (left) continues to hint that it still needs consideration, even though it felt good [yesterday](javascript:flick('mon');) after the swim and short ride home.
 
-This day went from good to bad at 11am.  Work is trying to remove me from technical support duties but it happened again.  I worked late and missed another training day.
-
-<!---->
-### Easy Run
-&mdash;
-
-### Hill Repeats 
-&mdash;
+This day went from good to bad at 11am.  Work is trying to remove me from technical support duties but...  I worked late and missed another training day.
 
 <!---->
 ## WEDNESDAY CINCO DE MAYO ⛅️
