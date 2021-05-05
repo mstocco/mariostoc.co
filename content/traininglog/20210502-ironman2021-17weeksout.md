@@ -81,12 +81,12 @@ _Slow ride, take it easy_...
 
 
 <!---->
-## TUESDAY MAY THE 4TH  ⛅️
-Sleep **3** | Fatigue **3** | Stress **4** | Soreness **4**  
+## TUESDAY MAY THE 4TH <small>be with you, always.</small>  ⛅️
+Sleep **3** | Fatigue **3** | Stress **6** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 <!--
-<span class="agencyvc">Happy Star Wars Day</span> &nbsp; <small>-_May the fourth be with you, always._</small>
+<span class="agencyvc">Happy Star Wars Day</span> &nbsp; 
 -->
 
 ### PLANNED WORKOUT
