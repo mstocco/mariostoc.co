@@ -101,10 +101,10 @@ Sleep **5** | Fatigue **2** | Stress **5** | Soreness **2**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-5:30am:   Swim 2200: 
+5:30am:   **Swim 2200**: 
 2x 50 easy free. 2x 50 steady w/ buoy. 2x 50 steady kick. R :15. 
 4x 50 as 20 meters strong/30 meters easy/relaxed. r :20. 
-8x 100 Best effort. Trying to hold the best pace you can for all six reps combined. aka: Total time adds up to the fastest average. Leaving on the 2:15. (You start ever rep 2:15 after the start of the previous rep) 
+8x 100 Best effort. Trying to hold the best pace you can for all six reps combined. aka: Total time adds up to the fastest average. **Leaving on the 2:15**. (You start ever rep 2:15 after the start of the previous rep) 
 2x 50 super duper easy. 
 2x 50 steady kick r :20. 2x 50 easy swim w/ buoy. r :20, 2x 50 easy/steady swim. r :20. 
 400 continuous swim w/ buoy. Trying to finish each stroke well. (That will be hard after the main set!) 
@@ -115,8 +115,10 @@ Bike commute home. Long way ~ 60 minutes. Easy spinning
 
 ### NOTES
 Total Time: **100 minutes** &nbsp; Swim: **2200m**
+
+Work was still on my mind at 0300 this morning.
 <!---->
-Work was still on my mind a 0300 and I did get a bit of extra research and an email _before_ pedalling to the pool.
+Given that I was awake anyway, I did a bit of extra research and sent off an email _before_ pedalling to the pool.
 
 Once in the water, I calmed down and got to work.  The lanes were pretty open this morning compared to recent days and I was able to take advantage of that when it came to the fixed time reps (leaving every 2:15).
 
