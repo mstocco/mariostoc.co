@@ -114,11 +114,11 @@ Swim 2200:
 2x 50 super easy to cool down. 
    
 Bike commute home. Long way ~ 60 minutes. Easy spinning
-<!---->
+
 ### NOTES
 Total Time: **100 minutes** &nbsp; Swim: **2200m**
-
-Work was still on my mind a 0300 and I did get a bit of extra research and an email before pedalling to the pool.
+<!---->
+Work was still on my mind a 0300 and I did get a bit of extra research and an email _before_ pedalling to the pool.
 
 Once in the water, I calmed down and got to work.  The lanes were pretty open this morning compared to recent days and I was able to take advantage of that when it came to the fixed time reps (leaving every 2:15).
 
