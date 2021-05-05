@@ -99,7 +99,7 @@ Run 30 minutes easy. This can be off the bike, but it can also be to start/end t
 
 My right ankle is experiencing some lingering soreness (run on [Sunday](javascript:flick('sun');)) and my piriformis (left) continues to hint that it still needs consideration, even though it felt good [yesterday](javascript:flick('mon');) after the swim and short ride home.
 
-This day went from good to bad in one afternoon.  Exactly the opposite of what work is trying to accomplish with separating me from technical support happened again and before I knew it, I was missing a training day.
+This day went from good to bad at 11am.  Work is trying to remove me from technical support duties but it happened again.  I worked late and missed another training day.
 
 <!---->
 ### Easy Run
