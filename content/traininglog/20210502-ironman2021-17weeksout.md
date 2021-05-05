@@ -120,8 +120,7 @@ Work was still on my mind a 0300 and I did get a bit of extra research and an em
 
 Once in the water, I calmed down and got to work.  The lanes were pretty open this morning compared to recent days and I was able to take advantage of that when it came to the fixed time reps (leaving every 2:15).
 
-Those 8 fixed time reps were paced fairly consistently:   
-1:51, 1:52, 1:51, 1:49, 1:52, 1:52, 1:48 and finished with a 1:47.6
+Those 8 fixed time reps were paced fairly consistently:   **1:51**, **1:52**, **1:51**, **1:49**, **1:52**, **1:52**, **1:48** and finished with a **1:47.6**
 
 Garmin thinks I set a PR for the 400m but I won't count it because I was using a buoy.
 
