@@ -128,45 +128,51 @@ Those 8 fixed time reps were paced fairly consistently:   **1:51**, **1:52**, **
 I rode home after the swim and jumped on the rollers with the TT Bike for 30 minutes.  I wanted to be close to home because we have the plumbers scheduled for this morning to work in the bathroom and I have meetings scheduled for work.
 
 <!---->
-## THURSDAY MAY 06
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## THURSDAY MAY 6 ☁️
+Sleep **3** | Fatigue **2** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Day 2 TAC Routine. 
+Day 2 TAC Routine.  
 Ride 60 minutes EASY. Whatever bike you like. Inside or outside. Just make sure it's easy.   
-Run 45 minutes. A few hills. But generally an easy effort. 
+Run 45 minutes. A few hills. But generally an easy effort.
 
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+When I woke this morning, the sorest body part was my right ankle; I'll be paying attention on the run later in the day.  Second, I received the email letting me know that my vaccine is in town!   I am now booked for my shot next [Thursday](ironman2021-16weeksout?thu) at 1030.  
 
 
 <!---->
-## FRIDAY MAY 07
+## FRIDAY MAY 7
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 Run 30 minutes easy and flat.
 
-3:30pm: Swim.....Plan is to swim. 
-But we will talk before this. And I'll see how the swims are going then.
+3:30pm: Swim 2100: 
+4 rounds (50 easy free, 25 Fist drill r :10) 
+4 rounds (50 swim w/ lots of rotation/tight kick, 50 stead kick w/ board r :15) 
+8x 125 Descend 1-4, 5-8 #1/5 @ "good form/relaxed", #4/8 @ Strong but sustainable for at least 500 meters. R :30 
+12x 25 Odds: FAST, Evens: EASY. r :15. 
+100 super easy to cool down. 
 
 ### NOTES
 Total Time: **0 minutes**
 
 &mdash; 
 
-
 <!---->
-## SATURDAY MAY 08
+## SATURDAY MAY 8
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-<sup>pending...</sup>
+Day 1 TAC Routine.    
+Ride 3:15 on TT bike. Same deal as last week. Flat to rolling route. Spending a bit of time in the bars. 
+Goal: 800-850 calories (a touch more than last week) 
+Easy to steady effort. Stay hydrated! Stop to pee if needed!
 
 ### NOTES
 Total Time: **0 minutes**
