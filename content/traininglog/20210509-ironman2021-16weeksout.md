@@ -86,7 +86,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ![BC COVID-19 Immunization](/assets/jpg/vacbanner-20210513.jpeg)
-<strong style="color:navy;">Vaccine Appointment scheduled for 1030 @Archie Browning Arena</strong><hr />
+<span style="color:midnightblue;">Vaccine Appointment scheduled for 1030 @Archie Browning Arena</span><hr />
 
 ### PLANNED WORKOUT
 5:30am: Swim 2100: 
