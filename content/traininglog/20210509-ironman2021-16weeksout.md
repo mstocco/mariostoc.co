@@ -85,7 +85,7 @@ Total Time: **0 minutes**
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
-![BC COVID-19 Immunization](/assets/vacbanner-20210513.jpeg)
+![BC COVID-19 Immunization](/assets/jpg/vacbanner-20210513.jpeg)
 Vaccine administration scheduled for 1030 @Archie Browning Arena
 
 ### PLANNED WORKOUT
