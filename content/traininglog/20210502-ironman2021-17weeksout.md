@@ -144,7 +144,6 @@ When I woke this morning, the sorest body part was my right ankle; I'll be payin
 
 If I knew it was going to be windy this afternoon, I may have put my sneakers on before work instead of after work.  On the backside of _Craigflower Hill_, needed to put effort into the downhill because the headwind was that strong.  
 <!---->
-### Easy KM Splits
 ![Run Paces](/assets/jpg/run-20210506.jpeg)
 I started to feel good after 24 minutes and things felt light and easy until the end.
  
