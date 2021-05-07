@@ -179,6 +179,7 @@ Total Time: **0 minutes**
 
 Slept in to 0645 before my first work call at 0700.
 
+First sore throat in a very long time (worrisome).
 
 <!---->
 ## SATURDAY MAY 8
