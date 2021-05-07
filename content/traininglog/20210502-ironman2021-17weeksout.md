@@ -142,6 +142,10 @@ Total Time: **0 minutes**
 
 When I woke this morning, the sorest body part was my right ankle; I'll be paying attention on the run later in the day.  Second, I received the email letting me know that my vaccine is in town!   I am now booked for my shot next [Thursday](ironman2021-16weeksout?thu) at 1030.  
 
+![Run Paces](/assets/jpg/run-20210506.jpeg)
+
+<!---->
+If I knew it was going to be windy this afternoon, I may have put my sneakers on before work instead of after work.  On the backside of _Craigflower Hill_, needed to put effort into the downhill because the headwind was that strong.  I started to feel good after 24 minutes and things felt light and easy until the end.
 
 <!---->
 ## FRIDAY MAY 7
