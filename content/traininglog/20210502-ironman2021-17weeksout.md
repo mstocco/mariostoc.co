@@ -127,7 +127,9 @@ Those 8 fixed time reps were paced fairly consistently:   **1:51**, **1:52**, **
 
 ---
 
-I rode home after the swim and jumped on the rollers with the TT Bike for 30 minutes.  I wanted to be close to home because we have the plumbers scheduled for this morning to work in the bathroom and I have meetings scheduled for work.
+I rode home after the swim and spent 30 minutes on the rollers with the TT Bike.
+
+I wanted to be close to home because we have plumbers scheduled this morning to work on our bathroom project and I have work meetings scheduled.
 
 <!---->
 ## THURSDAY MAY 6 ☁️
