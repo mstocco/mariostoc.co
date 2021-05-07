@@ -153,7 +153,7 @@ I started to feel good after 24 minutes and things felt light and easy until the
  
  ---
 
-Late start to getting on the bike, but I did get 50 minutes on the rollers (with the TT bike) starting after 2115.  Effort was light on the pedals, low heartrate, just time sitting on the pubic rami bones.  No problem falling asleep tonight.
+Late start to getting on the bike, but I did get 50 minutes on the rollers (with the TT bike) starting after 2115.  Effort was light on the pedals, low heart rate, just time sitting on the pubic rami bones. &mdash; No problem falling asleep tonight.
 
 <!---->
 ## FRIDAY MAY 7 🌤
