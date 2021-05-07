@@ -142,7 +142,7 @@ Ride 60 minutes EASY. Whatever bike you like. Inside or outside. Just make sure 
 Run 45 minutes. A few hills. But generally an easy effort.
 
 ### NOTES
-Total Time: **46 minutes** 
+Total Time: **96 minutes** 
 
 When I woke this morning, the sorest body part was my right ankle; I'll be paying attention on the run later in the day.
 
