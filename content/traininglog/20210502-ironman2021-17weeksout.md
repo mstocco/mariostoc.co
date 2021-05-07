@@ -149,10 +149,11 @@ I started to feel good after 24 minutes and things felt light and easy until the
  
  ---
 
+Late start to getting on the bike, but I did get 50 minutes on the rollers (with the TT bike) starting after 2115.  Effort was light on the pedals, low heartrate, just time sitting on the pubic rami bones. 
 
 <!---->
-## FRIDAY MAY 7
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## FRIDAY MAY 7 🌤
+Sleep **3** | Fatigue **2** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -168,7 +169,8 @@ Run 30 minutes easy and flat.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Slept in to 0645 before my first work call at 0700.
+
 
 <!---->
 ## SATURDAY MAY 8
