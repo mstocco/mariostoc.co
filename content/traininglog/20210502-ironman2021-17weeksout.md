@@ -125,6 +125,8 @@ Those 8 fixed time reps were paced fairly consistently:   **1:51**, **1:52**, **
 
 ![Swim Paces](/assets/jpg/swim-20210505.jpeg) Garmin thinks I set a PR for the 400m (7:27) but I won't count it because I was using a buoy.
 
+---
+
 I rode home after the swim and jumped on the rollers with the TT Bike for 30 minutes.  I wanted to be close to home because we have the plumbers scheduled for this morning to work in the bathroom and I have meetings scheduled for work.
 
 <!---->
