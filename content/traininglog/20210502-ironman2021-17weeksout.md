@@ -138,15 +138,17 @@ Ride 60 minutes EASY. Whatever bike you like. Inside or outside. Just make sure 
 Run 45 minutes. A few hills. But generally an easy effort.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **46 minutes** 
 
-When I woke this morning, the sorest body part was my right ankle; I'll be paying attention on the run later in the day.  Second, I received the email letting me know that my vaccine is in town!   I am now booked for my shot next [Thursday](ironman2021-16weeksout?thu) at 1030.  
+When I woke this morning, the sorest body part was my right ankle; I'll be paying attention on the run later in the day.  Second, I received the email letting me know that vaccine age cohort is up next.   I am booked for my shot next [Thursday](ironman2021-16weeksout?thu) at 1030!
 
 If I knew it was going to be windy this afternoon, I may have put my sneakers on before work instead of after work.  On the backside of _Craigflower Hill_, needed to put effort into the downhill because the headwind was that strong.  
 <!---->
-### Easy Kilometre Splits
+### Easy KM Splits
 ![Run Paces](/assets/jpg/run-20210506.jpeg)
 I started to feel good after 24 minutes and things felt light and easy until the end.
+ 
+ ---
 
 
 <!---->
