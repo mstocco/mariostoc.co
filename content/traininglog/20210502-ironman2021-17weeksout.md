@@ -129,7 +129,7 @@ I rode home after the swim and jumped on the rollers with the TT Bike for 30 min
 
 <!---->
 ## THURSDAY MAY 6 ☁️
-Sleep **3** | Fatigue **2** | Stress **2** | Soreness **4**  
+Sleep **3** | Fatigue **2** | Stress **5** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -140,10 +140,14 @@ Run 45 minutes. A few hills. But generally an easy effort.
 ### NOTES
 Total Time: **46 minutes** 
 
-When I woke this morning, the sorest body part was my right ankle; I'll be paying attention on the run later in the day.  Second, I received the email letting me know that vaccine age cohort is up next.   I am booked for my shot next [Thursday](ironman2021-16weeksout?thu) at 1030!
+When I woke this morning, the sorest body part was my right ankle; I'll be paying attention on the run later in the day.
 
-If I knew it was going to be windy this afternoon, I may have put my sneakers on before work instead of after work.  On the backside of _Craigflower Hill_, needed to put effort into the downhill because the headwind was that strong.  
+Second, I received the email letting me know that vaccine age cohort is up next.   I am booked for my shot next [Thursday](ironman2021-16weeksout?thu) at 1030!
+
+I am re-rating the stress score for today given the type of project that I have been pulled into at work.  This was a long day on the phone and a longer day on the computer.
 <!---->
+If I knew it was going to be windy this afternoon, I may have put my sneakers on before work instead of after work.  On the backside of _Craigflower Hill_, needed to put effort into the downhill because the headwind was that strong.  
+
 ![Run Paces](/assets/jpg/run-20210506.jpeg)
 I started to feel good after 24 minutes and things felt light and easy until the end.
  
