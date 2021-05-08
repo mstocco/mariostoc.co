@@ -7,9 +7,8 @@ Week beginning [Sunday, May 2, 2021](javascript:flick('sun');)
 I am keeping an eye on stress, fatigue and my left piriformis.  Looks like nice weather is back this week too.
 
 ## SUMMARY
-I feel I like was...  
-<sup>(completed at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel I like was **ENCROACHED UPON** <small>(work commitments)</small>
+
 
 
 ![Wednesday was mostly cloudy but the skies began to clear for this beautiful end of day.](/assets/jpg/IMG_0683-977x550.jpeg SUNSET OVER TUNNEL HILL, MALAHAT, BC)
@@ -175,15 +174,23 @@ Run 30 minutes easy and flat.
 100 super easy to cool down. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **53 minutes** &nbsp; Swim: **2100m**
 
 Slept in to 0645 before my first work call at 0700.
 
 First sore throat in a very long time (worrisome).
 
+The swim in the 25m pool was a descent workout.  The main 8x125 went off-script a little bit.  The first was relaxed at but then I noticed that I touched the wall at **2:19.6** for two and three.   The remaining sets I tried to repeat that same feeling and effort.  The balance of the set ended with a **2:19.6**, **2:18.8**, **2:17.8**, **2:18.0** and finally **2:20.2**.
+
+The work put into the 6 FAST 25m lengths were fun and all came in sub-20 seconds.  I seems like just a month ago, 21 seconds was my best effort for the same set.
+
+Before I got home, work got a hold of me.  It was by phone call and not a late Friday email that I could have pretended to ignore.  Apart from a quick dinner, I was on the computer to well past midnight.  Visibility on this effort at work extends all the way to my VP so...  
+
+I missed the 30 minute run.
+
 <!---->
 ## SATURDAY MAY 8
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **4** | Fatigue **3** | Stress **5** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -195,4 +202,4 @@ Easy to steady effort. Stay hydrated! Stop to pee if needed!
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Piriformis has been ok all week until this morning.
