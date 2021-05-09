@@ -210,9 +210,9 @@ Calories for the bike ride(s) worked out be a total of 242g.  3x54g per bottle a
 
 That third bottle needed a home on my bike so I took the time to install the rear hydration system.  I rigged up a bungee to help prevent loosing bottles off the back too.
 <!---->
-Honestly, I really did NOT want to ride today.
+Honestly, I really **did not want to ride today**.
 
-By the time I was done with work, chores and Saturday, it was almost 1400 and the weather had turned; dark clouds, the same cold wind and the odd drop rain.  Every block further from home was the question, "Should I turn back?"
+By the time I was done with work, chores and Saturday, it was almost 1400 and the weather had turned; dark clouds, the same cold wind and the odd drop rain.  Every block ridden further was the question, "Should I turn back?"
 
 This feeling continued once out of the neighbourhood and on the bike path.  Eventually, the question morphed into a statement like "I will ride outside for only an hour."
 
