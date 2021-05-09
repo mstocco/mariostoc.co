@@ -234,7 +234,7 @@ Luck with the rain began to run out at _Cadboro Bay_.  I rode a couple laps of _
 
 After another a quick bio-break, I had the TT Bike in the garage to pedal the last 40 minutes or so.  Not more than a couple minutes on the rollers and it was apparent that more vaseline was required.  Even after more vaseline was applied, it was apparent that I'd need to swap out 2XU for Castelli.  That worked wonders.
 
-One last stop for another pee, I ended this unconventional ride with about 56 minutes of indoor pedalling and a satisfying feeling that I got it done.
+One last stop for another pee, I ended the day with about 56 minutes of indoor pedalling and a **satisfying feeling** that I got today's work done (albeit unconventionally).
 
 
 
