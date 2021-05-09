@@ -220,7 +220,7 @@ Riding along _Cordova Bay Road_, I got passed by a roadie and by that point, I h
 
 ![Ride Map](/assets/jpg/ridemap-20210508.jpeg)
 <!---->
-In _Sidney_, I did turn around.  The clouds were getting even darker at this end of the peninsula.  Up until this point, I had been blown north with a strong tailwind and it was time to man up and work the headwind south.  I was surprised to find that the headwind really wasn't that bad; hooray for aerobars!
+In _Sidney_, I made the turn back south.  The clouds were getting even darker at this end of the peninsula.  Up until this point, I had been blown north with a strong tailwind and it was time to man up and work the headwind south.  I was surprised to find that the headwind really wasn't that bad; hooray for aerobars!
 
 Getting back to _Royal Oak Drive_, I decided that I was doing well with the headwind and that I could continue south; I planned on riding the full waterfront with the rest of the time I had.  I turned out of the _Mount Doug Park_ area on to _Ash Road_ when (before the hill), I found a spot for a bio break.
 
