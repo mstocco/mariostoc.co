@@ -206,7 +206,7 @@ Total Moving Time: **208 minutes**
 
 Piriformis has been ok all week until this morning.  
 
-Calories for the bike ride(s) worked out be a total of 242g.  3x54g per bottle and 80g of Maynards (watermelon).
+Calories for the bike ride(s) worked out be a total of 242g.  3x54g per bottle and 80g of Maynards (watermelon). &mdash;_No GI today._
 
 That third bottle needed a home on my bike so I took the time to install the rear hydration system.  I rigged up a bungee to help prevent loosing bottles off the back too.
 <!---->
