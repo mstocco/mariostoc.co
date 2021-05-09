@@ -178,9 +178,9 @@ Total Time: **53 minutes** &nbsp; Swim: **2100m**
 
 Slept in to 0645 before my first work call at 0700.
 
-First sore throat in a very long time (worrisome).
+First time in what feels like forever, I have a hint of a sore throat today.  That is worrisome considering that I am a week away from receiving a vaccine.  I am probably overthinking this and it is probably just the added stress from work.
 
-I felt like I had a descent workout in the pool.  
+Maybe I shouldn't have gone to the pool; regardless, I felt like I had a descent swim workout this afternoon.
 <!---->
 The main 8x125 went off-script a little bit.  The first was relaxed at but then I noticed that I touched the wall at **2:19.6** for two and three.   The remaining sets I tried to repeat that same feeling and effort.  The balance of the set ended with a **2:19.6**, **2:18.8**, **2:17.8**, **2:18.0** and finally **2:20.2**.
 
