@@ -224,11 +224,12 @@ In _Sidney_, I did turn around.  The clouds were getting even darker at this end
 
 Getting back to _Royal Oak Drive_, I decided that I was doing well with the headwind and that I could continue south; I planned on riding the waterfront done with the rest of the time I had.  I turned out of the Mount Doug Park area on to Ash Road when (before the hill), I found a spot for a bio break.
 
-Descending the hill on Ash Road, I see _+70kph_ on my road bide; today I am going in the opposite direction.  I shifted my rear derailleur into the easiest gear and got to work.  At the crest of the hill, I caught a glimpse of my left aero bar; I had pedalled up the hill, cross-chaining in the "big ring".   
-<small>**Note to self:**  Don't do that up _Richter Pass_.</small>
+Descending the hill on Ash Road, I see _+70kph_ on my road bide; today I am going in the opposite direction.  I shifted my rear derailleur into the easiest gear and got to work.  At the crest of the hill, I caught a glimpse of my left aero bar; I had pedalled up the hill, cross-chaining in the "big ring".
 
-Luck with the rain began to run out at _Cadboro Bay_.  I rode a couple laps of _Ring Road_ just to see if the precipitation was going to stop or if I was heading for home.  I was just over 2 hours into the ride and 2 bottles of lemonade consumed (most of my watermelon sours gone too).  I decided to head home.
+**Note to self:**  Don't do that up _Richter Pass_.
 <!---->
+Luck with the rain began to run out at _Cadboro Bay_.  I rode a couple laps of _Ring Road_ just to see if the precipitation was going to stop or if I was heading for home.  I was just over 2 hours into the ride and 2 bottles of lemonade consumed (most of my watermelon sours gone too).  I decided to head home.
+
 ![Ride Elevation Profile](/assets/jpg/ride-elev-20210508.jpeg)
 
 After another a quick bio-break, I had the TT Bike in the garage to pedal the last 40 minutes or so.  Not more than a couple minutes on the rollers and it was apparent that more vaseline was required.  Even after more vaseline was applied, it was apparent that I'd need to swap out 2XU for Castelli.  That worked wonders.
