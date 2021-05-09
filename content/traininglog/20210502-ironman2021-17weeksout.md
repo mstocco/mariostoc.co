@@ -212,7 +212,7 @@ That third bottle needed a home on my bike so I took the time to install the rea
 <!---->
 Honestly, I really **did not want to ride today**.
 
-By the time I was done with work, chores and Saturday, it was almost 1400 and the weather had turned; dark clouds, the same cold wind and the odd drop rain.  Every block ridden further was the question, "Should I turn back?"
+By the time I was done with work, chores and Saturday, it was almost 1400 and the weather had turned; dark clouds, cold wind and the odd drop rain.  Every block ridden further from home was the question, "Should I turn back?"
 
 This feeling continued once out of the neighbourhood and on the bike path.  Eventually, the question morphed into a statement like "I will ride outside for only an hour."
 
