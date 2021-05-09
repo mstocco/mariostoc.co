@@ -208,12 +208,16 @@ Calories for the bike ride(s) worked out be a total of 242g.  3x54g per bottle a
 
 That third bottle needed a home on my bike so I took the time to install the rear hydration system.  I rigged up a bungee to help prevent loosing bottles off the back too.
 <!---->
-Honestly, I really did NOT want to ride today.  By the time I was done with work, chores and Saturday, it was almost 1400 and the weather had turned; dark clouds, the same cold wind and the odd drop rain.  Every block further from home was the question, "Should I turn back?"  This feeling continued once out of the neighbourhood and on the bike path.  Eventually, the question morphed into a statement like "I will ride outside for only an hour."
+Honestly, I really did NOT want to ride today.
+
+By the time I was done with work, chores and Saturday, it was almost 1400 and the weather had turned; dark clouds, the same cold wind and the odd drop rain.  Every block further from home was the question, "Should I turn back?"
+
+This feeling continued once out of the neighbourhood and on the bike path.  Eventually, the question morphed into a statement like "I will ride outside for only an hour."
 
 Riding along _Cordova Bay Road_, I got passed by a roadie and by that point, I had all but forgotten about wanting to ditch on this ride.  
 
 In _Sidney_, I did turn around.  The clouds were getting even darker at this end of the peninsula.  Up until this point, I had been blown north with a strong tailwind and it was time to man up and work the headwind south.  I was surprised to find that the headwind really wasn't that bad; hooray for aerobars!
-
+<!---->
 Getting back to _Royal Oak Drive_, I decided that I was doing well with the headwind and that I could continue south; I planned on riding the waterfront done with the rest of the time I had.  I turned out of the Mount Doug Park area on to Ash Road when (before the hill), I found a spot for a bio break.
 
 Ash Road has a hill that I see +70kph on my road bide when descending.  Today I am going in the opposite direction.  I shifted my rear derailleur into the easiest gear and got to work getting up the hill.  At the crest of the hill, I caught a glimpse of my left aero bar; I had pedalled up the hill, cross-chaining in the "big ring".   
