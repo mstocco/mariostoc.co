@@ -7,11 +7,11 @@ Week beginning [Sunday, May 2, 2021](javascript:flick('sun');)
 I am keeping an eye on stress, fatigue and my left piriformis.  Looks like nice weather is back this week too.
 
 ## SUMMARY
-I feel I like was **ENCROACHED UPON** <small>(work)</small>
+I feel I like was **ENCROACHED UPON** <small>(by work)</small>
 
 I missed a [full day](javascript:flick('tue');) of training and a 30 minute run because of work commitments this week.  That has driven my stress levels higher.  The weather wasn't that pleasant either with cold winds coming off the ocean.  I certainly has not felt like the first week of a typical May.
 
-3 good days in the pool an unconventional 3:30 ride on [Saturday](javascript:flick('sat');) are the training highlights of this +10 hour week.
+3 good days in the pool an unconventional 3:30 ride on [Saturday](javascript:flick('sat');) are the training highlights of this **+10 hour week**.
 
 My piriformis did ok through to [Friday](javascript:flick('fri');) but was still pretty lit up after that.
 
