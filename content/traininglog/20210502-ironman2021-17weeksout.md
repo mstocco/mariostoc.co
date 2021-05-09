@@ -226,7 +226,7 @@ Because I was doing well with the headwind, once back at _Royal Oak Drive_, I de
 
 Descending the hill on _Ash Road_, I see _+70kph_ on my road bide; today I am going in the opposite direction.  I shifted my rear derailleur into the easiest gear and got to work.  At the crest of the hill, I caught a glimpse of the shifter on my left aero bar; I had just pedalled up that hill, cross-chaining in the "big ring".  
 
-**Note to self:**  Don't do that up _Richter Pass_.
+<br /><small>**Note to self:**  Don't do that up _Richter Pass_.</small>
 <!---->
 Luck with the rain began to run out at _Cadboro Bay_.  I rode a couple laps of _Ring Road_ just to see if the precipitation was going to stop or if I was heading for home.  I was just over 2 hours into the ride and 2 bottles of lemonade consumed (most of my watermelon sours gone too).  I decided to head home.
 
