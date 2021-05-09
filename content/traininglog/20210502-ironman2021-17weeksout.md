@@ -178,7 +178,7 @@ Total Time: **53 minutes** &nbsp; Swim: **2100m**
 
 Slept in to 0645 before my first work call at 0700.
 
-First time in what feels like forever, I have a hint of a sore throat today.  That is worrisome considering that I am a week away from receiving a vaccine.  I am probably overthinking this and it is probably just the added stress from work.
+First time in what feels like forever, I have a hint of a sore throat today.  Worrisome considering that I am a week away from receiving a vaccine.  I am probably overthinking this and it is probably just the added stress from work.
 
 Maybe I shouldn't have gone to the pool; regardless, I felt like I had a descent swim workout this afternoon.
 <!---->
