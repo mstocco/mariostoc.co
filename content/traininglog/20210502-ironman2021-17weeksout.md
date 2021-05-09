@@ -200,6 +200,27 @@ Goal: 800-850 calories (a touch more than last week)
 Easy to steady effort. Stay hydrated! Stop to pee if needed!
 
 ### NOTES
-Total Time: **0 minutes**
+Total Moving Time: **208 minutes** 
 
-Piriformis has been ok all week until this morning.
+Piriformis has been ok all week until this morning.  
+
+Calories for the bike ride(s) worked out be a total of 242g.  3x54g per bottle and 80g of Maynards (watermelon).
+
+That third bottle needed a home on my bike so I took the time to install the rear hydration system.  I rigged up a bungee to help prevent loosing bottles off the back too.
+
+Honestly, I really did NOT want to ride today.  By the time I was done with work, chores and Saturday, it was almost 1400 and the weather had turned; dark clouds, the same cold wind and the odd drop rain.  Every block further from home was the question, "Should I turn back?"  This feeling continued once out of the neighbourhood and on the bike path.  Eventually, the question morphed into a statement like "I will ride outside for only an hour."
+
+Riding along _Cordova Bay Road_, I got passed by a roadie and by that point, I had all but forgotten about wanting to ditch on this ride.  
+
+In _Sidney_, I did turn around.  The clouds were getting even darker at this end of the peninsula.  Up until this point, I had been blown north with a strong tailwind and it was time to man up and work the headwind south.  I was surprised to find that the headwind really wasn't that bad; hooray for aerobars!
+
+Getting back to _Royal Oak Drive_, I decided that I was doing well with the headwind and that I could continue south; I planned on riding the waterfront done with the rest of the time I had.  I turned out of the Mount Doug Park area on to Ash Road when (before the hill), I found a spot for a bio break.
+
+Ash Road has a hill that I see +70kph on my road bide when descending.  Today I am going in the opposite direction.  I shifted my rear derailleur into the easiest gear and got to work getting up the hill.  At the crest of the hill, I caught a glimpse of my left aero bar; I had pedalled up the hill, cross-chaining in the "big ring".   
+Note to self:  Don't do that on _Richter Pass_.
+
+Luck with the rain began to run out at _Cadboro Bay_.  I rode a couple laps of _Ring Road_ just to see if the precipitation was going to stop or if I was heading for home.  I was just over 2 hours into the ride and 2 bottles of lemonade consumed (most of my watermelon sours gone too).  I decided to head home.
+
+Afternother a quick bio-break, I had the TT Bike in the garage to pedal the last 40 minutes or so.  Not more than a couple minutes on the rollers and it was apparent that more vaseline was required.  Even after more vaseline was applied, it was apparent that I'd need to swap out 2XU for Castelli.  That worked wonders.
+
+After stopping to tend to a chaffing issue and stopping for another bio-break, I ended the indoor portion with about 56 minutes of pedalling.
