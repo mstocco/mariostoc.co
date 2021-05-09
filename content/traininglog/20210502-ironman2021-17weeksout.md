@@ -7,8 +7,11 @@ Week beginning [Sunday, May 2, 2021](javascript:flick('sun');)
 I am keeping an eye on stress, fatigue and my left piriformis.  Looks like nice weather is back this week too.
 
 ## SUMMARY
-I feel I like was **ENCROACHED UPON** <small>(work commitments)</small>
+I feel I like was **ENCROACHED UPON** <small>(work)</small>
 
+I missed a full day of training and a 30 minute run because of work commitments this week.  That has driven my stress levels higher.  The weather wasn't that pleasant either with cold winds coming off the ocean.  I certainly has not felt like the first week of a typical May.
+
+My piriformis did ok through to [Friday](javascript:flick('fri');) but was still pretty lit up after that.
 
 
 ![Wednesday was mostly cloudy but the skies began to clear for this beautiful end of day.](/assets/jpg/IMG_0683-977x550.jpeg SUNSET OVER TUNNEL HILL, MALAHAT, BC)
@@ -191,7 +194,7 @@ The work put into the 6 FAST 25m lengths were fun and all came in sub-20 seconds
 Before I got home, work got a hold of me.  It was by phone call and not a late Friday email that I could have pretended to ignore.  Apart from a quick dinner, I was on the computer to well past midnight.  Visibility on this effort at work extends all the way to my VP so... No 30 minute run.
 
 <!---->
-## SATURDAY MAY 8
+## SATURDAY MAY 8 🌧
 Sleep **4** | Fatigue **3** | Stress **5** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
