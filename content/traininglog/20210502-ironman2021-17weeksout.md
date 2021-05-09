@@ -190,9 +190,7 @@ The work put into the 6 FAST 25m lengths were fun and all came in sub-20 seconds
 
 ---
 
-Before I got home, work got a hold of me.  It was by phone call and not a late Friday email that I could have pretended to ignore.  Apart from a quick dinner, I was on the computer to well past midnight.  Visibility on this effort at work extends all the way to my VP so...  
-
-I missed the 30 minute run.
+Before I got home, work got a hold of me.  It was by phone call and not a late Friday email that I could have pretended to ignore.  Apart from a quick dinner, I was on the computer to well past midnight.  Visibility on this effort at work extends all the way to my VP so... No 30 minute run.
 
 <!---->
 ## SATURDAY MAY 8
