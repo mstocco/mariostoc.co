@@ -4,7 +4,7 @@ Week beginning [Sunday, May 9, 2021](javascript:flick('sun');)
 **16 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-&mdash; 
+Control what I can and if I have to do more before work, do it.
 
 ## SUMMARY
 I feel I like was...  
@@ -14,16 +14,24 @@ I feel I like was...
 
 <!---->
 ## SUNDAY MAY 9
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **4** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 Run 90 minutes. Easy effort. Stay well fueled. Rolling terrain. Panama Flats, Layritz, Elk Lake, Thetis all work.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **80 minutes** &nbsp; Distance: **13 km**
 
-&mdash; 
+Evening lap of Elk Lake.
+
+Couple of brief moments of feeling good but mostly a slog.
+
+Left the park to extend the length of the run knowing that when I get back to my vehicle, the temptation to pack it in would be too great.  Long hill up _Elk Lake Drive_.
+
+Piriformis tired by the ninth kilometre and started to get more irritated by the time I reached the rowing club.
+
+
 
 
 <!---->
