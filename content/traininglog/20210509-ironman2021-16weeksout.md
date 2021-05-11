@@ -71,8 +71,10 @@ Before I left the pool for the 30 minute ride, I spent 38 minutes on a conferenc
 
 With the call over, I pedalled through _Cook Street Village_ to loop the last bit of _Dallas Road_ before getting on a bike path to home.  Easy effort is really the only effort available to me this morning.
 
-This morning's bike of choice was my road bike.  This morning's 1970's song looping in my head:   
-"No Sugar Tonight / New Mother Nature" by _The Guess Who_
+This morning's bike of choice was my road bike.  This morning's 1970's song looping in my head:
+
+**No Sugar Tonight/New Mother Nature**  
+by _The Guess Who_
 
 <!---->
 ## TUESDAY MAY 11
