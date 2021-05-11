@@ -56,7 +56,8 @@ It was cooler this morning or at least it feel cooler riding after a heavy dew l
 
 A couple of things in the pool this morning.
 
-First, the water felt heavy, or more specifically, my arms felt heavy, or even more specifically, my biceps felt heavy.
+First, the water felt heavy, or more specifically, my arms felt heavy, or even more specifically...  
+my biceps felt heavy.
 <!---->
 This was a good workout because, just like the run [yesterday](javascript:flick('sun');), I had to work through some fatigue.  Second, backstroke?  That was new.
 
