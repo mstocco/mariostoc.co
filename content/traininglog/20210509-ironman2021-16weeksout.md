@@ -4,7 +4,7 @@ Week beginning [Sunday, May 9, 2021](javascript:flick('sun');)
 **16 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-Control what I can and if I have to do more before work, do it.
+Control what I can and if I have to get training done before work, then get it done.
 
 ## SUMMARY
 I feel I like was...  
@@ -13,7 +13,7 @@ I feel I like was...
 
 
 <!---->
-## SUNDAY MAY 9
+## SUNDAY MAY 9 🌤
 Sleep **3** | Fatigue **4** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -35,8 +35,8 @@ Piriformis tired by the ninth kilometre and started to get more irritated by the
 
 
 <!---->
-## MONDAY MAY 10
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## MONDAY MAY 10 ☀️
+Sleep **3** | Fatigue **4** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -50,11 +50,15 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 _30 minute easy bike_ commute home. Not too much longer. Big day on [Tuesday](javascript:flick('tue');). 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **95 minutes**
 
-&mdash; 
+It was cooler this morning or at least it feel cooler riding after a heavy dew last night.
 
+A couple of things in the pool this morning.  First, the water felt heavy, or more specifically, my arms felt heavy, or even more specifically, my biceps felt heavy.  This was a good workout because, just like the run [yesterday](javascript:flick('sun');), I had to work through some fatigue.  Second, backstroke?  That was new.
 
+Before I left the pool for the 30 minute ride, I spent 38 minutes on a conference call from work.
+
+With the call over, I pedalled through _Cook Street Village_ to loop the last bit of _Dallas Road_ before getting on a bike path to home.  Easy effort is really the only effort available to me this morning.
 <!---->
 ## TUESDAY MAY 11
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
