@@ -50,7 +50,7 @@ Sleep **3** | Fatigue **4** | Stress **4** | Soreness **3**
 _30 minute easy bike_ commute home. Not too much longer. Big day on [Tuesday](javascript:flick('tue');). 
 
 ### NOTES
-Total Time: **95 minutes**
+Total Time: **95 minutes** &nbsp; Swim: **2300m**
 
 It was cooler this morning or at least it feel cooler riding after a heavy dew last night.
 
@@ -70,6 +70,8 @@ Second, backstroke?  That was new.  My watch could not figure out that pattern a
 Before I left the pool for the 30 minute ride, I spent 38 minutes on a conference call from work.
 
 With the call over, I pedalled through _Cook Street Village_ to loop the last bit of _Dallas Road_ before getting on a bike path to home.  Easy effort is really the only effort available to me this morning.
+
+Bike ridden: **Road Bike**
 <!---->
 ## TUESDAY MAY 11
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
