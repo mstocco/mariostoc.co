@@ -59,7 +59,7 @@ A couple of things in the pool this morning.
 First, the water felt heavy, or more specifically, my arms felt heavy, or even more specifically...  
 my biceps felt heavy.
 <!---->
-This was a good workout because, just like the run [yesterday](javascript:flick('sun');), I had to work through some fatigue.  
+This was a **good workout** because, just like the run [yesterday](javascript:flick('sun');), I had to work through some fatigue.  
 
 Second, backstroke?  That was new.  My watch could not figure out that pattern and creditted me for more than I swam on those lengths.
 
