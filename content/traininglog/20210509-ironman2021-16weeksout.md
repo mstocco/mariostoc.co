@@ -77,8 +77,8 @@ This morning's bike of choice was my road bike.  This morning's 1970's song loop
 by _The Guess Who_
 
 <!---->
-## TUESDAY MAY 11
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## TUESDAY MAY 11 ☀️
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -87,9 +87,10 @@ Ride 80 minutes. Spin 25-30 minutes easy (Maybe a bit extra on the way out vs ba
 Run 30 minutes easy. This can be off the bike, but it can also be to start/end the day. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **31 minutes**
 
-&mdash; 
+What a glorious morning to get a short run in.  Birds chirping, sunshine, 14C and not even a hint of a breeze.  I jogged to the centre of the _Selkirk Trestle_ and pretty much just made this activity diaphramic breathing practice.  I wore my old Nike Zoomfly3 shoes just for fun; those are the pair that I PR'd the 10K, marathon and used in an impromtu, not a race sprint triathlon last August.  They still feel great!
+
 
 
 <!---->
