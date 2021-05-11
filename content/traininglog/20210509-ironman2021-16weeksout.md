@@ -61,7 +61,11 @@ my biceps felt heavy.
 <!---->
 This was a good workout because, just like the run [yesterday](javascript:flick('sun');), I had to work through some fatigue.  
 
-Second, backstroke?  That was new.  My watch could not figure out that pattern and creditted me for more than I swam on those lengths.  ![Swim Chart](/assets/jpg/swim-20210510.jpeg)
+Second, backstroke?  That was new.  My watch could not figure out that pattern and creditted me for more than I swam on those lengths.
+
+![Swim Chart](/assets/jpg/swim-20210510.jpeg)
+
+---
 
 Before I left the pool for the 30 minute ride, I spent 38 minutes on a conference call from work.
 
