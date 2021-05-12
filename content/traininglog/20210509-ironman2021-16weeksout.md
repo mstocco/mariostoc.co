@@ -78,7 +78,7 @@ by _The Guess Who_
 
 <!---->
 ## TUESDAY MAY 11 ☀️
-Sleep **3** | Fatigue **4** | Stress **3** | Soreness **3**  
+Sleep **3** | Fatigue **4** |<mark> Stress **6** </mark>| Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -92,11 +92,11 @@ Total Time: **31 minutes**
 What a glorious morning for a short run; birds chirping, 14°C and no wind.  I jogged to the centre of the _Selkirk Trestle_ and pretty much just made this activity "diaphramic breathing practice".  I wore my old Nike Zoomfly3 shoes just for fun; the same pair that I PR'd the 10K, marathon and used in an impromtu sprint triathlon last August.  They still feel great!
 <!---->
 ### RIDE NOTES
-...
+
 
 <!---->
 ## WEDNESDAY MAY 12
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **2** | Fatigue **2** |<mark> Stress **6** </mark>| Soreness **2**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
