@@ -11,8 +11,8 @@ I feel I like was...
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
+![As a beer league goalie, I stopped many shots in at this hockey arena, Thursday I got the shot that matters.](/assets/jpg/IMG_0695-977x550.jpeg Archie Browning Sports Centre, Esquimalt, BC)
 
-<!---->
 ## SUNDAY MAY 9 🌤
 Sleep **3** | Fatigue **4** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
