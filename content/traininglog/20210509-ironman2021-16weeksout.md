@@ -88,6 +88,9 @@ Total Time: **31 minutes**
 
 What a glorious morning for a short run; birds chirping, 14°C and no wind.  I jogged to the centre of the _Selkirk Trestle_ and pretty much just made this activity "diaphramic breathing practice".  I wore my old Nike Zoomfly3 shoes just for fun; the same pair that I PR'd the 10K, marathon and used in an impromtu sprint triathlon last August.  They still feel great!
 <!---->
+### Selkirk Out and Back
+![Run Map](/assets/jpg/runmap-20210511.jpeg)
+
 ### RIDE NOTES
 The ride did not happen, life did.
 
