@@ -118,8 +118,9 @@ I walked the first hill before hitting the start button on my watch and then set
 
 Emotionally, this run was very much needed.
 <!---->
-### Cedar Hill Golf Course &mdash;x2.75 CCW
+### Cedar Hill Golf Course Trail
 ![Run Map](/assets/jpg/runmap-20210512.jpeg)
+<small>2.75 Loops at roughly 22 and a half minutes per loop</small> 
 
 <!---->
 ## THURSDAY MAY 13
@@ -142,12 +143,14 @@ Long commute home. 60 minutes easy spinning.
 ### NOTES
 Total Time: **120 minutes**
 
-So despite hittting 2 brief red lights, I was sub 9-minutes on the sprint to the pool this morning.
+Despite hitting 2 brief red lights, I was sub 9-minutes on the sprint to the pool this morning.
 <!---->
 Once in the water, I had a good workout.  I did the warm-up in my familiar "continous lane" but the Thursday crowd isn't the Wednesday crowd and decided to move over to the "fast lane" for the main set.
 
 Beautiful morning for an hour's bike ride after the pool.  I rode the waterfront from _Beacon Hill Park_ through _The Uplands_ before turning for home at _Camoson College_.
-   
+
+![The Fast Lane](/assets/jpg/swim-20210513.jpeg)
+
 <!---->
 ## FRIDAY MAY 14
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
