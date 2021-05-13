@@ -143,9 +143,9 @@ Long commute home. 60 minutes easy spinning.
 ### NOTES
 Total Time: **120 minutes** &nbsp; Swim: **2100m**
 
-Despite hitting 2 brief red lights, I was sub 9-minutes on the sprint to the pool this morning.
+Despite hitting 2 brief red lights, I was sub 9-minutes on the commute to the pool this morning.  I was on my road bike
 <!---->
-Once in the water, I had a **good workout**.  The warmup was in my familiar "continous lane" but the Thursday crowd isn't the Wednesday crowd so to avoid some lane congestion, I moved to the "fast lane" for the main set.
+Once in the water, I had a **good workout**.  The warmup was in my familiar "continous lane" but the Thursday crowd isn't the Wednesday crowd; to avoid the lane congestion, I moved to the "fast lane" for the main set.
 
 ![The Fast Lane](/assets/jpg/swim-20210513.jpeg)
 
