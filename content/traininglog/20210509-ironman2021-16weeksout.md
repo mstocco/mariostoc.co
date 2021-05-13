@@ -141,14 +141,16 @@ Ride 10 minutes easy to the pool.
 Long commute home. 60 minutes easy spinning. 
 
 ### NOTES
-Total Time: **120 minutes**
+Total Time: **120 minutes** &nbsp; Swim: **2100m**
 
 Despite hitting 2 brief red lights, I was sub 9-minutes on the sprint to the pool this morning.
 <!---->
-Once in the water, I had a good workout.  I did the warm-up in my familiar "continous lane" but the Thursday crowd isn't the Wednesday crowd and decided to move over to the "fast lane" for the main set.
+Once in the water, I had a **good workout**.  The warmup was in my familiar "continous lane" but the Thursday crowd isn't the Wednesday crowd so to avoid some lane congestion, I moved to the "fast lane" for the main set.
 ![The Fast Lane](/assets/jpg/swim-20210513.jpeg)
 
 Beautiful morning for an hour's bike ride after the pool.  I rode the waterfront from _Beacon Hill Park_ through _The Uplands_ before turning for home at _Camoson College_.
+
+Left shoulder is **sore**.
 
 <!---->
 ## FRIDAY MAY 14
