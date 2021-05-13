@@ -146,7 +146,6 @@ Total Time: **120 minutes**
 Despite hitting 2 brief red lights, I was sub 9-minutes on the sprint to the pool this morning.
 <!---->
 Once in the water, I had a good workout.  I did the warm-up in my familiar "continous lane" but the Thursday crowd isn't the Wednesday crowd and decided to move over to the "fast lane" for the main set.
-
 ![The Fast Lane](/assets/jpg/swim-20210513.jpeg)
 
 Beautiful morning for an hour's bike ride after the pool.  I rode the waterfront from _Beacon Hill Park_ through _The Uplands_ before turning for home at _Camoson College_.
