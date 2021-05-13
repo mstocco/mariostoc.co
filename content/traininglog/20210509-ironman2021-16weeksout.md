@@ -151,7 +151,7 @@ Once in the water, I had a **good workout**.  The warmup was in my familiar "con
 
 Beautiful morning for an hour's bike ride after the pool.  I rode the waterfront from _Beacon Hill Park_ through _The Uplands_ before turning for home at _Camoson College_.
 
-Left shoulder is **sore**.
+Left shoulder is **sore**.   💉
 
 <!---->
 ## FRIDAY MAY 14
