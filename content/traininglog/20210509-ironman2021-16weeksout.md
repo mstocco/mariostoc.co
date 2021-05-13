@@ -31,9 +31,6 @@ Left the park to extend the length of the run knowing that when I get back to my
 
 Piriformis tired by the ninth kilometre and started to get more irritated by the time I reached the rowing club.
 
-
-
-
 <!---->
 ## MONDAY MAY 10 ☀️
 Sleep **3** | Fatigue **4** | Stress **4** | Soreness **3**  
@@ -92,7 +89,13 @@ Total Time: **31 minutes**
 What a glorious morning for a short run; birds chirping, 14°C and no wind.  I jogged to the centre of the _Selkirk Trestle_ and pretty much just made this activity "diaphramic breathing practice".  I wore my old Nike Zoomfly3 shoes just for fun; the same pair that I PR'd the 10K, marathon and used in an impromtu sprint triathlon last August.  They still feel great!
 <!---->
 ### RIDE NOTES
+The ride did not happen, life did.
 
+What started as a good day boiled over with over; commitments from work, the bathroom renovation and not just with me but my sweetheart is going through this too.
+
+Could I have ridden?  Yes.  
+
+Should I have ridden?  I think this was an afternoon and evening that needed engery directed towards us.  There will be plenty of oppertunities to ride in the next coming months.
 
 <!---->
 ## WEDNESDAY MAY 12
@@ -100,9 +103,7 @@ Sleep **2** | Fatigue **2** |<mark> Stress **6** </mark>| Soreness **2**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Day 1 routine AND...     
-20 minute mobility: https://www.youtube.com/watch?v=lPKRiU9u_Hc&t=15s
-
+Day 1 routine AND 20 minute mobility.  
 Run 60 minutes. A few hills, but nothing too steep. Similar terrain to Sunday's run
 
 ### NOTES
