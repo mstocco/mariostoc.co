@@ -106,18 +106,21 @@ Day 1 routine AND...
 Run 60 minutes. A few hills, but nothing too steep. Similar terrain to Sunday's run
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **65 minutes** &nbsp; Distance: **10.25 km**
 
-&mdash; 
+I was out running errands and made that a reason to commute to the _Cedar Hill Rec Centre_ for a chance to run on the cedar chip trail and get some hills in too.   I looked up my lap times from a previous time I ran here (2019?) and I was getting around the golf course in a little over 23 minutes.  
 
+I walked the first hill before hitting the start button on my watch and then settled in for the next hour or so, just enjoying the perfect weather.
+
+Emotionally, this run was very much needed.
 
 <!---->
 ## THURSDAY MAY 13
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **2**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ![BC COVID-19 Immunization](/assets/jpg/vacbanner-20210513.jpeg)
-<span style="color:midnightblue;">Vaccine Appointment scheduled for 1030 @Archie Browning Arena</span><hr />
+<span style="color:midnightblue;">Vaccine Appointment scheduled for 1030 [@Archie Browning Arena](javascript:flkty.select(2);)</span><hr />
 
 ### PLANNED WORKOUT
 5:30am: Swim 2100: 
@@ -130,11 +133,14 @@ Ride 10 minutes easy to the pool.
 Long commute home. 60 minutes easy spinning. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **120 minutes**
 
-&mdash; 
+So despite hittting 2 brief red lights, I was sub 9-minutes on the sprint to the pool this morning.
+<!---->
+Once in the water, I had a good workout.  I did the warm-up in my familiar "continous lane" but the Thursday crowd isn't the Wednesday crowd and decided to move over to the "fast lane" for the main set.
 
-
+Beautiful morning for an hour's bike ride after the pool.  I rode the waterfront from _Beacon Hill Park_ through _The Uplands_ before turning for home at _Camoson College_.
+   
 <!---->
 ## FRIDAY MAY 14
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
