@@ -117,6 +117,9 @@ I was out running errands and made that a reason to commute to the _Cedar Hill R
 I walked the first hill before hitting the start button on my watch and then settled in for the next hour or so, just enjoying the perfect weather.
 
 Emotionally, this run was very much needed.
+<!---->
+### Cedar Hill Golf Course &mdash;x2.75 CCW
+![Run Map](/assets/jpg/runmap-20210512.jpeg)
 
 <!---->
 ## THURSDAY MAY 13
