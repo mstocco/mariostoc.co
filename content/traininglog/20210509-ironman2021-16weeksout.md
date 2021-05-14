@@ -11,7 +11,7 @@ I feel I like was...
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
-![As a beer league goalie, I stopped many shots in at this hockey arena, Thursday I got the shot that matters.](/assets/jpg/IMG_0695-977x550.jpeg Archie Browning Sports Centre, Esquimalt, BC)
+![As a beer league goalie, I stopped many shots at this hockey arena. On Thursday, I got the shot that saves me.](/assets/jpg/IMG_0695-977x550.jpeg Archie Browning Sports Centre, Esquimalt, BC)
 
 ## SUNDAY MAY 9 🌤
 Sleep **3** | Fatigue **4** | Stress **4** | Soreness **3**  
@@ -151,11 +151,11 @@ Once in the water, I had a **good workout**.  The warmup was in my familiar "con
 
 Beautiful morning for an hour's bike ride after the pool.  I rode the waterfront from _Beacon Hill Park_ through _The Uplands_ before turning for home at _Camoson College_.
 
-Left shoulder is **sore**.   💉
+Left shoulder is **very sore**.   💉
 
 <!---->
-## FRIDAY MAY 14
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## FRIDAY MAY 14 ☀️
+Sleep **3** | Fatigue **2** | Stress **3** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -165,7 +165,7 @@ Run 40 minutes. Flat route. EASY effort.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I didn't sleep that well last night because of congestion from renovation sawdust and a really sore shoulder from the inoculation [yesterday](javascript:flick('thu');).  Apart from that, I feel pretty good this morning. 
 
 
 <!---->
