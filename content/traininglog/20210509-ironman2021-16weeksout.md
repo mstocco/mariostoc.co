@@ -174,7 +174,13 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-_pending..._
+Day 1 TAC Routine.  
+Ride 3:30-4:00 on road or TT bike. Longer climbing. aka: Malahat. 
+Stay hydrated. Stay well fueled. Eat early and often. 
+You have an all clear to stop to pee, stop to fill bottles, grab extra food, take photos. 
+Steady effort. Covering the distance efficiently. But hopefully you'll still have some energy left in the tank at the end.   
+Off the bike. 
+Put on your shoes.... run around the block. (Yes, I'm serious) 2 minute jog. How nervous does that make you? How is the stomach? Anything cramping?
 
 ### NOTES
 Total Time: **0 minutes**
