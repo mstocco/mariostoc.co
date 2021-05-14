@@ -18,7 +18,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Day 2 TAC Routine. 
+Run 70 minutes. Running around Elk Lake or a similar trail would be ideal. Easy effort. Spending some time on the feet. 
+aka: Flatter route. No need to go uphills after the long Saturday ride!
 
 ### NOTES
 Total Time: **0 minutes**
@@ -32,7 +34,11 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Short spin to/from pool. 10 minutes each way. 
+5:30am: Swim 2200: 
+3 rounds (100 easy swim r :20, 2x 50 kick/steady r :10, 2x 50 as 25 fist drill/25 strong finish to stroke r :15) 
+8 rounds (50 building from easy to strong, 50 Strong (something you could hold for 400-500 meters), 50 EASY. r :20 after each) 
+2x 50 super easy to cool down well. 
 
 ### NOTES
 Total Time: **0 minutes**
@@ -46,7 +52,10 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+This can be a brick or split. Your choice. It can also be a run-bike brick. Just get in the time. And have fun. 
+Ride 90 minutes. No intervals but.... get in lots of climbs. You could.....ride up Willis point a few times, you could do all the climbs off the waterfront, you could even ride Mount Doug if you wanted. You have 90 minutes. Effort is "easy between climbs". And up the climbs the effort is... "get up the climb". But.... a lot of those climbs are steep enough that the effort to get up them is significant. Just like Tour of Flanders. 
+Run 30 minutes. Easy route. Easy effort. 
+
 
 ### NOTES
 Total Time: **0 minutes**
@@ -60,7 +69,10 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Day 1 TAC Routine.  
+Run 80 minutes. Hilly route. Easy effort. 
+Cedar hill would be great. But you can literally run anywhere with some hills. Thetis, loops around Beacon hill works. Anywhere!
+Have fun on rolling terrain.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -74,7 +86,12 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Short spin to the pool. Easy. 10 minutes. 
+Ride 60 minutes. Long way home. Easy effort. Good day to pick a flat route!
+5:30am: Swim 2500: (if you run out of time, ditch the kick at the end) 
+12x 50 Very gradual descend from 1-4, 5-8, 9-12 from easy to "good form/not too much effort". r :15. 
+5x 300 as 25 strong (effort you could hold for about 1000-1500 meters)/25 relaxed (something you could hold at least 30 minutes) r 1:00. 
+6x 50 steady kick. r :10. 100 easy free to cool down. 
 
 ### NOTES
 Total Time: **0 minutes**
@@ -88,7 +105,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Day 2 TAC Routine.  
+Run 30 minutes. Flat route. EASY effort. Really easy. Followed by......
+10x :20 strides, :40 walk after each. Walk to cool down. 
 
 ### NOTES
 Total Time: **0 minutes**
