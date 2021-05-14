@@ -11,7 +11,7 @@ I feel I like was...
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
-![As a beer league goalie, I stopped many shots at this hockey arena. On Thursday, I got the shot that saves me.](/assets/jpg/IMG_0695-977x550.jpeg Archie Browning Sports Centre, Esquimalt, BC)
+![As a beer league goalie, I stopped many shots at this hockey arena. On Thursday, I got the shot that "saves" me.](/assets/jpg/IMG_0695-977x550.jpeg Archie Browning Sports Centre, Esquimalt, BC)
 
 ## SUNDAY MAY 9 🌤
 Sleep **3** | Fatigue **4** | Stress **4** | Soreness **3**  
