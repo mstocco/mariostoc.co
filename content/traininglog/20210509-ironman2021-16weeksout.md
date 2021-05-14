@@ -165,7 +165,7 @@ Run 40 minutes. Flat route. EASY effort.
 ### NOTES
 Total Time: **0 minutes**
 
-I didn't sleep that well last night because of some congestion from renovation sawdust and a **really sore shoulder** from the inoculation [yesterday](javascript:flick('thu');).  Apart from that, I feel pretty good this morning. 
+I didn't sleep that well last night because of some congestion from sawdust (renovation) and a **really sore shoulder** from the inoculation.  Apart from that, I feel pretty good this morning. 
 
 
 <!---->
