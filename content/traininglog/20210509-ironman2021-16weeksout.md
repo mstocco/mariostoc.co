@@ -173,6 +173,8 @@ Once work was over, I headed to the garage to play _"bike mechanic"_ and see if 
 <!---->
 I started the run after dinner and right as the sun dipped below the mountains.  My left shoulder was sore, my ankles were a bit tight but when the bike path reached _Quadra Street_, I turned the flat route into a rolling route.  It could have just been a feeling to make it home before the end of twilight, but the longer I was running, the **stronger** I felt.
 
+![Run Map](/assets/jpg/runmap-20210514.jpeg)
+
 <!---->
 ## SATURDAY MAY 15 ☀️
 Sleep **2** | Fatigue **3** | Stress **2** | Soreness **3**  
