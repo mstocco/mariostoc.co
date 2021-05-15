@@ -11,6 +11,8 @@ I feel I like was...
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
+On [Tuesday](javascript:flick('tue');), I missed a quality session on the bike but apart from that, this was a * hour week.  
+
 ![As a beer league goalie, I stopped many shots at this hockey arena. On Thursday, I got the shot that "saves" me.](/assets/jpg/IMG_0695-977x550.jpeg Archie Browning Sports Centre, Esquimalt, BC)
 
 ## SUNDAY MAY 9 🌤
@@ -163,14 +165,17 @@ Day 2 TAC Routine.
 Run 40 minutes. Flat route. EASY effort.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **42 minutes** &nbsp; Distance: **7 km**
 
-I didn't sleep that well last night because of some congestion from sawdust (renovation) and a **really sore shoulder** from the inoculation.  Apart from that, I feel pretty good this morning. 
+I didn't sleep that well last night because of some congestion from sawdust (renovation) and a **really sore shoulder** from the inoculation.  Apart from that, I feel pretty good this morning.
 
+A lot of futzing with moving gears around on my bikes was to no avail.  I'll need to rethink how I'll get a 30 tooth cassette to work with a derailleur designed to only to reach a 28 tooth gear.
+
+I started the run after dinner and right as the sun dipped below the mountains.  My left shoulder was sore, my ankles were a bit tight but when the bike path reached _Quadra Street_, I turned the flat route into a rolling route.  It could have just been a feeling to make it home before the end of twilight, but the longer I was running, the **stronger** I felt.
 
 <!---->
-## SATURDAY MAY 15
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## SATURDAY MAY 15 ☀️
+Sleep **2** | Fatigue **3** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -185,4 +190,4 @@ Put on your shoes.... run around the block. (Yes, I'm serious) 2 minute jog. How
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash;
+Really good sleep last night and my left shoulder is noticeably less sore.
