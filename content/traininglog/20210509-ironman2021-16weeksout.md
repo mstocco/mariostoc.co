@@ -171,9 +171,7 @@ I didn't sleep that well last night because of some congestion from sawdust (ren
 
 Despite that however, a long running, customer support ticket from hell made for another long, stressful day at work.
 
-Once work was over, I headed to the garage to play _"bike mechanic"_ and see if I could ready my TT bike for a hill or two [tomorrow](javascript:flick('sat');).
-
-A lot of futzing with moving gears around on my bikes was to no avail.  I'll need to rethink how I'll get a 30 tooth cassette to work with a derailleur designed to only to reach a 28 tooth gear.
+Once work was over, I headed to the garage to play _"bike mechanic"_ and see if I could ready my TT bike for a hill or two [tomorrow](javascript:flick('sat');).  Lots of futzing moving gears around on my bikes was to no avail.  I'll need to rethink how I'll get a 30 tooth cassette to work with a derailleur designed to only to reach a 28 tooth gear.
 <!---->
 I started the run after dinner and right as the sun dipped below the mountains.  My left shoulder was sore, my ankles were a bit tight but when the bike path reached _Quadra Street_, I turned the flat route into a rolling route.  It could have just been a feeling to make it home before the end of twilight, but the longer I was running, the **stronger** I felt.
 
