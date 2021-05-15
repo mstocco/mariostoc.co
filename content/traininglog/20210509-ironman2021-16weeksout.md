@@ -167,11 +167,11 @@ Run 40 minutes. Flat route. EASY effort.
 ### NOTES
 Total Time: **42 minutes** &nbsp; Distance: **7 km**
 
-I didn't sleep that well last night because of some congestion from sawdust (renovation) and a **really sore shoulder** from the inoculation.
+I didn't sleep that well last night because of some congestion from sawdust (renovation) and a **really sore shoulder** from the inoculation.  Apart from that, I feel pretty good to start the day.
 
-Apart from that, I feel pretty good to start the day.
+Despite that however, a long running, customer support ticket from hell made for another long, stressful day at work.
 
-Despite that, a customer support ticket from hell made for another long, stressful day at work.
+Once work was over, I headed to the garage to play _"bike mechanic"_ and see if I could ready my TT bike for a hill or two [tomorrow](javascript:flick('sat');).
 
 A lot of futzing with moving gears around on my bikes was to no avail.  I'll need to rethink how I'll get a 30 tooth cassette to work with a derailleur designed to only to reach a 28 tooth gear.
 <!---->
