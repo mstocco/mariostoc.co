@@ -4,7 +4,7 @@ Week beginning [Sunday, May 16, 2021](javascript:flick('sun');)
 **15 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-&mdash; 
+Despite the added stress from work and an ongoing bathroom renovation, I am feeling some fitness improvements.  The goal this week is to stay the course.
 
 ## SUMMARY
 I feel I like was...  
@@ -13,8 +13,8 @@ I feel I like was...
 
 
 <!---->
-## SUNDAY MAY 16
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## SUNDAY MAY 16 ☀️
+Sleep **4** | Fatigue **4** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
