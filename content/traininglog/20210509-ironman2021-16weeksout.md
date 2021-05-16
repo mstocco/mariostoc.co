@@ -15,7 +15,7 @@ The highlight of the week was that I received my first shot of the Moderna vacci
 
 Summer weather is finally here!
 
-The bathroom renovation is coming along, slow and steady.
+The bathroom renovation is coming along too.
 
 ![As a beer league goalie, I stopped many shots at this hockey arena. On Thursday, I got the shot that "saves" me.](/assets/jpg/IMG_0695-977x550.jpeg Archie Browning Sports Centre, Esquimalt, BC)
 
@@ -244,7 +244,7 @@ Flying dismount and into my Nikes, I didn't waste any time getting on to the run
 ![Ride Map](/assets/jpg/ridemap-20210515.jpeg)
 
 ### Caloric Intake on the Bike
-<table>
+<table style="border-collapse: collapse;font-size:0.9em;">
 <tr><td style="">Maynards Peach Fuzz (145g)</td><td style="text-align:right">507</td></tr>
 <tr><td style="">Country Time Lemonade Mix (120g)</td><td style="text-align:right">420</td></tr>
 <tr><td style="">Gatorade (210ml)</td><td style="text-align:right">53</td></tr>
