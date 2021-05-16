@@ -208,15 +208,15 @@ The traffic was heavy going up _Tunnel Hill_ but that wasn't that big of a deal;
 
 At the foot of the highway's second climb, I noticed that I was reeling in another roadie.  Just before I caught him, he turned left, off the highway onto _Shawnigan Lake Road_.
 
-My original plan was to take that same route but I was **feeling strong** and decided to continue up and over the _Malahat_.  I had a short stop at the top take a picture before descending the _Cowichan_ side of the hill.
+My original plan was to take that same route but I was **feeling strong** and decided to continue up and over the _Malahat_.  I had a short stop at the top take a picture before the long descent.
 <!---->
 ![View from the summit of the Malahat](/assets/jpg/malahat-20210515.jpeg)<sup>Beautiful warm and sunny day for a ride over "the hat".</sup>
 
 At the _Bamberton_ exit, I left the highway and rode the shoreline into _Mill Bay_.
 
-I knew that the road from _Mill Bay_ up to _Shawnigan Lake_ was going to be a series of short punchy climbs so I set about getting the work in.  I felt ok and at _Masons Beach_, I saw that roadie again; this time on his way south.  
+I knew that the road from _Mill Bay_ up to _Shawnigan Lake_ was going to be a series of short punchy climbs so I set about getting the work in.  Once in the village, I saw that roadie again; this time on his way south.  
 
-A little over two hours in, I had two bottles downed.  I stopped to top up on fluids, a bottle of Gatorade and a can of Monster Energy Drink.  I still had probably half my of my candy left.
+A little over two hours in, I had two bottles downed.  I stopped at _Masons Store_ to buy a bottle of Gatorade and a can of Monster Energy Drink.  I still had probably half my of my candy left.
 
 I took _Renfrew Road_ to _West Shawnigan Road_ and drank from the Monster bottle.  The road is rough and there is next to no shoulder but the traffic was friendly and the scenery amazing.  Turning on to _Shawingan Road_ however, was a different experience.
 
