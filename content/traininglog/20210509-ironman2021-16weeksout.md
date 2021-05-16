@@ -231,8 +231,14 @@ To cap off a fun ride, there was some soft pedalling on downhill sections of _Th
 #### Strava Segment: Hospital Hills South
 ![Hospital Hills South Map](/assets/jpg/strava-20210515.jpeg)
 Distance: **0.87 km** &nbsp; Today: **1:55**   
-Personal Record: **1:54 &mdash; 2020-03-29**
+Personal Record: **1:54** &mdash; **2020-03-29**
 
+---
 
-Flying dismount and into my Nikes, I didn't waste any time getting on to the run.  The jelly in my legs lasted maybe 4 minutes and by the fifth minute, I was heading up the short rise of _Cudethel_ heading for home.  I averaged 5:05/km for a mile off the bike and am feeling incredibly happy with that.
+Flying dismount and into my Nikes, I didn't waste any time getting on to the run.  The jelly in my legs lasted maybe 4 minutes and by the fifth minute, I was heading up the short rise of _Culduthel Road_ heading for home.  I averaged **5:05/km for a mile** off the bike and am feeling incredibly happy with that.
+<!---->
+### Malahat - West Shawnigan Ride
+![Ride Map](/assets/jpg/ridemap=20210515.jpeg)
+
+### Caloric Intake on the Bike
 
