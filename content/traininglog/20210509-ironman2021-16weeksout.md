@@ -9,11 +9,13 @@ Control what I can and if I have to get training done before work, then get it d
 ## SUMMARY
 I feel I like was **MANAGING THE EDGE**
 
-On [Tuesday](javascript:flick('tue');), I missed a quality session on the bike but apart from that, this was a * hour week.
+On [Tuesday](javascript:flick('tue');), I missed an 80 minute quality session on the bike but apart from that, I was able to get almost **12 hours** of training this week.
 
-The highlight of the week was that I received my first shot of the Moderna vaccine on [Thursday](javascript:flick('thu');) and the training highlight came with a 96 km lap of _Shawnigan Lake_ on my road bike.  I followed that up with a solid mile run immediately after.
+The highlight of the week was that I received my first shot of the Moderna vaccine on [Thursday](javascript:flick('thu');) and the training highlight came with a [96 km ride](javascript:flick('sat');) to _Shawnigan Lake_ on my road bike.  I followed that up with a solid mile run immediately after.
 
 Summer weather is finally here!
+
+The bathroom renovation is coming along, slow and steady.
 
 ![As a beer league goalie, I stopped many shots at this hockey arena. On Thursday, I got the shot that "saves" me.](/assets/jpg/IMG_0695-977x550.jpeg Archie Browning Sports Centre, Esquimalt, BC)
 
@@ -193,7 +195,7 @@ Off the bike.
 Put on your shoes.... run around the block. (Yes, I'm serious) 2 minute jog. How nervous does that make you? How is the stomach? Anything cramping?
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **264 minutes** &nbsp; Ride: **96.66 km**
 
 Really good sleep last night and my left shoulder is noticeably less sore.
 
@@ -255,8 +257,10 @@ Was I nervous?  **Not at all**.
 How is the stomach?  **Good to go, zero GI**.   
 Anything cramping?  **No**
 
-Better question could be, how long could I have comfortably held 8:30/mile pace?  
-5 km?  **Yes, for sure**.  
-10 km?  **Is there money or ego on the line?**  
+Better question could be, how long could I have comfortably held 8:30/mile pace?
+
+5km?  **Yes, for sure**.  
+10km?  **Is there money or ego on the line?**  
 Beyond 10km?  **Let's not get crazy.**
- 
+
+This was a really solid day.
