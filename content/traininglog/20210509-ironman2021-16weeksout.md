@@ -208,7 +208,7 @@ The traffic was heavy going up _Tunnel Hill_ but that wasn't that big of a deal;
 
 At the foot of the highway's second climb, I noticed that I was reeling in another roadie.  Just before I caught him, he turned left, off the highway onto _Shawnigan Lake Road_.
 
-I was feeling strong and decided to continue up to the summit of the Malahat.  I had a short stop at the top take a picture before dropping into _Mill Bay_.
+I was feeling strong and decided to continue up and over the _Malahat_.  I had a short stop at the top take a picture before dropping into _Mill Bay_.
 <!---->
 I knew that _Shawnigan Mill Bay Road_ was going to be a series of short punchy climbs so I set about getting the work in.  I felt ok and at _Masons Beach_, I saw that roadie again; this time on his way south.  I stopped to top up on fluids, a bottle of Gatorade and a can of Monster Energy Drink.
 
