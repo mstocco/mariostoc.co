@@ -226,8 +226,9 @@ The shoulder of the highway going south seemed to be cleaner than the northbound
 
 The same bush that I visited on the way out of town, received another pit stop.  I had zero urge to go but I felt "relieved" that I did.
 <!---->
-To cap off a fun ride, there was some soft pedalling on downhill sections of _The Galloping Goose_ and some harder efforts just because (the hospital hill, switch bridge).  Case in point:
+To cap off a fun ride, there was some soft pedalling on downhill sections of _The Galloping Goose_ and some harder efforts just because (the hospital hill, switch bridge).
 
+Case in point:
 #### Strava Segment: Hospital Hills South
 ![Hospital Hills South Map](/assets/jpg/strava-20210515.jpeg)
 Distance: **0.87 km** &nbsp; Today: **1:55**   
@@ -248,7 +249,7 @@ Flying dismount and into my Nikes, I didn't waste any time getting on to the run
 <tr><td style="">Monster Energy</td><td style="text-align:right">200</td></tr>
 <tr><td style="text-align:right">Total Calories: </td><td style="text-align:right;font-weight:bold;">1,180</td></tr>
 </table>
-
+<!---->
 ### Questions the run answered
 Was I nervous?  **Not at all**.  
 How is the stomach?  **Good to go, zero GI**.   
