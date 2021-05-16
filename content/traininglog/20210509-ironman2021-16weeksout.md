@@ -218,9 +218,9 @@ I knew that the road from _Mill Bay_ up to _Shawnigan Lake_ was going to be a se
 
 A little over two hours in, I had two bottles downed.  I stopped at _Masons Store_ to buy a bottle of Gatorade and a can of Monster Energy Drink.  I still had half my of the Maynards Peach Fuzz that I had packed with me.
 <!---->
-I took _Renfrew Road_ to _West Shawnigan Road_ and drank from the Monster bottle.  The road is rough and there is next to no shoulder but the traffic was friendly and the scenery amazing.  Turning on to _Shawingan Road_ however, was a different experience.
+I took _Renfrew Road_ to _West Shawnigan Road_ and drank from the Monster bottle.  The roads here are rough and there is next to no shoulder but the traffic was friendly and the scenery amazing.  Turning on to _Shawingan Road_ however, was a different experience.
 
-I really underestimated the climb out of the south end of _Shawnigan Lake_.  Come to think of it, I don't think I ever pedalled it before and it is certainly different than driving in a car.
+I really underestimated the climb out of the south end of _Shawnigan Lake_.  Come to think of it, I don't think I ever pedalled it before and it is certainly different than driving in a car.  Despite drinking a highly caffeinated beverage and still eating candy, this section was the hardest of the day.
 
 The shoulder of the highway going south seemed to be cleaner than the northbound side.  At the top of Tunnel Hill, the cops had a speed trap set up and 3 cars pulled over, all with Alberta licence plates.  I couldn't help but smile and say thank you to an officer as I pedalled through.
 
