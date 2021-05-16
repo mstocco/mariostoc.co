@@ -226,7 +226,13 @@ The shoulder of the highway going south seemed to be cleaner than the northbound
 
 The same bush that I visited on the way out of town, received another pit stop.  I had zero urge to go but I felt "relieved" that I did.
 <!---->
-To cap off a fun ride, there was some soft pedalling on downhill sections of _The Galloping Goose_ and some harder efforts just because (the hospital hill, switch bridge).
+To cap off a fun ride, there was some soft pedalling on downhill sections of _The Galloping Goose_ and some harder efforts just because (the hospital hill, switch bridge).  Case in point:
+
+#### Strava Segment: Hospital Hills South
+![Hospital Hills South Map](/assets/jpg/strava-20210515.jpeg)
+
+
+
 
 Flying dismount and into my Nikes, I didn't waste any time getting on to the run.  The jelly in my legs lasted maybe 4 minutes and by the fifth minute, I was heading up the short rise of _Cudethel_ heading for home.  I averaged 5:05/km for a mile off the bike and am feeling incredibly happy with that.
 
