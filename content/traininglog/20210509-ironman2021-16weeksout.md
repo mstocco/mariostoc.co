@@ -208,11 +208,13 @@ The traffic was heavy going up _Tunnel Hill_ but that wasn't that big of a deal;
 
 At the foot of the highway's second climb, I noticed that I was reeling in another roadie.  Just before I caught him, he turned left, off the highway onto _Shawnigan Lake Road_.
 
-I was **feeling strong** and decided to continue up and over the _Malahat_.  I had a short stop at the top take a picture before dropping into _Mill Bay_.
+My original plan was to take that same route but I was **feeling strong** and decided to continue up and over the _Malahat_.  I had a short stop at the top take a picture before descending the _Cowichan_ side of the hill.
 <!---->
-![View from the summit of the Malahat](/assets/jpg/malahat-20210515.jpeg)<sup>Beautiful day for a ride over "the hat".</sup>
+![View from the summit of the Malahat](/assets/jpg/malahat-20210515.jpeg)<sup>Beautiful warm and sunny day for a ride over "the hat".</sup>
 
-I knew that _Shawnigan Mill Bay Road_ was going to be a series of short punchy climbs so I set about getting the work in.  I felt ok and at _Masons Beach_, I saw that roadie again; this time on his way south.  
+At the _Bamberton_ exit, I left the highway and rode the shoreline into _Mill Bay_.
+
+I knew that the road from _Mill Bay_ up to _Shawnigan Lake_ was going to be a series of short punchy climbs so I set about getting the work in.  I felt ok and at _Masons Beach_, I saw that roadie again; this time on his way south.  
 
 A little over two hours in, I had two bottles downed.  I stopped to top up on fluids, a bottle of Gatorade and a can of Monster Energy Drink.  I still had probably half my of my candy left.
 
