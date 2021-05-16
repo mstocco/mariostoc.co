@@ -242,29 +242,9 @@ Flying dismount and into my Nikes, I didn't waste any time getting on to the run
 
 ### Caloric Intake on the Bike
 <table>
-<tr><td></td><td style="">Calories</td></tr>
-<tr>
-<td style="">Maynards Peach Fuzz (145g)</td>
-<td style="font-weight:bold;text-align:right">507</td>
-</tr>
-
-<tr>
-<td style="">Country Time Lemonade Mix (120g)</td>
-<td style="text-align:right">420</td>
-</tr>
-
-<tr>
-<td style="">Gatorade (210ml)</td>
-<td style="text-align:right">53</td>
-</tr>
-
-<tr>
-<td style="">Monster Energy</td>
-<td style="text-align:right">200</td>
-</tr>
-
-<tr>
-<td style="text-align:right">Total: </td>
-<td style="text-align:right;font-weight:bold;">1,180</td>
-</tr>
+<tr><td style="">Maynards Peach Fuzz (145g)</td><td style="text-align:right">507</td></tr>
+<tr><td style="">Country Time Lemonade Mix (120g)</td><td style="text-align:right">420</td></tr>
+<tr><td style="">Gatorade (210ml)</td><td style="text-align:right">53</td></tr>
+<tr><td style="">Monster Energy</td><td style="text-align:right">200</td></tr>
+<tr><td style="text-align:right">Total Calories: </td><td style="text-align:right;font-weight:bold;">1,180</td></tr>
 </table>
