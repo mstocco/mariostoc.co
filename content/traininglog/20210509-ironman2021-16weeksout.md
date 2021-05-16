@@ -7,11 +7,13 @@ Week beginning [Sunday, May 9, 2021](javascript:flick('sun');)
 Control what I can and if I have to get training done before work, then get it done.
 
 ## SUMMARY
-I feel I like was...  
-<sup>(completed at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel I like was **MANAGING THE EDGE**
 
-On [Tuesday](javascript:flick('tue');), I missed a quality session on the bike but apart from that, this was a * hour week.  
+On [Tuesday](javascript:flick('tue');), I missed a quality session on the bike but apart from that, this was a * hour week.
+
+The highlight of the week was that I received my first shot of the Moderna vaccine on [Thursday](javascript:flick('thu');) and the training highlight came with a 96 km lap of _Shawnigan Lake_ on my road bike.  I followed that up with a solid mile run immediately after.
+
+Summer weather is finally here!
 
 ![As a beer league goalie, I stopped many shots at this hockey arena. On Thursday, I got the shot that "saves" me.](/assets/jpg/IMG_0695-977x550.jpeg Archie Browning Sports Centre, Esquimalt, BC)
 
@@ -194,3 +196,24 @@ Put on your shoes.... run around the block. (Yes, I'm serious) 2 minute jog. How
 Total Time: **0 minutes**
 
 Really good sleep last night and my left shoulder is noticeably less sore.
+
+Second swim secured for the 29th.  Time to get some saddle time...
+
+I must have been excited to get out the door because before I got too far down the road, I realized that I forgot my mini-pump.  Long ride, take two...
+
+I felt good, really good rolling up to _Langford_.  I stopped for a bio-break just before reaching _Goldstream Park_ and then it was time to get to work.  The traffic was heavy going up _Tunnel Hill_ but that wasn't that big of a problem; the debris on the shoulder was.  My effort up the first climb was steady and I could gauge the grade by my heart-rate.  It got as steep as 149 BPM.
+
+At the foot of the highway's second climb, I noticed that I was reeling in another roadie.  Halfway up and just before I caught him, he turned left onto _West Shawnigan Lake Road_.  I was feeling strong and decided to pedal up to the summit of the Malahat.  I had a short stop at the top take a picture before dropping into _Mill Bay_.
+
+I knew that _Shawnigan Mill Bay Road_ was going to be a series of short punchy climbs so I set about getting the work in.  I felt ok and at _Masons Beach_, I saw that roadie again; this time on his way south.  I stopped to top up on fluids, a bottle of Gatorade and a can of Monster Energy Drink.
+
+I really underestimated the climb out of the south end of _Shawnigan Lake_.
+
+The shoulder of the highway going south seemed to be cleaner than the northbound side.  At the top of Tunnel Hill, the cops had a speed trap set up and 3 cars pulled over, all with Alberta licence plates.  I couldn't help but smile and say thank you to an officer as I pedalled through.
+
+The same bush that I visited on the way out of town, received another pit stop.  I really had zero urge to go but I felt "relieved" that I did.
+
+To cap off a fun ride, there was some soft pedalling on downhill sections of _The Galloping Goose_ and some harder efforts just because (the hospital hill, switch bridge).
+
+Flying dismount and into my Nikes, I didn't waste any time getting on to the run.  The jelly in my legs lasted maybe 4 minutes and by the fifth minute, I was heading up the short rise of _Cudethel_ heading for home.  I averaged 5:05/km for a mile off the bike and am feeling incredibly happy with that.
+
