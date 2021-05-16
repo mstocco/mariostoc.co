@@ -255,8 +255,8 @@ Was I nervous?  **Not at all**.
 How is the stomach?  **Good to go, zero GI**.   
 Anything cramping?  **No**
 
-Better question could be, how long could I have comfortably held 8:30/mile pace?
-5 km?  **Yes, for sure.**
-10 km?  **Is there money or ego on the line?**
- Beyond 10km?  **Let's not get crazy.**
+Better question could be, how long could I have comfortably held 8:30/mile pace?  
+5 km?  **Yes, for sure**.  
+10 km?  **Is there money or ego on the line?**  
+Beyond 10km?  **Let's not get crazy.**
  
