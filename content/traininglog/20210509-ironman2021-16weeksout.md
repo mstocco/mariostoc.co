@@ -220,12 +220,12 @@ A little over two hours in, I had two bottles downed.  I stopped at _Masons Stor
 <!---->
 I took _Renfrew Road_ to _West Shawnigan Road_ and drank from the Monster bottle.  The roads here are rough and there is next to no shoulder but the traffic was friendly and the scenery amazing.  Turning on to _Shawingan Road_ however, was a different experience.
 
-I really underestimated the climb out of the south end of _Shawnigan Lake_.  Come to think of it, I don't think I ever pedalled it before and it is certainly different than driving in a car.  Despite drinking a highly caffeinated beverage and still eating candy, this section was the hardest of the day.
+I really **underestimated** the climb out of the south end of _Shawnigan Lake_.  Come to think of it, I don't think I ever pedalled it before; it is certainly different than driving in a car.  Despite drinking a highly caffeinated beverage and still eating candy, this section was the hardest of the day.
 
-The shoulder of the highway going south seemed to be cleaner than the northbound side.  At the top of Tunnel Hill, the cops had a speed trap set up and 3 cars pulled over, all with Alberta licence plates.  I couldn't help but smile and say thank you to an officer as I pedalled through.
+The shoulder of the highway going south seemed to be cleaner than the northbound side.  At the top of Tunnel Hill, the cops had a speed trap set up and 3 cars pulled over, all with Alberta licence plates.  I couldn't help but smile and say "thank you" to an officer as I pedalled through.
 
-The same bush that I visited on the way out of town, received another pit stop.  I really had zero urge to go but I felt "relieved" that I did.
-
+The same bush that I visited on the way out of town, received another pit stop.  I had zero urge to go but I felt "relieved" that I did.
+<!---->
 To cap off a fun ride, there was some soft pedalling on downhill sections of _The Galloping Goose_ and some harder efforts just because (the hospital hill, switch bridge).
 
 Flying dismount and into my Nikes, I didn't waste any time getting on to the run.  The jelly in my legs lasted maybe 4 minutes and by the fifth minute, I was heading up the short rise of _Cudethel_ heading for home.  I averaged 5:05/km for a mile off the bike and am feeling incredibly happy with that.
