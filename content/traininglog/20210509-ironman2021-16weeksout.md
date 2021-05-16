@@ -199,9 +199,12 @@ Really good sleep last night and my left shoulder is noticeably less sore.
 
 Second swim secured for the 29th.  Time to get some saddle time...
 <!---->
-I must have been excited to get out the door because before I got too far down the road, I realized that I forgot my mini-pump.  Long ride, take two...
+I must have been excited to get out the door because before I got too far down the road, I realized that I forgot my mini-pump.
 
-I felt good, really good rolling up to _Langford_.  I stopped for a bio-break just before reaching _Goldstream Park_ and then it was time to get to work.  The traffic was heavy going up _Tunnel Hill_ but that wasn't that big of a problem; the debris on the shoulder was.  My effort up the first climb was steady and I could gauge the grade by my heart-rate.  It got as steep as 149 BPM.
+#### Long ride, take two...
+I felt good, really good rolling up to _Langford_.  I stopped for a bio-break at 38 minutes, just before reaching _Goldstream Park_.  With that out of the way, it was time to get to work.
+
+The traffic was heavy going up _Tunnel Hill_ but that wasn't that big of a deal; the stones and debris on the shoulder definitely were.  My effort up the first climb was **steady** and I could gauge the grade by my heart-rate.  It got as steep as 149 BPM.
 
 At the foot of the highway's second climb, I noticed that I was reeling in another roadie.  Halfway up and just before I caught him, he turned left onto _West Shawnigan Lake Road_.  I was feeling strong and decided to pedal up to the summit of the Malahat.  I had a short stop at the top take a picture before dropping into _Mill Bay_.
 
