@@ -206,7 +206,9 @@ I felt good, really good rolling up to _Langford_.  I stopped for a bio-break at
 
 The traffic was heavy going up _Tunnel Hill_ but that wasn't that big of a deal; the stones and debris on the shoulder definitely were.  My effort up the first climb was **steady** and I could gauge the grade by my heart-rate.  It got as steep as 149 BPM.
 
-At the foot of the highway's second climb, I noticed that I was reeling in another roadie.  Halfway up and just before I caught him, he turned left, off the highway onto _Shawnigan Lake Road_.  I was feeling strong and decided to continue up to the summit of the Malahat.  I had a short stop at the top take a picture before dropping into _Mill Bay_.
+At the foot of the highway's second climb, I noticed that I was reeling in another roadie.  Just before I caught him, he turned left, off the highway onto _Shawnigan Lake Road_.
+
+I was feeling strong and decided to continue up to the summit of the Malahat.  I had a short stop at the top take a picture before dropping into _Mill Bay_.
 <!---->
 I knew that _Shawnigan Mill Bay Road_ was going to be a series of short punchy climbs so I set about getting the work in.  I felt ok and at _Masons Beach_, I saw that roadie again; this time on his way south.  I stopped to top up on fluids, a bottle of Gatorade and a can of Monster Energy Drink.
 
