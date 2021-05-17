@@ -54,7 +54,9 @@ The swim overall was telling in that I am still (likely) feeling the ride [two d
 
 ![Swim Chart](/assets/jpg/swim-20210517.jpeg)
 
-The ride home was the big tell with regards to my level of fatigue; I am not back yet.
+---
+
+The ride home was the big tell with regards to my level of fatigue in my quads; I am not back yet.  A raw spot on the undercarriage developed from Saturday's ride too.
 
 <!---->
 ## TUESDAY MAY 18
