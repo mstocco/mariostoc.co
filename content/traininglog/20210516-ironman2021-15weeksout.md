@@ -24,9 +24,13 @@ aka: Flatter route. No need to go uphills after the long Saturday ride!
 ### NOTES
 Total Time: **70 minutes** &nbsp; Distance: **11 km**
 
+First real bout of hay fever after mowing the lawn and doing some weeding in the yard today.
+
+I had a pretty good nap mid-afternoon too. 
+
 Another sunset jog around Elk/Beaver Lake on a Sunday.  This was a taken at a **very easy pace**, whether I wanted to or not.  I may not describe myself as being completely smoked from the ride yesterday but I certainly was not fresh.  Good form for the first hour and things started to fall apart as I got closer to my truck.
-
-
+<!---->
+![Run Map](/assets/jpg/runmap-20210516.jpeg)
 <!---->
 ## MONDAY MAY 17 ☁️
 Sleep **4** | Fatigue **5** | Stress **3** | Soreness **3**  
