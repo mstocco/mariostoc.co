@@ -13,7 +13,7 @@ I feel I like was...
 
 ![This is near the start of the creek as it makes its way to the ocean 8 kilometres from here.](/assets/jpg/IMG_3238-977x550.jpeg Colquitz Creek, Elk Beaver Lake Regional Park)
 ## SUNDAY MAY 16 ☀️
-Sleep **4** | Fatigue **4** | Stress **2** | Soreness **3**  
+Sleep **4** | Fatigue **5** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -48,7 +48,7 @@ Total Time: **75 minutes** &nbsp; Swim: **2200m**
 
 I've had a knot in my back, between the shoulder blades for a few days now but last night, I must have slept awkward because that knot was aggravated enough to wake me up last night.  Before riding to the pool, I spent time with a lacrosse ball to work out the tension.
 
-In the pool, that knot was not noticed and as I write this, the massage and the swim seem to have helped.
+That knot went unnoticed in the pool; massage and the swim seem to have helped.
 <!---->
 The swim overall was telling in that I am still (likely) feeling the ride [two days ago](ironman2021-16weeksout?sat).  My times on some of the 50m lengths reflect that.  Regardless, I swam the strong lengths to the best I had for the day and swam the easy lengths easy.  The continuous lane did get a bit congested and I did the last of the workout in the fast lane once that lane cleared out.
 
