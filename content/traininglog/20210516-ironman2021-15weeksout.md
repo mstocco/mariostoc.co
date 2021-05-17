@@ -11,8 +11,7 @@ I feel I like was...
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
-
-<!---->
+![This is near the start of the creek as it makes its way to the ocean 8 kilometres from here.](/assets/jpg/IMG_3238-977x550.jpeg Colquitz Creek, Elk Beaver Lake Regional Park)
 ## SUNDAY MAY 16 ☀️
 Sleep **4** | Fatigue **4** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
