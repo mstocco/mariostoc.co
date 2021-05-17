@@ -25,12 +25,12 @@ aka: Flatter route. No need to go uphills after the long Saturday ride!
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+
 
 
 <!---->
-## MONDAY MAY 17
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## MONDAY MAY 17 ☁️
+Sleep **4** | Fatigue **5** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -41,9 +41,15 @@ Short spin to/from pool. 10 minutes each way.
 2x 50 super easy to cool down well. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **120 minutes**
 
-&mdash; 
+I've had a knot in my back, between the shoulder blades for a few days now but last night, I must have slept awkward because that knot was aggravated enough to wake me up last night.  Before riding to the pool, I spent time with a lacrosse ball to work out the tension.
+
+In the pool, that knot was not noticed and as I write this, it is still in a good spot.
+
+The swim overall was telling in that I am still (likely) feeling the ride [two days ago](ironman2021-16weeksout?sat).  My times on some of the 50m lengths reflect that.  Regardless, I swam the strong lengths to the best I had for the day and swam the easy lengths easy.  The continuous lane did get a bit congested and I did the last of the workout in the fast lane once that lane cleared out.
+
+The ride home was the big tell with regards to my level of fatigue.
 
 
 <!---->
