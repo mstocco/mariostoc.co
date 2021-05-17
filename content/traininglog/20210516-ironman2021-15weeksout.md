@@ -22,9 +22,9 @@ Run 70 minutes. Running around Elk Lake or a similar trail would be ideal. Easy 
 aka: Flatter route. No need to go uphills after the long Saturday ride!
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **70 minutes** &nbsp; Distance: **11 km**
 
-
+Another sunset jog around Elk/Beaver Lake on a Sunday.  This was a taken at a **very easy pace**, whether I wanted to or not.  I may not describe myself as being completely smoked from the ride yesterday but I certainly was not fresh.  Good form for the first hour and things started to fall apart as I got closer to my truck.
 
 
 <!---->
