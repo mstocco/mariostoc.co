@@ -72,10 +72,13 @@ Run 30 minutes. Easy route. Easy effort.
 ### NOTES
 Total Time: **35 minutes**
 
-So I have been doing okay riding and swimming during the early mornings ([yesterday](javascript:flick('mon');) for example) but waking up and going for a 30 minute jog felt like a big shock to the system.  Right ankle was tender for the first kilometre but it did relax.  The muscle tissue from the knee to mid-thigh felt pretty cooked and didn't come around until I was almost home.  Despite that tired feeling, seeing myself in the reflection of the windows of a strip mall, my form looked okay; meaning I wasn't hinged at the waist.
+So I have been doing okay riding and swimming during the early mornings but waking up and going for a 30 minute jog felt like a big shock to the system today.
+<!---->
+Right ankle was tender for the first kilometre but it did relax.  The muscle tissue from the knee to mid-thigh felt pretty cooked and didn't come around until I was almost home.  Despite that tired feeling, seeing myself in the reflection of the windows of a strip mall, my form looked okay; meaning I wasn't hinged at the waist.
 
 Then I did something a bit different.  Running past the soccer field, I decided to kick off my shoes and socks for a couple of barefoot laps on the artificial turf.  This felt great!  I made sure to limit it to two laps because it has been a few years since I attempted this.
 
+---
 
 <!---->
 ## WEDNESDAY MAY 19
