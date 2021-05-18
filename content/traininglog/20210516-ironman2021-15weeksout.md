@@ -59,7 +59,7 @@ The swim overall was telling in that I am still (likely) feeling the ride [two d
 The ride home was the big tell with regards to my level of fatigue in my quads; I am not back yet.  A raw spot on the undercarriage developed from Saturday's ride too.
 
 <!---->
-## TUESDAY MAY 18
+## TUESDAY MAY 18 🌦
 Sleep **3** | Fatigue **5** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
