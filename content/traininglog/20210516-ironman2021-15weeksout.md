@@ -108,7 +108,7 @@ I kept hunger at bay with 300 calories of Maynards (watermelon and peach) but I 
 
 <!---->
 ## WEDNESDAY MAY 19
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **5** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
