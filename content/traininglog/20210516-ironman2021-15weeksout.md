@@ -104,7 +104,7 @@ There was also next to no traffic in the hills tonight.  Maybe 5 cars passed me 
 
 The wind died off as the sun dropped below the mountains so next to no headwind down _West Saanich/Interurban Road_.
 
-I kept hunger at bay with 300 calories of Maynard but I really needed food from a plate at the end.
+I kept hunger at bay with 300 calories of Maynards (watermelon and peach) but I really needed food from a plate at the end.
 
 <!---->
 ## WEDNESDAY MAY 19
