@@ -91,10 +91,16 @@ I paced _Munn_ pretty well, never going into the red.  I also found a feature on
 
 As I was making my way up the hill, I planned on riding down _Millstream Road_ into _Langford_; that should leverage a long downhill into the wind and give me a bit of a tailwind for the leg home.  
 
-![Munn Road RIde Map](/assets/jpg/ridemap-20210518.jpeg)
+That was the easy out.
+
+After cresting _Munn_ and having 40 minutes on the clock, I tossed that easy plan out by turning north on _Ross-Durrance Road_.  My legs felt okay and I thought I'd take a chance on with the punchy hills and headwind that would greet me by the time I got down to _West Saanich Road_.
 <!---->
-After cresting _Munn_ and having 40 minutes on the clock, I decided to turn north on _Ross-Durrance Road_ and take a chance on with the punchy hills and headwind that would greet me by the time I got down to _West Saanich Road_.
-Next to no traffic tonight.  
+
+That decision was rewarded with a beautiNext to no traffic tonight.
+
+![Munn Road RIde Map](/assets/jpg/ridemap-20210518.jpeg)
+
+  
 
 Wind died off.
 
