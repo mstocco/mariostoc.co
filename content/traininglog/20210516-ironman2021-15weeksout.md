@@ -86,10 +86,14 @@ This morning's showers had cleared but replaced with a stiff wind from the south
 <!---->
 I paced _Munn_ pretty well, never going into the red.  I also found a feature on my bike computer that measures the grade of a hill.  It seems to report about 10 seconds behind real-time but it is good to put a number to a feeling.
 
-#### RIDE PROFILE
+#### Clockwise Munn/Ross Durrance Ride Profile
 ![Munn Ride Profile](/assets/jpg/elevation-20210518.jpeg)
 
-As I was making my way up the hill, I planned on riding down _Millstream Road_ into _Langford_; that would have leveraged the downhill into the wind and given me a bit of a tailwind for the leg home.  Reaching the intersection of _Ross-Durrance Road_ 40 minutes left on the clock, I decided to take my chances with the punchy hills and headwind that would greet me by the time I got down to _West Saanich Road_.
+As I was making my way up the hill, I planned on riding down _Millstream Road_ into _Langford_; that should leverage a long downhill into the wind and give me a bit of a tailwind for the leg home.  
+
+But after cresting _Munn_ and having 40 minutes on the clock, I decided to turn right on _Ross-Durrance Road_ and take a chance on with the punchy hills and headwind that would greet me by the time I got down to _West Saanich Road_.
+
+![Munn Road RIde Map](/assets/jpg/ridemap-20210518.jpeg)
 
 Next to no traffic tonight.  
 
