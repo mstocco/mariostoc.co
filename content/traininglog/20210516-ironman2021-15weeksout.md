@@ -70,7 +70,7 @@ Run 30 minutes. Easy route. Easy effort.
 
 
 ### NOTES
-Total Time: **35 minutes**
+Total Time: **132 minutes** &nbsp; Ride Elevation: **596m**
 
 So I have been doing okay riding and swimming during the early mornings but waking up and going for a 30 minute jog felt like a big shock to the system today.
 <!---->
@@ -107,7 +107,7 @@ The wind died off as the sun dropped below the mountains so next to no headwind 
 I kept hunger at bay with 300 calories of Maynards (watermelon and peach) but I really needed food from a plate at the end.
 
 <!---->
-## WEDNESDAY MAY 19
+## WEDNESDAY MAY 19 🌤
 Sleep **3** | Fatigue **5** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
