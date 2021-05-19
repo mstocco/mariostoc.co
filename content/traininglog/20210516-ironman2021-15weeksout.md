@@ -80,10 +80,10 @@ Then I did something a bit different.  Running past the soccer field, I decided 
 
 ---
 
-After work and a few things done around the house, I finally got on my bike.  I was getting a bit hungry but the choice was eat and ride the rollers or find a hill and have dinner when I get back.  I chose the later.
+After work and a few things done around the house, I finally got on my bike.  I was getting hungry but the choice was: eat and ride the rollers after dark or find a hill and have dinner when I get back.  I grabbed a bag of Maynards and chose the later.
 
-With the winds still blowing from the west and just about 90 minutes until sunset, I set out into that headwind toward _Munn Road_.  
-
+This morning's showers had cleared but replaced with a stiff wind from the southwest. With just about 90 minutes until sunset, I set out into that headwind toward _Munn Road_.
+<!---->
 I paced _Munn_ pretty well, never going into the red.
 
 I had intended on riding _Millstream Road_ into _Langford_ before heading for home but reaching the intersection of _Ross-Durrance Road_ 40 minutes left on the clock, I decided to take my chances with the punchy hills and headwind that would greet me by the time I got down to _West Saanich Road_.
