@@ -93,7 +93,9 @@ As I was making my way up the hill, I planned on riding down _Millstream Road_ i
 
 That was the easy out.
 
-After cresting _Munn_ and having 40 minutes on the clock, I tossed that easy plan out by turning north on _Ross-Durrance Road_.  My legs felt okay and I thought I'd take a chance on with the punchy hills and headwind that would greet me by the time I got down to _West Saanich Road_.
+After cresting _Munn_ and having 40 minutes on the clock, I tossed that easy plan out by turning north on _Ross-Durrance Road_.
+
+My legs and back were feeling good and I thought I'd take a chance on with the punchy hills and eventual headwind that would greet me by the time I got down to _West Saanich Road_.
 <!---->
 
 That decision was rewarded with a beautiNext to no traffic tonight.
