@@ -98,15 +98,16 @@ After cresting _Munn_ and having 40 minutes on the clock, I tossed that easy pla
 My legs and back were feeling good and I thought I'd take a chance on with the punchy hills and eventual headwind that would greet me by the time I got down to _West Saanich Road_.
 <!---->
 
-That decision was rewarded with a beautiNext to no traffic tonight.
+That decision was rewarded with a beautiful ride through the forest.  The last of the sunlight making its way through the trees was just amazing.
+
+There was also next to no traffic in the hills tonight.  Maybe 5 cars passed me going up _Munn_ and just one oncoming car on _Ross Durrance_.
 
 ![Munn Road RIde Map](/assets/jpg/ridemap-20210518.jpeg)
 
-  
+#### Other Ride Notes
+The wind died off as the sun dropped below the mountains and I didn't have much of the expected headwind down _West Saanich/Interurban Road_.
 
-Wind died off.
-
-Consumed 300 calories (Maynards) but I was really starting to need a real meal near the end of the ride.
+I got through 300 calories (Maynards) but I was really starting to need a real meal near the end of the ride.
 
 
 <!---->
