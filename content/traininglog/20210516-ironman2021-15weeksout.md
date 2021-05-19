@@ -84,7 +84,9 @@ After work and a few things done around the house, I finally got on my bike.  I 
 
 This morning's showers had cleared but replaced with a stiff wind from the southwest. With just about 90 minutes until sunset, I set out into that headwind toward _Munn Road_.
 <!---->
-I paced _Munn_ pretty well, never going into the red.
+I paced _Munn_ pretty well, never going into the red.  I also found a feature on my bike computer that measures the grade of a hill.  It seems to report about 10 seconds behind real-time but it is good to put a number to a feeling.
+
+
 
 I had intended on riding _Millstream Road_ into _Langford_ before heading for home but reaching the intersection of _Ross-Durrance Road_ 40 minutes left on the clock, I decided to take my chances with the punchy hills and headwind that would greet me by the time I got down to _West Saanich Road_.
 
