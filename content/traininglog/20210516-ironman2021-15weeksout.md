@@ -95,7 +95,7 @@ That was the easy out.
 
 ![Munn Road RIde Map](/assets/jpg/ridemap-20210518.jpeg)
 <!---->
-After cresting _Munn_ and having 40 minutes on the clock, I tossed that easy plan out by turning north on _Ross-Durrance Road_.  My legs and back were **feeling good** and I thought I'd take a chance on with the punchy hills and eventual headwind that would greet me by the time I got down to _West Saanich Road_.
+After cresting _Munn_ and having 40 minutes on the clock, I tossed that easy plan out by turning north on _Ross-Durrance Road_.  My legs and back were **feeling good** and I thought I'd take a chance with the punchy hills and eventual headwind that would greet me by the time I got down to _West Saanich Road_.
 
 That decision was rewarded with a beautiful ride through the forest.  The last of the sunlight making its way through the trees was just amazing.
 
