@@ -118,10 +118,14 @@ Cedar hill would be great. But you can literally run anywhere with some hills. T
 Have fun on rolling terrain.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **90 minutes** &nbsp; Distance: **14.2 km**
 
-&mdash; 
+Three things about tonight's run:
+- Dead legs,
+- Dead legs and finally,
+- Dead legs.
 
+After a day on the computer and some time on the renovation , I set out for a pre-dinner, 80 minute run.  I didn't have time to drive somewhere so I made it a "Tour de Craigflower", from _Raynor Ave_ in _Vic West_ to _Helmcken Road_ in _View Royal_ before doubling back towards home.
 
 <!---->
 ## THURSDAY MAY 20
