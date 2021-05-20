@@ -120,12 +120,9 @@ Have fun on rolling terrain.
 ### NOTES
 Total Time: **90 minutes** &nbsp; Distance: **14.2 km**
 
-Three things about tonight's run:
-- Dead legs,
-- Dead legs and finally,
-- Dead legs.
+Three things about tonight's run: Dead legs, dead legs and finally, **dead legs**.
 
-After a day on the computer and some time on the renovation , I set out for a pre-dinner, 80 minute run.  I didn't have time to drive somewhere so I made it a "Tour de Craigflower", from _Raynor Ave_ in _Vic West_ to _Helmcken Road_ in _View Royal_ before doubling back towards home.
+After a day on the computer and some time on the renovation , I set out for a pre-dinner, 80 minute run.  I didn't have time to drive somewhere so I made it a "Tour de Craigflower", from _Raynor Ave_ in _Vic West_ to _Helmcken Road_ in _View Royal_ before doubling back towards home.  Stopped once for a traffic light and once for a pit stop.
 
 <!---->
 ## THURSDAY MAY 20
