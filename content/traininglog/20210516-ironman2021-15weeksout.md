@@ -151,8 +151,7 @@ I knocked out a 1:37 final 100m, leaving the pool feeling **pretty good**.
 
 The ride home was a flatter waterfront route from _Gonzales_ to _James Bay_, then through _Esquimalt_ to _Colville_.  The wind off the water was COLD this morning.  I was in full tights and a heavy cycling jacket too.  Effort was easy.
 
-<span style="color:red;">
-### BEDTIME AT 1700
+<span style="color:red;"><h3>BEDTIME AT 1700</h3>
 This afternoon, I felt like I was **hit by a truck**.</span>
 
 Cold, shivers, and a headache.  I went to bed for a nap and didn't get up until morning.  I am not sure if this is a reaction to life stress from this week or quite posibly, the after-effects of the Moderna vaccine from [last week](ironman2021-16weeksout?thu).  The symtoms do check the boxes even if a week late.
