@@ -194,11 +194,11 @@ From there I took _Interurban Road_ north for a typical loop of _Lands End Road_
 <!---->
 Second pitstop was at the _McTavish Interchange_ just after the 2 hour mark; second bottle done now too.
 
-I did briefly stop once more to address a creaking noise that had developed.  I first noticed it on _Lands End Road_ but at the top of _Martindale_ the noise had become untenable.  I thought it was in the bottom bracket or crankset but it turned out to be a loosened rear wheel skewer.  A half turn adjustment and I was good to go.
+I did briefly stop once more to address a creaking noise that had developed.  I first noticed it on _Lands End Road_ but at the top of _Martindale_ the noise had become untenable.  I thought it was in the bottom bracket or crankset but it turned out to be a loose rear wheel skewer; a half turn adjustment and all was good.
 
 On Lochside Drive, I had an older (but strong) roadie holding onto the back of my wheel.  We were having a pretty good go too. At least until a car pulled out of a driveway and scared me out of my aerobars.  I don't blame the driver for this one; who sees a cyclist in the shadows of the tree cover, riding at +35kph?  The fun was over, the other cyclist turned east on _Royal Oak Drive_, I turned west.
 
-I repeated the first kilometre stretch again near the end of the ride.  I felt a magnatude better after 3 hours than I did at the start.
+I repeated the first kilometre stretch again near the end of the ride.  I felt a **magnitude better** after 3 hours than I did at the start of the ride.
 <!---->
 I didn't completely finish the third bottle but I did run out of _Maynards_.  Total of ~840 calories  
 (525 Lemonade mix, 315 candy).
