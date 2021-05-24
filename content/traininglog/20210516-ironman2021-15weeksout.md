@@ -170,7 +170,7 @@ Total Time: **40 minutes**
 
 Headache, and a pretty bad one too (all day).
 
-I waited until the end of the day to run.  Easy pace to the middle of the _Selkirk Trestle_ and when I got back, I did the strides on _Harriet Road_.  The strides felt good; the headache, not so much.
+I waited until the end of the day to run.  Easy pace to the middle of the _Selkirk Trestle_ and when I got back, I did the strides on _Harriet Road_.  The **strides felt good**.
 ![Run Pace Chart](/assets/jpg/strides-20210521.jpeg)
 
 <!---->
@@ -183,7 +183,9 @@ Ride 3:15 on TT bike. Flat to rolling terrain. aka: Peninsula.
 Easy to steady riding. Fuel well. Stay hydrated.
 
 ### NOTES
-Total Time: **195 minutes**
+Total Time: **195 minutes** &nbsp; Distance: **82 km**
+
+The only thing noticed in the morning were my metatarsals ([strides](javascript:flick('sat');)?)
 
 Starting on the _Goose_, at the _Switch Bridge_, I made a mental note of how tired my legs felt.
 
