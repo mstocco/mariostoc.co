@@ -7,11 +7,13 @@ Week beginning [Sunday, May 16, 2021](javascript:flick('sun');)
 Despite the added stress from work and an ongoing bathroom renovation, I am feeling some fitness improvements.  The goal this week is to stay the course.
 
 ## SUMMARY
-I feel I like was **GETTING IT DONE**
+I feel I like was **FINDING A WAY**
 
-This was a **12.5 hour week** that started with a run on tired legs, feature a ride over the top of _Munn Road_, followed by another run on tired legs.  I felt it in the pool too but I pushed through every time and got the work done.
+This was a **12.5 hour week** that started with a run on tired legs, feature a ride over the top of _Munn Road_, followed by another run on tired legs.  I felt it in the pool too but I pushed through every workout and got the work done.
 
-Work and the renovation compounded the stress but that life component was handled well too.  The answer was more sleep.
+Work and the renovation compounded the stress but that life component was handled well too.  The answer was **more sleep**.
+
+Weather was still unseasonally cooler this week.
 
 ![This is near the start of the creek as it makes its way to the ocean 8 kilometres from here.](/assets/jpg/IMG_3238-977x550.jpeg Colquitz Creek, Elk Beaver Lake Regional Park)
 ## SUNDAY MAY 16 ☀️
@@ -33,6 +35,7 @@ I had a pretty good nap mid-afternoon too.
 Another sunset jog around Elk/Beaver Lake on a Sunday.  This was a taken at a **very easy pace**, whether I wanted to or not.  I may not describe myself as being completely smoked from the ride yesterday but I certainly was not fresh.  Good form for the first hour and things started to fall apart as I got closer to my truck.
 <!---->
 ![Run Map](/assets/jpg/runmap-20210516.jpeg)
+
 <!---->
 ## MONDAY MAY 17 ☁️
 Sleep **4** | Fatigue **5** | Stress **3** | Soreness **3**  
@@ -69,7 +72,6 @@ Sleep **3** | Fatigue **5** | Stress **4** | Soreness **3**
 This can be a brick or split. Your choice. It can also be a run-bike brick. Just get in the time. And have fun. 
 Ride 90 minutes. No intervals but.... get in lots of climbs. You could.....ride up Willis point a few times, you could do all the climbs off the waterfront, you could even ride Mount Doug if you wanted. You have 90 minutes. Effort is "easy between climbs". And up the climbs the effort is... "get up the climb". But.... a lot of those climbs are steep enough that the effort to get up them is significant. Just like Tour of Flanders. 
 Run 30 minutes. Easy route. Easy effort. 
-
 
 ### NOTES
 Total Time: **132 minutes** &nbsp; Ride Elevation: **596m**
@@ -143,10 +145,11 @@ Ride 60 minutes. Long way home. Easy effort. Good day to pick a flat route!
 Total Time: **130 minutes** &nbsp; Swim: **2500m**
 
 The lanes were busy this morning.  Me and a another regular from the continuous lane moved over into the slow lane.  It worked out because it was the least busy spot in the pool.  I got into a rhythm on the 300m set, clocking a 5:59 for the first and going slightly faster each rep through the fifth (5:45).
+<!---->
+![Swim Chart](/assets/jpg/swim-20210520.jpeg)
+I knocked out a 1:37 final 100m, leaving the pool feeling **pretty good**.
 
-I knocked out a 1:37 final 100m, leaving the pool feeling pretty good.
-
-The ride home was a flatter waterfront route from _Gonzales_ to _James Bay_, then through _Esquimalt_ to _Colville_.  The wind off the water was COLD this morning.  I was in full tights and a heavy cycling jacket too.
+The ride home was a flatter waterfront route from _Gonzales_ to _James Bay_, then through _Esquimalt_ to _Colville_.  The wind off the water was COLD this morning.  I was in full tights and a heavy cycling jacket too.  Effort was easy.
 
 <!---->
 ## FRIDAY MAY 21
