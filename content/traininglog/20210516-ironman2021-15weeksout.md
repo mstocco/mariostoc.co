@@ -151,7 +151,7 @@ I knocked out a 1:37 final 100m, leaving the pool feeling **pretty good**.
 
 The ride home was a flatter waterfront route from _Gonzales_ to _James Bay_, then through _Esquimalt_ to _Colville_.  The wind off the water was COLD this morning.  I was in full tights and a heavy cycling jacket too.  Effort was easy.
 
-<h3 style="color:red;">BEDTIME AT 1700</h3>
+<h3 style="color:red;border-top:1px dashed red;">BEDTIME AT 1700</h3>
 <span style="color:red;">This afternoon, I felt like I was **hit by a truck**.</span>
 
 Cold, shivers, and a headache.  I went to bed for a nap and didn't get up until morning.  I am not sure if this is a reaction to life stress from this week or quite posibly, the after-effects of the Moderna vaccine from [last week](ironman2021-16weeksout?thu).  The symtoms do check the boxes even if a week late.
@@ -194,9 +194,9 @@ From there I took _Interurban Road_ north for a typical loop of _Lands End Road_
 <!---->
 Second pitstop was at the _McTavish Interchange_ just after the 2 hour mark; second bottle done now too.
 
-I did stop breifly once more because a creaking noise had developed.  I first noticed it on _Lands End Road_ but at the top of _Martindale_ the noise had become untenable.  I thought it was in the bottom bracket or crankset but it turned out to be a loosened rear wheel skewer.  A half turn adjustment and I was good to go.
+I did briefly stop once more to address a creaking noise that had developed.  I first noticed it on _Lands End Road_ but at the top of _Martindale_ the noise had become untenable.  I thought it was in the bottom bracket or crankset but it turned out to be a loosened rear wheel skewer.  A half turn adjustment and I was good to go.
 
-On Lochside Drive, I had an older (but strong) roadie holding on the back of my wheel.  We were having a pretty good go until a car pulled out of a driveway enough to scare me out of my aerobars.  I don't blame the driver for this one; who sees a cyclist in the shadows of the tree cover, riding at +35kph?  The fun was over, the other cyclist turned east on _Royal Oak Drive_, I turned west.
+On Lochside Drive, I had an older (but strong) roadie holding onto the back of my wheel.  We were having a pretty good go too. At least until a car pulled out of a driveway and scared me out of my aerobars.  I don't blame the driver for this one; who sees a cyclist in the shadows of the tree cover, riding at +35kph?  The fun was over, the other cyclist turned east on _Royal Oak Drive_, I turned west.
 
 I didn't completely finish the third bottle but I did run out of _Maynards_.  Total of ~800 calories  
 (500 Lemonade mix, 300 candy).
