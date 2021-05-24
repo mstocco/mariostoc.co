@@ -198,7 +198,9 @@ I did briefly stop once more to address a creaking noise that had developed.  I 
 
 On Lochside Drive, I had an older (but strong) roadie holding onto the back of my wheel.  We were having a pretty good go too. At least until a car pulled out of a driveway and scared me out of my aerobars.  I don't blame the driver for this one; who sees a cyclist in the shadows of the tree cover, riding at +35kph?  The fun was over, the other cyclist turned east on _Royal Oak Drive_, I turned west.
 
+I repeated the first kilometre stretch again near the end of the ride.  I felt a magnatude better after 3 hours than I did at the start.
+<!---->
 I didn't completely finish the third bottle but I did run out of _Maynards_.  Total of ~840 calories  
 (525 Lemonade mix, 315 candy).
-<!---->
+
 ![Ride Map](/assets/jpg/ride-20210522.jpeg)
