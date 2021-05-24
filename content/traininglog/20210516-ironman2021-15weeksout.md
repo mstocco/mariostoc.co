@@ -151,12 +151,14 @@ I knocked out a 1:37 final 100m, leaving the pool feeling **pretty good**.
 
 The ride home was a flatter waterfront route from _Gonzales_ to _James Bay_, then through _Esquimalt_ to _Colville_.  The wind off the water was COLD this morning.  I was in full tights and a heavy cycling jacket too.  Effort was easy.
 
+<span style="color:red;">
 ### BEDTIME AT 1700
+This afternoon, I felt like I was **hit by a truck**.</span>
 
-<span style="color:red;">This afternoon, I felt like I was **hit by a truck**.</span>  Cold, shivers, and a headache.  I went to bed for a nap and didn't get up until morning.  I am not sure if this is a reaction to life stress from this week or quite posibly, the after-effects of the Moderna vaccine from [last week](ironman2021-16weeksout?thu).  The symtoms do check the boxes even if a week late.
+Cold, shivers, and a headache.  I went to bed for a nap and didn't get up until morning.  I am not sure if this is a reaction to life stress from this week or quite posibly, the after-effects of the Moderna vaccine from [last week](ironman2021-16weeksout?thu).  The symtoms do check the boxes even if a week late.
 
 <!---->
-## FRIDAY MAY 21
+## FRIDAY MAY 21 🌤
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -185,9 +187,9 @@ Easy to steady riding. Fuel well. Stay hydrated.
 ### NOTES
 Total Time: **195 minutes** &nbsp; Distance: **82 km**
 
-The only thing noticed in the morning were my metatarsals ([strides](javascript:flick('sat');)?)
+The only thing noticed in the morning were my metatarsals ([yesterday strides](javascript:flick('sat');)?) Headache is gone and that's what I amn relieved about.
 
-Starting on the _Goose_, at the _Switch Bridge_, I made a mental note of how tired my legs felt.
+Starting the ride, I made a mental note of how tired my legs felt at the _Switch Bridge_.
 
 From there I took _Interurban Road_ north for a typical loop of _Lands End Road_.  My legs started to come around to feeling okay between _Brentwood Bay_ and _Saanichton_.  I stopped for my first bio-break at the one hour mark on _Willingdon Road_ near the airport.  First bottle was done at that point too.
 <!---->
