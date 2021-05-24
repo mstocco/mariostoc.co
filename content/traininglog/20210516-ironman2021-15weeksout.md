@@ -7,9 +7,11 @@ Week beginning [Sunday, May 16, 2021](javascript:flick('sun');)
 Despite the added stress from work and an ongoing bathroom renovation, I am feeling some fitness improvements.  The goal this week is to stay the course.
 
 ## SUMMARY
-I feel I like was...  
-<sup>(completed at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel I like was **GETTING IT DONE**
+
+This was a **12.5 hour week** that started with a run on tired legs, feature a ride over the top of _Munn Road_, followed by another run on tired legs.  I felt it in the pool too but I pushed through every time and got the work done.
+
+Work and the renovation compounded the stress but that life component was handled well too.  The answer was more sleep.
 
 ![This is near the start of the creek as it makes its way to the ocean 8 kilometres from here.](/assets/jpg/IMG_3238-977x550.jpeg Colquitz Creek, Elk Beaver Lake Regional Park)
 ## SUNDAY MAY 16 ☀️
@@ -125,7 +127,7 @@ Three things about tonight's run: Dead legs, dead legs and finally, **dead legs*
 After a day on the computer and some time on the renovation , I set out for a pre-dinner, 80 minute run.  I didn't have time to drive somewhere so I made it a "Tour de Craigflower", from _Raynor Ave_ in _Vic West_ to _Helmcken Road_ in _View Royal_ before doubling back towards home.  Stopped once for a traffic light and once for a pit stop.
 
 <!---->
-## THURSDAY MAY 20
+## THURSDAY MAY 20 🌤
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -138,10 +140,13 @@ Ride 60 minutes. Long way home. Easy effort. Good day to pick a flat route!
 6x 50 steady kick. r :10. 100 easy free to cool down. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **130 minutes** &nbsp; Swim: **2500m**
 
-&mdash; 
+The lanes were busy this morning.  Me and a another regular from the continuous lane moved over into the slow lane.  It worked out because it was the least busy spot in the pool.  I got into a rhythm on the 300m set, clocking a 5:59 for the first and going slightly faster each rep through the fifth (5:45).
 
+I knocked out a 1:37 final 100m, leaving the pool feeling pretty good.
+
+The ride home was a flatter waterfront route from _Gonzales_ to _James Bay_, then through _Esquimalt_ to _Colville_.  The wind off the water was COLD this morning.  I was in full tights and a heavy cycling jacket too.
 
 <!---->
 ## FRIDAY MAY 21
@@ -154,23 +159,33 @@ Run 30 minutes. Flat route. EASY effort. Really easy. Followed by......
 10x :20 strides, :40 walk after each. Walk to cool down. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **40 minutes**
 
-&mdash; 
+Headache, and a pretty bad one too.
+
+I waited until the end of the day to run.  Easy pace to the middle of the _Selkirk Trestle_ and when I got back, I did the strides on _Harriet Road_.  The strides felt good; the headache, not so much.
 
 
 <!---->
-## SATURDAY MAY 22
+## SATURDAY MAY 22 🌤
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Ride 3:15 on TT bike. Flat to rolling terrain. aka: Peninsula. 
+Easy to steady riding. Fuel well. Stay hydrated.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **195 minutes**
 
-&mdash; 
+Starting on the _Goose_, at the _Switch Bridge_, I made a mental note of how tired my legs felt.
 
+From there I took _Interurban Road_ north for a typical loop of _Lands End Road_.  My legs started to come around to feeling okay between _Brentwood Bay_ and _Saanichton_.  I stopped for my first bio-break at the one hour mark on _Willingdon Road_ near the airport.  First bottle was done at that point too.
 
-<!---->
+Second pitstop was at the _McTavish Interchange_ just after the 2 hour mark; second bottle done now too.
+
+I did stop breifly once more because a creaking noise had developed.  I first noticed it on _Lands End Road_ but at the top of _Martindale_ the noise had become untenable.  I thought it was in the bottom bracket or crankset but it turned out to be a loosened rear wheel skewer.  A half turn adjustment and I was good to go.
+
+On Lochside Drive, I had an older (but strong) roadie holding on the back of my wheel.  We were having a pretty good go until a car pulled out of a driveway enough to scare me out of my aerobars.  I don't blame the driver for this one; who sees a cyclist in the shadows of the tree cover, riding at +35kph?  The fun was over, the other cyclist turned east on _Royal Oak Drive_, I turned west.
+
+I didn't finish the third bottle but I was out of _Maynards_.  Total calories: ~800 (500 Lemonade mix, 300 candy).
