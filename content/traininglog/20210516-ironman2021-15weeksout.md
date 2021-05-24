@@ -151,8 +151,8 @@ I knocked out a 1:37 final 100m, leaving the pool feeling **pretty good**.
 
 The ride home was a flatter waterfront route from _Gonzales_ to _James Bay_, then through _Esquimalt_ to _Colville_.  The wind off the water was COLD this morning.  I was in full tights and a heavy cycling jacket too.  Effort was easy.
 
-<span style="color:red;"><h3>BEDTIME AT 1700</h3>
-This afternoon, I felt like I was **hit by a truck**.</span>
+<h3 style="color:red;">BEDTIME AT 1700</h3>
+<span style="color:red;">This afternoon, I felt like I was **hit by a truck**.</span>
 
 Cold, shivers, and a headache.  I went to bed for a nap and didn't get up until morning.  I am not sure if this is a reaction to life stress from this week or quite posibly, the after-effects of the Moderna vaccine from [last week](ironman2021-16weeksout?thu).  The symtoms do check the boxes even if a week late.
 
@@ -198,4 +198,7 @@ I did stop breifly once more because a creaking noise had developed.  I first no
 
 On Lochside Drive, I had an older (but strong) roadie holding on the back of my wheel.  We were having a pretty good go until a car pulled out of a driveway enough to scare me out of my aerobars.  I don't blame the driver for this one; who sees a cyclist in the shadows of the tree cover, riding at +35kph?  The fun was over, the other cyclist turned east on _Royal Oak Drive_, I turned west.
 
-I didn't finish the third bottle but I was out of _Maynards_.  Total calories: ~800 (500 Lemonade mix, 300 candy).
+I didn't completely finish the third bottle but I did run out of _Maynards_.  Total of ~800 calories  
+(500 Lemonade mix, 300 candy).
+<!---->
+![Ride Map](/assets/jpg/ride-20210522.jpeg)
