@@ -153,7 +153,7 @@ The ride home was a flatter waterfront route from _Gonzales_ to _James Bay_, the
 
 ### BEDTIME AT 1700
 
-This afternoon, I felt like I was **hit by a truck**.  Cold, shivers, and a headache.  I went to bed at stayed there until morning.  I am not sure if this is a reaction to life stress from this week or (likely) the after-effects of the Moderna vaccine from [last week](ironman2021-16weeksout?thu).
+<span style="color:red;">This afternoon, I felt like I was **hit by a truck**.</span>  Cold, shivers, and a headache.  I went to bed for a nap and didn't get up until morning.  I am not sure if this is a reaction to life stress from this week or quite posibly, the after-effects of the Moderna vaccine from [last week](ironman2021-16weeksout?thu).  The symtoms do check the boxes even if a week late.
 
 <!---->
 ## FRIDAY MAY 21
@@ -188,7 +188,7 @@ Total Time: **195 minutes**
 Starting on the _Goose_, at the _Switch Bridge_, I made a mental note of how tired my legs felt.
 
 From there I took _Interurban Road_ north for a typical loop of _Lands End Road_.  My legs started to come around to feeling okay between _Brentwood Bay_ and _Saanichton_.  I stopped for my first bio-break at the one hour mark on _Willingdon Road_ near the airport.  First bottle was done at that point too.
-
+<!---->
 Second pitstop was at the _McTavish Interchange_ just after the 2 hour mark; second bottle done now too.
 
 I did stop breifly once more because a creaking noise had developed.  I first noticed it on _Lands End Road_ but at the top of _Martindale_ the noise had become untenable.  I thought it was in the bottom bracket or crankset but it turned out to be a loosened rear wheel skewer.  A half turn adjustment and I was good to go.
