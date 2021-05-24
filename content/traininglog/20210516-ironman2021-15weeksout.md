@@ -151,6 +151,10 @@ I knocked out a 1:37 final 100m, leaving the pool feeling **pretty good**.
 
 The ride home was a flatter waterfront route from _Gonzales_ to _James Bay_, then through _Esquimalt_ to _Colville_.  The wind off the water was COLD this morning.  I was in full tights and a heavy cycling jacket too.  Effort was easy.
 
+### BEDTIME AT 1700
+
+This afternoon, I felt like I was **hit by a truck**.  Cold, shivers, and a headache.  I went to bed at stayed there until morning.  I am not sure if this is a reaction to life stress from this week or (likely) the after-effects of the Moderna vaccine from [last week](ironman2021-16weeksout?thu).
+
 <!---->
 ## FRIDAY MAY 21
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
@@ -164,10 +168,10 @@ Run 30 minutes. Flat route. EASY effort. Really easy. Followed by......
 ### NOTES
 Total Time: **40 minutes**
 
-Headache, and a pretty bad one too.
+Headache, and a pretty bad one too (all day).
 
 I waited until the end of the day to run.  Easy pace to the middle of the _Selkirk Trestle_ and when I got back, I did the strides on _Harriet Road_.  The strides felt good; the headache, not so much.
-
+![Run Pace Chart](/assets/jpg/strides-20210521.jpeg)
 
 <!---->
 ## SATURDAY MAY 22 🌤
