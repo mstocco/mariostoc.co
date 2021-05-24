@@ -186,7 +186,7 @@ Easy to steady riding. Fuel well. Stay hydrated.
 ### NOTES
 Total Time: **195 minutes** &nbsp; Distance: **82 km**
 
-The only thing noticed in the morning were my metatarsals ([yesterday strides](javascript:flick('sat');)?) Headache is gone and that's what I amn relieved about.
+The only thing noticed in the morning were my metatarsals ([yesterday strides](javascript:flick('sat');)?) Headache was gone and that's what I am most relieved about.
 
 Starting the ride, I made a mental note of how tired my legs felt at the _Switch Bridge_.
 
