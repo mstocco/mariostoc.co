@@ -24,7 +24,7 @@ Stay well fueled.
 Mountain bike 75 minutes. Get outside. Spin the legs a bit. Hit a few trails. Have fun. Main goal is to be on a bike and move the legs. 
 
 ### NOTES
-Total Time: **135 minutes**
+Time: **135 mins** &nbsp; Run: **16km** &nbsp; Ride: **23km**
 
 Carina dropped me off at Michells Farm and I jogged home from there.  Decent headwind and in sections sheltered from the wind but not the sun, it was quite warm.  I **felt good** but not as fresh as when I did this route back in [January](ironman2021-32weeksout?sun).
 
