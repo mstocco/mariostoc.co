@@ -26,7 +26,7 @@ Mountain bike 75 minutes. Get outside. Spin the legs a bit. Hit a few trails. Ha
 ### NOTES
 Total Time: **135 minutes**
 
-Carina dropped me off at Michells Farm and I jogged home from there.  Decent headwind and in sections sheltered from the wind but not the sun, it was quite warm.  I **felt good** but not as fresh as I did when I did this route on [January 17th](ironman2021-32weeksout?sun).  With a +3 hour bike ride [yesterday](ironman2021-15weeksout?sat), I consequently felt less fatigue in my legs compared to a week ago.
+Carina dropped me off at Michells Farm and I jogged home from there.  Decent headwind and in sections sheltered from the wind but not the sun, it was quite warm.  I **felt good** but not as fresh as when I did this route back in [January](ironman2021-32weeksout?sun).  With a +3 hour bike ride [yesterday](ironman2021-15weeksout?sat), I consequently felt less fatigue in my legs compared to a week ago.
 <!---->
 I was invited for dinner with my in-laws so I jumped on the TT bike for a run up to _Sidney_.  The mountain bike is fun but the TT bike can be fun too.  It is rare for me to ride mostly uninterrupted for 20km on the road so I took this as a chance to learn and make mental notes of the effort and distance.
 
