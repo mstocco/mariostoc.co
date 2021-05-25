@@ -4,7 +4,7 @@ Week beginning [Sunday, May 23, 2021](javascript:flick('sun');)
 **14 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-&mdash; 
+Keep on working.  With each week ticking away and the anticipation and anxiousness grows.
 
 ## SUMMARY
 I feel I like was...  
@@ -13,31 +13,39 @@ I feel I like was...
 
 
 <!---->
-## SUNDAY MAY 23
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## SUNDAY MAY 23 ☀️
+Sleep **3** | Fatigue **3** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+1st: Run 90 minutes. Flat/rolling route. EASY effort. Elk Lake/Goose/Lochside/Waterfront/Panama Flats kind of terrain. 
+Stay well fueled. 
+2nd: Can be directly after the ride but later in the day will probably be more fun!
+Mountain bike 75 minutes. Get outside. Spin the legs a bit. Hit a few trails. Have fun. Main goal is to be on a bike and move the legs. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **135 minutes**
 
-&mdash; 
+Carina dropped me off at Michells Farm and I jogged back home from there.  Decent headwind too.
+
+I was invited for dinner with my in-laws so I jumped on the TT bike for a run up to Sidney.  
+
+Thought I could take advantage of the tailwind.  That tailwind died at Mitchells Farm and I worked a slight headwind for the remainder of the ride.
+
 
 
 <!---->
-## MONDAY MAY 24
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## MONDAY MAY 24, VICTORIA DAY 🌧
+Sleep **4** | Fatigue **4** | Stress **2** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Off Training.
 
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Good thing too.  The weather is rain all day and I woke with another headache.  My mistake; I don't think I had enough for dinner last night.
 
 
 <!---->
@@ -46,7 +54,10 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Option 1: am: Run, Pm: Ride.   
+Option 2: Pm: ride w/ run off.   
+Ride 80 minutes. Spin 25-30 minutes easy (Maybe a bit extra on the way out vs back home). (Towards Mill hill) 5x 3:00 #1: Steady climbing to warm up. #2-5 @ a touch easier than 20k effort, 2-3 minutes easy after each. 20-25 minutes easy riding to cool down.  
+Run 30 minutes easy.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -60,7 +71,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Run 75 minutes. Flat route. 15 minutes easy running to warm up. 12x :20 strides, 1:10 easy jogging after each. Breathing should be full returned to normal after each rep. Easy running for the remainder of the run. 
+Bring a gel/calorie source. 100 calories should be plenty.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -74,7 +86,13 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+10 minute easy spin to the pool.
+Swim @ 5:30am. 2400: 
+4 Rounds (50 easy free, 50 fist drill, 50 gradual build easy to strong r :20)
+12x 100 Gradual descend from 1-4, 5-8, 9-12 as.. Relaxed/Good form-very sustainable/Good form-high turnover/Strong effort...can't last over 500 meters. r :30 after each. 
+2x 50 EASY. 
+8x 50 Odds: Strong effort...500 effort, evens: EASY. r :20. 100 extra easy to cool down. 
+Ride 60 minutes easy. Spinning out after the swim.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -88,7 +106,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Run 30 minutes. Nice easy jog to finish up the week and to get ready for a big weekend
 
 ### NOTES
 Total Time: **0 minutes**
@@ -102,7 +120,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+1030 Swim @Esquimalt 
 
 ### NOTES
 Total Time: **0 minutes**
