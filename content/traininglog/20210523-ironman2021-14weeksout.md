@@ -28,7 +28,7 @@ Total Time: **135 mins** &nbsp; Run: **16km** &nbsp; Ride: **23km**
 
 Carina dropped me off at Michells Farm and I jogged home from there.  Decent headwind and in sections sheltered from the wind but not the sun, it was quite warm.  I **felt good** but not as fresh as when I did this route back in [January](ironman2021-32weeksout?sun).
 
-With an easier +3 hour bike ride [yesterday](ironman2021-15weeksout?sat), I felt less fatigue in my legs compared to a week ago.
+With an easier, +3 hour ride [yesterday](ironman2021-15weeksout?sat), I felt less fatigue in my legs compared to a week ago.
 <!---->
 #### RUN: Michell Farm to Tillicum 
 ![Run Map](/assets/jpg/run-20210523.jpeg)
