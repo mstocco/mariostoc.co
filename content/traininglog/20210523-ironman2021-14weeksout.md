@@ -40,9 +40,13 @@ Given the headwind experienced on the run a couple hours earlier, I expected to 
 #### RIDE: Uptown to Sidney
 ![Ride Map](/assets/jpg/ride-20210523.jpeg)
 
-Time to _Sidney_ via the _Pat Bay Highway_ was 45 minutes.
+My time to _Sidney_ via the _Pat Bay Highway_ was 45 minutes.
 
+#### RIDE: Heart Rate
+![Ride Heartrate Chart](/assets/jpg/ridehr-20210523.jpeg)
 
+####RIDE: Cadence
+![Ride RPM Chart](/assets/jpg/riderpm-20210523.jpeg)
 
 <!---->
 ## MONDAY MAY 24, VICTORIA DAY 🌧
