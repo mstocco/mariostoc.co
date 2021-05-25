@@ -33,7 +33,7 @@ With an easier, +3 hour ride [yesterday](ironman2021-15weeksout?sat), I felt les
 #### RUN: Michell Farm to Tillicum 
 ![Run Map](/assets/jpg/run-20210523.jpeg)
 
-I was invited for dinner with my in-laws so I jumped on the TT bike for a run up to _Sidney_.  The mountain bike is fun but the TT bike can be fun too.  It is rare for me to ride mostly uninterrupted for 20km on the road so I took this as a chance to learn and make mental notes of the effort and distance.
+I was invited for dinner with my in-laws so I jumped on the TT bike for a run up to _Sidney_.  The mountain bike is fun but the TT bike can be fun too.  It is rare for me to ride mostly uninterrupted for just ~20km on the road so I took this as a chance to learn and make mental notes of the effort and distance.
 
 Given the headwind experienced on the run a couple hours earlier, I expected to get a push for the ride in the opposite direction.  A decent tailwind through to _Elk Lake_ died off near the intersection of _Island View Road_.  Then it was a slight headwind for the remainder of the ride.  
 <!---->
