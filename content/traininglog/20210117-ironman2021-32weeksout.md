@@ -35,7 +35,7 @@ The question for me today is, how do I follow up a solid ride from [yesterday](i
 
 The answer is to go out and have an even better run on Sunday!
 <!---->
-Carina dropped me off at _Mitchell Farm_ on her way to _Sidney_; that should put me at 90 minutes away from home on a flat route with sections of dirt road.  My right ankle barked on my first step, and _only_ my first step; it was solid for the remainder of the run.  In fact, everything felt solid today.
+Carina dropped me off at _Michell Farm_ on her way to _Sidney_; that should put me at 90 minutes away from home on a flat route with sections of dirt road.  My right ankle barked on my first step, and _only_ my first step; it was solid for the remainder of the run.  In fact, everything felt solid today.
 
 The story I couldn't wait to get home and write started just south of _Royal Oak Avenue_.  3 guys, all half my age, had gathered along the side of the trail.  As I went past, I heard them talk about the run they were planing to do.  
 
