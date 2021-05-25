@@ -26,12 +26,11 @@ Mountain bike 75 minutes. Get outside. Spin the legs a bit. Hit a few trails. Ha
 ### NOTES
 Total Time: **135 minutes**
 
-Carina dropped me off at Michells Farm and I jogged back home from there.  Decent headwind too.
+Carina dropped me off at Michells Farm and I jogged back home from there.  Decent headwind too and if there was a section sheltered from the wind but not the sun, it was quite warm.  I felt okay but not as fresh as I did when I did this route on [January 17th](ironman2021-32weeksout?sun).  The bike ride [yesterday](ironman2021-15weeksout?sat) was +3 hours and consequently, I felt less fatigue in my legs this afternoon than a week ago.
 
-I was invited for dinner with my in-laws so I jumped on the TT bike for a run up to Sidney.  
+I was invited for dinner with my in-laws so I jumped on the TT bike for a run up to _Sidney_.  The mountain bike is fun but the TT bike can be fun too.  It is rare for me to ride mostly uninterrupted for 20km on the road so I took this as a chance to learn and make mental notes of the effort and distance.
 
-Thought I could take advantage of the tailwind.  That tailwind died at Mitchells Farm and I worked a slight headwind for the remainder of the ride.
-
+Given the amount of headwind experienced on a couple hours earlier, I half expected to get a push for the ride in the opposite direction.  There was a nice tailwind through to _Elk Lake_ but it died off near the intersection of _Island View Road_.  Then it was a slight headwind for the remainder of the ride.  Time to _Sidney_ via the _Pat Bay Highway_ was 45 minutes.
 
 
 <!---->
@@ -45,12 +44,12 @@ Off Training.
 ### NOTES
 Total Time: **0 minutes**
 
-Good thing too.  The weather is rain all day and I woke with another headache.  My mistake; I don't think I had enough for dinner last night.
+Good thing too.  The weather forecast calls for rain all day and I woke with another headache.  My mistake; I don't think I had enough for dinner last night.
 
 
 <!---->
-## TUESDAY MAY 25
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## TUESDAY MAY 25 🌦
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -62,7 +61,7 @@ Run 30 minutes easy.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Rain in the morning meant "Option 2".
 
 
 <!---->
