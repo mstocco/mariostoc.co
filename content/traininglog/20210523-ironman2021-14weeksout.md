@@ -88,11 +88,12 @@ Satisfied that I did my best to solve the noise, I headed back out to get my wor
 
 The first run to the top of the subdivision **felt easy**.  In fact I went to the very top (_Goldstone Heights_) for every rep tonight.  Maybe it was yesterday's day off training but every trip to the top of the hill was easier than I remember from the last time I did a ride here.  After the fifth rep, I did a hard standing effort from the start of the hill to the elementary school for good measure.  I felt **strong on the bike** this evening.
 
+#### Elevation Profile for the Ride
 ![Elevation Profile](/assets/jpg/elevation-20210525.jpeg)
 <!---->
 I felt **really strong** on the run tonight too.  The awkward "jelly legs" did not last but a couple of minutes and I clocked almost 32 minutes at my marathon pace with an average heart-rate of just 126 BPM.  I didn't just run the flat bike path either; I ran along _Douglas_ and _Finlayson_ to give this run a rolling profile.
 
-#### 
+#### Small Changes to the 30 minute route 
 ![Run Map](/assets/jpg/runmap-20210525.jpeg)
 
 Time for a shower and dinner; it's burritos tonight!
