@@ -80,7 +80,7 @@ Total Time: **120 minutes**
 
 Rain in the morning meant "Option 2".
 
-It was a long day on the keyboard and I really did not feel like going for a bike ride.  I'd be ok if there was just a 30 minute run scheduled.  Regardless of how I felt, I pulled the road bide off the wall, lubed the chain and pumped up the tires.
+It was a long day on the keyboard and I really did not feel like going for a bike ride.  I would have been ok if there was just a 30 minute run scheduled.  Regardless of how I felt, I pulled the road bide off the wall, lubed the chain and pumped up the tires.
 <!---->
 Not long after I set off for the Crystal View subdivision (_Mill Hill_), I noticed an odd, random click coming from the drive train.  I spun around for home and put the bike on my work stand.  My guess is there is a bit of play in the bottom bracket bearings and I can't add anymore preload to adjust it.  This was my winter bike and hasn't seen a real mechanic in a year.
 
