@@ -86,12 +86,12 @@ Not long after I set off for the _Crystal View_ subdivision (_Mill Hill_), I not
 
 Satisfied that I did my best to solve the noise, I headed back out to get my workout done.
 
-Every rep tonight went to the very top of the hill (_Goldstone Heights_).   Maybe it was yesterday's day off training but climbing this evening was easier compared to the last time I did a reps in this subdivision. <!--After the fifth rep, I did a hard standing effort from the start of the hill to the elementary school for good measure.  -->
+Every rep tonight went to the very top of the hill (_Goldstone Heights_).   Maybe it was yesterday's day off training but climbing this evening felt easier compared to the last time I did a reps in this subdivision.
 
 #### Elevation Profile for the Ride
 ![Elevation Profile](/assets/jpg/elevation-20210525.jpeg)
 
-I felt **strong on the bike** this evening.  I stayed out of the 30 tooth cog for the fifth trip up and did a hard standing effort to the elementary school for good measure.
+I felt **strong on the bike** this evening.  I stayed out of the 30 tooth cog for the fifth trip up and did an extra hard standing effort to the elementary school for good measure.
 
 <!---->
 I felt **really strong** on the run tonight too.
@@ -103,9 +103,10 @@ The awkward "jelly legs" did not last but a couple of minutes and I clocked almo
 I didn't just run the flat bike path either; I ran along _Douglas_ and _Finlayson_ to give this run a rolling profile.
 
 Time for a shower and dinner; it's burritos tonight!
+
 <!---->
-## WEDNESDAY MAY 26
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## WEDNESDAY MAY 26 ☁️
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -115,8 +116,7 @@ Bring a gel/calorie source. 100 calories should be plenty.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
-
+&mdash;
 
 <!---->
 ## THURSDAY MAY 27
@@ -136,7 +136,6 @@ Ride 60 minutes easy. Spinning out after the swim.
 Total Time: **0 minutes**
 
 &mdash; 
-
 
 <!---->
 ## FRIDAY MAY 28
@@ -163,7 +162,4 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
-
-
-<!---->
+&mdash;
