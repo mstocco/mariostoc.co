@@ -86,7 +86,7 @@ Not long after I set off for the _Crystal View_ subdivision (_Mill Hill_), I not
 
 Satisfied that I did my best to solve the noise, I headed back out to get my workout done.
 
-The first run to the top of the subdivision felt easy.  In fact, for every rep tonight I went to the very top (_Goldstone Heights_)   Maybe it was yesterday's day off training but every trip to the top of the hill was easier than I remember from the last time I did a ride here. <!--After the fifth rep, I did a hard standing effort from the start of the hill to the elementary school for good measure.  -->
+Every rep tonight went to the very top (_Goldstone Heights_)   Maybe it was yesterday's day off training but climbing to the top of the hill was easier compared to the last time I did a reps in this subdivision. <!--After the fifth rep, I did a hard standing effort from the start of the hill to the elementary school for good measure.  -->
 
 #### Elevation Profile for the Ride
 ![Elevation Profile](/assets/jpg/elevation-20210525.jpeg)
