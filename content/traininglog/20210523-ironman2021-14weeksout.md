@@ -114,13 +114,13 @@ Run 75 minutes. Flat route. 15 minutes easy running to warm up. 12x :20 strides,
 Bring a gel/calorie source. 100 calories should be plenty.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **75 minutes** &nbsp; Distance: **12.5 km**
 
 &mdash;
 
 <!---->
-## THURSDAY MAY 27
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## THURSDAY MAY 27 🌦
+Sleep **4** | Fatigue **3** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -133,10 +133,11 @@ Swim @ 5:30am. 2400:
 Ride 60 minutes easy. Spinning out after the swim.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **59 minutes** &nbsp; Swim: **2400m**
 
-&mdash; 
+Unsettled weather and a desire not to ride in the wet meant I drove to the pool this morning.
 
+Two things I noticed in the water this morning.  First, I noticed that swim frequency (or lack of) is a thing; not being in the water for a week made at least the first lengths as much of a "feel out process" as it was a warm-up.  Second, my non-dominant arm (left) is 
 <!---->
 ## FRIDAY MAY 28
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
