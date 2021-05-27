@@ -116,7 +116,8 @@ Bring a gel/calorie source. 100 calories should be plenty.
 ### NOTES
 Total Time: **75 minutes** &nbsp; Distance: **12.5 km**
 
-&mdash;
+Run felt good, strides felt good; my right ankle was tight through the first 30 minutes but good to go after that.
+![Run Map](/assets/jpg/runmap-20210526.jpeg)
 
 <!---->
 ## THURSDAY MAY 27 🌦
@@ -137,7 +138,10 @@ Total Time: **59 minutes** &nbsp; Swim: **2400m**
 
 Unsettled weather and a desire not to ride in the wet meant I drove to the pool this morning.
 
-Two things I noticed in the water this morning.  First, I noticed that swim frequency (or lack of) is a thing; not being in the water for a week made at least the first lengths as much of a "feel out process" as it was a warm-up.  Second, my non-dominant arm (left) is 
+Two things I noticed in the water this morning.  First, I noticed that swim frequency (or lack of) is a thing; not being in the water for a week made at least the first lengths as much of a "feel out process" as it was a warm-up.  Second, my non-dominant arm (left) could use some work.
+
+![Swim Chart](/assets/jpg/swim-20210527.jpeg)
+
 <!---->
 ## FRIDAY MAY 28
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
