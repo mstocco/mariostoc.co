@@ -116,7 +116,8 @@ Bring a gel/calorie source. 100 calories should be plenty.
 ### NOTES
 Total Time: **75 minutes** &nbsp; Distance: **12.5 km**
 
-Run felt good, strides felt good; my right ankle was tight through the first 30 minutes but good to go after that.
+Run felt good, strides felt good; my right ankle was a bit tight through the first 30 minutes but good to go after that.  Basically some easy miles before a late dinner.
+
 ![Run Map](/assets/jpg/runmap-20210526.jpeg)
 
 <!---->
