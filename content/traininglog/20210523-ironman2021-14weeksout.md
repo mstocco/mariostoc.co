@@ -172,10 +172,7 @@ Sleep **3** | Fatigue **2** | Stress **2** | Soreness **2**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Swim 2450:  
-4 rounds (100 easy free, 50 steady kick, 50 swim w/ buoy)   
-2 rounds (10x 25 Odds: Strong/Fast, Evens: Relaxed/Easy r :20, 50 easy. R :30, 300 continuous/steady r :45)   
-6x 50 steady kick. R :15. 150 easy to cool down.
+Swim 2450:  4 rounds (100 easy free, 50 steady kick, 50 swim w/ buoy) - 2 rounds (10x 25 Odds: Strong/Fast, Evens: Relaxed/Easy r :20, 50 easy. R :30, 300 continuous/steady r :45) - 6x 50 steady kick. R :15. - 150 easy to cool down.
 
 Ride 2:00 on TT bike. Warm up 30 minutes. Include 6x :30 high cadence, :45 easy. When you're ready.... 
 3x 10 minutes uphill @ a pace you could hold for 45-60 minutes climbing, Easy descent after each. 
