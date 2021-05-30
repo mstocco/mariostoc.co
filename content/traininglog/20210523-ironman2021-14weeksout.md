@@ -191,10 +191,10 @@ I booked the _"Fast Lane"_ today and I was surprised to find that it was configu
 
 On the ride home, I met up with a guy named Ryan.  He was about my age and just getting back from his 100km ride.  He is signed up for _Penticton_ too.  I hope to see him there.
 <!---->
-Jumping on the TT bike, I made my way via _Interurban_, out to _Willis Point Road_ for the hill work.
+At 1615 in the afternoon, I jumped on the TT bike, I made my way via _Interurban_, out to _Willis Point Road_ for some hill work.
 
-I seem to have deleted the lap screen on my bike computer so I did the efforts on memory; meaning I seem to recall that from the bottom of the hill to _Durrance Lake_ would be pretty close to 10 minutes per effort.  The third time up I started to feel the work in my quads; regardless, I pushed through and finished that last trip to the lake strong.
+I seem to have deleted the lap screen on my bike computer so I did the efforts on memory; meaning I seem to recall that from the bottom of the hill to _Durrance Lake_ would be pretty close to 10 minutes per effort.  This turned out to be a good guess.  The third time up I started to feel the work in my quads; regardless, I pushed through and finished that last trip to the lake strong.
 
 I had my nephew's birthday party to get to in Sidney, so once back down on _Wallace Drive_, I turned north and put my head down for a steady push up the peninsula.  I started to find a comfortably hard rhythm and went with it up the _Pat Bay Highway_ to _Resthaven Drive_.
 
-Looking back, I didn't complete the cadence work.  😡
+Looking back, my thoughts were on the 3x10 minutes and I didn't remember the cadence work.  😡
