@@ -182,11 +182,11 @@ Nice cool down to get up to 2 hours.
 ### NOTES
 Total Time: **217 minutes** Finished: **Strong** 
 
-Biked to and from the _Esquimalt Rec Centre_ this morning.
+Biked to and from the _Esquimalt Rec Centre_ this sunny morning (road bike).
 <!---->
-I booked the Fast Lane today and I was surprised to find that it was configured as a single lane this morning.  Luckily for me, I was the only one to show up and I had that dedicated lane all to myself.  The first of the 25m Strong lengths came in at 20 seconds.  I was a bit disappointed in that.  Every 25m Strong length was faster and done on average in 18.7 seconds.  I did the first 300m in 5:48 (1:56/100m) and the second a bit slower in 5:53 (1:58/100m).  I swam the final 150m at 1:44/100m pace.
+I booked the _"Fast Lane"_ today and I was surprised to find that it was configured as a single lane this morning.  Luckily for me, I was the only one to show up and I had the lane all to myself.  The first of the 25m Strong lengths came in at 20 seconds.  I was a bit disappointed in that.  Every 25m Strong length was faster and done on average in 18.7 seconds.  I did the first 300m in 5:48 (1:56/100m) and the second a bit slower in 5:53 (1:58/100m).  I swam the final 150m at 1:44/100m pace.
 
-#### Swim Paces
+#### 25m Strides (but in the pool)
 ![Swim Pace Chart](/assets/jpg/swim-20210529.jpeg)
 
 On the ride home, I met up with a guy named Ryan.  He was about my age and just getting back from his 100km ride.  He is signed up for _Penticton_ too.  I hope to see him there.
