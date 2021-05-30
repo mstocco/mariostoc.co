@@ -138,11 +138,13 @@ Ride 60 minutes easy. Spinning out after the swim.
 ### NOTES
 Total Time: **59 minutes** &nbsp; Swim: **2400m**
 
+![Swim Chart](/assets/jpg/swim-20210527.jpeg)
+<!---->
 Unsettled weather and a desire not to ride in the wet meant I drove to the pool this morning.
 
 Two things I noticed in the water this morning.  First, I noticed that swim frequency (or lack of) is a thing; not being in the water for a week made at least the first lengths as much of a "feel out process" as it was a warm-up.  Second, my non-dominant arm (left) could use some work.
 
-![Swim Chart](/assets/jpg/swim-20210527.jpeg)
+
 
 <!---->
 ## FRIDAY MAY 28 ☀️
@@ -157,6 +159,7 @@ Total Time: **32 minutes** &nbsp; Distance: **5.6 km**
 
 Nice and easy jog on the bike path to _Quadra Street_ to finish up the evening.  I had butter chicken for dinner and that may not have been the best meal before a jog.  No aches or pains, just easy time on the feet.
 
+![Run Map](/assets/jpg/runmap-20210528.jpeg)
 
 <!---->
 ## SATURDAY MAY 29 ☀️
