@@ -198,3 +198,5 @@ I seem to have deleted the lap screen on my bike computer so I did the efforts o
 I had my nephew's birthday party to get to in Sidney, so once back down on _Wallace Drive_, I turned north and put my head down for a steady push up the peninsula.  I started to find a comfortably hard rhythm and went with it up the _Pat Bay Highway_ to _Resthaven Drive_.
 
 Looking back, my thoughts were on the 3x10 minutes and I didn't remember the cadence work.  😡
+<!---->
+![Ride Map](/assets/jpg/ridemap-20210529.jpeg)
