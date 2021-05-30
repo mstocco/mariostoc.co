@@ -13,7 +13,7 @@ Maybe it was the day off on [Monday](javascript:flick('mon');), but this week wa
 
 **11 hours 45 minutes** with the day off training; that was only 50 minutes shy of [last week](ironman2021-15weeksout).
 
-![Properly pronounced "Hws-se-kum" according to the Cowichan Tribes](/assets/jpg/IMG_3264-977x550.jpeg Tsehum Harbour, North Saanich, BC)
+![Properly pronounced "Hws-se-kum" according to the Cowichan Tribes, this is where my ride on Saturday finished.](/assets/jpg/IMG_3264-977x550.jpeg Tsehum Harbour, North Saanich, BC)
 
 ## SUNDAY MAY 23 ☀️
 Sleep **3** | Fatigue **3** | Stress **2** | Soreness **3**  
