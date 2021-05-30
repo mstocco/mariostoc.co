@@ -136,15 +136,19 @@ Swim @ 5:30am. 2400:
 Ride 60 minutes easy. Spinning out after the swim.
 
 ### NOTES
-Total Time: **59 minutes** &nbsp; Swim: **2400m**
+Total Time: **110 minutes** &nbsp; Swim: **2400m**
+
+Unsettled weather and a desire not to ride in the wet meant I drove to the pool this morning.
 
 ![Swim Chart](/assets/jpg/swim-20210527.jpeg)
 <!---->
-Unsettled weather and a desire not to ride in the wet meant I drove to the pool this morning.
-
 Two things I noticed in the water this morning.  First, I noticed that swim frequency (or lack of) is a thing; not being in the water for a week made at least the first lengths as much of a "feel out process" as it was a warm-up.  Second, my non-dominant arm (left) could use some work.
 
+Some minor lane congestion in the pool this morning but it has been worse.
 
+---
+
+After a long day, I finally got on the bike at 2100 for a very light spin.  I pedalled for 50 minutes (51 total activity time) and watched a re-run of the IM Tulsa race.  At one point, the camera was on Andy Costas as he attempted to navigate a wet corner; he went down and my first reaction was to sit up.
 
 <!---->
 ## FRIDAY MAY 28 ☀️
@@ -157,7 +161,7 @@ Run 30 minutes. Nice easy jog to finish up the week and to get ready for a big w
 ### NOTES
 Total Time: **32 minutes** &nbsp; Distance: **5.6 km**
 
-Nice and easy jog on the bike path to _Quadra Street_ to finish up the evening.  I had butter chicken for dinner and that may not have been the best meal before a jog.  No aches or pains, just easy time on the feet.
+Easy jog on the bike path to _Quadra Street_ to finish up the evening.  I had butter chicken for dinner and that may not have been the best meal before a jog.  No aches or pains.
 
 ![Run Map](/assets/jpg/runmap-20210528.jpeg)
 
