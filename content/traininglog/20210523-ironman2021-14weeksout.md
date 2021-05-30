@@ -7,12 +7,14 @@ Week beginning [Sunday, May 23, 2021](javascript:flick('sun');)
 Keep on working.  With each week ticking away and the anticipation and anxiousness grows.
 
 ## SUMMARY
-I feel I like was...  
-<sup>(completed at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel I like was **IN A NICE GROOVE**
 
+Maybe it was the day off on [Monday](javascript:flick('mon');), but this week was what it should all be about.  Runs felt good, time on the bike felt good and the swim on [Saturday](javascript:flick('sat');) was really good too.
 
-<!---->
+**11 hours 45 minutes** with the day off training; that was only 50 minutes shy of [last week](ironman2021-15weeksout).
+
+![Properly pronounced "Hws-se-kum" according to the Cowichan Tribes](IMG_3264-977x550.jpeg Tsehum Harbour, North Saanich, BC)
+
 ## SUNDAY MAY 23 ☀️
 Sleep **3** | Fatigue **3** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -116,8 +118,7 @@ Bring a gel/calorie source. 100 calories should be plenty.
 ### NOTES
 Total Time: **75 minutes** &nbsp; Distance: **12.5 km**
 
-Run felt good, strides felt good; my right ankle was a bit tight through the first 30 minutes but good to go after that.  Basically some easy miles before a late dinner.
-
+Run felt good, strides felt good; my right ankle was a bit tight through the first 30 minutes but good to go after that.  Basically some easy mileage before a late pasta dinner.
 ![Run Map](/assets/jpg/runmap-20210526.jpeg)
 
 <!---->
@@ -144,28 +145,36 @@ Two things I noticed in the water this morning.  First, I noticed that swim freq
 ![Swim Chart](/assets/jpg/swim-20210527.jpeg)
 
 <!---->
-## FRIDAY MAY 28
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## FRIDAY MAY 28 ☀️
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 Run 30 minutes. Nice easy jog to finish up the week and to get ready for a big weekend
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **32 minutes** &nbsp; Distance: **5.6 km**
 
-&mdash; 
+Nice and easy jog on the bike path to _Quadra Street_ to finish up the evening.  I had butter chicken for dinner and that may not have been the best meal before a jog.  No aches or pains, just easy time on the feet.
 
 
 <!---->
-## SATURDAY MAY 29
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## SATURDAY MAY 29 ☀️
+Sleep **3** | Fatigue **2** | Stress **2** | Soreness **2**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 1030 Swim @Esquimalt 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **217 minutes** Finished: **Strong** 
 
-&mdash;
+Biked to and from the _Esquimalt Rec Centre_ this morning.
+
+On the ride home, I met up with a guy named Ryan.  He was about my age and just getting back from a 100km ride.  He is signed up for _Penticton_ too.  I hope to see him there.
+
+Jumping on the TT bike, I made my way via _Interurban_, out to _Willis Point Road_ for the hill work.
+
+I seem to have deleted the lap screen on my bike computer so I did the efforts on memory; meaning I seem to recall that from the bottom of the hill to _Durrance Lake_ would be pretty close to 10 minutes per effort.  The third time up I started to feel the work in my quads; regardless, I pushed through and finished that last trip to the lake strong.
+
+I had my nephew's birthday party to get to in Sidney, so once back down on _Wallace Drive_, I turned north and put my head down for a steady push up the peninsula.  I started to find a comfortably hard rhythm and went with it up the _Pat Bay Highway_ to _Resthaven Drive_.
