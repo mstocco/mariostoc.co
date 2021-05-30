@@ -148,7 +148,9 @@ Some minor lane congestion in the pool this morning but it has been worse.
 
 ---
 
-After a long day, I finally got on the bike at 2100 for a very light spin.  I pedalled for 50 minutes (51 total activity time) and watched a re-run of the IM Tulsa race.  At one point, the camera was on Andy Costas as he attempted to navigate a wet corner; he went down and my first reaction was to sit up.
+Even though the morning rain gave way to sunshine, I didn't get the ride done in the morning.
+
+Instead, after a long work day, I finally got on the TT bike at 2100 for a very light, pre-bedtime spin.  I pedalled for 50 minutes (51 total activity time) on the rollers and watched a portion of the IM Tulsa race.  At one point, the camera was on Andy Costas as he attempted to navigate a wet corner; he went down and my first reaction was to sit up.
 
 <!---->
 ## FRIDAY MAY 28 ☀️
@@ -162,7 +164,6 @@ Run 30 minutes. Nice easy jog to finish up the week and to get ready for a big w
 Total Time: **32 minutes** &nbsp; Distance: **5.6 km**
 
 Easy jog on the bike path to _Quadra Street_ to finish up the evening.  I had butter chicken for dinner and that may not have been the best meal before a jog.  No aches or pains.
-
 ![Run Map](/assets/jpg/runmap-20210528.jpeg)
 
 <!---->
@@ -171,12 +172,23 @@ Sleep **3** | Fatigue **2** | Stress **2** | Soreness **2**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-1030 Swim @Esquimalt 
+Swim 2450:  
+4 rounds (100 easy free, 50 steady kick, 50 swim w/ buoy)   
+2 rounds (10x 25 Odds: Strong/Fast, Evens: Relaxed/Easy r :20, 50 easy. R :30, 300 continuous/steady r :45)   
+6x 50 steady kick. R :15. 150 easy to cool down.
+
+Ride 2:00 on TT bike. Warm up 30 minutes. Include 6x :30 high cadence, :45 easy. When you're ready.... 
+3x 10 minutes uphill @ a pace you could hold for 45-60 minutes climbing, Easy descent after each. 
+Nice cool down to get up to 2 hours.  
+*Stay well fueled. Especially because you'll have swam before hand.
 
 ### NOTES
 Total Time: **217 minutes** Finished: **Strong** 
 
 Biked to and from the _Esquimalt Rec Centre_ this morning.
+
+I booked the Fast Lane today and I was surprised to find that it was configured as a single lane this morning.  Luckily for me, I was the only one to show up and I had that dedicated lane all to myself.  The first of the 25m Strong lengths came in at 20 seconds.  I was a bit disappointed in that.  Every 25m Strong length was faster and done on average in 18.7 seconds.  I did the first 300m in 5:48 (1:56/100m) and the second a bit slower in 5:53 (1:58/100m).  I swam the final 150m at 1:44/100m pace.
+
 
 On the ride home, I met up with a guy named Ryan.  He was about my age and just getting back from a 100km ride.  He is signed up for _Penticton_ too.  I hope to see him there.
 
