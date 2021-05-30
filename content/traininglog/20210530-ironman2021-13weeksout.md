@@ -4,7 +4,7 @@ Week beginning [Sunday, May 30, 2021](javascript:flick('sun');)
 **13 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-If I can duplicate how I felt [lastweek](ironman2021-14weeksout) again this week, that would be gold.
+If I can duplicate how I felt [last week](ironman2021-14weeksout) again this week, that would be <strong style="color:gold;">gold</strong>.
 
 ## SUMMARY
 I feel I like was...  
