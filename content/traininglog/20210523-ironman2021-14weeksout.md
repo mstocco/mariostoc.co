@@ -183,9 +183,11 @@ Nice cool down to get up to 2 hours.
 Total Time: **217 minutes** Finished: **Strong** 
 
 Biked to and from the _Esquimalt Rec Centre_ this morning.
-
+<!---->
 I booked the Fast Lane today and I was surprised to find that it was configured as a single lane this morning.  Luckily for me, I was the only one to show up and I had that dedicated lane all to myself.  The first of the 25m Strong lengths came in at 20 seconds.  I was a bit disappointed in that.  Every 25m Strong length was faster and done on average in 18.7 seconds.  I did the first 300m in 5:48 (1:56/100m) and the second a bit slower in 5:53 (1:58/100m).  I swam the final 150m at 1:44/100m pace.
 
+#### Swim Paces
+![Swim Pace Chart](/assets/jpg/swim-20210529.jpeg)
 
 On the ride home, I met up with a guy named Ryan.  He was about my age and just getting back from a 100km ride.  He is signed up for _Penticton_ too.  I hope to see him there.
 
@@ -194,3 +196,5 @@ Jumping on the TT bike, I made my way via _Interurban_, out to _Willis Point Roa
 I seem to have deleted the lap screen on my bike computer so I did the efforts on memory; meaning I seem to recall that from the bottom of the hill to _Durrance Lake_ would be pretty close to 10 minutes per effort.  The third time up I started to feel the work in my quads; regardless, I pushed through and finished that last trip to the lake strong.
 
 I had my nephew's birthday party to get to in Sidney, so once back down on _Wallace Drive_, I turned north and put my head down for a steady push up the peninsula.  I started to find a comfortably hard rhythm and went with it up the _Pat Bay Highway_ to _Resthaven Drive_.
+
+Looking back, I didn't complete the cadence work.  😡
