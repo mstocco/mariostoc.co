@@ -189,8 +189,8 @@ I booked the Fast Lane today and I was surprised to find that it was configured 
 #### Swim Paces
 ![Swim Pace Chart](/assets/jpg/swim-20210529.jpeg)
 
-On the ride home, I met up with a guy named Ryan.  He was about my age and just getting back from a 100km ride.  He is signed up for _Penticton_ too.  I hope to see him there.
-
+On the ride home, I met up with a guy named Ryan.  He was about my age and just getting back from his 100km ride.  He is signed up for _Penticton_ too.  I hope to see him there.
+<!---->
 Jumping on the TT bike, I made my way via _Interurban_, out to _Willis Point Road_ for the hill work.
 
 I seem to have deleted the lap screen on my bike computer so I did the efforts on memory; meaning I seem to recall that from the bottom of the hill to _Durrance Lake_ would be pretty close to 10 minutes per effort.  The third time up I started to feel the work in my quads; regardless, I pushed through and finished that last trip to the lake strong.
