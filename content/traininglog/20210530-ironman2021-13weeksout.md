@@ -13,8 +13,8 @@ I feel I like was...
 
 
 <!---->
-## SUNDAY MAY 30
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## SUNDAY MAY 30 ⛅️
+Sleep **3** | Fatigue **4** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -22,9 +22,25 @@ Run 1:45. Flatter route. Elk Lake, Goose, Lochside, so many choices!
 Stay well fueled. Keep the effort easy. Cover some good distance!
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **110 minutes** &nbsp; Distance: **18.6km**
 
-&mdash; 
+I woke up with some tightness in my right ankle and that doesn't make a whole lot of sense to me.  It lingered through the day too.
+
+That right ankle was not a bother during the run.  I my legs felt like I had a solid ride [yesterday](ironman2021-14weeksout?sat)  and I just went with that.  Super chill effort, focusing on posture and breathing while taking in the trip into _Downtown_, _James Bay_ and then a western bit of _Dallas Road_.
+
+Just before I hit the turn around, I noticed a runner heading in the opposite direction as me.  Super good form and going a decent clip.
+
+Around _Fisherman's Wharf_, I hopped off the sidewalk and ran on the side of the street.  My legs were feeling a bit heavier but I pretended like I was running the last mile of the marathon.  No sooner than I was in my make believe world, running for that sub-4 time, that runner with the good form pulls even with me (but on the opposite sidewalk).
+
+It's on brah!
+
+5:45/km became 5:20/km and that other runner was still there.  Going past the Legislature, 5:20/km became 5:10/km, that other was slotted in behind me, 10m back and still there.
+
+_Government Street_ turns into _Wharf Street_ and the other runner, still on my tail.
+
+Finally on the other side of the _Johnson Street Bridge_, I turn towards the _Goose_ and my buddy turned back towards _Downtown_.  So maybe a bit more than 3km of impromptu tempo work on the back half of today's long run.
+
+So the questions is, "was this smart to do?"   I certainly felt good with the raised pace; it was comfortable and in the moment, I felt like I had a lot more in the tank.  It felt worse to slow down to the plodding pace for the last few kilometres.  Maybe a better question to ask is, "if that other runner followed me to _Uptown_, would I have continued pushing above the prescribed pace?"
 
 
 <!---->
