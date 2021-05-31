@@ -47,8 +47,8 @@ So the questions is, "was this smart to do?"   I certainly felt good with the ra
 ![Run Map](/assets/jpg/runmap-20210530.jpeg)
 
 <!---->
-## MONDAY MAY 31
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## MONDAY MAY 31 🌤
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -57,7 +57,7 @@ Ride 80 minutes easy on the MTB. Have fun. Keep things pretty mellow. I'm sure y
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I slept well but my right ankle is tight again this morning.  Time to hit it with some compression.
 
 
 <!---->
