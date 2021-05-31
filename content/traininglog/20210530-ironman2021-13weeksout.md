@@ -29,10 +29,10 @@ I woke up with some tightness in my right ankle and that doesn't make a whole lo
 That right ankle was not a bother during the run.  I my legs felt like I had a solid ride [yesterday](ironman2021-14weeksout?sat)  and I just went with that.  Super chill effort, focusing on posture and breathing while taking in the trip into _Downtown_, _James Bay_ and then a western bit of _Dallas Road_.
 
 Just before I hit the turn around, I noticed a runner heading in the opposite direction as me.  Super good form and going a decent clip.
-
+<!---->
 Around _Fisherman's Wharf_, I hopped off the sidewalk and ran on the side of the street.  My legs were feeling a bit heavier but I pretended like I was running the last mile of the marathon.  No sooner than I was in my make believe world, running for that sub-4 time, that runner with the good form pulls even with me (but on the opposite sidewalk).
 
-It's on brah!
+#### It's on brah!
 
 5:45/km became 5:20/km and that other runner was still there.  Going past the Legislature, 5:20/km became 5:10/km, that other was slotted in behind me, 10m back and still there.
 
