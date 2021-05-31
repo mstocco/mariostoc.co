@@ -39,7 +39,7 @@ Around _Fisherman's Wharf_, I hopped off the sidewalk and ran on the side of the
 
 _Government Street_ turns into _Wharf Street_ and the other runner, still on my tail.
 
-Finally on the other side of the _Johnson Street Bridge_, I turn towards the _Goose_ and my new buddy turned back towards _Downtown_.  So maybe a bit more than 3km of impromptu tempo work on the back half of today's long run.
+Finally on the other side of the _Johnson Street Bridge_, I turn towards the _Goose_ and my new buddy turned back towards _Downtown_.  So a bit more than 3km of impromptu tempo work on the back half of today's long run.
 <!---->
 So the questions is, "was this smart to do?"   I certainly felt good with the raised pace; it was comfortable and in the moment, I felt like I had a lot more in the tank.  It felt worse to slow down to the plodding pace for the last few kilometres.  Maybe a better question to ask is, "if that other runner followed me to _Uptown_, would I have continued pushing above the prescribed pace?"
 
@@ -68,8 +68,10 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### PLANNED WORKOUT
 *No need for a bike to the pool this day.   
 5:30am: Swim 2400: 
-5 rounds (50 easy free, 50 Fist drill, 50 gradual build to strong r :20 after each) Extra 50 easy to get back to your end of the pool. 
-50, 100, 150, 200, 250, 250, 200, 150, 100, 50 steady and aerobic swimming. Odds: Swim, evens: w/ buoy. r :45 after each. 
+5 rounds (50 easy free, 50 Fist drill, 50 gradual build to strong r :20 after each) Extra 50 easy to get back to your end of the pool. (There is no buoy here) 
+
+50, 100, 150, 200, 250 all swim and steady/aerobic. r :45 easy. 50 easy. 
+Then...250, 200, 150, 100 w/ buoy steady and aerobic swimming. r :45 after each. 
 2x 50 EASY to cool down.
 
 Run 30 minutes easy. Flat route!
