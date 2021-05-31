@@ -43,6 +43,7 @@ Finally on the other side of the _Johnson Street Bridge_, I turn towards the _Go
 <!---->
 So the questions is, "was this smart to do?"   I certainly felt good with the raised pace; it was comfortable and in the moment, I felt like I had a lot more in the tank.  It felt worse to slow down to the plodding pace for the last few kilometres.  Maybe a better question to ask is, "if that other runner followed me to _Uptown_, would I have continued pushing above the prescribed pace?"
 
+#### To Mile Zero and Back
 ![Run Map](/assets/jpg/runmap-20210530.jpeg)
 
 <!---->
