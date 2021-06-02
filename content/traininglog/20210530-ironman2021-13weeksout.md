@@ -11,8 +11,7 @@ I feel I like was...
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
-
-<!---->
+![Tuesday evening's pedal through downtown.](/assets/jpg/IMG_3267-977x550.jpeg  Victoria Harbour Airport Terminal)
 ## SUNDAY MAY 30 ⛅️
 Sleep **3** | Fatigue **4** | Stress **2** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -59,10 +58,11 @@ Total Time: **0 minutes**
 
 I slept well but my right ankle is tight again this morning.  Time to hit it with some compression.
 
+Life hit and our drywaller was very late in getting the final touches done in the bathroom.  I couldn't just leave and go for a ride because we have the tile contractor scheduled for tomorrow.  Tonight's mountain bike is a missed workout.
 
 <!---->
-## TUESDAY JUN 01
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## TUESDAY JUN 1 ☀️
+Sleep **3** | Fatigue **4** | Stress **4** | Soreness **6**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -77,10 +77,15 @@ Then...250, 200, 150, 100 w/ buoy steady and aerobic swimming. r :45 after each.
 Run 30 minutes easy. Flat route!
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **130 minutes** &nbsp; Swim: **2400m**
 
-&mdash; 
+I am marking the sleep as a 3 but only because I slept (soundly) from 1600 to 1800 this afternoon.  Otherwise, I was tossing and turning until 0050 last night and up at 0455 for the swim.
 
+My right ankle is still bothered and sore again today.  I could feel it during the swim.
+
+Lanes were congested until the end.  I did my best to make it work and by the 
+
+Biked to and from the pool and biked again in the evening.
 
 <!---->
 ## WEDNESDAY JUN 02
