@@ -82,7 +82,7 @@ Run 30 minutes easy. Flat route!
 Total Time: **130 minutes** &nbsp; Swim: **2400m**
 
 I am marking the sleep as a 3 but only because I napped (**slept soundly**) from 1600 to 1800 this afternoon.  Without that nap, I would have graded sleep as poor; it was restless until 0050 then up at 0455 for the swim.
-
+<!---->
 My right ankle is still bothered and sore again today.  I feel that ankle during the swim too.  Specifically what is bothered is the **fibularis tertius muscle**.  That has its own cascading effect, namely with the soft tissue running behind the tibia/fibula, fibularis brevis (lateral) and flexor digitorum longus (medial).  I have to remind myself that I have been here before with this tiny muscle and it will calm down.
 
 Lanes were congested until the end session.  I was in the continuous lane with at times 9 or 10 others.  Apart from a female triathlete in a yellow HPR swim cap (our paces matched), I was passing people during the fist drill lengths.  I did my best to make it work.
