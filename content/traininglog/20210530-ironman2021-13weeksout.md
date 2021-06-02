@@ -54,11 +54,13 @@ Sleep **3** | Fatigue **4** | Stress **3** | Soreness **5**
 Ride 80 minutes easy on the MTB. Have fun. Keep things pretty mellow. I'm sure you're going to be a bit tired from
 
 ### NOTES
-Total Time: **0 minutes**
+<mark>Total Time: **0 minutes** </mark>
 
 I slept well but my right ankle is tight again this morning.  Time to hit it with some compression.
 
-Life hit and our drywaller was very late in getting the final touches done in the bathroom.  I couldn't just leave and go for a ride because we have the tile contractor scheduled for tomorrow.  Tonight's mountain bike is a missed workout.
+Life happened once again, this time it was our drywaller arriving very late to complete his final touches in the bathroom.  We have a tile contractor scheduled for tomorrow and it didn't feel responsible to go for a ride with renovation work still needing to be completed.
+
+Tonight's mountain bike ride was a missed workout.
 
 <!---->
 ## TUESDAY JUN 1 ☀️
@@ -79,7 +81,7 @@ Run 30 minutes easy. Flat route!
 ### NOTES
 Total Time: **130 minutes** &nbsp; Swim: **2400m**
 
-I am marking the sleep as a 3 but only because I napped (slept (soundly) from 1600 to 1800 this afternoon.  Otherwise, I was tossing and turning until 0050 last night and up at 0455 for the swim.
+I am marking the sleep as a 3 but only because I napped (**slept soundly**) from 1600 to 1800 this afternoon.  Without that nap, I would have graded sleep as poor; it was restless until 0050 then up at 0455 for the swim.
 
 My right ankle is still bothered and sore again today.  I feel that ankle during the swim too.  Specifically what is bothered is the **fibularis tertius muscle**.  That has its own cascading effect, namely with the soft tissue running behind the tibia/fibula, fibularis brevis (lateral) and flexor digitorum longus (medial).  I have to remind myself that I have been here before with this tiny muscle and it will calm down.
 
