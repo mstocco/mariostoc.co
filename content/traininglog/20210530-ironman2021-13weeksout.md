@@ -79,17 +79,17 @@ Run 30 minutes easy. Flat route!
 ### NOTES
 Total Time: **130 minutes** &nbsp; Swim: **2400m**
 
-I am marking the sleep as a 3 but only because I slept (soundly) from 1600 to 1800 this afternoon.  Otherwise, I was tossing and turning until 0050 last night and up at 0455 for the swim.
+I am marking the sleep as a 3 but only because I napped (slept (soundly) from 1600 to 1800 this afternoon.  Otherwise, I was tossing and turning until 0050 last night and up at 0455 for the swim.
 
-My right ankle is still bothered and sore again today.  I could feel it during the swim.
+My right ankle is still bothered and sore again today.  I feel that ankle during the swim too.  Specifically what is bothered is the **fibularis tertius muscle**.  That has its own cascading effect, namely with the soft tissue running behind the tibia/fibula, fibularis brevis (lateral) and flexor digitorum longus (medial).  I have to remind myself that I have been here before with this tiny muscle and it will calm down.
 
-Lanes were congested until the end.  I did my best to make it work and by the 
+Lanes were congested until the end session.  I was in the continuous lane with at times 9 or 10 others.  Apart from a female triathlete in a yellow HPR swim cap (our paces matched), I was passing people during the fist drill lengths.  I did my best to make it work.
 
-Biked to and from the pool and biked again in the evening.
+I rode my XC bike to and from the pool this morning and again this evening; **easy effort only** on the bike keeping movement but not torque in the ankle.  I had an errand (get Castelli's tri-suit to the Fed-Ex drop off) so I killed 2 birds with one stone by replacing tonight's 30 minute easy run with a ride.  Compared to the road and TT bike that I have been putting time on lately, the XC bike naturally adds a bit of resistance.
 
 <!---->
-## WEDNESDAY JUN 02
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## WEDNESDAY JUN 2☀️ 
+Sleep **2** | Fatigue **3** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -99,6 +99,8 @@ Run 60 minutes: 30 minutes easy running to warm up. 10x :30 strides, 1:00 easy j
 
 ### NOTES
 Total Time: **0 minutes**
+
+Morning points: I woke up feeling refreshed which may have something to do with the afternoon sleep I had [yesterday](javascript:flick('tue');).  More importantly, my right ankle is less stiff than this time yesterday.
 
 &mdash; 
 
