@@ -87,8 +87,7 @@ My right ankle is still bothered and sore again today.  I feel that ankle during
 
 Lanes were congested until the end session.  I was in the continuous lane with at times 9 or 10 others.  Apart from a female triathlete in a yellow HPR swim cap (our paces matched), I was passing people during the fist drill lengths.  I did my best to make it work.
 
-I rode my XC bike to and from the pool this morning and again this evening; **easy effort only** on the bike keeping movement but not torque in the ankle.  I had an errand (get Castelli's tri-suit to the Fed-Ex drop off) so I killed 2 birds with one stone by replacing tonight's 30 minute easy run with a ride.  Compared to the road and TT bike that I have been putting time on lately, the XC bike naturally adds a bit of resistance.
-
+I rode my XC bike to and from the pool this morning and again this evening; **easy effort only** on the bike keeping movement but not torque in the ankle.  I had an errand (get Castelli's tri-suit to the Fed-Ex drop off) so I killed 2 birds with one stone by replacing tonight's 30 minute easy run with a ride.  I noticed the naturally added resistance of the XC bike compared to the road/TT bikes I have put time on recently.
 <!---->
 ## WEDNESDAY JUN 2☀️ 
 Sleep **2** | Fatigue **3** | Stress **3** | Soreness **4**  
