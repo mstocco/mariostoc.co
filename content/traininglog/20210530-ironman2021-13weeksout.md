@@ -7,9 +7,13 @@ Week beginning [Sunday, May 30, 2021](javascript:flick('sun');)
 If I can duplicate how I felt [last week](ironman2021-14weeksout) again this week, that would be <span class="agencyvc" style="color:black;">GOLDEN</span>.
 
 ## SUMMARY
-I feel I like was...  
-<sup>(completed at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel I like was **FINDING THE EDGE**.
+
+This ended up being a **14 hour week** despite missing a day of training on [Monday](javascript:flick('mon');).  All three bikes were ridden and this was my biggest swim week to date (**~7500m**).  [Saturday](javascript:flick('sat');) was my first open water swim of the year.
+
+The renovation still takes a bit of time and energy but that project is starting to come to an end.
+
+I had a right ankle flare up that cleared itself by the end of the week.
 
 ![Tuesday evening's pedal through downtown.](/assets/jpg/IMG_3267-977x550.jpeg  Victoria Harbour Airport Terminal)
 ## SUNDAY MAY 30 ⛅️
@@ -107,8 +111,8 @@ Morning points: I woke up feeling refreshed which may have something to do with 
 
 
 <!---->
-## THURSDAY JUN 03
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## THURSDAY JUN 3 🌤
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -124,10 +128,17 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 Ride 60 minutes easy. Long way home. Nice easy spinning. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **140 minutes** &nbsp; Swim: **2700m**
 
-&mdash; 
+Up and out the door early for the swim.  I think 8:15 for the bike to the pool is a PR as I was a bit lucky with the traffic lights this morning.
 
+My ankle was a touch bothered by the kick reps but in good shape for the remainder of the swim.  I whiffed on the workout by continuing the 2 Rounds of the main set and making it 3.  I caught it, stopped recording the main workout and started recording a basic swim to pick up the long steady 750.  I made it an 800 + 50m cool down length and without trying, recorded a new PR.  For the 750m distance, I shaved 30 seconds off my previous best, recorded just before Covid 19 hit last year.
+
+Before leaving the pool for the hour ride I had a banana; it sat well (no GI) but the effort was easy.  Or at least it was until I decided to hold off a dude on his e-bike during the last stretch of bike path between _Helmcken_ and home 
+
+Great way to start the day.
+
+My ankle is feeling better and I had a late afternoon nap to cap it off too!
 
 <!---->
 ## FRIDAY JUN 04
