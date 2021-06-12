@@ -165,7 +165,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+First open water swim of the season and it landed on a windy day.  I picked _Durrance Lake_ for the workout venue as it is someplace "new" for me to swim.  I was hesitant to get cold and wet but very surprised to feel how warm the water was.  
 
 
 <!---->
