@@ -13,7 +13,7 @@ class CalendarMonth(DIV):
 	def __init__(self, yyyy, mm):
 
 		specialDates = []
-		specialDates.append(date(2021,8,29))    # Ironman Canada
+		specialDates.append(date(2021,9,26))    # Ironman Canada
 		specialDates.append(date(2020,10,31))   # 5K Workout
 		specialDates.append(date(2020,11,21))   # 5K Workout
 		specialDates.append(date(2020,12,5))    # 5KM TT
@@ -121,7 +121,7 @@ class IronmanCalendar(TemplateDocument):
 		self.domain = 'mariostoc.co'
 		self.documentURI = '/traininglog/calendar'
 		self.description = 'Training Calendar - Ironman 2021'
-		self.lastModified = 20201113
+		self.lastModified = 20210611
 		self.masthead = Masthead()
 		self.navigation = Navigation()
 		self.carousel = Carousel()
@@ -136,6 +136,7 @@ class IronmanCalendar(TemplateDocument):
 		self.carousel.append(firstCell)
 	
 		carouselCells = []
+		carouselCells.append(CalendarMonths())
 		carouselCells.append(CalendarMonths())
 		carouselCells.append(CalendarMonths())
 		carouselCells.append(CalendarMonths())
@@ -160,6 +161,13 @@ class IronmanCalendar(TemplateDocument):
 				mm = 1
 				yyyy = 2021
 
+		addendum = P({'style':'font-size:0.8em;background-color:#E0ECF8;padding:0 7px;margin-bottom:32px;'})
+		addendum.append('Based on the guidelines from the Province of British Columbia in relation to the COVID-19 pandemic, the 2021 Subaru IRONMAN Canada – Penticton event was postponed from August 29 to September 26')
+
+		carouselCells[4].append(DIV({'style':'height:202px;'}))
+		carouselCells[4].append(H4('CALENDAR UPDATE: June 6, 2021'))
+		carouselCells[4].append(addendum)
+		carouselCells[4].append(CalendarMonth(2021, 9))
 		for cell in carouselCells:
 			self.carousel.append(cell)
 		self.carousel.append(CarouselLast())
