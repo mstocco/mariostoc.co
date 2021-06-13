@@ -4,7 +4,7 @@ Week beginning [Sunday, June 13, 2021](javascript:flick('sun');)
 **15 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-With the confirmation that Ironman Canada is a go in September, I had to drop my backup plan for Ironman Italy.  It is just more realistic to travel by car to a local race than to fly 9 timezones away during the backend of a global pandemic.  Consistency has been paying off; my goal for this week is to keep showing up.  
+With the confirmation that Ironman Canada is a go in September, I had to drop my backup plan for Ironman Italy.  It is just more realistic to travel by car to a local race than to fly 9 timezones away during the backend of a global pandemic.  Consistency has been paying off; my goal for this week is to **keep showing up**.  
 
 ## SUMMARY
 I feel I like was...  
@@ -14,7 +14,7 @@ I feel I like was...
 
 <!---->
 ## SUNDAY JUN 13
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
