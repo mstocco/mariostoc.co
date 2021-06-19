@@ -7,10 +7,11 @@ Week beginning [Sunday, June 13, 2021](javascript:flick('sun');)
 With the confirmation that Ironman Canada is a go in September, I had to drop my backup plan for Ironman Italy.  It is just more realistic to travel by car to a local race than to fly 9 timezones away during the backend of a global pandemic.  Consistency has been paying off; my goal for this week is to **keep showing up**.  
 
 ## SUMMARY
-I feel I like was...  
-<sup>(completed at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel I like was **ON THE EDGE**
 
+The carry over from [last Saturday](ironman2021-16weeksout?sat) (the ride in particular) stayed with me throughout this week.
+
+This is the second week that I struggled to find time to journal.  Work has been steady and engaging, the bathroom renovation has taken up some of my time and I still need to 
 
 <!---->
 ## SUNDAY JUN 13
@@ -22,9 +23,9 @@ Run 2:15. Really similar to [last week](ironman2021-16weeksout?sun). Easy effort
 Post run: Put on a timer for 20 minutes and stretch/roll.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **137 minutes** &nbsp; Distance: **22km**
 
-&mdash; 
+Very late, post-dinner start to today's workout.  I think my leg
 
 
 <!---->
@@ -114,14 +115,18 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 Run 50 minutes. Hilly route. EASY effort.  Great day to stretch and roll out.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **52 minutes** &nbsp; Distance: **8.0 km**
 
-&mdash; 
+The construction of the _Mckenzie Interchange_ left a 13m high berm to separate the highway from the park.  It's an easy 6 minute easy jog to and from that berm and that was my where tonight's workout was.  16 reps, easy to the top before turning around to head back down.
+
+As I got to the top, a guy, about my age, had walked up the backside of the hill.  I kept doing my thing, jogging up and down while he took in to view from the top.  On his walk down, I smiled at him, he smiled back and I blurted out, "12 more to go...". He thought about it for a moment and came back with, "I am glad I'm not you."
+
+I continued up the hill with a smile and in my head I said, "No bud, I am glad I am not you."  It is Friday evening and I am thankful to be putting in the work to realize a goal.
 
 
 <!---->
 ## SATURDAY JUN 19
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -130,7 +135,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I got rid of the wasp nest above the garage!  What a relief.
+
+Before heading to the lake, I had a session rolling out my right hamstring; that and my glutes were sore upon waking this morning.
 
 
 <!---->
