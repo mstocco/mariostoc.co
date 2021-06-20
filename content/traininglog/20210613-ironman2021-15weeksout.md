@@ -133,11 +133,14 @@ Sleep **3** | Fatigue **4** | Stress **3** | Soreness **5**
 &mdash; 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **205 minutes** 
 
 I got rid of the wasp nest above the garage!  What a relief.
 
 Before heading to the lake, I had a session rolling out my right hamstring; that and my glutes were sore upon waking this morning.
 
+Once in the water, I did find a pretty good rhythm with sighting and breathing.  I swam from Hamsterly to Eagle Beach and I seemed to be quicker on the way back.  There wasn't much of a breeze either.
 
-<!---->
+I rode the TT Bike north from Elk Lake.  I wasn't 6 minutes in when I needed a pit-stop.  The effort was mostly easy.  One thing I did a bit different was to grunt a little longer in the aero bars when on an incline.  Habitually, I am up and out of them when my speed drops below 22 kph.
+
+For calories, I had a can of Redbull (? calories) before I left the lake and got through 1 and a half bottles of lemonade (450 calories).
