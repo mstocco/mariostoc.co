@@ -49,8 +49,9 @@ I woke at 0430 with a headache.  I don't think it was dehydration as my weight w
 
 Hitting the light at _Douglas_ and _Finlayson_ gave me a PR for the commute to _Crystal Pool_.
 
-Once in the water, I felt good, minus the throbbing headache.  My times recorded in the workout file might be a little less consistent because of some lane congestion but the effort was there.  I missed the final 100m cool down because I was getting short on 
+Once in the water, I felt good, minus the throbbing headache.  The  times recorded for some sets in the workout file might be a little less consistent because of some lane congestion but the effort was there.  I missed the final 100m cool down because I was getting short on.  The bulk of the work got done and I think I was "feeling the water" ok this morning.
 
+The round about way to commute home took me along Dallas Road in a counterclockwise route along the waterfront.  I ran into a my friend Costain and his new puppy "Eddy".  It was the first time since the pandemic since we've seen each other (in person).  The weather was perfect for a morning ride and although my quads didn't feel completely fresh, I did get a spin in.
 
 <!---->
 ## TUESDAY JUN 22
