@@ -11,7 +11,6 @@ I feel I like was...
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
-
 <!---->
 ## SUNDAY JUN 20 ☀️
 Sleep **3** | Fatigue **5** | Stress **3** | Soreness **5**  
@@ -54,8 +53,8 @@ Once in the water, I felt good, minus the throbbing headache.  The  times record
 The round about way to commute home took me along Dallas Road in a counterclockwise route along the waterfront.  I ran into a my friend Costain and his new puppy "Eddy".  It was the first time since the pandemic since we've seen each other (in person).  The weather was perfect for a morning ride and although my quads didn't feel completely fresh, I did get a spin in.
 
 <!---->
-## TUESDAY JUN 22
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## TUESDAY JUN 22 ☀️
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -65,8 +64,7 @@ Solid mid-week long run.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
-
+I had a descent sleep last night and am starting to feel _"caught up"_.
 
 <!---->
 ## WEDNESDAY JUN 23
