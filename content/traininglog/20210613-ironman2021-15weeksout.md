@@ -11,9 +11,12 @@ I feel I like was **ON THE EDGE**
 
 The carry over from [last Saturday](ironman2021-16weeksout?sat) (the ride in particular) stayed with me throughout this week.
 
-This is the second week that I struggled to find time to journal.  Work has been steady and engaging, the bathroom renovation has taken up some of my time and I still need to 
+This is the second week that I struggled to find time to journal.  Work has been steady and engaging, the bathroom renovation has taken up some of my time and the weather has been such that I'd rather not be on the keyboard as much.
 
-<!---->
+This was a **14 hour week**.
+
+![This picture was an accident.  I went for a bike ride after a swim but I was supposed to have gone for a run.](/assets/jpg/OB20210616-977x550 Near the Oak Bay Marina)
+
 ## SUNDAY JUN 13
 Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -25,8 +28,9 @@ Post run: Put on a timer for 20 minutes and stretch/roll.
 ### NOTES
 Total Time: **137 minutes** &nbsp; Distance: **22km**
 
-Very late, post-dinner start to today's workout.  I think my leg
+Very late, post-dinner start to today's workout.  I really struggled to "find a nice stride"; this was a crash fest with the ground for the first 18 kilometres.  It really wasn't until the last stretch on the _Goose_ that I found any sort of rhythm.
 
+Sharp but brief twinge at the bottom of my right fibula at 5, 11 and the 13th kilometre marks.
 
 <!---->
 ## MONDAY JUN 14
@@ -43,13 +47,14 @@ Short commute to/from the pool.
 100 easy to cool down.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **60 minutes** &nbsp; Distance: **2400m**
 
-&mdash; 
+I drove to and from the pool this morning.
 
+In the water, I could feel the past weekend, right from the first length.  The 12x100m descending was an exercise in humility.  The harder the effort, the harder it became to make any time on the previous length.  Those 12x100m descending numbers look flat as a board
 
 <!---->
-## TUESDAY JUN 15
+## TUESDAY JUN 15 ☀️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -59,13 +64,18 @@ Ride 85 minutes. Spin 25-30 minutes easy (Maybe a bit extra on the way out vs ba
 Run 30 minutes flat and EASY. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **130 minutes**
 
-&mdash; 
+On the way out toward _Langford_, I rode with a guy named Gerald who, at 61, was signed up for his first triathlon.  Turns out, he opted for the Calgary 70.3 in lieu of the cancelled Victoria 70.3 race.  I'll be cheering for him in August!
 
+I decided to add a bit more of a challenge to this week's hill workout.  I rode a bit further, to the _Braemar Heights_ subdivision to tackle the hill of _Haida Drive_.  
+
+Each time up was harder effort, gaining 5m on the last rep.  I finally reached the crest of the hill on the end of the sixth rep.  I was huffing and puffing pretty good tonight.
+
+I still hadn't had dinner yet but I had a window to get the 30 minutes of easy running in.  Default easy route to the _Selkirk Trestle_ but I took the hillier _Burnside Road_ back to change things up a bit.
 
 <!---->
-## WEDNESDAY JUN 16
+## WEDNESDAY JUN 16 ☀️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -82,13 +92,17 @@ Short commute to/from the pool.
 Run 45 minutes: As.....30 minutes easy to start. Followed by 12x :20 strides, :40 walk after each. 3 minute jog to cool down.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **130 minutes** &nbsp; Swim: **2100m**
 
-&mdash; 
+Cooler morning than expected for a bike ride.  Oh well, _"be bold, start cold."
 
+In the water, the warmup sucked but the swim got better after that.  For me, 150m is a _"tweener"_ distance that is to short to be paced and too long to be raced.  The last 100m was clocked at 1:50 so this was a good workout.
+
+This is my training "goof" of the week:  
+Leaving the pool, I didn't read that I had a run to do.  Instead I set off on my bike for an hour and a bit.  It was sunny but cool and I pretended like it was Penticton in the third week of September.  I did get [this week's photo](javascript:flkty.select(2);) while pedalling the waterfront route.
 
 <!---->
-## THURSDAY JUN 17
+## THURSDAY JUN 17 ☀️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -101,13 +115,14 @@ Ride 1:40 on MTB. Head to your favorite trail.
 4. You have the all clear to pin it to get up some of the hills, or push up a shallower because you want to!
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **105 minutes**
 
-&mdash; 
+Besides crashing 3 times on the descent from Scafe Hill, this was a fun ride.  I am thankful that I learned how to fall off a bike when I was young but I probably shouldn't put myself on trails above my current skill set.  I did have a good run on _Comfy Wooden Chair_ and another random trail that took me up the north side of _Stewart_.
 
+I stopped for a bit at the top of _Scafe Hill_ to take in the view of the _South Island_.   
 
 <!---->
-## FRIDAY JUN 18
+## FRIDAY JUN 18 ☀️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -125,7 +140,7 @@ I continued up the hill with a smile and in my head I said, "No bud, I am glad I
 
 
 <!---->
-## SATURDAY JUN 19
+## SATURDAY JUN 19 ☀️
 Sleep **3** | Fatigue **4** | Stress **3** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
