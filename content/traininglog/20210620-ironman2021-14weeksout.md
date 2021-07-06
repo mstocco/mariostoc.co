@@ -29,7 +29,7 @@ In place of training, Carina and I cleaned the house, top to bottom, getting rid
 Whether it was not exercising or that I was genuinely was feeling off, I was tired and cranky to end the day.
 
 <!---->
-## MONDAY JUN 21
+## MONDAY JUN 21 ☀️
 Sleep **4** | Fatigue **4** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -66,9 +66,15 @@ Total Time: **0 minutes**
 
 I had a descent sleep last night and am starting to feel _"caught up"_.
 
+I got into my running shoes later at night.  The afternoon heat was blown away with winds that kicked up from the ocean.  It was still warm enough to be in a singlet though.
+
+I locked into a 5:55/km pace immediately and that suck pretty much over the entire 9 minutes.
+
+My only niggle felt on the the was the 
+
 <!---->
 ## WEDNESDAY JUN 23
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **5** | Fatigue **3** | Stress **3** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -86,7 +92,7 @@ Total Time: **0 minutes**
 
 &mdash; 
 
-
+My right hamstring is lit up pretty good; the soreness is right in the belly of the muscle.  Residual from last night's run though I am not sure running has been comfortable for a while now.
 <!---->
 ## THURSDAY JUN 24
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  

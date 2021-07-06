@@ -4,7 +4,7 @@ Week beginning [Sunday, July 4, 2021](javascript:flick('sun');)
 **12 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-&mdash; 
+Travel done.  Time to get back into a routine.
 
 ## SUMMARY
 I feel I like was...  
@@ -13,12 +13,77 @@ I feel I like was...
 
 
 <!---->
-## SUNDAY JUL 04
+## SUNDAY JUL 4 ☀️
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**  
+<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+
+### PLANNED WORKOUT
+1st: Open Water swim 52 minutes: 
+4x 2 minutes easy swimming. R 1:00 (stretch/get loose during the rest) 
+Then....4x 8 minutes continuous and steady swimming. Always have an area to sight on. Practice swimming straight!
+Rest 2:00 between each. Short stretch/splash around to cool down. 
+
+2nd: Run 2:00. Easy effort. Early and consistent fuelling.
+
+### NOTES
+Total Time: **0 minutes**
+
+Nice day so instead of driving to Elk Lake, I thought I would ride.  I don't know what I was thinking as it is ~45 minutes of pedalling to get to Hamsterly Beach; meaning an hour and a half of pedalling that was not on the calendar for today.  I pedalled softly.
+
+Once in the water and away from the flotila of blown up objects, I felt pretty comfortable.  Garmin doesn't have a way to do two different interval lengths for their OWS activities so I after the 4x2 minute warm up, I had to stop the activity, reset the interval value and start a second activity.  In doing that, I pressed start and for whatever reason, must have pressed stop because I swam probably 10 minutes without the watch recording.  Regardless, I got myself back on track with the 4x8 minute set and continued swimming straight and with a nice rythmn.
+
+The first lap of the lake was easy running.
+
+The second lap started to become a slog.
+
+<!---->
+## MONDAY JUL 5 ☀️
+Sleep **4** | Fatigue **3** | Stress **4** | Soreness **4**  
+<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+
+### PLANNED WORKOUT
+Short commute to/from pool. 
+5:30am: Swim 2100: 
+6 rounds (50 easy free r :10, 25 steady kick r :10)
+6 rounds (50 as 25 fist/25 strong catch r :15, 50 w/ buoy and catch focus r :15)
+16x 25 Odds: Strong/High turnover/consistent kick, Evens: EASY r :15. 
+50 super easy. 
+5x 100 steady w/ your best form. r :20. 
+4x 25 easy to cool down
+
+### NOTES
+Total Time: **0 minutes**
+
+12 minute bike to Esquimalt Rec Centre.
+
+Shared the fast lane with a guy more that half my age that was a swimmer most of his life.  Really awesome experience and it pushed me harder than I likely would have otherwise.  My arms, shoulders and lats were tired but I worked through it and got out of the water feeling like I accomplished something.
+
+
+<!---->
+## TUESDAY JUL 6 ☀️
+Sleep **5** | Fatigue **3** | Stress **4** | Soreness **5**  
+<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+
+### PLANNED WORKOUT
+Ride 1:30 on TT bike. Easy spin out to Willis Point road. 3x 8 minutes uphill @ an effort you can hold for 40-50 minutes all out. Easy descent after each effort. Easy spin home to finish up. 
+Make sure you have some calories in your water bottle.
+
+Off the bike or earlier in the day.... Run 25 minutes flat and EASY.
+
+### NOTES
+Total Time: **0 minutes**
+
+0100 wake up to hit the bathroom and take an Advil; my head is throbbing.  I don't know if I can point to de-hydration because my weight is _"normal"_ but I am bunged up.  0630 and the headache is still there but movement begets movement and I have    finally evacuated myself (twice).  The coffee helped.
+
+
+<!---->
+## WEDNESDAY JUL 7
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Run 60 minutes, hilly route. EASY effort. 
+Followed by 12x :20 flat strides, :40 walk after each. Short walk to cool down.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -27,12 +92,19 @@ Total Time: **0 minutes**
 
 
 <!---->
-## MONDAY JUL 05
+## THURSDAY JUL 8
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Short commute to the pool. 
+5:30am: Swim 2500: 
+3 rounds (100 easy free, 100 moderate effort w/ buoy r :20 after each) 
+8x 200 as 25 meters strong/25 meters relaxed-smooth. r :45. Odds: Swim, Evens: w/ buoy. 
+8x 25 FAST r :40. 
+100 easy to cool down.
+
+Ride 60 minutes EASY on the way home from the pool.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -41,54 +113,14 @@ Total Time: **0 minutes**
 
 
 <!---->
-## TUESDAY JUL 06
+## FRIDAY JUL 9
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+60 minute easy spin on the trainer, the rollers, outside on any bike you like. Just make sure it's easy.
 
-### NOTES
-Total Time: **0 minutes**
-
-&mdash; 
-
-
-<!---->
-## WEDNESDAY JUL 07
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
-<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
-
-### PLANNED WORKOUT
-&mdash; 
-
-### NOTES
-Total Time: **0 minutes**
-
-&mdash; 
-
-
-<!---->
-## THURSDAY JUL 08
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
-<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
-
-### PLANNED WORKOUT
-&mdash; 
-
-### NOTES
-Total Time: **0 minutes**
-
-&mdash; 
-
-
-<!---->
-## FRIDAY JUL 09
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
-<sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
-
-### PLANNED WORKOUT
-&mdash; 
+Run 30 minutes flat and easy.
 
 ### NOTES
 Total Time: **0 minutes**
