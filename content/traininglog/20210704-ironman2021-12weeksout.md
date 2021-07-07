@@ -26,15 +26,18 @@ Rest 2:00 between each. Short stretch/splash around to cool down.
 2nd: Run 2:00. Easy effort. Early and consistent fuelling.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **270 minutes**  Est. Swim: **2000m**  
+Bike Comute Time: **90 minutes**
 
 Nice day so instead of driving to Elk Lake, I thought I would ride.  I don't know what I was thinking as it is ~45 minutes of pedalling to get to Hamsterly Beach; meaning an hour and a half of pedalling that was not on the calendar for today.  I pedalled softly.
-
+<!---->
 Once in the water and away from the flotila of blown up objects, I felt pretty comfortable.  Garmin doesn't have a way to do two different interval lengths for their OWS activities so I after the 4x2 minute warm up, I had to stop the activity, reset the interval value and start a second activity.  In doing that, I pressed start and for whatever reason, must have pressed stop because I swam probably 10 minutes without the watch recording.  Regardless, I got myself back on track with the 4x8 minute set and continued swimming straight and with a nice rythmn.
 
 The first lap of the lake was easy running.
 
 The second lap started to become a slog.
+
+Store brand drink mix (strawberry) for the first lap/first bottle.  Maurten 320 for the second lap/second bottle.
 
 <!---->
 ## MONDAY JUL 5 ☀️
@@ -52,12 +55,11 @@ Short commute to/from pool.
 4x 25 easy to cool down
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **75 minutes** &nbsp; Swim: **2100m**
 
-12 minute bike to Esquimalt Rec Centre.
+12 minute bike to Esquimalt Rec Centre (14 minutes back).
 
 Shared the fast lane with a guy more that half my age that was a swimmer most of his life.  Really awesome experience and it pushed me harder than I likely would have otherwise.  My arms, shoulders and lats were tired but I worked through it and got out of the water feeling like I accomplished something.
-
 
 <!---->
 ## TUESDAY JUL 6 ☀️
@@ -75,7 +77,9 @@ Total Time: **0 minutes**
 
 0100 wake up to hit the bathroom and take an Advil; my head is throbbing.  I don't know if I can point to de-hydration because my weight is _"normal"_ but I am bunged up.  0630 and the headache is still there but movement begets movement and I have    finally evacuated myself (twice).  The coffee helped.
 
+Also, my lumbar is lit up (again) and that is **super frustrating**.
 
+Rode the route a
 <!---->
 ## WEDNESDAY JUL 7
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
