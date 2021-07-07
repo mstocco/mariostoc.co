@@ -79,10 +79,13 @@ Total Time: **0 minutes**
 
 Also, my lumbar is lit up (again) and that is **super frustrating**.
 
-Rode the route a
+Rode the route as written with 3 times up Willis Point Road to the turn around near the dump.  I got about 50m further up the road on the second time up and maybe 150m further on third effort.  Just as important was spendig the time going fast downhill on the TT bike.
+
+No issues with the bike while on the bike but getting upright and walking the bike to the garage afterward was a tender experience.
+
 <!---->
-## WEDNESDAY JUL 7
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## WEDNESDAY JUL 7 ☀️
+Sleep **4** | Fatigue **2** | Stress **3** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -92,7 +95,7 @@ Followed by 12x :20 flat strides, :40 walk after each. Short walk to cool down.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Movement in the night was enough to have my back wake me up.  I am sore again this morning (expected).
 
 
 <!---->
