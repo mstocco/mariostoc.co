@@ -75,8 +75,10 @@ Off the bike or earlier in the day.... Run 25 minutes flat and EASY.
 ### NOTES
 Total Time: **0 minutes**
 
-0100 wake up to hit the bathroom and take an Advil; my head is throbbing.  I don't know if I can point to de-hydration because my weight is _"normal"_ but I am bunged up.  0630 and the headache is still there but movement begets movement and I have    finally evacuated myself (twice).  The coffee helped.
+0100 wake up to hit the bathroom and take an Advil; my head is throbbing.  I don't know if I can point to de-hydration because my weight is _"normal"_ but I am bunged up.
 
+0630 and the headache is still there but movement begets movement and I have    finally evacuated myself (twice).  The coffee helped.
+<!---->
 Also, my lumbar is lit up (again) and that is **super frustrating**.
 
 Rode the route as written with 3 times up Willis Point Road to the turn around near the dump.  I got about 50m further up the road on the second time up and maybe 150m further on third effort.  Just as important was spendig the time going fast downhill on the TT bike.
@@ -97,7 +99,9 @@ Total Time: **0 minutes**
 
 Movement in the night was enough to have my back wake me up.  I am sore again this morning (expected).
 
+I laced up my shoes after dinner and started with a walk.  I tried running for a short bit but there wasn't much life in the legs tonight.  I continue to the manmade hill in Cuthbert Homes Park and walked up it 10 times before walking home.  
 
+Live to fight another day.
 <!---->
 ## THURSDAY JUL 8
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
@@ -146,7 +150,4 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
-
-
-<!---->
+&mdash;
