@@ -103,8 +103,8 @@ I laced up my shoes after dinner and started with a walk.  I tried running for a
 
 Live to fight another day.
 <!---->
-## THURSDAY JUL 8
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## THURSDAY JUL 8 ☀️
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -118,14 +118,18 @@ Short commute to the pool.
 Ride 60 minutes EASY on the way home from the pool.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **120 minutes** &nbsp; Swim: **2500m**
 
-&mdash; 
+This swim hit the mark in terms of distance but when looking back, the 8x200m should have been alternating strong/relaxed and I swam steady for each set.  Regardless, I did get the work in and I with the bit of rest in between, I was consistently hitting the wall in 18 seconds for the 25m fast reps.
 
+After the swim, I rode for 45 minutes before getting home.
 
+I rode again in the afternoon; 15 minutes to Carina's Office and then for an another 40 minutes just noodling through town.
+
+My back does feel better today.
 <!---->
 ## FRIDAY JUL 9
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **2** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -134,18 +138,23 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 Run 30 minutes flat and easy.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **90 minutes**
 
-&mdash; 
+After work, I decided to do the run first.  The weather app said it was 25°C outside but a sign near the _Switch Bridge_ said 31°C.  It felt closer to the latter.  I ran easy up the _Lochside Trail_ and turned back after 16 minutes.  I was in a very comfortable groove on the way back and even split the run almost to the second.
 
+Before dinner, I rode up _Highlands _ to _Barker Road_.  Easy spinning, even up some of the punchy hills on the way out and a fun descent on the way out of the park.
+
+My back did better again today.
 
 <!---->
-## SATURDAY JUL 10
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## SATURDAY JUL 10 ☀️
+Sleep **4** | Fatigue **2** | Stress **3** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Ride 2:30 on TT bike. Flat to rolling route. Standard fueling. Standard hydration. Easy to steady effort. 
+
+Great  day to STRETCH.
 
 ### NOTES
 Total Time: **0 minutes**
