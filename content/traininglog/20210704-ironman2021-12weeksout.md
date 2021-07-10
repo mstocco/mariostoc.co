@@ -12,7 +12,7 @@ I feel I like was...
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
 
-![Catching some of the golden hour on a ride Friday Night.](/assets/jpg/IMG_3320-977x550.jpeg BURNSIDE ROAD WEST)
+![Catching some of the golden hour on a ride Friday evening.](/assets/jpg/IMG_3320-977x550.jpeg WATKISS WAY,  NEAR VICTORIA GENERAL HOSPITAL)
 
 ## SUNDAY JUL 4 ☀️
 Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**  
