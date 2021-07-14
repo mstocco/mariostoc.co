@@ -39,7 +39,7 @@ Once on the run, things were pretty straight forward; Hamsterly Beach to home ro
 
 I ran with a +300 calorie bottle and took the first 80 minutes to finish it.
 <!---->
-## MONDAY JUL 12
+## MONDAY JUL 12 ☀️
 Sleep **4** | Fatigue **4** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -60,7 +60,7 @@ Pretty straight forward swim; initially I felt yesterday's time in _Elk Lake_ li
 
 The ride to the pool was a PR (hit the traffic lights well) but nice and easy back home.
 <!---->
-## TUESDAY JUL 13
+## TUESDAY JUL 13 ☀️
 Sleep **4** | Fatigue **3** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -88,7 +88,7 @@ Both Carina and I woke with similar headaches this morning.  I don't suspect deh
 
 I could not smell smoke but visually there was a hint of it in the air this evening.  It made for an incredible sunset.
 <!---->
-## WEDNESDAY JUL 14
+## WEDNESDAY JUL 14 ☀️
 Sleep **4** | Fatigue **4** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
