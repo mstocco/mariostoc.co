@@ -44,7 +44,7 @@ Sleep **4** | Fatigue **4** | Stress **3** | Soreness **4**
 8x 50 as 25 Fist drill/25 strong finish to stroke r :20. 
 8x 50 as 25 FAST/25 relaxed r :20  
 4x 250 steady/aerobic w/ buoy. r 1:00. 
-4x 50 as 25 backstroke/easy/25 easy free. Rest as needed
+4x 50 as 25 backstroke/easy/25 easy free.
 
 ### NOTES
 Total Time: **70 minutes** &nbsp; Swim: **2400m**
@@ -53,7 +53,7 @@ Upon waking, I felt stiffer than I thought I should have; like I ran 20 km or mo
 
 Pretty straight forward swim; initially I felt yesterday's time in _Elk Lake_ lingering but that didn't last long.  I started in the Continuous Lane but saw that there was more space in the Fast Lane; I finished up there.
 
-The ride to the pool was a PR (hit the traffic lights well) and nice and easy back home.
+The ride to the pool was a PR (hit the traffic lights well) but nice and easy back home.
 <!---->
 ## TUESDAY JUL 13
 Sleep **4** | Fatigue **3** | Stress **4** | Soreness **4**  
@@ -95,7 +95,7 @@ Short spin to the pool.
 ### NOTES
 Total Time: **50 minutes** &nbsp; Swim: **2200m**
 
-I really wanted to sleep longer this morning.  I had a Red Bull before heading out the door and if it wasn't for the traffic light on Blanchard and Hillside, I would have set a new PR for a solid effort to the pool.
+I really wanted to sleep longer this morning.  I had a Red Bull before heading out the door (first time for this) and if it wasn't for the traffic light on Blanchard and Hillside, I would have set a new PR for a solid effort to the pool.
 
 11°C this morning was chilly on the bike for the first 3 minutes and then the cool air felt good; thinking about a Penticton morning at the end of September.
 <!---->
