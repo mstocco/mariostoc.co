@@ -66,7 +66,11 @@ Off the bike: Run 40 minutes. Flat route. EASY effort.
 ### NOTES
 Total Time: **105 minutes**
 
-After work, I jumped on the road bike back to _Crystal View Estates_, the subdivision on the south side of _Mill Hill_.  I got the work in, 6 times up but went harder than what was called for on the last trip up the hill.  It was an out of the saddle effort for the climb up to the school and just enough effort not to completely blow up for the balance of the trip to the top.  Fun until...
+After work, I jumped on the road bike back to _Crystal View Estates_, the subdivision on the south side of _Mill Hill_.
+
+I got the work in, 6 times up but went harder than what was called for on the last trip up the hill.  It was an out of the saddle effort for the climb up to the school and just enough effort not to completely blow up for the balance of the trip to the top.
+
+Fun until...
 <!---->
 Off the bike, I set out to do 40 minutes but I had a odd pain in my left shin.  I walked to first 400m and then took some time to stretch out my calves, quads and hip flexors.  Continuing on, I ran the balance of my time (30 minutes) flat and easy to and from the _Selkirk Trestle_.  No issues with the shin and I found a nice easy rhythm on the way back home.
 
