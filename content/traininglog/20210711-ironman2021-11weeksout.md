@@ -72,6 +72,11 @@ I got the work in, 6 times up but went harder than what was called for on the la
 
 Fun until...
 <!---->
+### RIDE PROFILE
+![Elevation Profile](/assets/jpg/bike-20210713.jpeg)
+
+---
+ 
 Off the bike, I set out to do 40 minutes but I had a odd pain in my left shin.  I walked to first 400m and then took some time to stretch out my calves, quads and hip flexors.  Continuing on, I ran the balance of my time (30 minutes) flat and easy to and from the _Selkirk Trestle_.  No issues with the shin and I found a nice easy rhythm on the way back home.
 
 Both Carina and I woke with similar headaches this morning.  I don't suspect dehydration because my weight was up slightly.  Regardless I made an effort to drink more today.
