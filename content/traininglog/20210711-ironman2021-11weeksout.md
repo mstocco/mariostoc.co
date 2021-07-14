@@ -4,7 +4,7 @@ Week beginning [Sunday, July 11, 2021](javascript:flick('sun');)
 **11 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-&mdash; 
+To be mindful of my QL and prep for a 70.3 
 
 ## SUMMARY
 I feel I like was...  
@@ -100,6 +100,7 @@ I really wanted to sleep longer this morning.  I had a Red Bull before heading o
 11°C this morning was chilly on the bike for the first 3 minutes and then the cool air felt good; thinking about a Penticton morning at the end of September.
 <!---->
 Today's pool workout was harder than usual.  The 8x100m strong efforts had me pushing through a higher heartrate.  Fun and engaging is how I would describe that set.  For where I am at today, 100m is not an all out distance so I did have an element of "learn the appropriate pace"; I think I did ok with it.
+![Swim Chart](/assets/jpg/swim-20210714.jpeg)
 
 Work is busy today so I headed home; easy effort except for punching up one small hill that when I crested it, I had to remind myself to save something for [Sunday](ironman2021-10weeksout?sun)!
 
