@@ -28,7 +28,11 @@ Total Time: **140 minutes**
 
 Mid-afternoon swim at _Elk Lake_ went off without a hitch.  There was a bit of a chop on the water but nothing that could cause a problem.   I just settled into a nice rhythm that I felt I could have held for 40 minutes.  No wetsuit to assist today.
 
-The run was pretty straight forward; Hamsterly Beach to home roughly following the Colquitz Creek on mostly dirt trails.  I felt better than my pace suggested but that may have been because of the net downhill off the route.  I may have been slow because of the heat too.  Regardless, my goal was 90 minutes with good form and I th
+Carina and I spent time hanging out on the paddle board after I was done with the swim; I didn't start the run right away.
+<!---->
+Once on the run, things were pretty straight forward; Hamsterly Beach to home roughly following the Colquitz Creek on mostly dirt trails.  I felt better than my pace suggested but that may have been because of the net downhill off the route.  The average pace was slower than what I perceived probably because of the heat of the day.  Regardless, my goal was 90 minutes with good form and I that was accomplished.
+
+I ran with a +300 calorie bottle and took the first 80 minutes to finish it.
 <!---->
 ## MONDAY JUL 12
 Sleep **4** | Fatigue **4** | Stress **3** | Soreness **4**  
@@ -44,14 +48,16 @@ Short spin to/from the pool.
 4x 50 as 25 backstroke/easy/25 easy free. Rest as needed
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **70 minutes** &nbsp; Swim: **2400m**
 
-Upon waking, I felt stiffer than I thought I should have; like I ran 20 km or more and not the 14 that I did.
+Upon waking, I felt stiffer than I thought I should have; like I ran 20 km or more and not the 14 that I did [yesterday](javascript:flick('sun');).
 
+Pretty straight forward swim; initially I felt yesterday's time in _Elk Lake_ lingering but that didn't last long.  I started in the Continuous Lane but saw that there was more space in the Fast Lane; I finished up there.
 
+The ride to the pool was a PR (hit the traffic lights well) and nice and easy back home.
 <!---->
 ## TUESDAY JUL 13
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **4** | Fatigue **3** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -59,7 +65,7 @@ Ride 75 minutes. Short spin to Mill Hill. (I might have the name wrong) 6x 3 min
 Off the bike: Run 40 minutes. Flat route. EASY effort. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **105 minutes**
 
 After work, I jumped on the road bike back to _Crystal View Estates_, the subdivision on the south side of _Mill Hill_.  I got the work in, 6 times up but I probably went a bit harder on the last one than what was called for in the workout.  It was an out of the saddle for the majority of the climb up to the school and just enough effort not to completely blow up for the balance of the trip to the top.
 
