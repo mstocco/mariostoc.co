@@ -30,6 +30,11 @@ Mid-afternoon swim at _Elk Lake_ went off without a hitch.  There was a bit of a
 
 Carina and I spent time hanging out on the paddle board after I was done with the swim; I didn't start the run right away.
 <!---->
+### SWIM MAP
+![Swim Map](/assets/jpg/ows-20210711.jpeg)
+
+---
+
 Once on the run, things were pretty straight forward; Hamsterly Beach to home roughly following the Colquitz Creek on mostly dirt trails.  I felt better than my pace suggested but that may have been because of the net downhill off the route.  The average pace was slower than what I perceived probably because of the heat of the day.  Regardless, my goal was 90 minutes with good form and I that was accomplished.
 
 I ran with a +300 calorie bottle and took the first 80 minutes to finish it.
