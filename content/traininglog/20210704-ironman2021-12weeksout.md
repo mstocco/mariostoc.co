@@ -7,10 +7,9 @@ Week beginning [Sunday, July 4, 2021](javascript:flick('sun');)
 Travel done.  Time to get back into a routine.
 
 ## SUMMARY
-I feel I like was...  
-<sup>(completed at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel I like was **SMART ABOUT THINGS**
 
+Dealing with a back spasm on [Tuesday](javascript:flick('tue');) was **not fun**.  I think the scariest part of it is the consequence it could have to me making it to Penticton in 3 months.  Fortunately, I was able to manage the balance of the week without taxing the QL and putting me behind schedule.
 
 ![Catching some of the golden hour on a ride Friday evening.](/assets/jpg/IMG_3320-977x550.jpeg WATKISS WAY,  NEAR VICTORIA GENERAL HOSPITAL)
 

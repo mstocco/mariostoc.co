@@ -13,22 +13,22 @@ I feel I like was...
 
 
 <!---->
-## SUNDAY JUL 11
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## SUNDAY JUL 11 ☀️
+Sleep **2** | Fatigue **3** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash; 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **140 minutes**
 
 &mdash; 
 
 
 <!---->
 ## MONDAY JUL 12
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **4** | Fatigue **4** | Stress **3** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -37,7 +37,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Upon waking, I felt stiffer than I thought I should have; like I ran 20 km or more and not the 14 that I did.
 
 
 <!---->
@@ -56,7 +56,7 @@ Total Time: **0 minutes**
 
 <!---->
 ## WEDNESDAY JUL 14
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **4** | Fatigue **4** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -65,7 +65,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I really wanted to sleep longer this morning.
 
 
 <!---->
