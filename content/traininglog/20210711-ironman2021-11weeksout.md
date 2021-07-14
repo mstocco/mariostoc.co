@@ -39,7 +39,6 @@ Sleep **4** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Short spin to/from the pool. 
 5:30am: Swim 2400: 
 8x 50 easy free to warm up. r :20. 
 8x 50 as 25 Fist drill/25 strong finish to stroke r :20. 
@@ -68,9 +67,12 @@ Off the bike: Run 40 minutes. Flat route. EASY effort.
 Total Time: **105 minutes**
 
 After work, I jumped on the road bike back to _Crystal View Estates_, the subdivision on the south side of _Mill Hill_.  I got the work in, 6 times up but I probably went a bit harder on the last one than what was called for in the workout.  It was an out of the saddle for the majority of the climb up to the school and just enough effort not to completely blow up for the balance of the trip to the top.
-
+<!--->
 Off the bike, I set out to do 40 minutes but I had a odd pain in my left shin.  I walked to first 400m and then took some time to stretch out my calves, quads and hip flexors.  Continuing on, I ran the balance of my time (30 minutes) flat and easy to and from the _Selkirk Trestle_.  No issues with the shin and I found a nice easy rhythm on the way back home.
 
+Both Carina and I woke with similar headaches this morning.  I don't suspect dehydration because my weight was up slightly.  Regardless I made an effort to drink more today.
+
+I could not smell smoke but visually there was a hint of it in the air this evening.  It made for an incredible sunset.
 <!---->
 ## WEDNESDAY JUL 14
 Sleep **4** | Fatigue **4** | Stress **4** | Soreness **4**  
@@ -87,12 +89,12 @@ Short spin to the pool.
 60 minute easy spin home
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **50 minutes** &nbsp; Swim: **2200m**
 
 I really wanted to sleep longer this morning.  I had a Red Bull before heading out the door and if it wasn't for the traffic light on Blanchard and Hillside, I would have set a new PR for a solid effort to the pool.
 
 11°C this morning was chilly on the bike for the first 3 minutes and then the cool air felt good; thinking about a Penticton morning at the end of September.
-
+<!---->
 Today's pool workout was harder than usual.  The 8x100m strong efforts had me pushing through a higher heartrate.  Fun and engaging is how I would describe that set.  For where I am at today, 100m is not an all out distance so I did have an element of "learn the appropriate pace"; I think I did ok with it.
 
 Work is busy today so I headed home; easy effort except for punching up one small hill that when I crested it, I had to remind myself to save something for [Sunday](ironman2021-10weeksout?sun)!
