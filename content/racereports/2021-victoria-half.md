@@ -1,12 +1,12 @@
 # 2021 Victoria Half
 Sunday, July 18, 2021
 
-
+![The Victoria Half and Sprint Triathlon](/assets/jpg/vichalf-20201230.jpeg)
 In preparation for IRONMAN Canada, this was a first of a long training day that encompassed all 3 sports.  Technically, this wasn't a race as for some, the swim could have been as early as 0700 and as late as 0930.  Most people were very spread out and in effect, this was for me, a self-supported 70.3 mile time trial with my SUV parked at Hamsterly Beach serving as my transision area.
 
 ## The Swim
 The most formal part of the swim start was a check-in for the swim course; basically you had your name crossed off the list before you entered the water and again when you exited.  The most I saw were a couple groups of two swimmers, before me and after me lined up for their day.  Being by myself, all I needed to do was press start on my watch and go for a swim.
-
+<!---->
 There was one orange buoy, maybe 250m off the beach.  I had water in my goggles and decided that at that buoy, to fix that before continuing on.  I might have lost five seconds tops.  With the goggles corrected, the next bouy was a yellow marker at the far end of the lake.  As I continued on my way, my rear deltoids became pretty angry.  I might attribute it to not swimming enough in my wetsuit and certainly not swimming enough with a wetsuit with a tight trisuit underneath.  I pressed on and I don't recall at what point in the swim that they quit their protesting.
 
 The yellow bouy that I was sighting on, I lost.  It was in a shadow and there was a tall bit of yellow grass on the shoreline that was catching the morning sunlight.  As I continued toward that point of yellow, I noticed that there was a yellow bouy off to the right of where I was swimming.  I corrected my line to the yellow bouy, mad at myself for getting so far off course.
