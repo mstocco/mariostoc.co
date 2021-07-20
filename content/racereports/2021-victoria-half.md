@@ -12,7 +12,7 @@ Being by myself, all I needed to do was press start on my watch and go for a swi
 There was one orange buoy, maybe 250m off the beach.  I had water in my goggles and decided that at that buoy, to fix that before continuing on.  I might have lost five seconds tops.  With the goggles corrected, the next bouy was a yellow marker at the far end of the lake.  As I continued on my way, my rear deltoids became pretty angry.  I might attribute it to not swimming enough in my wetsuit and certainly not swimming enough with a wetsuit with a tight trisuit underneath.  I pressed on and I don't recall at what point in the swim that they quit their protesting.
 
 The yellow bouy that I was sighting on, I lost.  It was in a shadow and there was a tall bit of yellow grass on the shoreline that was catching the morning sunlight.  As I continued toward that point of yellow, I noticed that there was a yellow bouy off to the right of where I was swimming.  I corrected my line to the yellow bouy, mad at myself for getting so far off course.
-
+<!---->
 The sun lit up the original yellow buoy before I got too far along.  This might have been my only mistake for the swim and it really didn't cost me much.  Note: Sometimes it is best to trust yourself.
 
 Rounding the second yellow bouy meant turning for home.  I passed a group of swimmers and caught another group just before the beach.  I wasn't the only one that made the mistake of swimming to the wrong yellow bouy; more on him at the end. 
