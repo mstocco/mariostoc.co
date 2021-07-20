@@ -47,7 +47,7 @@ My plan was to finish the two small bottles and toss in a pre-made bladder with 
 I started the run with a runner just ahead of me wearing a race number and what looked like her boyfriend/husband acting as a pacer for her.  My first thought was they were going out a touch fast for me to keep up but after about a kilometre, she started to fade.  She soon called out, "Dan" who got her partners attension.  As that happened, I passed her and when passing him, I said, "we are trying to keep up Dan!"  They both laughed and I carried on.
 
 The rest of the run was basically me alone with myself.  I sipped on the 10 minute marks, had a gel and finished my first lap feeling really good.  So good that I still had 2 gels and some drink left and instead of stopping to take on that Tailwind, I motored on for lap 2.
-
+<!---->
 Rinse repeat, almost.  The second lap was almost as comfortable as the first.  I noticed that I was starting to break down with 4 km to go.  It wasn't a big task for me to focus for that final 4.  I also noted the lack of force production on the hill north of Beaver Lake; not a problem, just 2.5 km to go.  I found a stride for the final km and with 2 laps and just over 20 km, I called it a great day, carrying through to where the 70.3 finishing chute would have been.
 
 ## Final Thoughts
