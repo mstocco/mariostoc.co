@@ -21,7 +21,7 @@ Rounding the second yellow bouy meant turning for home.  I passed a group of swi
 So because this was a virtual race, everyone was free to ride their own 90km route.  Most it seemed ride the scheduled 2 loop course; I opt'd to do the single loop course as the elevation profile was closer to the first portion of the Penticton course.
 
 The air temperature was 13°C and I was on the fence as to wear my gilet or not.  I put it on as better safe than sorry.  I towelled off well and had a handful of Maynards (Peach Fuzz) before heading out.
-
+<!---->
 My feed schedule was drinking every 10 minutes and a gel every 50 minutes.  That would be roughly 400 calories per hour.  Packed on the ride were 2 bottles with 90g of lemonade/sugar mix and one bottle of Maurten 320.  Gels included 2 regular Maurten 100 and 1 caffinated Maurten 100.  I stayed on schedule with the feed plan too.
 
 I really didn't have much issue with traffic lights or stop signs; almost all were rolling.  I stopped twice on the ride.  Once for a dog walker in a crosswalk and one pitstop on Tatlow Road where I was able to take off the gilet.
