@@ -40,7 +40,9 @@ The climb up Willis Point Road felt harder and slower than in training but accor
 ## The Run
 Rolling back into the parking lot, I locked up the bike in my SUV and changed into split shorts and a singlet.
 
-I also decided the night before to run with my hydration vest instead of my water bottle carrier.  The vest gave me two 250ml chest bottles that I had filled with caffinated Maurten 320.  I also had 1 regular and 2 caffinated Mauten gels in the vest pockets too.  My plan was to finish the two small bottles and toss in a pre-made bladder with 500ml and 200 calories of Tailwind (cola flavour) for the second lap.
+I also decided the night before to run with my hydration vest instead of my water bottle carrier.  The vest gave me two 250ml chest bottles that I had filled with caffinated Maurten 320.  I also had 1 regular and 2 caffinated Mauten gels in the vest pockets too.
+<!---->
+My plan was to finish the two small bottles and toss in a pre-made bladder with 500ml and 200 calories of Tailwind (cola flavour) for the second lap.
 
 I started the run with a runner just ahead of me wearing a race number and what looked like her boyfriend/husband acting as a pacer for her.  My first thought was they were going out a touch fast for me to keep up but after about a kilometre, she started to fade.  She soon called out, "Dan" who got her partners attension.  As that happened, I passed her and when passing him, I said, "we are trying to keep up Dan!"  They both laughed and I carried on.
 
