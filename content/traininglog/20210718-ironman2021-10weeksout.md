@@ -13,17 +13,17 @@ I feel I like was...
 
 
 <!---->
-## SUNDAY JUL 18
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## SUNDAY JUL 18 ☀️
+Sleep **2** | Fatigue **2** | Stress **2** | Soreness **2**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+
 
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Click [here](/racereports/2021-victoria-half) for the full race report.
 
 
 <!---->
