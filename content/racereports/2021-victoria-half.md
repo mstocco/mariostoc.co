@@ -31,7 +31,7 @@ I had moments of my lower back feeling tight on the push up to Sydney but it did
 There was a section of fresh chip seal work on Chalet Road that slowed me down.
 
 I noticed that I was coming into a breeze as I hit the open section west of the airport.  
-
+<!---->
 Riding south on West Saanich Road, I got to see other athletes making there way north on the 2 loop course.  I briefly though about how my day might have been different if I would have rode that route instead.  At 65km in, I made a mental note that this would be the roll into Osoyoos in September.
 
 The climb up Willis Point Road felt harder and slower than in training but according to Strava, this was a quick trip up to the dump for me.  At this point, the weather was getting pretty warm and the wind was becoming gusty.
