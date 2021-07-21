@@ -57,8 +57,12 @@ Rinse repeat, almost.  The second lap was almost as comfortable as the first.  I
 
 <!---->
 ## Final Thoughts
-The trouble with good to great days is looking back for the teachable moments.
+The trouble with good to great days is looking back to find the teachable moments.
 
-Maybe those would have appeared if this was a real race and I say, over swam, over biked or otherwise got caught up in a moment.  That race didn't happen today and I was on task, on schedule for 6 hours and 15 minutes.  Right about where my fitness is today.  I believe I even got the Friday and Saturday night meals correct.
+Maybe those moment would have appeared if this was a real race. For example, say, over swam, over biked or otherwise got caught up in a moment.  None of those things happened today; I was on task, on schedule for 6 hours and 15 minutes.  Right about where my fitness is today.
+
+Apart from a couple of check-ins with my heart rate early in the ride, this day was done by feel.  I looked at my watch to find its lap button to record the in and outs of "transition" and that was about it.
+
+I believe I even got the Friday and Saturday night meals correct.
 
 Good day indeed.
