@@ -25,7 +25,7 @@ Rounding the second yellow bouy meant turning for home.  I passed a group of swi
 
 <!---->
 ## The Bike
-So because this was a virtual race, everyone was free to ride their own 90km route.  Most it seemed ride the scheduled 2 loop course; I opt'd to do the single loop course as the elevation profile was closer to the first portion of the Penticton course.
+So because this was a virtual race, everyone was free to ride their own 90km route.  It seemed most decides to ride the scheduled 2 loop course; I opt'd to do the single loop course as the elevation profile was closer to the first portion of the Penticton course.
 
 The air temperature was 13°C and I was on the fence as to wear my gilet or not.  I put it on as better safe than sorry.  I towelled off well and had a handful of Maynards (Peach Fuzz) before heading out.
 My feed schedule was drinking every 10 minutes and a gel every 50 minutes.  That would be roughly 400 calories per hour.  Packed on the ride were 2 bottles with 90g of lemonade/sugar mix and one bottle of Maurten 320.  Gels included 2 regular Maurten 100 and 1 caffinated Maurten 100.  I stayed on schedule with the feed plan too.
@@ -49,7 +49,7 @@ Rolling back into the parking lot, I locked up the bike in my SUV and changed in
 I also decided the night before to run with my hydration vest instead of my water bottle carrier.  The vest gave me two 250ml chest bottles that I had filled with caffinated Maurten 320.  I also had 1 regular and 2 caffinated Mauten gels in the vest pockets too.
 My plan was to finish the two small bottles and toss in a pre-made bladder with 500ml and 200 calories of Tailwind (cola flavour) for the second lap.
 
-I started the run with a runner just ahead of me wearing a race number and what looked like her boyfriend/husband acting as a pacer for her.  My first thought was they were going out a touch fast for me to keep up but after about a kilometre, she started to fade.  She soon called out, "Dan" who got her partners attension.  As that happened, I passed her and when passing him, I said, "we are trying to keep up Dan!"  They both laughed and I carried on.
+I started the run with a runner just ahead of me wearing a race number and what looked like her boyfriend/husband acting as a pacer for her.  My first thought was they were going out a touch fast for me to keep up but after about a kilometre, she started to fade.  She soon called out, "Dan" who got her partners attention.  As that happened, I passed her and when passing him, I said, "we are trying to keep up Dan!"  They both laughed and I carried on.
 <!---->
 The rest of the run was basically me alone with myself.  I sipped on the 10 minute marks, had a gel and finished my first lap feeling really good.  So good that I still had 2 gels and some drink left and instead of stopping to take on that Tailwind, I motored on for lap 2.
 
