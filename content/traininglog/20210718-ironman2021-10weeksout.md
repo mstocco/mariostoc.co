@@ -19,16 +19,17 @@ Sleep **2** | Fatigue **2** | Stress **2** | Soreness **2**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-
+![The Victoria Half and Sprint Triathlon](/assets/jpg/vichalf-20201230.jpeg)
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **195 minutes** &nbsp; Distance: **113 km**
 
-Up at 0430 feeling good.  I spent some nice quiet time with the roller, had some toast with peanut butter.
+Up at 0430 feeling good.  I spent some nice quiet time with the foam roller to loosen up, had some toast with peanut butter.
 
 Click [here](/racereports/2021-victoria-half) for the full race report.
 
-
+I think I pretty much nailed the day.  The caffeine from the Maurten (3 gels and a bottle) sat well in my stomach but kept me awake when I wanted to have a nap once I got home.
+  
 <!---->
 ## MONDAY JUL 19 ☀️  
 Sleep **2** | Fatigue **3** | Stress **3** | Soreness **4**  
@@ -57,8 +58,8 @@ My arm is sore, very sore.  It kept me up throughout the night.
 
 
 <!---->
-## WEDNESDAY JUL 21
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## WEDNESDAY JUL 21 ☀️
+Sleep **4** | Fatigue **2** | Stress **4** | Soreness **5**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -67,7 +68,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Didn't have the best sleep last night.  Arm is sore (covid shot), back is tight between my shoulder blades.  Work stress is a thing this week too.
 
 
 <!---->
