@@ -4,21 +4,25 @@ Week beginning [Sunday, August 1, 2021](javascript:flick('sun');)
 **8 weeks** until IRONMAN Canada.
 
 ## WEEKLY GOAL
-&mdash; 
+Start of the big push to the end.  I think I can handle this.  My goal is to stretch, roll and stay on top of the maintenance work to get me to the start line intact.
 
 ## SUMMARY
-I feel I like was...  
-<sup>(completed at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel I like was **STAYING CONSISTENT**.
 
+By far the largest volume of training that I have completed to date; **1x HOURS**.
 
-<!---->
+![Like the street in the Goggins' book, including it on a run elicits a "can't hurt me" feeling.](IMG_3338-977x550.jpeg Paradise Street, Esquimalt, BC)
+
 ## SUNDAY AUG 01
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Ride 4:00 on TT bike. Try to get in some longer climbs. Heading up the Malahat, Mt. Matheson road, Neild Road, or Gold Stream heights would (roads you can actually pedal up the whole climb) would be great. Trying to get in at least one longer climb, and as many as 3.  
+Fueling: Minimum of 300 calories an hour. Stay hydrated.  
+Trying to drink enough that you need a few pee breaks.  
+
+Overall effort....steady. Use your gears on the climbs, keep things moving everywhere else, but never pressing too hard. 
 
 ### NOTES
 Total Time: **0 minutes**
@@ -27,12 +31,12 @@ Total Time: **0 minutes**
 
 
 <!---->
-## MONDAY AUG 02
+## MONDAY AUG 2 (BC Stat Holiday) ☀️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Run 90 minutes EASY. Flat route. Nice long run. Ideally to start the day. Then you're off for the rest of the day.
 
 ### NOTES
 Total Time: **0 minutes**
@@ -41,73 +45,97 @@ Total Time: **0 minutes**
 
 
 <!---->
-## TUESDAY AUG 03
+## TUESDAY AUG 3 ☀️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+10 minute spin to work. 
+5:30am: Swim 2600: 
+4 rounds (100 easy free to warm up. R :30, 50 steady kick r :20) 
+6 rounds (50 as 25 fist drill/25 strong finish to stroke r :20, 200 aerobic/steady swim w/ consistent turnover r :30)
+4 rounds (50 EASY free r :15, 50 Fast/Strong effort r :25)
+100 easy to cool down.
+ 
+60 minute easy spin. 
 
 ### NOTES
 Total Time: **0 minutes**
 
 &mdash; 
 
-
 <!---->
-## WEDNESDAY AUG 04
+## WEDNESDAY AUG 4 ☀️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Pm: Ride 3:00 on TT bike. Same as last week but a slightly longer focused section. 
+30-40 minutes easy to warm up. 
+8x :30 high cadence, :45 easy. When you're ready...
+75 minutes of focused and efficient riding. As you said, pressure on the pedals, but keeping the HR in check. 
+Easier riding for the remainder of the ride. 
+
+Race day fueling and hydration for the whole ride and the run!​
+
+Off the bike: Run 30 minutes. EASY effort. 
 
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
-
+I didn't run immediately off the bike but after putting my bike away, getting changed and a large glass of water, I set off for the run.  I felt better than good.  I took the bike path toward _Quadra Street_, turning around at 15:18 and perfectly spliting the run with a 30:36 time; pace was around 5:40/km.  I am pretty happy with the numbers but even more, just feel good period. 
 
 <!---->
-## THURSDAY AUG 05
+## THURSDAY AUG 5 ☀️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+5:30am: Swim 2900: 
+1 rounds (100 easy free, 100 as 15 meters fist drill/35 meters free, 100 as 15 meters high turnover/35 meters free r :20 after each)
+2 round (100 easy free, 100 as 25 Fist drill/25 easy free, 100 as 25 w/ high turnover/25 easy r :20) 
+100 super easy. 
+12x 150 D 1-4, 5-8, 9-12 as 1: Easy, 2: Form focus/fairly relaxed, 3: High turnover...1500-2000 effort, 4: High turnover 1000-1500 effort r :30 after each. 
+2x 50 Super easy to cool down. 
+
+Run 45 minutes. EASY. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **0 minutes** &nbsp; Swim: **2700m**
 
 &mdash; 
 
-
 <!---->
-## FRIDAY AUG 06
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## FRIDAY AUG 6 ☁️
+Sleep **-** | Fatigue **3** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Another Friday MTB ~ 90 minutes. 
+Have fun, keep it easy. If you're super exhausted, we can shorten or cut this ride.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **60 minutes** &nbsp; Distance: **24 km**
 
-&mdash; 
+I had an errand to run at Uptown and I took my road bike.  From there, I rode the mostly bike path loop up to _Wale Road_ then double ping back through _Esquimalt_.
 
+My energy was low after work today.  The weather was cloudy with a gusty SW wind.
 
 <!---->
-## SATURDAY AUG 07
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## SATURDAY AUG 07 🌦
+Sleep **4** | Fatigue **4** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+1st: Open Water swim 
+4x 2:30 easy swimming to loosen up. Rest/loosen up....1:00 between each. 
+5x 10 minutes steady effort w/ consistent turnover. R 2:00 between each. 
+Feel free to drink some water or take in a gel/similar in the middle of the swim. 
+Short 2-3 minutes of easy stretching out to cool down.
+
+2nd: Run 2:00. Flat route. Easy effort. Stay well hydrated. Stay well fueled. Ideally get off pavement for at least 30% of the run. 
 
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
-
-
-<!---->
+&mdash;
