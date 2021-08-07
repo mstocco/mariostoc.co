@@ -11,7 +11,7 @@ I feel I like was **STAYING CONSISTENT**.
 
 By far the largest volume of training that I have completed to date; **1x HOURS**.
 
-![Like the street in the Goggins' book, including it on a run elicits a "can't hurt me" feeling.](IMG_3338-977x550.jpeg Paradise Street, Esquimalt, BC)
+![Like the street in the Goggins' book, including it on a run elicits a "can't hurt me" feeling.](/assets/jpg/IMG_3338-977x550.jpeg Paradise Street, Esquimalt, BC)
 
 ## SUNDAY AUG 01
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
