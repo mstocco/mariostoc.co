@@ -9,11 +9,15 @@ Start of the big push to the end.  I think I can handle this.  My goal is to str
 ## SUMMARY
 I feel I like was **STAYING CONSISTENT**.
 
-By far the largest volume of training that I have completed to date; **1x HOURS**.
+By far the largest volume of training that I have completed to date; **17 HOURS**.
+
+Maybe the biggest tell for where I am at is the [Wednesday](javascript:flick('wed');) ride, 3 days after the hills of Sunday's ride.  Despite the mistakes made on Wednesday, my legs were better than expected and I was able to run comfortably off the bike too.  Good things are happening.
+
+Work was super busy and had added pressure this week.  I am expecting the same next week unfortunately too. 
 
 ![Like the street in the Goggins' book, including it on a run elicits a "can't hurt me" feeling.](/assets/jpg/IMG_3338-977x550.jpeg Paradise Street, Esquimalt, BC)
 
-## SUNDAY AUG 01
+## SUNDAY AUG 1 ☀️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -25,10 +29,21 @@ Trying to drink enough that you need a few pee breaks.
 Overall effort....steady. Use your gears on the climbs, keep things moving everywhere else, but never pressing too hard. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **236 minutes** &nbsp; Distance: **81 km**
 
-&mdash; 
+Up the _Malahat_ for this afternoon's ride.  It was hot too!
 
+This would be a great highway to ride if it wasn't for the billions of stones littering the shoulder. 
+<!---->
+The first climb up _Tunnnel Hill_ was a slog; my heart rate was high 140s to low 150s; meaning I was working harder than I wanted.  I wasn't _"on the gas"_, it was just hotter than the last time I rode up this hill.
+
+Rinse repeat for the leg up the past _West Shawnigan Lake Road_.  Just before the summit, I headed up to the _Villa Eyrie Resort_ and down the backside of _Ebedora Lane_.  That gave me another hill to climb to get back to the resort; it was steep enough for me to stop in the resort parking lot for a breather, to switch out bottles and to review where I was heading next.  As soon as I stopped, I found myself soaked with sweat.
+
+This was my first time up into _Goldstream Heights_; a subdivision above the Malahat.  Nice, quiet roads with brief views of _Victoria_ and _Haro Strait_ made the long hill seem almost worth the effort.  In the heat, it was a grunt for me to get up with a 34x25.
+
+I added a couple of comparitively smaller hills to the ride once back in _Langford_ before heading home.
+
+Pretty standard fueling with 3 bottles of Lemondade mix supplimented with Maynards Peach Fuzz candy on the day.
 
 <!---->
 ## MONDAY AUG 2 (BC Stat Holiday) ☀️
@@ -39,9 +54,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 Run 90 minutes EASY. Flat route. Nice long run. Ideally to start the day. Then you're off for the rest of the day.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **90 minutes** &nbps; Distance: **15.23 km**
 
-&mdash; 
+Late morning start took me down to the _Songhees Walkway_, then through _Esquimalt_ and finally back along the _Gorge Waterway_.   I felt good pretty much the entire run too.  Just a nice easy rhythm and taking in the sunshine.
 
 
 <!---->
@@ -60,9 +75,11 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 60 minute easy spin. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **120 minutes** &nbsp; Swim: **2600m**
 
-&mdash; 
+No PR set on the ride to the pool today and once in the water, I could feel the effects from the long weekend.
+
+The 60 minute ride after the pool was felt as well and I effectively rode around, into Esquimalt looking for mostly flat roads to pedal.
 
 <!---->
 ## WEDNESDAY AUG 4 ☀️
@@ -122,7 +139,7 @@ I had an errand to run at Uptown and I took my road bike.  From there, I rode th
 My energy was low after work today.  The weather was cloudy with a gusty SW wind.
 
 <!---->
-## SATURDAY AUG 07 🌦
+## SATURDAY AUG 7 🌦
 Sleep **4** | Fatigue **4** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -138,4 +155,6 @@ Short 2-3 minutes of easy stretching out to cool down.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash;
+Whether I was subconsciously procrastinating or I just felt like I needed some time for myself, I got out the door late in the afternoon for today's workout.  To drag things out more, I drove out to _Matheson Lake_ instead of going to _Elk Lake_.  The winds from the west had picked up and I was taking a chance by going out to the East Sooke area (westerloes are typically strongest out that way).
+
+ 
