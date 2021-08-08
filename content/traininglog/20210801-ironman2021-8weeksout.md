@@ -31,14 +31,16 @@ Overall effort....steady. Use your gears on the climbs, keep things moving every
 ### NOTES
 Total Time: **236 minutes** &nbsp; Distance: **81 km**
 
-Up the _Malahat_ for this afternoon's ride.  It was hot too!
-
-This would be a great highway to ride if it wasn't for the billions of stones littering the shoulder. 
+Up the _Malahat_ for this afternoon's ride.  This would be a great highway to ride if it wasn't for the billions of stones littering the shoulder.
 <!---->
+It was hot too!
+
 The first climb up _Tunnnel Hill_ was a slog; my heart rate was high 140s to low 150s; meaning I was working harder than I wanted.  I wasn't _"on the gas"_, it was just hotter than the last time I rode up this hill.
 
 Rinse repeat for the leg up the past _West Shawnigan Lake Road_.  Just before the summit, I headed up to the _Villa Eyrie Resort_ and down the backside of _Ebedora Lane_.  That gave me another hill to climb to get back to the resort; it was steep enough for me to stop in the resort parking lot for a breather, to switch out bottles and to review where I was heading next.  As soon as I stopped, I found myself soaked with sweat.
 
+![Ride Map](/assets/jpg/20210801-ride.jpeg)
+<!---->
 This was my first time up into _Goldstream Heights_; a subdivision above the Malahat.  Nice, quiet roads with brief views of _Victoria_ and _Haro Strait_ made the long hill seem almost worth the effort.  In the heat, it was a grunt for me to get up with a 34x25.
 
 I added a couple of comparitively smaller hills to the ride once back in _Langford_ before heading home.
