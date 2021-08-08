@@ -57,11 +57,11 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 Run 90 minutes EASY. Flat route. Nice long run. Ideally to start the day. Then you're off for the rest of the day.
 
 ### NOTES
-Total Time: **90 minutes** &nbps; Distance: **15.23 km**
+Total Time: **90 minutes** &nbsp; Distance: **15.23 km**
 
 Late morning start took me down to the _Songhees Walkway_, then through _Esquimalt_ and finally back along the _Gorge Waterway_.   I felt good pretty much the entire run too.  Just a nice easy rhythm and taking in the sunshine.
 
-
+![Run Map](/assets/jpg/20210802-run.jpeg)
 <!---->
 ## TUESDAY AUG 3 ☀️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
