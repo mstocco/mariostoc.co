@@ -11,7 +11,7 @@ I feel I like was...
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
-![Taken on Saturday, August 7th during the last half of my run](/assets/jpg/IMG_3344-977x550.jpeg, Galloping Goose Trail, Metchosin, BC)
+![Taken on Saturday, August 7th during the last half of my run](/assets/jpg/IMG_3344-977x550.jpeg Galloping Goose Trail, Metchosin, BC)
 
 ## SUNDAY AUG 8 🌤
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
