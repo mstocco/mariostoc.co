@@ -59,8 +59,7 @@ Run 90 minutes EASY. Flat route. Nice long run. Ideally to start the day. Then y
 ### NOTES
 Total Time: **90 minutes** &nbsp; Distance: **15.23 km**
 
-Late morning start took me down to the _Songhees Walkway_, then through _Esquimalt_ and finally back along the _Gorge Waterway_.   I felt good pretty much the entire run too.  Just a nice easy rhythm and taking in the sunshine.
-
+Late morning start took me down to the _Songhees Walkway_, then through _Esquimalt_ and finally back along the _Gorge Waterway_.   I **felt good** pretty much the entire run too.  Just a nice **easy rhythm** and taking in the sunshine.
 ![Run Map](/assets/jpg/20210802-run.jpeg)
 <!---->
 ## TUESDAY AUG 3 ☀️
@@ -156,8 +155,12 @@ Short 2-3 minutes of easy stretching out to cool down.
 2nd: Run 2:00. Flat route. Easy effort. Stay well hydrated. Stay well fueled. Ideally get off pavement for at least 30% of the run. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **182 minutes**  
+Swim: **~3200m** / **70 minutes**   
+Run: **18.2 km** / **112 minutes**
 
-Whether I was subconsciously procrastinating or I just felt like I needed some time for myself, I got out the door late in the afternoon for today's workout.  To drag things out more, I drove out to _Matheson Lake_ instead of going to _Elk Lake_.  The winds from the west had picked up and I was taking a chance by going out to the East Sooke area (westerloes are typically strongest out that way).
+Whether I was subconsciously procrastinating or I just felt like I needed some time for myself, I got out the door late in the afternoon for today's workout.  To drag things out more, I drove out to _Matheson Lake_ instead of going to _Elk Lake_. 
+<!---->
+The winds from the west had picked up and I was taking a chance by going out to the East Sooke area (westerloes are typically strongest out that way).
 
  
