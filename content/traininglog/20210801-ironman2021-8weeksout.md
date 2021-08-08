@@ -122,8 +122,9 @@ Run 45 minutes. EASY.
 ### NOTES
 Total Time: **0 minutes** &nbsp; Swim: **2700m**
 
-&mdash; 
+Mea Culpa: I stopped to watch Canada win gold in the Decathlon at the pool and that cost me the time it would have taken to get the full 2900m in.   
 
+I felt good this morning.
 <!---->
 ## FRIDAY AUG 6 ☁️
 Sleep **-** | Fatigue **3** | Stress **4** | Soreness **3**  
@@ -136,7 +137,7 @@ Have fun, keep it easy. If you're super exhausted, we can shorten or cut this ri
 ### NOTES
 Total Time: **60 minutes** &nbsp; Distance: **24 km**
 
-I had an errand to run at Uptown and I took my road bike.  From there, I rode the mostly bike path loop up to _Wale Road_ then double ping back through _Esquimalt_.
+I had an errand to run at Uptown and I took my road bike.  From there, I rode the mostly bike path loop up to _Wale Road_ then doubling back through _Esquimalt_.
 
 My energy was low after work today.  The weather was cloudy with a gusty SW wind.
 
@@ -159,8 +160,8 @@ Total Time: **182 minutes**
 Swim: **~3200m** / **70 minutes**   
 Run: **18.2 km** / **112 minutes**
 
-Whether I was subconsciously procrastinating or I just felt like I needed some time for myself, I got out the door late in the afternoon for today's workout.  To drag things out more, I drove out to _Matheson Lake_ instead of going to _Elk Lake_. 
+Maybe I was subconsciously procrastinating but I got out the door late in the afternoon.  To drag things out more, I drove out to _Matheson Lake_ instead of going to _Elk Lake_. 
 <!---->
-The winds from the west had picked up and I was taking a chance by going out to the East Sooke area (westerloes are typically strongest out that way).
+The winds from the west had picked up and I was taking a chance by going out to the East Sooke area (westerlies are typically strongest out that way).
 
  
