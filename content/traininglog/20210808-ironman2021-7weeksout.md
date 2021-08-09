@@ -14,21 +14,23 @@ I feel I like was...
 ![Taken on Saturday, August 7th during the last half of my run](/assets/jpg/IMG_3344-977x550.jpeg Galloping Goose Trail, Metchosin, BC)
 
 ## SUNDAY AUG 8 🌤
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 Ride 2:00. Flat to rolling route on the TT bike.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **120 minutes** &nbsp; Distance: **56 km**
 
-&mdash; 
+Quick dash up to the airport and it was quick; I had a pretty decent tailwind pushing me up the peninsula.  I took _West Saanich Road_ to _Interburan_ for the leg home.  Despite the wind, it was a nice evening for a ride and I felt as good as I ever have riding the hillier route south.
 
+Two bottles of lemonade were with me on the bike.  One with 100g of mix (up from 90g).  I got through the first bottle in the first hour but got less down on the second for no other reason than I wasn't paying attention.  I was in a groove, especially coming down _Interurban Road_.
 
+There was a weird (acute) pain in the tendon running behind the lateral side of my left ankle (fibularis brevis) that needs to be written down.  This was occasionally felt when standing on the pedals.
 <!---->
-## MONDAY AUG 9
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## MONDAY AUG 9 🌤
+Sleep **3** | Fatigue **4** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -42,10 +44,13 @@ Easy ride to pool.
 Long commute home....Ride 60 minutes EASY
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **125 minutes** &nbsp; Swim: **2400m**
 
-&mdash; 
+If it wasn't a PR, it was close to it for the sprint to the pool this morning.  I caught the light at _Finlayson_ and _Douglas_ which is almost always the deal breaker for a good +3km ride.
 
+Lots of 50m efforts with some lane congestion.  I had one of those strong efforts done without focus and I touched the wall at over 50 seconds.  The next one was with redemption at 44 seconds.  I was really starting to fade on the 11th strong effort when another swimmer, Duncan, asked me how training was going.  We talked for a bit (he is doing IMC Penticton for the 4th time).  With the bit of rest, I did the 12th strong 50m length in 42.9 seconds.  I was out of time to get the cool down in.
+
+For the long commute home, I pedalled out to _King George Terrace_ and followed the waterfront back home.  Temperature was 13°C and I was comfortable wearing summer kit.
 
 <!---->
 ## TUESDAY AUG 10
