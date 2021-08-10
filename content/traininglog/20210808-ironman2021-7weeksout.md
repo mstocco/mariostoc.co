@@ -67,7 +67,7 @@ off the bike, or later in the day. Run 30 minutes. flat route. EASY effort
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+Carina and I both woke with sore throats this morning.  
 
 <!---->
 ## WEDNESDAY AUG 11
