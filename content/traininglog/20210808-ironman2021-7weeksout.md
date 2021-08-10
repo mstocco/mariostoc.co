@@ -46,9 +46,11 @@ Long commute home....Ride 60 minutes EASY
 ### NOTES
 Total Time: **125 minutes** &nbsp; Swim: **2400m**
 
-If it wasn't a PR, it was close to it for the sprint to the pool this morning.  I caught the light at _Finlayson_ and _Douglas_ which is almost always the deal breaker for a good +3km ride.
+If it wasn't a PR, it was close to it for the sprint to the pool this morning.  I caught the light at _Finlayson_ and _Douglas_ which is usually the deal breaker for a good time for the +3km commute to the pool.
 
-Lots of 50m efforts with some lane congestion.  I had one of those strong efforts done without focus and I touched the wall at over 50 seconds.  The next one was with redemption at 44 seconds.  I was really starting to fade on the 11th strong effort when another swimmer, Duncan, asked me how training was going.  We talked for a bit (he is doing IMC Penticton for the 4th time).  With the bit of rest, I did the 12th strong 50m length in 42.9 seconds.  I was out of time to get the cool down in.
+Lots of 50m efforts with some lane congestion.  I had one of those strong efforts done without focus and I touched the wall at over 50 seconds.  The next one was with redemption at 44 seconds.  The time to the wall was starting to fade on the 11th strong effort.
+
+Before the 12th rep, another swimmer, Duncan, asked me how my training was going  We talked for a bit (he is doing IMC Penticton for the 4th time).  With that bit of rest, I did the 12th strong 50m length in 42.9 seconds.  I was out of time to get the cool down in.
 
 For the long commute home, I pedalled out to _King George Terrace_ and followed the waterfront back home.  Temperature was 13°C and I was comfortable wearing summer kit.
 
