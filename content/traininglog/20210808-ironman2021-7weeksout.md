@@ -53,8 +53,8 @@ Lots of 50m efforts with some lane congestion.  I had one of those strong effort
 For the long commute home, I pedalled out to _King George Terrace_ and followed the waterfront back home.  Temperature was 13°C and I was comfortable wearing summer kit.
 
 <!---->
-## TUESDAY AUG 10
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## TUESDAY AUG 10 ⛅️
+Sleep **3** | Fatigue **3** | Stress **5** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
