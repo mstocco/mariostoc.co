@@ -15,7 +15,8 @@ Maybe the biggest tell for where I am at is the [Wednesday](javascript:flick('we
 
 Work was super busy and had added pressure this week.  I am expecting the same next week unfortunately too. 
 
-![Like the street in the Goggins' book, including it on a run elicits a "can't hurt me" feeling.](/assets/jpg/IMG_3338-977x550.jpeg Paradise Street, Esquimalt, BC)
+![Taken on during the last half of my run on Saturday Evening.](/assets/jpg/IMG_3344-977x550.jpeg Galloping Goose Trail, Metchosin, BC)
+<!--![Like the street in the Goggins' book, including it on a run elicits a "can't hurt me" feeling.](/assets/jpg/IMG_3338-977x550.jpeg Paradise Street, Esquimalt, BC)-->
 
 ## SUNDAY AUG 1 ☀️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  

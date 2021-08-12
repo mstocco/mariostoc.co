@@ -10,8 +10,7 @@ I'll be missing my Wednesday night ride this week, replacing it with a run.  My 
 I feel I like was...  
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
-
-![Taken on Saturday, August 7th during the last half of my run](/assets/jpg/IMG_3344-977x550.jpeg Galloping Goose Trail, Metchosin, BC)
+![Thursday saw our first significant amount of forest fire smoke blow into the area](IMG_3353-977x550.jpeg McNeil Bay, Victoria, BC)
 
 ## SUNDAY AUG 8 🌤
 Sleep **3** | Fatigue **3** | Stress **4** | Soreness **4**  
