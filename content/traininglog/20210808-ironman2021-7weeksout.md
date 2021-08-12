@@ -100,14 +100,14 @@ For the run, I headed up and over _Craigflower_ the hills of _View Royal_.   I f
 <!---->
 I packed ~700ml of water in my running vest and 27 pieces of Maynards Peach Fuzz; 3 pieces every 10 minutes (timed with my watch).  I am thinking this was ~200 calories per hour.
 
-It was warm out and I feel like I ran appropriately for the temperature.  With the Maynards on a schedule, I didn't get into the _"90 minute fade"_. 
+It was warm out and I feel like I ran appropriately for the temperature.  With the Maynards on a schedule, I didn't feel like I was getting near the _"90 minute fade"_.  Just the opposite, I felt good at the end.
 
 #### Other Notes
 No sore throat this morning.
 
 <!---->
 ## THURSDAY AUG 12
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **4** | Fatigue **4** | Stress **5** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -121,9 +121,11 @@ Easy ride to pool.
 Long commute home...Ride 60 minutes EASY. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **0 minutes** &nbsp; Swim: **2800m**
 
-&mdash; 
+I can try to nail every workout but sometimes that doesn't happen.  This morning's swim was an example of not getting things done perfectly.
+
+
 
 <!---->
 ## FRIDAY AUG 13
