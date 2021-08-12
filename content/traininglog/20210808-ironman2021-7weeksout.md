@@ -133,7 +133,9 @@ Focus on the 250m reps was not my best.  Besides the cramps, my mind drifted to 
 
 On the ride to the pool, I was "big ringing it" and was sub-8 minutes to the pool; which is always fun.
 
-I was going to ride home and figure out a ride for later in the afternoon but with it now being daylight leaving the pool.  I could see the smoky haze pushing into the area from the east.  We have been very lucky with forest fire smoke this summer.  I did the long commute home because who knows how smoky it will be by the end of the day.
+I was going to ride home and figure out a ride for later in the afternoon but with it now being daylight leaving the pool, a [smoky haze](javascript:flkty.select(2);) was pushing into the area from the east.
+
+We have been very lucky with forest fire smoke this summer.  I did the long commute home because who knows how smoky it will be by the end of the day.
 
 <!---->
 ## FRIDAY AUG 13
