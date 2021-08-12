@@ -121,11 +121,17 @@ Easy ride to pool.
 Long commute home...Ride 60 minutes EASY. 
 
 ### NOTES
-Total Time: **0 minutes** &nbsp; Swim: **2800m**
+Total Time: **130 minutes** &nbsp; Swim: **2800m**
 
 I can try to nail every workout but sometimes that doesn't happen.  This morning's swim was an example of not getting things done perfectly.
 
+It started with enjoying 2 very ripe, very sweet peaches from the neighbor's tree before leaving the house this morning.  The sugar woke up the bowel and I was very _"crampy"_ half way through the warm up set.
+<!---->
+Focus on the 250m reps was not my best.  Besides the cramps, my mind drifted to work and thoughts of my dad.  I've had better mornings in the pool.
 
+On the ride to the pool, I was "big ringing it" and was sub-8 minutes to the pool.
+
+I was going to ride home and figure out a ride for later in the afternoon but with it now being daylight leaving the pool.  I could see the smoky haze pushing into the area from the east.  We have been very lucky with forest fire smoke this summer.  I did the long commute home because who knows how smoky it will be by the end of the day.
 
 <!---->
 ## FRIDAY AUG 13
