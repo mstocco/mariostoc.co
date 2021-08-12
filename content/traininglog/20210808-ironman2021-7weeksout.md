@@ -10,6 +10,7 @@ I'll be missing my Wednesday night ride this week, replacing it with a run.  My 
 I feel I like was...  
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+
 ![Thursday saw our first significant amount of forest fire smoke blow into the area](/assets/jpg/IMG_3353-977x550.jpeg McNeil Bay, Victoria, BC)
 
 ## SUNDAY AUG 8 🌤
@@ -124,11 +125,13 @@ Total Time: **130 minutes** &nbsp; Swim: **2800m**
 
 I can try to nail every workout but sometimes that doesn't happen.  This morning's swim was an example of not getting things done perfectly.
 
-It started with enjoying 2 very ripe, very sweet peaches from the neighbor's tree before leaving the house this morning.  The sugar woke up the bowel and I was very _"crampy"_ half way through the warm up set.
+It started with enjoying 2 very ripe, very sweet peaches from the neighbor's tree before leaving the house this morning.
 <!---->
-Focus on the 250m reps was not my best.  Besides the cramps, my mind drifted to work and thoughts of my dad.  I've had better mornings in the pool.
+The sugar woke up the bowel and I was very _"crampy"_ half way through the warm up set.
 
-On the ride to the pool, I was "big ringing it" and was sub-8 minutes to the pool.
+Focus on the 250m reps was not my best.  Besides the cramps, my mind drifted to work and thoughts of my dad.  I've had better mornings in the pool.  I also didn't get the final 250m + 50m round in.  That was poor preparation from last night.  I could do better.
+
+On the ride to the pool, I was "big ringing it" and was sub-8 minutes to the pool; which is always fun.
 
 I was going to ride home and figure out a ride for later in the afternoon but with it now being daylight leaving the pool.  I could see the smoky haze pushing into the area from the east.  We have been very lucky with forest fire smoke this summer.  I did the long commute home because who knows how smoky it will be by the end of the day.
 
