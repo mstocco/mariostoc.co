@@ -73,9 +73,13 @@ Total Time: **0 minutes**
 
 Carina and I both woke with sore throats this morning.  
 
+This was a staple ride, out to the _Crystalview Subdivision_ for 6 trips up to the top.  I felt ok pedalling easy to Langford before doubling back to the hill.  I rode this like I thought it was written, getting my heart rate into the low 140s (30 minute effort); a bit less on the first trip up and a bit more of a push on the sixth.
+
+Once home, I settled into the evening and didn't have much energy for an after sunset run.  I stretched and went to bed.
+
 <!---->
-## WEDNESDAY AUG 11
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## WEDNESDAY AUG 11 ☀️
+Sleep **3** | Fatigue **3** | Stress **5** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -84,10 +88,15 @@ Run 90 minutes. HILLY route. Generally an easy effort. But you have the all clea
 Great day to stretch!
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **90 minutes** &nbsp; Elevation: **250m**
 
-&mdash; 
+Long day on the keyboard but I was able to push away (finally) at 1830.
 
+I bought new running socks online and they arrived today.  Swiftwick Aspire, 1 inch cut  and I think I really like them.
+
+For the run, I headed up and over _Craigflower_ the hills of _View Royal_.   I felt ok; no niggles to start but my high hamstrings had moments feeling tender.  I packed ~700ml of water in my running vest and 27 pieces of Maynards Peach Fuzz; 3 pieces every 10 minutes (timed with my watch).  I am thinking this was ~200 calories per hour.
+
+It was warm out and I feel like I ran appropriately for the temperature.  With the Maynards on a schedule, I didn't get into the _"90 minute fade"_. 
 
 <!---->
 ## THURSDAY AUG 12
@@ -108,7 +117,6 @@ Long commute home...Ride 60 minutes EASY.
 Total Time: **0 minutes**
 
 &mdash; 
-
 
 <!---->
 ## FRIDAY AUG 13
