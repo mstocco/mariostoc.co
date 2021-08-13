@@ -136,10 +136,11 @@ On the ride to the pool, I was "big ringing it" and was sub-8 minutes to the poo
 I was going to ride home and figure out a ride for later in the afternoon but with it now being daylight leaving the pool, a [smoky haze](javascript:flkty.select(2);) was pushing into the area from the east.
 
 We have been very lucky with forest fire smoke this summer.  I did the long commute home because who knows how smoky it will be by the end of the day.
-
+<!---->
+![Thursday at 8:09pm](/assets/jpg/sunset-20210812.jpeg)
 <!---->
 ## FRIDAY AUG 13
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **2** | Fatigue **4** | Stress **5** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -148,7 +149,7 @@ Run 30 minutes. Flat route. EASY effort.
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I had a restful sleep though I can feel some fatigue in my quads as I go up and down the stairs.
 
 
 <!---->
