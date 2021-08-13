@@ -136,6 +136,8 @@ On the ride to the pool, I was "big ringing it" and was sub-8 minutes to the poo
 I was going to ride home and figure out a ride for later in the afternoon but with it now being daylight leaving the pool, a [smoky haze](javascript:flkty.select(2);) was pushing into the area from the east.
 
 We have been very lucky with forest fire smoke this summer.  I did the long commute home because who knows how smoky it will be by the end of the day.
+
+<p style="text-align:right;">Smoke thinned out by sunset (8:09pm) &rarr;</p>
 <!---->
 ![Thursday at 8:09pm](/assets/jpg/sunset-20210812.jpeg)
 <!---->
