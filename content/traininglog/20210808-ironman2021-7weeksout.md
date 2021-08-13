@@ -56,6 +56,8 @@ Before the 12th rep, another swimmer, Duncan, asked me how my training was going
 
 For the long commute home, I pedalled out to _King George Terrace_ and followed the waterfront back home.  Temperature was 13°C and I was comfortable wearing summer kit.
 
+#### A Resident of Beacon Hill Park
+![Peacock in Beacon Hill Park](/assets/jpg/peacock-20210809.jpeg)
 <!---->
 ## TUESDAY AUG 10 ⛅️
 Sleep **4** | Fatigue **3** | Stress **5** | Soreness **3**  
@@ -129,7 +131,7 @@ It started with enjoying 2 very ripe, very sweet peaches from the neighbor's tre
 <!---->
 The sugar woke up the bowel and I was very _"crampy"_ half way through the warm up set.
 
-Focus on the 250m reps was not my best.  Besides the cramps, my mind drifted to work and thoughts of my dad.  I've had better mornings in the pool.  I also didn't get the final 250m + 50m round in.  That was poor preparation from last night.  I could do better.
+Focus on the 250m reps was **not my best**.  Besides the cramps, my mind drifted to work and thoughts of my dad.  I've had better mornings in the pool.  I also didn't get the final 250m + 50m round in.  That was poor preparation from last night.  I could do better.
 
 On the ride to the pool, I was "big ringing it" and was sub-8 minutes to the pool; which is always fun.
 
