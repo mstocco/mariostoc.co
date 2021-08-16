@@ -27,9 +27,9 @@ Ride 4:30++ I'd rather you ride 4:45 than 4:15. Over 5 hours is probably a bit t
 * Get in a few steady/longer climbs
 
 ### NOTES
-Total Time: **0 minutes**
+Total Moving Time: **290 minutes** &nbsp; Distance: **125 km**
 
-&mdash; 
+Left home about 45 minutes after a big blueberry pancake breakfast.  Consumed 3 bottles with 100g of lemonade mix, 2 Maurten gels (one caffeinated, one regular), a packet of Reboost Maple Syrup (100 calories) and about 200 calories of Maynards (14 pieces).  I did pack a packet of Maurten 320 drink mix with me but while stopped for water at _Masons Beach_, I spilled an unknown quantity on the ground.  A shame because I don't know the calories from the product I was able to keep in the bottle.
 
 
 <!---->
