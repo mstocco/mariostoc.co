@@ -20,7 +20,7 @@ Sleep **3** | Fatigue **3** | Stress **4** | Soreness **3**
 ### PLANNED WORKOUT
 Ride 4:30++ I'd rather you ride 4:45 than 4:15. Over 5 hours is probably a bit too much. 
 
-#### Goals: 
+### GOALS: 
 * Steady effort all ride. 
 * Start your fueling early. Stay consistent. 
 * Stop to refill bottles earlier rather than later. 
@@ -31,7 +31,7 @@ Moving Time: **290 minutes** &nbsp; Distance: **125 km**
 
 Left home about 45 minutes after a big blueberry pancake breakfast.
 
-The weather was near perfect with a building easterly that gave me a push out to Langford.  There was a stop for a quick bio-break at before _Goldstream Park_ and the ride up the _Malahat_.  Pace and effort were on point as it was my usual hour to the site of the old _Dutch Latch Restaurant_.
+The weather was near perfect with a building easterly that gave me a push out to Langford.  There was a stop for a quick bio-break at before _Goldstream Park_ and the ride up the _Malahat_.  Pace and effort were on point as it was my usual hour to the site of the old _Dutch Latch_.
 <!---->
 This morning I continued past the summit and took the highway right into _Mill Bay_.  From there, I followed _Telegraph Road_ to _Cherry Point_.  That easterly was really starting to blow as there were whitecaps on the ocean. I was a past the 2 hour mark and started making my way up to _Shawnigan Lake_ and the push back south.
 
