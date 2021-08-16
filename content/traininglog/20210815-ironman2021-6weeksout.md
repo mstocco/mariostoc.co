@@ -49,7 +49,9 @@ I wore my Rudy Project Wingspan.  Who knows if it worked (tail sits 3.5 inches a
 
 I ran with my tri-spoke race wheels because it has the 12-28 cassette on the rear wheel.  It was interesting to feel the difference in how it catches the wind.  I feel the pressure of a passing vehicle just before being passed.  I could almost tell the difference of the shape of the car/truck before it comes into my peripheral view.
 
-Getting home o
+Getting home, I felt pretty good.  Good enough that if I had to go for a jog, could I?  Absolutely.
+<!---->
+![Cherry Point Ride Map](/assets/jpg/ridemap-20210815.jpeg)
 <!---->
 ## MONDAY AUG 16 ☁️
 Sleep **4** | Fatigue **5** | Stress **4** | Soreness **4**  
