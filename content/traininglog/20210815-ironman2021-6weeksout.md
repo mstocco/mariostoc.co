@@ -20,7 +20,7 @@ Sleep **3** | Fatigue **3** | Stress **4** | Soreness **3**
 ### PLANNED WORKOUT
 Ride 4:30++ I'd rather you ride 4:45 than 4:15. Over 5 hours is probably a bit too much. 
 
-### GOALS: 
+### GOALS
 * Steady effort all ride. 
 * Start your fueling early. Stay consistent. 
 * Stop to refill bottles earlier rather than later. 
@@ -49,6 +49,7 @@ I wore my Rudy Project Wingspan.  Who knows if it worked (tail sits 3.5 inches a
 
 I ran with my tri-spoke race wheels because it has the 12-28 cassette on the rear wheel.  It was interesting to feel the difference in how it catches the wind.  I feel the pressure of a passing vehicle just before being passed.  I could almost tell the difference of the shape of the car/truck before it comes into my peripheral view.
 
+Getting home o
 <!---->
 ## MONDAY AUG 16 ☁️
 Sleep **4** | Fatigue **5** | Stress **4** | Soreness **4**  
