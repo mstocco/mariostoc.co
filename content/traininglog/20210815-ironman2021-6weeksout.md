@@ -29,9 +29,18 @@ Ride 4:30++ I'd rather you ride 4:45 than 4:15. Over 5 hours is probably a bit t
 ### NOTES
 Moving Time: **290 minutes** &nbsp; Distance: **125 km**
 
+Left home about 45 minutes after a big blueberry pancake breakfast.
 
+The weather was near perfect with a building easterly that gave me a push out to Langford.  There was a stop for a quick bio-break at before _Goldstream Park_ and the ride up the _Malahat_.  Pace and effort were on point as it was my usual hour to the site of the old _Dutch Latch Restaurant_.
+<!---->
+This morning I continued past the summit and took the highway right into _Mill Bay_.  From there, I followed _Telegraph Road_ to _Cherry Point_.  That easterly was really starting to blow as there were whitecaps on the ocean. I was a past the 2 hour mark and started making my way up to _Shawnigan Lake_ and the push back south.
 
-Left home about 45 minutes after a big blueberry pancake breakfast.  Consumed 3 bottles with 100g of lemonade mix, 2 Maurten gels (one caffeinated, one regular), a packet of Reboost Maple Syrup (100 calories) and about 200 calories of Maynards (14 pieces).  I did pack a packet of Maurten 320 drink mix with me but while stopped for water at _Masons Beach_, I spilled an unknown quantity on the ground.  A shame because I don't know the calories from the product I was able to keep in the bottle.
+I was feeling good through the third hour, winching myself up the south end of _Shawnigan_.  I stopped at the entrance to the _Goldstream Heights_ subdivision for another quick pit stop.  I contemplated heading up the subdivision but the way the wind was blowing, I decided to head back to _VIctoria_ and put the extra mileage on once back in town.
+ 
+#### Consuption
+3 bottles with 100g of lemonade mix, 2 Maurten gels (one caffeinated, one regular), a packet of Reboost Maple Syrup (100 calories) and about 200 calories of Maynards (14 pieces).  I did pack a packet of Maurten 320 drink mix with me but while stopped for water at _Masons Beach_.
+
+I spilled an unknown quantity on the ground.  A shame because I don't know the calories from the product I was able to keep in the bottle.  So ~1700 calories, maybe a bit more.  Interestingly, my Garmin bike computer called this ride a 1700 calorie ride.
 
 <!---->
 ## MONDAY AUG 16 ☁️
@@ -50,9 +59,16 @@ Easy spin to/from pool. (Short)
 ### NOTES
 Total Time: **80 minutes** &nbsp; Swim: **2600m**
 
-Spin to and from the pool proved to be hard conversation with my quads.  Even in the dark, it was warm effort to be in summer kit for the ride; 15°C with a warm westerly blowing.
+Spin to and from the pool proved to be hard conversation with my quads.
 
-Once at the pool, I lost a bit of time with the chit-chat that I am going to have to eliminate if I am going to get ~3000m in during the time available.  I cut the last of the 5 rounds short knowing that I needed to get the 700m effort in.  That was completed in 13:48, average pace of 1:57/100m.  I thought I was moving better that that through the water but if I look back, it was on track to be a 750m PR so...
+Even in the dark, it was warm effort to be in summer kit for the ride; 15°C with a warm westerly blowing.
+<!---->
+Once at the pool, I lost a bit of time with the chit-chat that I am going to have to eliminate if I am going to get ~3000m in during the time available.
+
+Once in the water, I felt pretty good however, I cut the last of the 5 rounds (300m) short knowing that I needed to get the 700m effort in.  That was completed in 13:48, average pace of 1:57/100m.  I thought I was moving better that that through the water but if I look back through my history in Garmin, I was on track to beat my 750m PR so...
+
+Who knows?
+
 
 <!---->
 ## TUESDAY AUG 17
