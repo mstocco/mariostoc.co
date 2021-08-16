@@ -9,10 +9,12 @@ I'll be missing my Wednesday night ride this week, replacing it with a run.  My 
 ## SUMMARY
 I feel I like was **LAGGING A BIT**
 
-With a schedule day off on [Saturday](javascript:flick('sat');), I didn't accumulate anywhere near the same Sun/Sat volume as last week (**9.875 hours**).  This was a nicely balanced week of training regardless.
+With a scheduled day off on [Saturday](javascript:flick('sat');), I didn't accumulate anywhere near the same Sun/Sat volume as last week (**9.875 hours**).  This was a nicely balanced week of training regardless.
 
 It's just as well because our first (but short lived) bout of forest fire smoke came and went on days without bigger volume.
 
+No niggles apart from chronically sore hamstrings.
+ 
 ![Thursday saw our first significant amount of forest fire smoke blow into the area](/assets/jpg/IMG_3353-977x550.jpeg McNeil Bay, Victoria, BC)
 
 ## SUNDAY AUG 8 🌤
