@@ -79,7 +79,7 @@ Once in the water, I felt pretty good however, I cut the last of the 5 rounds (3
 
 Who knows?
 
-
+![Swim Paces](/assets/jpg/swim-20210816.jpeg)
 <!---->
 ## TUESDAY AUG 17
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
