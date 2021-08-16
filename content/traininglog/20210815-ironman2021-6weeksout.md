@@ -13,8 +13,8 @@ I feel I like was...
 
 
 <!---->
-## SUNDAY AUG 15
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## SUNDAY AUG 15 ☀️
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -27,14 +27,15 @@ Ride 4:30++ I'd rather you ride 4:45 than 4:15. Over 5 hours is probably a bit t
 * Get in a few steady/longer climbs
 
 ### NOTES
-Total Moving Time: **290 minutes** &nbsp; Distance: **125 km**
+Moving Time: **290 minutes** &nbsp; Distance: **125 km**
+
+
 
 Left home about 45 minutes after a big blueberry pancake breakfast.  Consumed 3 bottles with 100g of lemonade mix, 2 Maurten gels (one caffeinated, one regular), a packet of Reboost Maple Syrup (100 calories) and about 200 calories of Maynards (14 pieces).  I did pack a packet of Maurten 320 drink mix with me but while stopped for water at _Masons Beach_, I spilled an unknown quantity on the ground.  A shame because I don't know the calories from the product I was able to keep in the bottle.
 
-
 <!---->
-## MONDAY AUG 16
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## MONDAY AUG 16 ☁️
+Sleep **4** | Fatigue **5** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -47,10 +48,11 @@ Easy spin to/from pool. (Short)
 2x 50 easy to cool down. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **80 minutes** &nbsp; Swim: **2600m**
 
-&mdash; 
+Spin to and from the pool proved to be hard conversation with my quads.  Even in the dark, it was warm effort to be in summer kit for the ride; 15°C with a warm westerly blowing.
 
+Once at the pool, I lost a bit of time with the chit-chat that I am going to have to eliminate if I am going to get ~3000m in during the time available.  I cut the last of the 5 rounds short knowing that I needed to get the 700m effort in.  That was completed in 13:48, average pace of 1:57/100m.  I thought I was moving better that that through the water but if I look back, it was on track to be a 750m PR so...
 
 <!---->
 ## TUESDAY AUG 17
