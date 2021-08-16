@@ -38,7 +38,7 @@ This morning I continued past the summit and took the highway right into _Mill B
 I was feeling good through the third hour, winching myself up the south end of _Shawnigan_.  I stopped at the entrance to the _Goldstream Heights_ subdivision for another quick pit stop.  I contemplated heading up the subdivision but the way the wind was blowing, I decided to head back to _VIctoria_ and put the extra mileage on once back in town.
  
 #### Consuption
-3 bottles with 100g of lemonade mix, 2 Maurten gels (one caffeinated, one regular), a packet of Reboost Maple Syrup (100 calories) and about 200 calories of Maynards (14 pieces).  I carried a packet of Maurten 320 crystals with me but while stopped for water at _Masons Beach_, I spilled an unknown quantity on the ground.  A shame because I don't know the calories I was able to keep in the bottle.  So ~1700 calories, maybe a bit more.  Interestingly, my Garmin bike computer called this ride a 1700 calorie ride.
+3 bottles with 100g of lemonade mix, 2 Maurten gels (one caffeinated, one regular), a packet of Reboost Maple Syrup (100 calories) and ~200 calories of Maynards (14 pieces).  I had a packet of Maurten 320 crystals with me but while stopped for water at _Masons Beach_, I spilled an unknown quantity on the ground.  So ~1700 calories accounted for. Interestingly, my Garmin bike computer called this ride a 1700 calorie ride.
 
 <!---->
 ## MONDAY AUG 16 ☁️
