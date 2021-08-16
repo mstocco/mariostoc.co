@@ -7,9 +7,11 @@ Week beginning [Sunday, August 8, 2021](javascript:flick('sun');)
 I'll be missing my Wednesday night ride this week, replacing it with a run.  My goal is to get the training in and wrap up 2 big tasks at work too.
 
 ## SUMMARY
-I feel I like was...  
-<sup>(completed at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel I like was **LAGGING A BIT**
+
+With a schedule day off on [Saturday](javascript:flick('sat');), I didn't accumulate anywhere near the same Sun/Sat volume as last week (**9.875 hours**).  This was a nicely balanced week of training regardless.
+
+It's just as well because our first (but short lived) bout of forest fire smoke came and went on days without bigger volume.
 
 ![Thursday saw our first significant amount of forest fire smoke blow into the area](/assets/jpg/IMG_3353-977x550.jpeg McNeil Bay, Victoria, BC)
 
@@ -155,7 +157,9 @@ Total Time: **40 minutes** &nbsp; Distance: **6.2 km**
 
 I had a restful sleep though I can feel some fatigue in my quads as I go up and down the stairs.
 
-Garmin's latest update to my watch now suggests run workouts.  Ironically, it suggested a 30 minute "recovery run" so I pressed start just to see what this new programming does.  I ran very easy to the _Selkirk Trestle_, looked at my watch and saw minutes.  In my mind, I was early to my typical turn around spot so I kept going.  I think the watch was telling me that I had 13 minutes left...
+Garmin's latest update to my watch now suggests run workouts.  Ironically, it suggested a 30 minute "recovery run" so I pressed start just to see what this new programming does.  I ran very easy to the _Selkirk Trestle_, looked at my watch and saw minutes.  In my mind, I was early to my typical turn around spot so I kept going.
+
+I think the watch was telling me that I had 13 minutes left...
 <!---->
 ## SATURDAY AUG 14 ⛅️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
