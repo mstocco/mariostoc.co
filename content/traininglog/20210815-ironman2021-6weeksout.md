@@ -111,9 +111,10 @@ I think riding to Willis Point is your best bet. And the climb is the most simil
 Steady riding. Riding like you need to get somewhere, but NOT like your hard efforts. This is about amassing a large amount of climbing in one ride.  
 _Fuel like a race. Hydrate like a race. Because......_
 
-Run 60 minutes. Flat route. Best breathing/form you have. Easy to "steady". Aka: Let the run come to you. And don't hold back if you find a flow. Conversely, if you do NOT find a flow. Stay calm, and find out what works on the day.   
-_Again, fuel like a race, hydrate like a race_
+Run 60 minutes. Flat route. Best breathing/form you have. Easy to "steady". Aka: Let the run come to you. And don't hold back if you find a flow. Conversely, if you do NOT find a flow. Stay calm, and find out what works on the day.
 
+_Again, fuel like a race, hydrate like a race_
+<!---->
 ### NOTES
 Total Time: **0 minutes**
 
