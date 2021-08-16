@@ -42,11 +42,12 @@ I was feeling good through the third hour, winching myself up the south end of _
 <!---->
 So ~1700 calories accounted for. Interestingly, my Garmin bike computer called this ride a 1700 calorie ride.
 
-### OTHER NOTES
+### MORE NOTES
 I wore my Castelli tri-suit.  It worked even though it still feels long in the body.  Undercarriage felt like it should after a 5 hour ride but nothing chafed.
 
-I wore my Rudy Project Wingspan.  Who knows if it worked (tail sits 3.5 inches above my back) but I had no neck issues on the bike.
+I wore my Rudy Project Wingspan.  Who knows if it worked (tail sits 3.5 inches above my back) but I had no neck issues on the bike.  Air moving between the ear covers and my head is noisy. 
 
+I ran with my tri-spoke race wheels because it has the 12-28 cassette on the rear wheel.  It was interesting to feel the difference in how it catches the wind.  I feel the pressure of a passing vehicle just before being passed.  I could almost tell the difference of the shape of the car/truck before it comes into my peripheral view.
 
 <!---->
 ## MONDAY AUG 16 ☁️
