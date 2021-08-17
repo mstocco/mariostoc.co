@@ -143,6 +143,8 @@ I was going to ride home and figure out a ride for later in the afternoon but wi
 
 We have been very lucky with forest fire smoke this summer.  I did the long commute home because who knows how smoky it will be by the end of the day.
 
+---
+
 <p style="text-align:right;">Smoke thinned out by sunset (8:09pm) &rarr;</p>
 <!---->
 ![Thursday at 8:09pm](/assets/jpg/sunset-20210812.jpeg)
@@ -162,6 +164,8 @@ I had a restful sleep though I can feel some fatigue in my quads as I go up and 
 Garmin's latest update to my watch now suggests run workouts.  Ironically, it suggested a 30 minute "recovery run" so I pressed start just to see what this new programming does.  I ran very easy to the _Selkirk Trestle_, looked at my watch and saw minutes.  In my mind, I was early to my typical turn around spot so I kept going.
 
 I think the watch was telling me that I had 13 minutes left...
+
+
 <!---->
 ## SATURDAY AUG 14 ⛅️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  

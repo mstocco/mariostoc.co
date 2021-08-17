@@ -81,8 +81,8 @@ Who knows?
 
 ![Swim Paces](/assets/jpg/swim-20210816.jpeg)
 <!---->
-## TUESDAY AUG 17
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## TUESDAY AUG 17 ⛅️
+Sleep **2** | Fatigue **4** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -95,7 +95,7 @@ You normally do this just fine. But now is the time to reiterate this point. As 
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash; 
+I woke feeling more rested this morning.  Some light stretching revealed some tight hip flexors.
 
 
 <!---->
