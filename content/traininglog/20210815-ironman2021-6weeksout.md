@@ -81,7 +81,7 @@ Who knows?
 
 ![Swim Paces](/assets/jpg/swim-20210816.jpeg)
 <!---->
-## TUESDAY AUG 17 ⛅️
+## TUESDAY AUG 17 🌤
 Sleep **2** | Fatigue **4** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -93,14 +93,17 @@ Easy is in ALL CAPS for a reason.
 You normally do this just fine. But now is the time to reiterate this point. As Sunday is a big day. And so is Wednesday. 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **62 minutes** &nbsp; Distance: **25 km**
 
 I woke feeling more rested this morning.  Some light stretching revealed some tight hip flexors.
 
+For the ride, I stuck mostly to the bike paths for a standard loop of _Colwood_, _Esquimalt_ and _DT_.
+
+After returning home and getting into some run kit, my phone blew up with messages from work.  I ended up back on the keyboard through 2130 on an emergency issue.  After that, I took my split shorts off, had a shower and went to bed.
 
 <!---->
-## WEDNESDAY AUG 18
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## WEDNESDAY AUG 18 ⛅️
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
