@@ -11,8 +11,7 @@ I feel I like was...
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
-
-<!---->
+![From the ride on Wednesday Afternoon, what goes up must come down.](/assets/jpg/IMG_3361-977x550.jpeg Bear Mountain Parkway, Langford, BC)
 ## SUNDAY AUG 15 ☀️
 Sleep **3** | Fatigue **3** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -119,10 +118,24 @@ Run 60 minutes. Flat route. Best breathing/form you have. Easy to "steady". Aka:
 _Again, fuel like a race, hydrate like a race_
 <!---->
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **210 minutes** &nbsp; Vertical: **3,070 feet**
 
-&mdash; 
+Worked didn't end at noon, I was pushed through 1430 and if I didn't put my foot down, I'd still be on the keyboard.
 
+Regardless, I set off to semi-follow a ride I did from August 2, 2020.  It took me to the back side of _Willis Point_, 
+over _Ross Durrance_ then up and over the _Bear Mountain_ subdivision.
+
+Calories consumed included ~280 calories of Maynards, a bottle of caffeinated Maurten 320 and I got through half a bottle of my lemonade mix (~150 calories); estimating 300 calories per hour during the ride.  There was a time climbing up the back side of _Willis Point Road_ that required some _"esophageal dexterity"_ (heart rate was north of 155 at the time) but other than that, I put down calories when I could throughout the ride.
+
+One thing I did not do was take the TT bike.  I noticed some play in the headset before heading out.  Instead of losing time that I didn't have adjusting that proprietary headset, I jumped on my road bike and went to work.
+
+I felt pretty good in general on the bike this afternoon.  I was feeling it on the last push up and out of the _Bear Mountain Village_ though.
+
+Once home, I changed into my run kit, grabbed my unfinished bottle of lemonade and a Maurten gel and headed out for the run.  I stayed focused for the entire run and found a real happy spot on the back half of run.  That might have been the gel that I started at the 20 minute mark.
+
+I was effectively running my pre-covid marathon pace without much effort for the entire hour.
+
+I bit of a twinge in my left hamstring but it was brief.
 <!---->
 ## THURSDAY AUG 19
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
