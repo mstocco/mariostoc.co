@@ -122,7 +122,9 @@ Total Time: **210 minutes** &nbsp; Vertical: **3,070 feet**
 
 Worked didn't end at noon, I was pushed through 1430 and if I didn't put my foot down, I'd still be on the keyboard.
 
-Regardless, I set off to semi-follow a ride I did from August 2, 2020.  It took me to the back side of _Willis Point_, 
+Despite work's intrusion, I got the scheduled work done and judging by how the run went, I am thinking today's training was nailed.
+
+I set off and mostly followed a ride I did on August 2, 2020.  The route took me to the back side of _Willis Point_, 
 over _Ross Durrance_ then up and over the _Bear Mountain_ subdivision.
 
 So I hit my elevation goal but I did not do it on the TT bike.  I noticed some play in its headset before heading out.  Instead of losing time that I didn't have adjusting a proprietary headset, I jumped on my road bike and went to work.
