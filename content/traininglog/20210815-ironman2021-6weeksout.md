@@ -11,7 +11,7 @@ I feel I like was...
 <sup>(completed at the end of the week)</sup>
 <!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
 
-![From the ride on Wednesday Afternoon, what goes up must come down.](/assets/jpg/IMG_3361-977x550.jpeg Bear Mountain Parkway, Langford, BC)
+![What goes up, must come down.  It the distance, an entire 8000 foot mountain range is obscured by clouds.](/assets/jpg/IMG_3361-977x550.jpeg Bear Mountain Parkway, Langford, BC)
 ## SUNDAY AUG 15 ☀️
 Sleep **3** | Fatigue **3** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
