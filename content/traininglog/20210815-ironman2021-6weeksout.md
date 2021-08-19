@@ -147,9 +147,7 @@ Sleep **4** | Fatigue **3** | Stress **5** | Soreness **2**
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Easy spin to/from the pool. (Short)
-
-5:30am: Swim 2800
+5:30am: Swim 2800  
 4 rounds (50 easy free, 50 Fist drill, 50 steady kick. Rest as needed)
 10x 100 aerobic/steady/form focused. Trying to keep a steady turnover. R :15 between each. 
 2x 50 EASY. Rest as needed. 
@@ -161,7 +159,7 @@ Total Time: **80 minutes** &nbsp; Swim: **2800**
 
 Slow to get out the door this morning and although I had a few traffic lights turn in my favour, I was just over 8 minutes to the ride to the pool.
 
-Once in the pool, I started slow(er) for the warm up set and then settled into a groove for the 10x100 and 4x250 sets.  I felt good too.  Because I was slow leaving home, I did cut some of the rest periods short to fit in the full 2800m workout.  I was last out of the water and the lanes were pretty free this morning.
+Once in the pool, I started slow(er) for the warm up set and then **settled into a groove** for the 10x100 and 4x250 sets.  Some of the rest periods were shortened to fit in the full workout.  I was last out of the water and the lanes were pretty free this morning.
 
 <!---->
 ## FRIDAY AUG 20
