@@ -157,9 +157,9 @@ Sleep **4** | Fatigue **3** | Stress **5** | Soreness **2**
 ### NOTES
 Total Time: **80 minutes** &nbsp; Swim: **2800**
 
-Slow to get out the door this morning and although I had a few traffic lights turn in my favour, I was just over 8 minutes to the ride to the pool.
+Slow to get out the door this morning and although I had a few traffic lights turn in my favour, it was ~8 minute ride to the pool.
 
-Once in the pool, I started slow(er) for the warm up set and then **settled into a groove** for the 10x100 and 4x250 sets.  Some of the rest periods were shortened to fit in the full workout.  I was last out of the water and the lanes were pretty free this morning.
+Once in the pool, I started slow(er) for the warm up set and then **settled into a groove** for the 10x100 and 4x250 sets.  Some of the rest periods were shortened to fit in the full workout.
 
 <!---->
 ## FRIDAY AUG 20
