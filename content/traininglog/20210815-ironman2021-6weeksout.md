@@ -110,7 +110,8 @@ Ride 2:30 on TT bike. I'd like you to get in OVER 2500 feet of total vertical.
 
 I think riding to Willis Point is your best bet. And the climb is the most similar to your races. 
 4-5x Willis. No need to go to the back side! No need to do the final steep pitch either! 
-Steady riding. Riding like you need to get somewhere, but NOT like your hard efforts. This is about amassing a large amount of climbing in one ride.  
+Steady riding. Riding like you need to get somewhere, but NOT like your hard efforts. This is about amassing a large amount of climbing in one ride.
+
 _Fuel like a race. Hydrate like a race. Because......_
 
 Run 60 minutes. Flat route. Best breathing/form you have. Easy to "steady". Aka: Let the run come to you. And don't hold back if you find a flow. Conversely, if you do NOT find a flow. Stay calm, and find out what works on the day.
