@@ -125,9 +125,11 @@ Worked didn't end at noon, I was pushed through 1430 and if I didn't put my foot
 Regardless, I set off to semi-follow a ride I did from August 2, 2020.  It took me to the back side of _Willis Point_, 
 over _Ross Durrance_ then up and over the _Bear Mountain_ subdivision.
 
-Calories consumed included ~280 calories of Maynards, a bottle of caffeinated Maurten 320 and I got through half a bottle of my lemonade mix (~150 calories); estimating 300 calories per hour during the ride.  There was a time climbing up the back side of _Willis Point Road_ that required some _"esophageal dexterity"_ (heart rate was north of 155 at the time) but other than that, I put down calories when I could throughout the ride.
+So I hit my elevation goal but I did not do it on the TT bike.  I noticed some play in its headset before heading out.  Instead of losing time that I didn't have adjusting a proprietary headset, I jumped on my road bike and went to work.
 
-One thing I did not do was take the TT bike.  I noticed some play in the headset before heading out.  Instead of losing time that I didn't have adjusting that proprietary headset, I jumped on my road bike and went to work.
+Calories consumed included ~280 calories of Maynards, a bottle of caffeinated Maurten 320 and I got through half a bottle of my lemonade mix (~150 calories); estimating 300 calories per hour during the ride.
+<!---->
+There was a time climbing up the back side of _Willis Point Road_ that required some _"esophageal dexterity"_ (heart rate was north of 155 at the time) but other than that, I put down calories when I could throughout the ride.
 
 I felt pretty good in general on the bike this afternoon.  I was feeling it on the last push up and out of the _Bear Mountain Village_ though.
 
