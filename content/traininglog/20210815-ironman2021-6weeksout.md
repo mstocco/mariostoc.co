@@ -142,8 +142,8 @@ I was effectively running my pre-covid marathon pace without much effort for the
 
 I bit of a twinge in my left hamstring but it was brief.
 <!---->
-## THURSDAY AUG 19
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## THURSDAY AUG 19 ⛅️
+Sleep **4** | Fatigue **3** | Stress **5** | Soreness **2**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -157,10 +157,11 @@ Easy spin to/from the pool. (Short)
 2x 50 easy to cool down
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **80 minutes** &nbsp; Swim: **2800**
 
-&mdash; 
+Slow to get out the door this morning and although I had a few traffic lights turn in my favour, I was just over 8 minutes to the ride to the pool.
 
+Once in the pool, I started slow(er) for the warm up set and then settled into a groove for the 10x100 and 4x250 sets.  I felt good too.  Because I was slow leaving home, I did cut some of the rest periods short to fit in the full 2800m workout.  I was last out of the water and the lanes were pretty free this morning.
 
 <!---->
 ## FRIDAY AUG 20
