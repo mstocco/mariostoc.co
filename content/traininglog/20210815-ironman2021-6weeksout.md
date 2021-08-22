@@ -162,8 +162,8 @@ Slow to get out the door this morning and although I had a few traffic lights tu
 Once in the pool, I started slow(er) for the warm up set and then **settled into a groove** for the 10x100 and 4x250 sets.  Some of the rest periods were shortened to fit in the full workout.
 
 <!---->
-## FRIDAY AUG 20
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## FRIDAY AUG 20 ⛅️
+Sleep **3** | Fatigue **5** | Stress **4** | Soreness **4**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -171,20 +171,25 @@ Run 60 minutes. Hilly route. Easy effort.
 Great day to stretch well.
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **60 minutes** &nbsp; Distance: **9.6 km**
 
-&mdash; 
+Feeling the work put in on [Wednesday](javascript:flick('wed');) today, mostly in the legs.  
 
+I got a project completed at work (a bit of work stress relief) and headed out for the run before dinner.  It was a trip up and over  _Craigflower Hill_ and when I got to the bottom near _Admirals Road_, I turned around and went back up.  Rinse, repeats to make 4 "bumps" in the run's elevation profile in Strava before heading for home.
 
+With a measured 145m of elevation gain, this wasn't my "hilliest" route but I think it was the right amount of stimulus given the stiffness in my legs today.
 <!---->
-## SATURDAY AUG 21
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## SATURDAY AUG 21 ☁️
+Sleep **3** | Fatigue **4** | Stress **5** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash; 
+Ride 5:00-5:15 on TT bike. Some solid climbing. Generally speaking, goal is to cover ground efficiently. 
+Eating early, eating often. Stopping to refuel/fill bottles as often as needed. 
+Off the bike: Run 20 minutes. Gut check. Leg check.
 
 ### NOTES
 Total Time: **0 minutes**
 
-&mdash;
+**I could scream**; fucking people.  Both the entitled and the stupid, non-vaccinated population have now shut down the entire _Interior Heath Region_.   Too early for an official word from the _City of Penticton_ or _IRONMAN_ but I am not naive.  This is likely the end for IRONMAN Canada 2021.
+
