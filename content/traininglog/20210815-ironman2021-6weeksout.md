@@ -7,9 +7,11 @@ Week beginning [Sunday, August 15, 2021](javascript:flick('sun');)
 Important Bike Week. 
 
 ## SUMMARY
-I feel I like was...  
-<sup>(completed at the end of the week)</sup>
-<!--OVERTRAINING|ON THE EDGE|STAYING CONSISTENT|LAGGING A BIT-->
+I feel I was **ON THE EDGE**
+
+Smashed out my biggest Sunday to Saturday week with over **19 hours** of training.  For that, I am estatic, grateful, stoked.
+
+I woke on [Saturday](javascript:flick('sat');) to learn that the unvacinated have put Ironman Canada 2021 in real jeopardy.  Infuriated, incensed and apoplectic is how I ended the week.  
 
 ![What goes up, must come down.  In the distance, an entire 8000 foot mountain range is obscured by clouds.](/assets/jpg/IMG_3361-977x550.jpeg Bear Mountain Parkway, Langford, BC)
 ## SUNDAY AUG 15 ☀️
@@ -177,7 +179,7 @@ Total Time: **0 minutes**
 
 
 <!---->
-## SATURDAY AUG 21
+## SATURDAY AUG 21 
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -185,6 +187,6 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 &mdash; 
 
 ### NOTES
-Total Time: **0 minutes**
+Total Time: **320 minutes** OTB Pace: **5:17/km**
 
 &mdash;
