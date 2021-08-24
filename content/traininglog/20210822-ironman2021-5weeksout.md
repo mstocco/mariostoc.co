@@ -28,11 +28,11 @@ Open Water swim ~ 3x 10 minutes continuous/steady. R 2:00 between each. Focus on
 Run 30 minutes EASY
 
 ### NOTES
-Total Time: **&mdash; minutes**
+Total Time: **~40 minutes** &nbsp; Swim: **~1800m**
 
-&mdash; 
+Carina and I drove up to _Shawnigan Lake_ this afternoon.  The weather was a cloudy but the winds that Victoria was experiencing were non-existant here.  I really had no desire to get wet but we had the Carina's paddle board on the top of the car and she really wanted to get on the water.  I am thankful that she did.
 
-
+Once in the water though, everything felt really good.  Although I didn't capture the planned workout correctly with my watch, I felt like I could have been in the water for double the time.   
 <!---->
 ## MONDAY AUG 23
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
@@ -51,9 +51,19 @@ Pm: Run 1:40. Flat route. Easy effort. Lots of calories
 ### NOTES
 Total Time: **&mdash; minutes**
 
-&mdash; 
+Maybe my worse swim to date and it wasn't fatigue or soreness or not being on time or, or, or.
 
+My head was in a spot with the thought about what's next instead of what's now.  I programmed the workout into my watch wrong last night but it wasn't until the 600m effort that I ended up doing 300 and calling it done.  I collected myself and swam a bunch more lengths and if I was to guess, I'd estimate that I did 2500m but it wasn't as coach wrote it up.
 
+<!---->
+### Important Participant Information
+Dear IRONMAN Canada – Penticton Athlete, 
+
+Over the challenging and constantly evolving landscape of the last year and a half, our team has continued to work hard in an effort to create the best race experience and welcome you back to the IRONMAN Canada - Penticton start line. We felt optimistic and had high hopes for the updated 2021 IRONMAN Canada - Penticton race date scheduled for September 26, 2021. 
+
+Unfortunately, due to the updated British Columbia Interior Health restrictions for events hosting more than 100 people, we regret to inform you that the 2021 IRONMAN Canada - Penticton triathlon cannot take place on September 26, 2021. The event is now scheduled to return on Aug. 28, 2022. 
+
+This is certainly not the news any of us wanted especially at this point in time and we recognize that this latest setback is a significant disappointment after multiple race updates. Our goal remains to put on an exceptional event that meets the expectations of our athletes and host community.
 <!---->
 ## TUESDAY AUG 24
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
