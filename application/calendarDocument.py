@@ -163,10 +163,15 @@ class IronmanCalendar(TemplateDocument):
 
 		addendum = P({'style':'font-size:0.8em;background-color:#E0ECF8;padding:0 7px;margin-bottom:32px;'})
 		addendum.append('Based on the guidelines from the Province of British Columbia in relation to the COVID-19 pandemic, the 2021 Subaru IRONMAN Canada – Penticton event was postponed from August 29 to September 26')
+		
+		addendum2 = P({'style':'font-size:0.8em;background-color:#F8C471;padding:0 7px;margin-bottom:32px;'})
+		addendum2.append('Unfortunately, due to the updated British Columbia Interior Health restrictions for events hosting more than 100 people, we regret to inform you that the 2021 IRONMAN Canada - Penticton triathlon cannot take place on September 26, 2021.')
 
-		carouselCells[4].append(DIV({'style':'height:202px;'}))
+		carouselCells[4].append(DIV({'style':'height:82px;'}))
 		carouselCells[4].append(H4('CALENDAR UPDATE: June 6, 2021'))
 		carouselCells[4].append(addendum)
+		carouselCells[4].append(H4('CALENDAR UPDATE: August 23, 2021'))
+		carouselCells[4].append(addendum2)
 		carouselCells[4].append(CalendarMonth(2021, 9))
 		for cell in carouselCells:
 			self.carousel.append(cell)
