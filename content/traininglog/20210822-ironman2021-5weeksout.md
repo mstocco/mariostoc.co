@@ -17,7 +17,7 @@ I feel I like was...
 <sup>(completed at the end of the week)</sup>
 <!-- GOOD TO GO! -->
 
-<!---->
+![From the swim near the Government Wharf.](/assets/jpg/shawnigan-swim-977x550.jpeg SHAWNIGAN LAKE, BC)
 ## SUNDAY AUG 22 ⛅️
 Sleep **3** | Fatigue **5** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
