@@ -167,7 +167,7 @@ class IronmanCalendar(TemplateDocument):
 		addendum2 = P({'style':'font-size:0.8em;background-color:#F8C471;padding:0 7px;margin-bottom:32px;'})
 		addendum2.append('Unfortunately, due to the updated British Columbia Interior Health restrictions for events hosting more than 100 people, we regret to inform you that the 2021 IRONMAN Canada - Penticton triathlon cannot take place on September 26, 2021.')
 
-		carouselCells[4].append(DIV({'style':'height:52px;'}))
+		carouselCells[4].append(DIV({'style':'height:28px;'}))
 		carouselCells[4].append(H4('CALENDAR UPDATE: June 6, 2021'))
 		carouselCells[4].append(addendum)
 		carouselCells[4].append(H4('CALENDAR UPDATE: August 23, 2021'))
