@@ -51,7 +51,7 @@ Pm: Run 1:40. Flat route. Easy effort. Lots of calories
 ### NOTES
 Total Time: **60 minutes** &nbsp; Swim: **2500m**
 
-My head was in a spot with the thought about what's next instead of what's now.  I programmed the workout into my watch wrong last night but it wasn't until the 600m effort that I ended up doing 300m and calling it done.  I collected myself and swam a bunch more lengths and if I was to guess, I'd estimate that I did 2500m but it wasn't as coach wrote it up.
+My head was in a spot with the thought about what's next instead of what's now.  I programmed the workout into my watch wrong and halfway through the 600m effort that I stopped.  I collected myself and swam a the balance of the distance but it wasn't as coach wrote it up.
 
 <!---->
 ### Important Participant Information
