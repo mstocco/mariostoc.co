@@ -49,7 +49,7 @@ am: Short/direct commute to/from pool.
 Pm: Run 1:40. Flat route. Easy effort. Lots of calories
 
 ### NOTES
-Total Time: **&mdash; minutes**
+Total Time: **60 minutes** &nbsp; Swim: **2500m**
 
 Maybe my worse swim to date and it wasn't fatigue or soreness or not being on time or, or, or.
 
@@ -63,7 +63,9 @@ Over the challenging and constantly evolving landscape of the last year and a ha
 
 Unfortunately, due to the updated British Columbia Interior Health restrictions for events hosting more than 100 people, we regret to inform you that the 2021 IRONMAN Canada - Penticton triathlon cannot take place on September 26, 2021. The event is now scheduled to return on Aug. 28, 2022. 
 
-This is certainly not the news any of us wanted especially at this point in time and we recognize that this latest setback is a significant disappointment after multiple race updates. Our goal remains to put on an exceptional event that meets the expectations of our athletes and host community.
+---
+There's more to that email but needless to say, I am going to need to process and reframe things for me on this journey.
+
 <!---->
 ## TUESDAY AUG 24
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
@@ -96,7 +98,6 @@ Off the bike: Run 30 minutes EASY. Relax. Run with good form.
 Total Time: **&mdash; minutes**
 
 &mdash; 
-
 
 <!---->
 ## THURSDAY AUG 26
