@@ -66,21 +66,23 @@ There's more to that email but needless to say, I am going to need to process an
 
 <!---->
 ## TUESDAY AUG 24
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+Sleep **3** | Fatigue **3** | Stress **5** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 Ride 60 minutes EASY
 
 ### NOTES
-Total Time: **&mdash; minutes**
+Total Time: **141 minutes** &nbsp; Distance: **16.75 km**
 
-&mdash; 
+I really wanted to get that run stimulus into my legs so executive decision, I did yesterday's run this evening before dinner.
 
+It was a easy jog out to the end of the _Ogden Point Breakwater_.  I kept things nice and comfortable on the way out and I noticed that my legs were comfortable through the return to the _Johnson Street Bridge_.  I needed a bit more focus on form after that but overall, good run and I am glad that I had "time on feet".
 
+Good stretch before bed too.
 <!---->
-## WEDNESDAY AUG 25
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**  
+## WEDNESDAY AUG 25 ☁️
+Sleep **3** | Fatigue **4** | Stress **4** | Soreness **3**  
 <sup>Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -95,7 +97,7 @@ Off the bike: Run 30 minutes EASY. Relax. Run with good form.
 ### NOTES
 Total Time: **&mdash; minutes**
 
-&mdash; 
+I am out of _Maynards Peach Fuzz_ but I packed a Maurten gel and a banana in addtion to the calories in my 3 bottles.  I don't see Maynards listed in the _Athlete's Guide_ but bananas and Maurten certainly are.
 
 <!---->
 ## THURSDAY AUG 26
