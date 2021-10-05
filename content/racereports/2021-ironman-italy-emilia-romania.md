@@ -13,7 +13,9 @@ If anything COVID has taught the world is that certainty is anything but certain
 Ciao Italia!  Piacere di rivederti! 🇮🇹
 
 <!---->
-<p class="" style="color:#AAA;margin:150px 0 20px 0;"></p>
+![IRONMAN Italy Emilia Romangna Logo](/assets/jpg/imitaly-logo-340.jpeg)
+
+<p class="" style="color:#AAA;margin:150px 0 20px 0;">Scroll right for more or select from the following sections:</p>
 <ul class="alt" style="font-size:0.85em;">
  <li class="item"><a href="javascript:flkty.select(3);">GETTING TO CERVIA</a></li>
  <li class="item"><a href="javascript:flkty.select(4);">RACE DAY</a></li>
