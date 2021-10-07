@@ -1,7 +1,8 @@
-# 2021 IRONMAN Italy - Emilia Romangna
+# 2021 IRONMAN Italy - Emilia Romagna
 
 _September 18, 2021_
 
+<img src="/assets/jpg/ironman-italy-emilia-romagna-logo.jpeg" alt="2021 IRONMAN Italy Emilia Romagna" style="margin-top:-126px;" />
 This is the story of my first IRONMAN triathlon.
 
 I first registered for this race in the fall of 2019 with the hopes of participating in the 2020 event.  Unfortunately, a certain global pandemic had other plans.   Italy's hardship with COVID-19 was well documented and I all but abandoned hope of travelling to Italy for this race.
@@ -13,7 +14,7 @@ If anything COVID has taught the world is that certainty is anything but certain
 Ciao Italia!  Piacere di rivederti! 🇮🇹
 
 <!---->
-![IRONMAN Italy Emilia Romangna Logo](/assets/jpg/imitaly-logo-340.jpeg)
+
 
 <p class="" style="color:#AAA;margin:150px 0 20px 0;">Scroll right for more or select from the following sections:</p>
 <ul class="alt" style="font-size:0.85em;">
@@ -26,15 +27,18 @@ Ciao Italia!  Piacere di rivederti! 🇮🇹
  <li class="item"><a href="javascript:flkty.select();">THE RUN WALK</a></li>
  <li class="item"><a href="javascript:flkty.select();">FINAL THOUGHTS</a></li>
 </ul>
+![image](/assets/jpg/image.jpeg)
 
 <!---->
 ## Getting to Cervia
 Travel from Canada to Italy required Carina and I to have proof of full vacination, negative COVID antigen tests 48 hours before our flight and a contact tracing form that was easy to complete.  
 
-This was our first big trip since COVID-19 turned the world on its ear.  Delayed flights because of a mechanical issue and staff shortages made for a very long day of travel.  We started our day at 8:30am Saturday in Victoria and arrived at 9pm Sunday in Cervia.  Luckily, I was able to get some sleep on the flight between Toronto and Frankfurt.  Luftansa accomodated us on a later flight from Frankfurt to Bolongna and we took the train for the final leg of of our trek to Cervia
+This was our first big trip since COVID-19 turned the world on its ear.  Delayed flights because of a mechanical issue and staff shortages made for a very long day of travel.  We started our day at 8:30am Saturday in Victoria and arrived at 9pm Sunday in Cervia.  Luckily, I was able to get some sleep on the flight between Toronto and Frankfurt.  Luftansa accomodated us on a later flight from Frankfurt to Bolongna and we took the train for the final leg of of our trek to Cervia.
+![image](/assets/jpg/image.jpeg)
+<!---->
 
 We stayed in at Hotel Orchidea; we could not have asked for a better location.  Our room was spacious (room to unpack and build my bike) and had a gorgeous view overlooking the beach and the swim start.  Stephania and her entire staff at Hotel Orchidea were exceptional too!  Kind, helpful and very accommodating; they made our time in Cervia an absolutely wonderful experience.
-
+![image](/assets/jpg/image.jpeg)
 <!---->
 ## Race Day: The Alarm Goes Off
 The past week was spent adjusting to a 9 time one difference.  Typically I would be waking at midnight, 2am and 3am then staring at the ceiling until sunrise.  I think I slept well all things considering.  My first task was to fill my bottles and walk them to my bike in Transition.  If you have read any other race reports for IRONMAN Italy, you would know that the Transition Area is long and narrow.  With COVID protocols in place, it was longer yet.  To make it more interesting, everyone was made to enter the transition from the end furthest from the swim start.  It was a full mile of walking before getting to my bike.
@@ -48,7 +52,7 @@ Yesterday, I watched crew set the remaining buoys for the clockwise, "L" shaped 
 I guessed my swim time to be around 80 minutes so I set myself up at the back of the 1:10/1:20 corral.  Slowly the group shuffled to the starting gates where 8 athletes were released every 12 seconds.  I must have misjudged the queue because there were 2 substantial groups behind me (the 1:20/1:30 and >1:30 groups).  Those corrals maybe contained a couple hundred people.  By the time I had shuffled to the start, there may have been a couple dozen people left to enter the water.  I was starting at the back of the pack.
 
 <!---->
-There was a chest high swell rolling in this morning too (guessed based on the swim marshals on stand up paddle boards.  This made sighting the first buoy a touch more challenging but fortunately, there was a mast of a nearby sail boat that I was able to use.  I swam to this first buoy in choppy conditions in 9 minutes a day and a half ago; this morning with the swell, I felt like I was there quicker with less effort.
+There was a thigh high swell rolling in this morning too (guessed based on the swim marshals on stand up paddle boards.  This made sighting the first buoy a touch more challenging but fortunately, there was a mast of a nearby sail boat that I was able to use.  Two days earlier, I swam to first buoy in choppy conditions in 9 minutes; this morning with the swell, I felt like I was there quicker with less effort.
 
 At that first turn buoy, I stopped to dump some water out of my goggles and began the long leg to the southern turn buoy.
 
