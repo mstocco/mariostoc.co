@@ -1,43 +1,48 @@
 # 2021 IRONMAN Italy - Emilia Romagna
+<img src="/assets/jpg/ironman-italy-emilia-romagna-logo.jpeg" alt="2021 IRONMAN Italy Emilia Romagna" style="margin-top:-22px;" />
 
 _September 18, 2021_
 
-<img src="/assets/jpg/ironman-italy-emilia-romagna-logo.jpeg" alt="2021 IRONMAN Italy Emilia Romagna" style="margin-top:-126px;" />
 This is the story of my first IRONMAN triathlon.
 
-I first registered for this race in the fall of 2019 with the hopes of participating in the 2020 event.  Unfortunately, a certain global pandemic had other plans.   Italy's hardship with COVID-19 was well documented and I all but abandoned hope of travelling to Italy for this race.
+I first registered for this race in the fall of 2019 with the hopes of participating in the 2020 event.  Unfortunately, a certain global pandemic had other plans.
+
+Italy's hardship with COVID-19 was well documented and I all but abandoned hope of travelling to Italy for this race.
 
 My desire to complete an IRONMAN remained however and I spent the bulk of the past year focused on IRONMAN Canada and that race's return to Penticton BC.
 
+<!---->
 If anything COVID has taught the world is that certainty is anything but certain.  With a matter of weeks before IRONMAN Canada's rescheduled date, that event was postponed for yet another year.  And so...
 
 Ciao Italia!  Piacere di rivederti! 🇮🇹
 
-<!---->
-
-
-<p class="" style="color:#AAA;margin:150px 0 20px 0;">Scroll right for more or select from the following sections:</p>
+<h3 style="margin:70px 0 0 0;color:#222;">SECTIONS</h3>
 <ul class="alt" style="font-size:0.85em;">
+ <li class="item">Scroll right <strong>&rarr;</strong> for more of the story or<br />select a section from the list below:</li>
  <li class="item"><a href="javascript:flkty.select(3);">GETTING TO CERVIA</a></li>
- <li class="item"><a href="javascript:flkty.select(4);">RACE DAY</a></li>
- <li class="item"><a href="javascript:flkty.select(5);">THE SWIM</a></li>
+ <li class="item"><a href="javascript:flkty.select(5);">RACE DAY</a></li>
+ <li class="item"><a href="javascript:flkty.select(6);">THE SWIM</a></li>
  <li class="item"><a href="javascript:flkty.select();">T1</a></li>
  <li class="item"><a href="javascript:flkty.select();">THE BIKE</a></li>
  <li class="item"><a href="javascript:flkty.select();">T2</a></li>
  <li class="item"><a href="javascript:flkty.select();">THE RUN WALK</a></li>
  <li class="item"><a href="javascript:flkty.select();">FINAL THOUGHTS</a></li>
 </ul>
-![image](/assets/jpg/image.jpeg)
 
 <!---->
 ## Getting to Cervia
 Travel from Canada to Italy required Carina and I to have proof of full vacination, negative COVID antigen tests 48 hours before our flight and a contact tracing form that was easy to complete.  
 
-This was our first big trip since COVID-19 turned the world on its ear.  Delayed flights because of a mechanical issue and staff shortages made for a very long day of travel.  We started our day at 8:30am Saturday in Victoria and arrived at 9pm Sunday in Cervia.  Luckily, I was able to get some sleep on the flight between Toronto and Frankfurt.  Luftansa accomodated us on a later flight from Frankfurt to Bolongna and we took the train for the final leg of of our trek to Cervia.
-![image](/assets/jpg/image.jpeg)
-<!---->
+This was our first big trip since COVID-19 turned the world on its ear.  Delayed flights because of a mechanical issue and staff shortages made for a very long day of travel.  We started our day at 8:30am Saturday in Victoria and arrived at 9pm Sunday in Cervia.
 
-We stayed in at Hotel Orchidea; we could not have asked for a better location.  Our room was spacious (room to unpack and build my bike) and had a gorgeous view overlooking the beach and the swim start.  Stephania and her entire staff at Hotel Orchidea were exceptional too!  Kind, helpful and very accommodating; they made our time in Cervia an absolutely wonderful experience.
+![Flying over Penticton](/assets/jpg/IMG_3389-2.jpeg)
+Ironically, we flew over Penticton enroute to Italy.
+<!---->`
+Luckily, I was able to get some sleep on the flight between Toronto and Frankfurt.  Luftansa accomodated us on a later flight from Frankfurt to Bolongna and we took the train for the final leg of of our trek to Cervia.
+
+Once in Cervia, we stayed at Hotel Orchidea; we could not have asked for a nicer location.
+
+Our room was spacious (room to unpack and build my bike) and had a gorgeous view overlooking the beach and the swim start.  Stephania and her entire staff at Hotel Orchidea were exceptional too!  Kind, helpful and very accommodating; they made our time in Cervia an absolutely wonderful experience.
 ![image](/assets/jpg/image.jpeg)
 <!---->
 ## Race Day: The Alarm Goes Off
