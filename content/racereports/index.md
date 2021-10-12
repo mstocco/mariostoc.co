@@ -13,5 +13,5 @@ COVID-19 through the world for a loop and races over that period were cancelled,
 </ul>
 
 Racing is just one day, the time in between is where the magic happens for me and I document that process in my [TRAINING LOG](/traininglog/latest).
-
+u
 ![2018 BMO Vancouver Marathon](/assets/jpg/IMG_0170-976x550.jpg Kilometre 29 of 42.2)
