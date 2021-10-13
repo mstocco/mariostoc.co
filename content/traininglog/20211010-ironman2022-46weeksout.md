@@ -7,14 +7,14 @@ Week beginning [Sunday, October 10, 2021](javascript:flick('sun');)
 Time to get going.  My goal is just to (re)start the plan
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **1.25 Hours**
 
 I feel like I was...
 <br /><sup>(completed at the end of the week)</sup>
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![It was a cool in the shade but really nice in the sunshine today](/assets/jpg/IMG_3764-977x550.jpeg Thanksgiving Day, Sidney BC)
 
 ## SUNDAY OCT 10 ☀️
 Sleep **6** | Fatigue **1** | Stress **2** | Soreness **5**
@@ -46,30 +46,32 @@ Total Time: **0 Minutes**
 A much better sleep compared to [yesterday](javascript:flick('sun');). 
 
 <!---->
-## TUESDAY OCT 12 🌦
+## TUESDAY OCT 12 🌧
 Sleep **2** | Fatigue **2** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Afternoon run with Yuaki  
+Afternoon run with Yauki.  
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **49 Minutes** &nbsp; Distance: **8.4 km**
 
-&mdash;  
+Despite the light rain, I met Yauki at his house and we did a counterclockwise lap along the _Songhees Walkway_, going up the hill on _Lampson Street_ first.  Yauki tends to run a touch faster than I would if I was on a run by myself; he is also looking to run with someone a touch slower so he can run more frequently.  That pacing was pretty much how this run worked out.
+
+_Vastus Medialis_ on both legs became **tender** and when Yauki wanted to walk after 8km, I was good with it.  We walked 13 minutes back to our neighbourhood.   No other aches and judging by my recorded (perceived) heart rate, there was work being done.  
 
 <!---->
-## WEDNESDAY OCT 13
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY OCT 13 ☁️
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Time to set up the rollers.
 
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+I slept soundly despite working until 2300 last night.
 
 <!---->
 ## THURSDAY OCT 14
