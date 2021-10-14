@@ -73,9 +73,13 @@ Total Time: **0 Minutes**
 
 I slept soundly despite working until 2300 last night.
 
+After work, I went to the garage to prep my road bike for a ride and while pumping up my front tire, its valve extender unthreaded itself.  Tire removed, extender retreaded and then to re-glue the tire back on the rim; I ran out of desire to go for a ride.  A sore throat and general aching feeling plus the grey skies didn't help either.
+
+Instead, I worked on the front yard (repairing a neglected lawn) until dark.
+
 <!---->
 ## THURSDAY OCT 14
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **4** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -84,7 +88,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Not the best sleep.  Up at 0300 hungry and congested; I had 2 bananas and finally fell back asleep.
 
 <!---->
 ## FRIDAY OCT 15
