@@ -9,10 +9,11 @@ Time to get going.  My goal is just to (re)start the plan
 ## SUMMARY
 Total Time: **1.25 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I **SPUTTERED** (a bit)
 
-&mdash;
+This week was to be my jumpstart to getting back into a routine.  I sort of got there with 3 runs and 2 much needed mobility sessions.  Bike and swim are re-introduced [ironman2020-45weeksout](next week).  The weather was mostly grey and wet and that didn't help.
+
+Work has been busy and I am getting some work done around the house too.
 
 ![It was a cool in the shade but really nice in the sunshine today](/assets/jpg/IMG_3764-977x550.jpeg Thanksgiving Day, Sidney BC)
 
@@ -78,7 +79,7 @@ After work, I went to the garage to prep my road bike for a ride and while pumpi
 Instead, I worked on the front yard (repairing a neglected lawn) until dark.
 
 <!---->
-## THURSDAY OCT 14
+## THURSDAY OCT 14 🌧
 Sleep **4** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -90,28 +91,38 @@ Total Time: **0 Minutes**
 
 Not the best sleep.  Up at 0300 hungry and congested; I had 2 bananas and finally fell back asleep.
 
+The time on the bike was missed.  I ended up repairing an unseated valve extender on a tubular rim and once I was done playing mechanic, I lost any desire to ride.  I spent the rest of the daylight repairing the damage of this past summer's drought to my front lawn; one household task complete.
+
 <!---->
-## FRIDAY OCT 15
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY OCT 15 🌧
+Sleep **4** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Mobility: 60 minutes  
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **60 Minutes**
 
-&mdash;  
+Long day at work but I did make time for the mobility routine.  It was a good stretch that highlighted that I have work to do with my glutes and hammies.
 
+I did get a bit more of my house chores done by dismantling another section of our old chimney.
 <!---->
-## SATURDAY OCT 16
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY OCT 16 ☀️
+Sleep **1** | Fatigue **2** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+45 minute run; easy and flat.  
+Mobility: 15 minute runners routine.
 
 ### NOTES
-Total Time: **0 Minutes**
+Run Time: **51	 Minutes**  &nbsp; Avg Pace: **5:53/km**
 
-&mdash;  
+The weather forecast called for an _"atmospheric river"_ and although the day started wet and grey, the sun came out and we had a really nice day in _VIctoria_.
+
+I ran slightly longer than what was scheduled _(~5 minutes)_ getting past the _Johnson Street Bridge_ before turning for home.  The adjectives **light and effortless** could easily be used to describe the trip to into town and back.  Maybe the warm sunshine had something to do with that.
+
+My hamstrings and glutes were tight and I did roll them out before putting on the trainers.  With that, I focused on breath work while on the bike path today.
+
+The mobility routine was done after the run.
