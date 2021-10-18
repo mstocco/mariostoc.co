@@ -7,7 +7,7 @@ Week beginning [Sunday, October 10, 2021](javascript:flick('sun');)
 Time to get going.  My goal is just to (re)start the plan
 
 ## SUMMARY
-Total Time: **1.25 Hours**
+Total Time: **100 mins** &nbsp; Running: **17.2 km**
 
 I feel like I **SPUTTERED** (a bit)
 
@@ -119,7 +119,7 @@ Mobility: 15 minute runners routine.
 ### NOTES
 Run Time: **51	 Minutes**  &nbsp; Avg Pace: **5:53/km**
 
-The weather forecast called for an _"atmospheric river"_ and although the day started wet and grey, the sun came out and we had a really nice day in _VIctoria_.
+The weather forecast called for an _"atmospheric river"_ and although the day started wet and grey, the sun came out and we had a really nice day in _Victoria_.
 
 I ran slightly longer than what was scheduled _(~5 minutes)_ getting past the _Johnson Street Bridge_ before turning for home.  The adjectives **light and effortless** could easily be used to describe the trip to into town and back.  Maybe the warm sunshine had something to do with that.
 
