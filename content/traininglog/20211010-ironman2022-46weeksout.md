@@ -122,7 +122,9 @@ Run Time: **51	 Minutes**  &nbsp; Avg Pace: **5:53/km**
 The weather forecast called for an _"atmospheric river"_ and although the day started wet and grey, the sun came out and we had a really nice day in _Victoria_.
 
 I ran slightly longer than what was scheduled _(~5 minutes)_ getting past the _Johnson Street Bridge_ before turning for home.  The adjectives **light and effortless** could easily be used to describe the trip to into town and back.  Maybe the warm sunshine had something to do with that.
-
+<!---->
 My hamstrings and glutes were tight and I did roll them out before putting on the trainers.  With that, I focused on breath work while on the bike path today.
 
 The mobility routine was done after the run.
+
+![](/assets/jpg/image.jpeg)
