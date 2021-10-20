@@ -4,7 +4,7 @@ Week beginning [Sunday, October 17, 2021](javascript:flick('sun');)
 **45** weeks out from race day.
 
 ## WEEKLY GOAL
-&mdash;
+Do a better job of time management and get to work.
 
 ## SUMMARY
 Total Time: **0 Hours**
@@ -16,43 +16,58 @@ I feel like I was...
 
 ![](/assets/jpg/II-9x550.jpeg)
 
-## SUNDAY OCT 17
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SUNDAY OCT 17 🌧
+Sleep **2** | Fatigue **4** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Option 1: MTB ~ 60-75 minutes. Easier route. Easy effort. 
+Option 2: Rollers ~ 60 minutes. Easy effort.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **60 Minutes**
 
-&mdash;  
+Despite feeling good on the run [yesterday](ironman2022-48weeksout?sat) and a great sleep last night, I could feel that run in my legs.
+
+After finally dismantling the last 3 feet of chimney (one more house chore done), I chose to ride the rollers in the garage while listening to the Seahawks Pre-game Show on the radio.
+
+Time started to drag after 36 minutes and my seat interface began to ache after 39 minutes.  At 45 minutes, I took 30 seconds to towel of and relieve the saddle pressure.  I could have called it a win at that point but I jumped back on, found a groove and got to the 60 minute mark.
+<!---->
+## MONDAY OCT 18 🌤
+Sleep **3** | Fatigue **3** | Stress **5** | Soreness **4**
+<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+
+### PLANNED WORKOUT
+Swim 1600: 
+3 rounds (100 easy free, 100 swim w/ buoy, 100 steady kick. Rest as needed) 
+500 continuous/steady. Nothing fancy. Just swim with decent form. 
+3x 50 as 15 meters strong/high turnover/35 meters super easy. Rest as needed. 
+50 easy to cool down/finish up. 
+
+Optional: 
+Short Bike commute. 10 minutes to/from.
+
+### NOTES
+Total Time: **60 Minutes** &nbsp; Distance: **1600m**
+
+Think fog, cold and dark was the ride to and from the pool this morning.
 
 <!---->
-## MONDAY OCT 18
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY OCT 19 ☁️
+Sleep **4** | Fatigue **3** | Stress **5** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash;  
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **50 Minutes** &nbsp; Distance: **8.73 km**
 
-&mdash;  
+Like [last Tuesday](ironman2022-46weeksout?tue), I met up with my Yauki for an _"easy 8K"_.  He introduced me to Vincent, another runner/cyclist from our neighbourhood and the 3 of us headed out for a run.  It was my turn to pick the route so I chose to head out to _Helmcken Road_ via the shoreline and then taking the _Goose_ back.
 
-<!---->
-## TUESDAY OCT 19
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+I felt good today and the pace slowly picked up each kilometre.  This was faster than I would have run if I went alone.  Let's see how I feel [tomorrow](javascript:flick('wed');).
 
-### PLANNED WORKOUT
-&mdash;  
-
-### NOTES
-Total Time: **0 Minutes**
-
-&mdash;  
+![](/assets/jpg/image.jpeg)
 
 <!---->
 ## WEDNESDAY OCT 20
@@ -60,7 +75,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Rollers: 50 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -73,7 +88,14 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Swim 1800:   
+4 rounds (100 easy free w/ focus on catch, 2x 50 Fist drill. Rest as needed)   
+4x 100 aerobic/steady effort/consistent turnover. R :30.   
+4x 100 aerobic/steady effort/consistent turnover w/ buoy. R :30.   
+4x 50 as 25 odd stroke/25 easy free to cool down.   
+
+Optional:   
+Short bike commute. 10 minutes to/from.
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -86,7 +108,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Stretch 55 minutes.
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -104,4 +126,4 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;
+&mdash;  
