@@ -11,19 +11,15 @@ class CalendarMonth(DIV):
 	    in the build toward Ironman Canada.
 	"""
 	def __init__(self, yyyy, mm):
-
 		specialDates = []
-		specialDates.append(date(2021,9,26))    # Ironman Canada
-		specialDates.append(date(2020,10,31))   # 5K Workout
-		specialDates.append(date(2020,11,21))   # 5K Workout
-		specialDates.append(date(2020,12,5))    # 5KM TT
-		specialDates.append(date(2021,6,28))    # Penticton
-		specialDates.append(date(2021,6,29))    # Penticton
-		specialDates.append(date(2021,6,30))    # Penticton
-		specialDates.append(date(2021,7,1))     # Penticton
-		specialDates.append(date(2021,7,18))    # Victoria Half
+		specialDates.append(date(2022,8,28))    # IRONMAN Canada 2022
+		specialDates.append(date(2022,5,29))    # Victoria 70.3
+		specialDates.append(date(2022,7,17))    # Victoria Half and Sprint
 
 		imc = specialDates[0]	# IronMan Canada
+		imitaly = date(2021,9,18)
+		trainingStart = date(2021,10,10)
+
 		dateobj = date(yyyy, mm, 1)
 		h4 = H4({'style':'margin:0;'})
 		h4.innerHTML = dateobj.strftime('%B %Y')
@@ -48,11 +44,19 @@ class CalendarMonth(DIV):
 			style = {'style':'text-align:right;padding:0 2px;margin:0;width:25px;'}
 			if calDate.month != mm:
 				style['style'] = '%s;color:#ddd;' % style['style']
+			elif calDate.month == 9:
+				if calDate == imitaly:
+					style['style'] = '%s;font-weight:bold;text-decoration:underline;font-size:1.17em;background-color:#33B8FF;' % style['style']
+				else:
+					style['style'] = '%s;color:#ddd;' % style['style']
 			else:
-				if calDate <= date.today() or calDate == imc:
-					style['style'] = '%s;background-color:greenyellow;' % style['style']
+				if calDate <= date.today():
+					if calDate < trainingStart:
+						style['style'] = '%s;color:#ddd;' % style['style']
+					else:
+						style['style'] = '%s;background-color:greenyellow;' % style['style']
 				if calDate in specialDates:
-					style['style'] = '%s;font-weight:bold;text-decoration:underline;font-size:1.17em' % style['style']
+					style['style'] = '%s;font-weight:bold;text-decoration:underline;font-size:1.17em;background-color:#33B8FF;' % style['style']
 
 			td.style = style['style']
 			td.innerHTML = str(calDate.day)
@@ -61,17 +65,20 @@ class CalendarMonth(DIV):
 				if daynum > 0:
 					tbody.append(tr)
 				weeknum = int(wtg.days / 7)
-				href = 'ironman2021-%dweeksout' % weeknum
+				href = 'ironman2022-%dweeksout' % weeknum
 
 				wk = TD({'style':'text-align:center;padding:0 2px;margin:0;width:35px;'})
-				wk.append(str(weeknum))
-				if weeknum < 2:
-					wk.innerHTML = 'RACE'
-					href = 'ironman2021-raceweek'
-					if weeknum < 1:
-						wk.innerHTML = '-'
-				if calDate <= date.today():
-					wk.onclick = 'window.location.assign(\'%s\');' % href
+				if weeknum < 47:
+					wk.append(str(weeknum))
+					if weeknum < 2:
+						wk.innerHTML = 'RACE'
+						href = 'ironman2022-raceweek'
+						if weeknum < 1:
+							wk.innerHTML = '-'
+					if calDate <= date.today():
+						wk.onclick = 'window.location.assign(\'%s\');' % href
+				else:
+					wk.append('-')
 
 				tr = TR()
 				tr.append(wk)
@@ -80,6 +87,8 @@ class CalendarMonth(DIV):
 				if calDate in specialDates:
 					qstr = calDate.strftime('%a').lower()
 					href = '%s?%s' % (href, qstr)
+				elif calDate == imitaly:
+					href = '/racereports/2021-ironman-italy-emilia-romagna'
 				td.onclick = 'window.location.assign(\'%s\');' % href
 
 			tr.append(td)
@@ -94,8 +103,6 @@ class CalendarMonth(DIV):
 			div.style = 'height:142px;border-bottom:1px solid #ddd;'
 		div.append(table)
 		self.append(div)
-		#print(self.tohtml())
-		#raise SystemExit
 
 
 class CalendarMonths(DIV):
@@ -146,11 +153,11 @@ class IronmanCalendar(TemplateDocument):
 		carouselCells[3].append(div)
 		carouselCells[2].append(div)
 		carouselCells[1].append(div)
-		div.innerHTML = H1('IRONMAN TRAINING 2021').tohtml()
+		div.innerHTML = H1('IRONMAN TRAINING 2022').tohtml()
 		carouselCells[0].append(div)
 
 		mm = 9
-		yyyy = 2020
+		yyyy = 2021
 		for r in range(3):
 			carouselCells[0].append(CalendarMonth(yyyy, mm))
 			carouselCells[1].append(CalendarMonth(yyyy, (mm + 1)))
@@ -159,20 +166,8 @@ class IronmanCalendar(TemplateDocument):
 			mm = (mm + 4)
 			if mm > 12:
 				mm = 1
-				yyyy = 2021
+				yyyy = 2022
 
-		addendum = P({'style':'font-size:0.8em;background-color:#E0ECF8;padding:0 7px;margin-bottom:32px;'})
-		addendum.append('Based on the guidelines from the Province of British Columbia in relation to the COVID-19 pandemic, the 2021 Subaru IRONMAN Canada – Penticton event was postponed from August 29 to September 26')
-		
-		addendum2 = P({'style':'font-size:0.8em;background-color:#F8C471;padding:0 7px;margin-bottom:24px;'})
-		addendum2.append('Unfortunately, due to the updated British Columbia Interior Health restrictions for events hosting more than 100 people, we regret to inform you that the 2021 IRONMAN Canada - Penticton triathlon cannot take place on September 26, 2021.')
-
-		carouselCells[4].append(DIV({'style':'height:28px;'}))
-		carouselCells[4].append(H4('CALENDAR UPDATE: June 6, 2021'))
-		carouselCells[4].append(addendum)
-		carouselCells[4].append(H4('CALENDAR UPDATE: August 23, 2021'))
-		carouselCells[4].append(addendum2)
-		carouselCells[4].append(CalendarMonth(2021, 9))
 		for cell in carouselCells:
 			self.carousel.append(cell)
 		self.carousel.append(CarouselLast())
