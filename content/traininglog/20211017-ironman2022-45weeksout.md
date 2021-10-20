@@ -21,17 +21,18 @@ Sleep **2** | Fatigue **4** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Option 1: MTB ~ 60-75 minutes. Easier route. Easy effort. 
+Option 1: MTB ~ 60-75 minutes. Easier route.  
 Option 2: Rollers ~ 60 minutes. Easy effort.
 
 ### NOTES
-Total Time: **60 Minutes**
+Total Time: **60 Minutes** &nbsp; Avg HR: **111 BPM**
 
-Despite feeling good on the run [yesterday](ironman2022-48weeksout?sat) and a great sleep last night, I could feel that run in my legs.
+Despite feeling good on the run [yesterday](ironman2022-46weeksout?sat) and a great sleep last night, I had stiff legs today.
 
-After finally dismantling the last 3 feet of chimney (one more house chore done), I chose to ride the rollers in the garage while listening to the Seahawks Pre-game Show on the radio.
+After finally dismantling the last 3 feet of chimney (one more house chore done), I chose to ride the rollers in the garage and listen to the _Seahawks Pre-game Show_ on the radio.
 
-Time started to drag after 36 minutes and my seat interface began to ache after 39 minutes.  At 45 minutes, I took 30 seconds to towel of and relieve the saddle pressure.  I could have called it a win at that point but I jumped back on, found a groove and got to the 60 minute mark.
+Time started to drag after 36 minutes and my seat interface began to ache after 39 minutes.  At 45 minutes, I took 30 seconds to towel off and relieve the saddle pressure.  I could have called it a win at that point but I jumped back on, found a groove and got to the 60 minute mark.
+
 <!---->
 ## MONDAY OCT 18 🌤
 Sleep **3** | Fatigue **3** | Stress **5** | Soreness **4**
@@ -58,7 +59,8 @@ Sleep **4** | Fatigue **3** | Stress **5** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Run 45-50 minutes easy w/ your buddy. Or solo. Just keep the effort easy.   
+Stretch 13 minutes
 
 ### NOTES
 Total Time: **50 Minutes** &nbsp; Distance: **8.73 km**
@@ -70,8 +72,8 @@ I felt good today and the pace slowly picked up each kilometre.  This was faster
 ![](/assets/jpg/image.jpeg)
 
 <!---->
-## WEDNESDAY OCT 20
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY OCT 20 🌧
+Sleep **3** | Fatigue **3** | Stress **5** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -80,7 +82,7 @@ Rollers: 50 minutes
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Slept soundly and I am not as stiff as I was expecting to be after the run [yesterday](javascript:flick('tue');).
 
 <!---->
 ## THURSDAY OCT 21
