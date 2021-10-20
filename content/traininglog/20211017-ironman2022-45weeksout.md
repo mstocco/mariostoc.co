@@ -76,10 +76,10 @@ I **felt good** and the pace slowly picked up each kilometre.  The pace was _fas
 Let's see how I feel [tomorrow](javascript:flick('wed');).
 <!---->
 #### PACE CHART
-![Run Paces](/assets/jpg/20211019-runpaces.jpeg)
+![Run Paces](/assets/jpg/20211019-runpace.jpeg)
 
 #### HELMCKEN LOOP
-![](/assets/jpg/image.jpeg)
+![Run Map](/assets/jpg/20211019-runmap.jpeg)
 
 <!---->
 ## WEDNESDAY OCT 20 🌧
