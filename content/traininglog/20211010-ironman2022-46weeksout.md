@@ -84,14 +84,14 @@ Sleep **4** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Rollers ~ 45 minutes. Easy. Just some spinning to move.
 
 ### NOTES
 Total Time: **0 Minutes**
 
 Not the best sleep.  Up at 0300 hungry and congested; I had 2 bananas and finally fell back asleep.
 
-The time on the bike was missed.  I ended up repairing an unseated valve extender on a tubular rim and once I was done playing mechanic, I lost any desire to ride.  I spent the rest of the daylight repairing the damage of this past summer's drought to my front lawn; one household task complete.
+This was a missed training day but I did get a start on dismantling the chimney.
 
 <!---->
 ## FRIDAY OCT 15 🌧
@@ -121,10 +121,10 @@ Run Time: **51	 Minutes**  &nbsp; Avg Pace: **5:53/km**
 
 The weather forecast called for an _"atmospheric river"_ and although the day started wet and grey, the sun came out and we had a really nice day in _Victoria_.
 
-I ran slightly longer than what was scheduled _(~5 minutes)_ getting past the _Johnson Street Bridge_ before turning for home.  The adjectives **light and effortless** could easily be used to describe the trip to into town and back.  Maybe the warm sunshine had something to do with that.
+I ran slightly longer than what was scheduled _(~5 minutes)_ getting past the _Johnson Street Bridge_ before turning for home.
+
+The adjectives **light and effortless** could easily be used to describe the trip to into town and back.  Maybe the warm sunshine had something to do with that.
 <!---->
-My hamstrings and glutes were tight and I did roll them out before putting on the trainers.  With that, I focused on breath work while on the bike path today.
+My hamstrings and glutes were tight and I did roll them out before putting on the trainers.  With that, I focused on breath work while on the bike path today. ![Run Map](/assets/jpg/20211016-runmap.jpeg)
 
 The mobility routine was done after the run.
-
-![](/assets/jpg/image.jpeg)
