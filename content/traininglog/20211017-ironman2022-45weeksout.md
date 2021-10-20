@@ -94,6 +94,7 @@ Total Time: **0 Minutes**
 
 Slept soundly and I am not as stiff as I was expecting to be after the run [yesterday](javascript:flick('tue');).
 
+<p class="agencyvc" style="color:limegreen;">Registration confirmed for 2022 Subaru IRONMAN Canada</p>
 ![](/assets/jpg/image.jpeg)
 <!---->
 ## THURSDAY OCT 21
