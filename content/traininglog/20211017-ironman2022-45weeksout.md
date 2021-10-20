@@ -51,8 +51,11 @@ Short Bike commute. 10 minutes to/from.
 ### NOTES
 Total Time: **60 Minutes** &nbsp; Distance: **1600m**
 
-Think fog, cold and dark was the ride to and from the pool this morning.
+Thick fog, cold and dark was the ride to and from the pool this morning.
 
+Today was my first swim since [IRONMAN Italy](/racereports/2021-ironman-italy-emilia-romagna).  I felt good in the water and 1600m was the perfect distance for the day.
+
+The early morning made the rest of the day drag though.
 <!---->
 ## TUESDAY OCT 19 ☁️
 Sleep **4** | Fatigue **3** | Stress **5** | Soreness **4**
