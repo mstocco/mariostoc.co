@@ -74,6 +74,12 @@ Total Time: **50 Minutes** &nbsp; Distance: **8.73 km**
 I **felt good** and the pace slowly picked up each kilometre.  The pace was _faster_ than had I gone alone.
 
 Let's see how I feel [tomorrow](javascript:flick('wed');).
+<!---->
+#### PACE CHART
+![Run Paces](/assets/jpg/20211019-runpaces.jpeg)
+
+#### HELMCKEN LOOP
+![](/assets/jpg/image.jpeg)
 
 <!---->
 ## WEDNESDAY OCT 20 🌧
