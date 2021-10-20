@@ -86,15 +86,16 @@ Let's see how I feel [tomorrow](javascript:flick('wed');).
 Sleep **3** | Fatigue **3** | Stress **5** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
+<p class="agencyvc" style="background-color:greenyellow;margin-top:-12px;padding:4px 0 0 8px;">Registration confirmed for 2022 Subaru IRONMAN Canada!</p>
 ### PLANNED WORKOUT
 Rollers: 50 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
 
+
 Slept soundly and I am not as stiff as I was expecting to be after the run [yesterday](javascript:flick('tue');).
 
-<p class="agencyvc" style="color:limegreen;">Registration confirmed for 2022 Subaru IRONMAN Canada</p>
 ![](/assets/jpg/image.jpeg)
 <!---->
 ## THURSDAY OCT 21
