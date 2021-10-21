@@ -82,7 +82,7 @@ Let's see how I feel [tomorrow](javascript:flick('wed');).
 ![Run Map](/assets/jpg/20211019-runmap.jpeg)
 
 <!---->
-## WEDNESDAY OCT 20 🌧
+## WEDNESDAY OCT 20 ⛅️
 Sleep **3** | Fatigue **3** | Stress **5** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -91,11 +91,12 @@ Sleep **3** | Fatigue **3** | Stress **5** | Soreness **3**
 Rollers: 50 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **50 Minutes**
 
 
 Slept soundly and I am not as stiff as I was expecting to be after the run [yesterday](javascript:flick('tue');).
 
+I rode the rollers, easy for the first half and added a couple small jumps in effort near the end.
 ![](/assets/jpg/image.jpeg)
 <!---->
 ## THURSDAY OCT 21
