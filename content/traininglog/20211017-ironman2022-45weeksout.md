@@ -110,7 +110,7 @@ Swim 1800:
 4x 100 aerobic/steady effort/consistent turnover w/ buoy. R :30. 
 4x 50 as 25 odd stroke/25 easy free to cool down.
 
-Optional: Short bike commute. 10 minutes to/from.
+Optional: Short bike commute.
 
 ### NOTES
 Swim Time: **43 Minutes** &nbsp; Distance: **1800m**
@@ -118,8 +118,6 @@ Swim Time: **43 Minutes** &nbsp; Distance: **1800m**
 It was spitting rain on the ride to the pool this morning but I got a green light at _Douglas_ and _Finlayson_ and went 7:56 for the commute to the pool.
 
 I **felt good** in the water too.  I shared the lane with another old guy with triathlon aspirations who was swimming at roughly the same pace as me.  No lane congestion which was nice.
-
-Much easier pedal home and a very frustrating day at work.
 
 <!---->
 ## FRIDAY OCT 22
