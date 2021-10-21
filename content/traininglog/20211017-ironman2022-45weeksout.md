@@ -97,7 +97,8 @@ Total Time: **50 Minutes**
 Slept soundly and I am not as stiff as I was expecting to be after the run [yesterday](javascript:flick('tue');).
 
 I rode the rollers, easy for the first half and added a couple small jumps in effort near the end.
-![](/assets/jpg/image.jpeg)
+![Effort Chart](/assets/jpg/20211020-rollers.jpeg)
+
 <!---->
 ## THURSDAY OCT 21
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
