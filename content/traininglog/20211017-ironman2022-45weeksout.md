@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![First bike in the rack on Thursday morning; I was sub-8 minutes getting there too.](/assets/jpg/IMG_3802-977x550.jpeg Crystal Pool, Victoria, BC)
 
 ## SUNDAY OCT 17 🌧
 Sleep **2** | Fatigue **4** | Stress **2** | Soreness **4**
@@ -99,24 +99,27 @@ Rollers before dinner; easy for the first half and a couple jumps in effort near
 ![Effort Chart](/assets/jpg/20211020-rollers.jpeg)
 
 <!---->
-## THURSDAY OCT 21
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY OCT 21 🌦
+Sleep **3** | Fatigue **3** | Stress **5** | Soreness **2**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Swim 1800:   
-4 rounds (100 easy free w/ focus on catch, 2x 50 Fist drill. Rest as needed)   
-4x 100 aerobic/steady effort/consistent turnover. R :30.   
-4x 100 aerobic/steady effort/consistent turnover w/ buoy. R :30.   
-4x 50 as 25 odd stroke/25 easy free to cool down.   
+Swim 1800: 
+4 rounds (100 easy free w/ focus on catch, 2x 50 Fist drill. Rest as needed) 
+4x 100 aerobic/steady effort/consistent turnover. R :30. 
+4x 100 aerobic/steady effort/consistent turnover w/ buoy. R :30. 
+4x 50 as 25 odd stroke/25 easy free to cool down.
 
-Optional:   
-Short bike commute. 10 minutes to/from.
+Optional: Short bike commute. 10 minutes to/from.
 
 ### NOTES
-Total Time: **0 Minutes**
+Swim Time: **43 Minutes** &nbsp; Distance: **1800m**
 
-&mdash;  
+It was spitting rain on the ride to the pool this morning but I got a green light at _Douglas_ and _Finlayson_ and went 7:56 for the commute to the pool.
+
+I **felt good** in the water too.  I shared the lane with another old guy with triathlon aspirations who was swimming at roughly the same pace as me.  No lane congestion which was nice.
+
+Much easier pedal home and a very frustrating day at work.
 
 <!---->
 ## FRIDAY OCT 22
