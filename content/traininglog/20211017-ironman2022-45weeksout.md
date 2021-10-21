@@ -91,12 +91,11 @@ Sleep **3** | Fatigue **3** | Stress **5** | Soreness **3**
 Rollers: 50 minutes
 
 ### NOTES
-Total Time: **50 Minutes**
-
+Total Time: **50 Minutes** &nbsp; Avg HR: **108 BPM**
 
 Slept soundly and I am not as stiff as I was expecting to be after the run [yesterday](javascript:flick('tue');).
 
-I rode the rollers, easy for the first half and added a couple small jumps in effort near the end.
+Rollers before dinner; easy for the first half and a couple jumps in effort near the end.
 ![Effort Chart](/assets/jpg/20211020-rollers.jpeg)
 
 <!---->
