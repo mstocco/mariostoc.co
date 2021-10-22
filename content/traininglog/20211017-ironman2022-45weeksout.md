@@ -121,7 +121,7 @@ I **felt good** in the water too.  I shared the lane with another old guy with t
 
 <!---->
 ## FRIDAY OCT 22
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **5** | Fatigue **3** | Stress **5** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -130,7 +130,7 @@ Stretch 55 minutes.
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Not a very goo
 
 <!---->
 ## SATURDAY OCT 23
