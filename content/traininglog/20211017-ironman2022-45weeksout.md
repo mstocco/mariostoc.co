@@ -120,7 +120,7 @@ It was spitting rain on the ride to the pool this morning but I got a green ligh
 I **felt good** in the water too.  I shared the lane with another old guy with triathlon aspirations who was swimming at roughly the same pace as me.  No lane congestion which was nice.
 
 <!---->
-## FRIDAY OCT 22
+## FRIDAY OCT 22 🌧
 Sleep **5** | Fatigue **3** | Stress **5** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -130,7 +130,7 @@ Stretch 55 minutes.
 ### NOTES
 Total Time: **0 Minutes**
 
-Not a very goo
+Not a very good sleep at all; work has been been uncommonly stressful this week.
 
 <!---->
 ## SATURDAY OCT 23
