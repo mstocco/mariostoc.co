@@ -4,7 +4,7 @@ Week beginning [Sunday, October 24, 2021](javascript:flick('sun');)
 **44** weeks out from race day.
 
 ## WEEKLY GOAL
-To stay consistent regardless of the turmoil at work.
+To stay consistent with the training regardless of the turmoil at work.
 
 ## SUMMARY
 Total Time: **0 Hours**
