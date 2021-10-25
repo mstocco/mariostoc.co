@@ -7,12 +7,12 @@ Week beginning [Sunday, October 17, 2021](javascript:flick('sun');)
 Do a better job of time management and get to work.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **7 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **CONSISTENT**
 
-&mdash;
+Although I stuck to the training schedule, work was **unusually stressful** this week.  Compared to a couple months ago, 7 hours seems like a very light load and in the moment, I feel great.  Truth is I still feel the effects of these activities the next day.  There is stimulus being realized.
+
 
 ![First bike in the rack on Thursday morning; I was sub-8 minutes getting there too.](/assets/jpg/IMG_3802-977x550.jpeg Crystal Pool, Victoria, BC)
 
@@ -132,15 +132,20 @@ Total Time: **0 Minutes**
 
 Not a very good sleep at all; work has been been uncommonly stressful this week.
 
+The stretch had a common theme where I am tight through the glutes.  
+
 <!---->
-## SATURDAY OCT 23
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY OCT 23 ☁️
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Option A: MTB ~ 1:10-1:30 outside having fun. Nothing too hard. 
+Option B: Rollers ~ 70 minutes. Easy and steady spinning.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **74 Minutes** &nbsp; Distance: **30 km**
 
-&mdash;  
+Or Option C: Road Bike outside because the roads were dry and I might not get that given the long range forecast.
+
+I did a counterclockwise loop of the waterfront and felt good.  Easy spinning for the most part but I did pin the heart rate on the climb up _Sinclair Road_ near _UVic_.  It was just one effort and it felt good too.  It took a bit longer for me to recover but that's ok; it's October.

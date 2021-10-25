@@ -4,7 +4,7 @@ Week beginning [Sunday, October 24, 2021](javascript:flick('sun');)
 **44** weeks out from race day.
 
 ## WEEKLY GOAL
-&mdash;
+To stay consistent regardless of the turmoil at work.
 
 ## SUMMARY
 Total Time: **0 Hours**
@@ -16,30 +16,42 @@ I feel like I was...
 
 ![](/assets/jpg/II-9x550.jpeg)
 
-## SUNDAY OCT 24
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SUNDAY OCT 24 🌦
+Sleep **4** | Fatigue **3** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Run 40 minutes. Ideally off pavement. A few rollers would be nice.
+
+Stretching 26 minutes: Plenty of rotation. 
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **43 Minutes** &nbsp; Distance: **7 km**
 
-&mdash;  
+The same weather system that canceled IRONMAN Sacramento is sitting just off the coast and for the most part, bringing just the winds to Vancouver Island today.  I did get caught out in a downpour during the last 15 minutes of today's run.
+
+I did a lap of Swan Lake.  The trail was in good condition; mostly dry and the fallen leaves haven't broken down (yet).  By the time I got around the lake, there was some extra time on the clock; instead of spending extra time on the trail, I did the remainder of the run in my neighbourhood. 
+
+Vasts and adductors are a bit lit up (both legs) likely from the ride [yesterday](ironman2022-45weeksout?sat).
 
 <!---->
-## MONDAY OCT 25
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## MONDAY OCT 25 💨
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Swim 1800: 6x 50 easy swimming to warm up. Rest as needed. 
+6x 50 as 25 Fist drill/25 swim w/ catch focus r :20. 
+6x 100 as 25 relaxed/smooth/25 higher turnover r :30. 
+500 continuous/steady/aerobic w/ buoy. 
+2x 50 easy to cool down.
+
+Optional: Easy spin to/from the pool.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **~40 Minutes** &nbsp; Swim: **1800m**
 
-&mdash;  
+I drove to the pool this morning and it was quieter that usual.  I guess a storm can do that.  I got half of the swim done in a lane all to myself until the swim club showed up at 0615 and squeezed us (the early crew) into 2 lanes.  This was a good swim with good focus on posture, position and proprioception. 
 
 <!---->
 ## TUESDAY OCT 26
@@ -47,7 +59,10 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Run w/ your buddies. Keep the effort as easy as you can. 
+Around 8k in total.
+
+Stretching 15 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -60,7 +75,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Ride 50 minutes on the rollers. Generally an easy spin.
+Include 8x :30 high cadence, :45 easy between each.  
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -73,7 +89,11 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Swim 1800:  100 easy free, 100 swim w/ buoy, 100 steady kick, 100 swim w/ buoy, 100 easy free. Rest as needed. 
+6 rounds (50 gradual build from easy to strong r :30, 150 aerobic/steady r :40) 
+2x 50 easy to cool down. 
+
+Optional: Easy spin to/from the pool
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -86,7 +106,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Same as last week&hellip;  
+Stretch 55 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
