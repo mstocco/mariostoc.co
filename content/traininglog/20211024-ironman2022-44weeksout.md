@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![Buoy 46005 off Tofino recorded a pressure of 942.6 mb on Sunday afternoon, a new Pacific Northwest low pressure record.](/assets/jpg/IMG_0898-977x550.jpeg Wind Warning is in effect)
 
 ## SUNDAY OCT 24 🌦
 Sleep **4** | Fatigue **3** | Stress **2** | Soreness **4**
