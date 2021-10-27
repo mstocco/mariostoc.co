@@ -28,9 +28,9 @@ Stretching 26 minutes: Plenty of rotation.
 ### NOTES
 Total Time: **43 Minutes** &nbsp; Distance: **7 km**
 
-The same weather system that canceled IRONMAN Sacramento is sitting just off the coast and for the most part, bringing just the winds to Vancouver Island today.  I did get caught out in a downpour during the last 15 minutes of today's run.
+The same weather system that canceled IRONMAN Sacramento is sitting just off the coast and is bringing high winds to Vancouver Island today.  I caught the start of a downpour with 15 minutes to go on today's run.
 
-I did a lap of Swan Lake.  The trail was in good condition; mostly dry and the fallen leaves haven't broken down (yet).  By the time I got around the lake, there was some extra time on the clock; instead of spending extra time on the trail, I did the remainder of the run in my neighbourhood. 
+Today's route was a lap of Swan Lake;  the trail was in good condition; mostly dry and the fallen leaves haven't broken down (yet).  By the time I got around the lake, I had some extra time on the clock; instead of continuing on the trail, I did the remainder of the run in my neighbourhood.
 
 Vasts and adductors are a bit lit up (both legs) likely from the ride [yesterday](ironman2022-45weeksout?sat).
 
