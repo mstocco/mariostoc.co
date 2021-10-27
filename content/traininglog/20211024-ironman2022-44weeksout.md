@@ -75,7 +75,7 @@ Regardless, I met up with Yauki for our 3rd Tuesday Afternoon run.  We had a rea
 
 He was not keen on 8 km and suggested 6 would work better for him.  Somehow I coaxed 7.5 km out of him and we walked for 10 minutes afterwards.
 
-An interesting twinge bottom of my right lateral malleolus that went away after 5ish minutes.
+An interesting twinge bottom of my right lateral malleolus that went away after 5_ish_ minutes.
 
 <!----> 
 ## WEDNESDAY OCT 27 🌧
@@ -86,7 +86,7 @@ Sleep **2** | Fatigue **3** | Stress **5** | Soreness **3**
 Ride 50 minutes on the rollers. Generally an easy spin.
 Include 8x :30 high cadence, :45 easy between each.  
 
-<p style="color:orange;font-size:0.8em;"><span class="agencyvc">Special Weather Statement:</span> HEAVY RAIN</p>
+<p style="color:orange;"><span class="agencyvc">Special Weather Statement:</span> <strong>HEAVY RAIN</strong></p>
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -135,4 +135,4 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+&mdash;
