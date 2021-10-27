@@ -7,7 +7,7 @@ Week beginning [Sunday, October 24, 2021](javascript:flick('sun');)
 To stay consistent with the training regardless of the turmoil at work.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **1.5 Hours**
 
 I feel like I was...
 <br /><sup>(completed at the end of the week)</sup>
@@ -53,9 +53,10 @@ Total Time: **~40 Minutes** &nbsp; Swim: **1800m**
 
 I drove to the pool this morning and it was quieter that usual.  I guess a storm can do that.  I got half of the swim done in a lane all to myself until the swim club showed up at 0615 and squeezed us (the early crew) into 2 lanes.  This was a good swim with good focus on posture, position and proprioception. 
 
+The [storm](javascript:flkty.select(2);) eased by the evening.
 <!---->
-## TUESDAY OCT 26
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY OCT 26 🌦
+Sleep **3** | Fatigue **2** | Stress **5** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -65,9 +66,10 @@ Around 8k in total.
 Stretching 15 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Run Time: **44 Minutes** &nbsp; Avg Pace: **5:53/km**
 
-&mdash;  
+Tough day again at work.  Regardless, I met up with Yauki for our 3rd Tuesday run.  We had a really nice weather window too!
+  He wasn't keen on 8 km and suggested 6 would work better for him.  Somehow I coaxed 7.5 km out of him and we walked for 10 minutes afterwards.  A little twinge on the lateral side of my right ankle that went away after 5 minutes or so.
 
 <!---->
 ## WEDNESDAY OCT 27
