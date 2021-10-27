@@ -53,7 +53,7 @@ Total Time: **~40 Minutes** &nbsp; Swim: **1800m**
 
 I drove to the pool this morning and it was quieter that usual.  I guess a storm can do that.  I got half of the swim done in a lane all to myself until the swim club showed up at 0615 and squeezed us (the early crew) into 2 lanes.  This was a good swim with good focus on posture, position and proprioception. 
 
-The [storm](javascript:flkty.select(2);) eased by the evening.
+The [WIND STORM](javascript:flkty.select(2);) eased by the evening.
 <!---->
 ## TUESDAY OCT 26 🌦
 Sleep **3** | Fatigue **2** | Stress **5** | Soreness **3**
