@@ -70,9 +70,11 @@ Run Time: **44 Minutes** &nbsp; Avg Pace: **5:53/km**
 
 Tough day again at work.
 
-Regardless, I met up with Yauki for our 3rd Tuesday run.  We had a really nice weather window too!
+Regardless, I met up with Yauki for our 3rd Tuesday Afternoon run.  We had a really nice weather window too!
 
-He was not keen on 8 km and suggested 6 would work better for him.  Somehow I coaxed 7.5 km out of him and we walked for 10 minutes afterwards.  An interesting twinge bottom of my right lateral malleolus that went away after 5 minutes or so.
+He was not keen on 8 km and suggested 6 would work better for him.  Somehow I coaxed 7.5 km out of him and we walked for 10 minutes afterwards.
+
+An interesting twinge bottom of my right lateral malleolus that went away after 5ish minutes.
 
 <!----> 
 ## WEDNESDAY OCT 27 🌧
@@ -83,7 +85,7 @@ Sleep **2** | Fatigue **3** | Stress **5** | Soreness **3**
 Ride 50 minutes on the rollers. Generally an easy spin.
 Include 8x :30 high cadence, :45 easy between each.  
 
-<p class="agencyvc" style="color:orange;font-size:0.8em;">Special Weather Statement:  HEAVY RAIN</p>
+<p style="color:orange;font-size:0.8em;"><span class="agencyvc">Special Weather Statement:</span> HEAVY RAIN</p>
 
 ### NOTES
 Total Time: **0 Minutes**
