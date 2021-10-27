@@ -71,10 +71,12 @@ Run Time: **44 Minutes** &nbsp; Avg Pace: **5:53/km**
 Tough day again at work.  Regardless, I met up with Yauki for our 3rd Tuesday run.  We had a really nice weather window too!
   He wasn't keen on 8 km and suggested 6 would work better for him.  Somehow I coaxed 7.5 km out of him and we walked for 10 minutes afterwards.  A little twinge on the lateral side of my right ankle that went away after 5 minutes or so.
 
-<!---->
-## WEDNESDAY OCT 27
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+<!----> 
+## WEDNESDAY OCT 27 🌧
+Sleep **2** | Fatigue **3** | Stress **5** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+
+<p class="agencyvc" style="color:orange;font-size:0.8em;">Special Weather Statement:  HEAVY RAIN</p>
 
 ### PLANNED WORKOUT
 Ride 50 minutes on the rollers. Generally an easy spin.
@@ -83,7 +85,7 @@ Include 8x :30 high cadence, :45 easy between each.
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Solid night of sleep last night.
 
 <!---->
 ## THURSDAY OCT 28
