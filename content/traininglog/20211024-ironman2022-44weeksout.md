@@ -95,7 +95,7 @@ Ground hog day: Solid night of sleep last night and another difficult day at wor
 
 I got to the garage and repaired a flat on my MTB and serviced the front brake.  Then I looked at the mess that the [WIND STORM](javascript:flkty.select(2);) did to the yard and set out to clean it up.  2 hours later, I was tired hungry and ready for dinner.
 
-Getting motivated to ride was tough but I did spin easy on the rollers while watching the latest GTN video.
+Getting motivated to ride was tough but I (eventually) did get on the rollers and watched the latest GTN video.
 
 <!---->
 ## THURSDAY OCT 28 🌧
@@ -110,7 +110,7 @@ Swim 1800:  100 easy free, 100 swim w/ buoy, 100 steady kick, 100 swim w/ buoy, 
 Optional: Easy spin to/from the pool
 
 ### NOTES
-Total Time: **43 Minutes**
+Total Time: **43 Minutes** &nbsp; Swim: **1800m**
 
 The rain forecast for [yesterday](javascript:flick('wed');) started around midnight and was still pouring at 0530; I drove to the pool.
 
