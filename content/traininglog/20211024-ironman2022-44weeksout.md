@@ -86,16 +86,18 @@ Sleep **2** | Fatigue **3** | Stress **5** | Soreness **3**
 Ride 50 minutes on the rollers. Generally an easy spin.
 Include 8x :30 high cadence, :45 easy between each.  
 
-<p style="color:orange;"><span class="agencyvc">Special Weather Statement:</span> <strong>HEAVY RAIN</strong></p>
+<p style="color:orange;"><span class="agencyvc">Special Weather Statement:</span> HEAVY RAIN</p>
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **35 Minutes**
 
-Solid night of sleep last night.
+Ground hog day: Solid night of sleep last night and another difficult day at work.
+
+I got to the garage and repaired a flat on my MTB and serviced the front brake.  Then I looked at the mess that the [WIND STORM](javascript:flkty.select(2);) did to the yard and set out to clean it up.  2 hours later, I was tired hungry and ready for dinner.  Getting motivated to ride was tough but I did spin easy on the rollers while watching the latest GTN video.
 
 <!---->
-## THURSDAY OCT 28
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY OCT 28 🌧
+Sleep **2** | Fatigue **2** | Stress **5** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -106,9 +108,11 @@ Swim 1800:  100 easy free, 100 swim w/ buoy, 100 steady kick, 100 swim w/ buoy, 
 Optional: Easy spin to/from the pool
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **43 Minutes**
 
-&mdash;  
+The rain forecast for [yesterday](javascript:flick('wed');) started around midnight and was still pouring at 0530; I drove to the pool.
+
+The workout in the water was **solid**.  The 50 lengths of the main set were my best and I was thankful for the 40 second rest after the 150m lengths.  Next to no people in the pool this morning; loving the free lane all to myself.
 
 <!---->
 ## FRIDAY OCT 29
