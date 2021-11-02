@@ -7,12 +7,11 @@ Week beginning [Sunday, October 24, 2021](javascript:flick('sun');)
 To stay consistent with the training regardless of the turmoil at work.
 
 ## SUMMARY
-Total Time: **1.5 Hours**
+Total Time: **~7 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **CONSISTENT**
 
-&mdash;
+Another week in the books.  Work was the biggest stressor again this week.  I put in 3.5 hours of regular SBR training and added stretching and a nice hike with Carina on [Saturday](javascript:flick('sat');).  
 
 ![Buoy 46005 off Tofino recorded a pressure of 942.6 mb on Sunday afternoon, a new Pacific Northwest low pressure record.](/assets/jpg/IMG_0898-977x550.jpeg Wind Warning is in effect)
 
@@ -117,7 +116,7 @@ The rain forecast for [yesterday](javascript:flick('wed');) started around midni
 The workout in the water was **solid**.  The 50 lengths of the main set were my best and I was thankful for the 40 second rest after the 150m lengths.  Next to no people in the pool this morning; loving the free lane all to myself.
 
 <!---->
-## FRIDAY OCT 29
+## FRIDAY OCT 29 🌤
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -126,19 +125,21 @@ Same as last week&hellip;
 Stretch 55 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **52 Minutes**
 
-&mdash;  
+Same stretch routine revisited and the same two, _"sitting figure four"_ and "_the pigeon"_ were the positions that challenge me the most though I am making progress with both of them.
 
 <!---->
-## SATURDAY OCT 30
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY OCT 30 ☀️
+Sleep **2** | Fatigue **2** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Hike ~ 2-3 hours on your feet.   
+Mobility 20 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **~180 Minutes**
 
-&mdash;
+What a great day for a walk. 
+![](/assets/jpg/image.jpeg)
