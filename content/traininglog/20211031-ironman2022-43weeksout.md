@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![](/assets/jpg/IMG_3871-977x550.jpeg Jack-o'-lantern 2021)
 
 ## SUNDAY OCT 31 🎃
 Sleep **3** | Fatigue **3** | Stress **3** | Soreness **6**
@@ -51,7 +51,7 @@ Swim 2000: 4x 100 easy swimming to warm up. Rest as needed.
 Optional: Easy spin to/from the pool. 
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Swim: **2000m**
+Total Time: **50 Minutes** &nbsp; Swim: **2000m**
 
 Clear and cold in the morning so I rode to and from the pool.   
 
@@ -107,7 +107,7 @@ Swim 2100:  4 rounds (50 easy free, 50 as 25 backstroke/25 free (Just do what yo
 Optional: Easy spin to/from the pool.
 
 ### NOTES
-Total Time: **~60 Minutes** &nbsp; Swim: **2100m**
+Total Time: **55 Minutes** &nbsp; Swim: **2100m**
 
 I had a hard(er) time getting out of bed this morning.
 
