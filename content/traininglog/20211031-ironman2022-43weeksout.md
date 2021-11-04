@@ -4,7 +4,7 @@ Week beginning [Sunday, October 31, 2021](javascript:flick('sun');)
 **43** weeks out from race day.
 
 ## WEEKLY GOAL
-&mdash;
+My goal this week is to do my best to tune out the noise from work.
 
 ## SUMMARY
 Total Time: **0 Hours**
@@ -21,7 +21,11 @@ Sleep **3** | Fatigue **3** | Stress **3** | Soreness **6**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Ride.....Great day for the MTB or road bike. Your choice. A few hills would be ideal, but nothing too serious. Don't go searching for every single hill you can find. 🙂 
+Ride 1:30-1:45. Get out in the sunshine!
+
+Run 40 minutes. Easy effort. Rolling terrain is appropriate. 
+Order is up to you
 
 ### NOTES
 Total Time: **93 Minutes**
@@ -50,38 +54,57 @@ Sleep **4** | Fatigue **3** | Stress **5** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+am: Very easy 30 minute spin on the rollers.
+
+Pm: Very similar to last week.....
+Run w/ your buddies. Keep the effort as easy as you can. 
+Around 8k in total.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **55 Minutes** &nbsp; Avg Pace: **5:33/km**
+Whiffed on the pre-work day session on the rollers.
 
-&mdash;  
+Vincent ran with Yauki and me this afternoon and just like a couple weeks ago, the pace started easy and built over the course of the run.  The intention was for an 8 km run but at 7.5, the Yauki asked if we could slow the pace and stretch it out to 10.  The 3 of us ran 10km but the pace/effort remained far greater than _"easy"_.
+
+I am calling this a **tempo run** and looking for to seeing how I recover over the next few days.
 
 <!---->
-## WEDNESDAY NOV 3
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY NOV 3 🌧
+Sleep **2** | Fatigue **5** | Stress **5** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+am: Walk 30 minutes to start the day. Just a walk. 
+Pm: Ride 60 minutes. Inside or outside. Any bike you like. 
+20 minutes easy to start: 10x :30 high cadence, 1:30 easy spinning after each. 20 minutes easy/steady riding to finish up.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **60 Minutes** &nbsp; Ride: **rollers/road bike**
 
-&mdash;  
+Got in a ~40 minute nap at the end of the work day!  I don't know exactly when I fell asleep but Alex Dowsett was ~25 minutes into his hour record attempt and when I woke, it was over.
 
+I put on a podcast for audio and the Jay Hiebs 60' (condensed) video of the entire IRONMAN Canada bike course.  Nothing extraordinary to say about the ride.  I am feeling stiff from the run [yesterday](javascript:flick('tue');).  
+
+No walk in the morning.
 <!---->
-## THURSDAY NOV 4
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY NOV 4 ☁️
+Sleep **3** | Fatigue **3** | Stress **5** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Swim 2100:  4 rounds (50 easy free, 50 as 25 backstroke/25 free (Just do what you can), 50 as 25 Front scull while kicking, 25 swim r :20 after each) 4x 50 as 25 high turnover/stronger effort/25 relaxed/longer stroke r :30.  6 rounds (50 Fist drill w/ buoy and really focusing on a solid catch r :30, 150 aerobic/steady w/ focus on catch r :40) 
+100 easy to cool down.
+
+Optional: Easy spin to/from the pool.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **~60 Minutes** &nbsp; Swim: **2100m**
 
-&mdash;  
+I had a hard(er) time getting out of bed this morning.
+
+The forecast was for rain but I had some luck and was dry on the ride to and from the pool.  I took the MTB because it at least has mud guards and it rolls over the decomposing leaf litter more confidently.
+
+The swim was different with the new (to me) sculling drill; it was easier than I was expecting it to be.  The pull buoy needing to be juggled on the main set.
 
 <!---->
 ## FRIDAY NOV 5
@@ -89,7 +112,10 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+AM: Very easy 30 minute spin on the rollers.
+
+PM: Run 30 minutes easy. Flatter route preferred. 
+Followed by 20 minutes mobility
 
 ### NOTES
 Total Time: **0 Minutes**
