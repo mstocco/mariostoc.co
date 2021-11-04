@@ -30,16 +30,25 @@ Order is up to you
 ### NOTES
 Total Time: **93 Minutes**
 
-Waterfront (clockwise) but instead of riding down _Sinclair_, I rode up the north (easy) side of _Mount Tolmie_ before heading toward _The Uplands_.  Near the _Oak Bay Marina_, I was passed by a young woman decked out in sponsored kit; she was on a pretty nice (new) Factor road bike too.  I passed her back before the golf course and held pace through to _Fisherman's Wharf_.  A couple more lead exchanges and I was at home quicker than I had planned.
+Waterfront (clockwise) but instead of riding down _Sinclair_, I rode up the north (easy) side of _Mount Tolmie_ before heading toward _The Uplands_.  Near the _Oak Bay Marina_, I was passed by a young woman decked out in sponsored kit; she was on a pretty nice (new) Factor road bike too.  I passed her back before the golf course and held pace through to _Fisherman's Wharf_.
+<!---->
+A couple more lead exchanges with her and I was at home quicker than I was expecting.
 
 Too stiff from the hike [yesterday](ironman2022-44weeksout?sat), I did a mobility routine, carved a pumpkin and called it a day.
+![](/assets/jpg/image.jpeg)
+
 <!---->
 ## MONDAY NOV 1 🌧
 Sleep **3** | Fatigue **4** | Stress **5** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Swim 2000: 4x 100 easy swimming to warm up. Rest as needed. 
+8x 50 Shark-fin drill (what I call shark-fin) r :20
+100 easy free.  50, 100, 150, 200 steady and aerobic swimming w/ focus on rotation. R :30 after each. 50, 100, 150, 200 steady and aerobic swimming w/ focus on rotation WITH BUOY. R :30 after each.
+2x 50 easy to cool down.
+
+Optional: Easy spin to/from the pool. 
 
 ### NOTES
 Total Time: **0 Minutes** &nbsp; Swim: **2000m**
