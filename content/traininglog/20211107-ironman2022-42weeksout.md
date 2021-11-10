@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![First ride of many on my new mountain bike through Thetis Regional Park](/assets/jpg/IMG_3889-977x550.jpeg Rocky Mountain Element C70)
 
 ## SUNDAY NOV 7
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
@@ -52,7 +52,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Started slow but like last week, built over the course of the run and finished fast.  
 
 <!---->
 ## WEDNESDAY NOV 10
