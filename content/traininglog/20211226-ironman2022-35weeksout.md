@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![Last glimpse of the afternoon sun before the next round of snow rolls in.](/assets/jpg/IMG_3937-977x550.jpeg Christmas Hill, Saanich BC)
 
 ## SUNDAY DEC 26 -BOXING DAY
 Sleep **1** | Fatigue **1** | Stress **1** | Soreness **5**
@@ -48,13 +48,15 @@ Swim 1800:
 Mobility 27 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **150 Minutes**
 
-My back feels better today.  
+My back feels better today but I did sleep in and missed my window to get to the pool.  In its place, I walked for 90 minutes to to the top of [Christmas Hill](javacript:flkty.select(2);) with Carina.
+
+After dinner, I did an hour long, Bodyweight Warrior mobility session.
 
 <!---->
 ## TUESDAY DEC 28
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **1** | Fatigue **1** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -66,7 +68,8 @@ Run 55-65 minutes easy w/ your buddies
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Snow shovelled.  Cleared the 4" that fell overnight.
+
 
 <!---->
 ## WEDNESDAY DEC 29
