@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![The sun is about to disappear as more snow blows in.](/assets/jpg/IMG_3937-977-550.jpeg Christmas Hill)
 
 ## SUNDAY DEC 12
 Sleep **3** | Fatigue **2** | Stress **4** | Soreness **4**
