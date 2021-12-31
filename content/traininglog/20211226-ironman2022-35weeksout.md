@@ -79,7 +79,7 @@ I rode the rollers in the basement suite and had a bit of the run coverage from 
 
 This was the **best day of training in a long time** and it felt good to get it done before dinner.
 
-!(/assets/jpg/image.jpeg)
+![](/assets/jpg/image.jpeg)
 
 <!---->
 ## WEDNESDAY DEC 29 🌤
@@ -125,7 +125,7 @@ Made it to _Crystal Pool_ for the swim workout; Carina came with me too.  This f
 <!---->
 I did the ~30 minute run even though this was changed to a walk (read the updated email late).  Everything felt good; easy pace just in the neighbourhood on the hard packed, unplowed roads.
 
-!(/assets/jpg/image.jpeg)
+![](/assets/jpg/image.jpeg)
 
 <!---->
 ## FRIDAY DEC 31 - NEW YEAR'S EVE ☀️
