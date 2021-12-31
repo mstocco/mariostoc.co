@@ -79,7 +79,7 @@ I rode the rollers in the basement suite and had a bit of the run coverage from 
 
 This was the **best day of training in a long time** and it felt good to get it done before dinner.
 
-![](/assets/jpg/image.jpeg)
+![](/assets/jpg/studded-escalante.jpeg.jpeg) This idea for winter running is courtesy of Sage Canaday and his YouTube channel.
 
 <!---->
 ## WEDNESDAY DEC 29 🌤
@@ -123,6 +123,8 @@ More shovelling this morning and the snow was heavier too.
 
 Made it to _Crystal Pool_ for the swim workout; Carina came with me too.  This felt like a regular workout except the lifeguards pulled the ropes for the 50m lanes before I could finish the 6x150 set so I stopped the activity on my watch, reconfigured it for 25m and effectively did a cool down for what I thought was the balance.
 <!---->
+![Swim Chart](/assets/jpg/swim-20211230.jpeg)
+
 I did the ~30 minute run even though this was changed to a walk (read the updated email late).  Everything felt good; easy pace just in the neighbourhood on the hard packed, unplowed roads.
 
 ![](/assets/jpg/image.jpeg)
