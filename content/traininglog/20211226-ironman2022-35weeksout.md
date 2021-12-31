@@ -62,9 +62,7 @@ Sleep **1** | Fatigue **1** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Option A: Rollers ~ 45 minutes easy. 
-Option B: MTB ~ 60 minutes easy. 
-
+Rollers ~ 45 minutes easy.   
 Run 55-65 minutes easy w/ your buddies
 
 ### NOTES
@@ -105,8 +103,6 @@ Sleep **2** | Fatigue **1** | Stress **1** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-_Optional: Spin to/from the pool._
-
 Swim 1800: 
 4 rounds (50 easy free, 50 backstroke, 50 kick. Rest as needed) 
 4x 50 as 25 fist drill/25 swim w/ catch focus. R :20. 
@@ -121,7 +117,7 @@ Run Time: **31 Minutes** &nbsp; Swim: **1650m**
 More shovelling this morning and the snow was heavier too.
 
 Made it to _Crystal Pool_ for the swim workout; Carina came with me too.  This felt like a regular workout except the lifeguards pulled the ropes for the 50m lanes before I could finish the 6x150 set so I stopped the activity on my watch, reconfigured it for 25m and effectively did a cool down for what I thought was the balance.
-
+<!---->
 I did the ~30 minute run even though this was changed to a walk (read the updated email late).  Everything felt good; easy pace just in the neighbourhood on the hard packed, unplowed roads.
 
 <!---->
