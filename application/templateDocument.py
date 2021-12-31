@@ -47,8 +47,10 @@ class TemplateDocument(HTML5Document):
 		lines = []
 		for line in content.split('\n'):
 			if getattr(self, 'title', None):
-				if line.find('<!---->') == 0:
+				if line.strip() in ['<!---->','<!----->']:
 					section = CarouselText('\n'.join(lines))
+					if line.find('<!----->') == 0:
+						section.style = 'padding-top:50px;'
 					if contentPath.find('traininglog') > 1:
 						if section.innerHTML.find('<h2>SUN') == 0:
 							section._id = 'sun'
