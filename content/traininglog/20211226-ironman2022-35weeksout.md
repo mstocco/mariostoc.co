@@ -16,7 +16,7 @@ I feel like I was...
 
 ![Last glimpse of the afternoon sun before the next round of snow rolls in.](/assets/jpg/IMG_3937-977x550.jpeg Christmas Hill, Saanich BC)
 
-## SUNDAY DEC 26 -BOXING DAY
+## SUNDAY DEC 26 -BOXING DAY 🌨
 Sleep **1** | Fatigue **1** | Stress **1** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -32,7 +32,7 @@ Total Time: **0 Minutes**
 Despite my left lumbar being locked up, I spent my active time shovelling snow and stretching.   
 
 <!---->
-## MONDAY DEC 27
+## MONDAY DEC 27 🌨
 Sleep **2** | Fatigue **1** | Stress **1** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -57,7 +57,7 @@ My back feels better today but I did sleep in and missed my window to get to the
 After dinner, I did an hour long, Bodyweight Warrior mobility session.
 
 <!---->
-## TUESDAY DEC 28
+## TUESDAY DEC 28 ⛅️
 Sleep **1** | Fatigue **1** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -78,9 +78,10 @@ The roads, sidewalks, bike path and trail around _Swan Lake_ was covered in diff
 
 I rode the rollers in the basement suite and had a bit of the run coverage from _Kona 2014_ on the TV.  Effort was easy.
 
-This was the best day of training in a _long time_; it felt good to get it done before dinner. 
+This was the best day of training in a _long time_; it felt good to get it done before dinner.
+
 <!---->
-## WEDNESDAY DEC 29
+## WEDNESDAY DEC 29 🌤
 Sleep **2** | Fatigue **2** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -99,8 +100,8 @@ Total Time: **0 Minutes**
 Bit of a headache in the morning (not enough food at dinner).
 
 <!---->
-## THURSDAY DEC 30
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY DEC 30 🌤
+Sleep **2** | Fatigue **1** | Stress **1** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -115,22 +116,31 @@ Swim 1800:
 Run 30-35 minutes easy. Flatter route preferred. 
 
 ### NOTES
-Total Time: **0 Minutes**
+Run Time: **31 Minutes** &nbsp; Swim: **1650m**
 
-&mdash;  
+More shovelling this morning and the snow was heavier too.
+
+Made it to _Crystal Pool_ for the swim workout; Carina came with me too.  This felt like a regular workout except the lifeguards pulled the ropes for the 50m lanes before I could finish the 6x150 set so I stopped the activity on my watch, reconfigured it for 25m and effectively did a cool down for what I thought was the balance.
+
+I did the ~30 minute run even though this was changed to a walk (read the updated email late).  Everything felt good; easy pace just in the neighbourhood on the hard packed, unplowed roads.
 
 <!---->
-## FRIDAY DEC 31 - NEW YEAR'S EVE
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY DEC 31 - NEW YEAR'S EVE ☀️
+Sleep **1** | Fatigue **1** | Stress **1** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Pre-Ride: Lower back exercises/Breathing.  
+Rollers 60 minutes: 30 minutes easy spinning. 10x :45 high cadence, 1:15 easy. 10 minutes easy.
+
+Walk 50-70 minutes.
+
+Mobility 30 minutes  
 
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Lower back is a bit better again this morning (stiff but not precarious).  No niggles from running yesterday either.
 
 <!---->
 ## SATURDAY JAN 1 - NEW YEAR'S DAY
@@ -138,9 +148,12 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Pre-Run: Lower back exercises/Breathing.  
+Run 45 minutes. Whatever is the best footing you can find.
+
+Mobility 30 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+&mdash;
