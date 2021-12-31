@@ -70,13 +70,13 @@ Total Time: **100 Minutes**
 
 Snow shovelled.  Cleared the 4" that fell overnight.
 
-I did a short mobility routine before heading out on the run; the idea being to clear any stiffness that might have set in from the shovelling in the morning.
+I did a short mobility routine before the run; the idea being to clear any stiffness that might have set in from this morning's shovelling.
 
-The roads, sidewalks, bike path and trail around _Swan Lake_ was covered in different degrees of packed snow and ice.  Traction was solved by some well placed sheet metal screws into an old pair of trainers.  I did feel a bit worked as the softer snow had the same effect as running in soft sand.  This run put me over **1200 km** for the year.
-
+The roads, sidewalks, bike path and trail around _Swan Lake_ were covered with different degrees of packed snow and ice.  Traction was solved by some well placed sheet metal screws into an old pair of trainers.  I did feel a bit worked as the softer snow had the effect as running in soft sand.  This run put me over **1200 km** for the year.
+<!---->
 I rode the rollers in the basement suite and had a bit of the run coverage from _Kona 2014_ on the TV.  Effort was easy.
 
-This was the best day of training in a _long time_; it felt good to get it done before dinner.
+This was **the best day of training in a long time**; it felt good to get it done before dinner.
 
 <!---->
 ## WEDNESDAY DEC 29 🌤
@@ -93,9 +93,11 @@ Option B: MTB ~ 75-85 minutes. Easy effort.
 Mobility 20 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **43 Minutes**
 
-Bit of a headache in the morning (not enough food at dinner).
+Bit of a headache in the morning (not enough food at dinner last night).
+
+I rode the rollers but stopped 16 minutes short of the scheduled hour; my head was sore.  
 
 <!---->
 ## THURSDAY DEC 30 🌤
