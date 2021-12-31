@@ -52,7 +52,7 @@ Total Time: **150 Minutes**
 
 The pool was open but the swim was a miss.
 
-My back feels better today but I did sleep in and missed my window to get to the pool.  In its place, I walked for 90 minutes to to the top of [Christmas Hill](javacript:flkty.select(2);) with Carina.
+My back feels better today but I did sleep in and missed my window to get to the pool.  In its place, I walked for 90 minutes to to the top of [Christmas Hill](javascript:flkty.select(2);) with Carina.
 
 After dinner, I did an hour long, Bodyweight Warrior mobility session.
 
@@ -62,7 +62,8 @@ Sleep **1** | Fatigue **1** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Rollers ~ 45 minutes easy.   
+Rollers ~ 45 minutes easy.
+
 Run 55-65 minutes easy w/ your buddies
 
 ### NOTES
@@ -76,7 +77,9 @@ The roads, sidewalks, bike path and trail around _Swan Lake_ were covered with d
 <!---->
 I rode the rollers in the basement suite and had a bit of the run coverage from _Kona 2014_ on the TV.  Effort was easy.
 
-This was **the best day of training in a long time**; it felt good to get it done before dinner.
+This was the **best day of training in a long time** and it felt good to get it done before dinner.
+
+!(/assets/jpg/image.jpeg)
 
 <!---->
 ## WEDNESDAY DEC 29 🌤
@@ -121,6 +124,8 @@ More shovelling this morning and the snow was heavier too.
 Made it to _Crystal Pool_ for the swim workout; Carina came with me too.  This felt like a regular workout except the lifeguards pulled the ropes for the 50m lanes before I could finish the 6x150 set so I stopped the activity on my watch, reconfigured it for 25m and effectively did a cool down for what I thought was the balance.
 <!---->
 I did the ~30 minute run even though this was changed to a walk (read the updated email late).  Everything felt good; easy pace just in the neighbourhood on the hard packed, unplowed roads.
+
+!(/assets/jpg/image.jpeg)
 
 <!---->
 ## FRIDAY DEC 31 - NEW YEAR'S EVE ☀️
