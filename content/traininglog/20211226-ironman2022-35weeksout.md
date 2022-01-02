@@ -7,12 +7,13 @@ Week beginning [Sunday, December 26, 2021](javascript:flick('sun');)
 Snow on the ground and temperatures below zero.  The goal is to take advantage of the time off work and stay active.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total SBR Time: **5.5 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **BACK TO HAPPY**
 
-&mdash;
+It was over 11 hours if I include walking and mobility.  This week off work was nice and despite [Boxing Day](javascript:flick('sun');), this was my most productive training week in months.  My left lumber was sore though I managed it well.
+
+Winter weather with below zero temperatures and snow that stuck.
 
 ![Last glimpse of the afternoon sun before the next round of snow rolls in.](/assets/jpg/IMG_3937-977x550.jpeg Christmas Hill, Saanich BC)
 
@@ -143,13 +144,15 @@ Walk 50-70 minutes.
 Mobility 30 minutes  
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **120 Minutes**
 
 Lower back is a bit better again this morning (stiff but not precarious).  No niggles from running yesterday either.
 
+I walked with Carina in the afternoon after doing some chores around the house and I was on the rollers before dinner to complete the day.  Great way to wrap up 2021.
+
 <!---->
-## SATURDAY JAN 1 - NEW YEAR'S DAY
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY JAN 1 - NEW YEAR'S DAY 🥳
+Sleep **1** | Fatigue **1** | Stress **1** | Soreness **2**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -159,6 +162,10 @@ Run 45 minutes. Whatever is the best footing you can find.
 Mobility 30 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **75 Minutes**
 
-&mdash;
+I moved more snow in the morning (suite, path to the garage, etc).
+
+The run was on the _Goose_ out to _Eaton Avenue_ and back.  Pretty basic run.  The wind was cold, the bike path was 99% clean; I had moments were I felt light and moments where I felt heavy.
+
+Mobility completed too.  Good end of the week, good start of the year.
