@@ -31,13 +31,13 @@ Walk 50-70 minutes.
 Mobility 55 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **70 Minutes**
 
-&mdash;  
+
 
 <!---->
 ## MONDAY JAN 3
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **2** | Fatigue **1** | Stress **1** | Soreness **2**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -48,9 +48,11 @@ Swim 1900:
 2x 50 easy to cool down.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **37 Minutes**
 
-&mdash;  
+Up early and drove to the pool this morning.  The roads were still a mess.  The workout was altered slightly as the kick board would not line up with four 50m lengths per set.  The realignment gave me a 10x100m set and I had fun with that, even pushing myself to make it a descending effort for the back half.
+
+![Swim Chart](/assets/jpg/swim-20210103.jpeg)
 
 <!---->
 ## TUESDAY JAN 4
