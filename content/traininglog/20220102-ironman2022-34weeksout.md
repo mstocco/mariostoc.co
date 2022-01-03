@@ -35,6 +35,8 @@ Total Time: **70 Minutes**
 
 ![RPM Chart](/assets/jpg/bike-20220102.jpeg)
 
+I did not walk (formally) today.
+
 <!---->
 ## MONDAY JAN 3 🌧
 Sleep **2** | Fatigue **1** | Stress **1** | Soreness **2**
@@ -50,7 +52,7 @@ Swim 1900:
 ### NOTES
 Total Time: **37 Minutes**
 
-Up early and drove to the pool this morning.  The roads were still a mess.  The workout was altered slightly as the kick board would not line up with four 50m lengths per set.  The realignment gave me a 10x100m set and I had fun with that, even pushing myself to make it a descending effort for the back half.
+Up early and drove to the pool this morning.  The workout was altered slightly as the kick board would not line up with four 50m lengths per set.  The realignment gave me a 10x100m set and I had fun with that, even pushing myself to make it a descending effort for the back half.
 
 ![Swim Chart](/assets/jpg/swim-20220103.jpeg)
 
