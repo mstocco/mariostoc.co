@@ -52,7 +52,7 @@ Total Time: **37 Minutes**
 
 Up early and drove to the pool this morning.  The roads were still a mess.  The workout was altered slightly as the kick board would not line up with four 50m lengths per set.  The realignment gave me a 10x100m set and I had fun with that, even pushing myself to make it a descending effort for the back half.
 
-![Swim Chart](/assets/jpg/swim-20210103.jpeg)
+![Swim Chart](/assets/jpg/swim-20220103.jpeg)
 
 <!---->
 ## TUESDAY JAN 4
