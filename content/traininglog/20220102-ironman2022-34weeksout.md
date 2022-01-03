@@ -26,16 +26,15 @@ Rollers 70 minutes: 20 minutes easy spinning.
 10x :20 high cadence (very controlled), :40 easy. 10 minutes normal spinning.
 10x :20 highER cadence, :40 easy. 20 minutes easy spinning to finish up.
 
-Walk 50-70 minutes. 
-
-Mobility 55 minutes
+Walk 50-70 minutes. &nbsp; | &nbsp; Mobility 55 minutes
 
 ### NOTES
 Total Time: **70 Minutes**
 
-![RPM Chart](/assets/jpg/bike-20220102.jpeg)
+I did not walk for the hour today (headache in the morning).  I do feel surprisingly good (hamstring/piriformis) after the run [yesterday](ironman2022-35weeksout?sat). 
 
-I did not walk (formally) today.
+### RPM Chart
+![RPM Chart](/assets/jpg/bike-20220102.jpeg)
 
 <!---->
 ## MONDAY JAN 3 🌧
