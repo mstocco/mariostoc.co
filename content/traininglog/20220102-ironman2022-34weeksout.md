@@ -4,7 +4,7 @@ Week beginning [Sunday, January 2, 2022](javascript:flick('sun');)
 **34** weeks out from race day.
 
 ## WEEKLY GOAL
-
+Build off of [last week](ironman2022-35weeksout) while starting the first work week of 2022.
 
 ## SUMMARY
 Total Time: **0 Hours**
@@ -16,8 +16,8 @@ I feel like I was...
 
 ![](/assets/jpg/II-9x550.jpeg)
 
-## SUNDAY JAN 2
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SUNDAY JAN 2 ☁️
+Sleep **2** | Fatigue **2** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -33,10 +33,10 @@ Mobility 55 minutes
 ### NOTES
 Total Time: **70 Minutes**
 
-
+![RPM Chart](/assets/jpg/bike-20220102.jpeg)
 
 <!---->
-## MONDAY JAN 3
+## MONDAY JAN 3 🌧
 Sleep **2** | Fatigue **1** | Stress **1** | Soreness **2**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
