@@ -56,8 +56,8 @@ Up early and drove to the pool this morning.  The workout was altered slightly a
 ![Swim Chart](/assets/jpg/swim-20220103.jpeg)
 
 <!---->
-## TUESDAY JAN 4
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY JAN 4 🌦
+Sleep **2** | Fatigue **1** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -67,9 +67,9 @@ Rollers ~ 20 minutes. Just enough to say you pedaled.
 Run 50-60 minutes easy w/ your buddies. Find good footing. (should be good by then) Keep the effort as easy as they will let you run!
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **20 Minutes**
 
-&mdash;  
+Lumbar is on the tighter side this morning.  Regardless, I was on the rollers before coffee.
 
 <!---->
 ## WEDNESDAY JAN 5
