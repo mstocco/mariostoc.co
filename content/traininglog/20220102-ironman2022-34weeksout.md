@@ -67,7 +67,7 @@ Rollers ~ 20 minutes. Just enough to say you pedaled.
 Run 50-60 minutes easy w/ your buddies. Find good footing. (should be good by then) Keep the effort as easy as they will let you run!
 
 ### NOTES
-Total Time: **20 Minutes**
+Total Time: **20 Minutes** &nbsp; Run: **5.2 mi**
 
 Lumbar is on the tighter side this morning.  Regardless, I was on the rollers before coffee.
 
