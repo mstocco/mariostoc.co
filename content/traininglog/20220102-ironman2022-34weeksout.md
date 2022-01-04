@@ -71,6 +71,10 @@ Total Time: **20 Minutes**
 
 Lumbar is on the tighter side this morning.  Regardless, I was on the rollers before coffee.
 
+Yauki had the day off and with a weather window closing, we decided to run at noon.  8km out and back on the _Goose_ with a strong finish to the run.
+
+![](/assets/jpg/image.jpeg)
+
 <!---->
 ## WEDNESDAY JAN 5
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
