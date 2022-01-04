@@ -62,9 +62,9 @@ Sleep **2** | Fatigue **1** | Stress **2** | Soreness **4**
 
 ### PLANNED WORKOUT
 Pre-Ride: Lower back exercises/Breathing.  
-Rollers ~ 20 minutes. Just enough to say you pedaled.
+Rollers ~ 20 minutes.
 
-Run 50-60 minutes easy w/ your buddies. Find good footing. (should be good by then) Keep the effort as easy as they will let you run!
+Run 50-60 minutes easy w/ your buddies. Find good footing. Keep the effort as easy as they will let you run!
 
 ### NOTES
 Total Time: **66 Minutes** &nbsp; Run: **5.2 mi**
