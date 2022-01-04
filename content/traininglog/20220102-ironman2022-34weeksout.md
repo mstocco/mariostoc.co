@@ -71,7 +71,7 @@ Total Time: **66 Minutes** &nbsp; Run: **5.2 mi**
 
 Lumbar was on the tighter side this morning.  Regardless, I was on the rollers before coffee.
 
-Yauki had the day off and with a weather window closing, we decided to run at noon.  Out and back on the _Goose_ with a **strong finish** to the run. ![Run Pace Chart](/assets/jpg/run-20220104.jpeg)
+With a weather window closing, Yauki and I decided to run at noon.  Out and back on the _Goose_ with a **strong finish** to the run. ![Run Pace Chart](/assets/jpg/run-20220104.jpeg)
 
 <!---->
 ## WEDNESDAY JAN 5
