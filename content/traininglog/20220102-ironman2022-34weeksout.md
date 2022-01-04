@@ -67,13 +67,11 @@ Rollers ~ 20 minutes. Just enough to say you pedaled.
 Run 50-60 minutes easy w/ your buddies. Find good footing. (should be good by then) Keep the effort as easy as they will let you run!
 
 ### NOTES
-Total Time: **20 Minutes** &nbsp; Run: **5.2 mi**
+Total Time: **66 Minutes** &nbsp; Run: **5.2 mi**
 
 Lumbar is on the tighter side this morning.  Regardless, I was on the rollers before coffee.
 
-Yauki had the day off and with a weather window closing, we decided to run at noon.  8km out and back on the _Goose_ with a strong finish to the run.
-
-![](/assets/jpg/image.jpeg)
+Yauki had the day off and with a weather window closing, we decided to run at noon.  8km out and back on the _Goose_ with a **strong finish** to the run. ![Run Pace Chart](/assets/jpg/run-20220104.jpeg)
 
 <!---->
 ## WEDNESDAY JAN 5
