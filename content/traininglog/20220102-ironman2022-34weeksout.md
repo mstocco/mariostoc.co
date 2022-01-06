@@ -74,8 +74,8 @@ Lumbar was on the tighter side this morning.  Regardless, I was on the rollers b
 With a weather window closing, Yauki and I decided to run at noon.  Out and back on the _Goose_ with a **strong finish** to the run. ![Run Pace Chart](/assets/jpg/run-20220104.jpeg)
 
 <!---->
-## WEDNESDAY JAN 5
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY JAN 5 🌨
+Sleep **1** | Fatigue **2** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -84,10 +84,13 @@ Walk 30 minutes. Nice and short.
 Rollers 60 minutes: 20 minutes easy spinning. 1, 2, 3, 4, 5 minutes of moderately strong riding.....something you could hold for 30-45 minutes. aka: You should never be trying too hard! 3 minutes easy spinning between each. 13 minutes easy spinning to cool down.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Ride Time: **60 Minutes**
 
-&mdash;  
+No morning walk; I had a glorious sleep-in instead.
 
+After a decent day at work, I hopped on the rollers.  I think I did my best with the strong efforts; certainly they were felt more in my legs than in my lungs and I did step it up a bit on the last minute of the 5th effort.
+
+After dinner, I grabbed the shovel and moved 3" of wet snow off the driveway and sidewalks (~40 minutes).
 <!---->
 ## THURSDAY JAN 6
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
