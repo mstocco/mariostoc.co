@@ -128,13 +128,17 @@ Whenever: Run 30 minutes easy. Get out the door and on your feet.
 ### NOTES
 Total Time: **77 Minutes** 
 
-Needed the 4x4 to get out of the subdivision this morning.  At the pool, I had another **productive workout** doing [yesterday's scheduled swim](javascript:flick('wed');).  The 8x100m set in particular was fun; descending from 1:57 to 1:48 in near one second increments.  ![Swim Chart](/assets/jpg/swim-20220107.jpeg)
+Needed the 4x4 to get out of the subdivision this morning to do [yesterday's scheduled swim](javascript:flick('thu');).  The 8x100m set in particular was fun; descending from 1:57 to 1:48 in near one second increments.
+
+![Swim Chart](/assets/jpg/swim-20220107.jpeg)
 
 <!---->
-The swim was a **great start** to the day.
+The swim was a great start to the day; another **productive** workout
 
 After work, I **jogged easy** on the _Goose_ as it was the only consistent path clear of slush and ice.
 ![Run Map](/assets/jpg/run-20220107.jpeg)
+
+---
 
 Before bed, I found and worked on a hot spot (tender) on my left soleus, lateral side near the top of the fibula.  Typically when I have tenderness in either soleus, it is medial below the calf.  My guess is there was some extra tension while on slippery sections on the run earlier. 
 <!---->
