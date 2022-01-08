@@ -7,7 +7,7 @@ Week beginning [Sunday, January 2, 2022](javascript:flick('sun');)
 Build off of [last week](ironman2022-35weeksout) while starting the first work week of 2022.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total SBR Time: **7.5 Hours** <small>2 hours more than [last week](ironman2022-35weeksout).</small>
 
 I feel like I was **ADAPTING...**   
 <sup>&nbsp; ...to weather and work.</sup>
