@@ -128,9 +128,7 @@ Whenever: Run 30 minutes easy. Get out the door and on your feet.
 ### NOTES
 Total Time: **77 Minutes** 
 
-To do [yesterday's scheduled swim](javascript:flick('thu');), I needed the 4x4 to get to the pool this morning.
-
-The 8x100m set was fun; descending from 1:57 to 1:48 in near one second increments.
+To do [yesterday's scheduled swim](javascript:flick('thu');), I needed the 4x4 to get to the pool this morning.  The 8x100m set was completed with descending times, from 1:57 to 1:48, in near one second increments.
 
 ![Swim Chart](/assets/jpg/swim-20220107.jpeg)
 
@@ -144,7 +142,7 @@ After work, I **jogged easy** on the _Goose_ as it was the only consistent path 
 
 ---
 
-Before bed, I found and worked on a hot spot (tender) on my left soleus, lateral side near the top of the fibula.  Typically when I have tenderness in either soleus, it is medial below the calf.  My guess is there was some extra tension while on slippery sections on the run earlier. 
+Before bed, I found and worked on a hot spot (tender) on my left soleus, lateral side near the top of the fibula.  Typically when I have tenderness in either soleus, it is medial below the calf.  My guess is there was some extra tension while on some of the slippery sections of the today's run. 
 
 <!---->
 ## SATURDAY JAN 8
