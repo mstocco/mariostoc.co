@@ -91,9 +91,10 @@ No morning walk; I had a glorious sleep-in instead.
 After a decent day at work, I hopped on the rollers.  I think I did my best with the strong efforts; certainly they were felt more in my legs than in my lungs and I did step it up a bit on the last minute of the 5th effort.
 
 After dinner, I grabbed the shovel and moved 3" of wet snow off the driveway and sidewalks (~40 minutes).
+
 <!---->
-## THURSDAY JAN 6
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY JAN 6 🌨
+Sleep **2** | Fatigue **2** | Stress **4** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -108,13 +109,15 @@ Swim 1900:
 Mobility 20 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+<mark> Total Time: **0 Minutes** </mark>
 
-&mdash;  
+Huge dump of wet snow last night _after_ I had cleared the snow before bed.  By the time I was done digging out, I would have already been coming back home to start my work day.
+
+Best part of today was talking to my coach; formal SBR training was a miss.
 
 <!---->
-## FRIDAY JAN 7
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY JAN 7 🌤
+Sleep **2** | Fatigue **2** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -124,9 +127,11 @@ Rollers ~ 20 minutes. Just enough to say you pedaled.
 Whenever: Run 30 minutes easy. Get out the door and on your feet.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **77 Minutes** 
 
-&mdash;  
+Needed the 4x4 to get out of the subdivision this morning.  Once in the water, I had another **productive workout** doing the swim scheduled [yesterday](javascript:flick('wed');).  The 8x100m set in particular was descending from 1:57 to 1:48 in near one second increments.  That was a **great start** to the day.
+
+After work, I **jogged easy** on the _Goose_ as it was the only consistently clear path.
 
 <!---->
 ## SATURDAY JAN 8
@@ -134,9 +139,16 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Rollers (because it is going to be a mess on the roads/trails) 
+80 minutes:  
+30 minutes easy spinning.   
+20x :25 high cadence, :35 easy. (Trying to keep a nice steady rhythm through the whole set).   
+30 minutes easy spinning.  
+
+Mobility 26 minutes.  
+_Optional​ Walk 20-60 minutes_  
 
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+&mdash;
