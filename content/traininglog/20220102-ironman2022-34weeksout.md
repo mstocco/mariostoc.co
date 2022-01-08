@@ -9,9 +9,11 @@ Build off of [last week](ironman2022-35weeksout) while starting the first work w
 ## SUMMARY
 Total Time: **0 Hours**
 
-I feel like I was **FINDING A BIT OF A GROOVE**
+I feel like I was **ADAPTING** to (weather and work)
 
-First week back at work and it didn't encroach on training that much.  [Snow](javascript:flkty.select(2);) was more of a factor this week.  Of the workouts that I did get in, I think I was able to find the right amount of intensity for the first week of January. 
+First week back at work and it didn't encroach on training that much.  [Snow](javascript:flkty.select(2);) was more of a factor to my training schedule this week.  Of the key workouts that I did get in, I think I was able to find the right amount of intensity for the first week of January.
+
+Lumbar was stiff for the most part but never precarious.  My overall energy was good this week too.
 
 ![5:20am and instead of going to the pool, I found myself clearing more snow.](/assets/jpg/IMG_3952-977x550.jpeg Digging out)
 
@@ -133,7 +135,7 @@ To do [yesterday's scheduled swim](javascript:flick('thu');), I needed the 4x4 t
 ![Swim Chart](/assets/jpg/swim-20220107.jpeg)
 
 <!---->
-The swim was a great start to the day and like [Monday](javascript:flick('mon');), this was another **productive** workout.
+The swim was a great start to the day and like [Monday](javascript:flick('mon');), I felt like this was another **productive** workout.
 
 ---
 
