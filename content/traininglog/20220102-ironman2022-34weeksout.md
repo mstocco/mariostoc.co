@@ -133,7 +133,9 @@ Needed the 4x4 to get out of the subdivision this morning to do [yesterday's sch
 ![Swim Chart](/assets/jpg/swim-20220107.jpeg)
 
 <!---->
-The swim was a great start to the day; another **productive** workout
+The swim was a great start to the day and like [Monday](javascript:flick('mon');), this was another **productive** workout.
+
+---
 
 After work, I **jogged easy** on the _Goose_ as it was the only consistent path clear of slush and ice.
 ![Run Map](/assets/jpg/run-20220107.jpeg)
@@ -141,6 +143,7 @@ After work, I **jogged easy** on the _Goose_ as it was the only consistent path 
 ---
 
 Before bed, I found and worked on a hot spot (tender) on my left soleus, lateral side near the top of the fibula.  Typically when I have tenderness in either soleus, it is medial below the calf.  My guess is there was some extra tension while on slippery sections on the run earlier. 
+
 <!---->
 ## SATURDAY JAN 8
 Sleep **4** | Fatigue **2** | Stress **2** | Soreness **3**
