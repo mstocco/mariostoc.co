@@ -8,10 +8,10 @@ Build off of [last week](ironman2022-35weeksout) while starting the first work w
 
 ## SUMMARY
 Total SBR Time: **7.5 Hours**   
-<small>2 hours more than [last week](ironman2022-35weeksout).</small>
+<sup>2 hours more than [last week](ironman2022-35weeksout).</sup>
 
-I feel like I was **ADAPTING...**   
-<sup>&nbsp; ...to weather and work.</sup>
+I feel like I was **BEING ADAPTIVE**   
+<sup>to weather and work.</sup>
 
 First week back at work and it didn't encroach on training that much.  [Snow](javascript:flkty.select(2);) was more of a factor to my training schedule this week.  Of the key workouts that I did get in, I think I was able to find the right amount of intensity for the first week of January.
 
