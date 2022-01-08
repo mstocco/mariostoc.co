@@ -10,13 +10,13 @@ Build off of [last week](ironman2022-35weeksout) while starting the first work w
 Total SBR Time: **7.5 Hours**   
 <sup><strong>&check;</strong> Up 2 hours from [last week](ironman2022-35weeksout).</sup>
 
-I feel like I was **ADAPTIVE** <small>(weather/work)</small>
+I feel like I was **ADAPTIVE** <small>re: weather/work</small>
 
-First week back at work and it didn't encroach on training that much.  [Snow](javascript:flkty.select(2);) was more of a factor to my training schedule this week.  Of the key workouts that I did get in, I think I was able to find the right amount of intensity for the first week of January.
+First week back at work and it didn't encroach on training that much.  [Snow](javascript:flkty.select(2);) was more of a factor to my training schedule this week.  With the key workouts that I did get in, I think I was able to find the right amount of intensity appropriate for the first week of January.
 
 Lumbar was stiff for the most part but never precarious.  My overall **energy was good** this week too.
 
-![5:20am and instead of going to the pool, I found myself clearing more snow.](/assets/jpg/IMG_3952-977x550.jpeg Digging out)
+![5:20am and instead of going to the pool, I found myself clearing more snow.](/assets/jpg/IMG_3952-977x550.jpeg DIGGING OUT)
 
 ## SUNDAY JAN 2 ☁️
 Sleep **2** | Fatigue **2** | Stress **2** | Soreness **3**

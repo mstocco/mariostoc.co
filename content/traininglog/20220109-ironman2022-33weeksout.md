@@ -20,8 +20,12 @@ I feel like I was...
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
-### PLANNED WORKOUT
-&mdash;  
+### PLANNED WORKOUTS
+1st: Run 60 minutes. Easy effort. Whatever is the cleanest/most stable footing you can find. Just try to stay dry and upright. 
+
+2nd: Rollers ~ 30 minutes. Easy spinning.
+ 
+Mobility 23 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -33,8 +37,15 @@ Total Time: **0 Minutes**
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
-### PLANNED WORKOUT
-&mdash;  
+### PLANNED WORKOUTS
+Swim 2200: 
+4 rounds (100 easy free to warm up. r :30, 50 steady kick r :20) 
+2x 50 Shark-fin drill. R :20. 
+5x 100 as 25 fist drill/75 swim w/ strong finish to stroke. R :20. 
+6x 150 aerobic/steady w/ stronger final 25 (aka: Making sure you're always swimming within yourself, so you can pickup the effort/pace the final 25) r :45. 
+2x 50 easy to cool down.
+ 
+Pm: Walk 30 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -47,7 +58,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+AM: Rollers ~ 20 minutes easy.   
+PM: Run 60 minutes w/ your buddies. Easiest effort they will allow. Have fun.
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -60,7 +72,14 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Walk 20-30 minutes: 
+Mobility 15 minutes
+
+PM: Ride 75 minutes: 
+15 minutes easy spinning to warm up. 
+2 rounds (:10, :20, :30, :40, :50 high cadence on 1:00) 5 minutes easy. 
+6x 3:00 @ 30-45 minute TT effort, 2:00 easy after each. 
+15 minutes easy spinning to cool down
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -73,7 +92,12 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Swim 2200: 
+4 rounds (50 easy swim, 50 as 25 backstroke/25 free, 50 as 25 scull/25 swim. Rest as needed after each) 
+15x 100 aerobic/steady w/ #5/10/15 stronger effort. R :30 after each. 
+2x 50 EASY to cool down. 
+
+Rollers ~ 30 minutes. EASY. Really easy
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -86,7 +110,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Mobility 27 minutes.  
+Run 40 minutes. EASY running
 
 ### NOTES
 Total Time: **0 Minutes**
