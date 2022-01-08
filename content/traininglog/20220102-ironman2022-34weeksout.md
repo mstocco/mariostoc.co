@@ -128,7 +128,9 @@ Whenever: Run 30 minutes easy. Get out the door and on your feet.
 ### NOTES
 Total Time: **77 Minutes** 
 
-Needed the 4x4 to get out of the subdivision this morning to do [yesterday's scheduled swim](javascript:flick('thu');).  The 8x100m set in particular was fun; descending from 1:57 to 1:48 in near one second increments.
+To do [yesterday's scheduled swim](javascript:flick('thu');), I needed the 4x4 to get to the pool this morning.
+
+The 8x100m set was fun; descending from 1:57 to 1:48 in near one second increments.
 
 ![Swim Chart](/assets/jpg/swim-20220107.jpeg)
 
