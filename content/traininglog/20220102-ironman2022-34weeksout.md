@@ -9,12 +9,11 @@ Build off of [last week](ironman2022-35weeksout) while starting the first work w
 ## SUMMARY
 Total Time: **0 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **FINDING A BIT OF A GROOVE**
 
-&mdash;
+First week back at work and it didn't encroach on training that much.  [Snow](javascript:flkty.select(2);) was more of a factor this week.  Of the workouts that I did get in, I think I was able to find the right amount of intensity for the first week of January. 
 
-![](/assets/jpg/II-9x550.jpeg)
+![5:20am and instead of going to the pool, I found myself clearing more snow.](/assets/jpg/IMG_3952-977x550.jpeg Digging out)
 
 ## SUNDAY JAN 2 ☁️
 Sleep **2** | Fatigue **2** | Stress **2** | Soreness **3**
@@ -86,11 +85,11 @@ Rollers 60 minutes: 20 minutes easy spinning. 1, 2, 3, 4, 5 minutes of moderatel
 ### NOTES
 Total Ride Time: **60 Minutes**
 
-No morning walk; I had a glorious sleep-in instead.
+No morning walk but a glorious sleep-in.
 
 After a decent day at work, I hopped on the rollers.  I think I did my best with the strong efforts; certainly they were felt more in my legs than in my lungs and I did step it up a bit on the last minute of the 5th effort.
 
-After dinner, I grabbed the shovel and moved 3" of wet snow off the driveway and sidewalks (~40 minutes).
+After dinner, I shovelled 3" of wet snow off the driveway and sidewalks (~40 minutes).
 
 <!---->
 ## THURSDAY JAN 6 🌨
@@ -129,13 +128,20 @@ Whenever: Run 30 minutes easy. Get out the door and on your feet.
 ### NOTES
 Total Time: **77 Minutes** 
 
-Needed the 4x4 to get out of the subdivision this morning.  Once in the water, I had another **productive workout** doing the swim scheduled [yesterday](javascript:flick('wed');).  The 8x100m set in particular was descending from 1:57 to 1:48 in near one second increments.  That was a **great start** to the day.
+Needed the 4x4 to get out of the subdivision this morning.  Once in the water, I had another **productive workout** doing the swim scheduled [yesterday](javascript:flick('wed');).  The 8x100m set in particular was descending from 1:57 to 1:48 in near one second increments.
+![Swim Chart](/assets/jpg/image.jpeg)
 
-After work, I **jogged easy** on the _Goose_ as it was the only consistently clear path.
+![Swim Chart](/assets/jpg/swim-20220107.jpeg)
 
 <!---->
+The swim was a **great start** to the day.
+
+After work, I **jogged easy** on the _Goose_ as it was the only consistent path clear of slush and ice.
+
+Before bed, I found and worked on a hot spot (tender) on my left soleus, lateral side near the top of the fibula.  Typically when I have tenderness in either soleus, it is medial below the calf.  My guess is there was some extra tension while on slippery sections on the run earlier. 
+<!---->
 ## SATURDAY JAN 8
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **4** | Fatigue **2** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -151,4 +157,4 @@ _Optional​ Walk 20-60 minutes_
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;
+Not the best sleep as I woke with a stiff neck.  Lumber is tight too.
