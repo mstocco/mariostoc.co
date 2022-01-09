@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![Unlike last week, this feels like a January day in Victoria.](/assets/jpg/IMG_3960-977x550.jpeg SONGHESS WALKWAY)
 
 ## SUNDAY JAN 9 ☀️
 Sleep **2** | Fatigue **3** | Stress **2** | Soreness **3**
@@ -28,9 +28,10 @@ Sleep **2** | Fatigue **3** | Stress **2** | Soreness **3**
 Mobility 23 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **94 Minutes** &nbsp; Run: **10.75 km**
 
-&mdash;  
+Good day all around.  Started with a good sleep, then a pancake breakfast before heading out into the sunshine for a easy effort jog to _The Songhess_; a great hour plus on feet.  Then 30 minutes on the rollers for th e wrap-up.  All good 
+in the _"hood"._
 
 <!---->
 ## MONDAY JAN 10
