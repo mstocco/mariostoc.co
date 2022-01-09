@@ -4,7 +4,7 @@ Week beginning [Sunday, January 9, 2022](javascript:flick('sun');)
 **33** weeks out from race day.
 
 ## WEEKLY GOAL
-&mdash;
+Looks like a wet week ahead which should get rid of the last of the snow.  The goal is to build on the momentum of the past two weeks.
 
 ## SUMMARY
 Total Time: **0 Hours**
@@ -17,7 +17,7 @@ I feel like I was...
 ![](/assets/jpg/II-9x550.jpeg)
 
 ## SUNDAY JAN 9
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **2** | Fatigue **3** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUTS

@@ -75,8 +75,7 @@ Lumbar was on the tighter side this morning.  Regardless, I was on the rollers b
 
 With a weather window closing, Yauki and I decided to run at noon.  Out and back on the _Goose_ with a **strong finish** to the run. ![Run Pace Chart](/assets/jpg/run-20220104.jpeg)
 
-![](yauki-309x550.jpeg)
-
+<!---->
 ## WEDNESDAY JAN 5 🌨
 Sleep **1** | Fatigue **2** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
