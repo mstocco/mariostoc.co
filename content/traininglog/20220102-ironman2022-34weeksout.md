@@ -168,3 +168,5 @@ Total Time: **80 Minutes**
 Not the best sleep as I woke with a stiff neck.  Lumber is tight too.
 
 Ischium (both of them) are sore after 80 minutes on the rollers; otherwise a good workout.
+
+No walk and an informal stretch during an evening w/Netflix to end the day.
