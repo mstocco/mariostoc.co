@@ -30,8 +30,9 @@ Mobility 23 minutes
 ### NOTES
 Total Time: **94 Minutes** &nbsp; Run: **10.75 km**
 
-Good day all around.  Started with a good sleep, then a pancake breakfast before heading out into the sunshine for a easy effort jog to _The Songhess_; a great hour plus on feet.  Then 30 minutes on the rollers for th e wrap-up.  All good 
-in the _"hood"._
+Good day all around.  Started with a good sleep, then a pancake breakfast before heading out into the sunshine for a easy effort jog to [The Songhess](javascript:flkty.select(2);); a great hour plus on feet.  Then 30 minutes on the rollers for th e wrap-up.
+
+All good in the _"hood"._
 
 <!---->
 ## MONDAY JAN 10
