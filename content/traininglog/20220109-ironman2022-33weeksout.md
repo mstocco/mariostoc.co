@@ -35,8 +35,8 @@ Good day all around.  Started with a good sleep, then a pancake breakfast before
 All good in the _"hood"._
 
 <!---->
-## MONDAY JAN 10
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## MONDAY JAN 10 🌧
+Sleep **4** | Fatigue **3** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUTS
@@ -50,10 +50,11 @@ Swim 2200:
 Pm: Walk 30 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **77 Minutes** &nbsp; Swim: **2200m**
 
-&mdash;  
+Frosty ride to the pool, wet on the way back.
 
+Lanes were a bit more congested this morning but I was able to get the workout in.  Some reps had more rest, some had less as I timed myself against the others in the lane.  I **felt good** in the water, hungry on the last 150m rep and not much in the legs for the ride home.
 <!---->
 ## TUESDAY JAN 11
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
