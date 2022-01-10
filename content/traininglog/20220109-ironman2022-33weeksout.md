@@ -45,9 +45,8 @@ Swim 2200:
 2x 50 Shark-fin drill. R :20. 
 5x 100 as 25 fist drill/75 swim w/ strong finish to stroke. R :20. 
 6x 150 aerobic/steady w/ stronger final 25 (aka: Making sure you're always swimming within yourself, so you can pickup the effort/pace the final 25) r :45. 
-2x 50 easy to cool down.
- 
-Pm: Walk 30 minutes
+2x 50 easy to cool down.   
+ PM: Walk 30 minutes
 
 ### NOTES
 Total Time: **77 Minutes** &nbsp; Swim: **2200m**
