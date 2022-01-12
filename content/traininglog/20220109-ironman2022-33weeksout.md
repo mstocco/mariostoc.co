@@ -72,10 +72,10 @@ Neck was stiff and lumbar on the tender side this morning.  I was tempted to rid
 I was bothered by a twinge in my right ankle too but at 1545, I was kitted up for a run in the rain.  
 ![Run Chart](/assets/jpg/run-20220111.jpeg)
 <!---->
-Just Yauki and I for a loop of the _Songhess_ via the hill on _Lampson Road_.  I felt really good through to _Harbour Road_ and as the pace crept up on the the _Goose_, I felt myself starting to fade.  By the _Selkirk Trestle_, Yauki wanted to go and I picked things up and found a groove to finish strong.
+It was just Yauki and I for a loop of the _Songhess_ via the hill on _Lampson Road_.  I felt really good through to _Harbour Road_.  Typical Tuesday run, the pace crept up the further we went and I felt myself starting to fade.  On the _Selkirk Trestle_, Yauki really wanted to go; I matched his pace and found a groove to finish strong.
 
-![Post run with Yauki](/assets/jpg/walk-20220111.jpeg)
 We walked the last bit as a cooldown.
+![Post run with Yauki](/assets/jpg/walk-20220111.jpeg)
 
 <!---->
 ## WEDNESDAY JAN 12 🌧
