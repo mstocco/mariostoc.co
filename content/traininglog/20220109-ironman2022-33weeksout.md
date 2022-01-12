@@ -70,7 +70,7 @@ Total Time: **73 Minutes** &nbsp; Run: **5.7 mi**
 Neck was stiff and lumbar on the tender side this morning.  I was tempted to ride the rollers a bit longer but stopped at 20 minutes and did some mobility work instead.
 
 I was bothered by a twinge in my right ankle too but at 1545, I was kitted up for a run in the rain.  
-![IMAGE](/assets/jpg/image.jpeg)
+![Run Chart](/assets/jpg/run-20220111.jpeg)
 <!---->
 Just Yauki and I for a loop of the _Songhess_ via the hill on _Lampson Road_.  I felt really good through to _Harbour Road_ and as the pace crept up on the the _Goose_, I felt myself starting to fade.  By the _Selkirk Trestle_, Yauki wanted to go and I picked things up and found a groove to finish strong.  We walked the last bit as a cooldown.
 
