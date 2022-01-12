@@ -74,7 +74,7 @@ I was bothered by a twinge in my right ankle too but at 1545, I was kitted up fo
 <!---->
 Just Yauki and I for a loop of the _Songhess_ via the hill on _Lampson Road_.  I felt really good through to _Harbour Road_ and as the pace crept up on the the _Goose_, I felt myself starting to fade.  By the _Selkirk Trestle_, Yauki wanted to go and I picked things up and found a groove to finish strong.
 
-![Post run with Yauki](/assets/jpg/wal-20220111.jpeg)
+![Post run with Yauki](/assets/jpg/walk-20220111.jpeg)
 We walked the last bit as a cooldown.
 
 <!---->
