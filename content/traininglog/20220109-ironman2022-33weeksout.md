@@ -54,9 +54,10 @@ Total Time: **77 Minutes** &nbsp; Swim: **2200m**
 Frosty ride to the pool, wet on the way back.
 
 Lanes were a bit more congested this morning but I was able to get the workout in.  Some reps had more rest, some had less as I timed myself against the others in the lane.  I **felt good** in the water, hungry on the last 150m rep and not much in the legs for the ride home.
+
 <!---->
 ## TUESDAY JAN 11
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -64,9 +65,11 @@ AM: Rollers ~ 20 minutes easy.
 PM: Run 60 minutes w/ your buddies. Easiest effort they will allow. Have fun.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **73 Minutes** &nbsp; Run: **5.7 mi**
 
-&mdash;  
+Neck was stiff and lumbar on the tender side this morning.  I was tempted to ride the rollers a bit longer but stopped at 20 minutes and did some mobility work instead.
+
+I was bothered by a twinge in my right ankle too but at 1545, I was kitted up for a run in the rain.  Just Yauki and I for a loop of the _Songhess_ via the hill on _Lampson Road_.  I felt really good through to _Harbour Road_ and as the pace crept up on the the _Goose_, I felt myself starting to fade.  By the _Selkirk Trestle_, Yauki wanted to go and I picked things up and found a groove to finish strong.  We walked the last bit as a cooldown.
 
 <!---->
 ## WEDNESDAY JAN 12
