@@ -72,8 +72,8 @@ Neck was stiff and lumbar on the tender side this morning.  I was tempted to rid
 I was bothered by a twinge in my right ankle too but at 1545, I was kitted up for a run in the rain.  Just Yauki and I for a loop of the _Songhess_ via the hill on _Lampson Road_.  I felt really good through to _Harbour Road_ and as the pace crept up on the the _Goose_, I felt myself starting to fade.  By the _Selkirk Trestle_, Yauki wanted to go and I picked things up and found a groove to finish strong.  We walked the last bit as a cooldown.
 
 <!---->
-## WEDNESDAY JAN 12
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY JAN 12 🌧
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -89,7 +89,7 @@ PM: Ride 75 minutes:
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Woke up and to record all threes; had an ok sleep and I am not as sore as I though from the run in the rain [yesterday](javascript:flick('tue');).  Walked an listened to a podcast to start the day too.  
 
 <!---->
 ## THURSDAY JAN 13
