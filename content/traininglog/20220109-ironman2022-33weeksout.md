@@ -117,10 +117,11 @@ Total Time: **58 Minutes** &nbsp; Swim: **2200m**
 
 Night sweats last night; probably from the ride last night.  That same ride was felt on the commute to the pool this morning, at least until _Blanshard Street_.
 
+![Swim](/assets/jpg/swim-20220113.jpeg)
+<!---->
 The pool was busy and there is now (like Mondays) a Thursday morning club occupying half of the pool at 0615.  I felt slower today but I was likely on point for the 3 strong 100m reps.  The times for those 3 reps are likely to indicate lane congestion but the effort was there.
 
 On the ride home, an owl had a go at my new MTB helmet.  That was a first.
-
 
 
 <!---->
