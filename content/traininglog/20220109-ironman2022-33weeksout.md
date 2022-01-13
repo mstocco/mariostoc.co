@@ -113,7 +113,7 @@ Swim 2200:
 Rollers ~ 30 minutes. EASY. Really easy
 
 ### NOTES
-Total Time: **58 Minutes** &nbsp; Swim: **2200m**
+Swim Time: **58 Minutes** &nbsp; Swim Distance: **2200m**
 
 Night sweats last night; probably from the ride last night.  That same ride was felt on the commute to the pool this morning, at least until _Blanshard Street_.
 
