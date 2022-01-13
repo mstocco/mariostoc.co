@@ -100,8 +100,8 @@ Woke up and to record all threes; had an ok sleep and I am not as sore from the 
 Focused effort during the 3:00 reps on the bike tonight.  My saddle interface was looking I'd stop at the 60 minute mark.  I rode through and got the scheduled 75 minutes.  
 
 <!---->
-## THURSDAY JAN 13
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY JAN 13 🌧
+Sleep **4** | Fatigue **-** | Stress **-** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -115,7 +115,7 @@ Rollers ~ 30 minutes. EASY. Really easy
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Night sweats last night; probably from the ride.
 
 <!---->
 ## FRIDAY JAN 14
