@@ -100,8 +100,8 @@ Woke up and to record all threes; had an ok sleep and I am not as sore from the 
 Focused effort during the 3:00 reps on the bike tonight.  My saddle interface was looking I'd stop at the 60 minute mark.  I rode through and got the scheduled 75 minutes.  
 
 <!---->
-## THURSDAY JAN 13 🌧
-Sleep **4** | Fatigue **-** | Stress **-** | Soreness **3**
+## THURSDAY JAN 13 ☁️
+Sleep **4** | Fatigue **5** | Stress **4** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -113,9 +113,15 @@ Swim 2200:
 Rollers ~ 30 minutes. EASY. Really easy
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **58 Minutes** &nbsp; Swim: **2200m**
 
-Night sweats last night; probably from the ride.
+Night sweats last night; probably from the ride last night.  That same ride was felt on the commute to the pool this morning, at least until _Blanshard Street_.
+
+The pool was busy and there is now (like Mondays) a Thursday morning club occupying half of the pool at 0615.  I felt slower today but I was likely on point for the 3 strong 100m reps.  The times for those 3 reps are likely to indicate lane congestion but the effort was there.
+
+On the ride home, an owl had a go at my new MTB helmet.  That was a first.
+
+
 
 <!---->
 ## FRIDAY JAN 14
