@@ -72,7 +72,7 @@ Neck was stiff and lumbar on the tender side this morning.  I was tempted to rid
 I was bothered by a twinge in my right ankle too but at 1545, I was kitted up for a run in the rain.  
 ![Run Chart](/assets/jpg/run-20220111.jpeg)
 <!---->
-It was just Yauki and I for a loop of the _Songhess_ via the hill on _Lampson Road_.  I felt really good through to _Harbour Road_.  In typical Tuesday run fashion, the pace crept up the further we went and I felt myself starting to fade at the start of the bike path.  Over the _Selkirk Trestle_, Yauki really wanted to go so I matched his pace and found a groove to finish strong.
+It was just Yauki and I for a loop of the _Songhess_ via the hill on _Lampson Road_.  I felt really good through to _Harbour Road_.  In typical Tuesday run fashion, the pace crept up the further we went and I felt myself starting to fade at the start of the bike path.  Over the _Selkirk Trestle_, Yauki really wanted to go so I matched his pace and **found a groove** to finish strong.
 
 We walked the last bit as a cooldown.
 ![Post run with Yauki](/assets/jpg/walk-20220111.jpeg)
@@ -93,9 +93,11 @@ PM: Ride 75 minutes:
 15 minutes easy spinning to cool down
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Ride Time: **75 Minutes**
 
-Woke up and to record all threes; had an ok sleep and I am not as sore as I though from the run in the rain [yesterday](javascript:flick('tue');).  Walked an listened to a podcast to start the day too.  
+Woke up and to record all threes; had an ok sleep and I am not as sore from the run [yesterday](javascript:flick('tue');) as I was expecting.  Walked and listened to a podcast to start the day too.  
+
+Focused effort during the 3:00 reps on the bike tonight.  My saddle interface was looking I'd stop at the 60 minute mark.  I rode through and got the scheduled 75 minutes.  
 
 <!---->
 ## THURSDAY JAN 13
