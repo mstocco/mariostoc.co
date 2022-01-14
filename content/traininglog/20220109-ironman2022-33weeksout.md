@@ -125,8 +125,8 @@ On the ride home, an owl had a go at my new MTB helmet.  That was a first.
 
 
 <!---->
-## FRIDAY JAN 14
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY JAN 14 ☁️
+Sleep **2** | Fatigue **3** | Stress **5** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -136,7 +136,7 @@ Run 40 minutes. EASY running
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+A better sleep last night.
 
 <!---->
 ## SATURDAY JAN 15
@@ -144,9 +144,13 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+MTB ~ 1:35-1:45. Bring snacks. Stay warm. Remember to drink a bit. Have fun. Generally an easy effort on the ride.  
+OR...  
+Rollers ~ 80 minutes. Nice and steady. Never too hard.
+
+Walk ~ 30 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+&mdash;
