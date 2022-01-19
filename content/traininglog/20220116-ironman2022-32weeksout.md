@@ -17,11 +17,13 @@ I feel like I was...
 ![](/assets/jpg/II-9x550.jpeg)
 
 ## SUNDAY JAN 16 🌧
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **2** | Fatigue **3** | Stress **6** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Run 60 minutes. Easy effort. Whatever terrain sounds fun for you.
+
+Mobility 36 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -34,12 +36,19 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+__Optional: Easy spin to/from the pool__. 
+Swim 2300: 
+3 rounds (100 easy free r :20, 100 as 25 scull/25 swim/25 fist drill/25 swim. r :30)
+4 rounds (50 Shark-fin r :20, 100 aerobic w/ focus on rotation from the hips r :30) 
+5x 200 aerobic/steady Odds: Swim, Evens: w/ buoy. R :45. 
+2x 50 easy to cool down. 
+
+Walk ~ 30 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **57 Minutes** &nbsp; Swim: **2200m**
 
-&mdash;  
+I messed up somewhere and came up 100m short but did get a good workout in.   I felt a bit of fatigue throughout the swim.
 
 <!---->
 ## TUESDAY JAN 18 ☁️
@@ -47,7 +56,9 @@ Sleep **3** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
+Rollers ~ 20 minutes nice and easy to start the day.
 
+Run 60 minutes w/ your buddies. Generally an easy effort.
 
 ### NOTES
 Total Time: **50 Minutes** &nbsp; Run: **9.0 km**
@@ -64,7 +75,13 @@ Sleep **2** | Fatigue **3** | Stress **5** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Ride 75 minutes: 
+20 minutes easy riding to warm up. 
+12x :30 high cadence, :30 easy. 3 minutes easy spinning. 
+4x 5:00 @ 30-45 minute TT effort, 3:00 easy after each. 
+8 minutes easy spinning to finish up. 
+
+Mobility 17 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -78,7 +95,13 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Swim 2300: 
+4 rounds (100 easy swim to warm up r :20, 50 steady kick r :20)
+50 as 25 fist/25 swim, 100 as 25 fist/75 swim, 150 as 25 fist/125 swim all w/ focus on your catch r :30 after each. 
+12x 100 Descend 1-4, 5-8, 9-12 as 1: Easy-relaxed, 2: Form focused and a touch of turnover, 3: 1/2 IM effort/focus, 4: 750 effort. R :30 after each. 
+4x 50 as 25 odd stroke/25 easy free to cool down.
+
+Walk ~ 30 minutes  
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -91,7 +114,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Rollers ~ 20 minutes EASY to start or end the day.
+
+Run 40 minutes. Nice and easy running. Whatever location is the easiest for you.  
 
 ### NOTES
 Total Time: **0 Minutes**
