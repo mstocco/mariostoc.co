@@ -7,12 +7,12 @@ Week beginning [Sunday, January 9, 2022](javascript:flick('sun');)
 Looks like a wet week ahead which should melt the last of the snow.  The goal is to build on the momentum of the past two weeks.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total SBR Time: **~9.25 Hours** 
+<sup style="color:green;"><strong>&check;</strong> Up ~2 hours (again) from [last week](ironman2022-34weeksout).</sup>
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like training was **ON POINT**
 
-&mdash;
+Built on top of the past two weeks and had another good week of training.  Winter weight is not coming off according to the bathroom scale but the quick mirror test seems to have a good trend.
 
 ![Unlike last week, this feels like a January day in Victoria.](/assets/jpg/IMG_3960-977x550.jpeg SONGHESS WALKWAY)
 

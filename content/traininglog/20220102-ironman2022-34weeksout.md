@@ -8,7 +8,7 @@ Build off of [last week](ironman2022-35weeksout) while starting the first work w
 
 ## SUMMARY
 Total SBR Time: **7.5 Hours**   
-<sup><strong>&check;</strong> Up 2 hours from [last week](ironman2022-35weeksout).</sup>
+<sup style="color:green;"><strong>&check;</strong> Up 2 hours from [last week](ironman2022-35weeksout).</sup>
 
 I feel like I was **ADAPTIVE** <small>re: weather/work</small>
 
