@@ -26,9 +26,9 @@ Run 60 minutes. Easy effort. Whatever terrain sounds fun for you.
 Mobility 36 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **60 Minutes** &nbsp; Run: **9.3km**
 
-&mdash;  
+The run was easy effort over mixed terrain (mostly road, some hills) and I felt good the entire way.
 
 <!---->
 ## MONDAY JAN 17 ☁️
@@ -75,7 +75,7 @@ Sleep **2** | Fatigue **3** | Stress **5** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Ride 75 minutes: 
+Ride 75 minutes:
 20 minutes easy riding to warm up. 
 12x :30 high cadence, :30 easy. 3 minutes easy spinning. 
 4x 5:00 @ 30-45 minute TT effort, 3:00 easy after each. 
@@ -84,14 +84,16 @@ Ride 75 minutes:
 Mobility 17 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **75 Minutes**
 
 I was expecting to feel more beat up from the run yesterday.  I woke up **feeling good** physically.  There is work stress to get through.
 
+I plugged in an extra 5:00 interval into my bike computer and then while I was riding, was surprised when it the unit beeped and said, "Go one more."  I went that one more and cut the off the time from the cool down; my heart-rate was in the low 100s when I got off the bike and went for dinner.
 
+Mobility was missed as it was a long day at work.
 <!---->
-## THURSDAY JAN 20
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY JAN 20 🌧
+Sleep **2** | Fatigue **3** | Stress **4** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -104,9 +106,11 @@ Swim 2300:
 Walk ~ 30 minutes  
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **~53 Minutes** &nbsp; Swim: **~2000m**
 
-&mdash;  
+Must have been a good sleep as I was awake before the 0500 alarm and feeling refreshed.  Drove to the pool and my shoulder felt good enough to go.
+
+I messed up the recording of the workout by pushing off from the wall without starting the watch.  Once I got myself back on track, I lost count of the 100m reps when I had to move to a different swim lane (Thursday swim club).  Of the 100m set that I completed, I was not challenged physically but it was not easy to say what was 1/2 IM pace vs 750m pace.  Kind of like why we don't have 7-speed cassettes on our bikes any longer; more gears the better.
 
 <!---->
 ## FRIDAY JAN 21
