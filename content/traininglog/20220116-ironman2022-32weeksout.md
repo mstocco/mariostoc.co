@@ -113,8 +113,8 @@ Must have been a good sleep as I was awake before the 0500 alarm and feeling ref
 I messed up the recording of the workout by pushing off from the wall without starting the watch.  Once I got myself back on track, I lost count of the 100m reps when I had to move to a different swim lane (Thursday swim club).  Of the 100m set that I completed, I was not challenged physically but it was not easy to say what was 1/2 IM pace vs 750m pace.  Kind of like why we don't have 7-speed cassettes on our bikes any longer; more gears the better.
 
 <!---->
-## FRIDAY JAN 21
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY JAN 21 ☁️
+Sleep **2** | Fatigue **3** | Stress **3** | Soreness **2**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -123,9 +123,11 @@ Rollers ~ 20 minutes EASY to start or end the day.
 Run 40 minutes. Nice and easy running. Whatever location is the easiest for you.  
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **60 Minutes** &nbsp; Run: **7 km**
 
-&mdash;  
+In bed earlier but up after midnight because I was hungry; ate a couple slices of banana bread that Carina made and fell back asleep.
+
+The short time on the rollers was lighter effort and felt great.  The run later in the afternoon was more easy effort and an opportunity to tune out work and the week that was. 
 
 <!---->
 ## SATURDAY JAN 22
@@ -133,9 +135,12 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+MTB ~ 1:45 - 2:00. 
+Base miles. Fuel up. Stay hydrated. Stay warm. Have fun.
+
+Walk 20-30 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+&mdash;
