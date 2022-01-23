@@ -13,8 +13,7 @@ I feel like I was **ADDING TO THE CAKE**
 
 I traded a bit of time for a bit of intensity, specifically with the finish to the run on [Tuesday](javascript:flick('tue');).  By the end of the week, I did feel a bit of the niggles coming into the picture.
 
-#### GARMIN MEASURES A NICE TREND
-![LT](/assets/jpg/lt-20220122.jpeg)
+This week had more chaos on the work-front but I was able to absorb it at the expense of some mobility and a walk.
 
 ![A Saturday coffee stop before heading up to Thetis Regional Park](/assets/jpg/IMG_3978-977x550.jpeg Patron Parking, The Nest Cafe)
 
@@ -75,10 +74,10 @@ I ran with Yauki and Vince this afternoon, so pace was higher for the bulk of th
 Like [last week](ironman2022-33weeksout?tue), from _Harbour Road_ the pace slowly crept up through to the _Selkirk Trestle_ and from there, the pace built again.
 <!---->
 A cyclist commented, "you guys are fast!" as she looked for room to pass the group.  Another cyclist up the road was the last person I past before breaking into a 60m stride to finish at _Kelvin Road_ and an even 9 km for the day.
-
 #### RUN PACE CHART
-![Run Paces](/assets/jpg/run-20220118.jpeg)
-
+![Run Paces](/assets/jpg/run-20220118.jpeg?v2)
+#### GARMIN LT ESTIMATE - TRENDING UP
+![LT](/assets/jpg/lt-20220122.jpeg)
 <!---->
 ## WEDNESDAY JAN 19 🌧 
 Sleep **2** | Fatigue **3** | Stress **5** | Soreness **3**
