@@ -54,7 +54,7 @@ Total Time: **57 Minutes** &nbsp; Swim: **2200m**
 
 I messed up somewhere and came up 100m short but did get a good workout in.   I felt a bit of fatigue throughout the swim.
 
-I took 40 minutes to head back to _Archie Browning Rec Centre_ to get my COVID-19 Booster.  Work occupied the rest of the day/evening.
+At 1500, I took 40 minutes to drive to _Archie Browning Rec Centre_ and get my COVID-19 Booster.  Work occupied the rest of the day/evening.
 
 <!---->
 ## TUESDAY JAN 18 ☁️
@@ -79,6 +79,8 @@ A cyclist commented, "you guys are fast!" as she looked for room to pass the gro
 
 ### Kilometre Splits
 ![Run Paces](/assets/jpg/run-20220118.jpeg?v2)
+
+---
 
 ### GARMIN LT ESTIMATE - TRENDING UP
 ![LT](/assets/jpg/lt-20220122.jpeg)
@@ -124,12 +126,19 @@ Total Time: **~53 Minutes** &nbsp; Swim: **~2000m**
 
 Must have been a good sleep as I was awake before the 0500 alarm and feeling refreshed.
 
-My shoulder felt good enough to go.  I drove to the pool as I needed to be working right after the swim.
+My shoulder felt good enough to go.  
+
+I drove to the pool as I needed to be working right after the swim.
 <!---->
 I messed up the recording of the workout by pushing off from the wall without starting the watch.  Once I got myself back on track, I lost count of the 100m reps when I had to move to a different swim lane (Thursday swim club).  Of the 100m set that I completed, I was not challenged physically but it was **not easy** to say what was 1/2 IM pace vs 750m pace.  Kind of like why we don't have 7-speed cassettes on our bikes any longer; more gears the better.
 
+### SWIM WORKOUT
 ![Swim](/assets/jpg/swim-20220120.jpeg)
 
+---
+
+Good news in that I was able to get through some of the chaos from the work week today.
+ 
 <!---->
 ## FRIDAY JAN 21 ☁️
 Sleep **2** | Fatigue **3** | Stress **3** | Soreness **2**
@@ -145,7 +154,9 @@ Total Time: **60 Minutes** &nbsp; Run: **7 km** (easy)
 
 In bed earlier but up after midnight because I was hungry; ate a couple slices of banana bread that Carina made and fell back asleep.
 
-The short time on the rollers was lighter effort and felt great.  The run later in the afternoon was more easy effort and an opportunity to tune out work and the week that was. 
+The short time on the rollers was lighter effort and **felt great**.
+
+The run later in the afternoon was **more easy effort** and a forty-plus minute opportunity to tune out work and the week that was. 
 
 <!---->
 ## SATURDAY JAN 22 ☀️
@@ -161,11 +172,11 @@ Walk 20-30 minutes
 ### NOTES
 MTB Moving Time: **99 Minutes**
 
-House chores done and Carina and I pedalled to _The Nest_ for a latte.  Weather was sunny but cool(er).
+Weather was sunny but cool(er).  Carina and I pedalled to _The Nest_ for a latte.  I pressed start on the ride after that and headed up the hill.
 
-I pressed start on the ride after that and headed up the hill.  Unlike [last Saturday](ironman2022-3weeksout?sat), I decided to veer off the fire road and take on some single track.  I hadn't ridden on a proper MTB trial since November and there was some rust.  I rode _"Comfy Wooden Chair"_ first (very familiar to me) before making my way to  _"Electric Avenue"_ (ridden once last year).  This let me explore and ride _"Electric Light"_ back into the boundary of _Thetis Regional Park_.
+Unlike [last Saturday](ironman2022-3weeksout?sat), I decided to veer off the fire road and take on some single track.  I hadn't ridden on a proper MTB trial since November and there was some rust.  I rode _"Comfy Wooden Chair"_ first (very familiar to me) before making my way to  _"Electric Avenue"_ (ridden once last year).  This let me explore and ride _"Electric Light"_ back into the boundary of _Thetis Regional Park_.
 <!---->
-![Single Track Map](/assets/jpg/mtb-20220122.jpeg)
+
 This was a **fun ride** _but_...   
 
 I noticed a pretty acute twinge in my left ankle that seemed to go away after an hour.
@@ -173,3 +184,7 @@ I noticed a pretty acute twinge in my left ankle that seemed to go away after an
 Electric Avenue I started to find a groove with the trail but my current fitness became a limiter.
 
 I went over the handlebars, embarrassingly, on a feature that was not (should not be) challenging for me.  That left a pretty descent bruise on my **left vastus medialis** that I felt for the rest of the ride and into the rest of the evening (it is sore).
+
+![Single Track Map](/assets/jpg/image.jpeg)
+
+![Single Track Map](/assets/jpg/mtb-20220122.jpeg)
