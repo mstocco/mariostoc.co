@@ -185,6 +185,6 @@ Electric Avenue I started to find a groove with the trail but my current fitness
 
 I went over the handlebars, embarrassingly, on a feature that was not (should not be) challenging for me.  That left a pretty descent bruise on my **left vastus medialis** that I felt for the rest of the ride and into the rest of the evening (it is sore).
 
-![Single Track Map](/assets/jpg/image.jpeg)
+![Single Track Map](/assets/jpg/bike-20220122.jpeg)
 
 ![Single Track Map](/assets/jpg/mtb-20220122.jpeg)
