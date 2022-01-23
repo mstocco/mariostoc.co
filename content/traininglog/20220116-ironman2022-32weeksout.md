@@ -13,6 +13,8 @@ I feel like I was **ADDING TO THE CAKE**
 
 I traded a bit of time for a bit of intensity, specifically with the finish to the run on [Tuesday](javascript:flick('tue');).  By the end of the week, I did feel a bit of the niggles coming into the picture.
 
+This trend matches how I have been feeling: ![LT](/assets/jpg/image.jpeg)
+
 ![A Saturday coffee stop before heading up to Thetis Regional Park](/assets/jpg/IMG_3978-977x550.jpeg Patron Parking, The Nest Cafe)
 
 ## SUNDAY JAN 16 🌧
@@ -28,7 +30,7 @@ Mobility 36 minutes
 Total Time: **60 Minutes** &nbsp; Run: **9.3km**
 
 The run was easy effort over mixed terrain (mostly road, some hills) and I felt good the entire way.
-
+![Swim](/assets/jpg/image.jpeg)
 <!---->
 ## MONDAY JAN 17 ☁️
 Sleep **4** | Fatigue **5** | Stress **5** | Soreness **2**
@@ -67,7 +69,7 @@ Total Time: **50 Minutes** &nbsp; Run: **9.0 km**
 Should is a bit sore from the jab but not quite as sore as I remember from the two shots last summer.
 
 I ran with Yauki and Vince this afternoon, so pace was higher for the bulk of the run.  After the hill on _Lampson_, the group pace was around 5:30/km and I felt like I was working to match the other two.  Like [last week](ironman2022-33weeksout?tue), from _Harbour Road_ the pace slowly crept up through to the _Selkirk Trestle_ and from there, the pace built again.
-
+<!---->
 A cyclist commented, "you guys are fast!" as she looked for room to pass the group.  Another cyclist up the road was the last person I past before breaking into a 60m stride to finish at _Kelvin Road_ and an even 9 km for the day.
 
 <!---->
@@ -111,7 +113,8 @@ Walk ~ 30 minutes
 Total Time: **~53 Minutes** &nbsp; Swim: **~2000m**
 
 Must have been a good sleep as I was awake before the 0500 alarm and feeling refreshed.  Drove to the pool and my shoulder felt good enough to go.
-
+![Swim](/assets/jpg/image.jpeg)
+<---->
 I messed up the recording of the workout by pushing off from the wall without starting the watch.  Once I got myself back on track, I lost count of the 100m reps when I had to move to a different swim lane (Thursday swim club).  Of the 100m set that I completed, I was not challenged physically but it was **not easy** to say what was 1/2 IM pace vs 750m pace.  Kind of like why we don't have 7-speed cassettes on our bikes any longer; more gears the better.
 
 <!---->
@@ -132,7 +135,7 @@ In bed earlier but up after midnight because I was hungry; ate a couple slices o
 The short time on the rollers was lighter effort and felt great.  The run later in the afternoon was more easy effort and an opportunity to tune out work and the week that was. 
 
 <!---->
-## SATURDAY JAN 22
+## SATURDAY JAN 22 ☀️
 Sleep **2** | Fatigue **4** | Stress **2** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -145,7 +148,9 @@ Walk 20-30 minutes
 ### NOTES
 MTB Moving Time: **99 Minutes**
 
-House chores done and Carina and I pedalled to _The Nest_ for a latte.  I pressed start on the ride after that and headed up the hill.  Unlike [last Saturday](ironman2022-3weeksout?sat), I decided to veer off the fire road and take on some single track.  I hadn't ridden on a proper MTB trial since November and there was some rust.  I rode _"Comfy Wooden Chair"_ first (very familiar to me) before making my way to  _"Electric Avenue"_ (ridden once last year).  This let me explore and ride _"Electric Light"_ back into the boundary of _Thetis Regional Park_.
+House chores done and Carina and I pedalled to _The Nest_ for a latte.  Weather was sunny but cool(er).
 
+I pressed start on the ride after that and headed up the hill.  Unlike [last Saturday](ironman2022-3weeksout?sat), I decided to veer off the fire road and take on some single track.  I hadn't ridden on a proper MTB trial since November and there was some rust.  I rode _"Comfy Wooden Chair"_ first (very familiar to me) before making my way to  _"Electric Avenue"_ (ridden once last year).  This let me explore and ride _"Electric Light"_ back into the boundary of _Thetis Regional Park_.
+<!---->
 This was a **fun ride** _but_...   
 I went over the handlebars, embarrassingly on a feature that was not (should not be) challenging for me.  Pretty descent bruise on my **left vastus medialis** that I felt for the rest of the ride and into the rest of the evening (it is sore).
