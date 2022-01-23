@@ -13,7 +13,7 @@ I feel like I was **ADDING TO THE CAKE**
 
 I traded a bit of time for a bit of intensity, specifically with the finish to the run on [Tuesday](javascript:flick('tue');).  By the end of the week, I did feel a bit of the niggles coming into the picture.
 
-This trend matches how I have been feeling: ![LT](/assets/jpg/image.jpeg)
+This trend matches how I have been feeling: ![LT](/assets/jpg/lt-20220122.jpeg)
 
 ![A Saturday coffee stop before heading up to Thetis Regional Park](/assets/jpg/IMG_3978-977x550.jpeg Patron Parking, The Nest Cafe)
 
@@ -30,7 +30,8 @@ Mobility 36 minutes
 Total Time: **60 Minutes** &nbsp; Run: **9.3km**
 
 The run was easy effort over mixed terrain (mostly road, some hills) and I felt good the entire way.
-![Swim](/assets/jpg/image.jpeg)
+
+![Run Map](/assets/jpg/run-20220116.jpeg)
 <!---->
 ## MONDAY JAN 17 ☁️
 Sleep **4** | Fatigue **5** | Stress **5** | Soreness **2**
