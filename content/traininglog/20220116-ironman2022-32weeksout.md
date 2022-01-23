@@ -13,7 +13,8 @@ I feel like I was **ADDING TO THE CAKE**
 
 I traded a bit of time for a bit of intensity, specifically with the finish to the run on [Tuesday](javascript:flick('tue');).  By the end of the week, I did feel a bit of the niggles coming into the picture.
 
-This trend matches how I have been feeling: ![LT](/assets/jpg/lt-20220122.jpeg)
+#### GARMIN MEASURES A NICE TREND
+![LT](/assets/jpg/lt-20220122.jpeg)
 
 ![A Saturday coffee stop before heading up to Thetis Regional Park](/assets/jpg/IMG_3978-977x550.jpeg Patron Parking, The Nest Cafe)
 
@@ -38,7 +39,7 @@ Sleep **4** | Fatigue **5** | Stress **5** | Soreness **2**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-__Optional: Easy spin to/from the pool__. 
+_Optional: Easy spin to/from the pool_. 
 Swim 2300: 
 3 rounds (100 easy free r :20, 100 as 25 scull/25 swim/25 fist drill/25 swim. r :30)
 4 rounds (50 Shark-fin r :20, 100 aerobic w/ focus on rotation from the hips r :30) 
@@ -118,11 +119,13 @@ Walk ~ 30 minutes
 ### NOTES
 Total Time: **~53 Minutes** &nbsp; Swim: **~2000m**
 
-Must have been a good sleep as I was awake before the 0500 alarm and feeling refreshed.  Drove to the pool and my shoulder felt good enough to go.
-![Swim](/assets/jpg/image.jpeg)
-<---->
+Must have been a good sleep as I was awake before the 0500 alarm and feeling refreshed.
+
+Drove to the pool and my shoulder felt good enough to go.
+<!---->
 I messed up the recording of the workout by pushing off from the wall without starting the watch.  Once I got myself back on track, I lost count of the 100m reps when I had to move to a different swim lane (Thursday swim club).  Of the 100m set that I completed, I was not challenged physically but it was **not easy** to say what was 1/2 IM pace vs 750m pace.  Kind of like why we don't have 7-speed cassettes on our bikes any longer; more gears the better.
 
+![Swim](/assets/jpg/image.jpeg)
 <!---->
 ## FRIDAY JAN 21 ☁️
 Sleep **2** | Fatigue **3** | Stress **3** | Soreness **2**
