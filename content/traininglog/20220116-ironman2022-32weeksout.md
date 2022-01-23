@@ -77,13 +77,12 @@ Like [last week](ironman2022-33weeksout?tue), from _Harbour Road_ the pace slowl
 <!---->
 A cyclist commented, "you guys are fast!" as she looked for room to pass the group.  Another cyclist up the road was the last person I past before breaking into a 60m stride to finish at _Kelvin Road_ and an even 9 km for the day.
 
-### RUN PACE CHART
+### Kilometre Splits
 ![Run Paces](/assets/jpg/run-20220118.jpeg?v2)
-
----
 
 ### GARMIN LT ESTIMATE - TRENDING UP
 ![LT](/assets/jpg/lt-20220122.jpeg)
+
 <!---->
 ## WEDNESDAY JAN 19 🌧 
 Sleep **2** | Fatigue **3** | Stress **5** | Soreness **3**
@@ -104,7 +103,7 @@ I was expecting to feel more beat up from the run yesterday.  I woke up **feelin
 
 I (mistakenly) plugged in an extra 5:00 interval into my bike computer and then while I was riding, was surprised when it the unit beeped and said, _"Go one more."_  I pedalled that extra rep.  When I got off the bike and went for a late dinner.
 
-Mobility was missed as it was a long day at work.
+Mobility was missed; it was getting late.
 
 <!---->
 ## THURSDAY JAN 20 🌧
@@ -125,11 +124,12 @@ Total Time: **~53 Minutes** &nbsp; Swim: **~2000m**
 
 Must have been a good sleep as I was awake before the 0500 alarm and feeling refreshed.
 
-Drove to the pool and my shoulder felt good enough to go.
+My shoulder felt good enough to go.  I drove to the pool as I needed to be working right after the swim.
 <!---->
 I messed up the recording of the workout by pushing off from the wall without starting the watch.  Once I got myself back on track, I lost count of the 100m reps when I had to move to a different swim lane (Thursday swim club).  Of the 100m set that I completed, I was not challenged physically but it was **not easy** to say what was 1/2 IM pace vs 750m pace.  Kind of like why we don't have 7-speed cassettes on our bikes any longer; more gears the better.
 
-![Swim](/assets/jpg/image.jpeg)
+![Swim](/assets/jpg/swim-20220120.jpeg)
+
 <!---->
 ## FRIDAY JAN 21 ☁️
 Sleep **2** | Fatigue **3** | Stress **3** | Soreness **2**
