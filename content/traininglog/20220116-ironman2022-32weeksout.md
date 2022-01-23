@@ -69,9 +69,14 @@ Total Time: **50 Minutes** &nbsp; Run: **9.0 km**
 
 Should is a bit sore from the jab but not quite as sore as I remember from the two shots last summer.
 
-I ran with Yauki and Vince this afternoon, so pace was higher for the bulk of the run.  After the hill on _Lampson_, the group pace was around 5:30/km and I felt like I was working to match the other two.  Like [last week](ironman2022-33weeksout?tue), from _Harbour Road_ the pace slowly crept up through to the _Selkirk Trestle_ and from there, the pace built again.
+I ran with Yauki and Vince this afternoon, so pace was higher for the bulk of the run.  After the hill on _Lampson_, the group pace was around 5:30/km and I felt like I was working to match the other two.
+
+Like [last week](ironman2022-33weeksout?tue), from _Harbour Road_ the pace slowly crept up through to the _Selkirk Trestle_ and from there, the pace built again.
 <!---->
 A cyclist commented, "you guys are fast!" as she looked for room to pass the group.  Another cyclist up the road was the last person I past before breaking into a 60m stride to finish at _Kelvin Road_ and an even 9 km for the day.
+
+#### RUN PACE CHART
+![Run Paces](/assets/jpg/run-20220118.jpeg)
 
 <!---->
 ## WEDNESDAY JAN 19 🌧 
