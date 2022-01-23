@@ -15,6 +15,8 @@ I traded a bit of time for a bit of intensity, specifically with the finish to t
 
 This week had more chaos on the work-front but I was able to absorb it at the expense of some mobility and a walk.
 
+The weather was mostly clear (but below seasonal) too.
+
 ![A Saturday coffee stop before heading up to Thetis Regional Park](/assets/jpg/IMG_3978-977x550.jpeg Patron Parking, The Nest Cafe)
 
 ## SUNDAY JAN 16 🌧
@@ -67,16 +69,20 @@ Run 60 minutes w/ your buddies. Generally an easy effort.
 ### NOTES
 Total Time: **50 Minutes** &nbsp; Run: **9.0 km**
 
-Should is a bit sore from the jab but not quite as sore as I remember from the two shots last summer.
+Shoulder is a bit sore from the jab but not as sore as I remember from the shots last summer.
 
 I ran with Yauki and Vince this afternoon, so pace was higher for the bulk of the run.  After the hill on _Lampson_, the group pace was around 5:30/km and I felt like I was working to match the other two.
 
 Like [last week](ironman2022-33weeksout?tue), from _Harbour Road_ the pace slowly crept up through to the _Selkirk Trestle_ and from there, the pace built again.
 <!---->
 A cyclist commented, "you guys are fast!" as she looked for room to pass the group.  Another cyclist up the road was the last person I past before breaking into a 60m stride to finish at _Kelvin Road_ and an even 9 km for the day.
-#### RUN PACE CHART
+
+### RUN PACE CHART
 ![Run Paces](/assets/jpg/run-20220118.jpeg?v2)
-#### GARMIN LT ESTIMATE - TRENDING UP
+
+---
+
+### GARMIN LT ESTIMATE - TRENDING UP
 ![LT](/assets/jpg/lt-20220122.jpeg)
 <!---->
 ## WEDNESDAY JAN 19 🌧 
@@ -89,7 +95,6 @@ Ride 75 minutes:
 12x :30 high cadence, :30 easy. 3 minutes easy spinning. 
 4x 5:00 @ 30-45 minute TT effort, 3:00 easy after each. 
 8 minutes easy spinning to finish up. 
-
 Mobility 17 minutes
 
 ### NOTES
@@ -97,7 +102,7 @@ Total Time: **75 Minutes**
 
 I was expecting to feel more beat up from the run yesterday.  I woke up **feeling good** physically.  There is work stress to get through.
 
-I plugged in an extra 5:00 interval into my bike computer and then while I was riding, was surprised when it the unit beeped and said, "Go one more."  I went that one more and cut the off the time from the cool down; my heart-rate was in the low 100s when I got off the bike and went for dinner.
+I (mistakenly) plugged in an extra 5:00 interval into my bike computer and then while I was riding, was surprised when it the unit beeped and said, _"Go one more."_  I pedalled that extra rep.  When I got off the bike and went for a late dinner.
 
 Mobility was missed as it was a long day at work.
 
