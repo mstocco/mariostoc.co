@@ -75,7 +75,7 @@ I ran with Yauki and Vince this afternoon, so pace was higher for the bulk of th
 
 Like [last week](ironman2022-33weeksout?tue), from _Harbour Road_ the pace slowly crept up through to the _Selkirk Trestle_ and from there, the pace built again.
 <!---->
-A cyclist commented, "you guys are fast!" as she looked for room to pass the group.  Another cyclist up the road was the last person I past before breaking into a 60m stride to finish at _Kelvin Road_ and an even 9 km for the day.
+A cyclist commented, "you guys are fast!" as she looked for room to pass the group.  Another cyclist up the road was the last person I passed before breaking into a 60m stride to finish at _Kelvin Road_ and an even 9 km for the day.
 
 ### Kilometre Splits
 ![Run Paces](/assets/jpg/run-20220118.jpeg?v2)
@@ -99,7 +99,7 @@ Ride 75 minutes:
 Mobility 17 minutes
 
 ### NOTES
-Total Time: **75 Minutes**
+Total Time: **75 Minutes** Ride Type: **Rollers**
 
 I was expecting to feel more beat up from the run yesterday.  I woke up **feeling good** physically.  There is work stress to get through.
 

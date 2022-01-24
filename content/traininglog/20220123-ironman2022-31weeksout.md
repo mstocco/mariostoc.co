@@ -29,13 +29,13 @@ Total Time: **75 Minutes** &nbsp; Run: **12 km** (easy)
 
 Upper body is a bit stiff from the MTB ride [yesterday](ironman2022-32weeksout?sat); definitely a more full body activity than riding the rollers.  The more important ding from that ride being the bruise of my left vastus medialis.  Still a bit sore to the touch but there is range of motion.  On the run, I just relaxed, jogged easy and didn't push my luck.
 
-I stopped for about 4 minutes in _Portage Park_ to frame up this week's [photo](javascript:flkty.select(2);).  I made a note to myself at 8.5km mark about how comfortable the jog was going.  Just past the hour mark, I could feel that left vastus being to complain; I was pointed back toward home.
+I stopped for about 4 minutes in _Portage Park_ to frame up [this week's photo](javascript:flkty.select(2);).  I made a note to myself at 8.5km mark about how comfortable the jog was going.  Just past the hour mark, I could feel that left vastus start to complain; I was pointed back toward home.
 
 Mobility was a miss.
 
 <!---->
-## MONDAY JAN 24
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## MONDAY JAN 24 ☁️
+Sleep **4** | Fatigue **5** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -52,9 +52,11 @@ Swim 2300:
 Walk 20-30 minutes.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **60 Minutes** &nbsp; Swim: **2300m**
 
-&mdash;  
+Cold ride to (and from) the pool this morning.  Legs felt on the tired side, even though I had an ok sleep last night.
+
+Pecks and shoulders felt tired once in the pool too.  This swim was more of a _"see it through"_ kind of workout in that things never felt relaxed and easy; almost like every length I had a moment where I was checking in with myself to _"stay on point"_.  The paddle fist lengths were okay, the shark-fin lengths felt awkward this morning.
 
 <!---->
 ## TUESDAY JAN 25
