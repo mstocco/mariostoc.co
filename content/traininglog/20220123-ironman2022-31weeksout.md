@@ -54,7 +54,7 @@ Walk 20-30 minutes.
 ### NOTES
 Total Time: **60 Minutes** &nbsp; Swim: **2300m**
 
-Cold ride to (and from) the pool this morning.  Legs felt on the tired side, even though I had an ok sleep last night.
+Cold ride to the pool this morning.  Legs felt on the tired side, even though I had an ok sleep.
 
 Pecks and shoulders felt tired once in the pool too.  This swim was more of a _"see it through"_ kind of workout in that things never felt relaxed and easy; almost like every length I had a moment where I was checking in with myself to _"stay on point"_.  The paddle fist lengths were okay, the shark-fin lengths felt awkward this morning.
 
