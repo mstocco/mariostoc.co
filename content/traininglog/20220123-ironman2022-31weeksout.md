@@ -14,9 +14,9 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![A cool, foggy day to start the week.](/assets/jpg/IMG_3985-977x550.jpeg THETIS COVE, VIEW ROYAL, BC)
 
-## SUNDAY JAN 23
+## SUNDAY JAN 23 ☁️
 Sleep **3** | Fatigue **4** | Stress **2** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -25,9 +25,13 @@ Run 70 minutes. Easy effort. Ideally on a bit of dirt/trail. Flat to rolling ter
 Mobility 28 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **75 Minutes** &nbsp; Run: **12 km** (easy)
 
-&mdash;  
+Upper body is a bit stiff from the MTB ride [yesterday](ironman2022-32weeksout?sat); definitely a more full body activity than riding the rollers.  The more important ding from that ride being the bruise of my left vastus medialis.  Still a bit sore to the touch but there is range of motion.  On the run, I just relaxed, jogged easy and didn't push my luck.
+
+I stopped for about 4 minutes in _Portage Park_ to frame up this week's [photo](javascript:flkty.select(2);).  I made a note to myself at 8.5km mark about how comfortable the jog was going.  Just past the hour mark, I could feel that left vastus being to complain; I was pointed back toward home.
+
+Mobility was a miss.
 
 <!---->
 ## MONDAY JAN 24
@@ -131,4 +135,4 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+&mdash;

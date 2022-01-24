@@ -156,7 +156,7 @@ In bed earlier but up after midnight because I was hungry; ate a couple slices o
 
 The short time on the rollers was lighter effort and **felt great**.
 
-The run later in the afternoon was **more easy effort** and a forty-plus minute opportunity to tune out work and the week that was. 
+The run later in the afternoon was a forty-plus minute opportunity to tune out work and the week that was; nice **easy effort**.
 
 <!---->
 ## SATURDAY JAN 22 ☀️
