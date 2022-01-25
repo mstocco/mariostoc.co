@@ -54,13 +54,15 @@ Walk 20-30 minutes.
 ### NOTES
 Total Time: **60 Minutes** &nbsp; Swim: **2300m**
 
-Cold ride to the pool this morning.  Legs felt on the tired side, even though I had an ok sleep.
+Cold ride to the pool this morning.  Legs felt on the tired side, even though I had an ok sleep.  Pecks and shoulders felt tired once in the pool too (from the [mountain biking](ironman2022-32weeksout?sat)).  I am noticing the bruised vast less and less.
 
-Pecks and shoulders felt tired once in the pool too.  This swim was more of a _"see it through"_ kind of workout in that things never felt relaxed and easy; almost like every length I had a moment where I was checking in with myself to _"stay on point"_.  The paddle fist lengths were okay, the shark-fin lengths felt awkward this morning.
+This swim was more of a _"see it through"_ kind of workout in that things never felt relaxed and easy; almost like every length I had a moment where I was checking in with myself to _"stay on point"_.  The paddle fist lengths were okay, the shark-fin lengths felt awkward this morning.
+
+After work, I had an honest nap.
 
 <!---->
-## TUESDAY JAN 25
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY JAN 25 ⛅️
+Sleep **2** | Fatigue **4** | Stress **4** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -68,9 +70,9 @@ Rollers ~ 20-25 minutes easy spinning to start the day.
 Pm: Run 50-60 minutes w/ your buddies.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **25 Minutes**
 
-&mdash;  
+To compliment my nap yesterday, this morning I slept in.  Rollers before coffee and then off to work.
 
 <!---->
 ## WEDNESDAY JAN 26
