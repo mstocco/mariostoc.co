@@ -58,16 +58,16 @@ Cold ride to the pool this morning.  Legs (quads) felt on the tired side, even t
 
 Pecks and shoulders felt tired once in the pool too (from the [mountain biking](ironman2022-32weeksout?sat)).  
 <!---->
-This swim was more of a _"see it through"_ kind of workout in that things never felt relaxed and easy; almost like every length I had a moment where I was checking in with myself to _"stay on point"_.  I even struggled with a leaky goggle on the first few lengths (not normal).
+This swim was more of a _"see it through"_ kind of workout in that things never felt relaxed and easy; almost like every length I had a moment where I was checking in with myself to _"stay on point"_.
 
-![Swim](/assets/jpg/swim-20220124.jpeg)
+I even struggled with a leaky goggle on the first few lengths (not normal).
+
 The paddle fist lengths were okay, the shark-fin lengths felt awkward this morning.
+![Swim](/assets/jpg/swim-20220124.jpeg)
  
  ---
  
 Later in the afternoon (after work), I had an honest to goodness nap.
-
-
 
 <!---->
 ## TUESDAY JAN 25 ⛅️
@@ -85,14 +85,14 @@ To compliment my nap [yesterday](javascript:flick('mon');), I slept in this morn
 
 Rollers (easy but steady) before coffee and then off to work.
 
+The Tuesday Run Crew was the same as [last week](ironman2022-32weeksout?tue) but the route today was hillier; it was up and over _Craigflower Hill_, then up the hill by the _Four Mile Pub_ and the hills of _Helmcken Road_.
+<!---->
 #### Pace and Elevation
 ![Kilometer Pace](/assets/jpg/run-20220125.jpeg)
-<!---->
-Tuesday run crew was the same as [last week](ironman2022-32weeksout?tue) but the route today was hillier; it was up and over _Craigflower Hill_, then up the hill by the _Four Mile Pub_ and the hills of _Helmcken Road_.
 
-Things played out similar to last week too; I **struggled** to keep pace with my buddies over the bulk of the run, moved to the front for the last 800m, and as the pace quickened, I finished with a **strong answer** to Vincent's attempt close the gap.
+Things played out similar to last week too; I **struggled** to keep pace with my buddies over the bulk of the run; noticed on the uphill and downhills too.  As we neared the end, I moved to the front for the last 800m; the pace quickened, I finished with a **strong answer** to Vincent's attempt close the gap I had opened.
 
-#### Fun with Friends
+#### The Tuesday Night Crew
 ![Run Crew](/assets/jpg/crew-20220125.jpeg)
 
 <!---->
