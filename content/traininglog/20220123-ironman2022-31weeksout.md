@@ -58,11 +58,16 @@ Cold ride to the pool this morning.  Legs (quads) felt on the tired side, even t
 
 Pecks and shoulders felt tired once in the pool too (from the [mountain biking](ironman2022-32weeksout?sat)).  
 <!---->
-This swim was more of a _"see it through"_ kind of workout in that things never felt relaxed and easy; almost like every length I had a moment where I was checking in with myself to _"stay on point"_.  The paddle fist lengths were okay, the shark-fin lengths felt awkward this morning.
+This swim was more of a _"see it through"_ kind of workout in that things never felt relaxed and easy; almost like every length I had a moment where I was checking in with myself to _"stay on point"_.  I even struggled with a leaky goggle on the first few lengths (not normal).
 
+![Swim](/assets/jpg/swim-20220124.jpeg)
+The paddle fist lengths were okay, the shark-fin lengths felt awkward this morning.
+ 
+ ---
+ 
 Later in the afternoon (after work), I had an honest to goodness nap.
 
-![](/assets/jpg/image.jpeg)
+
 
 <!---->
 ## TUESDAY JAN 25 ⛅️
