@@ -72,15 +72,17 @@ Pm: Run 50-60 minutes w/ your buddies.
 ### NOTES
 Total Time: **76 Minutes** &nbsp; Run: **9 km**
 
-To compliment my nap [yesterday](javascript:flick('mon');), I slept in this morning.
+To compliment my nap [yesterday](javascript:flick('mon');), I slept in this morning.  Rollers (easy but steady) before coffee and then off to work.
 
-Rollers (easy but steady) before coffee and then off to work.
-
+#### Pace and Elevation
+![Kilometer Pace](/assets/jpg/run-20220125.jpeg)
+<!---->
 Tuesday run crew was the same as [last week](ironman2022-32weeksout?tue) but the route today was hillier; it was up and over _Craigflower Hill_, then up the hill by the _Four Mile Pub_ and the hills of _Helmcken Road_.
 
-<!---->
 Things played out similar to last week too; I **struggled** to keep pace with my buddies over the bulk of the run, moved to the front for the last 800m, and as the pace quickened, I finished with a **strong answer** to Vincent's attempt close the gap.
-![Kilometer Pace](/assets/jpg/run-20220125.jpeg)
+
+#### Fun with Friends
+![Run Crew](crew-20220125.jpeg)
 
 <!---->
 ## WEDNESDAY JAN 26
