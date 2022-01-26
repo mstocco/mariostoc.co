@@ -81,19 +81,19 @@ Pm: Run 50-60 minutes w/ your buddies.
 ### NOTES
 Total Time: **76 Minutes** &nbsp; Run: **9 km**
 
-To compliment my nap [yesterday](javascript:flick('mon');), I slept in this morning.  
+To compliment my nap [yesterday](javascript:flick('mon');), I slept in this morning.  Rollers (easy but steady) before coffee and then off to work.
 
-Rollers (easy but steady) before coffee and then off to work.
-
-The Tuesday Run Crew was the same as [last week](ironman2022-32weeksout?tue) but the route today was hillier; it was up and over _Craigflower Hill_, then up the hill by the _Four Mile Pub_ and the hills of _Helmcken Road_.
+#### Fun with Friends
+![Run Crew](/assets/jpg/crew-20220125.jpeg)
 <!---->
+The Tuesday Run Crew was the same as [last week](ironman2022-32weeksout?tue) but the route today was **hillier**; it was up and over _Craigflower Hill_, then up the hill by the _Four Mile Pub_ and the hills of _Helmcken Road_.
+
 #### Pace and Elevation
 ![Kilometer Pace](/assets/jpg/run-20220125.jpeg)
 
-Things played out similar to last week too; I **struggled** to keep pace with my buddies over the bulk of the run; noticed on the uphill and downhills too.  As we neared the end, I moved to the front for the last 800m; the pace quickened, I finished with a **strong answer** to Vincent's attempt close the gap I had opened.
+Things played out similar to last week too; I **struggled** to keep pace with my buddies over the bulk of the run; more so on the hills both up and down.
 
-#### The Tuesday Night Crew
-![Run Crew](/assets/jpg/crew-20220125.jpeg)
+As we neared the end, I moved to the front for the last 800m; the pace quickened, I finished with a **strong answer** to Vincent's attempt close the gap I had opened.
 
 <!---->
 ## WEDNESDAY JAN 26
