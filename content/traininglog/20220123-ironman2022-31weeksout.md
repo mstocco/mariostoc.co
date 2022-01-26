@@ -54,11 +54,15 @@ Walk 20-30 minutes.
 ### NOTES
 Total Time: **60 Minutes** &nbsp; Swim: **2300m**
 
-Cold ride to the pool this morning.  Legs felt on the tired side, even though I had an ok sleep.  Pecks and shoulders felt tired once in the pool too (from the [mountain biking](ironman2022-32weeksout?sat)).  I am noticing the bruised vast less and less.
+Cold ride to the pool this morning.  Legs (quads) felt on the tired side, even though I had an ok sleep.  I am noticing the bruised left vast less and less.
 
+Pecks and shoulders felt tired once in the pool too (from the [mountain biking](ironman2022-32weeksout?sat)).  
+<!---->
 This swim was more of a _"see it through"_ kind of workout in that things never felt relaxed and easy; almost like every length I had a moment where I was checking in with myself to _"stay on point"_.  The paddle fist lengths were okay, the shark-fin lengths felt awkward this morning.
 
-After work, I had an honest nap.
+Later in the afternoon (after work), I had an honest to goodness nap.
+
+![](/assets/jpg/image.jpeg)
 
 <!---->
 ## TUESDAY JAN 25 ⛅️
@@ -72,7 +76,9 @@ Pm: Run 50-60 minutes w/ your buddies.
 ### NOTES
 Total Time: **76 Minutes** &nbsp; Run: **9 km**
 
-To compliment my nap [yesterday](javascript:flick('mon');), I slept in this morning.  Rollers (easy but steady) before coffee and then off to work.
+To compliment my nap [yesterday](javascript:flick('mon');), I slept in this morning.  
+
+Rollers (easy but steady) before coffee and then off to work.
 
 #### Pace and Elevation
 ![Kilometer Pace](/assets/jpg/run-20220125.jpeg)
@@ -82,7 +88,7 @@ Tuesday run crew was the same as [last week](ironman2022-32weeksout?tue) but the
 Things played out similar to last week too; I **struggled** to keep pace with my buddies over the bulk of the run, moved to the front for the last 800m, and as the pace quickened, I finished with a **strong answer** to Vincent's attempt close the gap.
 
 #### Fun with Friends
-![Run Crew](crew-20220125.jpeg)
+![Run Crew](/assets/jpg/crew-20220125.jpeg)
 
 <!---->
 ## WEDNESDAY JAN 26
