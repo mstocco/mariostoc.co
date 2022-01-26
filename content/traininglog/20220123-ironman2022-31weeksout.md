@@ -70,9 +70,11 @@ Rollers ~ 20-25 minutes easy spinning to start the day.
 Pm: Run 50-60 minutes w/ your buddies.
 
 ### NOTES
-Total Time: **25 Minutes**
+Total Time: **25 Minutes** &nbsp; Run: **9 km**
 
-To compliment my nap yesterday, this morning I slept in.  Rollers before coffee and then off to work.
+To compliment my nap yesterday, this morning I slept in.  Rollers (easy but steady) before coffee and then off to work.
+
+Tuesday run crew was the same as ![last week](ironman2022-32weeksout?tue) but the route today was hillier.  Things played out similar to last week too; I **struggled** to keep pace with my buddies over the bulk of the run, moved to the front for the last 800m, and as the pace quickened, I finished with a **strong answer** to Vincent's attempt close the gap.
 
 <!---->
 ## WEDNESDAY JAN 26
