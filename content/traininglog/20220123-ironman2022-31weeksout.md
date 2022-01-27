@@ -113,10 +113,11 @@ Ride 80 minutes:
 Mobility 30 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **80 Minutes** &nbsp; Ride: **Road Bike/Rollers**
 
 Another good sleep though I can still feel a bit of fatigue in my thighs.  My bruised left vast is healing (only slightly sore to the touch, full range of motion).
 
+After a long day at work, I jumped on the rollers and had a focused and productive time on my bike with an extra push nearing the end of the last 4 minute effort.
 <!---->
 ## THURSDAY JAN 27 ☀️
 Sleep **5** | Fatigue **5** | Stress **4** | Soreness **2**
