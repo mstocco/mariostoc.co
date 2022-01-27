@@ -144,7 +144,9 @@ This morning's swim felt like a better workout than [Monday](javascript:flick('m
 
 ---
 
-It was a cold (0°C) and foggy ride to the pool this morning.  I was there just as the staff unlocked the doors at 0530.  I could feel the workout on the rollers from [last night](javascript:flick('wed');) too.  On the ride home, the fog receded past the shoreline to reveal a spectacularly clear sky, with Venus, Mars and a bright quarter moon shining accenting its dawn colours.
+It was a cold (0°C) and foggy ride to the pool this morning.  I certainly felt the workout on the rollers [last night](javascript:flick('wed');) in my legs this morning.  I arrived just as the staff unlocked the doors at 0530.
+
+On the ride home, the fog receded past the shoreline to reveal a spectacularly clear sky, with Venus, Mars and a bright quarter moon shining accenting its dawn colours.
 
 <!---->
 ## FRIDAY JAN 28
