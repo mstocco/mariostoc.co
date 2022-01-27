@@ -99,7 +99,7 @@ As we neared the end, I moved to the front for the last 800m; the pace quickened
 
 <!---->
 ## WEDNESDAY JAN 26
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **2** | Fatigue **4** | Stress **4** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -109,16 +109,17 @@ Ride 80 minutes:
 6x :30 HighER cadence, :30 easy. 4 minutes easy. 
 6x 4:00 @ 30-45 minute TT effort, 3:00 EASY spin after each. 
 3 extra minutes easy to cool down. 
+
 Mobility 30 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Another good sleep though I can still feel a bit of fatigue in my thighs.  My bruised left vast is healing (only slightly sore to the touch, full range of motion).
 
 <!---->
-## THURSDAY JAN 27
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY JAN 27 ☀️
+Sleep **5** | Fatigue **5** | Stress **4** | Soreness **2**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -132,9 +133,11 @@ Swim 2300:
 Walk 20-30 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **59 Minutes** &nbsp; Swim: **2300m**
 
-&mdash;  
+Not the best night of sleep as I was half awake in anticipation for the early morning swim alarm.  I rode to and from the pool in the cold 0°C windless.  It was foggy on the ride to the pool and spectacularly clear, with Venus and a bright quarter moon shining for the ride back.
+
+This was a better workout in the water than [Monday](javascript:flick('mon');).
 
 <!---->
 ## FRIDAY JAN 28
