@@ -113,7 +113,7 @@ Ride 80 minutes:
 Mobility 30 minutes
 
 ### NOTES
-Total Time: **80 Minutes** &nbsp; Ride: **Road Bike/Rollers**
+Total Time: **80 Minutes** <br />Ride Combo: **Road Bike/Rollers**
 
 Another good sleep though I can still feel a bit of fatigue in my thighs.  My bruised left vast is healing (only slightly sore to the touch, full range of motion).
 
