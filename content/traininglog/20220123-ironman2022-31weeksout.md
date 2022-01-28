@@ -150,8 +150,8 @@ It was a cold (0°C) and foggy ride to the pool this morning.  My legs certainly
 On the ride home, the fog receded past the shoreline to reveal a spectacularly clear sky, with Venus, Mars and a bright quarter moon accenting the dawn colours.
 
 <!---->
-## FRIDAY JAN 28
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY JAN 28 ☀️
+Sleep **4** | Fatigue **4** | Stress **5** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -162,7 +162,7 @@ Run 30 minutes. Nice and easy. Saving some energy for a possible Saturday with a
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Slept better last night but maybe a bit late getting into bed.  It was straight to work this morning too so...
 
 <!---->
 ## SATURDAY JAN 29
@@ -170,7 +170,14 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Swim 1800: 
+2 rounds (100 easy free, 2x 50 steady kick. Rest as needed)
+4 rounds (50 as 25 fist drill/25 swim w/ strong finish to stroke, 50 as 25 fist drill/25 build to strong, 50 easy. R :20 after each) 
+700 continuous/aerobic w/ a nice steady rhythm. Rest as needed. 
+2x 50 super easy to stretch out and cool down. 
+
+Ride 2:00. On the MTB. Stay warm. Bring more food than you think. Bring at least 500 calories when you leave the house. 
+Stay hydrated. Even if it's cold and wet!
 
 ### NOTES
 Total Time: **0 Minutes**
