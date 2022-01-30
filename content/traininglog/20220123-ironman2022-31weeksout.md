@@ -196,6 +196,7 @@ I think Elliot wrote today with the idea of me doing the swim first.  50m length
 <!---->
 For today's ride, I headed on up _Highland Road_, continuing off the pavement to _Munn Road_ before finding my way into the south end of _Mount Work Park_.  That gave me 46 minutes of steady, mostly uphill riding before hitting some single track.  In the park, I discovered a couple of _"new to me"_ trails that were in my comfort zone, and some of _Second Avenue_ (fire road) too.  I exited the park using _Executive West_ but not before exploring _BFF_ to _Kilarney Lake_ first.
 
+#### MIXED SURFACE ROUTE
 ![Bike](/assets/jpg/bike-20220129.jpeg)
 <!---->
 During the ride, I finished a 90g bottle of lemonade and the last of my _Maynards_ stash from last season.  Extra water was in my camel back.  I **felt pretty good** on the roads (and trails) leading to home; this was a fun route with a bit of everything.
@@ -205,8 +206,6 @@ Later at the pool, I felt the burn in my legs during the kick set but really goo
 ![Swim](/assets/jpg/swim-20220129.jpeg)
 Actually, swimming in the afternoon, even after a 2 hour ride worked out as Carina was able to come to the pool with me and we had a whole lane to ourselves.
 
-
-
-I took Carina to _Eva's_ for an early dinner afterwards.  I was hungry.
+I took Carina to _Eva's_ for a well earned dinner.
 
 
