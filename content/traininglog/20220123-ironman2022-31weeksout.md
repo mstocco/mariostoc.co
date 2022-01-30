@@ -7,12 +7,15 @@ Week beginning [Sunday, January 23, 2022](javascript:flick('sun');)
 Put together another week of building base and focus on mobility.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total SBR Time: **10 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **BUILDING**
 
-&mdash;
+On one hand, a bump in duration came this week with an extra swim on [Saturday](javascript:flick('sat');) and I handled that little bit extra well.  On the other hand, I didn't get the goal of doing my mobility and supplemental walking in.  So...  Good week but not a perfect week.
+
+Highlight sessions both came on the bike with the indoor workout on [Wednesday Evening]javascript:flick('wed'); and on/off road route with the new MTB on [Saturday Morning](javascript:flick('sat');)
+
+Weather was dry with below seasonal temperatures.
 
 ![A cool, foggy day to start the week.](/assets/jpg/IMG_3985-977x550.jpeg THETIS COVE, VIEW ROYAL, BC)
 
@@ -166,7 +169,7 @@ Slept better last night but maybe a bit late getting into bed.  It was straight 
 
 <!---->
 ## SATURDAY JAN 29
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **2**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -180,6 +183,15 @@ Ride 2:00. On the MTB. Stay warm. Bring more food than you think. Bring at least
 Stay hydrated. Even if it's cold and wet!
 
 ### NOTES
-Total Time: **0 Minutes**
+Ride Elevation: **~500m** &nbsp; Swim: **1800m**
+Total Time: **0 Minutes** 
 
-&mdash;
+**Big Day**.  I Elliot wrote this with the intention of doing the swim first but I ended up flipping the order as 50m length swimming at _Crystal Pool_ started at 1530 in the afternoon (no morning lengths).  Actually, swimming in the afternoon, even after a 2 hour ride worked out as Carina was able to come to the pool with me and we had a whole lane to ourselves.
+
+For today's ride, I headed on up _Highland Road_, continuing off the pavement to _Munn Road_ before finding my way into the south end of _Mount Work Park_.  That gave me 46 minutes of steady, mostly uphill riding before hitting some single track.  In the park, I discovered a couple of _"new to me"_ trails that where in my comfort zone, and some of _Second Avenue_ (fire road) too.  I exited the park using _Executive West_ but not before exploring _BFF_ to _Kilarney Lake_ first.
+
+During the ride, I finished a 90g bottle of lemonade and the last of my _Maynards_ stash from last season.  Extra water was in my camel back.  I **felt pretty good** on the roads (and trails) leading to home; this was a fun route with a bit of everything.
+
+Later at the pool, I felt the burn in my legs during the kick set but really good otherwise.  I paced the 700m evenly and had enough for a **comfortable** 1:51 final 100m.
+
+I took Carina to _Eva's_ for an early dinner afterwards.  I was hungry.
