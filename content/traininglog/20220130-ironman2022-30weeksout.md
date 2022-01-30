@@ -17,7 +17,7 @@ I feel like I was...
 ![](/assets/jpg/II-9x550.jpeg)
 
 ## SUNDAY JAN 30 🌧
-Sleep **5** | Fatigue **4** | Stress **4** | Soreness **5**
+Sleep **5** | Fatigue **5** | Stress **4** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -29,7 +29,8 @@ Mobility 30 minute
 ### NOTES
 Total Time: **0 Minutes**
 
-Not the best sleep and my lumber is tight this morning.
+Not the best sleep and my lumber is tight this morning.  Actually I am feeling a bit smoked from [yesterday](ironman2022-31weeksout?sat).
+
 
 
 <!---->

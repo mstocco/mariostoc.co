@@ -13,9 +13,9 @@ I feel like I was **BUILDING**
 
 On one hand, a bump in duration came this week with an extra swim on [Saturday](javascript:flick('sat');) and I handled that little bit extra well.  On the other hand, I didn't get the goal of doing my mobility and supplemental walking in.  So...  Good week but not a perfect week.
 
-Highlight sessions both came on the bike with the indoor workout on [Wednesday Evening]javascript:flick('wed'); and on/off road route with the new MTB on [Saturday Morning](javascript:flick('sat');)
+Highlight sessions both came on the bike with the indoor workout on [Wednesday Evening](javascript:flick('wed'); and on/off road route with the new MTB on [Saturday Morning](javascript:flick('sat');)
 
-Weather was dry with below seasonal temperatures.
+Mostly dry with below seasonal temperatures.
 
 ![A cool, foggy day to start the week.](/assets/jpg/IMG_3985-977x550.jpeg THETIS COVE, VIEW ROYAL, BC)
 
@@ -163,9 +163,12 @@ Rollers ~ 20-30 minutes easy to start the day.
 Run 30 minutes. Nice and easy. Saving some energy for a possible Saturday with a swim and bike. 
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **36 Minutes** &nbsp; Distance: **6 km**
 
 Slept better last night but maybe a bit late getting into bed.  It was straight to work this morning too so...
+The ~20-30 rollers was a miss. 
+
+The easy jog at the end of the day was not and I was able to do an easy lap of the _Lower Gorge_.  I ran into a neighbour early into the activity and I didn't stop my watch; moving time was 36 minutes vs activity time of 41:30.
 
 <!---->
 ## SATURDAY JAN 29
@@ -183,10 +186,12 @@ Ride 2:00. On the MTB. Stay warm. Bring more food than you think. Bring at least
 Stay hydrated. Even if it's cold and wet!
 
 ### NOTES
-Ride Elevation: **~500m** &nbsp; Swim: **1800m**
-Total Time: **0 Minutes** 
+Ride Elevation: **~500m** &nbsp; Swim: **1800m**   
+Total Time: **160Minutes** 
 
-**Big Day**.  I Elliot wrote this with the intention of doing the swim first but I ended up flipping the order as 50m length swimming at _Crystal Pool_ started at 1530 in the afternoon (no morning lengths).  Actually, swimming in the afternoon, even after a 2 hour ride worked out as Carina was able to come to the pool with me and we had a whole lane to ourselves.
+I think Elliot wrote today with the intention of me doing the swim first but I ended up flipping the order as 50m length swimming at _Crystal Pool_ started at 1530 in the afternoon (no morning lengths).
+<!---->
+Actually, swimming in the afternoon, even after a 2 hour ride worked out as Carina was able to come to the pool with me and we had a whole lane to ourselves.
 
 For today's ride, I headed on up _Highland Road_, continuing off the pavement to _Munn Road_ before finding my way into the south end of _Mount Work Park_.  That gave me 46 minutes of steady, mostly uphill riding before hitting some single track.  In the park, I discovered a couple of _"new to me"_ trails that where in my comfort zone, and some of _Second Avenue_ (fire road) too.  I exited the park using _Executive West_ but not before exploring _BFF_ to _Kilarney Lake_ first.
 
