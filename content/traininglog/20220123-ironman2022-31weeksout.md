@@ -13,7 +13,7 @@ I feel like I was **BUILDING**
 
 On one hand, a bump in duration came this week with an extra swim on [Saturday](javascript:flick('sat');) and I handled that little bit extra well.  On the other hand, I didn't get the goal of doing my mobility and supplemental walking in.  So...  Good week but not a perfect week.
 
-Highlight sessions both came on the bike with the indoor workout on [Wednesday Evening](javascript:flick('wed'); and on/off road route with the new MTB on [Saturday Morning](javascript:flick('sat');)
+Highlight sessions both came on the bike with the indoor workout on [Wednesday Evening](javascript:flick('wed');) and on/off road route with the new MTB on [Saturday Morning](javascript:flick('sat');)
 
 Mostly dry with below seasonal temperatures.
 
@@ -168,7 +168,9 @@ Total Time: **36 Minutes** &nbsp; Distance: **6 km**
 Slept better last night but maybe a bit late getting into bed.  It was straight to work this morning too so...
 The ~20-30 rollers was a miss. 
 
-The easy jog at the end of the day was not and I was able to do an easy lap of the _Lower Gorge_.  I ran into a neighbour early into the activity and I didn't stop my watch; moving time was 36 minutes vs activity time of 41:30.
+The easy jog at the end of the day was not and I was able to do an easy lap of the _Lower Gorge_.
+
+I ran into a neighbour early into the activity and I didn't stop my watch; moving time was 36 minutes vs activity time of 41:30.
 
 <!---->
 ## SATURDAY JAN 29
@@ -187,9 +189,9 @@ Stay hydrated. Even if it's cold and wet!
 
 ### NOTES
 Ride Elevation: **~500m** &nbsp; Swim: **1800m**   
-Total Time: **160Minutes** 
+Total Time: **160Minutes**
 
-I think Elliot wrote today with the intention of me doing the swim first but I ended up flipping the order as 50m length swimming at _Crystal Pool_ started at 1530 in the afternoon (no morning lengths).
+I think Elliot wrote today with the idea of me doing the swim first.  I ended up flipping the order; 50m length swimming at _Crystal Pool_ started in the afternoon at 1530 (no morning lengths).
 <!---->
 Actually, swimming in the afternoon, even after a 2 hour ride worked out as Carina was able to come to the pool with me and we had a whole lane to ourselves.
 
@@ -198,5 +200,8 @@ For today's ride, I headed on up _Highland Road_, continuing off the pavement to
 During the ride, I finished a 90g bottle of lemonade and the last of my _Maynards_ stash from last season.  Extra water was in my camel back.  I **felt pretty good** on the roads (and trails) leading to home; this was a fun route with a bit of everything.
 
 Later at the pool, I felt the burn in my legs during the kick set but really good otherwise.  I paced the 700m evenly and had enough for a **comfortable** 1:51 final 100m.
-
+<!---->
+![Swim](/assets/jpg/swim-20220129.jpeg)
 I took Carina to _Eva's_ for an early dinner afterwards.  I was hungry.
+
+![Bike](/assets/jpg/image.jpeg)
