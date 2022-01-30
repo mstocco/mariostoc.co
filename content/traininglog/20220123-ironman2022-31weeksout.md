@@ -198,7 +198,7 @@ Actually, swimming in the afternoon, even after a 2 hour ride worked out as Cari
 
 For today's ride, I headed on up _Highland Road_, continuing off the pavement to _Munn Road_ before finding my way into the south end of _Mount Work Park_.  That gave me 46 minutes of steady, mostly uphill riding before hitting some single track.  In the park, I discovered a couple of _"new to me"_ trails that were in my comfort zone, and some of _Second Avenue_ (fire road) too.  I exited the park using _Executive West_ but not before exploring _BFF_ to _Kilarney Lake_ first.
 
-![Bike](/assets/jpg/20220129.jpeg)
+![Bike](/assets/jpg/bike-20220129.jpeg)
 <!---->
 During the ride, I finished a 90g bottle of lemonade and the last of my _Maynards_ stash from last season.  Extra water was in my camel back.  I **felt pretty good** on the roads (and trails) leading to home; this was a fun route with a bit of everything.
 
