@@ -174,7 +174,7 @@ MTB Moving Time: **99 Minutes**
 
 Weather was sunny but cool(er).  Carina and I pedalled to _The Nest_ for a latte.  I pressed start on the ride after that and headed up the hill.
 
-Unlike [last Saturday](ironman2022-3weeksout?sat), I decided to veer off the fire road and take on some single track.  I hadn't ridden on a proper MTB trial since November and there was some rust.  I rode _"Comfy Wooden Chair"_ first (very familiar to me) before making my way to  _"Electric Avenue"_ (ridden once last year).  This let me explore and ride _"Electric Light"_ back into _Thetis Regional Park_.
+Unlike [last Saturday](ironman2022-33weeksout?sat), I decided to veer off the fire road and take on some single track.  I hadn't ridden on a proper MTB trial since November and there was some rust.  I rode _"Comfy Wooden Chair"_ first (very familiar to me) before making my way to  _"Electric Avenue"_ (ridden once last year).  This let me explore and ride _"Electric Light"_ back into _Thetis Regional Park_.
 <!---->
 
 ### A fun ride but...
