@@ -27,14 +27,17 @@ Run 85 minutes. Easy effort. On dirt/trails for at least half of the run.
 Mobility 30 minutes
 
 ### NOTES
-Total Time: **75 Minutes**
+Total Time: **75 Minutes** &nbsp; Distance: **12 km**
 
 Not the best sleep and my lumber is tight this morning.  Actually I am feeling a bit smoked from [yesterday](ironman2022-31weeksout?sat).
 
-Heavy rain when I headed out the door.  I had intended to complete 4 laps of _Swan Lake_ to check the dirt/trail box for this run.  The trail was sloppy/slick with decomposing leaves on portions.  Midway through the third lap, I ran into my dear friend [Lincoln](https://www.shlensky.com) and his family who were also out enjoying the trail.  We haven't seen each other in many years and I had zero hesitation to stop my watch and take the moment to catch up.
+Heavy rain when I headed out the door.  I had intended to complete 4 laps of _Swan Lake_ to check off the box for _"dirt/trail"_.  Portions of the trail were very sloppy/slick because of wet decomposing leaves.  Today was easy effort and even easier on those slippery sections.
 
-Once I got going again, I ran to the south end of the trail before hoping on the bike path back home.  This was more like 2 short runs and I was 10 minutes short on the scheduled run time.  I was feeling pretty knackered and probably got enough stimulation for the weekend.
- 
+<!---->
+Midway through the third lap, I ran into my dear friend [Lincoln](https://www.shlensky.com) and his family who were also out enjoying the trail.  We haven't seen each other in many years and I had zero hesitation to stop my watch and take the moment to catch up.
+
+Once I got going again, I ran to the south end of the trail before hoping on the bike path back home.  This was more like 2 short runs and overall, I was 10 minutes short on the scheduled run time.  I was feeling pretty knackered and probably got enough stimulation for the weekend.
+
 <!---->
 ## MONDAY JAN 31 🌤
 Sleep **4** | Fatigue **5** | Stress **4** | Soreness **5**
@@ -54,7 +57,7 @@ Walk 20-30 minutes to stretch the legs.
 ### NOTES
 Total Time: **45 Minutes** &nbsp; **Swim: 1900m**
 
-I could feel my triceps on the warmup lengths this morning but eventually settled into getting some work done.  I had lane congestion to deal with during the 15x50m set and was starting to fade at the end.  I did an extra 50m on the cooldown because it seemed like a better idea that getting out of the pool at the far end and walking.
+It was tired triceps during the warmup lengths this morning but eventually, I settled into getting some work done.  I had lane congestion to deal with during the 15x50m set and was starting to fade at the end.  Added an extra 50m on the cooldown; seemed like a better idea than walking back from the far end.
 
 <!---->
 ## TUESDAY FEB 1
