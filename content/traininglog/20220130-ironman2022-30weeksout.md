@@ -29,7 +29,7 @@ Mobility 30 minutes
 ### NOTES
 Total Time: **75 Minutes** &nbsp; Distance: **12 km**
 
-Not the best sleep and my lumber is tight this morning.  Actually I am feeling a bit smoked from the ride and swim[yesterday](ironman2022-31weeksout?sat).
+Not the best sleep and my lumber is tight this morning.  Actually I am feeling a bit smoked from the ride and swim [yesterday](ironman2022-31weeksout?sat).
 
 Heavy rain when I headed out the door.  I had intended to complete 4 laps of _Swan Lake_ to check off the box for _"dirt/trail"_.  Portions of the trail were very sloppy/slick because of wet decomposing leaves.  Today was easy effort and even easier on those slippery sections.
 
