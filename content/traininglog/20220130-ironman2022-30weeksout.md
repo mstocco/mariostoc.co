@@ -60,8 +60,8 @@ Total Time: **45 Minutes** &nbsp; **Swim: 1900m**
 It was tired triceps during the warmup lengths this morning but eventually, I settled into getting some work done.  I had lane congestion to deal with during the 15x50m set and was starting to fade at the end.  Added an extra 50m on the cooldown; seemed like a better idea than walking back from the far end.
 
 <!---->
-## TUESDAY FEB 1
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY FEB 1 ☀️
+Sleep **4** | Fatigue **4** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -70,9 +70,11 @@ Rollers ~ 20-30 minutes.
 Pm: Run w/ buddies. About 9k. Easy to start....a bit of a pickup to finish over the last few K's.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **97 Minutes** &nbsp; Run: **11.6 km**
 
-&mdash;  
+I worked late last night and was back at it early this morning.  Thus the morning rollers became an excuse to spin the legs after the run.  It was on the rollers and a bit wobbly to start too.
+
+Vincent wanted to go a bit further than last week so our route was over _Lampson_ all the way to _Saxe Point_.  I wasn't comfortable until around 6km but then I found a bit of a groove.  It could have been the sugar from the lemonade that I packed with me (50g in 500ml).  Last ~250m was a strong, uphill finish (~40 second kick not really contested this week).
 
 <!---->
 ## WEDNESDAY FEB 2
