@@ -80,8 +80,8 @@ I worked late last night and was back at it early this morning.  Thus the mornin
 Vincent wanted to go a bit further than last week so our route was over _Lampson_ all the way to _Saxe Point_.  I wasn't comfortable until around 6km but then I found a bit of a groove.  It could have been the sugar from the lemonade that I packed with me (50g in 500ml).  Last ~250m was a strong, uphill finish (~40 second kick not really contested this week).
 
 <!---->
-## WEDNESDAY FEB 2
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY FEB 2 🌧
+Sleep **2** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -97,7 +97,7 @@ Mobility 27 minutes
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Restful sleep last night; right ankle (anterior) and pelvis are stiff (expected after [yesterday](javascript:('tue');)).
 
 <!---->
 ## THURSDAY FEB 3
