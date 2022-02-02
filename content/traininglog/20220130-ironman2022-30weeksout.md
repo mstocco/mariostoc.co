@@ -29,15 +29,18 @@ Mobility 30 minutes
 ### NOTES
 Total Time: **75 Minutes** &nbsp; Distance: **12 km**
 
-Not the best sleep and my lumber is tight this morning.  Actually I am feeling a bit smoked from [yesterday](ironman2022-31weeksout?sat).
+Not the best sleep and my lumber is tight this morning.  Actually I am feeling a bit smoked from the ride and swim[yesterday](ironman2022-31weeksout?sat).
 
 Heavy rain when I headed out the door.  I had intended to complete 4 laps of _Swan Lake_ to check off the box for _"dirt/trail"_.  Portions of the trail were very sloppy/slick because of wet decomposing leaves.  Today was easy effort and even easier on those slippery sections.
 
+The rain stopped, some blue sky appeared as if something good was about to happen...
 <!---->
-Midway through the third lap, I ran into my dear friend [Lincoln](https://www.shlensky.com) and his family who were also out enjoying the trail.  We haven't seen each other in many years and I had zero hesitation to stop my watch and take the moment to catch up.
+Midway through the third lap, I ran into my dear friend [Lincoln](https://www.shlensky.com) and his family who were also out enjoying the trail.  We haven't seen each other in many years and I had zero hesitation to stop my watch and take the moment to catch up.  Seeing him, Caren and their children really made my day. 
 
 Once I got going again, I ran to the south end of the trail before hoping on the bike path back home.  This was more like 2 short runs and overall, I was 10 minutes short on the scheduled run time.  I was feeling pretty knackered and probably got enough stimulation for the weekend.
 
+#### Swan Lake Laps
+![Run Map](/assets/jpg/image.jpeg)
 <!---->
 ## MONDAY JAN 31 🌤
 Sleep **4** | Fatigue **5** | Stress **4** | Soreness **5**
