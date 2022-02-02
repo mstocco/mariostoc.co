@@ -40,7 +40,7 @@ Midway through the third lap, I ran into my dear friend [Lincoln](https://www.sh
 Once I got going again, I ran to the south end of the trail before hoping on the bike path back home.  This was more like 2 short runs and overall, I was 10 minutes short on the scheduled run time.  I was feeling pretty knackered and probably got enough stimulation for the weekend.
 
 #### Swan Lake Laps
-![Run Map](/assets/jpg/image.jpeg)
+![Run Map](/assets/jpg/run-20220130.jpeg)
 <!---->
 ## MONDAY JAN 31 🌤
 Sleep **4** | Fatigue **5** | Stress **4** | Soreness **5**
