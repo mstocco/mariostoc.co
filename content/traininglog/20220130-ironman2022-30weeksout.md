@@ -99,11 +99,12 @@ Total Time: **85 Minutes** &nbsp; Ride: **road bike/rollers**
 
 Restful sleep last night; right ankle (anterior) and pelvis are stiff (expected after [yesterday](javascript:('tue');)).
 
-Ride expressed in heart-rate (BPM) ![BPM](/assets/jpg/bike-20220202.jpeg)
+#### RIDE BPM CHART
+![BPM](/assets/jpg/bike-20220202.jpeg)
 
 <!---->
 ## THURSDAY FEB 3
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -117,9 +118,9 @@ _Optional Spin to/from the pool._
 Mobility
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **80 Minutes** &nbsp; Swim: **2200m**
 
-&mdash;  
+Looking at the numbers, the 12 x 100m set, I felt like I was swimming stronger than the 1:55/100 average.  Regardless, the key might be that I was able to reproduce those times over 12 reps where maybe in the past, those times might have been sustainable for half that.  Regardless, I had a good swim this morning with little lane congestion.
 
 <!---->
 ## FRIDAY FEB 4
