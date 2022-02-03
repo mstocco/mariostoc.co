@@ -120,7 +120,9 @@ Mobility
 ### NOTES
 Total Time: **80 Minutes** &nbsp; Swim: **2200m**
 
-Looking at the numbers, the 12 x 100m set, I felt like I was swimming stronger than the 1:55/100 average.  Regardless, the key might be that I was able to reproduce those times over 12 reps where maybe in the past, those times might have been sustainable for half that.  Regardless, I had a good swim this morning with little lane congestion.
+Looking at the numbers, the 12 x 100m set, I felt like I was swimming stronger than the 1:55/100 average.  I was able to reproduce those times over 12 reps where maybe in the past, those times might have been sustainable for only half of those reps.
+
+Regardless, I had a good swim this morning with little lane congestion.
 
 <!---->
 ## FRIDAY FEB 4
