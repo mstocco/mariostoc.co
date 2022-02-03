@@ -95,9 +95,11 @@ Ride 85 minutes:
 Mobility 27 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **85 Minutes** &nbsp; Ride: **road bike/rollers**
 
 Restful sleep last night; right ankle (anterior) and pelvis are stiff (expected after [yesterday](javascript:('tue');)).
+
+Ride expressed in heart-rate (BPM) ![BPM](/assets/jpg/bike-20220202.jpeg)
 
 <!---->
 ## THURSDAY FEB 3
