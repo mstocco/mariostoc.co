@@ -11,12 +11,20 @@ class CalendarMonth(DIV):
 	    in the build toward Ironman Canada.
 	"""
 	def __init__(self, yyyy, mm):
-		specialDates = []
-		specialDates.append(date(2022,8,28))    # IRONMAN Canada 2022
-		specialDates.append(date(2022,5,29))    # Victoria 70.3
-		specialDates.append(date(2022,7,17))    # Victoria Half and Sprint
 
-		imc = specialDates[0]	# IronMan Canada
+		triathlons = []
+		triathlons.append(date(2022,8,28))    # IRONMAN Canada 2022
+		triathlons.append(date(2022,5,29))    # Victoria 70.3
+		triathlons.append(date(2022,7,17))    # Victoria Half and Sprint
+
+		keydates = []
+		keydates.append(date(2022,4,24))	# TC10K
+		keydates.append(date(2022,5,15))	# Westwood Lake Triathlon
+		keydates.append(date(2022,7,3))		# Cowichan Challenge
+		keydates.append(date(2022,7,10))	# XTerra Victoria
+		keydates.append(date(2022,7,31))	# Elk Lake Triathlon
+
+		imc = triathlons[0]	# IronMan Canada
 		imitaly = date(2021,9,18)
 		trainingStart = date(2021,10,10)
 
@@ -53,10 +61,14 @@ class CalendarMonth(DIV):
 				if calDate <= date.today():
 					if calDate < trainingStart:
 						style['style'] = '%s;color:#ddd;' % style['style']
+					elif calDate > date(2021,11,13) and calDate < date(2021,12,19):
+						style['style'] = '%s;color:orange;' % style['style']
 					else:
 						style['style'] = '%s;background-color:greenyellow;' % style['style']
-				if calDate in specialDates:
+				if calDate in triathlons:
 					style['style'] = '%s;font-weight:bold;text-decoration:underline;font-size:1.17em;background-color:#33B8FF;' % style['style']
+				elif calDate in keydates:
+					style['style'] = '%s;font-weight:bold;text-decoration:underline;font-size:1.17em;background-color:#BCE8FF;' % style['style']
 
 			td.style = style['style']
 			td.innerHTML = str(calDate.day)
@@ -84,7 +96,7 @@ class CalendarMonth(DIV):
 				tr.append(wk)
 
 			if calDate <= date.today():
-				if calDate in specialDates:
+				if calDate in triathlons:
 					qstr = calDate.strftime('%a').lower()
 					href = '%s?%s' % (href, qstr)
 				elif calDate == imitaly:
