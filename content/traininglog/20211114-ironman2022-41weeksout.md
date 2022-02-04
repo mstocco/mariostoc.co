@@ -7,101 +7,13 @@ Week beginning [Sunday, November 14, 2021](javascript:flick('sun');)
 &mdash;
 
 ## SUMMARY
-Total Time: **0 Hours**
+<mark> Total Time: **0 Hours** </mark>
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+This was a period that I was dealing with meeting a critical 
+timeline for a project at work and healing from a crash on my 
+mountain bike.
 
-&mdash;
+Although I have been getting the odd workout in, meaningful 
+consistent training (and writing things down) continues on 
+[Boxing Day](ironman2022-35weeksout).
 
-![](/assets/jpg/II-9x550.jpeg)
-
-## SUNDAY NOV 14
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
-
-### PLANNED WORKOUT
-&mdash;  
-
-### NOTES
-Total Time: **0 Minutes**
-
-&mdash;  
-
-<!---->
-## MONDAY NOV 15
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
-
-### PLANNED WORKOUT
-&mdash;  
-
-### NOTES
-Total Time: **0 Minutes**
-
-&mdash;  
-
-<!---->
-## TUESDAY NOV 16
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
-
-### PLANNED WORKOUT
-&mdash;  
-
-### NOTES
-Total Time: **0 Minutes**
-
-&mdash;  
-
-<!---->
-## WEDNESDAY NOV 17
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
-
-### PLANNED WORKOUT
-&mdash;  
-
-### NOTES
-Total Time: **0 Minutes**
-
-&mdash;  
-
-<!---->
-## THURSDAY NOV 18
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
-
-### PLANNED WORKOUT
-&mdash;  
-
-### NOTES
-Total Time: **0 Minutes**
-
-&mdash;  
-
-<!---->
-## FRIDAY NOV 19
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
-
-### PLANNED WORKOUT
-&mdash;  
-
-### NOTES
-Total Time: **0 Minutes**
-
-&mdash;  
-
-<!---->
-## SATURDAY NOV 20
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
-
-### PLANNED WORKOUT
-&mdash;  
-
-### NOTES
-Total Time: **0 Minutes**
-
-&mdash;  

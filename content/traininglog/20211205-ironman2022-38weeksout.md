@@ -7,101 +7,12 @@ Week beginning [Sunday, December 5, 2021](javascript:flick('sun');)
 &mdash;
 
 ## SUMMARY
-Total Time: **0 Hours**
+<mark> Total Time: **0 Hours** </mark>
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+This was a period that I was dealing with meeting a critical 
+timeline for a project at work and healing from a crash on my 
+mountain bike.
 
-&mdash;
-
-![](/assets/jpg/II-9x550.jpeg)
-
-## SUNDAY DEC 5
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
-
-### PLANNED WORKOUT
-&mdash;  
-
-### NOTES
-Total Time: **0 Minutes**
-
-&mdash;  
-
-<!---->
-## MONDAY DEC 6
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
-
-### PLANNED WORKOUT
-&mdash;  
-
-### NOTES
-Total Time: **0 Minutes**
-
-&mdash;  
-
-<!---->
-## TUESDAY DEC 7
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
-
-### PLANNED WORKOUT
-&mdash;  
-
-### NOTES
-Total Time: **0 Minutes**
-
-&mdash;  
-
-<!---->
-## WEDNESDAY DEC 8
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
-
-### PLANNED WORKOUT
-&mdash;  
-
-### NOTES
-Total Time: **0 Minutes**
-
-&mdash;  
-
-<!---->
-## THURSDAY DEC 9
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
-
-### PLANNED WORKOUT
-&mdash;  
-
-### NOTES
-Total Time: **0 Minutes**
-
-&mdash;  
-
-<!---->
-## FRIDAY DEC 10
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
-
-### PLANNED WORKOUT
-&mdash;  
-
-### NOTES
-Total Time: **0 Minutes**
-
-&mdash;  
-
-<!---->
-## SATURDAY DEC 11
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
-
-### PLANNED WORKOUT
-&mdash;  
-
-### NOTES
-Total Time: **0 Minutes**
-
-&mdash;  
+Although I have been getting the odd workout in, meaningful 
+consistent training (and writing things down) continues on 
+[Boxing Day](ironman2022-35weeksout).

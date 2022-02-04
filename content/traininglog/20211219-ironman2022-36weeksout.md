@@ -4,104 +4,23 @@ Week beginning [Sunday, December 19, 2021](javascript:flick('sun');)
 **36** weeks out from race day.
 
 ## WEEKLY GOAL
-&mdash;
+Get a bit of comfortable training in and enjoy a Merry Christmas!
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **6 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+Swim: **3700m** (Monday and Thursday)  
+Bike: **2:30** (very easy riding)  
+Run: **17 km** (Sunday and Tuesday)  
 
-&mdash;
+---
 
-![](/assets/jpg/II-9x550.jpeg)
+Feeling healed from a mountain bike crash in November and the 
+crazy times at work are (for now) behind me.
 
-## SUNDAY DEC 19
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+Although I have completed some workouts this week, meaningful 
+consistent training (and writing things down) begins 
+[next week](ironman2022-35weeksout)!
 
-### PLANNED WORKOUT
-&mdash;  
+![Carina has a new bike!](/assets/jpg/IMGXMAS21-977x550.jpeg CHRISTMAS DAY BIKE RIDE)
 
-### NOTES
-Total Time: **0 Minutes**
-
-&mdash;  
-
-<!---->
-## MONDAY DEC 20
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
-
-### PLANNED WORKOUT
-&mdash;  
-
-### NOTES
-Total Time: **0 Minutes**
-
-&mdash;  
-
-<!---->
-## TUESDAY DEC 21
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
-
-### PLANNED WORKOUT
-&mdash;  
-
-### NOTES
-Total Time: **0 Minutes**
-
-&mdash;  
-
-<!---->
-## WEDNESDAY DEC 22
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
-
-### PLANNED WORKOUT
-&mdash;  
-
-### NOTES
-Total Time: **0 Minutes**
-
-&mdash;  
-
-<!---->
-## THURSDAY DEC 23
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
-
-### PLANNED WORKOUT
-&mdash;  
-
-### NOTES
-Total Time: **0 Minutes**
-
-&mdash;  
-
-<!---->
-## FRIDAY DEC 24 - XMAS EVE
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
-
-### PLANNED WORKOUT
-&mdash;  
-
-### NOTES
-Total Time: **0 Minutes**
-
-&mdash;  
-
-<!---->
-## SATURDAY DEC 25 - XMAS DAY
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
-
-### PLANNED WORKOUT
-&mdash;  
-
-### NOTES
-Total Time: **0 Minutes**
-
-&mdash;  
