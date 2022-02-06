@@ -9,12 +9,11 @@ I am doing okay when I record another week like [last week](ironman2022-31weekso
 ## SUMMARY
 Total Time: **0 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **HANGING ON**
 
-&mdash;
+The key workouts of the week happened but [Friday](javascript:flick('fri');) (or lack thereof) may have been a tell that there is a slow build in training that Elliot and I are trying to achieve.
 
-![](/assets/jpg/II-9x550.jpeg)
+![I guess I zigged when I should have zagged but then I would not have seen this amazing place](/assets/jpg/IMG_3990-977x550.jpeg Lost in a forest, THETIS REGIONAL PARK)
 
 ## SUNDAY JAN 30 🌧
 Sleep **5** | Fatigue **5** | Stress **4** | Soreness **5**
@@ -126,7 +125,7 @@ Regardless, I had a good swim this morning with little lane congestion.
 
 <!---->
 ## FRIDAY FEB 4
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **4** | Fatigue **4** | Stress **4** | Soreness **6**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -136,17 +135,25 @@ Run 30 minutes EASY.
 _Nothing too hard. Saturdays are taking some serious time, so we don't want extra Friday stress._ 
 
 ### NOTES
-Total Time: **0 Minutes**
+<mark> Total Time: **0 Minutes** </mark>
 
-&mdash;  
+Two plates of spaghetti and a bit of dessert wasn't enough as I woke with a throbbing headache that stuck around all day.
 
 <!---->
 ## SATURDAY FEB 5
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **2** | Fatigue **2** | Stress **2** | Soreness **2**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Swim 2000: 
+3 rounds (100 easy free, 2x 50 swim w/ buoy. Rest as needed. Warming up) 
+9x 50 Gradual descend 1-3, 4-6, 7-9 as 1: Form focused, 2: 1/2 IM focus/effort, 3: Spring distance effort/focus. R :20 after each. 
+50 super easy. 
+4x 200 aerobic/steady w/ consistent turnover AND buoy. R :40 after each. 
+2x 50 easy to cool down.
+
+MTB ~ 2:00-2:15. Have fun. Single track is 100% ok, but probably no more than 50% of the ride should be single track. If you want to repeat last weeks ride, that would be good with me. General effort is easy/controlled. 
+*As usual, stay warm, stay hydrated, stay well fueled! This goes for the whole day. Not just the bike ride.
 
 ### NOTES
 Total Time: **0 Minutes**
