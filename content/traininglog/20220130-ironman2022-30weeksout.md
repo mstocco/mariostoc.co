@@ -7,7 +7,7 @@ Week beginning [Sunday, January 30, 2022](javascript:flick('sun');)
 I am doing okay when I record another week like [last week](ironman2022-31weeksout) and the [week before last](ironman2022-32weeksout).  I am winning when I get the mobility and extras done too!
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **~9.5 Hours**
 
 I feel like I was **HANGING ON**
 
@@ -140,7 +140,7 @@ _Nothing too hard. Saturdays are taking some serious time, so we don't want extr
 Two plates of spaghetti and a bit of dessert wasn't enough as I woke with a throbbing headache that stuck around all day.
 
 <!---->
-## SATURDAY FEB 5
+## SATURDAY FEB 5 ☁️
 Sleep **2** | Fatigue **2** | Stress **2** | Soreness **2**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -156,6 +156,10 @@ MTB ~ 2:00-2:15. Have fun. Single track is 100% ok, but probably no more than 50
 *As usual, stay warm, stay hydrated, stay well fueled! This goes for the whole day. Not just the bike ride.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **160 Minutes** &nbsp; Swim: **2000m**
 
-&mdash;  
+Rested or at least I didn't feel like I was bringing a week of fatigue into the day.  I started the ride in the opposite direction of [last Saturday](ironman2020-31weeksout?sat) but instead of riding up _Goward Road_, I rode up _Viaduct Avenue West_ to get to the fire roads.  This gave me about an hour of steady pressure on the pedals before taking on any single track.
+
+I found a southern connector to a trail called [Lighthouse Extension](javascript:flkty.select(2);) where I got myself turned around.  I lost a bit of pedal time while getting my bearing today but now know of another single option in this area.
+
+In the pool, I felt good from the first length.  There were more people using the facility this afternoon but nothing that effected me getting some work focused work in.  The hardest part was getting the 50m length times to agree with the prescribed effort.  I'm working on that. 
