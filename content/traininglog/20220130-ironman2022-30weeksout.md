@@ -164,7 +164,7 @@ Rested or at least I didn't feel like I was bringing a week of fatigue into the 
 <!---->
 I started the ride in the opposite direction of [last Saturday](ironman2020-31weeksout?sat) but instead of riding up _Goward Road_, I rode up _Viaduct Avenue West_ to get to the fire roads.  This gave me about an hour of steady pressure on the pedals before taking on any single track.
 
-I found a southern connector to a trail called [Lighthouse Extension](javascript:flkty.select(2);) where I got myself turned around.  I lost a bit of pedal time while getting my bearing today.  On the other hand, I now have another single track option in this area.
+I found a new (to me) trail called _Lighthouse Extension_ though I did get myself turned around [in the forest](javascript:flkty.select(2);).  I lost a bit of pedal time while getting my bearing today.
 ![map](/assets/jpg/bike-20220205.jpeg)
 Single track made up < %5 of the distance and maybe 15% of the moving time.      
 <span style="color:blue;">&#9679;</span> Comfy Wooden Chair   
