@@ -29,12 +29,14 @@ Mobility 26 minutes
 ### NOTES
 Total Time: **86 Minutes** &nbsp; **13 km**
 
-Good sleep last night.  Very odd niggle in my right ankle (odd because I haven't run since [last Tuesday](ironman2022-30weeksout?tue).  Worked on it with a compression band and by the afternoon, I forget there was even something there.
+Good sleep last night.  A niggle in my right ankle; why now?  I haven't run since [last Tuesday](ironman2022-30weeksout?tue).  Worked on it with a compression band and by the afternoon, I forget there was even something there.
+<!---->
+I headed out for the run later in the day, determined to get the goal from [last Sunday](ironman2022-30weeksout?sun) of four _continuous_ laps of _Swan Lake_ completed.  This was doable but based on the fatigue in my legs, it was going to be a slog.  
 
-I headed out for the run later in the day, determined to get the goal from [last Sunday](ironman2022-30weeksout?sun) of four _continuous_ laps of _Swan Lake_ completed.  This was doable but based on the fatigue in my legs, it was going to be a slog.  I had signs of comfort on the third lap and on the last leg of the fourth, I was feeling pretty good. 
+I had signs of comfort on the third lap and on the last leg of the fourth, I was feeling pretty good. 
 
 I noticed that a small blister formed on my right foot (behind the ball of my foot); that has not happened in a long time.
-
+![](/assets/jpg/image.jpeg)
 <!---->
 ## MONDAY FEB 7 🌦
 Sleep **3** | Fatigue **5** | Stress **3** | Soreness **5**
@@ -58,7 +60,7 @@ Total Time: **61 Minutes** &nbsp; Swim: **2400m**
 My **right ankle** is pretty lit up this morning; it's not happy bearing my full weight.
 
 After a banana, I got kitted up for the forecasted rain that didn't fall.  Steady to sweaty push on the 11 minute ride to the pool (Rocky Mountain).  I was warmed up before getting into the water.
-
+<!---->
 In the water, I noticed on the first 200m that my lats were tired.  I am pretty sure that is a _"good thing&trade;"_.
 
 When the 0615 swim club squeezed everyone into remaining lanes, things got pretty **congested**.  Normally, it doesn't take long for the reduced lanes to shake out into their respective abilities but this morning was different.  It was hard to leave on time during the 24x50m set and I had to find a balance between being assertive and understanding that it wasn't that long ago that I was the guy being crawled over.
