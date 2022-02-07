@@ -29,10 +29,10 @@ Mobility 26 minutes
 ### NOTES
 Total Time: **86 Minutes** &nbsp; **13 km**
 
-Good sleep last night.  A niggle in my right ankle; why now?  I haven't run since [last Tuesday](ironman2022-30weeksout?tue).  Worked on it with a compression band and by the afternoon, I forget there was even something there.
-<!---->
-I headed out for the run later in the day, determined to get the goal from [last Sunday](ironman2022-30weeksout?sun) of four _continuous_ laps of _Swan Lake_ completed.  This was doable but based on the fatigue in my legs, it was going to be a slog.  
+Despite a good sleep last night, I  have a niggle in my right ankle; why now?  I haven't run since [last Tuesday](ironman2022-30weeksout?tue).  I worked on it with a compression band and by the afternoon, I forget there was even something there.
 
+I headed out for the run late in the day, with the idea to get the [last Sunday](ironman2022-30weeksout?sun) run completed with four _continuous_ laps of _Swan Lake_.  Doable but based on the fatigue in my legs, it was going to be a slog.  
+<!---->
 I had signs of comfort on the third lap and on the last leg of the fourth, I was feeling pretty good. 
 
 I noticed that a small blister formed on my right foot (behind the ball of my foot); that has not happened in a long time.
