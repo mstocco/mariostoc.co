@@ -36,7 +36,10 @@ I headed out for the run late in the day, with the idea to get the [last Sunday]
 I had signs of comfort on the third lap and on the last leg of the fourth, I was feeling pretty good. 
 
 I noticed that a small blister formed on my right foot (behind the ball of my foot); that has not happened in a long time.
-![](/assets/jpg/image.jpeg)
+
+#### 4 LAPS OF SWAN LAKE
+![Run Map](/assets/jpg/run-20220206.jpeg)
+
 <!---->
 ## MONDAY FEB 7 🌦
 Sleep **3** | Fatigue **5** | Stress **3** | Soreness **5**
@@ -68,6 +71,8 @@ When the 0615 swim club squeezed everyone into remaining lanes, things got prett
 Keeping it real though, the swim club in the next lane were swimming with one arm at my 1500m effort.
 
 Easy pedal home as I was hungry and my legs were done.
+
+![Swim](/assets/jpg/swim-20220207.jpeg)
 
 <!---->
 ## TUESDAY FEB 8
