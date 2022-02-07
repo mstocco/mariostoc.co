@@ -36,8 +36,8 @@ I headed out for the run later in the day, determined to get the goal from [last
 I noticed that a small blister formed on my right foot (behind the ball of my foot); that has not happened in a long time.
 
 <!---->
-## MONDAY FEB 7
-Sleep **3** | Fatigue **-** | Stress **3** | Soreness **5**
+## MONDAY FEB 7 🌦
+Sleep **3** | Fatigue **5** | Stress **3** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -55,16 +55,17 @@ Mobility 27 minutes
 ### NOTES
 Total Time: **61 Minutes** &nbsp; Swim: **2400m**
 
-My right ankle is pretty lit up this morning; it's not happy bearing my full weight.
+My **right ankle** is pretty lit up this morning; it's not happy bearing my full weight.
 
-I got kitted up for the forecasted rain that didn't fall.  Steady to sweaty push on the 11 minute ride to the pool (Rocky Mountain).  I was warmed up before getting into the water.
+After a banana, I got kitted up for the forecasted rain that didn't fall.  Steady to sweaty push on the 11 minute ride to the pool (Rocky Mountain).  I was warmed up before getting into the water.
 
 In the water, I noticed on the first 200m that my lats were tired.  I am pretty sure that is a _"good thing&trade;"_.
 
-When the 0615 swim club squeezed everyone into remaining lanes, things got pretty congested.  Normally, it doesn't take long for the reduced lanes to shake out into their respective abilities but this morning was different.  It was hard to leave on time during the 24x50m set and I had to find a balance between being assertive and understanding that it wasn't that long ago that I was the guy being crawled over.
+When the 0615 swim club squeezed everyone into remaining lanes, things got pretty **congested**.  Normally, it doesn't take long for the reduced lanes to shake out into their respective abilities but this morning was different.  It was hard to leave on time during the 24x50m set and I had to find a balance between being assertive and understanding that it wasn't that long ago that I was the guy being crawled over.
 
 Keeping it real though, the swim club in the next lane were swimming with one arm at my 1500m effort.
 
+Easy pedal home as I was hungry and my legs were done.
 
 <!---->
 ## TUESDAY FEB 8
