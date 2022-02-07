@@ -11,9 +11,11 @@ Total Time: **~9.5 Hours**
 
 I feel like I was **HANGING ON**
 
-The key workouts of the week happened but [Friday](javascript:flick('fri');) (or lack thereof) may have been a tell that there is a slow build in training that Elliot and I are trying to achieve.
+The key workouts of the week happened but...
 
-![I guess I zigged when I should have zagged but then I would not have seen this amazing place](/assets/jpg/IMG_3990-977x550.jpeg Lost in a forest, THETIS REGIONAL PARK)
+The miss on [Friday](javascript:flick('fri');) was the a tell and I missed on the goal of getting the extras done (again) this week.
+
+![I guess I zigged when I should have zagged but then I would not have seen this amazing place](/assets/jpg/IMG_3990-977x550.jpeg Lost in a forest, THETIS LAKE REGIONAL PARK)
 
 ## SUNDAY JAN 30 🌧
 Sleep **5** | Fatigue **5** | Stress **4** | Soreness **5**
@@ -167,3 +169,14 @@ I started the ride in the opposite direction of [last Saturday](ironman2020-31we
 I found a southern connector to a trail called [Lighthouse Extension](javascript:flkty.select(2);) where I got myself turned around.  I lost a bit of pedal time while getting my bearing today but now know of another single option in this area.
 
 In the pool, I felt good from the first length.  There were more people using the facility this afternoon but nothing that effected me getting some work focused work in.  The hardest part was getting the 50m length times to agree with the prescribed effort.  I'm working on that. 
+
+<!---->
+### SATURDAY'S ROUTE
+![map](/assets/jpg/bike-20220205.jpeg)
+Yellow highlights gravel/fire roads and the small bit of orange is proper single track:  
+<span style="color:blue;">&#11044;</span> Comfy Wooden Chair   
+<span style="color:blue;">&#11044;</span> Lighthouse Connecter (first ride)  
+<span style="color:black;">&#11045;</span> Lighthouse Extension (first ride)    
+
+### SWIM CHART
+![swim](/assets/jpg/swim-20220205.jpeg)
