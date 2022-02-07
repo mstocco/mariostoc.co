@@ -139,6 +139,7 @@ _Nothing too hard. Saturdays are taking some serious time, so we don't want extr
 
 Two plates of spaghetti and a bit of dessert wasn't enough as I woke with a throbbing headache that stuck around all day.
 
+I stayed away from the ibuprofen, listened to my body and made the call to rest for tomorrow. 
 <!---->
 ## SATURDAY FEB 5 ☁️
 Sleep **2** | Fatigue **2** | Stress **2** | Soreness **2**
@@ -153,12 +154,15 @@ Swim 2000:
 2x 50 easy to cool down.
 
 MTB ~ 2:00-2:15. Have fun. Single track is 100% ok, but probably no more than 50% of the ride should be single track. If you want to repeat last weeks ride, that would be good with me. General effort is easy/controlled. 
-*As usual, stay warm, stay hydrated, stay well fueled! This goes for the whole day. Not just the bike ride.
+
+As usual, stay warm, stay hydrated, stay well fueled! This goes for the whole day. Not just the bike ride.
 
 ### NOTES
 Total Time: **160 Minutes** &nbsp; Swim: **2000m**
+<!---->
+Rested or at least I didn't feel like I was bringing a week of fatigue into the day.
 
-Rested or at least I didn't feel like I was bringing a week of fatigue into the day.  I started the ride in the opposite direction of [last Saturday](ironman2020-31weeksout?sat) but instead of riding up _Goward Road_, I rode up _Viaduct Avenue West_ to get to the fire roads.  This gave me about an hour of steady pressure on the pedals before taking on any single track.
+I started the ride in the opposite direction of [last Saturday](ironman2020-31weeksout?sat) but instead of riding up _Goward Road_, I rode up _Viaduct Avenue West_ to get to the fire roads.  This gave me about an hour of steady pressure on the pedals before taking on any single track.
 
 I found a southern connector to a trail called [Lighthouse Extension](javascript:flkty.select(2);) where I got myself turned around.  I lost a bit of pedal time while getting my bearing today but now know of another single option in this area.
 

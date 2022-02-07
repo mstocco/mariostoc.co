@@ -17,7 +17,7 @@ I feel like I was...
 ![](/assets/jpg/II-9x550.jpeg)
 
 ## SUNDAY FEB 6
-Sleep **2** | Fatigue **4** | Stress **3** | Soreness **5**
+Sleep **2** | Fatigue **5** | Stress **3** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -27,9 +27,13 @@ Bring calories. Have fun!
 Mobility 26 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **86 Minutes** &nbsp; **13 km**
 
-Good sleep last night.  Very odd niggle in my right ankle (odd because I haven't run since [last Tuesday](ironman2022-30weeksout?tue) 
+Good sleep last night.  Very odd niggle in my right ankle (odd because I haven't run since [last Tuesday](ironman2022-30weeksout?tue).  Worked on it with a compression band and by the afternoon, I forget there was even something there.
+
+I headed out for the run later in the day, determined to get the goal from [last Sunday](ironman2022-30weeksout?sun) of four _continuous_ laps of _Swan Lake_ completed.  This was doable but based on the fatigue in my legs, it was going to be a slog.  I had signs of comfort on the third lap and on the last leg of the fourth, I was feeling pretty good. 
+
+I noticed that a small blister formed on my right foot (behind the ball of my foot); that has not happened in a long time.
 
 <!---->
 ## MONDAY FEB 7
@@ -133,4 +137,4 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+&mdash; 
