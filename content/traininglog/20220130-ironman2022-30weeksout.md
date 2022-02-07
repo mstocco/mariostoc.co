@@ -17,6 +17,11 @@ The miss on [Friday](javascript:flick('fri');) was the a tell and I missed on th
 
 ![I guess I zigged when I should have zagged but then I would not have seen this amazing place](/assets/jpg/IMG_3990-977x550.jpeg Lost in a forest, THETIS LAKE REGIONAL PARK)
 
+## ELEVEN WEEK CHECK-IN
+Below is a rough idea of how training has gone over the since the end of November. 
+![Monthly Graph](/assets/jpg/training-20220206.jpeg)
+
+<!---->
 ## SUNDAY JAN 30 🌧
 Sleep **5** | Fatigue **5** | Stress **4** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -162,13 +167,13 @@ Total Time: **160 Minutes** &nbsp; Swim: **2000m**
 
 Rested or at least I didn't feel like I was bringing a week of fatigue into the day.
 <!---->
+### THE BIKE RIDE
 I started the ride in the opposite direction of [last Saturday](ironman2020-31weeksout?sat) but instead of riding up _Goward Road_, I rode up _Viaduct Avenue West_ to get to the fire roads.  This gave me about an hour of steady pressure on the pedals before taking on any single track.
 
 I found a new (to me) trail called _Lighthouse Extension_ though I did get myself turned around [in the forest](javascript:flkty.select(2);).  I lost a bit of pedal time while getting my bearing today.
 
-### SATURDAY'S ROUTE
+#### SATURDAY'S ROUTE
 ![map](/assets/jpg/bike-20220205.jpeg)
-
 <!---->
 Single track made up < %5 of the distance and maybe 15% of the moving time.      
 Comfy Wooden Chair <span style="color:blue;">&#9679;</span>    
@@ -181,7 +186,8 @@ For calories I had packed a concentrated bottle of lemonade.
 
 ---
 
+### CRYSTAL POOL
 In the pool, I **felt good** right from the first length.  There were more people using the facility this afternoon but nothing that effected me getting some focused work in.  The hardest part was getting the 50m length times to agree with the prescribed effort.  I'm working on that.
 
-### SWIM CHART
+#### SWIM CHART
 ![swim](/assets/jpg/swim-20220205.jpeg)
