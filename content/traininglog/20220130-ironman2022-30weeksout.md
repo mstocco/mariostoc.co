@@ -157,26 +157,22 @@ Swim 2000:
 
 MTB ~ 2:00-2:15. Have fun. Single track is 100% ok, but probably no more than 50% of the ride should be single track. If you want to repeat last weeks ride, that would be good with me. General effort is easy/controlled. 
 
-As usual, stay warm, stay hydrated, stay well fueled! This goes for the whole day. Not just the bike ride.
-
 ### NOTES
 Total Time: **160 Minutes** &nbsp; Swim: **2000m**
-<!---->
-Rested or at least I didn't feel like I was bringing a week of fatigue into the day.
 
+Rested or at least I didn't feel like I was bringing a week of fatigue into the day.
+<!---->
 I started the ride in the opposite direction of [last Saturday](ironman2020-31weeksout?sat) but instead of riding up _Goward Road_, I rode up _Viaduct Avenue West_ to get to the fire roads.  This gave me about an hour of steady pressure on the pedals before taking on any single track.
 
-I found a southern connector to a trail called [Lighthouse Extension](javascript:flkty.select(2);) where I got myself turned around.  I lost a bit of pedal time while getting my bearing today but now know of another single option in this area.
-
-In the pool, I felt good from the first length.  There were more people using the facility this afternoon but nothing that effected me getting some work focused work in.  The hardest part was getting the 50m length times to agree with the prescribed effort.  I'm working on that. 
+I found a southern connector to a trail called [Lighthouse Extension](javascript:flkty.select(2);) where I got myself turned around.  I lost a bit of pedal time while getting my bearing today.  On the other hand, I now have another single track option in this area.
+![map](/assets/jpg/bike-20220205.jpeg)
+Single track made up < %5 of the distance and maybe 15% of the moving time.      
+<span style="color:blue;">&#9679;</span> Comfy Wooden Chair   
+<span style="color:blue;">&#9679;</span> Lighthouse Connecter (first ride)  
+<span style="color:black;">&#11045;</span> Lighthouse Extension (first ride)    
 
 <!---->
-### SATURDAY'S ROUTE
-![map](/assets/jpg/bike-20220205.jpeg)
-Yellow highlights gravel/fire roads and the small bit of orange is proper single track:  
-<span style="color:blue;">&#11044;</span> Comfy Wooden Chair   
-<span style="color:blue;">&#11044;</span> Lighthouse Connecter (first ride)  
-<span style="color:black;">&#11045;</span> Lighthouse Extension (first ride)    
+In the pool, I **felt good** right from the first length.  There were more people using the facility this afternoon but nothing that effected me getting some focused work in.  The hardest part was getting the 50m length times to agree with the prescribed effort.  I'm working on that.
 
 ### SWIM CHART
 ![swim](/assets/jpg/swim-20220205.jpeg)
