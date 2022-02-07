@@ -15,13 +15,15 @@ The key workouts of the week happened but...
 
 The miss on [Friday](javascript:flick('fri');) was the a tell and I missed on the goal of getting the extras done (again) this week.
 
+It's not all bad as the swims are going well and the indoor/outdoor riding is productive too.
+
 ![I guess I zigged when I should have zagged but then I would not have seen this amazing place](/assets/jpg/IMG_3990-977x550.jpeg Lost in a forest, THETIS LAKE REGIONAL PARK)
 
 ## ELEVEN WEEK CHECK-IN
 Below is a rough idea, expressed in distance recorded, of how training has trended the since the end of November.
  
 ![Monthly Graph](/assets/jpg/training-20220206.jpeg)
-The goal is to get comfortable with the current volume as Daylight Savings is around the corner.
+The goal is to get comfortable with the current volume as Daylight Savings is just around the corner.
 
 <!---->
 ## SUNDAY JAN 30 🌧
