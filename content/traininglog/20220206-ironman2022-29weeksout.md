@@ -70,8 +70,6 @@ When the 0615 swim club squeezed everyone into remaining lanes, things got prett
 
 Keeping it real though, the swim club in the next lane were swimming with one arm at my 1500m effort.
 
-Easy pedal home as I was hungry and my legs were done.
-
 ![Swim](/assets/jpg/swim-20220207.jpeg)
 
 <!---->
