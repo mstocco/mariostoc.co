@@ -18,8 +18,10 @@ The miss on [Friday](javascript:flick('fri');) was the a tell and I missed on th
 ![I guess I zigged when I should have zagged but then I would not have seen this amazing place](/assets/jpg/IMG_3990-977x550.jpeg Lost in a forest, THETIS LAKE REGIONAL PARK)
 
 ## ELEVEN WEEK CHECK-IN
-Below is a rough idea of how training has gone over the since the end of November. 
+Below is a rough idea, expressed in distance recorded, of how training has trended the since the end of November.
+ 
 ![Monthly Graph](/assets/jpg/training-20220206.jpeg)
+
 
 <!---->
 ## SUNDAY JAN 30 🌧
