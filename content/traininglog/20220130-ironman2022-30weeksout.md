@@ -21,7 +21,7 @@ The miss on [Friday](javascript:flick('fri');) was the a tell and I missed on th
 Below is a rough idea, expressed in distance recorded, of how training has trended the since the end of November.
  
 ![Monthly Graph](/assets/jpg/training-20220206.jpeg)
-
+The goal is to get comfortable with the current volume as Daylight Savings is around the corner.
 
 <!---->
 ## SUNDAY JAN 30 🌧
