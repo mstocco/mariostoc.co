@@ -27,7 +27,7 @@ Bring calories. Have fun!
 Mobility 26 minutes
 
 ### NOTES
-Total Time: **86 Minutes** &nbsp; **13 km**
+Total Time: **86 Minutes** &nbsp; Run: **13 km**
 
 Despite a good sleep last night, I  have a niggle in my right ankle; why now?  I haven't run since [last Tuesday](ironman2022-30weeksout?tue).  I worked on it with a compression band and by the afternoon, I forget there was even something there.
 
@@ -73,8 +73,8 @@ Keeping it real though, the swim club in the next lane were swimming with one ar
 ![Swim](/assets/jpg/swim-20220207.jpeg)
 
 <!---->
-## TUESDAY FEB 8
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY FEB 8 ☁️
+Sleep **4** | Fatigue **5** | Stress **4** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -85,7 +85,7 @@ Pm: Run w/ buddies. About 9k-11k. Easy to start....a bit of a pickup to finish o
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Oddly, my right ankle was **not sore** this morning; no explaination.  My head was, at least until I got some breakfast and my left lumbar was a bit tight.
 
 <!---->
 ## WEDNESDAY FEB 9
