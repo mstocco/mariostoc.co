@@ -78,18 +78,18 @@ Sleep **4** | Fatigue **5** | Stress **4** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Rollers ~ 20 minutes. In theory, this would be nice to start the day, but very much ok with ending the day with it as well. Keep it EASY.
+Rollers ~ 20 minutes. In theory, this would be nice to start the day. Keep it EASY.
 
 Pm: Run w/ buddies. About 9k-11k. Easy to start....a bit of a pickup to finish over the last few K's. 100% ok if the run is entirely easy.
 
 ### NOTES
-Total Time: **90 Minutes** &nbsp; Run: **12.1 km**
+Total Time: **92 Minutes** &nbsp; Run: **12.1 km** @**5:37/km**
 
 Oddly, my right ankle was **not sore** this morning but my head was, at least until breakfast.
 
-Just Vincent and me for today's run.  By the numbers (pace, cadence, GCT etc), this was a good run for where I am currently.  By feel, this was a **great run**; my running partner kept me honest for the entire hour plus.
+Just Vincent and me for today's run.  By the numbers (pace, cadence, GCT), this was a good run for where I am currently.  By feel, this was a **great run**; my running partner kept me honest for the entire hour plus.
 
-I spun on the rollers afterwards.  A little fatigue in my calves; bliss.
+Easy spin on the rollers afterwards.  A little fatigue in my calves &larr;bliss.
 
 <!---->
 ## WEDNESDAY FEB 9 ☁️
