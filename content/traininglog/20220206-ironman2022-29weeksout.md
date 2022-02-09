@@ -85,7 +85,7 @@ Pm: Run w/ buddies. About 9k-11k. Easy to start....a bit of a pickup to finish o
 ### NOTES
 Total Time: **90 Minutes** &nbsp; Run: **12.1 km**
 
-Oddly, my right ankle was **not sore** this morning; no explaination.  My head was though, at least until I got some breakfast and my left lumbar was a bit tight.
+Oddly, my right ankle was **not sore** this morning but my head was, at least until breakfast.
 
 It was just Vincent and me for this Tuesday Afterwork Run.  By the numbers, this was a good run for where I am at.  Pace, cadence, GCT, HR all in the ranges I'd hope they'd be.  By feel, this was a great run; I had a running partner that kept me honest through the entire hour plus.
 
