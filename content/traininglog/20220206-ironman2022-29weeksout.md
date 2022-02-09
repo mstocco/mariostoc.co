@@ -87,13 +87,13 @@ Total Time: **90 Minutes** &nbsp; Run: **12.1 km**
 
 Oddly, my right ankle was **not sore** this morning but my head was, at least until breakfast.
 
-It was just Vincent and me for this Tuesday Afterwork Run.  By the numbers, this was a good run for where I am at.  Pace, cadence, GCT, HR all in the ranges I'd hope they'd be.  By feel, this was a great run; I had a running partner that kept me honest through the entire hour plus.
+Just Vincent and me for today's run.  By the numbers (pace, cadence, GCT etc), this was a good run for where I am currently.  By feel, this was a **great run**; my running partner kept me honest for the entire hour plus.
 
-I spun on the rollers afterwards and didn't have the same wobbles as last time.  I do feel fatigue in my calves; bliss.
+I spun on the rollers afterwards.  A little fatigue in my calves; bliss.
 
 <!---->
-## WEDNESDAY FEB 9
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY FEB 9 ☁️
+Sleep **2** | Fatigue **5** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -108,7 +108,7 @@ Walk ~ 20-30 minutes. Either to start or end the day. Just a walk. Nothing hard.
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+A nice, restful sleep last night.
 
 <!---->
 ## THURSDAY FEB 10
