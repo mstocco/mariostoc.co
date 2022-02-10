@@ -113,8 +113,8 @@ A nice, restful sleep last night.  The walk was behind the mower as it is Februa
 I contemplated switching the rollers out for a spin up to _Thetis_ on the MTB but time (daylight) wasn't on my side.  Regardless, the workout was ridden to plan and I feel like I got an honest workout completed.
 
 <!---->
-## THURSDAY FEB 10
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY FEB 10 ☁️
+Sleep **5** | Fatigue **5** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -128,9 +128,9 @@ _Optional: Easy spin to/from the pool._
 Mobility 24 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **52 Minutes** &nbsp; Swim: **2300m**
 
-&mdash;  
+Night sweats woke me up at 0140.  Despite that, I had an good effort in the pool this morning.  Lanes were mostly free.
 
 <!---->
 ## FRIDAY FEB 11
