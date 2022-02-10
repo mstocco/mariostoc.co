@@ -130,7 +130,8 @@ Mobility 24 minutes
 ### NOTES
 Total Time: **52 Minutes** &nbsp; Swim: **2300m**
 
-Night sweats woke me up at 0140.  Despite that, I had an good effort in the pool this morning.  Lanes were mostly free.
+Night sweats woke me up at 0140.  Despite that, I **felt good** in the pool this morning.  
+![Swim](/assets/jpg/swim-20220210.jpeg)
 
 <!---->
 ## FRIDAY FEB 11
