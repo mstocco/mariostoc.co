@@ -80,10 +80,10 @@ Sleep **4** | Fatigue **5** | Stress **4** | Soreness **3**
 ### PLANNED WORKOUT
 Rollers ~ 20 minutes. In theory, this would be nice to start the day. Keep it EASY.
 
-Pm: Run w/ buddies. About 9k-11k. Easy to start....a bit of a pickup to finish over the last few K's. 100% ok if the run is entirely easy.
+Pm: Run w/ buddies. About 9k-11k. Easy to start, a bit of a pickup to finish over the last few K's. 100% ok if the run is entirely easy.
 
 ### NOTES
-Total Time: **92 Minutes** &nbsp; Run: **12.1 km** @**5:37/km**
+Total Time: **92 Minutes** &nbsp; Run: **12.1 km** @5:37/km
 
 Oddly, my right ankle was **not sore** this morning but my head was, at least until breakfast.
 
@@ -106,9 +106,11 @@ Rollers 85 minutes:
 Walk ~ 20-30 minutes. Either to start or end the day. Just a walk. Nothing hard.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **85 Minutes** &nbsp; Ride: **rollers/road bike**
 
-A nice, restful sleep last night.
+A nice, restful sleep last night.  The walk was behind the mower as it is February in Victoria and the grass needed tending to.
+
+I contemplated switching the rollers out for a spin up to _Thetis_ on the MTB but time (daylight) wasn't on my side.  Regardless, the workout was ridden to plan and I feel like I got an honest workout completed.
 
 <!---->
 ## THURSDAY FEB 10
@@ -156,4 +158,4 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash; 
+&mdash;
