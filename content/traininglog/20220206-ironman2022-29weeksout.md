@@ -137,10 +137,12 @@ Night sweats woke me up at 0140.  Despite that, I **felt good** in the pool this
 ### Tomorrow's Run Today
 Lucky me.  Yauki sends a "let's run" text while I was on my weekly with Elliot.  I got a green light for 40 minutes and at 1600, shoes were on and I was out the door to meet the Tuesday Night Crew on a Thursday.
 
-Nice and simple out and back on _The Goose_.  I was feeling fatigue in my quads to start but after a mile or so, I fell into a nice groove @5:30/km pace.  I am not sure how my request for 40 minutes got translated into 8km but there was a 1 km build from _Seaton_ to the top of the _Switch Bridge_.  First to crest the bridge but I didn't run the downhill.
+Nice and simple out and back on _The Goose_.  I was feeling fatigue in my quads to start but after a mile or so, I fell into a nice groove @5:44/km pace.
+
+I am not sure how my request for an easy 40 minutes got stretched to 8km and a 1 km build from _Seaton_ to the top of the _Switch Bridge_.  First to crest the bridge but I didn't run the downhill.
 
 ![Run](/assets/jpg/run-20220210.jpeg)
-Having this kind of a day, swimming, biking and a run is what I am thankful for.
+Having this kind of a day, swimming, biking and a run is what **I am thankful** for.
 
 <!---->
 ## FRIDAY FEB 11
