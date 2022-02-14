@@ -7,14 +7,13 @@ Week beginning [Sunday, February 6, 2022](javascript:flick('sun');)
 Another week, another opportunity to find a rhythm training above the 10-hour threshold.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **+11 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **BUILDING BASE**
 
-&mdash;
+Great week of training. 3 good swims, 2 runs with my neighbours, a bike workout and my biggest ride in the hills so far this year.
 
-![](/assets/jpg/II-9x550.jpeg)
+![Saturday's ride had me on my XC Bike linking Mount Work and Thetis Lake Regional Parks](/assets/jpg/IMG_3993-977x500.jpeg CRAIGFLOWER CREEK)
 
 ## SUNDAY FEB 6
 Sleep **2** | Fatigue **5** | Stress **3** | Soreness **5**
@@ -145,8 +144,8 @@ I am not sure how my request for an easy 40 minutes got stretched to 8km and a 1
 Having this kind of a day, swimming, biking and a run is what **I am thankful** for.
 
 <!---->
-## FRIDAY FEB 11
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY FEB 11 ☀️
+Sleep **3** | Fatigue **5** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -157,17 +156,39 @@ Run 30 minutes. Nice and easy running to end the week.
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+I feel like [yesterday](javascript:flick('thu');) was another 90ish minute day this week.  I may still be operating on the same runner's high too (or its sunny outside).
 
 <!---->
 ## SATURDAY FEB 12
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **2** | Fatigue **3** | Stress **3** | Soreness **2**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+1st: MTB ~ 2:30. Good length of ride. Stay hydrated. Have fun. Keep it somewhat easy/steady (considering the terrain) 
+Bring plenty of calories. At least 500 calories on this ride. More is certainly ok with me!
+
+2nd: Swim 2000: 
+2 Rounds (100 easy free, 50 steady kick. Rest as needed) 
+2x 50 Shark-fin r :20. 
+2x 50 Paddle-fist. R :20. 
+2x 50 gradual build easy to strong. R :30. 
+12x 100 aerobic w/ buoy. R :30 after each. No need to push the pace. Just find a sustainable rhythm and relax.
+4x 50 as 25 back or breast/25 free to cool down. 
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **300 Minutes**  
+Ride Elevation: **~700m**  &nbsp; Swim: **1900m**
 
-&mdash;
+Chores and the finishing the pruning work on our fig tree meant a late start to the ride.  What a ride though.  I picked a route that proved to add a lot of training stimulus last summer; _Thetis Park_ to _Kallie's Connector_ exiting near the top of _Munn Road_.
+
+For good measure, I had a pretty clean run on _Comfy Wooden Chair_ before the slog up the fire road to _Kallie's Connector_; even with the detour, I was on schedule to the start of the connector trail (one hour even).  I had another good, mostly clean run on _Kallie's Connector_.  
+
+Rolling down _Munn Road_ (cool to cold), I turned left on _Woodridge Place_ and entered [Mount Work Regional Park](javascript:flkty.select(2);) for a bit more trail exploration.  
+
+_Fun Trail_ up to _Bottom Feeder_, to _Cross Over_ to some fire roads before my standard exit to the park _Executive West_.  All blue trails, all done comfortably (stoked).
+
+I was getting short on time so it was a bee-line home on the shoulder of _Interurban Road_.
+
+90g bottle and an a banana consumed on the bike and I mixed a second bottle for the pool.
+
+Getting into the pool, I realized that I left my watch (and the programmed workout) at home.  No biggie as I was pretty confident that I had the workout memorized and that I could use the clock(s) on the walls.  I feel good in the water and really good with the execution of the workout.
