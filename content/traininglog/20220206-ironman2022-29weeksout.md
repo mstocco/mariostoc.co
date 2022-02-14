@@ -13,7 +13,7 @@ I feel like I was **BUILDING BASE**
 
 Great week of training. 3 good swims, 2 runs with my neighbours, a bike workout and my biggest ride in the hills so far this year.
 
-![Saturday's ride had me on my XC Bike linking Mount Work and Thetis Lake Regional Parks](/assets/jpg/IMG_3993-977x500.jpeg CRAIGFLOWER CREEK)
+![Saturday's ride had me on my XC Bike linking Mount Work and Thetis Lake Regional Parks](/assets/jpg/IMG_3993-977x550.jpeg CRAIGFLOWER CREEK)
 
 ## SUNDAY FEB 6
 Sleep **2** | Fatigue **5** | Stress **3** | Soreness **5**
@@ -179,7 +179,9 @@ Bring plenty of calories. At least 500 calories on this ride. More is certainly 
 Total Time: **300 Minutes**  
 Ride Elevation: **~700m**  &nbsp; Swim: **1900m**
 
-Chores and the finishing the pruning work on our fig tree meant a late start to the ride.  What a ride though.  I picked a route that proved to add a lot of training stimulus last summer; _Thetis Park_ to _Kallie's Connector_ exiting near the top of _Munn Road_.
+Chores and the finishing the pruning work on our fig tree meant a late start to the ride.
+<!---->
+What a ride though.  I picked a route that proved to add a lot of training stimulus last summer; _Thetis Park_ to _Kallie's Connector_ exiting near the top of _Munn Road_.
 
 For good measure, I had a pretty clean run on _Comfy Wooden Chair_ before the slog up the fire road to _Kallie's Connector_; even with the detour, I was on schedule to the start of the connector trail (one hour even).  I had another good, mostly clean run on _Kallie's Connector_.  
 
