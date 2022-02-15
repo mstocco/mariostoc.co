@@ -3,7 +3,7 @@ Week beginning [Sunday, February 13, 2022](javascript:flick('sun');)
 
 **28** weeks out from race day.
 
-## WEEKLY GOALp
+## WEEKLY GOAL
 Put together another big week
 
 ## SUMMARY
@@ -33,7 +33,7 @@ Easy pace but after [yesterday](ironman2022-29weeksout?sat), easy is all I had t
 
 <!---->
 ## MONDAY FEB 14 ❤️
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **5** | Fatigue **5** | Stress **5** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -41,17 +41,20 @@ Swim 2500:
 4 rounds (50 easy free, 50 Fist drill, 50 gradual build from easy to strong. R :20 after each)
 4x 100 Gradual descend 1-4 from easy to 1500 effort. R :30 after each. 
 2 rounds (50, 100, 150, 200, 250 steady free w/ focus on a consistent turnover. R :30 after each rep) 
-2x 50 easy to cool down and stretch out. 
+2x 50 easy to cool down and stretch out.
+
 Mobility 20 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **60 Minutes** &nbsp; Swim: **2600m**
 
-&mdash;  
+Early morning felt like a early morning.  The swim felt like _"putting in the time"_ more so than _"this is fun"_, at least until the second round of the main set.  I pushed through to the end and was happy that I did.  I drove to and from the pool today for time management and to pick up two special coffees for Valentine's Day.
+
+Solid nap after work too. 
 
 <!---->
-## TUESDAY FEB 15
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY FEB 15 ☀️
+Sleep **3** | Fatigue **5** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
