@@ -29,7 +29,9 @@ Mobility 25 minutes.
 ### NOTES
 Total Time: **81 Minutes** &nbsp; Run: **13.4 km**
 
-Easy pace but after [yesterday](ironman2022-29weeksout?sat), easy is all I had today.  80g lemonade with 10g of pectin (500ml water) and no issues
+**Easy pace** but after [yesterday](ironman2022-29weeksout?sat), easy is all I had today.  80g lemonade with 10g of pectin (500ml water) and no GI issues, though I could taste some tartness from the pectin.
+
+Mostly followed the [Colquitz River Trail](javascript:flkty.select(2);) for an out and back section, then a loop of _Cuthbert Homes Park_.  That route is ~90% packed gravel.  Weather was really nice too.
 
 <!---->
 ## MONDAY FEB 14 ❤️
