@@ -50,7 +50,9 @@ Mobility 20 minutes
 ### NOTES
 Total Time: **60 Minutes** &nbsp; Swim: **2600m**
 
-Early morning felt like a early morning.  The swim felt like _"putting in the time"_ more so than _"this is fun"_, at least until the second round of the main set.  I pushed through to the end and was happy that I did.  I drove to and from the pool today for time management and to pick up two special coffees for Valentine's Day.
+Early morning felt like a early morning.  The swim felt like _"putting in the time"_ more so than _"this is fun"_, at least until the second round of the main set.  I pushed through to the end and was happy that I did; my mind was on the swim regardless of how I was feeling.
+
+I drove to and from the pool today for time management and to pick up two special coffees for Valentine's Day.
 
 Solid nap after work too. 
 
