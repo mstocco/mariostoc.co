@@ -43,18 +43,15 @@ Swim 2500:
 4 rounds (50 easy free, 50 Fist drill, 50 gradual build from easy to strong. R :20 after each)
 4x 100 Gradual descend 1-4 from easy to 1500 effort. R :30 after each. 
 2 rounds (50, 100, 150, 200, 250 steady free w/ focus on a consistent turnover. R :30 after each rep) 
-2x 50 easy to cool down and stretch out.
-
+2x 50 easy to cool down and stretch out.   
 Mobility 20 minutes
 
 ### NOTES
 Total Time: **60 Minutes** &nbsp; Swim: **2600m**
 
-Early morning felt like a early morning.  The swim felt like _"putting in the time"_ more so than _"this is fun"_, at least until the second round of the main set.  I pushed through to the end and was happy that I did; my mind was on the swim regardless of how I was feeling.
+The swim felt like _"putting in the time"_ more so than _"this is fun"_, at least until the second round of the main set.  I pushed through to the end and was happy that I did; my mind was **focused** on the swim start to finish.
 
-I drove to and from the pool today for time management and to pick up two special coffees for Valentine's Day.
-
-Solid nap after work too. 
+I drove to and from the pool to save time and had a **solid nap** after work too. 
 
 <!---->
 ## TUESDAY FEB 15 ☀️
@@ -69,12 +66,15 @@ Rollers ~ 20 minutes. Short and easy spin.
 ### NOTES
 Total Time: **84 Minutes** &nbsp; Run: **10.9 km**
 
-It felt like a struggle to match Yauki and Vince's pace for the leg out toward the _Helmcken Overpass_ and there was a couple of points after the turn around where they made a point to slow down for me.  The last time they did so, they gave me a gap, not knowing that the sugar in my bottle was kicking in.  It took them about 9 minutes to make up the time I had put into them.
+I saw that Victor Campenaerts just put out a mobility video and before heading out for the run, I did a number of his exercises.
 
+This afternoon felt like a real struggle to match Yauki and Vince's pace for the leg out toward the _Helmcken Overpass_ and there was a couple of points after the turn around where they made a point to slow down for me.  The last time they did so, they gave me a gap, not knowing that the sugar in my bottle was kicking in.  It took them about 9 minutes to make up the time I had put into them.
+<!---->
 They wanted to go hard over the _Switch Bridge_ to end the run because it is a Strava Segment.  I indulged with a hard push up to the centre of the bridge and jogged the downhill portion. 
 
 Rollers, spinning comfortably for just over 20 minutes before dinner.
  
+ ![](/assets/jpg/image.jpeg)
 <!---->
 ## WEDNESDAY FEB 16
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
