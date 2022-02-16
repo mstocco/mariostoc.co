@@ -74,11 +74,10 @@ There were a couple of times where they made a point to wait for me.  The last t
 
 <!---->
 The gap they gave me at 40 minutes, was my **tempo effort** for the week.  It took them about 9 minutes to make up the time I had put into them.
-
-They still wanted to go hard over the _Switch Bridge_ to end the run because it is a _"Strava Segment"_.  I indulged with a hard push up to the centre of the bridge and jogged the downhill portion.
 ![Hospital Hill Run](/assets/jpg/run-20220215.jpeg)
- 
- Rollers, spinning comfortably for just over 20 minutes before dinner.
+They still wanted to go hard over the _Switch Bridge_ to end the run because it is a _"Strava Segment"_.  I indulged with a hard push up to the centre of the bridge and jogged the downhill portion.
+
+Rollers, spinning comfortably for just over 20 minutes before dinner.
 <!---->
 ## WEDNESDAY FEB 16
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
