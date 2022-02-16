@@ -67,10 +67,14 @@ Run 10-12k. Generally an "easy to steady" effort for the first 3/4ths of the run
 Rollers ~ 20 minutes. Short and easy spin.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **84 Minutes** &nbsp; Run: **10.9 km**
 
-&mdash;  
+It felt like a struggle to match Yauki and Vince's pace for the leg out toward the _Helmcken Overpass_ and there was a couple of points after the turn around where they made a point to slow down for me.  The last time they did so, they gave me a gap, not knowing that the sugar in my bottle was kicking in.  It took them about 9 minutes to make up the time I had put into them.
 
+They wanted to go hard over the _Switch Bridge_ to end the run because it is a Strava Segment.  I indulged with a hard push up to the centre of the bridge and jogged the downhill portion. 
+
+Rollers, spinning comfortably for just over 20 minutes before dinner.
+ 
 <!---->
 ## WEDNESDAY FEB 16
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
