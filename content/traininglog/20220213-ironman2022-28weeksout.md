@@ -68,9 +68,12 @@ Total Time: **84 Minutes** &nbsp; Run: **10.9 km**
 
 I saw that Victor Campenaerts just put out a mobility video and before heading out for the run, I did a number of his exercises.
 
-This afternoon felt like a real struggle to match Yauki and Vince's pace for the leg out toward the _Helmcken Overpass_ and there was a couple of points after the turn around where they made a point to slow down for me.  The last time they did so, they gave me a gap, not knowing that the sugar in my bottle was kicking in.  It took them about 9 minutes to make up the time I had put into them.
+This afternoon felt like a **real struggle** to match Yauki and Vince's pace for the outbound leg toward the _Hospital Hill_.  There were a couple of times where they made a point to wait for me.  The last time they waited, they did so without knowing that the  sugar in my bottle was kicking in.
+
 <!---->
-They wanted to go hard over the _Switch Bridge_ to end the run because it is a Strava Segment.  I indulged with a hard push up to the centre of the bridge and jogged the downhill portion. 
+The gap they gave me at 40 minutes, was my **tempo effort** for the week.  It took them about 9 minutes to make up the time I had put into them.
+
+They still wanted to go hard over the _Switch Bridge_ to end the run because it is a _"Strava Segment"_.  I indulged with a hard push up to the centre of the bridge and jogged the downhill portion.
 
 Rollers, spinning comfortably for just over 20 minutes before dinner.
  
