@@ -97,7 +97,7 @@ Total Time: **70 Minutes** Ride: **29.7km @25.7kph**
 
 Good sleep last night and a bit more of the Campenaerts mobility routine to start the day.
 
-For reference, I rode the very same _Waterfront Clockwise_ route [55 weeks ago](https://mariostoc.co/traininglog/ironman2021-36weeksout?tue) with next to identical weather conditions at the same time of the day.  Today I was home 12 minutes sooner.  Last year, I was pretty smoked on the end of a 3 week daily training streak.  Today, I was feeling stronger than expected on my first time on my road bike, outside, in a long time.
+For reference, I rode the very same _Waterfront Clockwise_ route [55 weeks ago](https://mariostoc.co/traininglog/ironman2021-36weeksout?tue) with identical weather and at the same time of the day.  Today I was home **12 minutes sooner**.  Last year, I was pretty smoked near the end of a 3-week daily training streak.  Today, I was feeling stronger than expected on my first outside road ride, in forever.
 
 <!---->
 ## THURSDAY FEB 17
