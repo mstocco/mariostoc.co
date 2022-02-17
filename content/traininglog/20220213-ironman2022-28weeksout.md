@@ -78,9 +78,10 @@ The gap they gave me at 40 minutes, was my **tempo effort** for the week.  It to
 They still wanted to go hard over the _Switch Bridge_ to end the run because it is a _"Strava Segment"_.  I indulged with a hard push up to the centre of the bridge and jogged the downhill portion.
 
 Rollers, spinning comfortably for just over 20 minutes before dinner.
+
 <!---->
-## WEDNESDAY FEB 16
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY FEB 16 ☀️
+Sleep **2** | Fatigue **5** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -94,9 +95,11 @@ Ride 85 minutes:
 Walk ~ 20-30 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **70 Minutes**
 
-&mdash;  
+Good sleep last night and a bit more of the Campenaerts mobility routine to start the day.
+
+For reference, I rode the very same _Waterfront Clockwise_ route [55 weeks ago](https://mariostoc.co/traininglog/ironman2021-36weeksout?tue) with next to identical weather conditions at the same time of the day.  Today I was home 12 minutes sooner.  Last year, I was pretty smoked on the end of a 3 week daily training streak.  Today, I was feeling stronger than expected on my first time on my road bike, outside, in a long time.
 
 <!---->
 ## THURSDAY FEB 17
@@ -148,4 +151,4 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+&mdash;
