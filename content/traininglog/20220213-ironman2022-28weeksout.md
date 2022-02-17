@@ -90,12 +90,10 @@ Ride 85 minutes:
 10x :20 high cadence, :40 easy spinning. 
 5 minutes easy spinning. 
 5x 5 minutes @ 30-45 minute TT effort, 3 minutes easy spinning after each.
-10 minutes easy spinning to cool down. 
-
-Walk ~ 20-30 minutes
+10 minutes easy spinning to cool down. <br /><strike>Walk ~ 20-30 minutes</strike>
 
 ### NOTES
-Total Time: **70 Minutes**
+Total Time: **70 Minutes** Ride: **29.7km @25.7kph**
 
 Good sleep last night and a bit more of the Campenaerts mobility routine to start the day.
 
