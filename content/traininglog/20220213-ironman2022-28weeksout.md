@@ -100,8 +100,8 @@ Good sleep last night and a bit more of the Campenaerts mobility routine to star
 For reference, I rode the very same _Waterfront Clockwise_ route [55 weeks ago](https://mariostoc.co/traininglog/ironman2021-36weeksout?tue) with identical weather/same time of the day.  Today I was home **12 minutes sooner**.  Last year, I was pretty smoked near the end of a 3-week training streak.  Today, I was feeling stronger than expected on my first outside road ride, in forever.
 
 <!---->
-## THURSDAY FEB 17
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY FEB 17 ⛅️
+Sleep **4** | Fatigue **4** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -119,13 +119,15 @@ Swim 2300: Strong= High focus, steady kick, focused catch, still very much susta
 Mobility 30 minutes  
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **60 Minutes**
 
-&mdash;  
+Good effort in the pool this morning though there was a bit of lane congestion to deal with.  I rode my road bike to the pool and. even catching a three lights, I was minutes faster than on my XC bike.
+
+I spent time on my massage chair working out knots in my back and neck; it has been a long time since I have done that and it was very much needed.
 
 <!---->
-## FRIDAY FEB 18
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY FEB 18 ☀️
+Sleep **6** | Fatigue **4** | Stress **3** | Soreness **6**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -136,7 +138,7 @@ Rollers ~ 20 minutes. Easy spinning.
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Rinse, repeat; woke with a headache just like [last Friday](ironman2022-29weeksout?fri).  Neck is still stiff and might be a factor.  This sucks.
 
 <!---->
 ## SATURDAY FEB 19
