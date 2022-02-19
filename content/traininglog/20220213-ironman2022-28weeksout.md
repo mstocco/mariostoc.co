@@ -138,17 +138,27 @@ Rollers ~ 20 minutes. Easy spinning.
 ### NOTES
 Total Time: **0 Minutes**
 
-Rinse, repeat; woke with a headache just like [last Friday](ironman2022-29weeksout?fri).  Neck is still stiff and might be a factor.  This sucks.
+Rinse, repeat; woke with a headache just like [last Friday](ironman2022-29weeksout?fri).  Neck is still stiff and might be a factor.  This sucks.  I broke down and 2 Advil in the morning so I'd have some comfort during the day.
+
+After work, I headed out for the run; I felt heavy and went slow, really slow.  It was on to the rollers as soon as I got home.
+
+Minimum <strike>effective</strike> dose.
 
 <!---->
-## SATURDAY FEB 19
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY FEB 19 🌧
+Sleep **4** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+1st: Swim 2150: 
+4 rounds (100 easy free, 50 paddle-fist drill, 50 steady kick. Rest by feel after each) 
+5 rounds (50 gradual build from easy to strong r :20, 50 strong r :20, 50 EASY r :20) 
+5x 100 steady/smooth w/ buoy. R :30 after each. 
+4x 25 easy to cool down.
+
+2nd: Ride 2:30 on MTB. Keep it fun. Keep it relatively fun. Bring plenty of hydration and calories.
 
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;
+Was awake to go for a swim at 0500; no desire to get up so I rolled over and went back to sleep.
