@@ -30,7 +30,7 @@ AM: Swim 2150:
 Run 85 minutes. Easy effort. Similar terrain to last week. (aka: off pavement if possible) 
 
 ### NOTES
-Swim: **2400m** &nbsp; Bike Commute: **7 km** &nbsp; Run: **15 km**  
+Swim: **2400m** &nbsp;Bike Commute: **7km** &nbsp;Run: **15km**  
 Total Time: **165 Minutes**
 
 Solid day that started in the pool.  Probably should have swam the scheduled 2150m workout but I wasn't having any luck getting it loaded properly into my watch.  I was at the pool to swim, not to pfaff with my phone/watch on deck so I just went with a 2400m workout instead.
