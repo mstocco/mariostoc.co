@@ -149,13 +149,11 @@ Run 35 minutes easy. Nice and easy.
 Rollers ~ 20 minutes. Easy spinning.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **50 Minutes**
 
 Rinse, repeat; woke with a headache just like [last Friday](ironman2022-29weeksout?fri).  Neck is still stiff and might be a factor.  This sucks.  I broke down and 2 Advil in the morning so I'd have some comfort during the day.
 
-After work, I headed out for the run; I felt heavy and went slow, really slow.
-
-It was on to the rollers as soon as I got home for another easy effort.
+After work, I headed out for the run; I felt heavy and went slow, really slow.  It was on to the rollers as soon as I got home for another easy effort.
 
 #### TODAY'S THEME:
 Minimum <strike>effective</strike> dose.
@@ -184,7 +182,8 @@ The dilemma.  [Monday](/ironman2022-27weeksout?mon) is a holiday.  Do I swim tod
 [Tomorrow](ironman2022-27weeksout?sun) won because I'd then get access to the 50m pool in the morning.
 
 The ride however was a go and I went off toward _Thetis Lake_ on my new mountain bike.  I have a loose gauge on fitness that I call _"Time to Dirt"_.  It is the start of the ride to the time I get to the gate at the end of _Westoby Road_.  Last summer, on my old XC bike, I'd make it to the gate in ~28 minutes.  So far, I have yet to crack 31 minutes on the new bike.
-
+![XC](/assets/jpg/mtb-20220219.jpeg)
+<!---->
 That is not the whole story as I have another time check on this route too; that being total time from the start of the ride to the end of the first single track run.  A good ride on the old XC bike had me to that second time check in ~40 minutes; on the new bike today, I was ~37 minutes to the end of _Comfy Wooden Chair_.
 
 Today I rode _Electric Light_ to ride _Electric Ave_, west to east (first time). From there I took the fire road up and up to _Kalie's Connector_ but instead of popping out at _Munn Road_, I doubled back on _Frank's Trail_ (new to me).
