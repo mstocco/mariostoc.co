@@ -132,7 +132,7 @@ Strong / 750-1000m effort is a bit of a hard one to assess.  Going by my best ti
 
 Today, the **low 1:40s/100m** for the Strong 50m lengths seemed appropriate.
 
-![](/assets/jpg/image.jpeg)
+![Swim](/assets/jpg/swim-20220217.jpeg)
 
 ---
 
