@@ -7,12 +7,15 @@ Week beginning [Sunday, February 13, 2022](javascript:flick('sun');)
 Put together another big week
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: Just shy of **10 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **BUILDING UP**
 
-&mdash;
+Fatigue wast felt on the run [Tuesday](javascript:flick('tue');) and again on [Friday](javascript:flick('fri');) but every other day this week was above average; mini peaks and valleys.  No big niggles but there was some tightness in my left lumbar that I continue to tend to and a **stiff neck** flared up later in the week.
+
+**First road ride** of the year and another day of **+700m elevation** on the XC bike to wrap up the week.
+
+Temperatures were **below seasonal** though I was able to stay dry.
 
 ![This week started with beautiful spring weather but the winter rain is still present.](/assets/jpg/IMG_3389-977x550.jpeg COLQUITZ RIVER TRAIL)
 
@@ -159,6 +162,16 @@ Sleep **4** | Fatigue **3** | Stress **3** | Soreness **4**
 2nd: Ride 2:30 on MTB. Keep it fun. Keep it relatively fun. Bring plenty of hydration and calories.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Moving Time: **141 Minutes** &nbsp; Elevation: **727m**
 
 Was awake to go for a swim at 0500; no desire to get up so I rolled over and went back to sleep.
+
+The dilemma.  [Monday](/ironman2022-27weeksout?mon) is a holiday.  Do I swim today or push it to tomorrow and balance out the days between swims.  Tomorrow won because I'd then get access to the 50m pool in the morning.
+
+The ride however was a go and I went off toward _Thetis Lake_ on my new mountain bike.  I have a loose gauge on fitness that I call _"Time to Dirt"_.  It is the start of the ride to the time I get to the gate at the end of _Westoby Road_.  Last summer, on my old XC bike, I'd make it to the gate in ~28 minutes.  So far, I have yet to crack 31 minutes on the new bike.
+
+That is not the whole story as I have another time check on this route too; that being total time from the start of the ride to the end of the first single track run.  A good ride on the old XC bike had me to that second time check in ~40 minutes; on the new bike today, I was ~37 minutes to the end of _Comfy Wooden Chair_.
+
+Today I rode _Electric Light_ to ride _Electric Ave_, west to east (first time). From there I took the fire road up and up to _Kalie's Connector_ but instead of popping out at _Munn Road_, I doubled back on _Frank's Trail_ (new to me).
+
+This was a **fun ride** and I could feel the stimulus in my legs on the pedal home.

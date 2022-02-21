@@ -4,7 +4,7 @@ Week beginning [Sunday, February 20, 2022](javascript:flick('sun');)
 **27** weeks out from race day.
 
 ## WEEKLY GOAL
-&mdash;
+The theme of this past month, hit it again.
 
 ## SUMMARY
 Total Time: **0 Hours**
@@ -17,29 +17,38 @@ I feel like I was...
 ![](/assets/jpg/II-9x550.jpeg)
 
 ## SUNDAY FEB 20
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **3** | Fatigue **4** | Stress **2** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+AM: Swim 2150: 
+4 rounds (100 easy free, 50 paddle-fist drill, 50 steady kick. Rest by feel after each) 
+5 rounds (50 gradual build from easy to strong r :20, 50 strong r :20, 50 EASY r :20) 
+5x 100 steady/smooth w/ buoy. R :30 after each. 
+4x 25 easy to cool down.
+
+Run 85 minutes. Easy effort. Similar terrain to last week. (aka: off pavement if possible) 
 
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+  
 
 <!---->
-## MONDAY FEB 21
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## MONDAY FEB 21 🌦
+Sleep **3** | Fatigue **5** | Stress **2** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Ride 60 minutes EASY. Whatever bike you like. Can be rollers, could be the road bike outside, TT bike outside, MTB. Whatever you like. Just keep it EASY.
+
+Mobility 21 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Good sleep but there is soreness; left glute (max) is tender, hip flexors (both sides) are tender and I have a stiff neck and traps.  Other than that, I am golden!
+
 
 <!---->
 ## TUESDAY FEB 22
@@ -47,7 +56,10 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Pm: Evening run w/ your buddies. 
+60-70 minutes of running time. Try to hold off on the big push as long as possible.
+
+Rollers ~ 20 minutes. Easy spinning. 
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -60,7 +72,15 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Optional: Ride to/from the pool.
+
+Swim 2400: 
+4 rounds (100 easy free r :20, 50 Shark-fin drill r :30) 
+7x 100 aerobic/steady w/ buoy and focus on rotation. R :30. 
+5 rounds (150 @ 1500 effort r :30, 50 Easy r :20) 
+2x 50 easy to cool down.
+
+Rollers ~ 20 minutes. EASY spinning
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -73,7 +93,14 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Ride 85 minutes: *Yes, this is the same ride from last week. But last week you ended up outside. I doubt you'll get to go outside. Looks chilly!
+20 minutes easy spinning to warm up. 
+10x :20 high cadence, :40 easy spinning. 
+5 minutes easy spinning. 
+5x 5 minutes @ 30-45 minute TT effort, 3 minutes easy spinning after each.
+10 minutes easy spinning to cool down.
+
+Run 30 minutes EASY. This should be to start or end the day. Can be after the ride, but certainly does not HAVE to be after the ride.
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -86,7 +113,17 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Optional: Ride to/from the pool.
+
+Swim 2400: 
+150 easy free. 
+150 as 25 backstroke/25 free. 
+200 w/ 4x sighting per 50. 
+6x 50 steady kick. R :10. 
+5x 300 w/ a steady turnover and consistent kick. R 1:00 after each. 
+2x 50 easy to cool down.
+
+Mobility 23 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
