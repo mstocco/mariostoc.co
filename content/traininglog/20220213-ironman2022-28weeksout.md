@@ -153,8 +153,11 @@ Total Time: **0 Minutes**
 
 Rinse, repeat; woke with a headache just like [last Friday](ironman2022-29weeksout?fri).  Neck is still stiff and might be a factor.  This sucks.  I broke down and 2 Advil in the morning so I'd have some comfort during the day.
 
-After work, I headed out for the run; I felt heavy and went slow, really slow.  It was on to the rollers as soon as I got home.
+After work, I headed out for the run; I felt heavy and went slow, really slow.
 
+It was on to the rollers as soon as I got home for another easy effort.
+
+#### TODAY'S THEME:
 Minimum <strike>effective</strike> dose.
 
 <!---->
@@ -176,7 +179,9 @@ Total Moving Time: **141 Minutes** &nbsp; Elevation: **727m**
 
 Was awake to go for a swim at 0500; no desire to get up so I rolled over and went back to sleep.
 
-The dilemma.  [Monday](/ironman2022-27weeksout?mon) is a holiday.  Do I swim today or push it to tomorrow and balance out the days between swims.  Tomorrow won because I'd then get access to the 50m pool in the morning.
+The dilemma.  [Monday](/ironman2022-27weeksout?mon) is a holiday.  Do I swim today or push it to tomorrow and balance out the days between swims.
+<!---->
+[Tomorrow](ironman2022-27weeksout?sun) won because I'd then get access to the 50m pool in the morning.
 
 The ride however was a go and I went off toward _Thetis Lake_ on my new mountain bike.  I have a loose gauge on fitness that I call _"Time to Dirt"_.  It is the start of the ride to the time I get to the gate at the end of _Westoby Road_.  Last summer, on my old XC bike, I'd make it to the gate in ~28 minutes.  So far, I have yet to crack 31 minutes on the new bike.
 
