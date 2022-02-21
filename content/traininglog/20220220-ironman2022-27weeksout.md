@@ -30,9 +30,18 @@ AM: Swim 2150:
 Run 85 minutes. Easy effort. Similar terrain to last week. (aka: off pavement if possible) 
 
 ### NOTES
-Total Time: **0 Minutes**
+Swim: **2400m** &nbsp; Bike: **7 km** &nbsp; Run: **15 km**  
+Total Time: **165 Minutes**
 
-  
+Solid day that started in the pool.  Probably should have done the scheduled 2150m workout but I wasn't having any luck getting it converted in Garmin Connect from 25m to a 50m pool.  I was at the pool to swim, not to pfaff with my phone/watch on deck so I just went with a 2400m workout instead.
+
+I got to share a lane with [Batuhan Kaya](https://www.endurance-data.com/en/result/543/840-batuhan-kaya/) which was pretty awesome (he swims with really good form).  Good energy in the water today.
+
+That energy carried through to the commute home.  I remember the gassed feeling of riding after a hard swim last summer.  Today I was feeling great on the ride home.
+
+Rain and showers filled in the rest of the day and I still had a run to do.  I was wet and cold on an out and back on _The Goose_ up to _Atkins Road_.  What I wasn't feeling on the bike ride home, I felt after the run.  Left glute and hip flexors worked over, quads tight too and running cold and wet didn't do much for my stiff neck either.
+
+Time for a BIG dinner. 
 
 <!---->
 ## MONDAY FEB 21 🌦
