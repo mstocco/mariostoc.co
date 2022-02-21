@@ -30,12 +30,12 @@ AM: Swim 2150:
 Run 85 minutes. Easy effort. Similar terrain to last week. (aka: off pavement if possible) 
 
 ### NOTES
-Swim: **2400m** &nbsp; Bike: **7 km** &nbsp; Run: **15 km**  
+Swim: **2400m** &nbsp; Bike Commute: **7 km** &nbsp; Run: **15 km**  
 Total Time: **165 Minutes**
 
 Solid day that started in the pool.  Probably should have swam the scheduled 2150m workout but I wasn't having any luck getting it loaded properly into my watch.  I was at the pool to swim, not to pfaff with my phone/watch on deck so I just went with a 2400m workout instead.
 <!---->
-I got to share a lane with [Batuhan Kaya](https://www.endurance-data.com/en/result/543/840-batuhan-kaya/) which was pretty awesome (he swims with really good form).  **Good energy** in the water today.
+**Good energy** in the water today.  I got to share a lane with [Batuhan Kaya](https://www.endurance-data.com/en/result/543/840-batuhan-kaya/) which was pretty awesome (he swims with really good form).
 ![Swim](/assets/jpg/swim-20220220.jpeg)
 That energy carried through to the commute home.  I remember the gassed feeling of riding after a hard swim last summer.  Today I was **feeling great** on the ride home.
 
