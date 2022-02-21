@@ -9,11 +9,11 @@ Put together another big week
 ## SUMMARY
 Total Time: Just shy of **10 Hours**
 
-I feel like I was **BUILDING UP**
+I feel like I was **ADDING ANOTHER LAYER**
 
-Fatigue wast felt on the run [Tuesday](javascript:flick('tue');) and again on [Friday](javascript:flick('fri');) but every other day this week was above average; mini peaks and valleys.  No big niggles but there was some tightness in my left lumbar that I continue to tend to and a **stiff neck** flared up later in the week.
+Fatigue wast felt on the run [Tuesday](javascript:flick('tue');) and again on [Friday](javascript:flick('fri');) but every other day this week was above average; mini peaks and valleys.  No big niggles but there was some tightness in my left lumbar that I continue to tend to and a stiff neck flared up later in the week.
 
-**First road ride** of the year and another day of **+700m elevation** on the XC bike to wrap up the week.
+[First road ride](javascript:flick('wed');) of the year and another [solid day](javascript:flick('sat');) on the XC bike to wrap up the week.
 
 Temperatures were **below seasonal** though I was able to stay dry.
 
@@ -124,7 +124,17 @@ Mobility 30 minutes
 ### NOTES
 Total Time: **60 Minutes**
 
-Good effort in the pool this morning though there was a bit of lane congestion to deal with.  I rode my road bike to the pool and. even catching a three lights, I was minutes faster than on my XC bike.
+I rode my road bike to the pool and even catching a three lights, I was minutes faster than on my XC bike.
+<!---->
+Good effort in the pool this morning though there was a bit of lane congestion to deal with.
+
+Strong / 750-1000m effort is a bit of a hard one to assess.  Going by my best times for those distances, that would be ~1:56/100m, or just simply easy effort.
+
+Today, the **low 1:40s/100m** for the Strong 50m lengths seemed appropriate.
+
+![](/assets/jpg/image.jpeg)
+
+---
 
 I spent time on my massage chair working out knots in my back and neck; it has been a long time since I have done that and it was very much needed.
 
