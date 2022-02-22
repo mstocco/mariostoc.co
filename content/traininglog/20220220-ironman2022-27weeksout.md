@@ -69,7 +69,10 @@ Basic chores around the house and an hour of Z2 spinning on the rollers.
 Pm: Evening run w/ your buddies. 
 60-70 minutes of running time. Try to hold off on the big push as long as possible.
 
-Rollers ~ 20 minutes. Easy spinning. 
+Rollers ~ 20 minutes. Easy spinning.
+
+### WEATHER
+Temp: **-1°C** &nbsp; Feels Like: **-9°C** &nbsp; Wind: **NNE 33 km/h**
 
 ### NOTES
 Total Time: **0 Minutes**
