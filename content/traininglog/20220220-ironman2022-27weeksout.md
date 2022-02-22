@@ -16,7 +16,7 @@ I feel like I was...
 
 ![](/assets/jpg/II-9x550.jpeg)
 
-## SUNDAY FEB 20
+## SUNDAY FEB 20 🌦
 Sleep **3** | Fatigue **4** | Stress **2** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -58,10 +58,11 @@ Total Time: **0 Minutes**
 
 Good sleep but there is soreness; left glute (max) is tender, hip flexors (both sides) are tender and I have a stiff neck and traps.  Other than that, I am golden!
 
+Basic chores around the house and an hour of Z2 spinning on the rollers.
 
 <!---->
-## TUESDAY FEB 22
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY FEB 22 ☀️
+<mark>Sleep **6** |</mark> Fatigue **4** | Stress **4** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -73,7 +74,7 @@ Rollers ~ 20 minutes. Easy spinning.
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Terrible sleep last night; up with hunger, a loud windstorm from an arctic outflow and a stiff neck.  I did fall back asleep at one point but...
 
 <!---->
 ## WEDNESDAY FEB 23
@@ -81,8 +82,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Optional: Ride to/from the pool.
-
+_Optional: Ride to/from the pool_.    
 Swim 2400: 
 4 rounds (100 easy free r :20, 50 Shark-fin drill r :30) 
 7x 100 aerobic/steady w/ buoy and focus on rotation. R :30. 
