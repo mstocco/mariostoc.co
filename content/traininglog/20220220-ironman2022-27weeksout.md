@@ -71,8 +71,11 @@ Pm: Evening run w/ your buddies.
 
 Rollers ~ 20 minutes. Easy spinning.
 
+<span class="agencyvc">WEATHER</span> **-1°C** (feels like **-9°C**) &nbsp;Wind: **NNE 33 km/h**
+<!--
 ### WEATHER
-Temp: **-1°C** &nbsp; Feels Like: **-9°C** &nbsp; Wind: **NNE 33 km/h**
+Temp: **-1°C** &nbsp;Feels Like: **-9°C** &nbsp;Wind: **NNE 33 km/h**
+-->
 
 ### NOTES
 Total Time: **+73 Minutes** &nbsp; Run: **12.6 km** <small>@5:49/km</small> 
