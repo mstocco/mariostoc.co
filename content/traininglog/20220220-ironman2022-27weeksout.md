@@ -79,6 +79,8 @@ Total Time: **0 Minutes**
 
 Terrible sleep last night; up with hunger, a loud windstorm from an arctic outflow and a stiff neck.  I did fall back asleep at one point but...
 
+I had a big lunch and set out for an afterwork 8km run, rhat got stretched to 10 and then to 12!  
+
 <!---->
 ## WEDNESDAY FEB 23
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
