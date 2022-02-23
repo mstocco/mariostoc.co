@@ -75,15 +75,17 @@ Rollers ~ 20 minutes. Easy spinning.
 Temp: **-1°C** &nbsp; Feels Like: **-9°C** &nbsp; Wind: **NNE 33 km/h**
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **+73 Minutes** &nbsp; Run: **12.6 km** <small>@5:49/km</small> 
 
 Terrible sleep last night; up with hunger, a loud windstorm from an arctic outflow and a stiff neck.  I did fall back asleep at one point but...
 
-I had a big lunch and set out for an afterwork 8km run, rhat got stretched to 10 and then to 12!  
+Despite feeling a bit dinged up (neck, traps, hip flexors), I had a big lunch and set out for an afterwork 8km run, that got stretched to 10 and then to 12!  In the moment, I was feeling good and the Tuesday Crew was happy to tack on a bit more.  I did a kilometre of run/walk warmup before the run too.
+
+No rollers tonight.
 
 <!---->
-## WEDNESDAY FEB 23
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY FEB 23 ☀️
+Sleep **4** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -97,9 +99,11 @@ Swim 2400:
 Rollers ~ 20 minutes. EASY spinning
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **55 Minutes** &nbsp; Swim: **2200m**
 
-&mdash;  
+What would have been the swim scheduled on [Sunday](javascript:flick('sun');) was do this morning.  I added an extra easy 50m to get myself back to the wall that had the pull buoy (original workout was for a 25m pool).  I felt like I has another great day in the water.  The strong 50m lengths in the main set were at my best effort and form; going wall to wall in about 45ish seconds.
+
+I drove to the pool; it was -3°C.
 
 <!---->
 ## THURSDAY FEB 24
