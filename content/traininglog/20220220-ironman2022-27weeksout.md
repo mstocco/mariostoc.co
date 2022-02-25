@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![Thursday morning.  Hopefully this is the last of the snow for the year](/assets/jpg/IMG_4002-977x550.jpeg LOCHSIDE TRAIL (SOUTH))
 
 ## SUNDAY FEB 20 🌦
 Sleep **3** | Fatigue **4** | Stress **2** | Soreness **5**
@@ -71,11 +71,7 @@ Pm: Evening run w/ your buddies.
 
 Rollers ~ 20 minutes. Easy spinning.
 
-<span class="agencyvc">WEATHER</span> **-1°C** (feels like **-9°C**) &nbsp;Wind: **NNE 33 km/h**
-<!--
-### WEATHER
-Temp: **-1°C** &nbsp;Feels Like: **-9°C** &nbsp;Wind: **NNE 33 km/h**
--->
+<p style="color:orange;"><span class="agencyvc">WEATHER</span> -1°C feels like -9°C, wind NNE 33 km/h</p>
 
 ### NOTES
 Total Time: **+73 Minutes** &nbsp; Run: **12.6 km** <small>@5:49/km</small> 
@@ -109,8 +105,8 @@ What would have been the swim scheduled on [Sunday](javascript:flick('sun');) wa
 I drove to the pool; it was -3°C.
 
 <!---->
-## THURSDAY FEB 24
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY FEB 24 ☀️
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -124,13 +120,13 @@ Ride 85 minutes: *Yes, this is the same ride from last week. But last week you e
 Run 30 minutes EASY. This should be to start or end the day. Can be after the ride, but certainly does not HAVE to be after the ride.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **30 Minutes**
 
-&mdash;  
+Started the day with a cup of coffee and the 30 minute run; standard route to _Quadra_ on the bike path that typically takes me ~32 minutes.  Today I was back in 30 feeling great.
 
 <!---->
-## FRIDAY FEB 25
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY FEB 25 ☀️
+Sleep **2** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -147,9 +143,11 @@ Swim 2400:
 Mobility 23 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **57 Minutes** &nbsp; Swim: **2300m**
 
-&mdash;  
+Good sleep last night.  Cold this morning (again) so I drove to the pool.
+
+Another good effort in the pool despite missing the 200m sighting rep.  I realized my mistake while doing the 6x50 kick drill and put in a _"make up"_ 100m before starting the 5x300m set.  Reps 1, 2, 4 and 5 were within 1.2 seconds of each other and the 3rd rep was ~6 seconds faster than the others (maybe picked it up to pass someone).  Really stoked with that consistency; I am sure the 1 minute rest in between helped.
 
 <!---->
 ## SATURDAY FEB 26
@@ -157,7 +155,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+MTB ~ 2:45-3:00 on the bike. 
+Stay warm, Fuel early, fuel often, stay hydrated, have fun. Overall this is a "sustainable" effort ride. But you're going to push on a climb or three, and that is ok with me.
 
 ### NOTES
 Total Time: **0 Minutes**
