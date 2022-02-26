@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![Thursday morning.  Hopefully this is the last of the snow for the year](/assets/jpg/IMG_4002-977x550.jpeg LOCHSIDE TRAIL (SOUTH))
+![A Thursday morning dusting of snow.  Hopefully this is the last of it for the year](/assets/jpg/IMG_4002-977x550.jpeg LOCHSIDE TRAIL SOUTH)
 
 ## SUNDAY FEB 20 🌦
 Sleep **3** | Fatigue **4** | Stress **2** | Soreness **5**
@@ -130,8 +130,6 @@ Sleep **2** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Optional: Ride to/from the pool.
-
 Swim 2400: 
 150 easy free. 
 150 as 25 backstroke/25 free. 
@@ -150,8 +148,8 @@ Good sleep last night.  Cold this morning (again) so I drove to the pool.
 Another good effort in the pool despite missing the 200m sighting rep.  I realized my mistake while doing the 6x50 kick drill and put in a _"make up"_ 100m before starting the 5x300m set.  Reps 1, 2, 4 and 5 were within 1.2 seconds of each other and the 3rd rep was ~6 seconds faster than the others (maybe picked it up to pass someone).  Really stoked with that consistency; I am sure the 1 minute rest in between helped.
 
 <!---->
-## SATURDAY FEB 26
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY FEB 26 🌦
+Sleep **2** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -161,4 +159,4 @@ Stay warm, Fuel early, fuel often, stay hydrated, have fun. Overall this is a "s
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+
