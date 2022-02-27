@@ -68,10 +68,7 @@ Basic chores around the house and an hour of Z2 spinning on the rollers.
 
 ### PLANNED WORKOUT
 Pm: Evening run w/ your buddies. 
-60-70 minutes of running time. Try to hold off on the big push as long as possible.   
-Rollers ~ 20 minutes. Easy spinning.
-
-
+60-70 minutes of running time. Try to hold off on the big push as long as possible. Rollers ~ 20 minutes. Easy spinning.
 
 ### NOTES
 Total Time: **+73 Minutes** &nbsp; Run: **12.6 km** <small>@5:49/km</small><br />
@@ -101,9 +98,9 @@ Rollers ~ 20 minutes. EASY spinning
 ### NOTES
 Total Time: **55 Minutes** &nbsp; Swim: **2200m**
 
-What would have been the swim scheduled on [Sunday](javascript:flick('sun');) was do this morning.  I added an extra easy 50m to get myself back to the wall that had the pull buoy (original workout was for a 25m pool).  I felt like I has another great day in the water.  The strong 50m lengths in the main set were at my best effort and form; going wall to wall in about 45ish seconds.
-
 I drove to the pool; it was -3°C.
+
+What would have been the swim scheduled on [Sunday](javascript:flick('sun');) was done this morning.  An extra easy 50m to get myself back to the wall for the pull buoy (original workout was for a 25m pool).  I felt like I had **another great swim**.  The strong 50m lengths in the main set were at my best effort and form; going wall to wall in about 45ish seconds.
 
 <!---->
 ## THURSDAY FEB 24 ☀️
@@ -123,7 +120,7 @@ Run 30 minutes EASY. This should be to start or end the day. Can be after the ri
 ### NOTES
 Run Time: **30 Minutes** &nbsp; Roller Time: **40 minutes**
 
-Started the day with a cup of coffee and the 30 minute run; standard route to _Quadra_ on the bike path that typically takes me ~32 minutes.  Today I was back in 30 and **feeling great**.
+Started the day with a cup of coffee and the 30 minute run; standard route to _Quadra_ on the bike path.  This route typically takes me ~32 minutes at an easy pace.  This morning, I was **feeling great** and back in 30 and.
 
 Work got in the way of me getting on the bike; at 2030 I pedalled easy until bedtime.
 
@@ -146,9 +143,9 @@ Mobility 23 minutes
 ### NOTES
 Total Time: **57 Minutes** &nbsp; Swim: **2300m**
 
-Good sleep last night.  Cold this morning (again) so I drove to the pool.
+Cold this morning (again); I drove to the pool.
 
-**Another good effort** in the pool despite missing the 200m sighting rep.  I realized my mistake while doing the 6x50 kick drill and put in a _"make up"_ 100m before starting the 5x300m set.  Reps 1, 2, 4 and 5 were within 1.2 seconds of each other and the 3rd rep was ~6 seconds faster than the others (maybe picked it up to pass someone).  Really stoked with that consistency; I am sure the 1 minute rest in between helped.
+Another **good effort** in the pool despite missing the 200m sighting rep.  I realized my mistake while doing the 6x50 kick drill and put in a _"make up"_ 100m before starting the 5x300m set.  Reps 1, 2, 4 and 5 were within 1.2 seconds of each other and the 3rd rep was ~6 seconds faster than the others (maybe picked it up to pass someone).  Really stoked with that consistency; I am sure the 1 minute rest in between helped.
 
 <!---->
 ## SATURDAY FEB 26 🌦
@@ -180,13 +177,13 @@ Part of me missed the Saturday swim after the ride, the other part understood th
 <!---->
 ### Single Track Trails
 _Thetis Lake Regional Park_  
-<span style="color:blue">&#9899;</span> Comfy Wooden Chair <small style="color:gold;">~3 minutes</small>  
-<span style="color:blue">&#9899;</span> Electric Light <small style="color:gold;">cleaned</small>  
-<span style="color:blue">&#9899;</span> Mountain Trail (North) <small>down off Mt. Stewart</small>  
-<span style="color:blue">&#9899;</span> Frank's Trail <small>to Munn Rd.</small>
+<span style="color:blue;">&#9899;</span> Comfy Wooden Chair <small style="color:gold;">~3 minutes</small>  
+<span style="color:blue;">&#9899;</span> Electric Light <small style="color:gold;">cleaned</small>  
+<span style="color:blue;">&#9899;</span> Mountain Trail (North) <small>down off Mt. Stewart</small>  
+<span style="color:blue;">&#9899;</span> Frank's Trail <small>to Munn Rd.</small>
 
 _Mount Work Regional Park_   
-<span style="color:blue">&#9899;</span> Fun Trail  
-<span style="color:blue">&#9899;</span> Bottom Feeder <small style="color:gold;">cleaned</small>  
-<span style="color:blue">&#9899;</span> Crossover <small style="color:gold;">cleaned</small>   
-<span style="color:blue">&#9899;</span> Executive West <small style="color:gold;">cleaned and PR</small>   
+<span style="color:blue;">&#9899;</span> Fun Trail  
+<span style="color:blue;">&#9899;</span> Bottom Feeder <small style="color:gold;">cleaned</small>  
+<span style="color:blue;">&#9899;</span> Crossover <small style="color:gold;">cleaned</small>   
+<span style="color:blue;">&#9899;</span> Executive West <small style="color:gold;">cleaned and PR</small>   
