@@ -72,7 +72,7 @@ Pm: Evening run w/ your buddies.
 
 ### NOTES
 Total Time: **+73 Minutes** &nbsp; Run: **12.6 km** <small>@5:49/km</small><br />
-Weather: <span style="color:orange;">-1°C feels like -9°C, wind NNE 33 km/h</span>
+<sup style="color:orange;">Weather: &nbsp;-1°C feels like -9°C, wind NNE 33 km/h</sup>
 
 Terrible sleep last night; up with hunger, a loud windstorm from an arctic outflow and a stiff neck.  I did fall back asleep at one point but...
 
@@ -100,7 +100,7 @@ Total Time: **55 Minutes** &nbsp; Swim: **2200m**
 
 I drove to the pool; it was -3°C.
 
-What would have been the swim scheduled on [Sunday](javascript:flick('sun');) was done this morning.  An extra easy 50m to get myself back to the wall for the pull buoy (original workout was for a 25m pool).  I felt like I had **another great swim**.  The strong 50m lengths in the main set were at my best effort and form; going wall to wall in about 45ish seconds.
+What would have been the swim scheduled on [Sunday](javascript:flick('sun');) was done this morning.  An extra easy 50m to get myself back to the wall for the pull buoy (original workout was for a 25m pool).  I felt like I had **another great swim**.  The strong 50m lengths in the main set were at my best effort and form; going wall to wall in about 45 secs.
 
 <!---->
 ## THURSDAY FEB 24 ☀️
@@ -177,10 +177,10 @@ Part of me missed the Saturday swim after the ride, the other part understood th
 <!---->
 ### Single Track Trails
 _Thetis Lake Regional Park_  
-<span style="color:blue;">&#9899;</span> Comfy Wooden Chair <small style="color:gold;">~3 minutes</small>  
-<span style="color:blue;">&#9899;</span> Electric Light <small style="color:gold;">cleaned</small>  
-<span style="color:blue;">&#9899;</span> Mountain Trail (North) <small>down off Mt. Stewart</small>  
-<span style="color:blue;">&#9899;</span> Frank's Trail <small>to Munn Rd.</small>
+<span style="color:blue;">&#9900;</span> Comfy Wooden Chair <small style="color:gold;">~3 minutes</small>  
+<span style="color:blue;">&#9900;</span> Electric Light <small style="color:gold;">cleaned</small>  
+<span style="color:blue;">&#9900;</span> Mountain Trail (North) <small>down off Mt. Stewart</small>  
+<span style="color:blue;">&#9900;</span> Frank's Trail <small>to Munn Rd.</small>
 
 _Mount Work Regional Park_   
 <span style="color:blue;">&#9899;</span> Fun Trail  
