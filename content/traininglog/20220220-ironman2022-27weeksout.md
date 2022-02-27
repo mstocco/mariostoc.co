@@ -179,14 +179,14 @@ Part of me missed the Saturday swim after the ride, the other part understood th
 
 <!---->
 ### Single Track Trails
-Thetis Lake Regional Park  
-<span style="color:blue">&#11044;</span> Comfy Wooden Chair <small style="color:gold;">~3 minutes</small>  
-<span style="color:blue">&#11044;</span> Electric Light <small style="color:gold;">cleaned</small>  
-<span style="color:blue">&#11044;</span> Mountain Trail (North) <small>down off Mt. Stewart</small>  
-<span style="color:blue">&#11044;</span> Frank's Trail <small>to Munn Rd.</small>
+_Thetis Lake Regional Park_  
+<span style="color:blue">&#9899;</span> Comfy Wooden Chair <small style="color:gold;">~3 minutes</small>  
+<span style="color:blue">&#9899;</span> Electric Light <small style="color:gold;">cleaned</small>  
+<span style="color:blue">&#9899;</span> Mountain Trail (North) <small>down off Mt. Stewart</small>  
+<span style="color:blue">&#9899;</span> Frank's Trail <small>to Munn Rd.</small>
 
-Mount Work Regional Park   
-<span style="color:blue">&#11044;</span> Fun Trail  
-<span style="color:blue">&#11044;</span> Bottom Feeder <small style="color:gold;">cleaned</small>  
-<span style="color:blue">&#11044;</span> Crossover <small style="color:gold;">cleaned</small>   
-<span style="color:blue">&#11044;</span> Executive West <small style="color:gold;">cleaned and PR</small>   
+_Mount Work Regional Park_   
+<span style="color:blue">&#9899;</span> Fun Trail  
+<span style="color:blue">&#9899;</span> Bottom Feeder <small style="color:gold;">cleaned</small>  
+<span style="color:blue">&#9899;</span> Crossover <small style="color:gold;">cleaned</small>   
+<span style="color:blue">&#9899;</span> Executive West <small style="color:gold;">cleaned and PR</small>   
