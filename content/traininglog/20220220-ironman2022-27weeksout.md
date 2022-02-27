@@ -171,11 +171,12 @@ All the boxes checked on the ride today except for the stay warm part.  I had to
 
 I had Oreo Cookies too.
 <!---->
-Most of the significant hills that put my heart-rate north of 150 are around the Scafe Hill/Mount Stewart area.  There was some very heavy breathing cresting climbs in the first 1:30:00
+Most of the significant hills that put my heart-rate north of 150 are around the Scafe Hill/Mount Stewart area.  There was some very heavy breathing cresting climbs in the first 1:30:00.
+
+![Ride Map](/assets/jpg/mtb-20220227.jpeg)
 
 Part of me missed the Saturday swim after the ride, the other part understood that today was solid day on the bike.
 
-![](/assets/jpg/image.jpeg)
 <!---->
 ### Single Track Trails
 Thetis Lake Regional Park  
