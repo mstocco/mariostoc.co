@@ -7,12 +7,11 @@ Week beginning [Sunday, February 20, 2022](javascript:flick('sun');)
 The theme of this past month, hit it again.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **11 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+Before I knew it, there was just over 11 hours on the board for the week.  I missed the workout on the rollers on [Wednesday](javascript:flick('wed');) but got on the bike for a steady spin regardless.  The other big ride was on [Saturday](javascript:flick('sat');) where I built time/elevation on previous route linking _Thetis_ and _Mount Work_ (Regional Parks).
 
-&mdash;
+Some stiffness symmetrically in my neck and traps and a stiff left lumbar are the only niggles that I worked through this week.
 
 ![A Thursday morning dusting of snow.  Hopefully this is the last of it for the year](/assets/jpg/IMG_4002-977x550.jpeg LOCHSIDE TRAIL SOUTH)
 
@@ -54,7 +53,7 @@ Ride 60 minutes EASY. Whatever bike you like. Can be rollers, could be the road 
 Mobility 21 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **60 Minutes** &nbsp; Ride: **indoor/rollers**
 
 Good sleep but there is soreness; left glute (max) is tender, hip flexors (both sides) are tender and I have a stiff neck and traps.  Other than that, I am golden!
 
@@ -157,6 +156,27 @@ MTB ~ 2:45-3:00 on the bike.
 Stay warm, Fuel early, fuel often, stay hydrated, have fun. Overall this is a "sustainable" effort ride. But you're going to push on a climb or three, and that is ok with me.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **180 Minutes** &nbsp; Accent: **862m**
 
+All the boxes checked on the ride today except for the stay warm part.  I had to roll down from the top of _Munn Road_ to _Woodridge Place_ to connect the two Regional Parks; it started to rain and felt like it wanted to snow.
 
+<!---->
+### Single Track Trails
+**Thetis Lake Regional Park**  
+<span style="blue">&#11044;</span> Comfy Wooden Chair <small>~3 minutes</small>  
+<span style="blue">&#11044;</span> Electric Avenue <small>cleaned</small>  
+<span style="blue">&#11044;</span> No Name Trail <small>down off Mt. Stewart</small>  
+<span style="blue">&#11044;</span> Frank's Trail <small>to Munn Rd.</small>
+
+**Mount Work Regional Park**   
+<span style="blue">&#11044;</span> Fun Trail  
+<span style="blue">&#11044;</span> Bottom Feeder <small>cleaned</small>  
+<span style="blue">&#11044;</span> Crossover <small>cleaned</small>   
+<span style="blue">&#11044;</span> Executive West <small>cleaned and PR</small>   
+
+### In the Bottle
+50g Maltodextrin   
+30g Country Time Lemonade  
+20g Table Sugar (Dextrose)
+
+I had Oreo Cookies too.
