@@ -15,6 +15,8 @@ I felt really good on [Tuesday's Run](javascript:flick('tue');)  I missed the wo
 
 Some stiffness symmetrically in my neck and traps and a stiff left lumbar are the only niggles that I worked through this week.
 
+I am pretty disgusted with the events unfolding in Ukraine.
+
 ![A Thursday morning dusting of snow.  Hopefully this is the last of it for the year](/assets/jpg/IMG_4002-977x550.jpeg LOCHSIDE TRAIL SOUTH)
 
 ## SUNDAY FEB 20 🌦
@@ -72,13 +74,11 @@ Pm: Evening run w/ your buddies.
 
 ### NOTES
 Total Time: **+73 Minutes** &nbsp; Run: **12.6 km** <small>@5:49/km</small><br />
-<sup style="color:orange;">Weather: &nbsp;-1°C feels like -9°C, wind NNE 33 km/h</sup>
+<span style="color:orange;">Weather: &nbsp;-1°C feels like -9°C, wind NNE 33 km/h</span>
 
 Terrible sleep last night; up with hunger, a loud windstorm from an arctic outflow and a stiff neck.  I did fall back asleep at one point but...
 
-Despite feeling a bit dinged up (neck, traps, hip flexors), I had a big lunch and set out for an afterwork 8km run, that got stretched to 10 and then to 12!  In the moment, I was **feeling good** and the Tuesday Crew was happy to tack on a bit more.  I did a kilometre of run/walk warmup before the run too.
-
-No rollers tonight.
+Despite feeling a bit dinged up (neck, traps, hip flexors), I had a big lunch and set out for an afterwork 8km run, that got stretched to 10 and then to 12!  In the moment, I was **feeling good** and the Tuesday Crew was happy to tack on a bit more.  I did a kilometre of run/walk warmup before the run too.  **No rollers tonight**.
 
 <!---->
 ## WEDNESDAY FEB 23 ☀️
@@ -120,7 +120,7 @@ Run 30 minutes EASY. This should be to start or end the day. Can be after the ri
 ### NOTES
 Run Time: **30 Minutes** &nbsp; Roller Time: **40 minutes**
 
-Started the day with a cup of coffee and the 30 minute run; standard route to _Quadra_ on the bike path.  This route typically takes me ~32 minutes at an easy pace.  This morning, I was **feeling great** and back in 30 and.
+Started the day with a cup of coffee and the 30 minute run; standard route to _Quadra_ on the bike path.  This route typically takes me ~32 minutes at an easy pace; this morning, I was **feeling great** and back in 30.
 
 Work got in the way of me getting on the bike; at 2030 I pedalled easy until bedtime.
 
@@ -136,8 +136,7 @@ Swim 2400:
 200 w/ 4x sighting per 50. 
 6x 50 steady kick. R :10. 
 5x 300 w/ a steady turnover and consistent kick. R 1:00 after each. 
-2x 50 easy to cool down.
-
+2x 50 easy to cool down.   
 Mobility 23 minutes
 
 ### NOTES
@@ -177,13 +176,13 @@ Part of me missed the Saturday swim after the ride, the other part understood th
 <!---->
 ### Single Track Trails
 _Thetis Lake Regional Park_  
-<span style="color:blue;">&#9900;</span> Comfy Wooden Chair <small style="color:gold;">~3 minutes</small>  
-<span style="color:blue;">&#9900;</span> Electric Light <small style="color:gold;">cleaned</small>  
-<span style="color:blue;">&#9900;</span> Mountain Trail (North) <small>down off Mt. Stewart</small>  
-<span style="color:blue;">&#9900;</span> Frank's Trail <small>to Munn Rd.</small>
+<span style="color:blue;">&#8226;</span> Comfy Wooden Chair <small style="color:gold;">~3 minutes</small>  
+<span style="color:blue;">&#8226;</span> Electric Light <small style="color:gold;">cleaned</small>  
+<span style="color:blue;">&#8226;</span> Mountain Trail (North) <small>down off Mt. Stewart</small>  
+<span style="color:blue;">&#8226;</span> Frank's Trail <small>to Munn Rd.</small>
 
 _Mount Work Regional Park_   
-<span style="color:blue;">&#9899;</span> Fun Trail  
-<span style="color:blue;">&#9899;</span> Bottom Feeder <small style="color:gold;">cleaned</small>  
-<span style="color:blue;">&#9899;</span> Crossover <small style="color:gold;">cleaned</small>   
-<span style="color:blue;">&#9899;</span> Executive West <small style="color:gold;">cleaned and PR</small>   
+<span style="color:blue;">&#8226;</span> Fun Trail  
+<span style="color:blue;">&#8226;</span> Bottom Feeder <small style="color:gold;">cleaned</small>  
+<span style="color:blue;">&#8226;</span> Crossover <small style="color:gold;">cleaned</small>   
+<span style="color:blue;">&#8226;</span> Executive West <small style="color:gold;">cleaned and PR</small>   
