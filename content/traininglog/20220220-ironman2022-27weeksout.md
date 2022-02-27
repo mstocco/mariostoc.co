@@ -75,7 +75,7 @@ Rollers ~ 20 minutes. Easy spinning.
 
 ### NOTES
 Total Time: **+73 Minutes** &nbsp; Run: **12.6 km** <small>@5:49/km</small><br />
-Weather: <strong style="color:orange;">-1°C feels like -9°C, wind NNE 33 km/h</strong>
+Weather: <span style="color:orange;">-1°C feels like -9°C, wind NNE 33 km/h</span>
 
 Terrible sleep last night; up with hunger, a loud windstorm from an arctic outflow and a stiff neck.  I did fall back asleep at one point but...
 
@@ -164,28 +164,28 @@ Total Time: **180 Minutes** &nbsp; Accent: **862m**
 
 All the boxes checked on the ride today except for the stay warm part.  I had to roll down from the top of _Munn Road_ to _Woodridge Place_ to connect the two Regional Parks; it started to rain and felt like it wanted to snow.
 
-### In the Bottle
+### Receipt In the Bottle
 50g Maltodextrin   
 30g Country Time Lemonade  
 20g Table Sugar (Dextrose)
 
 I had Oreo Cookies too.
 <!---->
-### Single Track Trails
-**Thetis Lake Regional Park**  
-<span style="color:blue">&#11044;</span> Comfy Wooden Chair <small>~3 minutes</small>  
-<span style="color:blue">&#11044;</span> Electric Light <small>cleaned</small>  
-<span style="color:blue">&#11044;</span> Mountain Trail (North) <small>down off Mt. Stewart</small>  
-<span style="color:blue">&#11044;</span> Frank's Trail <small>to Munn Rd.</small>
-
-**Mount Work Regional Park**   
-<span style="color:blue">&#11044;</span> Fun Trail  
-<span style="color:blue">&#11044;</span> Bottom Feeder <small>cleaned</small>  
-<span style="color:blue">&#11044;</span> Crossover <small>cleaned</small>   
-<span style="color:blue">&#11044;</span> Executive West <small>cleaned and PR</small>   
-
 Most of the significant hills that put my heart-rate north of 150 are around the Scafe Hill/Mount Stewart area.  There was some very heavy breathing cresting climbs in the first 1:30:00
 
 Part of me missed the Saturday swim after the ride, the other part understood that today was solid day on the bike.
 
 ![](/assets/jpg/image.jpeg)
+<!---->
+### Single Track Trails
+Thetis Lake Regional Park  
+<span style="color:blue">&#11044;</span> Comfy Wooden Chair <small style="color:gold;">~3 minutes</small>  
+<span style="color:blue">&#11044;</span> Electric Light <small style="color:gold;">cleaned</small>  
+<span style="color:blue">&#11044;</span> Mountain Trail (North) <small>down off Mt. Stewart</small>  
+<span style="color:blue">&#11044;</span> Frank's Trail <small>to Munn Rd.</small>
+
+Mount Work Regional Park   
+<span style="color:blue">&#11044;</span> Fun Trail  
+<span style="color:blue">&#11044;</span> Bottom Feeder <small style="color:gold;">cleaned</small>  
+<span style="color:blue">&#11044;</span> Crossover <small style="color:gold;">cleaned</small>   
+<span style="color:blue">&#11044;</span> Executive West <small style="color:gold;">cleaned and PR</small>   
