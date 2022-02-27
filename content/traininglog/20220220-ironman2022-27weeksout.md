@@ -9,7 +9,9 @@ The theme of this past month, hit it again.
 ## SUMMARY
 Total Time: **11 Hours**
 
-Before I knew it, there was just over 11 hours on the board for the week.  I missed the workout on the rollers on [Wednesday](javascript:flick('wed');) but got on the bike for a steady spin regardless.  The other big ride was on [Saturday](javascript:flick('sat');) where I built time/elevation on previous route linking _Thetis_ and _Mount Work_ (Regional Parks).
+Before I knew it, there was just over 11 hours on the board for the week.
+
+I felt really good on [Tuesday's Run](javascript:flick('tue');)  I missed the workout on the rollers on [Wednesday](javascript:flick('wed');) but got on the bike for a steady spin regardless.  The other big ride was on [Saturday](javascript:flick('sat');) where I built time/elevation on previous route linking _Thetis_ and _Mount Work_ (Regional Parks).
 
 Some stiffness symmetrically in my neck and traps and a stiff left lumbar are the only niggles that I worked through this week.
 
@@ -66,18 +68,18 @@ Basic chores around the house and an hour of Z2 spinning on the rollers.
 
 ### PLANNED WORKOUT
 Pm: Evening run w/ your buddies. 
-60-70 minutes of running time. Try to hold off on the big push as long as possible.
-
+60-70 minutes of running time. Try to hold off on the big push as long as possible.   
 Rollers ~ 20 minutes. Easy spinning.
 
-<p style="color:orange;"><span class="agencyvc">WEATHER</span> -1°C feels like -9°C, wind NNE 33 km/h</p>
+
 
 ### NOTES
-Total Time: **+73 Minutes** &nbsp; Run: **12.6 km** <small>@5:49/km</small> 
+Total Time: **+73 Minutes** &nbsp; Run: **12.6 km** <small>@5:49/km</small><br />
+Weather: <strong style="color:orange;">-1°C feels like -9°C, wind NNE 33 km/h</strong>
 
 Terrible sleep last night; up with hunger, a loud windstorm from an arctic outflow and a stiff neck.  I did fall back asleep at one point but...
 
-Despite feeling a bit dinged up (neck, traps, hip flexors), I had a big lunch and set out for an afterwork 8km run, that got stretched to 10 and then to 12!  In the moment, I was feeling good and the Tuesday Crew was happy to tack on a bit more.  I did a kilometre of run/walk warmup before the run too.
+Despite feeling a bit dinged up (neck, traps, hip flexors), I had a big lunch and set out for an afterwork 8km run, that got stretched to 10 and then to 12!  In the moment, I was **feeling good** and the Tuesday Crew was happy to tack on a bit more.  I did a kilometre of run/walk warmup before the run too.
 
 No rollers tonight.
 
@@ -119,9 +121,11 @@ Ride 85 minutes: *Yes, this is the same ride from last week. But last week you e
 Run 30 minutes EASY. This should be to start or end the day. Can be after the ride, but certainly does not HAVE to be after the ride.
 
 ### NOTES
-Total Time: **30 Minutes**
+Run Time: **30 Minutes** &nbsp; Roller Time: **40 minutes**
 
-Started the day with a cup of coffee and the 30 minute run; standard route to _Quadra_ on the bike path that typically takes me ~32 minutes.  Today I was back in 30 feeling great.
+Started the day with a cup of coffee and the 30 minute run; standard route to _Quadra_ on the bike path that typically takes me ~32 minutes.  Today I was back in 30 and **feeling great**.
+
+Work got in the way of me getting on the bike; at 2030 I pedalled easy until bedtime.
 
 <!---->
 ## FRIDAY FEB 25 ☀️
@@ -144,7 +148,7 @@ Total Time: **57 Minutes** &nbsp; Swim: **2300m**
 
 Good sleep last night.  Cold this morning (again) so I drove to the pool.
 
-Another good effort in the pool despite missing the 200m sighting rep.  I realized my mistake while doing the 6x50 kick drill and put in a _"make up"_ 100m before starting the 5x300m set.  Reps 1, 2, 4 and 5 were within 1.2 seconds of each other and the 3rd rep was ~6 seconds faster than the others (maybe picked it up to pass someone).  Really stoked with that consistency; I am sure the 1 minute rest in between helped.
+**Another good effort** in the pool despite missing the 200m sighting rep.  I realized my mistake while doing the 6x50 kick drill and put in a _"make up"_ 100m before starting the 5x300m set.  Reps 1, 2, 4 and 5 were within 1.2 seconds of each other and the 3rd rep was ~6 seconds faster than the others (maybe picked it up to pass someone).  Really stoked with that consistency; I am sure the 1 minute rest in between helped.
 
 <!---->
 ## SATURDAY FEB 26 🌦
@@ -160,23 +164,28 @@ Total Time: **180 Minutes** &nbsp; Accent: **862m**
 
 All the boxes checked on the ride today except for the stay warm part.  I had to roll down from the top of _Munn Road_ to _Woodridge Place_ to connect the two Regional Parks; it started to rain and felt like it wanted to snow.
 
-<!---->
-### Single Track Trails
-**Thetis Lake Regional Park**  
-<span style="blue">&#11044;</span> Comfy Wooden Chair <small>~3 minutes</small>  
-<span style="blue">&#11044;</span> Electric Avenue <small>cleaned</small>  
-<span style="blue">&#11044;</span> No Name Trail <small>down off Mt. Stewart</small>  
-<span style="blue">&#11044;</span> Frank's Trail <small>to Munn Rd.</small>
-
-**Mount Work Regional Park**   
-<span style="blue">&#11044;</span> Fun Trail  
-<span style="blue">&#11044;</span> Bottom Feeder <small>cleaned</small>  
-<span style="blue">&#11044;</span> Crossover <small>cleaned</small>   
-<span style="blue">&#11044;</span> Executive West <small>cleaned and PR</small>   
-
 ### In the Bottle
 50g Maltodextrin   
 30g Country Time Lemonade  
 20g Table Sugar (Dextrose)
 
 I had Oreo Cookies too.
+<!---->
+### Single Track Trails
+**Thetis Lake Regional Park**  
+<span style="color:blue">&#11044;</span> Comfy Wooden Chair <small>~3 minutes</small>  
+<span style="color:blue">&#11044;</span> Electric Light <small>cleaned</small>  
+<span style="color:blue">&#11044;</span> Mountain Trail (North) <small>down off Mt. Stewart</small>  
+<span style="color:blue">&#11044;</span> Frank's Trail <small>to Munn Rd.</small>
+
+**Mount Work Regional Park**   
+<span style="color:blue">&#11044;</span> Fun Trail  
+<span style="color:blue">&#11044;</span> Bottom Feeder <small>cleaned</small>  
+<span style="color:blue">&#11044;</span> Crossover <small>cleaned</small>   
+<span style="color:blue">&#11044;</span> Executive West <small>cleaned and PR</small>   
+
+Most of the significant hills that put my heart-rate north of 150 are around the Scafe Hill/Mount Stewart area.  There was some very heavy breathing cresting climbs in the first 1:30:00
+
+Part of me missed the Saturday swim after the ride, the other part understood that today was solid day on the bike.
+
+![](/assets/jpg/image.jpeg)
