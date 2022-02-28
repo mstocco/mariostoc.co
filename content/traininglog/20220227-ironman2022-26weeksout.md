@@ -16,7 +16,7 @@ I feel like I was...
 
 ![](/assets/jpg/II-9x550.jpeg)
 
-## SUNDAY FEB 27 🌤
+## SUNDAY FEB 27 🌦
 Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -25,13 +25,15 @@ Run 90 minutes. Easy effort. Ideally on dirt. Stay well fueled. This is your cha
 Mobility 28 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **95 Minutes** &nbsp; Run: **15 km** <small>@6:18/km</small>
 
-&mdash;  
+Company's coming.  Spent a good part of the day tidying up the house and once it was done, headed out for the run.  To bad because it was sunny in the morning and starting to rain while out on the trail.  Today called for dirt so I stuck primarily on the Colquitz River Trail.  I **felt heavy** (because I am heavy these days). 
+
+Right ankle and TN joint was sore before bed.
 
 <!---->
-## MONDAY FEB 28
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## MONDAY FEB 28 🌧
+Sleep **6** | Fatigue **5** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -44,9 +46,9 @@ Swim 2400:
 2x 50 EASY to cool down
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **60 Minutes** &nbsp; Swim: **2400m**
 
-&mdash;  
+One glass of wine with dinner last night an I feel hung over this morning.  I drove to the pool.  In the water, I faired no better than my head was feeling and the swim, especially before the 5x200m set, was a slog.  I had thoughts of calling it early but stuck with it and completed the workout.
 
 <!---->
 ## TUESDAY MAR 1
