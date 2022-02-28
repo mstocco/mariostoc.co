@@ -27,7 +27,9 @@ Mobility 28 minutes
 ### NOTES
 Total Time: **95 Minutes** &nbsp; Run: **15 km** <small>@6:18/km</small>
 
-Company's coming.  Spent a good part of the day tidying up the house and once it was done, headed out for the run.  To bad because it was sunny in the morning and starting to rain while out on the trail.  Today called for dirt so I stuck primarily on the Colquitz River Trail.  I **felt heavy** (because I am heavy these days). 
+Company's coming.  Spent a good part of the day tidying up the house and once it was done, headed out for the run.  To bad because it was sunny in the morning and starting to rain while out on the trail.  Today called for dirt so I stuck primarily on the Colquitz River Trail.  I **felt heavy** (because I am heavy these days).
+
+On the positive side, there was a lot of time pent in Z2
 
 Right ankle and TN joint was sore before bed.
 
@@ -56,9 +58,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Rollers ~ 30 minutes EASY. (Yes, 30 minutes, not a typo)  
-Run 65-75 minutes w/ your friends. Easy effort as long/far as they will allow. Final quarter to a third of the run will be a bit quicker. Still all good with me.   
-**Maybe bring a gel/similar on this run to stay well fueled​**
+Rollers ~ 30 minutes EASY.
+
+Run 65-75 minutes w/ your friends. Easy effort as long/far as they will allow. Final quarter to a third of the run will be a bit quicker. Still all good with me.   _Maybe bring a gel/similar on this run to stay well fueled​_
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -73,8 +75,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### PLANNED WORKOUT
 _Optional spin to/from the pool_.    
 Swim 2300: Strong= High focus, steady kick, focused catch, still very much sustainable. Maybe about 500-750 effort.....
-**This is a repeat session from two weeks ago, except the pace range is 500-750 vs. 750-1000 pace. Based on your notes. 
-Aka: Swim fast, swim w/ focus, but do NOT do full sprints. You should always have another 50 at the same pace in the body, if you really needed to. 
+**This is a repeat session from two weeks ago, except the pace range is 500-750 vs. 750~1000 pace. Based on your notes. 
+Aka: Swim fast, swim w/ focus, but do NOT do full sprints. You should always have another 50 at the same pace in the body, if you really needed to.   
 300 easy swimming. 
 4x 50 steady kick. Rest as needed.
 4x 100 as 25 Fist drill/25 strong finish to stroke. R :30. 
@@ -85,7 +87,7 @@ Aka: Swim fast, swim w/ focus, but do NOT do full sprints. You should always hav
 2x 50 Strong/high turnover. R :20. 50 EASY r :30. 
 50 STRONG/High turnover. R :20.....
 2x 50 EASY to cool down. 
-
+<!---->
 ### NOTES
 Total Time: **0 Minutes**
 
