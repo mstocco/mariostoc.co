@@ -53,8 +53,8 @@ Total Time: **60 Minutes** &nbsp; Swim: **2400m**
 One glass of wine with dinner last night an I feel hung over this morning.  I drove to the pool.  In the water, I faired no better than my head was feeling and the swim, especially before the 5x200m set, was a slog.  I had thoughts of calling it early but stuck with it and completed the workout.
 
 <!---->
-## TUESDAY MAR 1
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY MAR 1 ☀️
+Sleep **4** | Fatigue **4** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -63,9 +63,13 @@ Rollers ~ 30 minutes EASY.
 Run 65-75 minutes w/ your friends. Easy effort as long/far as they will allow. Final quarter to a third of the run will be a bit quicker. Still all good with me.   _Maybe bring a gel/similar on this run to stay well fueled​_
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **103 Minutes**  &nbsp; Run: **12.5 km** <small>(hilly)</small>
 
-&mdash;  
+Finally a spring like day.  Yauki, Vince and I set off for our regular Tuesday afternoon run.  We started slow on a route that eventually included _Craigflower_, _Admirals_ and _Lampson_ hills.  Steady effort across the entire route and finished feeling strong.
+
+I cooled down on the rollers after I got home.
+
+A bit of a sore throat; should I worry?
 
 <!---->
 ## WEDNESDAY MAR 2
