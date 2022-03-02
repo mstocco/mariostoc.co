@@ -72,8 +72,8 @@ I cooled down on the rollers after I got home.
 A bit of a sore throat; should I worry?
 
 <!---->
-## WEDNESDAY MAR 2
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY MAR 2 🌧
+Sleep **5** | Fatigue **5** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -94,9 +94,15 @@ Aka: Swim fast, swim w/ focus, but do NOT do full sprints. You should always hav
 2x 50 EASY to cool down. 
 <!---->
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **80 Minutes** &nbsp; Swim: **2300m**
 
-&mdash;  
+Pedalled my MTB to and from the pool this morning; 8ºC and drizzle.  It is nice that it is daylight for the leg home.
+
+In the pool, I had tired lats and triceps to start, and on cue, after 300m, I was into the workout.  Robert Johnson was at the pool this morning.  He made a turn at the wall while I was resting after finishing my 3x50 set; I wasn't thinking about the next 50m being EASY, I pushed off to see where I was with a really good swimmer 5m ahead of me.   All things considered, I am doing okay.
+
+That mental lapse did put me off schedule for the written workout, turning 3x50 + 50 + 2x50 into 6x50; that was felt on the final lengths.  Overall, a **good swim** this morning.
+
+![Swim Chart](/assets/jpg/swim-20220302.jpeg) 
 
 <!---->
 ## THURSDAY MAR 3
