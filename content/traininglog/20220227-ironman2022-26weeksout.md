@@ -7,14 +7,15 @@ Week beginning [Sunday, February 27, 2022](javascript:flick('sun');)
 Training is my escape from the news 🇺🇦 
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **11 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **ADDING ANOTHER LAYER**
 
-&mdash;
+Despite missing [Thursday](javascript:flick('thus');), this was a another **really good week**.
 
-![](/assets/jpg/II-9x550.jpeg)
+Biggest ride of the year so far, a 1000m PR in the pool and most importantly, a general feeling that I am getting fitter.
+
+![On the Friday morning ride after a swim workout.](/assets/jpg/IMG_4010-977x550.jpeg ROSS BAY, VICTORIA, BC)
 
 ## SUNDAY FEB 27 🌦
 Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**
@@ -105,8 +106,8 @@ That mental lapse did put me off schedule for the written workout, turning 3x50 
 ![Swim Chart](/assets/jpg/swim-20220302.jpeg) 
 
 <!---->
-## THURSDAY MAR 3
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY MAR 3 🌦
+Sleep **3** | Fatigue **5** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -123,11 +124,11 @@ Mobility 26 minutes
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Today was a miss.  I thought I'd get a weather window for an afternoon ride and the showers rolled through.  It did clear up closer to dinner time and by that time, I was thinking about riding the rollers.  I did get a good amount of our plum tree pruned before dinner but after dinner, I was tired and went to bed.
 
 <!---->
-## FRIDAY MAR 4
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY MAR 4 ⛅️
+Sleep **4** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -138,19 +139,24 @@ Swim 2000:
 4x 50 EASY to cool down/stretch out
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **90 Minutes** &nbsp; Swim: **2000m**
 
-&mdash;  
+Apart from recording the activity in 2 parts, the swim was done accordingly.  I noticed my _left lumbar_ being tight during the kickboard lengths.  There was lane congestion during the 1000m but I picked my way through the lanes.  
 
 <!---->
-## SATURDAY MAR 5
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY MAR 5 ☀️
+Sleep **2** | Fatigue **3** | Stress **2** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Ride 3:00 on MTB ~ Goose or Great trail. 
+Lots of steady riding. Never all that hard, but always pedaling. 
+Stay well fueled. Stay well hydrated.
 
 ### NOTES
-Total Time: **0 Minutes**
+Moving Time: **184 Minutes** &nbsp; Total Ascent: **954m**
 
-&mdash;  
+_The Great Trail_ from the _Old Island Highway Interchange_ to the top of the _Golden Heights_ and back.  Solid workout.  This route can not be ridden with _"never all that hard"_ as a workout attribute.  _Wolf Hill_ looked to be 800m averaging 17% on the hardest part.  There was a haymaker of a hill on the way back that I almost broke a tooth while gritting my way over its crest.
+
+
+Great sleep last night but my left lumbar/glute is still tight and a bit sore.
