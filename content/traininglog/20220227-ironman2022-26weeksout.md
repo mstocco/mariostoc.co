@@ -15,6 +15,8 @@ Despite missing [Thursday](javascript:flick('thus');), this was a another **real
 
 Biggest ride of the year so far, a 1000m PR in the pool and most importantly, a general feeling that I am getting fitter.
 
+Work has been productive and I am getting the odd spring chores done in the yard too.
+
 ![On the Friday morning ride after a swim workout.](/assets/jpg/IMG_4010-977x550.jpeg ROSS BAY, VICTORIA, BC)
 
 ## SUNDAY FEB 27 🌦
@@ -122,9 +124,9 @@ Trainer/rollers 90 minutes:
 Mobility 26 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+<mark>Total Time: **0 Minutes**</mark> Today was a miss.
 
-Today was a miss.  I thought I'd get a weather window for an afternoon ride and the showers rolled through.  It did clear up closer to dinner time and by that time, I was thinking about riding the rollers.  I did get a good amount of our plum tree pruned before dinner but after dinner, I was tired and went to bed.
+Thought I'd get a weather window for an afternoon ride but showers rolled in.  It did clear up closer to dinner time and by that time, I was resigned to riding the rollers.  I did get a good amount of our plum tree pruned before dinner; after dinner, I was tired and just went to bed.
 
 <!---->
 ## FRIDAY MAR 4 ⛅️
@@ -158,5 +160,6 @@ Moving Time: **184 Minutes** &nbsp; Total Ascent: **954m**
 
 _The Great Trail_ from the _Old Island Highway Interchange_ to the top of the _Golden Heights_ and back.  Solid workout.  This route can not be ridden with _"never all that hard"_ as a workout attribute.  _Wolf Hill_ looked to be 800m averaging 17% on the hardest part.  There was a haymaker of a hill on the way back that I almost broke a tooth while gritting my way over its crest.
 
+Lots of rolling downhill on the trip back
 
 Great sleep last night but my left lumbar/glute is still tight and a bit sore.
