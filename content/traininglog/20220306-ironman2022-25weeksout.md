@@ -4,7 +4,7 @@ Week beginning [Sunday, March 6, 2022](javascript:flick('sun');)
 **25** weeks out from race day.
 
 ## WEEKLY GOAL
-Go one more week.
+Go one more week, just like the [last week](ironman2022-26weeksout).
 
 ## SUMMARY
 Total Time: **0 Hours**
@@ -90,9 +90,11 @@ Swim 2300:
 Rollers ~ 30 minutes. Again, another nice and easy spin.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **80 Minutes** &nbps; Swim: **2300m**
 
-&mdash;  
+Really cold wind from the east for the commute to the pool this morning.
+
+I didn't feel like I had much in the tank, start to finish today; I was dreading the hard 50s but I did the math and broke it down into just 5 hard lengths (10x50m Odds High Effort, at a glance, registered as 50m full gas ten times).  Whatever was in my head, I got the work in.
 
 <!---->
 ## THURSDAY MAR 10
