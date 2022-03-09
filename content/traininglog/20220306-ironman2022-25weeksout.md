@@ -25,7 +25,7 @@ Run 95 minutes. Easy effort. Ideally on dirt. Stay well fueled. This is your cha
 Mobility 17 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **95 Minutes** &nbsp; Run: **15 km**
 
 Running on tired legs, but mostly on gravel paths and even some honest, in the forest trail sections.  I felt good after 45 minutes, better than my measured pace suggested (thought I was going faster).  
 
@@ -44,13 +44,13 @@ Swim 2400:
 Optional: Walk 20-30 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **80 Minutes** &nbsp; Swim: **2400m**
 
 Fatigue from the weekend did carry over into the swim.  There were moments where I when I was contemplating calling it early but I went one more rep, then another.  Then I was done at 2400m.  I spent time in the hottub with a jet on my lumbar; that helped as it was tight this morning.
 
 Pretty solid nap after work too.
 
-Lumbar is stiff.
+Lumbar and neck are stiff.
 
 Rode to and from the pool though it was a pretty chilly morning.
 
@@ -66,7 +66,7 @@ Run w/ friends.
 Keep it as easy
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **93 Minutes** &nbsp; Run: **10 km**
 
 Rollers in the morning this week, before work and before coffee.  My back felt tight when I woke up but was fine after the spin.
 
