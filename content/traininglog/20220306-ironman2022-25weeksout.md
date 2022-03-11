@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![Mountain biking has been fun so far this year but time to put the TT bike on the road (soon).](/assets/jpg/IMG_4021-977x550.jpeg Phillips Trail)
 
 ## SUNDAY MAR 6 ⛅️
 Sleep **2** | Fatigue **5** | Stress **2** | Soreness **3**
@@ -97,8 +97,8 @@ Really cold wind from the east for the commute to the pool this morning.
 I didn't feel like I had much in the tank, start to finish today; I was dreading the hard 50s but I did the math and broke it down into just 5 hard lengths (10x50m Odds High Effort, at a glance, registered as 50m full gas ten times).  Whatever was in my head, I got the work in.
 
 <!---->
-## THURSDAY MAR 10
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY MAR 10 ☁️
+Sleep **4** | Fatigue **3** | Stress **4** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -114,7 +114,7 @@ Mobility 18 minutes
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Woke up @0450 thinking it was Friday and with a bit of panic that I didn't have my swim kit ready. 
 
 <!---->
 ## FRIDAY MAR 11
