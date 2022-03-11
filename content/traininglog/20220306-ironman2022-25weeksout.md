@@ -150,7 +150,10 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Rollers ~ 75 minutes. Nice and easy spinning. Watch/listen to whatever will keep you entertained. 
+And really keep the effort easy.
+
+Mobility 20 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
