@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![Mountain biking has been fun so far this year but time to put the TT bike on the road (soon).](/assets/jpg/IMG_4021-977x550.jpeg Phillips Trail)
+![Mountain biking has been super fun so far in 2022 but soon it will be time to ride the TT bike again.](/assets/jpg/IMG_4021-977x550.jpeg Phillips Trail, Thetis Lake Regional Park)
 
 ## SUNDAY MAR 6 ⛅️
 Sleep **2** | Fatigue **5** | Stress **2** | Soreness **3**
