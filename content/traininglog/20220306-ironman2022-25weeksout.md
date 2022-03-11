@@ -112,9 +112,16 @@ Option B: 80 minutes (inside)
 Mobility 18 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Moving Time: **103 Minutes** &nbsp; Vertical: **438m** 
 
 Woke up @0450 thinking it was Friday and with a bit of panic that I didn't have my swim kit ready. 
+
+Option A: Ride outside and a chance to go and **play on the MTB**.  Same stepped climb for the first 30ish minutes up to the north end of _Thetis Lake Regional Park_ before getting on to 500m of very familiar single track.  That may have been my best run, no dabs, no bobbles so when I reached _Bellamy Trail_ (fireroad), I looped back to do it again.  Second run, no dabs, no bobbles; two for two on clean runs.  Third time was a charm and I cleaned the trail one last time before heading for home.
+
+When I first started riding, there were 2 hills on _Bellamy_ that used to be steep enough that I wasn't guaranteed to pedal to their crests.  One of those hills is a _"rock garden"_ and I climbed that easily twice tonight.  The other is heading southbound and is tricky because at the base of the climb is a significant mud hole.  The first time I ever pedalled to the top of that hill was in summer when the mud hole was dry and I could carry momentum into the effort.  Tonight, I got over that hill without the help of momentum and barely broke a sweat doing it.
+
+As I reflect on this mid-week ride, it is actually a big win for me.  
+
 
 <!---->
 ## FRIDAY MAR 11
@@ -131,9 +138,11 @@ Run 30 minutes EASY. Nice and easy.
 
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **60 Minutes** &nbsp; Swim: **2000**
 
-&mdash;  
+Ride in drizzle on the way to the pool but it was dry on the way home.
+
+The 1200m was done with a nice steady rhythm.  I had a bit of navigation to do but for the most part, it was an honest representation of where I am at for 1200m.  The last 50m was my best length where I didn't put more effort in, but reached a bit more.
 
 <!---->
 ## SATURDAY MAR 12
