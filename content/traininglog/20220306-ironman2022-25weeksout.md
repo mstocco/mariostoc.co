@@ -124,8 +124,8 @@ As I reflect on this mid-week ride, it is actually a big win for me.
 
 
 <!---->
-## FRIDAY MAR 11
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY MAR 11 ☁️
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -144,9 +144,10 @@ Ride in drizzle on the way to the pool but it was dry on the way home.
 
 The 1200m was done with a nice steady rhythm.  I had a bit of navigation to do but for the most part, it was an honest representation of where I am at for 1200m.  The last 50m was my best length where I didn't put more effort in, but reached a bit more.
 
+Easy run was timed so that I could meet Carina for her trip home from work.
 <!---->
-## SATURDAY MAR 12
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY MAR 12 ☁️
+Sleep **2** | Fatigue **2** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -158,4 +159,4 @@ Mobility 20 minutes
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Into bed at a decent time (for a Friday) and woke up feeling well rested.
