@@ -7,12 +7,13 @@ Week beginning [Sunday, March 6, 2022](javascript:flick('sun');)
 Go one more week, just like the [last week](ironman2022-26weeksout).
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **10.8333 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **FINDING A BOUNDRY**
 
-&mdash;
+This week finished on a lighter note with an hour on the rollers instead of a long(er) ride outside.  Coach felt like it was appropriate to absorb some of the load from these past weeks instead of piling more on; my rational side agrees with him.
+
+I could feel the [ride up to Goldstream Heights](ironman2022-26weeksout?sat) through the first part of this week.  The niggle that is my left lumbar area continues to be stiff but manageable; I'd rather it be completely healthy though.
 
 ![Mountain biking has been super fun so far in 2022 but soon it will be time to ride the TT bike again.](/assets/jpg/IMG_4021-977x550.jpeg Phillips Trail, Thetis Lake Regional Park)
 
@@ -76,7 +77,7 @@ Lumbar was not noticed during or after the run but there are some odd niggles as
 
 <!---->
 ## WEDNESDAY MAR 9
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **4** | Fatigue **5** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -157,6 +158,8 @@ And really keep the effort easy.
 Mobility 20 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **60 Minutes** &nbsp; Ride: **Rollers/TT Bike**
 
 Into bed at a decent time (for a Friday) and woke up feeling well rested.
+
+I put my TT bike together enough to ride it on the rollers.  I didn't get beyond 60 minutes as it was the first time since Italy that I'd been on that geometry.  Rami were sore, knees feeling the different angles and I might have been in the skis for just 6 minutes (twitchy).
