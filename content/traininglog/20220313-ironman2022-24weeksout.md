@@ -89,7 +89,10 @@ Ride the long way home ~ 50-60 minutes of easy spinning.
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+
+
+
+I did restart the long ride home but bumped into Jason Ball and had a nice visit; call it 25 minutes + 15 minutes of ride time after the swim.
 
 <!---->
 ## THURSDAY MAR 17
@@ -113,8 +116,8 @@ Total Time: **0 Minutes**
 &mdash;  
 
 <!---->
-## FRIDAY MAR 18
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY MAR 18 ☁️
+Sleep **3** | Fatigue **4** | Stress **4** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -127,9 +130,12 @@ Swim 2200:
 Run 35 minutes EASY
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Swim: **2200m**
 
-&mdash;  
+I was up at 0303 this morning; felt rested but that was way too early for a weekday (any day).  Rode to and from the pool on the road bike and felt [the workout](javascript:flick('thu');) from last night.
+
+In the pool, I had a lot of focused time to work with.  Lane congestion was a bit of an issue during the 300m reps but handled.  Before the 100m cooldown, I got to chat briefly with Batuhan (he was just starting) about his upcoming trip to St. George.  That break was long enough of a recovery that I finished the last 100m with maybe the best 100m that I've swam to date.  1:43 that felt connected and effortless, at the end of a 2100m workout.  I am pretty stoked.
+
 
 <!---->
 ## SATURDAY MAR 19
@@ -137,7 +143,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Ride 2:30-3:00, easy riding. On the road bike. With a nice steady group. 
+Coffee/fuel stop around half way.   
+Goals: Time in the saddle, fun, stay warm, hydrate, road bike
 
 ### NOTES
 Total Time: **0 Minutes**
