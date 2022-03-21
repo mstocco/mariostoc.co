@@ -100,18 +100,17 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Option A: Trainer 80 minutes: 
+Trainer 80 minutes: 
 20 minutes easy riding to warm up.
 5 rounds (:30 high cadence, :30 easy, :20 highER cadence, :40 easy, :10 HighEST cadence, :50 easy) 
 5 minutes easy. 
 6x 4 minutes @ 30-45 minute TT effort, 1 minute EASY spinning after each. 
 10 minutes easy riding to cool down.
 
-Option B: Ride 1:30-1:40. Outside. Easy effort. Stay warm, hopefully stay dry. Would be a good day to head out the goose on the MTB or ride the waterfront/similar on the road bike. 
 Mobility 20 minutes
 
 ### NOTES
-Total Time: **80 Minutes** Ride: **Rollers/Road Bike**
+Time: **80 Mins** &nbsp; Ride: **Rollers/Road Bike**
 
 Big puddle on and under the bike tonight.  It is time to move the rollers out of the suite and back into the garage.  For some odd reason, the front derailleur would not shift into the big ring so I did the 4 minute efforts with a high(er) cadence.  I still feel like I got good work done.
 
@@ -130,7 +129,7 @@ Swim 2200:
 Run 35 minutes EASY
 
 ### NOTES
-Total Time: **105 Minutes** &nbsp;Swim: **2200m** &nbsp;Run: **5km**
+Total: **105 Minutes** &nbsp;Swim: **2200m** &nbsp;Run: **5km**
 
 I was up at 0303 this morning; felt rested but that was way too early for a weekday (any day).  Rode to and from the pool on the road bike and felt [the workout](javascript:flick('thu');) from last night.
 
@@ -155,7 +154,7 @@ Total Time: **165 Minutes**
 First group ride in a long time and I didn't really know what to expect.  It seemed to be less formal than I thought.  There were a couple people that were around my fitness level and that should have been enough but Victoria will be Victoria.  
 
 We stopped for a long bit to wait for people at _Emily Carr_ and _Royal Oak_ before heading up _Amblewood Drive_.  Not ever riding up this hill, I kept the effort measured.
-
+<!---->
 The next stop was at _Mattocks Farm_ where the entire group came together again.  The next stop was going to be the [Marigold Café](javascript:flkty.select(2);) with the faster riders going as far as _Tulista Park_ before doubling back to the coffee house.  This is where things went differently.
 
 There was a guy that took a flyer up the road ahead of the group, I gave chase and caught him on _Hunt Road_.  I asked him how he was feeling and he said, "great" and I figured he'd sit on my wheel for a bit.  By _Martindale_, I looked back and he was caught by a couple of other riders, maybe 300m back.  I figured if I turn things down a bit, that group of 3 would reel me in and I could have company for the rest of the leg north.
