@@ -142,9 +142,11 @@ In the pool it was a lot of focused time.  Lane congestion was a bit of an issue
 <!---->
 Before the 100m cooldown, I got to chat briefly with Batuhan (he was just starting his workout) about his upcoming trip to St. George.  That break was long enough of a recovery that I finished the last 100m with maybe the best 100m that I've swam to date.  1:43 that felt connected and effortless, at the end of a 2100m workout.  I am pretty stoked.
 
-The run after work had me jog down to Carina's office where she pedalled beside me on the way home.  It's a great way for us to talk after a long work week.
-
 ![Swim Chart](/assets/jpg/swim-20220318.jpeg)
+
+---
+
+The run after work had me jog down to Carina's office where she pedalled beside me on the way home.  It's a great way for us to talk after a long work week.
 
 <!---->
 ## SATURDAY MAR 19 🌤
@@ -165,13 +167,13 @@ First group ride in a long time and I didn't really know what to expect.  It see
 
 We stopped for a long bit to wait for people at _Emily Carr_ and _Royal Oak_ before heading up _Amblewood Drive_.  Not ever riding up this hill, I kept the effort measured.
 <!---->
-The next stop was at _Mattocks Farm_ where the entire group came together again.  The next stop was going to be the [Marigold Café](javascript:flkty.select(2);) with the faster riders going as far as _Tulista Park_ before doubling back to the coffee house.  This is where things went differently.
+A stop at _Matticks Farm_ for the entire group to come together again.  The next stop was going to be the [Marigold Café](javascript:flkty.select(2);) with the faster riders going as far as _Tulista Park_ before doubling back to the coffee house.  This is where things went differently.
 
 There was a guy that took a flyer up the road ahead of the group, I gave chase and caught him on _Hunt Road_.  I asked him how he was feeling and he said, "great" and I figured he'd sit on my wheel for a bit.  By _Martindale_, I looked back and he was caught by a couple of other riders, maybe 300m back.  I figured if I turn things down a bit, that group of 3 would reel me in and I could have company for the rest of the leg north.
 
-They never made the gap and I rolled up to _Tulista_ and back to the café solo.  Regardless, I was feeling good and 
+They never closed the gap and I rolled up to _Tulista_ and back to the café solo.  Regardless, I was **feeling good**. 
 
-On the trip back to town, I did get some social time with Jon and Pierre with was great.  By UVic, the wind out of the west was comically unfunny, so I turned for home; I was done.
+On the trip back to town, I did get some social time with Jon and Pierre; that was great.  By UVic, the wind out of the west was comically unfunny, so I turned for home; I was done.
 
 <!---->
 ### UP TO SYDNEY
