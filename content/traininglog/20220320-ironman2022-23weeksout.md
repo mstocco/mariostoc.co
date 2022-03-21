@@ -36,7 +36,7 @@ Lots of fatigue in my quads so I just took it easy and stayed on a mostly flat r
 Lumbar was stiff but not bothered by the run.
 
 <!---->
-## MONDAY MAR 21 🌧6
+## MONDAY MAR 21 🌧
 Sleep **4** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -47,11 +47,11 @@ Swim 2600:
 3 rounds (5x 100 @ 1500 effort/focus r :20. 2x 50 EASY r :45)
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **60 Minutes** &nbsp; Swim **2600m**
 
 Stiff lumbar this morning; I noticed it during the swim but not enough to not swim.  On paper, I was expecting a "harder to follow" workout but I got into a groove and got the work in.  The 5x100m were particularly good because I stuck to the written effort for every one; slower times on a few were just pushing off the wall late because of lane congestion.
 
-Spent time with a hot tub jet on my back just because it was there.
+Spent time with a hot tub jet on my back just because it was there.  I could feel my left ankle from the run too.
 
 <!---->
 ## TUESDAY MAR 22
