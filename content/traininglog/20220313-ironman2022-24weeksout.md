@@ -145,7 +145,7 @@ The run after work had me jog down to Carina's office where she pedalled beside 
 ![Swim Chart](/assets/jpg/swim-20220318.jpeg)
 
 <!---->
-## SATURDAY MAR 19
+## SATURDAY MAR 19 🌤
 Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -169,9 +169,8 @@ There was a guy that took a flyer up the road ahead of the group, I gave chase a
 
 They never made the gap and I rolled up to _Tulista_ and back to the café solo.  Regardless, I was feeling good and 
 
-On the trip back to town, I did get some social time with Jon and Pierre with was great.
+On the trip back to town, I did get some social time with Jon and Pierre with was great.  By UVic, the wind out of the west was comically unfunny, so I turned for home; I was done.
 
-By UVic, the wind out of the west was comically unfunny, so I turned for home.
 <!---->
 ### UP TO SYDNEY
 ![Bike Map](/assets/jpg/bike-20220319.jpeg)
