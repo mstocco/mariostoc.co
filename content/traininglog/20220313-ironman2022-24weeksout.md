@@ -133,7 +133,7 @@ Run 35 minutes EASY
 ### NOTES
 Total: **105 Minutes** &nbsp;Swim: **2200m** &nbsp;Run: **5km**
 
-I was up at 0303 this morning; felt rested but that was **way too early** for a weekday.  Rode to and from the pool on the road bike and felt [the workout](javascript:flick('thu');) from last night.
+I was up at 0303 this morning; felt rested but that was **way too early** for a weekday.  Rode to and from the pool on the road bike and felt the workout from [last night](javascript:flick('thu');).
 
 In the pool it was a lot of focused time.  Lane congestion was a bit of an issue during the 300m reps but was handled.
 
@@ -174,4 +174,4 @@ On the trip back to town, I did get some social time with Jon and Pierre with wa
 By UVic, the wind out of the west was comically unfunny, so I turned for home.
 <!---->
 ### UP TO SYDNEY
-![](/assets/jpg/image.jpeg)
+![Bike Map](/assets/jpg/bike-20220319.jpeg)
