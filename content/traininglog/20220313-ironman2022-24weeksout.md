@@ -11,7 +11,9 @@ Total Time: **11.5 Hours**
 
 I feel like I was **BUILDING**
 
-Lots of good this week despite my lumbar having some stiffness throughout the week.  7500m in the pool, 29km running and a Saturday group ride make up the highlights.
+Lots of good this week despite my lumbar having some stiffness off and on throughout the week.  Up to 7500m in the pool, holding steady with 29km of running and a Saturday group ride make up the highlights.
+
+Not the warmest of springs; the cherry blossoms are just starting to show this week.
 
 ![For all the times I've ridden by, this was the first time to stop for a coffee.](/assets/jpg/IMG_4025-977x550.jpeg MARIGOLD CAFE, SAANICHTON, BC)
 
