@@ -29,7 +29,9 @@ Total Time: **80 Minutes** &nbsp; Run: **12.6 km**
 
 A bit restless last night and my lumbar is stiff(er) than usual; time on the TT Bike [yesterday](ironman2022-25weeksout?sat) perhaps?
 
-Started the run with my neighbour Rick and his wife before turning off the Goose for the dirt path north through Panama Flats and a bit more.  That easier, initial pace just seemed to get locked into even after I said goodbye to them.  
+Started the run with my neighbour Rick and his wife before turning off the Goose for the dirt path north through Panama Flats and a bit more.  That easier, initial pace just seemed to get locked into even after I said goodbye to them.
+
+I felt okay after the run (not taxed) and my back was fine too.
 
 <!---->
 ## MONDAY MAR 14 &#120529;
@@ -44,8 +46,7 @@ Rest 1:00.
 12x 50 as 2: Aerobic/Steady, 1: Fast/Strong r :20 after each. 
 Rest 1:00. 
 8x 50 Odds: Aerobic/Steady, Evens: Fast/Strong r :20. 
-100 EASY to cool down.
-Optional: Spin to/from the pool.
+100 cool down.
 
 ### NOTES
 Total Time: **70 Minutes** &nbsp; Swim: **2800m**
@@ -55,7 +56,7 @@ I goofed up a bit plugging the swim workout into Garmin Connect last night and e
 The stiffness in my left lumbar has moved higher; maybe the first ride on the TT bike has something to do with that.
 
 <!---->
-## TUESDAY MAR 15
+## TUESDAY MAR 15 🌧
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -67,13 +68,15 @@ Run w/ buddies.
 **Option B:** 70 minutes, easy/controlled/moderate for most of the run, and building effort over the final 5-10 minutes.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **61 Minutes** &nbsp; Run: **10km** (w/strides)
 
-&mdash;  
+Bit of a miserable afternoon for a run but the Tuesday Afternoon Crew was ready to go.  I presented the strides option and they were keen to try it out.  We went up and over _Lampson_, then along the _Songhess Walkway_ before finishing with the strides on the _Goose_; last one up to the top of the _Switch Bridge_.
+
+No formal rollers, I fiddled with my TT bike before going to bed early.
 
 <!---->
-## WEDNESDAY MAR 16
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY MAR 16 ⛅️
+Sleep **4** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -89,13 +92,12 @@ Ride the long way home ~ 50-60 minutes of easy spinning.
 ### NOTES
 Total Time: **0 Minutes**
 
-
-
+Productive time in the pool though I was ~30 slower than my PR for the 750m.  I w
 
 I did restart the long ride home but bumped into Jason Ball and had a nice visit; call it 25 minutes + 15 minutes of ride time after the swim.
 
 <!---->
-## THURSDAY MAR 17
+## THURSDAY MAR 17 🌧
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -139,7 +141,7 @@ In the pool, I had a lot of focused time to work with.  Lane congestion was a bi
 
 <!---->
 ## SATURDAY MAR 19
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -148,6 +150,20 @@ Coffee/fuel stop around half way.
 Goals: Time in the saddle, fun, stay warm, hydrate, road bike
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **165 Minutes** 
 
-&mdash;  
+First group ride in a long time and I didn't really know what to expect.  It seemed to be less formal than I thought.  There were a couple people that were around my fitness level and that should have been enough but Victoria will be Victoria.  
+
+We stopped for a long bit to wait for people at _Emily Carr_ and _Royal Oak_ before heading up _Amblewood Drive_.  Not ever riding up this hill, I kept the effort measured.
+
+The next stop was at _Mattocks Farm_ where the entire group came together again.  The next stop was going to be the [Marigold Café](javascript:flkty.select(2);) with the faster riders going as far as _Tulista Park_ before doubling back to the coffee house.  This is where things went differently.
+
+There was a guy that took a flyer up the road ahead of the group, I gave chase and caught him on _Hunt Road_.  I asked him how he was feeling and he said, "great" and I figured he'd sit on my wheel for a bit.  By _Martindale_, I looked back and he was caught by a couple of other riders, maybe 300m back.  I figured if I turn things down a bit, that group of 3 would reel me in and I could have company for the rest of the leg north.
+
+They never made the gap and I rolled up to _Tulista_ solo.  
+
+On the way back to the café, I noticed that I'd had a couple kms on that group of 3.
+
+On the trip back to town, I did get some social time with Jon and Pierre with was great.
+
+By UVic, the wind out of the west was comically unfunny, so I turned for home.
