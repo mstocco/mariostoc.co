@@ -7,14 +7,13 @@ Week beginning [Sunday, March 13, 2022](javascript:flick('sun');)
 Good week to manage some stress, absorb some training.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **11.5 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **BUILDING**
 
-&mdash;
+Lots of good this week despite my lumbar having some stiffness throughout the week.  7500m in the pool, 29km running and a Saturday group ride make up the highlights.
 
-![](/assets/jpg/II-9x550.jpeg)
+![For all the times I've ridden by, this was the first time to stop for a coffee.](/assets/jpg/IMG_4025-977x550.jpeg MARIGOLD CAFE, SAANICHTON, BC)
 
 ## SUNDAY MAR 13 ⛅️
 Sleep **4** | Fatigue **3** | Stress **3** | Soreness **4**
@@ -26,11 +25,12 @@ Run 80 minutes. Easy effort. Similar terrain to last week. (A few hills, and off
 Mobility 20 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **80 Minutes** &nbsp; Run: **12.6 km**
 
 A bit restless last night and my lumbar is stiff(er) than usual; time on the TT Bike [yesterday](ironman2022-25weeksout?sat) perhaps?
 
-Started the run with my neighbour Rick and his wife before turning off the Goose for the dirt path north through Panama 
+Started the run with my neighbour Rick and his wife before turning off the Goose for the dirt path north through Panama Flats and a bit more.  That easier, initial pace just seemed to get locked into even after I said goodbye to them.  
+
 <!---->
 ## MONDAY MAR 14 &#120529;
 Sleep **4** | Fatigue **3** | Stress **4** | Soreness **4**
