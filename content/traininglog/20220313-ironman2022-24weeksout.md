@@ -155,7 +155,7 @@ Goals: Time in the saddle, fun, stay warm, hydrate, road bike
 ### NOTES
 Total Time: **165 Minutes** &nbsp; Ride(s): **66 km**
 
-Good sleep and a good breakfast to start the day.
+Good sleep and a good breakfast.
 
 First group ride in a long time and I didn't really know what to expect.  It seemed to be less formal than I thought.  There were a couple people that were around my fitness level and that should have been enough but Victoria will be Victoria.  
 
@@ -165,10 +165,12 @@ The next stop was at _Mattocks Farm_ where the entire group came together again.
 
 There was a guy that took a flyer up the road ahead of the group, I gave chase and caught him on _Hunt Road_.  I asked him how he was feeling and he said, "great" and I figured he'd sit on my wheel for a bit.  By _Martindale_, I looked back and he was caught by a couple of other riders, maybe 300m back.  I figured if I turn things down a bit, that group of 3 would reel me in and I could have company for the rest of the leg north.
 
-They never made the gap and I rolled up to _Tulista_ solo.  
+They never made the gap and I rolled up to _Tulista_ and back to the café solo.  Regardless, I was feeling good and 
 
-On the way back to the café, I noticed that I'd had a couple kms on that group of 3.
 <!---->
 On the trip back to town, I did get some social time with Jon and Pierre with was great.
 
 By UVic, the wind out of the west was comically unfunny, so I turned for home.
+
+### UP TO SYDNEY
+![](/assets/jpg/image.jpeg)
