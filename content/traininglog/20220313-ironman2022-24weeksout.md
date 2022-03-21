@@ -167,9 +167,8 @@ There was a guy that took a flyer up the road ahead of the group, I gave chase a
 
 They never made the gap and I rolled up to _Tulista_ and back to the café solo.  Regardless, I was feeling good and 
 
-<!---->
 On the trip back to town, I did get some social time with Jon and Pierre with was great.
-
+<!---->
 By UVic, the wind out of the west was comically unfunny, so I turned for home.
 
 ### UP TO SYDNEY
