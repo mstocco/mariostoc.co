@@ -51,9 +51,9 @@ Rest 1:00.
 ### NOTES
 Total Time: **70 Minutes** &nbsp; Swim: **2800m**
 
-I goofed up a bit plugging the swim workout into Garmin Connect last night and ended up with an extra round of the warm-up (for an extra 300m).  Regardless, I got myself on track for the 50s and plugged away at completing those.  Lane congestion was not as bad as [last Monday](ironman2022-25weeksout?mon) and I spent a bit of time in the hot tub with a jet on my lumbar.
+I goofed up a bit plugging the swim workout into Garmin Connect last night and ended up with an extra round of the warm-up (for an extra 300m).  Regardless, I got myself on track for the 50s and plugged away at completing those.  Lane congestion was not as bad as [last Monday](ironman2022-25weeksout?mon)
 
-The stiffness in my left lumbar has moved higher; maybe the first ride on the TT bike has something to do with that.
+I spent a bit of time in the hot tub with a jet on my lumbar; the stiffness has moved higher; maybe the first ride on the TT bike?
 
 <!---->
 ## TUESDAY MAR 15 🌧
@@ -72,8 +72,6 @@ Total Time: **61 Minutes** &nbsp; Run: **10km** (w/strides)
 
 Bit of a miserable afternoon for a run but the Tuesday Afternoon Crew was ready to go.  I presented the strides option and they were keen to try it out.  We went up and over _Lampson_, then along the _Songhess Walkway_ before finishing with the strides on the _Goose_; last one up to the top of the _Switch Bridge_.
 
-No formal rollers, I fiddled with my TT bike before going to bed early.
-
 <!---->
 ## WEDNESDAY MAR 16 ⛅️
 Sleep **4** | Fatigue **3** | Stress **3** | Soreness **3**
@@ -90,11 +88,11 @@ Swim 2500:
 Ride the long way home ~ 50-60 minutes of easy spinning.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **90 Minutes** &nbsp; Swim: **2500m**
 
-Productive time in the pool though I was ~30 slower than my PR for the 750m.  I w
+Productive time in the pool though I was ~30 slower than my PR for the 750m.  In my head, I thought I was closer, but today's effort was focused and aerobic with a strong but comfortable last 50m.
 
-I did restart the long ride home but bumped into Jason Ball and had a nice visit; call it 25 minutes + 15 minutes of ride time after the swim.
+During the long spin home, I bumped into Jason Ball and had a nice visit.
 
 <!---->
 ## THURSDAY MAR 17 🌧
@@ -113,9 +111,9 @@ Option B: Ride 1:30-1:40. Outside. Easy effort. Stay warm, hopefully stay dry. W
 Mobility 20 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **80 Minutes** Ride: **Rollers/Road Bike**
 
-&mdash;  
+Big puddle on and under the bike tonight.  It is time to move the rollers out of the suite and back into the garage.  For some odd reason, the front derailleur would not shift into the big ring so I did the 4 minute efforts with a high(er) cadence.  I still feel like I got good work done.
 
 <!---->
 ## FRIDAY MAR 18 ☁️
@@ -132,12 +130,14 @@ Swim 2200:
 Run 35 minutes EASY
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Swim: **2200m**
+Total Time: **105 Minutes** &nbsp;Swim: **2200m** &nbsp;Run: **5km**
 
 I was up at 0303 this morning; felt rested but that was way too early for a weekday (any day).  Rode to and from the pool on the road bike and felt [the workout](javascript:flick('thu');) from last night.
 
-In the pool, I had a lot of focused time to work with.  Lane congestion was a bit of an issue during the 300m reps but handled.  Before the 100m cooldown, I got to chat briefly with Batuhan (he was just starting) about his upcoming trip to St. George.  That break was long enough of a recovery that I finished the last 100m with maybe the best 100m that I've swam to date.  1:43 that felt connected and effortless, at the end of a 2100m workout.  I am pretty stoked.
+In the pool, I had a lot of focused time to work with.  Lane congestion was a bit of an issue during the 300m reps but handled.  <!---->
+Before the 100m cooldown, I got to chat briefly with Batuhan (he was just starting his workout) about his upcoming trip to St. George.  That break was long enough of a recovery that I finished the last 100m with maybe the best 100m that I've swam to date.  1:43 that felt connected and effortless, at the end of a 2100m workout.  I am pretty stoked.
 
+The run after work had me jog down to Carina's office where she pedalled beside me on the way home.  It's a great way for us to talk after a long work week.
 
 <!---->
 ## SATURDAY MAR 19
