@@ -112,7 +112,9 @@ Mobility 20 minutes
 ### NOTES
 Time: **80 Mins** &nbsp; Ride: **Rollers/Road Bike**
 
-Big puddle on and under the bike tonight.  It is time to move the rollers out of the suite and back into the garage.  For some odd reason, the front derailleur would not shift into the big ring so I did the 4 minute efforts with a high(er) cadence.  I still feel like I got good work done.
+Big puddle on and under the bike tonight.  It is time to move the rollers out of the suite and back into the garage.
+
+For some odd reason, the front derailleur would not shift into the big ring so I did the 4 minute efforts with a high(er) cadence.  I still feel like I got good work done.
 
 <!---->
 ## FRIDAY MAR 18 ☁️
@@ -131,9 +133,10 @@ Run 35 minutes EASY
 ### NOTES
 Total: **105 Minutes** &nbsp;Swim: **2200m** &nbsp;Run: **5km**
 
-I was up at 0303 this morning; felt rested but that was way too early for a weekday (any day).  Rode to and from the pool on the road bike and felt [the workout](javascript:flick('thu');) from last night.
+I was up at 0303 this morning; felt rested but that was **way too early** for a weekday.  Rode to and from the pool on the road bike and felt [the workout](javascript:flick('thu');) from last night.
 
-In the pool, I had a lot of focused time to work with.  Lane congestion was a bit of an issue during the 300m reps but handled.  <!---->
+In the pool it was a lot of focused time.  Lane congestion was a bit of an issue during the 300m reps but was handled.
+<!---->
 Before the 100m cooldown, I got to chat briefly with Batuhan (he was just starting his workout) about his upcoming trip to St. George.  That break was long enough of a recovery that I finished the last 100m with maybe the best 100m that I've swam to date.  1:43 that felt connected and effortless, at the end of a 2100m workout.  I am pretty stoked.
 
 The run after work had me jog down to Carina's office where she pedalled beside me on the way home.  It's a great way for us to talk after a long work week.
@@ -162,7 +165,7 @@ There was a guy that took a flyer up the road ahead of the group, I gave chase a
 They never made the gap and I rolled up to _Tulista_ solo.  
 
 On the way back to the café, I noticed that I'd had a couple kms on that group of 3.
-
+<!---->
 On the trip back to town, I did get some social time with Jon and Pierre with was great.
 
 By UVic, the wind out of the west was comically unfunny, so I turned for home.
