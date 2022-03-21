@@ -136,6 +136,7 @@ Total: **105 Minutes** &nbsp;Swim: **2200m** &nbsp;Run: **5km**
 I was up at 0303 this morning; felt rested but that was **way too early** for a weekday.  Rode to and from the pool on the road bike and felt [the workout](javascript:flick('thu');) from last night.
 
 In the pool it was a lot of focused time.  Lane congestion was a bit of an issue during the 300m reps but was handled.
+
 <!---->
 Before the 100m cooldown, I got to chat briefly with Batuhan (he was just starting his workout) about his upcoming trip to St. George.  That break was long enough of a recovery that I finished the last 100m with maybe the best 100m that I've swam to date.  1:43 that felt connected and effortless, at the end of a 2100m workout.  I am pretty stoked.
 
@@ -152,7 +153,9 @@ Coffee/fuel stop around half way.
 Goals: Time in the saddle, fun, stay warm, hydrate, road bike
 
 ### NOTES
-Total Time: **165 Minutes** 
+Total Time: **165 Minutes** &nbsp; Ride(s): **66 km**
+
+Good sleep and a good breakfast to start the day.
 
 First group ride in a long time and I didn't really know what to expect.  It seemed to be less formal than I thought.  There were a couple people that were around my fitness level and that should have been enough but Victoria will be Victoria.  
 
