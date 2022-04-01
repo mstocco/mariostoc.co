@@ -54,8 +54,8 @@ Stiff lumbar this morning; I noticed it during the swim but not enough to not sw
 Spent time with a hot tub jet on my back just because it was there.  I could feel my left ankle from the run too.
 
 <!---->
-## TUESDAY MAR 22
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY MAR 22 ☁️
+Sleep **3** | Fatigue **3** | Stress **5** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -68,7 +68,7 @@ Option B: 65 minutes, easy/controlled/moderate for most of the run, and building
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Slept in today (0730).
 
 <!---->
 ## WEDNESDAY MAR 23
