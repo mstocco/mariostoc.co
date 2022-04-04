@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![Booth Bay below, Maple Mountain (Vancouver Island) on the far shoreline.](/assets/jpg/IMG_4060-977x550.jpeg SALTSPRING ISLAND, BC)
+![Booth Bay below, Maple Mountain on Vancouver Island the opposite shoreline.](/assets/jpg/IMG_4060-977x550.jpeg SALTSPRING ISLAND, BC)
 
 ## SUNDAY MAR 27 ☁️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
