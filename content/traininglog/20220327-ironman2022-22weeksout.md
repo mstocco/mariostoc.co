@@ -4,7 +4,7 @@ Week beginning [Sunday, March 27, 2022](javascript:flick('sun');)
 **22** weeks out from race day.
 
 ## WEEKLY GOAL
-Enjoy a new place and a small break in the routine.
+Enjoy a time in new place and take a small break in the routine.
 
 ## SUMMARY
 Total Time: **9.5 Hours**
@@ -13,7 +13,9 @@ I feel like I was **ENJOYING IT**
 
 Last Saturday was a day off of SBR and this week was mostly spent on _Salt Spring Island_.
 
-I was originally planing on riding back to Victoria on [Monday](javascript:flick('mon');) but decided to stay with Carina through [Wednesday](javascript:flick('wed');).  I was back on the training plan once home but I did miss 2 swims and a ride this week.
+I was originally planing on riding back to Victoria on [Monday](javascript:flick('mon');) but decided to stay with Carina through [Wednesday](javascript:flick('wed');).
+
+I was back on the training plan once home but I did miss 2 swims and a ride this week.
 
 ![Booth Bay below, Maple Mountain on Vancouver Island the opposite shoreline.](/assets/jpg/IMG_4060-977x550.jpeg SALTSPRING ISLAND, BC)
 
@@ -107,7 +109,9 @@ Keep the effort easy, and keep the route relatively flat. No need to be in the b
 ### NOTES
 Total Time: **83 Minutes** &nbsp; Ride: **34 km**
 
-First time outside on the TT Bike since [IM Italy](/racereports/2021-ironman-italy-emilia-romagna) and it was like old hat.  Goal was an easy effort with 10 minutes total in the aero bars and that was more than achieved.  Did get rained on briefly, so much for my freshly cleaned bike.
+First time outside on the TT Bike since [IM Italy](/racereports/2021-ironman-italy-emilia-romagna) and it was like old hat.
+
+Goal was an easy effort with 10 minutes total in the aero bars and that was more than achieved.  Did get rained on briefly, so much for my freshly cleaned bike.
 
 <!---->
 ## FRIDAY APR 1 ☁️
@@ -136,9 +140,11 @@ Up and out the door early for a swim.  My legs felt ok commuting to the pool but
 More than the typical congestion this morning when the swim club session squeezed the rest of us into the remaining lanes.  I worked it out and and ended up with a whole lane to myself by 0640.  With the extra rest build into the later sets of 50m, I was able to take the 45s **strong** lengths down to 44, 43 and finished the last one with an honest **50m in 42 seconds**.
 
 ![Swim Chart](/assets/jpg/swim-20220401.jpeg)
-Happy with the effort in the pool.
+Happy with the effort and focus in the pool.
 
-Missed the run in the afternoon.
+---
+
+Missed the run in the afternoon.  😡
 
 <!---->
 ## SATURDAY APR 2 ⛅️
@@ -164,4 +170,4 @@ It was _Happy Valley Road_ back to _Langford_, then up _Veterans Memorial Pkwy_ 
 
 When I got home, I noticed that I had extra time on the _"officially"_ recorded activity so I rode _Burnside Road_ for some additional time.  
 
-This ride was fun and right about my limit for terrain and time.
+This ride was fun and reflective of my current fitness for terrain and time.
