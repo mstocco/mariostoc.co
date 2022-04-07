@@ -40,14 +40,17 @@ Ride home from the Ferry. Easy effort. Have fun.
 ### NOTES
 Ride Time: **94 Mins** &nbsp; Bike: **30 km** <small>vert: 685m</small>
 
+Change of plans; I am staying on SSI.
+
 Rode the _North End Loop_ of _Salt Spring_ this afternoon; really nice ride scenery wise and even better with just enough fitness to enjoy the hills of the island.
 
 Easy effort for the most part though my heart rate and blood pressure spiked turning south off _Walker's Hook Road_ on to _Robertson Road_.  There was a straight drop of a hill quickly followed by an equally steep hill on the other side.  A roadsign said the grade was 14%, the speedo briefly read 70kph before rocketing up the opposite hill.
 <!---->
 It was getting close to 1700 and _"rush hour"_ on the island; narrow, shoulderless roads and drivers needing to get somewhere had me heading back to the start early.  I was an hour into the ride at this point.
 
-The last bit was a climb up _Broadwell Road_.  Last time I pedalled here, I got a third of the way up and no further.  Today, I pedalled to the top and continued going up to the very top of _Canvasback Place_ (200m of vertical).  I was **stoked**!  
-![Bike Map](/assets/jpg/image.jpeg)
+The last bit was a climb up _Broadwell Road_.  Last time I pedalled here, I got a third of the way up and no further.  Today, I pedalled to the top and continued going up to the very top of _Canvasback Place_ (200m of vertical).  I was **stoked**!
+
+![Bike Map](/assets/jpg/bike-20220328.jpeg)
 
 <!---->
 ## TUESDAY MAR 29 ☁️
