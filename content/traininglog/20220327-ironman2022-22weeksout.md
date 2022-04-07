@@ -20,10 +20,12 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Travel to Salt Spring.
+Run 45 minutes easy. Nothing hard. 
+Just find a stretch of road or trail. Keep it easy. You will probably have to run on some hills. That's ok!
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **60 Minutes** &nbsp; Run: **8 km**
 
 Easy effort run on the _Channel Ridge Trails_.  This was exploratory through an abandoned subdivision project, on to some marked trails until I got too far/turned around and I had to guess my way back on a series of MTB single track.  My calves were still sore from the hike last Friday.
 
@@ -33,10 +35,10 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Ride home from the Ferry. Easy effort. Have fun.  
 
 ### NOTES
-Total Time: **0 Minutes**
+Ride Time: **94 Mins** &nbsp; Bike: **30 km** <small>vert: 685m</small>
 
 Rode the _North End Loop_ of _Salt Spring_ this afternoon; really nice ride scenery wise and even better with just enough fitness to enjoy the hills of the island.  Easy effort for the most part though my heart rate and blood pressure spiked turning south off _Walker's Hook Road_ on to _Robertson Road_.  There was a straight drop of a hill quickly followed by an equally steep hill on the other side.  A roadsign said the grade was 14%, the speedo briefly read 70kph before rocketing up the opposite hill.
 
@@ -50,10 +52,13 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Run 70 minutes easy w/ your group. 
+Easy as long as you can keep it easy. And a presumed ramp up over the final 5-15 minutes. 
+
+Mobility 15 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **70 Minutes** &nbsp; Run: **10.1 km**
 
 Really **rough afternoon**.  I had a headache start around 1000 and I had a couple of regular strength _Advil_ around 1100 and full on shivers there after.  I slept from 1200 to 1430 then woke up hungry.  I ate some sugary cereal and about as fast as this headache came on, it faded away.  I gave my self some extra time before heading out on the run.
 
@@ -65,10 +70,19 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Swim 2400: 
+2x (100 easy free, 50 easy w/ buoy. R :20 after each)
+50, 100, 150, 200 all steady/aerobic swim. R :40 after each. 
+2x 50 super easy free. Rest as needed. 
+50, 100, 150, 200 all steady/aerobic w/ buoy. R :40 after each. 
+2x 50 super easy free. Rest as needed. 
+750 continuous/smooth w/ consistent turnover. 
+3x 50 super easy to cool down.
+
+Ride 60 minutes. Easy effort. Long way home from the pool.
 
 ### NOTES
-Total Time: **0 Minutes**
+<mark> &nbsp; Total Time: **0 Minutes** &nbsp; </mark>
 
 Travel day back to _Victoria_; missed the opportunity to swim in the evening.  Readied my TT Bike for [tomorrow](javascript:flick('thu');) with the time I had.
 
@@ -82,9 +96,9 @@ Ride 75-85 minutes easy on the TT bike. Weather looks dry. Dust it off and put i
 Keep the effort easy, and keep the route relatively flat. No need to be in the bars a ton, but you do want to be in the bars for at least 10 minutes to see how it all feels.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **83 Minutes** &nbsp; Ride: **34 km**
 
-First time outside on the TT Bike since [IM Italy]() and it was like old hat.  Goal was an easy effort with 10 minutes total in the aero bars and that was more than achieved.  Did get rained on briefly, so much for my freshly cleaned bike.
+First time outside on the TT Bike since [IM Italy](/racereports/2021-ironman-italy-emilia-romagna) and it was like old hat.  Goal was an easy effort with 10 minutes total in the aero bars and that was more than achieved.  Did get rained on briefly, so much for my freshly cleaned bike.
 
 <!---->
 ## FRIDAY APR 1 ☁️
@@ -105,9 +119,8 @@ Swim 2500:
 
 Run 30 minutes. Easy effort. Flatter route preferred. 
 
-
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **80 Minutes** &nbsp; Swim: **2500m**
 
 Up and out the door early for a swim.  My legs felt ok commuting to the pool but I know I had a solid effort in the pool because my legs had little juice during the short spin home.
 
@@ -116,7 +129,7 @@ More than the typical congestion this morning when the swim club session squeeze
 Happy with the effort in the pool.
 
 <!---->
-## SATURDAY APR 2
+## SATURDAY APR 2 ⛅️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -127,6 +140,8 @@ Nothing too hilly. Keep it fun. Stay well fueled. Stay well hydrated. Have fun. 
 Mobility 20 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **~180 Minutes** &nbsp; Ride: **~70 km**
 
-&mdash;  
+Road ride where I started with Carina to up to _Langford_; from there, I headed out to _Humpback Road_, then linked up with _Kangaroo Road_ via _Highway 14_.  The shoulder is very tight in spots and traffic was heavy on the highway.  The back half of _Kangaroo_ was a **blast to ride** (no cars).  It was _Happy Valley Road_ back to _Langford_, then up _Veterans Memorial Pkwy_ to _Latoria_.  The last hill was the climb up _Ocean Blvd_.
+
+When I got home, I noticed that I had extra time on the _"officially"_ recorded activity so I rode _Burnside Road_ for some additional time.

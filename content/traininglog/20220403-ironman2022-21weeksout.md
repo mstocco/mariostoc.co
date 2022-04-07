@@ -84,7 +84,7 @@ Swim 2800:
 ### NOTES
 Total Time: **110 Minutes** &nbsp; Swim: **2800m**
 
-Much better time in the pool compared to [Monday](javascript:flick('mon');).  Consistency will do that.  Next to little lane congestion this morning too.  The 16x100m were done in roughly 1:57.  I thought I would clock better times but that was  what I had on the day.
+Much better time in the pool compared to [Monday](javascript:flick('mon');).  Next to little lane congestion this morning too.  The 16x100m were done in roughly 1:57.  I thought I would clock better times but that was what I had today.
 
 It was 2°C for the ride to the pool and not much warmer for the ride home.  I pedalled until I couldn't feel the swim in my legs then headed for home (early) for food and warmth (35 minutes).
 
