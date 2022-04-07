@@ -48,7 +48,7 @@ Easy effort for the most part though my heart rate and blood pressure spiked tur
 <!---->
 It was getting close to 1700 and _"rush hour"_ on the island; narrow, shoulderless roads and drivers needing to get somewhere had me heading back to the start early.  I was an hour into the ride at this point.
 
-The last bit was a climb up _Broadwell Road_.  Last time I pedalled here, I got a third of the way up and no further.  Today, I pedalled to the top and continued going up to the very top of _Canvasback Place_ (200m of vertical).  I was **stoked**!
+The last bit was a climb up _Broadwell Road_.  Last time I pedalled here, I got a third of the way up and no further.  Today, I pedalled up to the very top of _Canvasback Place_ (200m of vertical); I am **stoked**!
 
 ![Bike Map](/assets/jpg/bike-20220328.jpeg)
 
@@ -132,6 +132,7 @@ Up and out the door early for a swim.  My legs felt ok commuting to the pool but
 <!---->
 More than the typical congestion this morning when the swim club session squeezed the rest of us into the remaining lanes.  I worked it out and and ended up with a whole lane to myself by 0640.  With the extra rest build into the later sets of 50m, I was able to take the 45s **strong** lengths down to 44, 43 and finished the last one with an honest **50m in 42 seconds**.
 
+![Swim Chart](/assets/jpg/swim-20220401.jpeg)
 Happy with the effort in the pool.
 
 Missed the run in the afternoon.
