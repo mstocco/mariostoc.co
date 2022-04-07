@@ -47,7 +47,7 @@ Easy effort for the most part though my heart rate and blood pressure spiked tur
 It was getting close to 1700 and _"rush hour"_ on the island; narrow, shoulderless roads and drivers needing to get somewhere had me heading back to the start early.  I was an hour into the ride at this point.
 
 The last bit was a climb up _Broadwell Road_.  Last time I pedalled here, I got a third of the way up and no further.  Today, I pedalled to the top and continued going up to the very top of _Canvasback Place_ (200m of vertical).  I was **stoked**!  
-![Bike Map](/assets/jpg/image.jepg)
+![Bike Map](/assets/jpg/image.jpeg)
 
 <!---->
 ## TUESDAY MAR 29 ☁️
@@ -147,10 +147,10 @@ Mobility 20 minutes
 ### NOTES
 Total Time: **~180 Minutes** &nbsp; Ride: **~70 km**
 
-Road ride where I started with Carina to up to _Langford_; from there, I headed out to _Humpback Road_, then linked up with _Kangaroo Road_ via _Highway 14_.  The shoulder is very tight in spots and traffic was heavy on the highway.  The back half of _Kangaroo_ was a **blast to ride** (no cars).  It was _Happy Valley Road_ back to _Langford_, then up _Veterans Memorial Pkwy_ to _Latoria_.  The last hill was the climb up _Ocean Blvd_.
-
+![Bike Map](/assets/jpg/bike-20220402.jpeg)
 <!---->
+I rode with Carina to up to _Langford_.  From there, I pressed start on my activity and headed out to _Humpback Road_, then linked up with _Kangaroo Road_ via _Highway 14_.  The shoulder is very tight in spots and traffic was heavy on the highway.  The back half of _Kangaroo_ was a **blast to ride** (no cars).  It was _Happy Valley Road_ back to _Langford_, then up _Veterans Memorial Pkwy_ to _Latoria_.  The last hill was the climb up _Ocean Blvd_.
+
 When I got home, I noticed that I had extra time on the _"officially"_ recorded activity so I rode _Burnside Road_ for some additional time.
 
 #### Saturday Bike Route
-![Bike Map](/assets/jpg/bike-20220402.jpeg)
