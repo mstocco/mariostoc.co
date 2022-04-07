@@ -68,7 +68,10 @@ Time: **97 Minutes** &nbsp; Run: **12 km** <small>(5:35/km pace)</small>
 
 Better sleep last night and a good run with the neighbours too.  Nice and easy over _Craigflower_ and the hill on _Admirals Road_  then a building to **tempo effort** on the flat, _E&N Trail_ through _Esquimalt_.  By the time we reached the _Goose_, I was leading the crew out at ~8:30/mile.  I was feeling **really good** and just went with it.
 
-I spent 30 minutes on the rollers with the TT Bike after the run.
+I spent 30 minutes on the rollers with the TT Bike after the run; maybe half of the time was on the aero bars.
+
+Good day overall.
+
 <!---->
 ## WEDNESDAY APR 6 🌤
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**

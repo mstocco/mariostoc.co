@@ -64,9 +64,9 @@ Easy as long as you can keep it easy. And a presumed ramp up over the final 5-15
 ### NOTES
 Total Time: **70 Minutes** &nbsp; Run: **10.1 km**
 
-Really **rough afternoon**.  I had a headache start around 1000 and I had a couple of regular strength _Advil_ around 1100 and full on shivers there after.  I slept from 1200 to 1430 then woke up hungry.  I ate some sugary cereal and about as fast as this headache came on, it faded away.  I gave my self some extra time before heading out on the run.
+Really **rough afternoon**.  Headache started at 1000; a couple of regular strength _Advil_ around 1100 and full on shivers there after.  I slept from 1200 to 1430 then woke up hungry.  I ate some sugary cereal and about as fast as this all came on, it faded away.
 
-Again, the _Channel Ridge Trail System_ delivered.  Sometimes I was on the west side of the hill with the fading light of the evening, sometimes I was in the shadowy east side under a huge canopy of trees.  Just awesome and I felt great too.  Easy(ish) effort up and down.  I am feeling thankful.
+In the evening, the _Channel Ridge Trail System_ delivered.  Sometimes I was on the west side of the hill with the fading light of the evening, sometimes I was in the shadowy east side under a huge canopy of trees.  Just awesome and I felt great too.  Easy(ish) effort up and down.  I am feeling thankful.
 
 <!---->
 ## WEDNESDAY MAR 30 🌤
