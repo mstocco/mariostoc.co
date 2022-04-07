@@ -11,7 +11,9 @@ Total Time: **9.5 Hours**
 
 I feel like I was **ENJOYING IT**
 
-Last Saturday was a day off of SBR and this week was mostly spent on _Salt Spring Island_.  I was originally planing on riding back to Victoria on [Monday](javascript:flick('mon');) but decided to stay with Carina through [Wednesday](javascript:flick('wed');).  I was back on the training plan once home but I did miss 2 swims.
+Last Saturday was a day off of SBR and this week was mostly spent on _Salt Spring Island_.
+
+I was originally planing on riding back to Victoria on [Monday](javascript:flick('mon');) but decided to stay with Carina through [Wednesday](javascript:flick('wed');).  I was back on the training plan once home but I did miss 2 swims and a ride this week.
 
 ![Booth Bay below, Maple Mountain on Vancouver Island the opposite shoreline.](/assets/jpg/IMG_4060-977x550.jpeg SALTSPRING ISLAND, BC)
 
@@ -50,7 +52,8 @@ Easy effort for the most part though my heart rate and blood pressure spiked tur
 <!---->
 It was getting close to 1700 and _"rush hour"_ on the island; narrow, shoulderless roads and drivers needing to get somewhere had me heading back to the start early.  I was an hour into the ride at this point.
 
-The last bit was a climb up _Broadwell Road_.  Last time I pedalled here, I got a third of the way up and no further.  Today, I pedalled up to the very top of _Canvasback Place_ (200m of vertical); I am **stoked**!
+The last bit was a climb up _Broadwell Road_.  Last time I pedalled here, I got a third of the way up and no further.  Today, I pedalled up to the very top of _Canvasback Place_ (200m of vertical);   
+I am **stoked**!
 
 ![Bike Map](/assets/jpg/bike-20220328.jpeg)
 
