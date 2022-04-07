@@ -153,8 +153,11 @@ Total Time: **~180 Minutes** &nbsp; Ride: **~70 km**
 
 ![Bike Map](/assets/jpg/bike-20220402.jpeg)
 <!---->
-I rode with Carina to up to _Langford_.  From there, I pressed start on my activity and headed out to _Humpback Road_, then linked up with _Kangaroo Road_ via _Highway 14_.  The shoulder is very tight in spots and traffic was heavy on the highway.  The back half of _Kangaroo_ was a **blast to ride** (no cars).  It was _Happy Valley Road_ back to _Langford_, then up _Veterans Memorial Pkwy_ to _Latoria_.  The last hill was the climb up _Ocean Blvd_.
+Before heading out on the bike, I watched the Oceanside 70.3 race online.  Pretty awesome stuff to see Canadians go 1, 2 in the men's pro race. 🇨🇦
+
+I rode with Carina to up to _Langford_.  From there, I pressed start on my activity and headed out to _Humpback Road_, then linked up with _Kangaroo Road_ via _Highway 14_.  The shoulder is very tight in spots and traffic was heavy on the highway.  The back half of _Kangaroo_ was a **blast to ride** (no cars).
+
+It was _Happy Valley Road_ back to _Langford_, then up _Veterans Memorial Pkwy_ to _Latoria_.  The last climb was leaving the Lagoon, heading up _Ocean Blvd_; I was passed quite impressively by 2 riders that where half my age.  
 
 When I got home, I noticed that I had extra time on the _"officially"_ recorded activity so I rode _Burnside Road_ for some additional time.
 
-#### Saturday Bike Route
