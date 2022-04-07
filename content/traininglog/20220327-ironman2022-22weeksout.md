@@ -47,7 +47,7 @@ Easy effort for the most part though my heart rate and blood pressure spiked tur
 It was getting close to 1700 and _"rush hour"_ on the island; narrow, shoulderless roads and drivers needing to get somewhere had me heading back to the start early.  I was an hour into the ride at this point.
 
 The last bit was a climb up _Broadwell Road_.  Last time I pedalled here, I got a third of the way up and no further.  Today, I pedalled to the top and continued going up to the very top of _Canvasback Place_ (200m of vertical).  I was **stoked**!  
-![Bike Map](/assets/jpg/image.jpg)
+![Bike Map](/assets/jpg/image.jepg)
 
 <!---->
 ## TUESDAY MAR 29 ☁️
@@ -152,4 +152,5 @@ Road ride where I started with Carina to up to _Langford_; from there, I headed 
 <!---->
 When I got home, I noticed that I had extra time on the _"officially"_ recorded activity so I rode _Burnside Road_ for some additional time.
 
-![Bike Map](/assets/jpg/image.jpeg)
+#### Saturday Bike Route
+![Bike Map](/assets/jpg/bike-20220402.jpeg)
