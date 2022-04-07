@@ -40,11 +40,14 @@ Ride home from the Ferry. Easy effort. Have fun.
 ### NOTES
 Ride Time: **94 Mins** &nbsp; Bike: **30 km** <small>vert: 685m</small>
 
-Rode the _North End Loop_ of _Salt Spring_ this afternoon; really nice ride scenery wise and even better with just enough fitness to enjoy the hills of the island.  Easy effort for the most part though my heart rate and blood pressure spiked turning south off _Walker's Hook Road_ on to _Robertson Road_.  There was a straight drop of a hill quickly followed by an equally steep hill on the other side.  A roadsign said the grade was 14%, the speedo briefly read 70kph before rocketing up the opposite hill.
+Rode the _North End Loop_ of _Salt Spring_ this afternoon; really nice ride scenery wise and even better with just enough fitness to enjoy the hills of the island.
 
+Easy effort for the most part though my heart rate and blood pressure spiked turning south off _Walker's Hook Road_ on to _Robertson Road_.  There was a straight drop of a hill quickly followed by an equally steep hill on the other side.  A roadsign said the grade was 14%, the speedo briefly read 70kph before rocketing up the opposite hill.
+<!---->
 It was getting close to 1700 and _"rush hour"_ on the island; narrow, shoulderless roads and drivers needing to get somewhere had me heading back to the start early.  I was an hour into the ride at this point.
 
 The last bit was a climb up _Broadwell Road_.  Last time I pedalled here, I got a third of the way up and no further.  Today, I pedalled to the top and continued going up to the very top of _Canvasback Place_ (200m of vertical).  I was **stoked**!  
+![Bike Map](/assets/jpg/image.jpg)
 
 <!---->
 ## TUESDAY MAR 29 ☁️
@@ -123,10 +126,12 @@ Run 30 minutes. Easy effort. Flatter route preferred.
 Total Time: **80 Minutes** &nbsp; Swim: **2500m**
 
 Up and out the door early for a swim.  My legs felt ok commuting to the pool but I know I had a solid effort in the pool because my legs had little juice during the short spin home.
-
+<!---->
 More than the typical congestion this morning when the swim club session squeezed the rest of us into the remaining lanes.  I worked it out and and ended up with a whole lane to myself by 0640.  With the extra rest build into the later sets of 50m, I was able to take the 45s **strong** lengths down to 44, 43 and finished the last one with an honest **50m in 42 seconds**.
 
 Happy with the effort in the pool.
+
+Missed the run in the afternoon.
 
 <!---->
 ## SATURDAY APR 2 ⛅️
@@ -144,4 +149,7 @@ Total Time: **~180 Minutes** &nbsp; Ride: **~70 km**
 
 Road ride where I started with Carina to up to _Langford_; from there, I headed out to _Humpback Road_, then linked up with _Kangaroo Road_ via _Highway 14_.  The shoulder is very tight in spots and traffic was heavy on the highway.  The back half of _Kangaroo_ was a **blast to ride** (no cars).  It was _Happy Valley Road_ back to _Langford_, then up _Veterans Memorial Pkwy_ to _Latoria_.  The last hill was the climb up _Ocean Blvd_.
 
+<!---->
 When I got home, I noticed that I had extra time on the _"officially"_ recorded activity so I rode _Burnside Road_ for some additional time.
+
+![Bike Map](/assets/jpg/image.jpeg)
