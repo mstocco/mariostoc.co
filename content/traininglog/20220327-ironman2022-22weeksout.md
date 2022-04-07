@@ -27,7 +27,9 @@ Just find a stretch of road or trail. Keep it easy. You will probably have to ru
 ### NOTES
 Total Time: **60 Minutes** &nbsp; Run: **8 km**
 
-Easy effort run on the _Channel Ridge Trails_.  This was exploratory through an abandoned subdivision project, on to some marked trails until I got too far/turned around and I had to guess my way back on a series of MTB single track.  My calves were still sore from the hike last Friday.
+Easy effort run on the _Channel Ridge Trails_.  This was exploratory through an abandoned subdivision project, on to some marked trails until I got too far/turned around and I had to guess my way back on a series of MTB single track.
+
+My calves were still sore from the hike last Friday.
 
 <!---->
 ## MONDAY MAR 28 🌤
