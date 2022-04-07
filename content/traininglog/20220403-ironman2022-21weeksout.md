@@ -64,10 +64,11 @@ Evening run w/ buddies.
 75 minutes. Easy for most of the run, and a build up over the final 5-15 minutes. 
 
 ### NOTES
-Total Time: **97 Minutes** &nbsp; Run: **12 km** <small>(5:35/km pace)</small>
+Ttl Time: **97 Minutes** &nbsp; Run: **12 km** <small>5:35/km pace</small>
 
 Better sleep last night and a good run with the neighbours too.  Nice and easy over _Craigflower_ and the hill on _Admirals Road_  then a building to **tempo effort** on the flat, _E&N Trail_ through _Esquimalt_.  By the time we reached the _Goose_, I was leading the crew out at ~8:30/mile.  I was feeling **really good** and just went with it.
 
+I spent 30 minutes on the rollers with the TT Bike after the run.
 <!---->
 ## WEDNESDAY APR 6 🌤
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
@@ -78,8 +79,7 @@ Swim 2800:
 2 rounds (50 easy free, 50 fist drill, 50 w/ focus on rotation, 50 w/ 4x sighting r :15 after each)
 2x 300 as 25 higher turnover/25 relaxed-longer stroke. R 1:00 after each. 
 16x 100 aerobic/steady w/ focus on consistent turnover. R :20 after each. *Rest 1:20 after #8. 
-4x 50 EASY to cool down.   
-Ride home 60 minutes.
+4x 50 EASY to cool down.   Ride home 60 minutes.
 
 ### NOTES
 Total Time: **110 Minutes** &nbsp; Swim: **2800m**
