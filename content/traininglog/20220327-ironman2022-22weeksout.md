@@ -7,12 +7,11 @@ Week beginning [Sunday, March 27, 2022](javascript:flick('sun');)
 Enjoy a new place and a small break in the routine.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **9.5 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **ENJOYING IT**
 
-&mdash;
+Last Saturday was a day off of SBR and this week was mostly spent on _Salt Spring Island_.  I was originally planing on riding back to Victoria on [Monday](javascript:flick('mon');) but decided to stay with Carina through [Wednesday](javascript:flick('wed');).  I was back on the training plan once home but I did miss 2 swims.
 
 ![Booth Bay below, Maple Mountain on Vancouver Island the opposite shoreline.](/assets/jpg/IMG_4060-977x550.jpeg SALTSPRING ISLAND, BC)
 
@@ -26,7 +25,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Easy effort run on the _Channel Ridge Trails_.  This was exploratory through an abandoned subdivision project, on to some marked trails until I got too far/turned around and I had to guess my way back on a series of MTB single track.  My calves were still sore from the hike last Friday.
 
 <!---->
 ## MONDAY MAR 28 🌤
