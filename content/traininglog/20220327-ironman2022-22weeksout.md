@@ -159,5 +159,5 @@ I rode with Carina to up to _Langford_.  From there, I pressed start on my activ
 
 It was _Happy Valley Road_ back to _Langford_, then up _Veterans Memorial Pkwy_ to _Latoria_.  The last climb was leaving the Lagoon, heading up _Ocean Blvd_; I was passed quite impressively by 2 riders that where half my age.  
 
-When I got home, I noticed that I had extra time on the _"officially"_ recorded activity so I rode _Burnside Road_ for some additional time.
+When I got home, I noticed that I had extra time on the _"officially"_ recorded activity so I rode _Burnside Road_ for some additional time.  
 
