@@ -64,7 +64,7 @@ Evening run w/ buddies.
 75 minutes. Easy for most of the run, and a build up over the final 5-15 minutes. 
 
 ### NOTES
-Ttl Time: **97 Minutes** &nbsp; Run: **12 km** <small>5:35/km pace</small>
+Time: **97 Minutes** &nbsp; Run: **12 km** <small>(5:35/km pace)</small>
 
 Better sleep last night and a good run with the neighbours too.  Nice and easy over _Craigflower_ and the hill on _Admirals Road_  then a building to **tempo effort** on the flat, _E&N Trail_ through _Esquimalt_.  By the time we reached the _Goose_, I was leading the crew out at ~8:30/mile.  I was feeling **really good** and just went with it.
 

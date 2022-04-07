@@ -58,10 +58,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Run 70 minutes easy w/ your group. 
+Run 70 minutes easy w/ your group.
 Easy as long as you can keep it easy. And a presumed ramp up over the final 5-15 minutes. 
-
-Mobility 15 minutes
 
 ### NOTES
 Total Time: **70 Minutes** &nbsp; Run: **10.1 km**
@@ -161,3 +159,4 @@ It was _Happy Valley Road_ back to _Langford_, then up _Veterans Memorial Pkwy_ 
 
 When I got home, I noticed that I had extra time on the _"officially"_ recorded activity so I rode _Burnside Road_ for some additional time.  
 
+This ride was fun and right about my limit for terrain and time.
