@@ -125,11 +125,11 @@ Swim 2500:
 Run 35 minutes EASY. 
 
 ### NOTES
-Total Time: **65 Minutes** &nbsp; Swim: **2500m**
+Time: **65 Mins** &nbsp; Swim: **2500m** &nbsp; Run: **0 km**
 
 Another weird dream night woke me just after 0100.  My right deltoid is pretty lit up; full range of motion but very sore to the touch.
 
-In the pool, I had a good, focused session, paying additional attention to rotating.  Today was the first time that I noticed a good, consistent connection between my hips and my arms, particularly during the high turnover 50m lengths.
+In the pool, I had a good, focused session, paying additional attention to rotating.  Today was the first time that I noticed a consistent connection between my hips and my arms, particularly during the high turnover 50m lengths.
 
 <!---->
 ## SATURDAY APR 9
