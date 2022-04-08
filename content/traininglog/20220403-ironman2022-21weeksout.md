@@ -109,7 +109,7 @@ Total Time: **0 Minutes**
 
 <!---->
 ## FRIDAY APR 8
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **4** | Fatigue **3** | Stress **3** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -126,7 +126,10 @@ Run 35 minutes EASY.
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Another weird dream night that woke me just after 1am.  My **right deltoid** is pretty lit up; very sore to the touch but full range of motion.
+
+In the pool, I had a good, focused session, paying additional attention to rotating.  Today may have been the **first time** that I noticed a good connection between my hips and my arms, particularly during the high turnover 50m lengths.
+
 
 <!---->
 ## SATURDAY APR 9
