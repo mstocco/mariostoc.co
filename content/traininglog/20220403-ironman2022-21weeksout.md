@@ -105,8 +105,8 @@ Mobility 25 minutes.
 ### NOTES
 Total Saddle Time: **92 Minutes** &nbsp; Outside: **26 km** 
 
-On the TT Bike (late) after work.  I took a spin up to _Wale Road_ then to _Langford_ before turning back.  I headed up _Helmcken/Wilkinson_ before feeling the first of a few drops of rain.  I was needing a bio-break so I headed home and did the balance of the ride (30 minutes) on the rollers.
-![Bike Map](/assets/jpg/image.jpeg)
+On the TT Bike (late) after work.  I took a spin up to _Langford_ before turning around.  I headed up _Helmcken/Wilkinson_ before feeling the first of a few drops of rain.  I was needing a bio-break so I headed home and did the balance of the ride (30 minutes) on the rollers.
+![Bike Map](/assets/jpg/bike-20220407.jpeg)
 
 <!---->
 ## FRIDAY APR 8 🌦
