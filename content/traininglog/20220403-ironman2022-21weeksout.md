@@ -103,9 +103,9 @@ Ride 90 minutes on the TT bike. A few hills would be nice. Have fun. Overall an 
 Mobility 25 minutes.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Saddle Time: **92 Minutes** &nbsp; Outside: **26 km** 
 
-&mdash;  
+On the TT Bike (late) after work.  I took a spin up to _Wale Road_ then to _Langford_ before turning back.  I headed up _Helmcken/Wilkinson_ before feeling the first of a few drops of rain.  I was needing a bio-break so I headed home and did the balance of the ride (30 minutes) on the rollers.
 
 <!---->
 ## FRIDAY APR 8 🌦
@@ -126,9 +126,9 @@ Run 35 minutes EASY.
 ### NOTES
 Total Time: **65 Minutes** &nbsp; Swim: **2500m**
 
-Another weird dream night that woke me just after 1am.  My **right deltoid** is pretty lit up; very sore to the touch but full range of motion.
+Another weird dream night woke me just after 0100.  My right deltoid is pretty lit up; full range of motion but very sore to the touch.
 
-In the pool, I had a good, focused session, paying additional attention to rotating.  Today may have been the **first time** that I noticed a good connection between my hips and my arms, particularly during the high turnover 50m lengths.
+In the pool, I had a good, focused session, paying additional attention to rotating.  Today was the first time that I noticed a good, consistent connection between my hips and my arms, particularly during the high turnover 50m lengths.
 
 <!---->
 ## SATURDAY APR 9
@@ -136,8 +136,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Ride 3:30: Road or MTB. That is up to you! But....if you ride the MTB, I ask that you keep it to the Goose. More of a steady push than up and down. 
-Standard fueling. Standard hydration. Stay warm. Have fun. Never too hard, and conversely always have a bit of pressure on the pedals. Even if it's light pressure.  
+Ride 3:30: Road or MTB. That is up to you! But....if you ride the MTB, I ask that you keep it to the Goose. More of a steady push than up and down.  Standard fueling. Standard hydration. Stay warm. Have fun. Never too hard, and conversely always have a bit of pressure on the pedals. Even if it's light pressure.  
 
 ### NOTES
 Total Time: **0 Minutes**
