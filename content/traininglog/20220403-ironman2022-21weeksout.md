@@ -132,7 +132,7 @@ Another weird dream night woke me just after 0100.  My right deltoid is pretty l
 In the pool, I had a good, **focused session**, paying additional attention to rotation.  Today was the first time I noticed a consistent connection between my hips and my arms, particularly during the high turnover 50m lengths.
 
 <!---->
-![Swim Chart](/assets/jpg/swim-20220408.jpeg)
+![Swim Chart](/assets/jpg/swim-20220408.jpeg?v2)
 This wraps up a **7900m week** in the pool.
 
 ---
