@@ -141,7 +141,7 @@ Normally, there really isn't much write about for a half-hour jog but today, my 
 
 My heart-rate strap recorded a higher than perceived BPM too.  I am normally not that wrong with effort but apparently this was a harder 35 minute run than I had intended.
 
-Maybe it was the half of a Reactin this afternoon I took to calm my first strong hayfever reaction of the season.
+Maybe it was the Reactin I took earlier to calm my first strong hayfever reaction of the season.
 
 <!---->
 ## SATURDAY APR 9
