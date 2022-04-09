@@ -125,11 +125,23 @@ Swim 2500:
 Run 35 minutes EASY. 
 
 ### NOTES
-Time: **65 Mins** &nbsp; Swim: **2500m** &nbsp; Run: **0 km**
+Time: **100 Mins** &nbsp; Swim: **2500m** &nbsp; Run: **6 km**
 
 Another weird dream night woke me just after 0100.  My right deltoid is pretty lit up; full range of motion but very sore to the touch.
 
-In the pool, I had a good, focused session, paying additional attention to rotating.  Today was the first time that I noticed a consistent connection between my hips and my arms, particularly during the high turnover 50m lengths.
+In the pool, I had a good, focused session, paying additional attention to rotation.  Today was the first time I noticed a consistent connection between my hips and my arms, particularly during the high turnover 50m lengths.
+
+<!---->
+![Swim Chart](/assets/jpg/swim-20220408.jpeg)
+This wraps up a 7900m week in the pool.
+
+---
+
+Normally, there really isn't much write about for a half-hour jog but today, my legs started off feeling heavy; expected as I was up early, swam and there was no nap today.  I kept things easy or at least, it was easy running in my head.  The final average page, if I had to guess would have been around 6:10/km but I finished with a 5:45/km average.
+
+My heart-rate strap recorded a higher than perceived BPM too.  I am normally not that wrong with effort but apparently this was a harder 35 minute run than I had intended.
+
+![](/assets/jpg/image.jpeg)
 
 <!---->
 ## SATURDAY APR 9
