@@ -159,11 +159,13 @@ Total Time: **210 Minutes** Ride: **68 km** <small>MTB</small>
 
 <span class="agencyvc">Enter the Turbine...</span>  The squal to the north looked threatening but today I was headed southwest; away from the rain and hail but into a ridiculous headwind.  The local weather had the winds pegged at 40kph.  I felt every bit of it too!  Some gusts almost had me stopped on the bike path.
 
-I was hoping that the trees that line the _Galloping Goose Trail_ would serve as a wind break.  Maybe in a few short sections but really, not today.
+Hoped that the trees lining the _Galloping Goose Trail_ would serve as a wind break.  Maybe in a few short sections but really, not today.
 <!---->
+Before heading out, I readied my mountain bike with a very thorough clean of the drive chain.  I also swapped the saddle from one that was prevoiusly on my ride bike.  There is still some creaking going on, either in the suspension or the bottom bracket.  Normally that noise would driven me insane but this afternoon, the wind was so loud, I barely heard the creaking.
 
-I liken today's ride to riding uphill, both ways.  Challenging winds in my face on the way out, but a wind that had all but died for me on the return trip.
+I likened today's ride to riding uphill, both ways.  Challenging winds in my face on the way out, but a wind that had all but died for me on the return trip.  The new mountain bike, despite having 29" wheels and a clean and lubed chain, requires more effort on a flat path than my old 26" bike.  I am good with the extra effort as it will make me stronger but with the time on the road/TT bikes of late, I really felt the extra work.
 
+### Ride on the Goose to Saseenos
 ![Bike Map](/assets/jpg/bike-20220409.jpeg)
 
  
