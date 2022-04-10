@@ -7,14 +7,13 @@ Week beginning [Sunday, April 3, 2022](javascript:flick('sun');)
 After a scheduled reduced week, the goal is to get the train rolling down the tracks.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **13.3 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **ROLLING**
 
-&mdash;
+I finished the week with my lumbar feeling a bit better but a bothersome niggle in my right deltoid.  
 
-![](/assets/jpg/II-9x550.jpeg)
+![Above Matheson Lake](/assets/jpg/IMG_4067-977x550.jpeg GALLOPING GOOSE TRAIL)
 
 ## SUNDAY APR 3 ☁️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
@@ -152,6 +151,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 Ride 3:30: Road or MTB. That is up to you! But....if you ride the MTB, I ask that you keep it to the Goose. More of a steady push than up and down.  Standard fueling. Standard hydration. Stay warm. Have fun. Never too hard, and conversely always have a bit of pressure on the pedals. Even if it's light pressure.  
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **210 Minutes** Ride: **68 km** <small>MTB</small>
 
-&mdash;  
+Enter the Turbine...  The squal to the north looked threatening but I was headed west, into a ridiculous headwind.  The local weather had the winds pegged at 40kph.  I felt every bit of it too.
+
