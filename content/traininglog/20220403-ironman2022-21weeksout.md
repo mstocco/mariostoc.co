@@ -11,7 +11,11 @@ Total Time: **13.3 Hours**
 
 I feel like I was **ROLLING**
 
-I finished the week with my lumbar feeling a bit better but a bothersome niggle in my right deltoid.  
+I finished the week with my lumbar feeling a bit better but a bothersome niggle in my right deltoid has set in.  I got my scheduled workouts done per the plan but mobility was informal sessions throughout the week.
+
+[Saturday](javascript:flick('sat'); ended up being a bigger ride than on paper.
+
+I am looking forward to [next week](ironman2022-20weeksout) to find out how well I absord this week.
 
 ![Above Matheson Lake](/assets/jpg/IMG_4067-977x550.jpeg GALLOPING GOOSE TRAIL)
 
@@ -153,5 +157,13 @@ Ride 3:30: Road or MTB. That is up to you! But....if you ride the MTB, I ask tha
 ### NOTES
 Total Time: **210 Minutes** Ride: **68 km** <small>MTB</small>
 
-Enter the Turbine...  The squal to the north looked threatening but I was headed west, into a ridiculous headwind.  The local weather had the winds pegged at 40kph.  I felt every bit of it too.
+<span class="agencyvc">Enter the Turbine...</span>  The squal to the north looked threatening but today I was headed southwest; away from the rain and hail but into a ridiculous headwind.  The local weather had the winds pegged at 40kph.  I felt every bit of it too!  Some gusts almost had me stopped on the bike path.
 
+I was hoping that the trees that line the _Galloping Goose Trail_ would serve as a wind break.  Maybe in a few short sections but really, not today.
+<!---->
+
+I liken today's ride to riding uphill, both ways.  Challenging winds in my face on the way out, but a wind that had all but died for me on the return trip.
+
+![Bike Map](/assets/jpg/bike-20220409.jpeg)
+
+ 
