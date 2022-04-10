@@ -163,9 +163,11 @@ Hoped that the trees lining the _Galloping Goose Trail_ would serve as a wind br
 <!---->
 Before heading out, I readied my mountain bike with a very thorough clean ; I also swapped the saddle from one that was prevoiusly on my ride bike.  There is still some creaking, either in the suspension or the bottom bracket.  Normally those noises would driven me insane but this afternoon, the wind was so loud, I barely heard the creaking.
 
-I likened today's ride to riding uphill, both ways.  Challenging winds in my face on the way out, but a wind that had all but died for me on the return trip.  
+I likened today's ride to riding uphill, both ways.  Challenging winds in my face on the way out, but a wind that had all but died for me on the return trip.  At least I was dry.
 
 ### Ride on the Goose to Saseenos
 ![Bike Map](/assets/jpg/bike-20220409.jpeg)
 <!---->
-The new Rocky Mountain Element, despite having 29" wheels and a clean and lubed chain, requires more effort on a flat path than my old 26" Trek mountain bike.  I am good with the extra effort as makes me stronger but with the recent time on the road and TT bike of late, I really felt the stimulus in my legs.
+The new Rocky Mountain Element, despite having 29" wheels and a clean and lubed chain, requires more effort on a flat path than my old 26" Trek mountain bike.  If things are steep, the new bike has better gearing for going up, and better geometry for going down.  The gear ratios in between however, have me focused and working to maintain momentum.  Bumped up the tire pressure to 33psi front and rear today too.
+
+I am good with the extra effort as makes me stronger but with the recent time on the road and TT bike of late, I really felt this ride's stimulus in my legs.
