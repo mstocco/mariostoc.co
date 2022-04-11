@@ -33,7 +33,9 @@ Work had me scheduled for an hour last night starting at 8pm.  Finished at 4am. 
 
 The _Bear Mountain_ subdivision has snow today.  It is almost the middle of April.  WTF?
 
-Headache all day likely from how last night shook out.  Advil barely put a dent into it.  I slept midday.
+**Headache all day** likely from how last night shook out.  Advil barely put a dent into it.
+
+I slept midday.
 
 <!---->
 ## MONDAY APR 11 🌤
@@ -50,7 +52,7 @@ Swim 2500:
 100 super easy to cool down.
 
 ### NOTES
-Total Time: **0 Minutes** Swim: **2500m** Run: **0km**
+Total Time: **0 Mins** &nbsp;Swim: **2500m** &nbsp;Run: **0km**
 
 Yesterday's snow on the _Malahat_ stuck around.  Officially it was 4°C (-1°C with the windchill) so I kitted up and rode the mountain bike to the pool this morning.  Where is springtime?
 
