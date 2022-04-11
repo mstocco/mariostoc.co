@@ -4,7 +4,7 @@ Week beginning [Sunday, April 10, 2022](javascript:flick('sun');)
 **20** weeks out from race day.
 
 ## WEEKLY GOAL
-&mdash;
+Repeat [last week](ironman2022-21weeksout) because that felt good.
 
 ## SUMMARY
 Total Time: **0 Hours**
@@ -16,7 +16,7 @@ I feel like I was...
 
 ![](/assets/jpg/II-9x550.jpeg)
 
-## SUNDAY APR 10
+## SUNDAY APR 10 🌧
 <mark>Sleep **6** </mark>| Fatigue **5** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -27,15 +27,17 @@ Easy effort. Stay well fueled. Really try to keep this day easy. As Tuesday and 
 Mobility 30 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+<mark>Total Time: **0 Minutes** </mark>
 
-Work had me scheduled for an hour last night starting at 8pm.  Finished at 4am.
+Work had me scheduled for an hour last night starting at 8pm.  Finished at 4am.  FML.
 
 The _Bear Mountain_ subdivision has snow today.  It is almost the middle of April.  WTF?
 
+Headache all day likely from how last night shook out.  Advil barely put a dent into it.  I slept midday.
+
 <!---->
-## MONDAY APR 11
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## MONDAY APR 11 🌤
+Sleep **4** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -48,9 +50,13 @@ Swim 2500:
 100 super easy to cool down.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** Swim: **2500m** Run: **0km**
 
-&mdash;  
+Yesterday's snow on the _Malahat_ stuck around.  Officially it was 4°C (-1°C with the windchill) so I kitted up and rode the mountain bike to the pool this morning.  Where is springtime?
+
+I had an okay session in the pool.
+
+Headache is gone and my lumbar feels good today too.
 
 <!---->
 ## TUESDAY APR 12

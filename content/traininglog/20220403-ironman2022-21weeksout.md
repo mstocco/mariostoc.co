@@ -173,3 +173,7 @@ The new Rocky Mountain Element, despite having 29" wheels and a clean and lubed 
 If things are steep, the new bike has better gearing for going up, and better geometry for going down.  The gear ratios in between however, have me focused and working to maintain momentum.  Bumped up the tire pressure to 33psi front and rear today too.  Maybe next time I'll go up a bit more to 35...
 
 I am good with the extra effort as makes me stronger but with the recent time on the road and TT bike of late, I really felt this ride's stimulus in my legs.
+
+---
+
+If I had to guess, I think I'd need to schedule 4.5 hours for an out and back, up to the trail end at _Leechtown_ (and less wind).
