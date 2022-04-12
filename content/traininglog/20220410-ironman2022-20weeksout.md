@@ -52,7 +52,7 @@ Swim 2500:
 100 super easy to cool down.
 
 ### NOTES
-Total Time: **0 Mins** &nbsp;Swim: **2500m** &nbsp;Run: **0km**
+Total Time: **97 Mins** &nbsp;Swim: **2500m** &nbsp;Run: **5.4 km**
 
 Yesterday's snow on the _Malahat_ stuck around.  Officially it was 4°C (-1°C with the windchill) so I kitted up and rode the mountain bike to the pool this morning.  Where is springtime?
 
@@ -61,8 +61,8 @@ I had an okay session in the pool.
 Headache is gone and my lumbar feels good today too.
 
 <!---->
-## TUESDAY APR 12
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY APR 12 🌦
+Sleep **2** | Fatigue **2** | Stress **4** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -74,7 +74,7 @@ Easy effort for the fist 55 minutes.....pick up the tempo/rhythm a bit on the fi
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Fantastic sleep last but I woke up to snow falling (it turned to rain by 0830).
 
 <!---->
 ## WEDNESDAY APR 13
