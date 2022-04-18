@@ -124,7 +124,7 @@ Total Time: **90 Minutes** &nbsp; **38.9 km**
 Spin up to _Cy Hampton Park_ on the typical _Lochside/Martindale_ route.  Lots of time in and out of the bars (per traffic) and generally I felt **really good**.  At the ~90 minute mark, I stopped the activity as I was at Mike's house.  After a short visit, I pedalled an additional 17 minutes home.  
 
 <!---->
-## FRIDAY APR 15
+## FRIDAY APR 15 🌤
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -143,7 +143,7 @@ Thinking it was a fluke, I carried on but it happened again near the hospital an
 The run started hot (for me) and stayed pretty much at that rhythm for the balance of the next 45 minutes.
 
 <!---->
-## SATURDAY APR 16
+## SATURDAY APR 16 ☁️
 Sleep **3** | Fatigue **3** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -156,7 +156,7 @@ Swim 2800:
 
 
 ### NOTES
-Total Time: **0 Minutes**
+Time: **180 Minutes** &nbsp;Swim: **2800m** &nbsp;Ride: **56 km** 
 
 For all the time in the pool at _Esquimalt Rec Centre_ during COVID, I knew the pool was warm but this morning, it was bathtub warm.  Only one lane to share with three people, I moved into the empty "slow" lane and got 80% of my workout done there.
 
@@ -166,6 +166,6 @@ Russ Hays group was split into two groups and I started off in back.  Someone me
 
 I told the group leader that I'd head up to the first group and then set out to bridge that gap.
 
-After bridging up to the front group, we rode at a pace that was closer to my fitness for the balance of the ride.  They were a bit stronger up the hills, I was able to hold court on the flats; I paced the group the majority of _Happy Valley Road_ on the way back.
+After bridging up to the front group, we rode at a pace that was closer to my fitness for the balance of the ride.  They were a bit stronger up the hills, I was able to hold court on the flats; I paced the group the majority of _Happy Valley Road_ on the way back.  The group ride ended at _The Nest Café_ and I rolled in for a coffee with the people I just rode with.
 
-Only 2 out of a 3 hour ride. 
+Only 2 out of a 3 hour ride.  Maybe that was a mistake but I could feel the stimulus of the last 3 days in my quads, the weather had turned threatening, I needed a bio-break and home was right there.
