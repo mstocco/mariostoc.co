@@ -15,7 +15,7 @@ Despite running myself into the ground with a lack of everything (sleep, rest, f
 
 The TT Bike is on the road but the free hub on my MTB needs service.  The week ended with a spirited brick session on [Friday](javascript:flick('fri');) and a group ride with some punchy moments on [Saturday](javascript:flick('sat');).
 
-![](/assets/jpg/II-9x550.jpeg)
+![The time of the year where the lawnmower competes with my bike for time.](/assets/jpg/IMG_1114-977x550.jpeg DANDELION SEASON)
 
 ## SUNDAY APR 10 🌧
 <mark>Sleep **6** </mark>| Fatigue **5** | Stress **3** | Soreness **4**
