@@ -50,11 +50,13 @@ Mobility 17 mins.
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Missed the rollers but did get the mobility work (and some extra stretching) in.  Quads and adductors needed the work.
+
+Long day at work.
 
 <!---->
-## TUESDAY APR 19
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY APR 19 🌤
+Sleep **3** | Fatigue **4** | Stress **4** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -64,7 +66,7 @@ Rollers ~ 30 minutes. EASY spinning.
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Descent sleep last night and I am feeling fresher today.
 
 <!---->
 ## WEDNESDAY APR 20
