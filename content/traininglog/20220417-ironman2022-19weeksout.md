@@ -30,6 +30,8 @@ Get outside, find some dirt. Generally a flat route is preferred. It'll be a lot
 ### NOTES
 Total Time: **115 Minutes** &nbsp; Run: **18.5 km**
 
+Mobility was done before the run as planned.
+
 Run was mostly on dirt and I headed north on the Colquitz River Trail with the intension of doing a lap of Rithet's Bog before coming back.  I stopped for a bio-break and that was enough of a pause that further up at a fork in the trail, I met up with Yauki!  He was out for a 10km run but when I told him where I was heading, he decided to run with me.
 
 <!---->
@@ -72,7 +74,9 @@ Total Time: **96 Minutes** &nbsp; Run: **12 km**
 
 Descent sleep last night and I am feeling fresher today.
 
-My right ankle (joint) was sore and all three of us complained of heavy legs to start today's run.  That ankle took a long time to loosen up too; maybe _ km.  By that time we got to the hill on Admirals Road and I maintained a steady pace, over the top and then found a second wind that carried me up and over _Craigflower Hill_.
+My right ankle was sore and all three of us complained of heavy legs to start today's run.  That ankle took a long time (7.5 km/47 minutes) to loosen up too; basically to the hill on _Admirals Road_.  From there, I maintained a steady pace, over the top and then found a second wind that carried me up and over _Craigflower Hill_ (for a segment PR on Strava).
+
+Quads were pretty cooked afterwards and I rode the rollers (TT Bike, super easy effort) to finish the day.
 
 <!---->
 ## WEDNESDAY APR 20 🌦
