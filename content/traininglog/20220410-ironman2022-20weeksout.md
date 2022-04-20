@@ -155,7 +155,7 @@ Thinking it was a fluke, I carried on but it happened again near the hospital, a
 
 ---
 
-The run **started hot** (for me) and stayed pretty much at that rhythm for the balance of the next 45 minutes.  First real _"brick session"_ in forever and was not as terrible as I remember.
+The run **started hot** (for me) and stayed pretty much at that rhythm for the balance of the next 45 minutes.  First real _"brick session"_ in forever and was not as terrible as I remember.  Flat to false-flat route south on _The Goose_ to the halfway point of _Harbour Road_.  Weather was sunny with a cool breeze.
 
 <!---->
 ## SATURDAY APR 16 ☁️
@@ -168,7 +168,11 @@ Swim 2800:
 500 as 25 higher turnover/25 relaxed-smooth. Rest as needed. 
 15x 100 Descending 1-3, 4-6, 7-9, 10-12, 13-15 1: easy, 2: Moderate, 3: Strong. R :20 after each. 
 4x 50 EASY to cool down.
-
+ 
+Road ride ~ 3:00. Weather looks good, so great time to get in some base miles on the road. 
+**Fueling will be pretty important as Friday is a bit bigger than usual AND you'll swim earlier in the day. 
+Minimum of 600 calories on this ride. I'd like to see 750-900 if possible. Stay hydrated as well. 
+Effort ~ Easy to steady. Nothing too hilly. It's your third ride in three days. No need to search out hills. If anything, try to avoid them.
 
 ### NOTES
 Time: **180 Minutes** &nbsp;Swim: **2800m** &nbsp;Ride: **56 km** 
@@ -177,11 +181,10 @@ For all the time in the pool at _Esquimalt Rec Centre_ during COVID, I knew the 
 
 Only one skinny lane to share with three people, so I moved into the empty _"slow lane"_ and got 80% of my workout done there.
 
----
+<!---->
 
 A short ride home for a big pancake breakfast before the main ride.
 
-<!---->
 The Russ Hays Group Ride was split into two groups and I started off in back.  Someone mentioned that I'd be better off with the stronger group but they had already gone up the road and out of sight.
 
 ![Bike](/assets/jpg/bike-20220416.jpeg)
