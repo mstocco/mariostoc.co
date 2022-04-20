@@ -199,10 +199,15 @@ I told the group leader that I'd catch up with the first group and then set out 
 After bridging up to the front group, we rode at a pace that was closer to my fitness for the balance of the ride.  
 
 <!---->
-The  were a bit stronger up the hills, I was able to hold pace on the flats; on the way back, I lead the group for the majority of _Happy Valley Road_.  The group ride ended at _The Nest Café_ and I rolled in for a coffee with the people I just rode with.
+The first group was a bit stronger up the hills, I was able to hold pace on the flats; on the way back, I lead the group for the majority of _Happy Valley Road_.  The group ride ended at _The Nest Café_ and I rolled in for a coffee with the people I just rode with.
 
-Only 2 out of a 3 hour ride.  Maybe that was a mistake but I could feel the stimulus of the last 3 days in my quads, the weather had turned threatening, I needed a bio-break and home was right there.
+Leaving the café, I could feel the stimulus of the last 3 days in my quads, the weather had turned threatening, I needed a bio-break and home was right there...
+
 ![Bike](/assets/jpg/bike-20220416.jpeg)
 
 <!---->
 I packed 2 bottles with 100g of carb mix (50% Maltodextrin, 40% Lemonade, 10% table sugar, pinch or two of salt).   One bottle consumed and a mouthful of the other.  The concentration sat well this morning.
+
+---
+
+I spent time trying to square ~3 hours of riding from 23 minutes commuting to and from the pool, plus 13 minutes from the café to 106 minutes of moving time during the group ride.  Maybe some of the punchy efforts are the difference.  Maybe I should just listen to my quads as they tell me that I got a workout today.
