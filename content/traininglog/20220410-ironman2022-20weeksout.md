@@ -155,7 +155,9 @@ Thinking it was a fluke, I carried on but it happened again near the hospital, a
 
 ---
 
-The run **started hot** (for me) and stayed pretty much at that rhythm for the balance of the next 45 minutes.  First real _"brick session"_ in forever and was not as terrible as I remember.  Flat to false-flat route south on _The Goose_ to the halfway point of _Harbour Road_.  Weather was sunny with a cool breeze.
+The run **started hot** (for me) and stayed pretty much at that rhythm for the balance of the next 45 minutes.  First real _"brick session"_ in forever and was not as terrible as I remember.
+
+Flat to false-flat route south on _The Goose_ to the halfway point of _Harbour Road_.  Weather was sunny with a cool breeze.
 
 <!---->
 ## SATURDAY APR 16 ☁️
@@ -200,7 +202,7 @@ After bridging up to the front group, we rode at a pace that was closer to my fi
 The  were a bit stronger up the hills, I was able to hold pace on the flats; on the way back, I lead the group for the majority of _Happy Valley Road_.  The group ride ended at _The Nest Café_ and I rolled in for a coffee with the people I just rode with.
 
 Only 2 out of a 3 hour ride.  Maybe that was a mistake but I could feel the stimulus of the last 3 days in my quads, the weather had turned threatening, I needed a bio-break and home was right there.
-
-I packed 2 bottles with 100g of carb mix (50% Maltodextrin, 40% Lemonade, 10% table sugar, pinch or two of salt).   One bottle consumed and a mouthful of the other.  The concentration sat well this morning.
-
 ![Bike](/assets/jpg/bike-20220416.jpeg)
+
+<!---->
+I packed 2 bottles with 100g of carb mix (50% Maltodextrin, 40% Lemonade, 10% table sugar, pinch or two of salt).   One bottle consumed and a mouthful of the other.  The concentration sat well this morning.
