@@ -76,7 +76,7 @@ Descent sleep last night and I am feeling fresher today.
 
 My right ankle was sore and all three of us complained of heavy legs to start today's run.  That ankle took a long time (7.5 km/47 minutes) to loosen up too; basically to the hill on _Admirals Road_.  From there, I maintained a steady pace, over the top and then found a second wind that carried me up and over _Craigflower Hill_ (for a segment PR on Strava).
 
-Quads were pretty cooked afterwards and I rode the rollers (TT Bike, super easy effort) to finish the day.
+Quads were pretty cooked afterwards and I rode the rollers (super easy) to finish the day.
 
 <!---->
 ## WEDNESDAY APR 20 🌦
@@ -97,7 +97,9 @@ Ride 60 minutes. Easy spinning. Long way home.
 ### NOTES
 Total Time: **90 Minutes** &nbsp;Swim: **2800m**
 
-In bed by 2200 but I woke feeling like I didn't sleep very well.  Consequently late getting to the pool; just one of those, _"I'd rather go back to bed"_ kind of mornings.
+I woke feeling like I didn't sleep very well.
+
+Consequently late getting to the pool; just one of those, _"I'd rather go back to bed"_ kind of mornings.
 <!---->
 Once in the water, I got to work.  I felt slow overall but did my best to push through and stay on point with the exercise.  Guessing what my HIM pace is in a pool is a challenge and it did keep me focused on the effort.  Lane congestion didn't come into play until the very end of the workout.  In the end, this was a **good swim**.  Robert Johnson complemented me on my improvement before leaving for home.
 
