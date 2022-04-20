@@ -100,11 +100,11 @@ Ride 60 minutes home. Easy effort. Road bike.
 ### NOTES
 Total Time: **120 Minutes** &nbsp; Swim: **2900m**
 
-I had a feeling work was going to need me in the morning so I planned on an afternoon swim.  I ended up with a 25m lane all to myself @1445; it has been awhile since I have been a the short pool.
+I had a feeling work was going to need me in the morning so I planned on an afternoon swim.  I ended up with a 25m lane all to myself @1445; it has been awhile since I have been a short pool.
 
-I substituted the paddle-fist for the fist drill b/c I forgot my paddles; regardless, this was a productive time in the water.
+I substituted the paddle-fist for the fist drill b/c I forgot my paddles; regardless, this was a **productive time** in the water.
 <!---->
-#### 25M LANE TODAY
+#### CRYSTAL POOL - 25M LANE 
 ![Swim](/assets/jpg/swim-20220413.jpeg)
 
 I went to Frontrunners looking for a pair of shoes then rode for ~50 minutes after that.
@@ -145,10 +145,12 @@ In an ideal world, the run is after the bike, but if a rain shower stops that, d
 ### NOTES
 Total Time: **135 Minutes** &nbsp; Run OTB: **8km** <small>@5:38/km</small>
 
-The mountain bike ride that never made it off the asphalt.  I had another go at trying to eliminate a creak while pedalling my mouthing bike.  I found two stuck lower pivot bearings and thought that might have been the culprit.  Once those units were cleaned, repacked and spinning again, I noticed some play in the rear cassette that needed to be addressed.  Here is where I believe I messed things up.
-
-After putting the freehub and cassette back together, I think I added too much pre-load as I wasn't too far into my ride when I dropped the chain.  
+The mountain bike ride that never made it off the asphalt.  I had another go at trying to eliminate the creaking of my mountain bike.  I found two stuck lower pivot bearings and thought that might have been the culprit.  Once those bearings were cleaned, repacked and spinning again, I noticed some play in the rear cassette that needed to be addressed.
 <!---->
+Here is where I believe I messed things up.
+
+After putting the freehub and cassette back together, I think I added too much pre-load as I wasn't too far into my ride when I dropped the chain.
+
 Thinking it was a fluke, I carried on but it happened again near the hospital and again on _Highland Road_.  This bike has never dropped a chain in the 6 months I've owned it.  I decided to stop and have a closer look and found the freehub was no longer "free".  I pedalled the bike carefully home and jumped on the rollers for the next 45 minutes.
 
 The run started hot (for me) and stayed pretty much at that rhythm for the balance of the next 45 minutes.
