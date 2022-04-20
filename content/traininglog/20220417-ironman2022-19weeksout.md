@@ -97,7 +97,7 @@ In bed by 2200 but I woke feeling like I didn't sleep very well.  Consequently l
 <!---->
 Once in the water, I got to work.  I felt slow overall but did my best to push through and stay on point with the exercise.  Guessing what my HIM pace is in a pool is a challenge and it did keep me focused on the effort.  Lane congestion didn't come into play until the very end of the workout.  In the end, this was a **good swim**.  Robert Johnson complemented me on my improvement before leaving for home.
 
-
+![Swim](/assets/jpg/swim-20220420.jpeg)
 
 I skipped on the hour ride after the swim as I was needing to get logged in for work.
 
