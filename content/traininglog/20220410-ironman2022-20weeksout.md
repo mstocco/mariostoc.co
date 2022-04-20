@@ -151,9 +151,11 @@ Here is where I believe I messed things up.
 
 After putting the freehub and cassette back together, I think I added too much pre-load as I wasn't too far into my ride when I dropped the chain.
 
-Thinking it was a fluke, I carried on but it happened again near the hospital and again on _Highland Road_.  This bike has never dropped a chain in the 6 months I've owned it.  I decided to stop and have a closer look and found the freehub was no longer "free".  I pedalled the bike carefully home and jumped on the rollers for the next 45 minutes.
+Thinking it was a fluke, I carried on but it happened again near the hospital, and again on _Highland Road_.  This bike has never dropped a chain in the 6 months I've owned it.  I decided to stop and have a closer look and found the freehub was no longer "free".  I carefully pedalled the bike home and jumped on the rollers for the next 45 minutes.
 
-The run started hot (for me) and stayed pretty much at that rhythm for the balance of the next 45 minutes.
+---
+
+The run **started hot** (for me) and stayed pretty much at that rhythm for the balance of the next 45 minutes.  First real _"brick session"_ in forever and was not as terrible as I remember.
 
 <!---->
 ## SATURDAY APR 16 ☁️
@@ -173,16 +175,21 @@ Time: **180 Minutes** &nbsp;Swim: **2800m** &nbsp;Ride: **56 km**
 
 For all the time in the pool at _Esquimalt Rec Centre_ during COVID, I knew the pool was warm but this morning, it was **bathtub warm**.
 
-Only one lane to share with three people, I moved into the empty "slow" lane and got 80% of my workout done there.
+Only one skinny lane to share with three people, so I moved into the empty _"slow lane"_ and got 80% of my workout done there.
+
+---
 
 Big pancake breakfast before the ride.
 <!---->
-Russ Hays group was split into two groups and I started off in back.  Someone mentioned that I'd be better off with the stronger group but they had already gone up the road.
+The Russ Hays Group Ride was split into two groups and I started off in back.  Someone mentioned that I'd be better off with the stronger group but they had already gone up the road and out of sight.
 
-I told the group leader that I'd head up to the first group and then set out to bridge that gap.
+I told the group leader that I'd catch up with the first group and then set out to bridge that gap.
 
 After bridging up to the front group, we rode at a pace that was closer to my fitness for the balance of the ride.  They were a bit stronger up the hills, I was able to hold court on the flats; I paced the group the majority of _Happy Valley Road_ on the way back.  The group ride ended at _The Nest Café_ and I rolled in for a coffee with the people I just rode with.
 
 Only 2 out of a 3 hour ride.  Maybe that was a mistake but I could feel the stimulus of the last 3 days in my quads, the weather had turned threatening, I needed a bio-break and home was right there.
 
-Packed 2 bottles with 100g of carb mix (50% Maltodextrin, 40% Lemonade, 10% table sugar, pinch or two of salt).   One bottle consumed and a mouthful of the other. hi 
+<!---->
+Packed 2 bottles with 100g of carb mix (50% Maltodextrin, 40% Lemonade, 10% table sugar, pinch or two of salt).   One bottle consumed and a mouthful of the other.
+
+![Bike](/assets/jpg/image.jpeg)
