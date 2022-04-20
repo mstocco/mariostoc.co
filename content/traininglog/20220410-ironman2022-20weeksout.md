@@ -102,9 +102,14 @@ Total Time: **120 Minutes** &nbsp; Swim: **2900m**
 
 I had a feeling work was going to need me in the morning so I planned on an afternoon swim.  I ended up with a 25m lane all to myself @1445; it has been awhile since I have been a the short pool.
 
-I substituted the paddle-fist drill for just the fist drill b/c I forgot my paddles; other than that, this was a productive time in the water.
+I substituted the paddle-fist for the fist drill b/c I forgot my paddles; regardless, this was a productive time in the water.
+<!---->
+#### 25M LANE TODAY
+![Swim](/assets/jpg/swim-20220413.jpeg)
 
 I went to Frontrunners looking for a pair of shoes then rode for ~50 minutes after that.
+
+![Bike](/assets/jpg/image.jpeg)
 
 <!---->
 ## THURSDAY APR 14 ⛅️
@@ -119,9 +124,11 @@ Try to spend at least 20 minutes in the bars (so more than last time, but still 
 Mobility 20 minutes
 
 ### NOTES
-Total Time: **90 Minutes** &nbsp; **38.9 km**
+Total Time: **90 Minutes** &nbsp; Ride: **38.9 km**
 
-Spin up to _Cy Hampton Park_ on the typical _Lochside/Martindale_ route.  Lots of time in and out of the bars (per traffic) and generally I felt **really good**.  At the ~90 minute mark, I stopped the activity as I was at Mike's house.  After a short visit, I pedalled an additional 17 minutes home.  
+Spin up to _Cy Hampton Park_ on the typical _Lochside/Martindale_ route.  Lots of time in and out of the bars (per traffic) and generally, I felt **really good** this late afternoon.
+
+At the ~90 minute mark, I stopped the activity as I was at Mike's house.  After a short visit, I pedalled an additional 17 minutes home.  
 
 <!---->
 ## FRIDAY APR 15 🌤
@@ -137,7 +144,7 @@ Total Time: **135 Minutes** &nbsp; Run OTB: **8km** <small>@5:38/km</small>
 The mountain bike ride that never made it off the asphalt.  I had another go at trying to eliminate a creak while pedalling my mouthing bike.  I found two stuck lower pivot bearings and thought that might have been the culprit.  Once those units were cleaned, repacked and spinning again, I noticed some play in the rear cassette that needed to be addressed.  Here is where I believe I messed things up.
 
 After putting the freehub and cassette back together, I think I added too much pre-load as I wasn't too far into my ride when I dropped the chain.  
-
+<!---->
 Thinking it was a fluke, I carried on but it happened again near the hospital and again on _Highland Road_.  This bike has never dropped a chain in the 6 months I've owned it.  I decided to stop and have a closer look and found the freehub was no longer "free".  I pedalled the bike carefully home and jumped on the rollers for the next 45 minutes.
 
 The run started hot (for me) and stayed pretty much at that rhythm for the balance of the next 45 minutes.
@@ -158,10 +165,12 @@ Swim 2800:
 ### NOTES
 Time: **180 Minutes** &nbsp;Swim: **2800m** &nbsp;Ride: **56 km** 
 
-For all the time in the pool at _Esquimalt Rec Centre_ during COVID, I knew the pool was warm but this morning, it was bathtub warm.  Only one lane to share with three people, I moved into the empty "slow" lane and got 80% of my workout done there.
+For all the time in the pool at _Esquimalt Rec Centre_ during COVID, I knew the pool was warm but this morning, it was **bathtub warm**.
+
+Only one lane to share with three people, I moved into the empty "slow" lane and got 80% of my workout done there.
 
 Big pancake breakfast before the ride.
-
+<!---->
 Russ Hays group was split into two groups and I started off in back.  Someone mentioned that I'd be better off with the stronger group but they had already gone up the road.
 
 I told the group leader that I'd head up to the first group and then set out to bridge that gap.

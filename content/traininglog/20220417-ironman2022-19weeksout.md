@@ -68,9 +68,11 @@ Total Time: **0 Minutes**
 
 Descent sleep last night and I am feeling fresher today.
 
+My right ankle (joint) was sore and all three of us complained of heavy legs to start today's run.  That ankle took a long time to loosen up too; maybe _ km.  By that time we got to the hill on Admirals Road and I maintained a steady pace, over the top and then found a second wind that carried me up and over _Craigflower Hill_.
+
 <!---->
-## WEDNESDAY APR 20
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY APR 20 🌦
+Sleep **4** | Fatigue **4** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -85,9 +87,13 @@ Swim 2800:
 Ride 60 minutes. Easy spinning. Long way home.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **90 Minutes** &nbsp;Swim: **2800m**
 
-&mdash;  
+In bed by 2200 but I woke feeling like I didn't sleep well.  Late getting to the pool; just one of those, _"I'd rather go back to bed"_ king of mornings.
+
+Once in the water, I got to work.  I felt slow overall but did my best to push through and stay on point with the exercise.  Guessing what my HIM pace is in a pool is a challenge and it did keep me focused.  Lane congestion didn't come into play until the very end of the workout.  Overall, this was a good swim.  Robert Johnson complemented my improvement before leaving for home.
+
+I skipped on the hour ride after the swim as I was needing to get logged in for work.
 
 <!---->
 ## THURSDAY APR 21
