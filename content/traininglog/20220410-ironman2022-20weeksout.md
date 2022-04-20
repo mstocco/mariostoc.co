@@ -143,7 +143,7 @@ Run 45 minutes. Easy effort.
 In an ideal world, the run is after the bike, but if a rain shower stops that, don't worry about it.
 
 ### NOTES
-Total Time: **135 Minutes** &nbsp; Run OTB: **8km** <small>@5:38/km</small>
+Total Time: **135 Minutes** &nbsp;Run: **8km** <small>OTB @5:38/km</small>
 
 The mountain bike ride that never made it off the asphalt.  I had another go at trying to eliminate the creaking of my mountain bike.  I found two stuck lower pivot bearings and thought that might have been the culprit.  Once those bearings were cleaned, repacked and spinning again, I noticed some play in the rear cassette that needed to be addressed.
 <!---->
@@ -165,14 +165,15 @@ Sleep **3** | Fatigue **3** | Stress **2** | Soreness **3**
 ### PLANNED WORKOUTS
 
 #### SESSION ONE
-Swim 2800: 
+Swim 2800:  
 200 easy swimming, 200 swim w/ buoy, 4x 50 steady kick. R :10 after each. 
 500 as 25 higher turnover/25 relaxed-smooth. Rest as needed. 
 15x 100 Descending 1-3, 4-6, 7-9, 10-12, 13-15 1: easy, 2: Moderate, 3: Strong. R :20 after each. 
 4x 50 EASY to cool down.
  
 #### SESSION TWO
-Road ride ~ 3:00. Weather looks good, so great time to get in some base miles on the road. 
+Road ride ~ 3:00.  
+Weather looks good, so great time to get in some base miles on the road. 
 **Fueling will be pretty important as Friday is a bit bigger than usual AND you'll swim earlier in the day. 
 Minimum of 600 calories on this ride. I'd like to see 750-900 if possible. Stay hydrated as well. 
 Effort ~ Easy to steady. Nothing too hilly. It's your third ride in three days. No need to search out hills. If anything, try to avoid them.
@@ -185,8 +186,6 @@ For all the time in the pool at _Esquimalt Rec Centre_ during COVID, I knew the 
 
 Only one skinny lane to share with three people, so I moved into the empty _"slow lane"_ and got 80% of my workout done there.
 
----
-
 A short ride home for a big pancake breakfast before the main ride.
 
 ---
@@ -195,7 +194,10 @@ The Russ Hays Group Ride was split into two groups and I started off in back.  S
 
 I told the group leader that I'd catch up with the first group and then set out to bridge that gap.
 
-After bridging up to the front group, we rode at a pace that was closer to my fitness for the balance of the ride.  They were a bit stronger up the hills, I was able to hold court on the flats; I paced the group the majority of _Happy Valley Road_ on the way back.  The group ride ended at _The Nest Café_ and I rolled in for a coffee with the people I just rode with.
+After bridging up to the front group, we rode at a pace that was closer to my fitness for the balance of the ride.  
+
+<!---->
+The  were a bit stronger up the hills, I was able to hold pace on the flats; on the way back, I lead the group for the majority of _Happy Valley Road_.  The group ride ended at _The Nest Café_ and I rolled in for a coffee with the people I just rode with.
 
 Only 2 out of a 3 hour ride.  Maybe that was a mistake but I could feel the stimulus of the last 3 days in my quads, the weather had turned threatening, I needed a bio-break and home was right there.
 
