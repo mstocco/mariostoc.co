@@ -30,13 +30,16 @@ Get outside, find some dirt. Generally a flat route is preferred. It'll be a lot
 ### NOTES
 Total Time: **115 Minutes** &nbsp; Run: **18.5 km**
 
-Mobility first.
+Run was mostly on dirt and I headed north on the Colquitz River Trail with the intension of doing a lap of Rithet's Bog before coming back.  I stopped for a bio-break and that was enough of a pause that further up at a fork in the trail, I met up with Yauki!  He was out for a 10km run but when I told him where I was heading, he decided to run with me.
 
-Run was mostly on dirt and I headed north on the Colquitz River Trail with the intension of doing a lap of Rithet's Bog before coming back.  I stopped for a bio-break and that was enough of a pause that further up at a fork in the trail, I met up with Yauki!  He was out for a 10km run but when I told him where I was heading, he decided to run with me.  That did bump up my effort and cadence for the majority of the run but for the most part, my HR was in the low 130's (not hard).  
+<!---->
+That did bump up my effort and cadence for the majority of the run but for the most part, my HR was in the low 130's (not hard).  
 
 At 16km, Yauki headed home and I still had time on my activity so I did a lap of _Cuthbert Homes Park_.
 
 Looking back at what the watch measured, there was a difference in pace and cadence while running with a buddy vs running alone. 
+
+![](/assets/jpg/image.jpeg)
 
 <!---->
 ## MONDAY APR 18 🌧
@@ -48,11 +51,12 @@ Rollers ~ 30 minutes EASY. Nice easy spin to either start or end the day.
 Mobility 17 mins.
 
 ### NOTES
-Total Time: **0 Minutes**
+Ride Time: **0 Minutes** &nbsp; Mobility: **~30 Minutes**
+
+Long day at work.
 
 Missed the rollers but did get the mobility work (and some extra stretching) in.  Quads and adductors needed the work.
 
-Long day at work.
 
 <!---->
 ## TUESDAY APR 19 🌤
@@ -64,7 +68,7 @@ Run 60-75 minutes w/ your crew. Easy effort to start. Stronger final 10-15 minut
 Rollers ~ 30 minutes. EASY spinning.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **96 Minutes** &nbsp; Run: **12 km**
 
 Descent sleep last night and I am feeling fresher today.
 
@@ -89,9 +93,11 @@ Ride 60 minutes. Easy spinning. Long way home.
 ### NOTES
 Total Time: **90 Minutes** &nbsp;Swim: **2800m**
 
-In bed by 2200 but I woke feeling like I didn't sleep well.  Late getting to the pool; just one of those, _"I'd rather go back to bed"_ king of mornings.
+In bed by 2200 but I woke feeling like I didn't sleep very well.  Consequently late getting to the pool; just one of those, _"I'd rather go back to bed"_ kind of mornings.
+<!---->
+Once in the water, I got to work.  I felt slow overall but did my best to push through and stay on point with the exercise.  Guessing what my HIM pace is in a pool is a challenge and it did keep me focused on the effort.  Lane congestion didn't come into play until the very end of the workout.  In the end, this was a **good swim**.  Robert Johnson complemented me on my improvement before leaving for home.
 
-Once in the water, I got to work.  I felt slow overall but did my best to push through and stay on point with the exercise.  Guessing what my HIM pace is in a pool is a challenge and it did keep me focused.  Lane congestion didn't come into play until the very end of the workout.  Overall, this was a good swim.  Robert Johnson complemented my improvement before leaving for home.
+
 
 I skipped on the hour ride after the swim as I was needing to get logged in for work.
 
