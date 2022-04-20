@@ -173,13 +173,14 @@ Swim 2800:
 ### NOTES
 Time: **180 Minutes** &nbsp;Swim: **2800m** &nbsp;Ride: **56 km** 
 
-For all the time in the pool at _Esquimalt Rec Centre_ during COVID, I knew the pool was warm but this morning, it was **bathtub warm**.
+For all the time in the pool at _Esquimalt Rec Centre_ during COVID, I knew the water temperature was on the warm side but this morning, it was **bathtub warm**.
 
 Only one skinny lane to share with three people, so I moved into the empty _"slow lane"_ and got 80% of my workout done there.
 
 ---
 
-Big pancake breakfast before the ride.
+A short ride home for a big pancake breakfast before the main ride.
+
 <!---->
 The Russ Hays Group Ride was split into two groups and I started off in back.  Someone mentioned that I'd be better off with the stronger group but they had already gone up the road and out of sight.
 
