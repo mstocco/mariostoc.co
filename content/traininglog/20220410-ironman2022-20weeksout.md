@@ -109,7 +109,7 @@ I substituted the paddle-fist for the fist drill b/c I forgot my paddles; regard
 
 I went to Frontrunners looking for a pair of shoes then rode for ~50 minutes after that.
 
-![Bike](/assets/jpg/image.jpeg)
+![Bike](/assets/jpg/bike-20220413.jpeg)
 
 <!---->
 ## THURSDAY APR 14 ⛅️
@@ -136,7 +136,11 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
+MTB ~ 90 minutes. Have fun. If you want to ride trails....ride trails. If you feel like an easy cruiser on the Goose...that works too. 
+Either way, it's 90 minutes. Generally easy. Having fun.
 
+Run 45 minutes. Easy effort.   
+In an ideal world, the run is after the bike, but if a rain shower stops that, don't worry about it.
 
 ### NOTES
 Total Time: **135 Minutes** &nbsp; Run OTB: **8km** <small>@5:38/km</small>
