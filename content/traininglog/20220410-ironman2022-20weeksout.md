@@ -162,18 +162,22 @@ The run **started hot** (for me) and stayed pretty much at that rhythm for the b
 Sleep **3** | Fatigue **3** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
-### PLANNED WORKOUT
+### PLANNED WORKOUTS
+
+#### SESSION ONE
 Swim 2800: 
 200 easy swimming, 200 swim w/ buoy, 4x 50 steady kick. R :10 after each. 
 500 as 25 higher turnover/25 relaxed-smooth. Rest as needed. 
 15x 100 Descending 1-3, 4-6, 7-9, 10-12, 13-15 1: easy, 2: Moderate, 3: Strong. R :20 after each. 
 4x 50 EASY to cool down.
  
+#### SESSION TWO
 Road ride ~ 3:00. Weather looks good, so great time to get in some base miles on the road. 
 **Fueling will be pretty important as Friday is a bit bigger than usual AND you'll swim earlier in the day. 
 Minimum of 600 calories on this ride. I'd like to see 750-900 if possible. Stay hydrated as well. 
 Effort ~ Easy to steady. Nothing too hilly. It's your third ride in three days. No need to search out hills. If anything, try to avoid them.
 
+<!---->
 ### NOTES
 Time: **180 Minutes** &nbsp;Swim: **2800m** &nbsp;Ride: **56 km** 
 
@@ -181,14 +185,14 @@ For all the time in the pool at _Esquimalt Rec Centre_ during COVID, I knew the 
 
 Only one skinny lane to share with three people, so I moved into the empty _"slow lane"_ and got 80% of my workout done there.
 
-<!---->
+---
 
 A short ride home for a big pancake breakfast before the main ride.
 
+---
+
 The Russ Hays Group Ride was split into two groups and I started off in back.  Someone mentioned that I'd be better off with the stronger group but they had already gone up the road and out of sight.
 
-![Bike](/assets/jpg/bike-20220416.jpeg)
-<!---->
 I told the group leader that I'd catch up with the first group and then set out to bridge that gap.
 
 After bridging up to the front group, we rode at a pace that was closer to my fitness for the balance of the ride.  They were a bit stronger up the hills, I was able to hold court on the flats; I paced the group the majority of _Happy Valley Road_ on the way back.  The group ride ended at _The Nest Café_ and I rolled in for a coffee with the people I just rode with.
@@ -197,3 +201,4 @@ Only 2 out of a 3 hour ride.  Maybe that was a mistake but I could feel the stim
 
 I packed 2 bottles with 100g of carb mix (50% Maltodextrin, 40% Lemonade, 10% table sugar, pinch or two of salt).   One bottle consumed and a mouthful of the other.  The concentration sat well this morning.
 
+![Bike](/assets/jpg/bike-20220416.jpeg)
