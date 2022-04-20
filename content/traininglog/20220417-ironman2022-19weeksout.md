@@ -39,7 +39,7 @@ At 16km, Yauki headed home and I still had time on my activity so I did a lap of
 
 Looking back at what the watch measured, there was a difference in pace and cadence while running with a buddy vs running alone. 
 
-![](/assets/jpg/image.jpeg)
+![Run](/assets/jpg/run-20220417.jpeg)
 
 <!---->
 ## MONDAY APR 18 🌧
