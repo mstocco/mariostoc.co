@@ -183,13 +183,13 @@ Big pancake breakfast before the ride.
 <!---->
 The Russ Hays Group Ride was split into two groups and I started off in back.  Someone mentioned that I'd be better off with the stronger group but they had already gone up the road and out of sight.
 
+![Bike](/assets/jpg/bike-20220416.jpeg)
+<!---->
 I told the group leader that I'd catch up with the first group and then set out to bridge that gap.
 
 After bridging up to the front group, we rode at a pace that was closer to my fitness for the balance of the ride.  They were a bit stronger up the hills, I was able to hold court on the flats; I paced the group the majority of _Happy Valley Road_ on the way back.  The group ride ended at _The Nest Café_ and I rolled in for a coffee with the people I just rode with.
 
 Only 2 out of a 3 hour ride.  Maybe that was a mistake but I could feel the stimulus of the last 3 days in my quads, the weather had turned threatening, I needed a bio-break and home was right there.
 
-<!---->
-Packed 2 bottles with 100g of carb mix (50% Maltodextrin, 40% Lemonade, 10% table sugar, pinch or two of salt).   One bottle consumed and a mouthful of the other.
+I packed 2 bottles with 100g of carb mix (50% Maltodextrin, 40% Lemonade, 10% table sugar, pinch or two of salt).   One bottle consumed and a mouthful of the other.  The concentration sat well this morning.
 
-![Bike](/assets/jpg/image.jpeg)
