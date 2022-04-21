@@ -105,11 +105,11 @@ Once in the water, I got to work.  I felt slow overall but did my best to push t
 
 ![Swim](/assets/jpg/swim-20220420.jpeg)
 
-I skipped on the hour ride after the swim as I was needing to get logged in for work.
+I skipped on the hour ride after the swim as I was needing to get logged in for work.  I did ride to Frontrunners via _Clover Point_, to pick up a pair of shoes after work for the cumulative hour plus.
 
 <!---->
-## THURSDAY APR 21
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY APR 21 🌧
+Sleep **4** | Fatigue **3** | Stress **4** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -120,7 +120,7 @@ And this week, 30 minutes in the bars! I realize you may have already accumulate
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Another up and down night with dreams weird enough to wake me.   
 
 <!---->
 ## FRIDAY APR 22
