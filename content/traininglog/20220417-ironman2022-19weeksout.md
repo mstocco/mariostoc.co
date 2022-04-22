@@ -122,7 +122,7 @@ Total Time: **95 Minutes** &nbsp; Ride: **40 km**
 
 Another up and down night with dreams weird enough to wake me.
 
-After work, I set out on the TT Bike for some base miles.  I headed up to _Mitchell's Farm_ (standard Emily Carr route) but instead of riding on the rough bike path near <a href="https://heritageacresbc.com/" target="_blank" rel="noreferrer"> Heritage Acres</a>, I doubled back and included the small hill on _Island View Road_.  I **felt good** even though I got passed by 4 old dudes riding a perfect pace-line.
+After work, I rode the TT Bike for some base miles up to _Mitchell's Farm_ (standard Emily Carr route), but instead of continuing north on the rough bike path near <a href="https://heritageacresbc.com/" target="_blank" rel="noreferrer"> Heritage Acres</a>, I doubled back and included the small hill on _Island View Road_.  I **felt good** but I was passed by 4 old dudes riding a perfect pace-line.
 
 <!---->
 ## FRIDAY APR 22 🌦
