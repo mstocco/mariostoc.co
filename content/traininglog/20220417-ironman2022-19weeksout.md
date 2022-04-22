@@ -118,9 +118,11 @@ This will look [familiar](ironman2022-20weeksout?thu)...
 And this week, 30 minutes in the bars! I realize you may have already accumulated a good amount of time in the bars. This is more just a reminder to check in and say, _"It's good to be in the aerobars"_, but don't obsess about it too much.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **95 Minutes** &nbsp; Ride: 
 
-Another up and down night with dreams weird enough to wake me.   
+Another up and down night with dreams weird enough to wake me.
+
+Late in the afternoon, I set out on the TT Bike for some base miles.  I headed up to _Mitchell's Farm_ (standard Emily Carr route) but instead of riding on the rough bike path near <a href="https://heritageacresbc.com/" > Heritage Acres</a>, I doubled back and included the small hill on _Island View Road_.  I **felt good** even though I got passed by a pace line of 4 old dudes (they knew how to ride a pace too).
 
 <!---->
 ## FRIDAY APR 22 🌦
@@ -140,11 +142,13 @@ Run 30 minutes EASY
 ### NOTES
 Total Time: **85 Mins** &nbsp;Swim: **2700m** &nbsp;Run: **0 km**
 
-Another night where a weird dream was enough to wake me.
+Another night where a weird dream was enough to wake me.  Second night in a row...
 
 The ride to the pool was wet and I tried to remind myself that in a few minutes, it wouldn't matter because I was about to jump into a pool.  Riding in the wet sucks regardless.
 
+<!---->
 I felt like this was another **focused effort** in the pool.  Mentally, 4x 4x100m seemed more daunting than 16x100m.  Maybe it was the weird dream last night that set me up for that.
+![Swim](/assets/jpg/swim-20220422.jpeg)
 
 <!---->
 ## SATURDAY APR 23
