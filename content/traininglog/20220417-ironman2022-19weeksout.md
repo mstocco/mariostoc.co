@@ -123,8 +123,8 @@ Total Time: **0 Minutes**
 Another up and down night with dreams weird enough to wake me.   
 
 <!---->
-## FRIDAY APR 22
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY APR 22 🌦
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -138,9 +138,13 @@ Swim 2700:
 Run 30 minutes EASY
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **85 Mins** &nbsp;Swim: **2700m** &nbsp;Run: **0 km**
 
-&mdash;  
+Another night where a weird dream was enough to wake me.
+
+The ride to the pool was wet and I tried to remind myself that in a few minutes, it wouldn't matter because I was about to jump into a pool.  Riding in the wet sucks regardless.
+
+I felt like this was another **focused effort** in the pool.  Mentally, 4x 4x100m seemed more daunting than 16x100m.  Maybe it was the weird dream last night that set me up for that.
 
 <!---->
 ## SATURDAY APR 23
@@ -148,7 +152,17 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+4:00 on TT bike.  
+Flatter route. A few hills are ok, but just a few. 
+A touch easier than you've been riding. 
+In the bars is ok/good. But don't force it.  
+Fuel: 1000 calories is a good minimum. 
+Hydrate early and often. 
+
+Post ride: Stretch as needed. No specific video.
+
+**FUEL AND HYDRATE WELL. You'll need a minimum of a liter of water and 600 calories within 30 minutes of finishing the ride​**
+
 
 ### NOTES
 Total Time: **0 Minutes**
