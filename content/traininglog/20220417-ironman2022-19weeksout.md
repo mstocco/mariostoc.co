@@ -150,6 +150,13 @@ The ride to the pool was wet and I tried to remind myself that in a few minutes,
 I felt like this was another **focused effort** in the pool.  Mentally, 4x 4x100m seemed more daunting than 16x100m.  Maybe it was the weird dream last night that set me up for that.  Once I was in the middle of that set, I tuned into on how the effort felt and set out to reproduce that for every 100m there after.
 ![Swim](/assets/jpg/swim-20220422.jpeg)
 
+---
+
+I spent time after work washing my bikes and prepping the TT Bike for [tomorrow](javascript:flick('sat');).  
+
+Then I laced up my new shoes and went for a short run on the _Lochside Trail_ just to _Saanich Road_ (and back).  The sun was out and for and it was finally a bit of pleasant spring weather!
+
+
 <!---->
 ## SATURDAY APR 23
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
