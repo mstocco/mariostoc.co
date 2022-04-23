@@ -154,6 +154,8 @@ I felt like this was another **focused effort** in the pool.  Mentally, 4x 4x100
 
 I spent time after work washing my bikes and prepping the TT Bike for [tomorrow](javascript:flick('sat');).  
 
+---
+
 Then I laced up my new shoes and went for a short run on the _Lochside Trail_ just to _Saanich Road_ (and back).  The sun was out and for and it was finally a bit of pleasant spring weather!
 
 
