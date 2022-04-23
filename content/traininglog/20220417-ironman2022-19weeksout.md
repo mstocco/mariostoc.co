@@ -140,7 +140,7 @@ Swim 2700:
 Run 30 minutes EASY
 
 ### NOTES
-Total Time: **85 Mins** &nbsp;Swim: **2700m** &nbsp;Run: **0 km**
+Total Time: **109 Mins** &nbsp;Swim: **2700m** &nbsp;Run: **4 km**
 
 Another night where a weird dream was enough to wake me.  Second night in a row...
 
