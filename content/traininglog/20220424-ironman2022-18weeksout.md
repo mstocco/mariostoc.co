@@ -57,7 +57,7 @@ I noticed that I was starting to breath hard with 400m to go and after the final
 ### New Personal Best.
 I took 38 seconds off my previous best 10k (January 2020) and almost 4 minutes off my previous best on this course (April 2019).
 
-![2022 TC10K Race Map](/assets/jpg/race_20220424.jpeg)
+![2022 TC10K Race Map](/assets/jpg/race-20220424.jpeg)
 
 <!---->
 ## MONDAY APR 25 🌤
