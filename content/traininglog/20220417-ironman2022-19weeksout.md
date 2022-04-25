@@ -193,7 +193,7 @@ Today I felt really good at the start of the ride, quite likely from a tailwind 
 First bio-break on _Tatlow Road_ as I followed the Vic 70.3 course.  There will be a detour around the washout on _Chalet Road_ (heavy rains this winter) that I got to recon for the first time.
 
 I skipped the hill on _Downey Road_ as the plan was to ride a flatter route.  Heading south, the wind really started to pick up at the airport and I had a decision to make.  Ride the east side of the peninsula back south (windier) or continue on 70.3 course (hillier). I chose the 70.3 course south on _West Saanich Road_ to _Wallace Drive_.
-
+<!---->
 It was also at this point (2.5 hours in) that I noticed my lumbar starting to act up.  I was sitting up more than being bent over.  Second bio-break on _Wallace_ helped a bit.
 
 I was still riding ok (for me) along _Interurban Road_ and I got back needing roughly another hour of riding to do.  I headed west to _Colwood_ then back through _Esquimalt_ when I my front tire popped.  I was able to ride it semi-flat to flat for the next 400m to the _Trek Bike Store_.

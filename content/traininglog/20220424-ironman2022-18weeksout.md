@@ -29,14 +29,16 @@ With plenty of clothes on....Walk 10-15 minutes. Literally a walk. Get the core 
 
 Jog 5 minutes easy.
 
-#### 10k Race 
+10k Race:   
 First 1k on the much easier than race pace side. 
 Second k just a touch easier than race pace. 
 2k-10k: Have at it.
  
 Post race: Grab some liquids and some calories. Put on a jacket. Walk 15 minutes. 
-Pm: Mobility 18 minutes:
 
+Pm: Mobility 18 minutes
+
+<!---->
 ### NOTES
 Chip Time: **46:39** &nbsp; Run: **10 km**
 
