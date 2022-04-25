@@ -205,4 +205,4 @@ That break felt like a world of difference for my lumbar and I was comfortably i
 Zero issue with the maple syrup mix and the 70g of Maynards (watermelon) candy.  
 <!---->
 ### ROUTE UNTIL THE FLAT
-![Bike](/assets/jpg/image.jpeg)
+![Bike](/assets/jpg/bike-20220423.jpeg)
