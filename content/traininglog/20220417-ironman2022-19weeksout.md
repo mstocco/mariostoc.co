@@ -183,8 +183,9 @@ Total Time: **0 Minutes**
 
 Minor headache in the morning; frustrating.
 
-New carbohydrate mix, 300ml of maple syrup with 60 ml of coffee for 1080 calories. hi 
+New carbohydrate mix, 300ml of maple syrup with 60 ml of coffee for 1080 calories.  I really like this!
 
+<!---->
 Still haven't swapped out the 11x25 cassette on the TT Bike; not sure I will until it gets closer to Vic 70.3 because if I stick to local roads that afford me longer times in aero (_Lochside_ up to _Sidney_), the gearing isn't much of an issue on that flattish route.
 
 Today I felt really good at the start of the ride, quite likely from a tailwind pushing me north.  The further up the peninsula I got, the stiffer the wind became.  North of McTavish, the wind direction was easterly, coming off the ocean; even with the crosswind, I was feeling a "push".
