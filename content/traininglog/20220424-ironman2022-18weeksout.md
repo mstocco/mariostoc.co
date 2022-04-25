@@ -39,7 +39,7 @@ Post race: Grab some liquids and some calories. Put on a jacket. Walk 15 minutes
 Pm: Mobility 18 minutes
 
 <!---->
-<div style="height:25px;"></div>
+<div style="height:26px;"></div>
 
 ### NOTES
 Chip Time: **46:39** &nbsp; Run: **10 km**
@@ -51,13 +51,13 @@ The race pretty much went to plan.  Maybe too well.  I seeded myself in the 50-5
 Passing the Terry Fox memorial (6.7km) is were the race started for me mentally.  There is a downhill from 7 to 8 km where I focused on making some time and at the 8k flag I promised myself to _"make something special for the next kilometre"_.  At the 9k flag, I was carrying that momentum and I made anothe promise, _"make this next one even more special"_.  
 
 <!---->
-<div style="height:25px;"></div>
+<div style="height:26px;"></div>
 I noticed that I was starting to breath hard with 400m to go and after the final turn with 300m to go, I just did a long stride to finish.
 
 ### New Personal Best.
 I took 38 seconds off my previous best 10k (January 2020) and almost 4 minutes off my previous best on this course (April 2019).
 
-
+![2022 TC10K Race Map](/assets/jpg/race_20220424.jpeg)
 
 <!---->
 ## MONDAY APR 25 🌤
