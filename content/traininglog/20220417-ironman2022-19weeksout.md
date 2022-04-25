@@ -161,7 +161,7 @@ Then I laced up my new shoes and went for a short run on the _Lochside Trail_ ju
 
 <!---->
 ## SATURDAY APR 23
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **2** | Fatigue **3** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -180,4 +180,24 @@ Post ride: Stretch as needed. No specific video.
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Minor headache in the morning; frustrating.
+
+New carbohydrate mix, 300ml of maple syrup with 60 ml of coffee for 1080 calories. hi 
+
+Still haven't swapped out the 11x25 cassette on the TT Bike; not sure I will until it gets closer to Vic 70.3 because if I stick to local roads that afford me longer times in aero (_Lochside_ up to _Sidney_), the gearing isn't much of an issue on that flattish route.
+
+Today I felt really good at the start of the ride, quite likely from a tailwind pushing me north.  The further up the peninsula I got, the stiffer the wind became.  North of McTavish, the wind direction was easterly, coming off the ocean; even with the crosswind, I was feeling a "push".
+
+First bio-break on _Tatlow Road_ as I followed the Vic 70.3 course.  There will be a detour around the washout on _Chalet Road_ (heavy rains this winter) that I got to recon for the first time.
+
+I skipped the hill on _Downey Road_ as the plan was to ride a flatter route.  Heading south, the wind really started to pick up at the airport and I had a decision to make.  Ride the east side of the peninsula back south (windier) or continue on 70.3 course (hillier). I chose the 70.3 course south on _West Saanich Road_ to _Wallace Drive_.
+
+It was also at this point (2.5 hours in) that I noticed my lumbar starting to act up.  I was sitting up more than being bent over.  Second bio-break on _Wallace_ helped a bit.
+
+I was still riding ok (for me) along _Interurban Road_ and I got back needing roughly another hour of riding to do.  I headed west to _Colwood_ then back through _Esquimalt_ when I my front tire popped.  I was able to ride it semi-flat to flat for the next 400m to the _Trek Bike Store_.
+
+They were hoping to sell me a Continental Gatorskin tire for $120 when a can of Vittoria Pitstop was suggested ($23).  I gambled on the can of sealant and what do you know, it worked and I was back on the road in 12 minutes.
+
+That break felt like a world of difference for my lumbar and I was comfortably in and out of the bars along the next 11 km to get me to the 4 hour ride time for the day.
+
+Zero issue with the maple syrup mix and the 70g of Maynards (watermelon) candy.  
