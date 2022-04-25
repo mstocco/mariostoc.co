@@ -161,7 +161,7 @@ Then I laced up my new shoes and went for a short run on the _Lochside Trail_ ju
 
 
 <!---->
-## SATURDAY APR 23
+## SATURDAY APR 23☀️ 
 Sleep **2** | Fatigue **3** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -179,7 +179,7 @@ Post ride: Stretch as needed. No specific video.
 
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **240 Minutes** &nbsp; Ride: **102 km**
 
 Minor headache in the morning; frustrating.
 
@@ -203,3 +203,6 @@ They were hoping to sell me a Continental Gatorskin tire for $120 when a can of 
 That break felt like a world of difference for my lumbar and I was comfortably in and out of the bars along the next 11 km to get me to the 4 hour ride time for the day.
 
 Zero issue with the maple syrup mix and the 70g of Maynards (watermelon) candy.  
+<!---->
+### ROUTE UNTIL THE FLAT
+![Bike](/assets/jpg/image.jpeg)
