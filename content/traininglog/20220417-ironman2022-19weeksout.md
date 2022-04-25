@@ -7,14 +7,15 @@ Week beginning [Sunday, April 17, 2022](javascript:flick('sun');)
 Go with the training bump from [last week](ironman2022-20weeksout)
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **13.5 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **PROGRESSING**
 
-&mdash;
+The long run on [Sunday](javascript:flick('sun');) was a bump up that was felt and I found the current limit for my lumbar on the [Saturday](javascript:flick('sat');) long ride.  Everything [Tuesday](javascript:flick('tue');) through [Friday](javascript:flick('fri')) was spot on the money.
 
-![](/assets/jpg/II-9x550.jpeg)
+New running shoes this week too! 
+
+![From Island View Beach Road looking west across the beautiful farmland of the Saanich Penisula.](/assets/jpg/IMG_4079-977x550.jpeg CENTRAL SAANICH, BC)
 
 ## SUNDAY APR 17 ☀️
 Sleep **2** | Fatigue **5** | Stress **2** | Soreness **4**

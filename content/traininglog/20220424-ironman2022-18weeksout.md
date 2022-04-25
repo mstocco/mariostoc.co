@@ -14,10 +14,10 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![Great morning for a run, cool no wind and lots of happy people.](/assets/jpg/IMG_4082-977x550.jpeg START LINE OF THE 2022 TC10K)
 
-## SUNDAY APR 24
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SUNDAY APR 24 🌤
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **2**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -54,7 +54,7 @@ I took 38 seconds off my previous best 10k (January 2020) and almost 4 minutes o
 
 
 <!---->
-## MONDAY APR 25
+## MONDAY APR 25 🌤
 Sleep **2** | Fatigue **6** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
