@@ -44,11 +44,13 @@ Pm: Mobility 18 minutes
 ### NOTES
 Chip Time: **46:39** &nbsp; Run: **10 km**
 
-In the scurrying around in the morning, I missed the morning mobility, had a cup of coffee, toast with peanut butter and that's it.  Once parked downtown, Carina and I walked to the event (2 km) and I got in a 6 minute jog before the race.
+In the scurrying around in the morning, I missed the morning mobility, had a cup of coffee, toast with peanut butter and that's it.
+
+Once parked downtown, Carina and I walked to the event (2 km) and I got in a 6 minute jog before the race.
 
 The race pretty much went to plan.  Maybe too well.  I seeded myself in the 50-59 minute group and that forced me to be slow for the first 2 km.  As space opened up, I found a comfortable rhythm and held it for about the next half hour.
 
-Passing the Terry Fox memorial (6.7km) is were the race started for me mentally.  There is a downhill from 7 to 8 km where I focused on making some time and at the 8k flag I promised myself to _"make something special for the next kilometre"_.  At the 9k flag, I was carrying that momentum and I made anothe promise, _"make this next one even more special"_.  
+Passing the Terry Fox memorial (6.7km) is were the race started for me mentally.  There is a downhill from 7 to 8 km where I focused on making some time and at the 8k flag I promised myself to _"do something special for the next kilometre"_.  At the 9k flag, I was carrying that momentum and I made anothe promise, _"make this next one even more special"_.  
 
 <!---->
 <div style="height:26px;"></div>
