@@ -78,9 +78,11 @@ Swim 2000:
 Mobility 26 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **45 Minutes** &nbsp; Swim: **2000m**
 
-&mdash;  
+Not sure was has given me more confidence.  The run [yesterday](javascript:flick('sun');) or the swim this afternoon.
+
+Maybe it was mentally the fact that it was just 2000m, maybe it was because the pool was 25m long, or even maybe it was because this was a mid afternoon swim.  Regardless I felt strong and connected with the water today.
 
 <!---->
 ## TUESDAY APR 26
