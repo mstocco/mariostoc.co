@@ -42,7 +42,7 @@ Pm: Mobility 18 minutes
 <div style="height:26px;"></div>
 
 ### NOTES
-Chip Time: **46:39** &nbsp; Run: **10 km**
+Chip Time: **46:39** &nbsp; Run: **10 km**  &nbsp; 🏆
 
 In the scurrying around in the morning, I missed the morning mobility, had a cup of coffee, toast with peanut butter and that's it.
 
@@ -130,14 +130,15 @@ The 4x400m were work.  There was lane congestion this morning; some extra surges
 All good practice and I was happy with my effort and happy that my times were very consistent for each of the 400m reps
 
 Not so happy with the actual times (looking at the activity later).  To be fair to myself, I was focused on effort and form in the pool, not on the time of each rep.
-
 ![Swim](/assets/jpg/swim-20220427.jpeg)
 
 ---
 
 On the bike, I felt the harder effort of the swim.  I could feel tightness in my lumbar coming on too so I didn't ride the full hour.
 
-It is still pretty cool in the mornings but the wind was lighter and I was bundled up appropriately.  I carried 80g of lemonade/maltodextrin mix in a 750ml bottle but maybe consumed a third before getting back home.
+It is still pretty cool in the mornings but the wind was lighter and I was bundled up appropriately.
+
+I carried 80g of lemonade/maltodextrin mix in a 750ml bottle but maybe consumed a third before getting back home.
 
 <!---->
 ## THURSDAY APR 28 ⛅️
