@@ -127,7 +127,9 @@ Total Time: **120 Minutes** &nbsp; Swim: **2800m**
 
 The 4x400m were work.  There was lane congestion this morning; some extra surges to get around people were needed.
 <!---->
-All good practice and I was happy with my effort, happy that my times were very consistent for each of the 400m reps.  Not so happy with the actual times (looking at the activity later).  To be fair to myself, I was focused on effort and form in the pool, not on the time of each rep.
+All good practice and I was happy with my effort and happy that my times were very consistent for each of the 400m reps
+
+Not so happy with the actual times (looking at the activity later).  To be fair to myself, I was focused on effort and form in the pool, not on the time of each rep.
 
 ![Swim](/assets/jpg/swim-20220427.jpeg)
 
