@@ -85,7 +85,7 @@ Not sure was has given me more confidence.  The run [yesterday](javascript:flick
 Maybe it was mentally the fact that it was just 2000m, maybe it was because the pool was 25m long, or even maybe it was because this was a mid afternoon swim.  Regardless I felt strong and connected with the water today.
 
 <!---->
-## TUESDAY APR 26
+## TUESDAY APR 26 🌤
 Sleep **1** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -96,9 +96,13 @@ Please keep the route on the flat side. And the pace on the easy side.
 Rollers ~ 30 minutes. Nice post run spin to cool down.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **77 Minutes** &nbsp; Run: **8 km**
 
-Maybe the **best sleep** ever (or at least in recent time).  Out before 2030, up at 0530. 
+Maybe the **best sleep** ever (or at least in recent time).  Out before 2030, up at 0530.
+
+At 1600, Yauki was at my door and ready to go.  We met up with Vince and walked for the first ~10 minutes before starting with an easy pace.  The numbers crept up over the next bit and at 7 km, I headed for home and the boys continued for another 3 more kilometres.
+
+Easy spinning with the TT Bike on the rollers afterwards.
 
 <!---->
 ## WEDNESDAY APR 27 ⛅️
@@ -129,7 +133,7 @@ All good practice and I was happy with my effort.
 
 ---
 
-On the bike, I felt like I swam hard and I could feel the tightness in my lumbar coming on.  I didn't ride the full hour.  It is still pretty cool in the mornings.  I had 80g of lemonade/maltodextrin mix in a 750ml bottle but maybe consumed a third before getting back home.
+On the bike, I felt the harder effort of the swim hard.  I could feel the tightness in my lumbar coming on too.  I didn't ride the full hour.  It is still pretty cool in the mornings.  I had 80g of lemonade/maltodextrin mix in a 750ml bottle but maybe consumed a third before getting back home.
 
 <!---->
 ## THURSDAY APR 28 ⛅️
