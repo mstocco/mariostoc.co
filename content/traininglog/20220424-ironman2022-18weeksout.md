@@ -93,7 +93,7 @@ Sleep **1** | Fatigue **4** | Stress **3** | Soreness **4**
 Run 50-60 minutes EASY w/ buddies. I'd prefer 50 minutes. Certainly no more than 60 minutes. 
 Please keep the route on the flat side. And the pace on the easy side.
 
-Rollers ~ 30 minutes. Nice post run spin to cool down.
+Rollers ~ 30 mins post-run spin to cool down.
 
 ### NOTES
 Total Time: **77 Minutes** &nbsp; Run: **8 km**
