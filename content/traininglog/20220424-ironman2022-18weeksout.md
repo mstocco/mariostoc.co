@@ -121,7 +121,13 @@ Total Time: **120 Minutes** &nbsp; Swim: **2800m**
 
 0500 was a groggy time to get up and the sleep didn't feel like [yesterday](javascript:flick('tue');).  I'd make up for it with a nap after work though.  My lumbar was stiff this morning too.
 
-The 4x400m were work.  There was lane congestion this morning; some extra surges to get around people were needed.  All good practice and I was happy with my effort.
+The 4x400m were work.  There was lane congestion this morning; some extra surges to get around people were needed.
+<!---->
+All good practice and I was happy with my effort.
+
+![Swim](/assets/jpg/swim-20220427.jpeg)
+
+---
 
 On the bike, I felt like I swam hard and I could feel the tightness in my lumbar coming on.  I didn't ride the full hour.  It is still pretty cool in the mornings.  I had 80g of lemonade/maltodextrin mix in a 750ml bottle but maybe consumed a third before getting back home.
 
