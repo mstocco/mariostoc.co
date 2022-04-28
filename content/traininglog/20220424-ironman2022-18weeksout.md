@@ -86,7 +86,7 @@ Maybe it was mentally the fact that it was just 2000m, maybe it was because the 
 
 <!---->
 ## TUESDAY APR 26
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **1** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -98,11 +98,11 @@ Rollers ~ 30 minutes. Nice post run spin to cool down.
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Maybe the **best sleep** ever (or at least in recent time).  Out before 2030, up at 0530. 
 
 <!---->
-## WEDNESDAY APR 27
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY APR 27 ⛅️
+Sleep **4** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -117,9 +117,13 @@ Swim 2800:
 Ride 60 minutes on the way home. Easy effort.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **120 Minutes** &nbsp; Swim: **2800m**
 
-&mdash;  
+0500 was a groggy time to get up and the sleep didn't feel like [yesterday](javascript:flick('tue');).  I'd make up for it with a nap after work though.  My lumbar was stiff this morning too.
+
+The 4x400m were work.  There was lane congestion this morning; some extra surges to get around people were needed.  All good practice and I was happy with my effort.
+
+On the bike, I felt like I swam hard and I could feel the tightness in my lumbar coming on.  I didn't ride the full hour.  It is still pretty cool in the mornings.  I had 80g of lemonade/maltodextrin mix in a 750ml bottle but maybe consumed a third before getting back home.
 
 <!---->
 ## THURSDAY APR 28
