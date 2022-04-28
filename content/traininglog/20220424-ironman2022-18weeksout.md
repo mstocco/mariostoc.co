@@ -102,7 +102,7 @@ Maybe the **best sleep** ever (or at least in recent time).  Out before 2030, up
 
 At 1600, Yauki was at my door and ready to go.  We met up with Vince and walked for the first ~10 minutes before starting with an easy pace.  The numbers crept up over the next bit and at 7 km, I headed for home and the boys continued for another 3 more kilometres.
 
-Easy spinning with the TT Bike on the rollers afterwards.
+**Easy spin** with the TT Bike on the rollers afterwards.
 
 <!---->
 ## WEDNESDAY APR 27 ⛅️
@@ -127,13 +127,15 @@ Total Time: **120 Minutes** &nbsp; Swim: **2800m**
 
 The 4x400m were work.  There was lane congestion this morning; some extra surges to get around people were needed.
 <!---->
-All good practice and I was happy with my effort.
+All good practice and I was happy with my effort, happy that my times were very consistent for each of the 400m reps.  Not so happy with the actual times (looking at the activity later).  To be fair to myself, I was focused on effort and form in the pool, not on the time of each rep.
 
 ![Swim](/assets/jpg/swim-20220427.jpeg)
 
 ---
 
-On the bike, I felt the harder effort of the swim hard.  I could feel the tightness in my lumbar coming on too.  I didn't ride the full hour.  It is still pretty cool in the mornings.  I had 80g of lemonade/maltodextrin mix in a 750ml bottle but maybe consumed a third before getting back home.
+On the bike, I felt the harder effort of the swim.  I could feel tightness in my lumbar coming on too so I didn't ride the full hour.
+
+It is still pretty cool in the mornings but the wind was lighter and I was bundled up appropriately.  I carried 80g of lemonade/maltodextrin mix in a 750ml bottle but maybe consumed a third before getting back home.
 
 <!---->
 ## THURSDAY APR 28 ⛅️
