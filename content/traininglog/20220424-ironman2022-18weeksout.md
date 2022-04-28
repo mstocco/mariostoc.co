@@ -132,8 +132,8 @@ All good practice and I was happy with my effort.
 On the bike, I felt like I swam hard and I could feel the tightness in my lumbar coming on.  I didn't ride the full hour.  It is still pretty cool in the mornings.  I had 80g of lemonade/maltodextrin mix in a 750ml bottle but maybe consumed a third before getting back home.
 
 <!---->
-## THURSDAY APR 28
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY APR 28 ⛅️
+Sleep **3** | Fatigue **3** | Stress **5** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -150,7 +150,8 @@ Mobility 15 minutes
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Better sleep.
+
 
 <!---->
 ## FRIDAY APR 29
