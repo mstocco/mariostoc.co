@@ -157,10 +157,13 @@ On the flatter sections....try to get in 20-30 minutes of time in the bars.
 Mobility 15 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **98 Minutes** &nbsp; Ride: **37 km**
 
 Better sleep.
 
+After work it was the TT Bike on _Mckenzie Ave_ to _UVic_ for reps up _Cadboro Bay Road_.  I think I rode this to plan and I felt good riding steady uphill and in the aero bars later on.  Motivation to get out the door earlier was the hard part.
+
+Thought the SE breeze was light, I got some good practice getting blown around on while descending into Caddy Bay.
 
 <!---->
 ## FRIDAY APR 29
@@ -179,9 +182,13 @@ Swim 2600:
 Run 30 minutes EASY.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Swim: **2600m**
 
-&mdash;  
+Just an ok sleep and the temperature was a balmy 6°C for the spin to the pool this morning.
+
+The swim started with fatigue in my triceps during the 300m and I was into a groove after that.  Midway through the 12x100m set, things started to drag and I had to press through to the end of the workout.  This was a _"got it done"_ swim.
+
+Lumbar felt ok this morning.
 
 <!---->
 ## SATURDAY APR 30
@@ -189,7 +196,12 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Ride 2:00 on TT bike. Flat to rolling terrain.
+Another ride, with some time in the bars.
+Generally speaking, this should be an easy ride.
+ 
+Mobility 25 minutes.  
+**Hydrate and fuel well as best you can this evening.**
 
 ### NOTES
 Total Time: **0 Minutes**
