@@ -159,15 +159,13 @@ Mobility 15 minutes
 ### NOTES
 Total Time: **98 Minutes** &nbsp; Ride: **37 km**
 
-Better sleep.
-
 After work it was the TT Bike on _Mckenzie Ave_ to _UVic_ for reps up _Cadboro Bay Road_.  I think I rode this to plan and I felt good riding steady uphill and in the aero bars later on.  Motivation to get out the door earlier was the hard part.
 
 Thought the SE breeze was light, I got some good practice getting blown around on while descending into Caddy Bay.
 
 <!---->
-## FRIDAY APR 29
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY APR 29 ☀️
+Sleep **5** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -182,7 +180,7 @@ Swim 2600:
 Run 30 minutes EASY.
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Swim: **2600m**
+Time: **80 Minutes** &nbsp;Swim: **2600m** &nbsp;Run: **0 km**
 
 Just an ok sleep and the temperature was a balmy 6°C for the spin to the pool this morning.
 
@@ -201,7 +199,7 @@ Another ride, with some time in the bars.
 Generally speaking, this should be an easy ride.
  
 Mobility 25 minutes.  
-**Hydrate and fuel well as best you can this evening.**
+**Hydrate and fuel well this evening.**
 
 ### NOTES
 Total Time: **0 Minutes**
