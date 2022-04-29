@@ -184,7 +184,8 @@ Time: **80 Minutes** &nbsp;Swim: **2600m** &nbsp;Run: **0 km**
 
 Just an ok sleep and lumbar felt ok this morning.
 
-The swim started with fatigue in my triceps during the 300m and I was into a groove after that.  Midway through the 12x100m set, things started to drag and I had to press through to the end of the workout.  
+The swim started with fatigue in my triceps during the 300m and I was into a groove after that.  Midway through the 12x100m set, things started to drag and I had to press through to the end of the workout.
+
 This was a _"got it done"_ swim.
 
 <!---->
