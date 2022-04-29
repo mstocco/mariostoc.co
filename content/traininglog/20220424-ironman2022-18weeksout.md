@@ -161,7 +161,7 @@ Total Time: **98 Minutes** &nbsp; Ride: **37 km**
 
 After work it was the TT Bike on _Mckenzie Ave_ to _UVic_ for reps up _Cadboro Bay Road_.  I think I rode this to plan and I felt good riding steady uphill and in the aero bars later on.  Motivation to get out the door earlier was the hard part.
 
-Light SE breeze offered good practice getting blown around while descending into Cadboro Bay.
+Light SE breeze meant practice getting blown around while descending into Cadboro Bay.
 
 <!---->
 ## FRIDAY APR 29 ☀️
