@@ -7,12 +7,17 @@ Week beginning [Sunday, April 24, 2022](javascript:flick('sun');)
 Race well, recover well, get back after it!
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **10.5 Hours** <small>race week reduced</small>
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **REWARDED**
 
-&mdash;
+The saying _"hard work pays off"_ has meaning for some but I'd rather phrase it as _"consistent work pays off."_  
+
+Looking back at the days I didn't want to go to the pool at o'dark-hundred, all the Tuesdays when I struggled to keep up running with Yauki and Vince, they all mattered this week.
+
+The big tell is not a PR in the 10km @50 years old, it was that I wasn't shattered by the effort.
+
+Not fooling myself, I did feel some fatigue on Tuesday but overall, I am in a really good spot in the journey.
 
 ![Great morning for a run, cool no wind and lots of happy people.](/assets/jpg/IMG_4082-977x550.jpeg START LINE OF THE 2022 TC10K)
 
@@ -180,7 +185,7 @@ Swim 2600:
 Run 30 minutes EASY.
 
 ### NOTES
-Time: **80 Minutes** &nbsp;Swim: **2600m** &nbsp;Run: **0 km**
+Time: **120 Minutes** &nbsp;Swim: **2600m** &nbsp;Run: **6 km**
 
 Just an ok sleep and lumbar felt ok this morning.
 
@@ -189,7 +194,7 @@ The swim started with fatigue in my triceps during the 300m and I was into a gro
 This was a _"got it done"_ swim.
 
 <!---->
-## SATURDAY APR 30
+## SATURDAY APR 30 🌦
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -202,6 +207,17 @@ Mobility 25 minutes.
 **Hydrate and fuel well this evening.**
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **105 Minutes** &nbsp; Ride: **indoor trainer**
 
-&mdash;  
+Wet morning and commitments in the afternoon had me set up the TT Bike on the trainer.
+
+I loaded this [IM Canada video](https://youtu.be/jbDaIGw-TYQ) on the screen and put on _"The Peter Attia Drive Podcast"_,  [Episode 199](https://peterattiamd.com/ryanhall/) with Ryan Hall.
+
+Lots of time in the aerobars learning what muscles fatigues first while in aero; anything that I might miss while on a real ride focusing on the road.  Hopefully the results of the experiment are fruitful.
+
+The first burn I could feel was in my left gluteus minimus and both left and right adductors.  My left lumbar followed after 45 minutes of steady pressure on the pedals and I finally sat up after 53 minutes (top of Richter Pass on the video).  I was back down in the aero position before the top of the hour, continuing to pedal stead through 75 minutes.
+
+From that point, loosely followed the bike workout from [March 17th](ironman2022-weeksout?) starting with the cadence reps and getting 2 of the 4 minute efforts in.  No comparison to be drawn between the workout in March and today, one was done on rollers, today I had the trainer configuration and the TT bike.
+
+I had one bottle with 90g of lemonade and one bottle of plain water with me for the workout.  Might have got through half of each bottle and learned that working when more horizontal means a greater chance fluid in the gut trying to come back up.
+
