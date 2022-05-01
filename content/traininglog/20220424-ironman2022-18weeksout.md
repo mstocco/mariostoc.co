@@ -213,14 +213,13 @@ Wet morning and commitments in the afternoon had me set up the TT Bike on the tr
 
 I loaded this [IM Canada video](https://youtu.be/jbDaIGw-TYQ) on the screen and put on _"The Peter Attia Drive Podcast"_,  [Episode 199](https://peterattiamd.com/ryanhall/) with Ryan Hall.
 
-Lots of time in the aero bars learning what muscles fatigues first; anything that I might miss on a real ride where my focus is on the road.  Hopefully the results of the experiment are fruitful.
+Lots of time in the aero bars learning what muscles fatigues first; anything that I might miss on a real ride where my focus is on the road.  I think this experiment was very helpful.
 
 <!---->
-The first burn I could feel was in my left gluteus minimus and both left and right adductors.  My left lumbar followed after 45 minutes of steady pressure on the pedals and I finally sat up after 53 minutes (top of Richter Pass on the video).  I was back down in the aero position before the top of the hour, continuing to pedal stead through 75 minutes.
+The first burn I could feel was in my left gluteus minimus and both left and right adductors.  My left lumbar followed after 45 minutes of steady pressure on the pedals and I finally sat up after 53 minutes <small>(Top of Richter Pass in the video)</small>.  I was back down in the aero position before the top of the hour, continuing to pedal stead through 75 minutes <small>(Gas Station in Keremeos)</small>.
 
 From that point, loosely followed the bike workout from [March 17th](ironman2022-24weeksout?thu) starting with the cadence reps and getting 2 of the 4 minute efforts in.  No comparison to be drawn between the workout in March and today, one was done on rollers, today I had the trainer configuration and the TT bike.
 
-Funny enough, the ache in my lumbar no longer noticed at the end of the ride. 
+Funny enough, the ache in my lumbar was not noticed at the end of the ride. 
 
 I had one bottle with 90g of lemonade and one bottle of plain water with me for the workout.  Might have got through half of each bottle and learned that working when more horizontal means a greater chance fluid in the gut trying to come back up.
-
