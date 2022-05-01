@@ -214,6 +214,7 @@ Wet morning and commitments in the afternoon had me set up the TT Bike on the tr
 I loaded this [IM Canada video](https://youtu.be/jbDaIGw-TYQ) on the screen and put on _"The Peter Attia Drive Podcast"_,  [Episode 199](https://peterattiamd.com/ryanhall/) with Ryan Hall.
 
 Lots of time in the aero bars learning what muscles fatigues first; anything that I might miss on a real ride where my focus is on the road.  Hopefully the results of the experiment are fruitful.
+
 <!---->
 The first burn I could feel was in my left gluteus minimus and both left and right adductors.  My left lumbar followed after 45 minutes of steady pressure on the pedals and I finally sat up after 53 minutes (top of Richter Pass on the video).  I was back down in the aero position before the top of the hour, continuing to pedal stead through 75 minutes.
 
