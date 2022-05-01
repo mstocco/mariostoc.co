@@ -222,4 +222,4 @@ From that point, loosely followed the bike workout from [March 17th](ironman2022
 
 Funny enough, the ache in my lumbar was not noticed at the end of the ride. 
 
-I had one bottle with 90g of lemonade and one bottle of plain water with me for the workout.  Might have got through half of each bottle and learned that working when horizontal means a greater chance of gut fluid trying to come back up.
+I had one bottle with 90g of lemonade and a bottle of plain water with me for the workout.  Maybe got through half of each bottle; learned that working when horizontal means a greater chance of gut fluid trying to come back up.
