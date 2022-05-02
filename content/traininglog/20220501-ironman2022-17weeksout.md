@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![Sunday's ride had me going up (and up) from here.](/assets/jpg/IMG_4083-977x550.jpeg FINLAYSON ARM ROAD, GOLDSTREAM PARK)
+![Sunday's ride had me going up ~200m over the next 1.3kms from this point.](/assets/jpg/IMG_4083-977x550.jpeg FINLAYSON ARM ROAD, GOLDSTREAM PARK)
 
 ## SUNDAY MAY 1 ☁️
 Sleep **3** | Fatigue **4** | Stress **2** | Soreness **4**
