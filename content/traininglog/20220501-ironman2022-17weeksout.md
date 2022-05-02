@@ -70,9 +70,11 @@ Swim 2500:
 Mobility 25 minutes
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Swim: **0m**
+Total Time: **57 Minutes** &nbsp; Swim: **2500m**
 
 Carina was off to the airport at 0500 and instead of going the the pool, I went back to bed.
+
+I swam in the afternoon with a 25m lane all to myself.  In isolation, I had more than 2500m in me today.  Big picture is there is a lot of [Sunday](javascript:flick('sun');) in my quads left to recover from. 
 
 <!---->
 ## TUESDAY MAY 3
