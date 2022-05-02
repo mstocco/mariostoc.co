@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![Sunday's ride had me going up (and up) from here.](/assets/jpg/IMG_4083-977x550.jpeg FINLAYSON ARM ROAD, GOLDSTREAM PARK)
 
 ## SUNDAY MAY 1 ☁️
 Sleep **3** | Fatigue **4** | Stress **2** | Soreness **4**
@@ -29,8 +29,6 @@ Off the bike: Run 45 minutes EASY and FLAT
 
 ### NOTES
 Total Time: **225 Minutes** &nbsp;Ride: **70 km** &nbsp;Run: **5 km**
-
-Descent sleep and woke with my lumbar in an ok place.
 
 I revisited my MTB to finally figure out what is up with the freehub binding.  After playing bike mechanic for way too long, my best guess is that a $3 axle spacer is worn.
 
