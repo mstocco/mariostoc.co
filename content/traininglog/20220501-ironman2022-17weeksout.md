@@ -32,6 +32,8 @@ Time: **225 Minutes** &nbsp;Ride: **70 km** &nbsp;Run: **5 km**
 
 I revisited my MTB to finally figure out what is up with the freehub binding.  After playing bike mechanic for way too long, my best guess is that a $3 axle spacer is worn.
 
+My mood wasn't the best this afternoon.
+
 <!---->
 ### ROAD BIKE TODAY
 
