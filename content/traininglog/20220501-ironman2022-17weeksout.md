@@ -39,7 +39,7 @@ I read having _"a few hills in the mix"_ and set off for a hill that I haven't p
 
 Actually, I didn't struggle as much as I thought.  My lumbar (both sides) were angry from the extra torque but they calmed down before the end of the descent.
 
-![Bike](/assets/jpg/image.jpeg)
+![Bike](/assets/jpg/bike-20220501.jpeg)
 <!---->
 Once on _Millstream_, I headed up to _Ross Durance Road_, then made my way to the _Lochside_ area via _Brookleigh Road_.  From _Royal Oak Drive_, I headed back out _West Saanich Road_ to _Interurban_ thinking that should get me close to the 3:15 time for this ride.
 
