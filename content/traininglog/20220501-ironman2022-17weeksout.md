@@ -28,13 +28,34 @@ Fuel early. Fuel often. Goal is to come off the bike well hydrated (needing to p
 Off the bike: Run 45 minutes EASY and FLAT
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **225 Minutes** &nbsp;Ride: **70 km** &nbsp;Run: **5 km**
 
 Descent sleep and woke with my lumbar in an ok place.
 
+I revisited my MTB to finally figure out what is up with the freehub binding.  After playing bike mechanic for way too long, my best guess is that a $3 axle spacer is worn.
+
 <!---->
-## MONDAY MAY 2
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+### ROAD BIKE TODAY
+
+I read having _"a few hills in the mix"_ and set off for a hill that I haven't pedalled up since 1997 (a long time ago in a galaxy far, far away).  _Finlayson Arm Road_ from the park, over the top to _Millstream Road_ was the first challenge of the day.  I took my time getting out to the base (about an hour) before visiting my old friend.  The road is in terrible shape though not a big deal while winching myself up at a snail's pace.
+
+Actually, I didn't struggle as much as I thought.  My lumbar (both sides) were angry from the extra torque but they calmed down before the end of the descent.
+
+Once on _Millstream_, I headed up to _Ross Durance Road_, then made my way to the _Lochside_ area via _Brookleigh Road_.  From _Royal Oak Drive_, I headed back out _West Saanich Road_ to _Interurban_ thinking that should get me close to the 3:15 time for this ride.
+
+Either the clock in my head is off or I was feeling better than expected, I got back to "town" quicker than I though I would.  I made up for the extra time by taking a spin out to the hospital before finishing up.
+
+This was a 3 pee ride (5 if you count before leaving and once back in the door).
+
+---
+
+The run was a standard route out to _Quadra Street_ on the bike path.  I was pressed for time and the run was 32 minutes instead of the full 45.  My legs didn't come around until _Swan Lake_ and I knew dinner was on the table getting cold while after the turn around.
+
+Solid late afternoon/evening of exercise and even though I was short on the ride and run, I felt like I got good stimulus into my legs.
+
+<!---->
+## MONDAY MAY 2 🌧
+Sleep **4** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -47,9 +68,9 @@ Swim 2500:
 Mobility 25 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Swim: **0m**
 
-&mdash;  
+Carina was off to the airport at 0500 and instead of going the the pool, I went back to bed.
 
 <!---->
 ## TUESDAY MAY 3
