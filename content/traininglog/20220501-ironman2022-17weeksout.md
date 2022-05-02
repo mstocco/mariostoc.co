@@ -28,7 +28,7 @@ Fuel early. Fuel often. Goal is to come off the bike well hydrated (needing to p
 Off the bike: Run 45 minutes EASY and FLAT
 
 ### NOTES
-Total Time: **225 Minutes** &nbsp;Ride: **70 km** &nbsp;Run: **5 km**
+Time: **225 Minutes** &nbsp;Ride: **70 km** &nbsp;Run: **5 km**
 
 I revisited my MTB to finally figure out what is up with the freehub binding.  After playing bike mechanic for way too long, my best guess is that a $3 axle spacer is worn.
 
@@ -39,6 +39,8 @@ I read having _"a few hills in the mix"_ and set off for a hill that I haven't p
 
 Actually, I didn't struggle as much as I thought.  My lumbar (both sides) were angry from the extra torque but they calmed down before the end of the descent.
 
+![Bike](/assets/jpg/image.jpeg)
+<!---->
 Once on _Millstream_, I headed up to _Ross Durance Road_, then made my way to the _Lochside_ area via _Brookleigh Road_.  From _Royal Oak Drive_, I headed back out _West Saanich Road_ to _Interurban_ thinking that should get me close to the 3:15 time for this ride.
 
 Either the clock in my head is off or I was feeling better than expected, I got back to "town" quicker than I though I would.  I made up for the extra time by taking a spin out to the hospital before finishing up.
