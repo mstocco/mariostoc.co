@@ -76,6 +76,7 @@ Carina was off to the airport at 0500 and instead of going the the pool, I went 
 
 I swam in the afternoon with a 25m lane all to myself.  In isolation, I had more than 2500m in me today.  Big picture is there is a lot of [Sunday](javascript:flick('sun');) in my quads left to recover from.
 
+Left lumbar was noticed today; not precarious, just noticed.
 <!---->
 ## TUESDAY MAY 3 🌦
 Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
@@ -113,6 +114,8 @@ Skipped the ride to the pool (raining) with the intension of riding afterwork.
 
 In the pool, I did my best to tune into the 250m distance; long enough to feel a fade, short enough not to settle into too easy of a pace.  There was lane congestion this morning that affected some of my numbers and I worked through the feeling of frustration pretty quickly after being held up too; controlling what I can.
 <!---->
+Unlike [Monday](javascript:flick('mon');) where I felt like I could swim forever, 2800m was about my limit this morning.
+ 
 I do feel a bit dinged up from [yesterday](javascript:flick:('tue');); left ankle (anterior) mostly.  Maybe the old Escalantes @628 kms are no longer up for that kind of finish to run.  I was also able to isolate a hotspot above (top of) my left lumbar. 
 
 <!---->
