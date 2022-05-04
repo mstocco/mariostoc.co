@@ -99,7 +99,6 @@ Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Easy spin to the pool
 Swim 2800: 
 4 rounds (100 easy swim, 50 fist drill, 50 swim w/ 4x sighting r :20 after each)
 6 rounds (250 @ 1500 effort/focus r 1:00, 50 EASY r :30)
@@ -110,7 +109,7 @@ Ride 60 minutes easy on the way home. Any bike and terrain you like. Just keep i
 ### NOTES
 Total Time: **67 Mins** &nbsp;Swim: **2800m** &nbsp;Ride: **0 km**
 
-Skipped the ride to the pool with the intension of riding afterwork.
+Skipped the ride to the pool (raining) with the intension of riding afterwork.
 
 In the pool, I did my best to tune into the 250m distance; long enough to feel a fade, short enough not to settle into too easy of a pace.  There was lane congestion this morning that affected some of my numbers and I worked through the feeling of frustration pretty quickly after being held up too; controlling what I can.
 
