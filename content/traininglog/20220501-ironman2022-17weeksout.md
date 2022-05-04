@@ -113,6 +113,8 @@ Skipped the ride to the pool (raining) with the intension of riding afterwork.
 
 In the pool, I did my best to tune into the 250m distance; long enough to feel a fade, short enough not to settle into too easy of a pace.  There was lane congestion this morning that affected some of my numbers and I worked through the feeling of frustration pretty quickly after being held up too; controlling what I can.
 
+I do feel a bit dinged up from [yesterday](javascript:flick:('tue');); left ankle (anterior) mostly.  Maybe the old Escalantes @628 kms are no longer up for that kind of finish to run.  I was also able to isolate a hotspot above (top of) my left lumbar. 
+
 <!---->
 ## THURSDAY MAY 5
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
