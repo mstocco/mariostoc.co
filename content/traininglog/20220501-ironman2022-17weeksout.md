@@ -37,7 +37,7 @@ My mood wasn't the best this afternoon.
 <!---->
 ### ROAD BIKE TODAY
 
-I read having _"a few hills in the mix"_ and set off for a hill that I haven't pedalled up since 1997 (a long time ago in a galaxy far, far away).  _Finlayson Arm Road_ from the park, over the top to _Millstream Road_ was the first challenge of the day.  I took my time getting out to the base (about an hour) before visiting my old friend.  The road is in terrible shape though not a big deal while winching myself up at a snail's pace.
+I read _"a few hills in the mix"_ and set off for a hill that I haven't pedalled up since 1997 (a long time ago in a galaxy far, far away).  _Finlayson Arm Road_ from the park, over the top to _Millstream Road_ was the first challenge of the day.  I took my time getting out to the base (about an hour) before visiting my old friend.  The road is in terrible shape though not a big deal while winching myself up at a snail's pace.
 
 Actually, I didn't struggle as much as I thought.  My lumbar (both sides) were angry from the extra torque but they calmed down before the end of the descent.
 
@@ -74,11 +74,11 @@ Total Time: **57 Minutes** &nbsp; Swim: **2500m**
 
 Carina was off to the airport at 0500 and instead of going the the pool, I went back to bed.
 
-I swam in the afternoon with a 25m lane all to myself.  In isolation, I had more than 2500m in me today.  Big picture is there is a lot of [Sunday](javascript:flick('sun');) in my quads left to recover from. 
+I swam in the afternoon with a 25m lane all to myself.  In isolation, I had more than 2500m in me today.  Big picture is there is a lot of [Sunday](javascript:flick('sun');) in my quads left to recover from.
 
 <!---->
-## TUESDAY MAY 3
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY MAY 3 🌦
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -87,13 +87,15 @@ Run w/ buddies. 70 minutes, easy effort...w/ a short build of 10-15 minutes towa
 Rollers ~ 30 minutes EASY. Nice and easy.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **102 Minutes** &nbsp; Run: **12 km**
 
-&mdash;  
+Windy and light showers for the run this afternoon.  It was Yauki, Vicent and me for a typical Tuesday run.  Just how it was written up with a easy pace out to _Colwood_ and a slow build from there.  I paced the group along the _Gorge Waterway_ at 5:25/km with a couple hills between there and the 12km finish at _Tillicum Mall_.
+
+On the TT Bike (set up on the trainer) on the aerobars for 30 minutes before dinner.
 
 <!---->
-## WEDNESDAY MAY 4
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY MAY 4 🌦
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -106,9 +108,11 @@ Swim 2800:
 Ride 60 minutes easy on the way home. Any bike and terrain you like. Just keep it easy.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **67 Mins** &nbsp;Swim: **2800m** &nbsp;Ride: **0 km**
 
-&mdash;  
+Skipped the ride to the pool with the intension of riding afterwork.
+
+In the pool, I did my best to tune into the 250m distance; long enough to feel a fade, short enough not to settle into too easy of a pace.  There was lane congestion this morning that affected some of my numbers and I worked through the feeling of frustration pretty quickly after being held up too; controlling what I can.
 
 <!---->
 ## THURSDAY MAY 5
