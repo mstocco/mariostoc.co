@@ -89,7 +89,7 @@ Rollers ~ 30 minutes EASY. Nice and easy.
 ### NOTES
 Total Time: **102 Minutes** &nbsp; Run: **12 km**
 
-Windy and light showers for the run this afternoon.  It was Yauki, Vicent and me for a typical Tuesday run.  Just how it was written up with a easy pace out to _Colwood_ and a slow build from there.  I paced the group along the _Gorge Waterway_ at 5:25/km with a couple hills between there and the 12km finish at _Tillicum Mall_.
+Windy, light showers for the run this afternoon.  It was the regular crew for a typical Tuesday run.  Just how it was written up; easy pace out to _Colwood_ and a slow build from there.  I paced the group along the _Gorge Waterway_ at ~5:25/km with a couple hills between there and the 12km finish at _Tillicum Mall_.
 
 On the TT Bike (set up on the trainer) on the aerobars for 30 minutes before dinner.
 
@@ -112,7 +112,7 @@ Total Time: **67 Mins** &nbsp;Swim: **2800m** &nbsp;Ride: **0 km**
 Skipped the ride to the pool (raining) with the intension of riding afterwork.
 
 In the pool, I did my best to tune into the 250m distance; long enough to feel a fade, short enough not to settle into too easy of a pace.  There was lane congestion this morning that affected some of my numbers and I worked through the feeling of frustration pretty quickly after being held up too; controlling what I can.
-
+<!---->
 I do feel a bit dinged up from [yesterday](javascript:flick:('tue');); left ankle (anterior) mostly.  Maybe the old Escalantes @628 kms are no longer up for that kind of finish to run.  I was also able to isolate a hotspot above (top of) my left lumbar. 
 
 <!---->
