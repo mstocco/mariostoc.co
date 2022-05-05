@@ -95,7 +95,7 @@ Windy, light showers for the run this afternoon.  It was the regular crew for a 
 On the TT Bike (set up on the trainer) on the aerobars for 30 minutes before dinner.
 
 <!---->
-## WEDNESDAY MAY 4 🌦
+## WEDNESDAY MAY 4 🌧
 Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -108,19 +108,25 @@ Swim 2800:
 Ride 60 minutes easy on the way home. Any bike and terrain you like. Just keep it easy.
 
 ### NOTES
-Total Time: **67 Mins** &nbsp;Swim: **2800m** &nbsp;Ride: **0 km**
+Total Time: **142 Mins** &nbsp;Swim: **2800m** &nbsp;Ride: **30 km**
 
 Skipped the ride to the pool (raining) with the intension of riding afterwork.
 
 In the pool, I did my best to tune into the 250m distance; long enough to feel a fade, short enough not to settle into too easy of a pace.  There was lane congestion this morning that affected some of my numbers and I worked through the feeling of frustration pretty quickly after being held up too; controlling what I can.
 <!---->
+<div style="height:26px;"></div>
 Unlike [Monday](javascript:flick('mon');) where I felt like I could swim forever, 2800m was about my limit this morning.
  
 I do feel a bit dinged up from [yesterday](javascript:flick:('tue');); left ankle (anterior) mostly.  Maybe the old Escalantes @628 kms are no longer up for that kind of finish to run.  I was also able to isolate a hotspot above (top of) my left lumbar. 
 
+---
+
+After an easy (but cool) spin clockwise around the waterfront, a niggle (soft tissue, anterior, right ankle) flared up.
+
+
 <!---->
-## THURSDAY MAY 5
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY CINCO DE MAYO 🌧
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -131,7 +137,7 @@ Mobility 23 minutes
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+No longer feeling an issue in my left ankle but the soft tissue of the right ankle is a concern. 
 
 <!---->
 ## FRIDAY MAY 6
