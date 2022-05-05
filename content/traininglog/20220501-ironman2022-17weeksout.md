@@ -120,7 +120,7 @@ Unlike [Monday](javascript:flick('mon');) where I felt like I could swim forever
 I do feel a bit dinged up from [yesterday](javascript:flick:('tue');); left ankle (anterior) mostly.  Maybe the old Escalantes @628 kms are no longer up for that kind of finish to run.  I was also able to isolate a hotspot above (top of) my left lumbar. 
 
 ---
-
+![Bike](/assets/jpg/bike-20220504.jpeg)
 After an easy (but cool) spin clockwise around the waterfront, a niggle (soft tissue, anterior, right ankle) flared up.
 
 
