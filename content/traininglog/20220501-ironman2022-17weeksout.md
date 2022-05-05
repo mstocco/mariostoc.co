@@ -121,7 +121,7 @@ I do feel a bit dinged up from [yesterday](javascript:flick:('tue');); left ankl
 
 ---
 ![Bike](/assets/jpg/bike-20220504.jpeg)
-After an easy (but cool) spin clockwise around the waterfront, a niggle (soft tissue, anterior, right ankle) flared up.
+After an easy (but cool) spin clockwise around the waterfront, a niggle (soft tissue, anterior, right ankle) flared up.  This is a niggle that I have had plenty of experience with during marathon training phases in the past.
 
 
 <!---->
