@@ -131,9 +131,7 @@ Sleep **3** | Fatigue **5** | Stress **3** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Run 60 minutes. Flat route. Easy effort. Get on some dirt if you can. And really do aim to keep this one EASY.
-
-Mobility 23 minutes
+Run 60 minutes. Flat route. Easy effort. Get on some dirt if you can. And really do aim to keep this one EASY. &mdash; Mobility 23 minutes
 
 ### NOTES
 Total Time: **60 Minutes** &nbsp; Run: **9.6 km**
@@ -142,9 +140,7 @@ No longer feeling an issue in my left ankle but the soft tissue of the right ank
 
 After work and when it looked like I would not get a reprieve from the precipition, I set out for the run.  Pretty much every muscle and tendon from my hips to my feet had a gripe with what I was attempting to do.  Fatigue in my calves, heels, that right ankle during the first bit, heavy legs (quads) through the majority of the route.  Hip flexors at one point.
 
-Needless to say, the run on [Tuesday](javascript:flick('tue');) combined with the ride on [Sunday](javascript:flick('sun');) might have been fun in the moment but now feel like maybe I was getting a little ahead of myself.
-
-Basically I took this run as practice for when at some point during the trip around Elk Lake (70.3 at the end of the month), I'll be working through something very similiar.
+Basically I took today as practice for when at some point during the 70.3 (end of the month), I'll be working through something very similiar.
 
 <!---->
 ## FRIDAY MAY 6
