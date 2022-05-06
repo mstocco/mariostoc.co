@@ -120,13 +120,14 @@ Unlike [Monday](javascript:flick('mon');) where I felt like I could swim forever
 I do feel a bit dinged up from [yesterday](javascript:flick:('tue');); left ankle (anterior) mostly.  Maybe the old Escalantes @628 kms are no longer up for that kind of finish to run.  I was also able to isolate a hotspot above (top of) my left lumbar. 
 
 ---
+
 ![Bike](/assets/jpg/bike-20220504.jpeg)
 After an easy (but cool) spin clockwise around the waterfront, a niggle (soft tissue, anterior, right ankle) flared up.  This is a niggle that I have had plenty of experience with during marathon training phases in the past.
 
 
 <!---->
 ## THURSDAY CINCO DE MAYO 🌧
-Sleep **3** | Fatigue **4** | Stress **3** | Soreness **5**
+Sleep **3** | Fatigue **5** | Stress **3** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -135,9 +136,15 @@ Run 60 minutes. Flat route. Easy effort. Get on some dirt if you can. And really
 Mobility 23 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **60 Minutes** &nbsp; Run: **9.6 km**
 
-No longer feeling an issue in my left ankle but the soft tissue of the right ankle is a concern. 
+No longer feeling an issue in my left ankle but the soft tissue of the right ankle is a concern.  That is just throughout the day.
+
+After work and when it looked like I would not get a reprieve from the precipition, I set out for the run.  Pretty much every muscle and tendon from my hips to my feet had a gripe with what I was attempting to do.  Fatigue in my calves, heels, that right ankle during the first bit, heavy legs (quads) through the majority of the route.  Hip flexors at one point.
+
+Needless to say, the run on [Tuesday](javascript:flick('tue');) combined with the ride on [Sunday](javascript:flick('sun');) might have been fun in the moment but now feel like maybe I was getting a little ahead of myself.
+
+Basically I took this run as practice for when at some point during the trip around Elk Lake (70.3 at the end of the month), I'll be working through something very similiar.
 
 <!---->
 ## FRIDAY MAY 6
