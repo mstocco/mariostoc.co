@@ -138,7 +138,7 @@ Total Time: **60 Minutes** &nbsp; Run: **9.6 km**
 
 No longer feeling an issue in my left ankle but the soft tissue of the right ankle is a concern.  That is just throughout the day.
 
-After work and when it looked like I would not get a reprieve from the precipition, I set out for the run.  Pretty much every muscle and tendon from my hips to my feet had a gripe with what I was attempting to do.  Fatigue in my calves, heels, that right ankle during the first bit, heavy legs (quads) through the majority of the route.  Hip flexors at one point.
+After work I set out for the run.  Pretty much every muscle and tendon from my hips to my feet had a gripe at some point with what I was attempting to do.  Fatigue in my calves, heels, that right ankle during the first bit, heavy legs (quads) through the majority of the route.  Hip flexors at one point.
 
 This was practice for the point during the 70.3 when I'll be working through something very similiar.
 
