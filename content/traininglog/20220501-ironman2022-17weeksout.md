@@ -161,7 +161,7 @@ Total Time: **95 Minutes** &nbsp; Swim: **1600m** <small>(38 mins)</small>
 
 Complete shit show at the pool today.  Another swim club has booked lanes until August and there is no way to be productive after 0615.  I left a complaint at reception on the way out.
 
-I rode easy for an hour and a bit from town, to King George Terrace, along the waterfront before heading out to The Nest Café.  I picked up a snack then headed home just before the rain starts (again).
+I rode easy for an hour-ish, to _King George Terrace_, along the waterfront, then out to _The Nest Café_.  I picked up a snack then headed home just before the rain returned.
 
 Ankle (right) is less tender this morning and my lower back is tight too.
  
