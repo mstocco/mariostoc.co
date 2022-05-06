@@ -143,8 +143,8 @@ After work I set out for the run.  Pretty much every muscle and tendon from my h
 This was practice for the point during the 70.3 when I'll work through something very similiar.
 
 <!---->
-## FRIDAY MAY 6
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY MAY 6 ☁️
+Sleep **4** | Fatigue **4** | Stress **4** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -158,10 +158,14 @@ Swim 3000:
 Ride 60 minutes easy on the way home. Same as Wednesday. Any terrain you like, as long as the effort is EASY.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **95 Minutes** &nbsp; Swim: **1600m** <small>38 mins</small>
 
-&mdash;  
+Complete shit show at the pool today.  Another swim club has booked lanes until August and there is no way to be productive from 0615 to 0800.  I left a complaint at reception on the way out.  I really was enjoying the early morning swims.
 
+I rode easy for an hour and a bit from town, to King George Terrace, along the waterfront before heading out to The Nest Café.  I picked up a snack then headed home just before the rain starts (again).
+
+Ankle (right) is less tender this morning and my lower back is tight too.
+ 
 <!---->
 ## SATURDAY MAY 7
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
