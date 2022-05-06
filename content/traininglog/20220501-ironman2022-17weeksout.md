@@ -159,7 +159,7 @@ Ride 60 minutes EASY on the way home.
 ### NOTES
 Total Time: **95 Minutes** &nbsp; Swim: **1600m** <small>(38 mins)</small>
 
-Complete shit show at the pool today.  Another swim club has booked lanes until August and there is no way to be productive from 0615 to 0800.  I left a complaint at reception on the way out.  I really was enjoying the early morning swims.
+Complete shit show at the pool today.  Another swim club has booked lanes until August and there is no way to be productive after 0615.  I left a complaint at reception on the way out.
 
 I rode easy for an hour and a bit from town, to King George Terrace, along the waterfront before heading out to The Nest Café.  I picked up a snack then headed home just before the rain starts (again).
 
