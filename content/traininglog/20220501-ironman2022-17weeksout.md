@@ -148,17 +148,16 @@ Sleep **4** | Fatigue **4** | Stress **4** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Easy spin to the pool.  
 Swim 3000: 
 2 rounds (100 easy swim, 50 gradual build easy to strong, 50 as 25 easy/25 strong, 50 as 25 strong/25 relaxed r :20 after each)
 2 rounds (4x 50 Strong/Fast r :30, 100 EASY. R :45)
 3x 600 continuous/aerobic/smooth. r 1:00 between each. 
 2x 50 EASY to cool down.
 
-Ride 60 minutes easy on the way home. Same as Wednesday. Any terrain you like, as long as the effort is EASY.
+Ride 60 minutes EASY on the way home.
 
 ### NOTES
-Total Time: **95 Minutes** &nbsp; Swim: **1600m** <small>38 mins</small>
+Total Time: **95 Minutes** &nbsp; Swim: **1600m** <small>(38 mins)</small>
 
 Complete shit show at the pool today.  Another swim club has booked lanes until August and there is no way to be productive from 0615 to 0800.  I left a complaint at reception on the way out.  I really was enjoying the early morning swims.
 
