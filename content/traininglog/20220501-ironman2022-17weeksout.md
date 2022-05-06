@@ -150,21 +150,20 @@ Sleep **4** | Fatigue **4** | Stress **4** | Soreness **5**
 ### PLANNED WORKOUT
 Swim 3000: 
 2 rounds (100 easy swim, 50 gradual build easy to strong, 50 as 25 easy/25 strong, 50 as 25 strong/25 relaxed r :20 after each)
-2 rounds (4x 50 Strong/Fast r :30, 100 EASY. R :45)
+2 rounds (4x 50 Strong/Fast r :30, 100 EASY. R :45) <s>
 3x 600 continuous/aerobic/smooth. r 1:00 between each. 
-2x 50 EASY to cool down.
+2x 50 EASY to cool down.</s>
 
 Ride 60 minutes EASY on the way home.
 
 ### NOTES
-Total Time: **95 Minutes** &nbsp; Swim: **1600m** <small>(38 mins)</small>
+Total Time: **118 Minutes** &nbsp; Swim: **1600m** <small>(38 mins)</small>
 
 Complete shit show at the pool today.  Another swim club has booked lanes until August and there is no way to be productive after 0615.  I left a complaint at reception on the way out.
 
 I rode easy for an hour-ish, to _King George Terrace_, along the waterfront, then out to _The Nest Café_.  I picked up a snack then headed home just before the rain returned.
 
 Ankle (right) is less tender this morning and my lower back is tight too.
- 
 <!---->
 ## SATURDAY MAY 7
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
