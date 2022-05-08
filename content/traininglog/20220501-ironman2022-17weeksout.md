@@ -7,12 +7,15 @@ Week beginning [Sunday, May 1, 2022](javascript:flick('sun');)
 Back to layering on the cake.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **16 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **ON CRUISE CONTROL**
 
-&mdash;
+<mark>Biggest week of the year</mark> and I didn't really notice it until I added it up after the ride on [Saturday](javascript:flick('sat');).  
+
+Lumbar was tighter and more sore and my ankles started to complain after the run on [Tuesday](javascript:flick('tue');).  This is still manageable but something to pay attention too.  In fact, I genuinely feel that if I can sort out my lumbar, my cycling fitness is about to make a positive jump forward.
+
+Before I get to far ahead of myself though, I have COVID in the home and will need to self-monitor [next week](ironman2022-16weeksout).
 
 ![Sunday's ride had me going up ~200m over the next 1.3kms from this point.](/assets/jpg/IMG_4083-977x550.jpeg FINLAYSON ARM ROAD, GOLDSTREAM PARK)
 
@@ -165,14 +168,31 @@ I rode easy for an hour-ish, to _King George Terrace_, along the waterfront, the
 
 Ankle (right) is less tender this morning and my lower back is tight too.
 <!---->
-## SATURDAY MAY 7
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+
+## SATURDAY MAY 7 🌤
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Ride 4:00 on the TT bike.  
+Flat to rolling terrain. Aka: Victoria Flat. 
+Eating early, eating often. 
+Looking for a minimum of 3 bottles on the ride (2.2 liters) More is certainly ok with me.
+Minimum of 900 calories. 1000-1200 is probably a better goal. 
+Effort is easy to steady. Never super hard, but certainly ok to have a few long sections in the bars putting some decent pressure on the pedals.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **240 Minutes** &nbsp; Ride: **105 km**
 
-&mdash;  
+Very Windy.
+
+I started on the southern section of the Victoria 70.3 course and followed it through to the back side of the airport.  Not much time on the aero because of wind and traffic, but I jumped into the bars when it was safe.  The wind made things particularly sketchy along the exposed _Patricia Bay_ section of _West Saanich Road_.  
+
+On _Wallace Drive_, I noticed an older couple walking their dogs on long leads (basically free).  One dog noticed me and decided to attack.  I yelled, very aggressively, at this charging animal; it wasn't expecting my reaction and stopped in its tracks.  
+
+My reaction was focused at the dog but very much intended for its owner.  As I pedalled on, I realized that response for what it was.  About 2 hours of riding, focused on the wind and not staying on top of the sugar.  I worked to get myself topped up for the ride back to town.
+
+Along Interurban Road, I knew I'd have another hour to pedal and I thought about which Gas Station I could pedal to for a bottle refill.  I decided the best place was home!  I rolled in for a quick bio-break, filled up a bottle, and swapped to my TT bike for my road bike bike.  At hour's ride up to _Langford_ and I was done.  
+
+
+[bike](/assets/jpg/image.jpeg)
