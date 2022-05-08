@@ -4,7 +4,7 @@ Week beginning [Sunday, May 8, 2022](javascript:flick('sun');)
 **16** weeks out from race day.
 
 ## WEEKLY GOAL
-&mdash;
+Monitor for COVID symtoms and train accordingly
 
 ## SUMMARY
 Total Time: **0 Hours**
@@ -21,7 +21,11 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Run 1:45. Easy effort. 
+Similar terrain to Victoria 70.3
+Race-day fueling and hydration.
+
+Mobility 30 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -34,7 +38,13 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Swim 2500: 
+4 rounds (50 swim, 50 as 25 fist/25 focus on finish to stroke, 50 w/ 4x sighting. R :20 after each)
+4x 50 Kick Descend 1-4 r :10 after each.
+3x 500 aerobic/steady w/ continuous turnover and a steady rhythm. R 1:30 after each.
+4x 50 EASY to cool down.
+
+Mobility 17 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -47,7 +57,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+These can be in any order you like.  
+Ride 30 minutes easy. Inside or outside.  
+Run 30 minutes. Easy effort. Flatter route.
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -60,7 +72,14 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Easy spin to the pool.  
+Swim 2900: 
+300 easy swimming to warm up. 200 w/ buoy and focus on rotation. 4x 50 w/ 4x sighting r :20. 
+3 rounds (6x 100 @ 1500 effort/focus. R :20 after each. 2x 50 EASY. R :45 after each)
+100 extra easy to cool down.
+ 
+Ride 75 minutes home. Certainly this is a bit longer of a ride after a swim. And the swim isn't exactly easy. 
+Make sure you have plenty of water and a few calories on the ride as well. Want to be well fueled for the rest of your day!
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -73,7 +92,14 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Ride 1:30 on TT bike. 
+Ride 15-20 minutes easy to a hill of your choice (you had a few west of you that worked well in the past) 
+6x 3 minutes uphill @ 30-45 minute TT effort. Basically....good solid climbing, but 100% ok to continue climbing when you hit the top each time. Even after #6!
+Easy spin down after each as your recovery. You can take a few seconds at the top as well if you like. 
+Easy spinning to cool down.
+
+OFF THE BIKE: 
+Run 30 minutes. Flatter route. Easy effort. Bring calories. Always best to be prepared. 
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -86,7 +112,12 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Swim 2800: 
+3 rounds (100 easy swim, 2x 50 Shark-fin r :20 after each)
+10x 200 aerobic/smooth w/ buoy. Focused on relaxed and controlled breathing and good rotation. R :30 after each.
+4x 50 EASY to cool down.
+
+Mobility 20 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
