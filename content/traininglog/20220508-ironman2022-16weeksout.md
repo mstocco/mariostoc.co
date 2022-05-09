@@ -35,8 +35,8 @@ Pretty common theme, _Colquiz River Trail_ to the _Centennial Trail_, then over 
 Finally some nice late March weather to enjoy!
 
 <!---->
-## MONDAY MAY 9
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## MONDAY MAY 9 ⛅️
+Sleep **2** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -50,6 +50,8 @@ Mobility 17 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
+
+Really good sleep but I am feeling a bit stiff in the morning; the lumbar in particular is still my biggest niggle.
 
 &mdash;  
 
