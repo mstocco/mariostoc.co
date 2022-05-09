@@ -16,8 +16,8 @@ I feel like I was...
 
 ![](/assets/jpg/II-9x550.jpeg)
 
-## SUNDAY MAY 8
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SUNDAY MAY 8 🌤
+Sleep **2** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -28,9 +28,11 @@ Race-day fueling and hydration.
 Mobility 30 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **114 Minutes** &nbsp; Run: **18.5 km**
 
-&mdash;  
+Pretty common theme, _Colquiz River Trail_ to the _Centennial Trail_, then over to the grounds of _Camosun College_.  The run started slow and stayed slow and easy for the almost 2 hours.  I missed some math in my head and stayed out a bit longer than was written.  Not that big of a deal in the grand scheme as I was running comfortably slow and had lots of sugar in my bottle today.
+
+Finally some nice late March weather to enjoy!
 
 <!---->
 ## MONDAY MAY 9
