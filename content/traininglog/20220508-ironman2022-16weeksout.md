@@ -30,7 +30,9 @@ Mobility 30 minutes
 ### NOTES
 Total Time: **114 Minutes** &nbsp; Run: **18.5 km**
 
-Pretty common theme, _Colquiz River Trail_ to the _Centennial Trail_, then over to the grounds of _Camosun College_.  The run started slow and stayed slow and easy for the almost 2 hours.  I missed some math in my head and stayed out a bit longer than was written.  Not that big of a deal in the grand scheme as I was running comfortably slow and had lots of sugar in my bottle today.
+Pretty common theme, _Colquiz River Trail_ to _Centennial Trail_, then over to the grounds of _Camosun College_.  The run started slow and stayed **slow and easy** for the almost 2 hours.
+
+I stayed out a bit longer than was written because I couldn't do math converting 1:45 into minutes.  Not that big of a deal in the grand scheme as I was running comfortably slow and had lots of sugar in my bottle today.
 
 Finally some nice late March weather to enjoy!
 
@@ -49,15 +51,15 @@ Swim 2500:
 Mobility 17 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **60 Minutes** &nbsp; Swim: **2500m** 
 
-Really good sleep but I am feeling a bit stiff in the morning; the lumbar in particular is still my biggest niggle.
+Really good sleep but I am feeling stiff this morning; left lumbar in particular, still being my biggest niggle.
 
-&mdash;  
-
+Swim was later in the afternoon.  The hardest part was counting to 20 (half the distance equals double the lengths).
+ 
 <!---->
-## TUESDAY MAY 10
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY MAY 10 🌤
+Sleep **6** | Fatigue **4** | Stress **6** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -68,7 +70,9 @@ Run 30 minutes. Easy effort. Flatter route.
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+If I didn't have it yet, I am pretty sure I have it now.  Head is **pounding** and I am doing my best to control my emotions.  
+
+After all the cold weather this spring, this is the second nice spring day in a row.  Now this.   
 
 <!---->
 ## WEDNESDAY MAY 11
