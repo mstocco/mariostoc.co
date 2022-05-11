@@ -70,12 +70,14 @@ Run 30 minutes. Easy effort. Flatter route.
 <mark>Total Time: **0 Minutes**</mark>
 
 ### MORNING NOTES
-If I didn't have it yet, I am pretty sure I have it now.  Head is **pounding** and I am doing my best to control my emotions.  
+If I didn't have it yet, I am pretty sure I have it now.  **Head is pounding** and I am doing my best to control my emotions.  
 
 After all the cold weather this spring, this is the second nice spring day in a row.  Now this.
 
 ### LATE AFTERNOON NOTES
-Headache cleared after 600mg of Advil at 0330 and 400mg at 0800 plus some patience.  Though I felt well enough to work out, but I chose not to.  Instead, I took the time to clean up my workshop, clean my TT Bike, pull my wetsuit out of storage and went for a walk to the grocery store (~25 minutes).
+**Headache cleared** after 600mg of Advil at 0330, 400mg at 0800 and some patience.
+
+I felt well enough to work out, but I chose not to.  Instead, I took the time to organize my workshop, clean my TT Bike, pull my wetsuit out of storage and went for a walk to the grocery store (~25 minutes).
 
 <!---->
 ## WEDNESDAY MAY 11 🌤
