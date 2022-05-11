@@ -67,16 +67,21 @@ These can be in any order you like.
 Ride 30 minutes easy. Inside or outside.  
 Run 30 minutes. Easy effort. Flatter route.
 
-### NOTES
-Total Time: **0 Minutes**
+<mark>Total Time: **0 Minutes**</mark>
 
+### MORNING NOTES
 If I didn't have it yet, I am pretty sure I have it now.  Head is **pounding** and I am doing my best to control my emotions.  
 
-After all the cold weather this spring, this is the second nice spring day in a row.  Now this.   
+After all the cold weather this spring, this is the second nice spring day in a row.  Now this.
+
+### AFTERNOON NOTES
+Later on in the afternoon, the headache cleared.  600mg of Advil at 0330 and 400mg at 0800 plus some patience.  Could I have rode 30, jogged 30?  Yes.  Did I?  No.
+
+I took the time to clean up my workshop, clean my TT Bike, pull my wetsuit out of storage and went for a walk to the grocery store (~25 minutes)
 
 <!---->
-## WEDNESDAY MAY 11
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY MAY 11 🌤
+Sleep **2** | Fatigue **2** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -92,7 +97,7 @@ Make sure you have plenty of water and a few calories on the ride as well. Want 
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Solid sleep last night.  I was up in time to swim before work but chose to see just how I am feeling.
 
 <!---->
 ## THURSDAY MAY 12
