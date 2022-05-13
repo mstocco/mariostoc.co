@@ -97,9 +97,14 @@ Make sure you have plenty of water and a few calories on the ride as well. Want 
 ### NOTES
 Total Time: **120 Minutes** &nbsp; Swim: **2900m**
 
-Solid sleep last night.  I was up in time to swim before work but chose to see just how I am feeling.  25m lane in the afternoon it would be.  I did have a whole lane to myself too.  Not much to note from the swim except that my 100m time/effort after a long rest (first of the set of 6) was quick/easy.
+Solid sleep last night.  I was up in time to swim before work but chose to see just how I am feeling.  25m lane in the afternoon it would be.  I did have a whole lane to myself too.
+<!---->
+<div style="height:27px;"></div>
+Not much to note from the swim except that my 100m time/effort after a long rest (first of the set of 6) was quick/easy.
 
-The weather was cold and grey so except for the ride to and from the pool, I pedalled in the garage (TT Bike/trainer) for the bulk of my allotted time.
+---
+
+The weather was cold and grey and although I did ride to and from the pool, I pedalled in the garage (TT Bike/trainer) for the bulk of my allotted time.  Effort was easy.
 
 <!---->
 ## THURSDAY MAY 12 🌧
@@ -119,9 +124,16 @@ Run 30 minutes. Flatter route. Easy effort. Bring calories. Always best to be pr
 ### NOTES
 Total Time: **112 Minutes** &nbsp;Ride: **Indoor**
 
-Another good sleep but another crappy afternoon weather wise.  Who knew one can suffer from Seasonal Affective Disorder in the middle of May?  Off and on showers and a cold wind from the south; the wind chill was 4°C according to The Weather Channel.
+Another good sleep but another crappy afternoon weather wise.
+<!---->
+<div style="height:27px;"></div>
+Who knew one can suffer from Seasonal Affective Disorder in the middle of May?  Off and on showers and a cold wind from the south; the wind chill was 4°C according to The Weather Channel.
 
-I picked an indoor workout from earlier this spring, put the 2020 IRONMAN Copenhagen race on the screen and did my best to simulate what I was supposed to do on a real hill.
+I picked an indoor workout from earlier this spring, put the 2020 IRONMAN Copenhagen race on the screen and did my best to simulate what I was supposed to do on a real hill.  Bulk of the time and all the efforts on the aerobars.
+
+I had a bottle with 90g of maltodextrin/sugar mix beside me on the bike and I finished 3/4 of it.
+
+The run felt just ok.  I may have felt better if it was warmer out.  A cold south wind was blowing and I honestly could have worn a pair of gloves this evening.  I was in a trisuit and a cycling jacket and it was still cold.
 
 I was immediately into my Escalantes and out the door wearing a trisuit and a cycling jacket for the run.  I honestly could have worn a pair of gloves too.  I cut the run a bit short because the rain was starting again.
 
