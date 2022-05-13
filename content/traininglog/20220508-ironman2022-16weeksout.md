@@ -95,13 +95,15 @@ Ride 75 minutes home. Certainly this is a bit longer of a ride after a swim. And
 Make sure you have plenty of water and a few calories on the ride as well. Want to be well fueled for the rest of your day!
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **120 Minutes** &nbsp; Swim: **2900m**
 
-Solid sleep last night.  I was up in time to swim before work but chose to see just how I am feeling.
+Solid sleep last night.  I was up in time to swim before work but chose to see just how I am feeling.  25m lane in the afternoon it would be.  I did have a whole lane to myself too.  Not much to note from the swim except that my 100m time/effort after a long rest (first of the set of 6) was quick/easy.
+
+The weather was cold and grey so except for the ride to and from the pool, I pedalled in the garage (TT Bike/trainer) for the bulk of my allotted time.
 
 <!---->
-## THURSDAY MAY 12
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY MAY 12 🌧
+Sleep **2** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -115,13 +117,17 @@ OFF THE BIKE:
 Run 30 minutes. Flatter route. Easy effort. Bring calories. Always best to be prepared. 
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **112 Minutes** &nbsp;Ride: **Indoor**
 
-&mdash;  
+Another good sleep but another crappy afternoon weather wise.  Who knew one can suffer from Seasonal Affective Disorder in the middle of May?  Off and on showers and a cold wind from the south; the wind chill was 4°C according to The Weather Channel.
+
+I picked an indoor workout from earlier this spring, put the 2020 IRONMAN Copenhagen race on the screen and did my best to simulate what I was supposed to do on a real hill.
+
+I was immediately into my Escalantes and out the door wearing a trisuit and a cycling jacket for the run.  I honestly could have worn a pair of gloves too.  I cut the run a bit short because the rain was starting again.
 
 <!---->
 ## FRIDAY MAY 13
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -135,7 +141,7 @@ Mobility 20 minutes
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Morning check in and the sorest part of my body is my right ankle.  My lumbar is less stiff and I am at a greater range of motion before I feel stiffness there.
 
 <!---->
 ## SATURDAY MAY 14
