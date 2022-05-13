@@ -124,18 +124,16 @@ Run 30 minutes. Flatter route. Easy effort. Bring calories. Always best to be pr
 ### NOTES
 Total Time: **112 Minutes** &nbsp;Ride: **Indoor**
 
-Another good sleep but another crappy afternoon weather wise.
+Another good sleep but another crappy afternoon weather wise.  Off and on showers and a **cold wind** from the south; a wind chill of 4°C according to _The Weather Channel_.
 <!---->
 <div style="height:27px;"></div>
-Who knew one can suffer from Seasonal Affective Disorder in the middle of May?  Off and on showers and a cold wind from the south; the wind chill was 4°C according to The Weather Channel.
+Who knew one can suffer from Seasonal Affective Disorder in the middle of May?  
 
-I picked an indoor workout from earlier this spring, put the 2020 IRONMAN Copenhagen race on the screen and did my best to simulate what I was supposed to do on a real hill.  Bulk of the time and all the efforts on the aerobars.
+I picked an indoor workout from earlier this spring, put the 2020 IRONMAN Copenhagen race on the screen and did my best to simulate what I was supposed to do on a real hill.  Bulk of the time and all the efforts on the aero bars.
 
 I had a bottle with 90g of maltodextrin/sugar mix beside me on the bike and I finished 3/4 of it.
 
-The run felt just ok.  I may have felt better if it was warmer out.  A cold south wind was blowing and I honestly could have worn a pair of gloves this evening.  I was in a trisuit and a cycling jacket and it was still cold.
-
-I was immediately into my Escalantes and out the door wearing a trisuit and a cycling jacket for the run.  I honestly could have worn a pair of gloves too.  I cut the run a bit short because the rain was starting again.
+I was immediately into my Escalantes and out the door wearing a trisuit and a cycling jacket for the run.  I honestly could have worn a pair of gloves too.  Despite the cold, the run felt just ok; I cut it a couple minutes short because the rain was starting to fall again.
 
 <!---->
 ## FRIDAY MAY 13
