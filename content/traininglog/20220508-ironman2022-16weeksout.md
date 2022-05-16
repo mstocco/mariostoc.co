@@ -7,14 +7,17 @@ Week beginning [Sunday, May 8, 2022](javascript:flick('sun');)
 Monitor for COVID symtoms and train accordingly
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **12.5 Hours** <small>down 3.5 from last week</small>
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **APPROPRIATELY CAUTIOUS**
 
-&mdash;
+Apart from skipping the hour scheduled on [Tuesday](javascript:flick('tue');), I got through this week unscathed and hit on every other workout.
 
-![](/assets/jpg/II-9x550.jpeg)
+The weather is still cold for this time of year though Saturday afternoon eventually turned pleasant.
+
+No COVID symptoms.
+
+![A pleasant difference in the weather this Saturday compared to last.](/assets/jpg/IMG_4101-977x550.jpeg INSTITUTE OF OCEAN SCIENCES, PATRICIA BAY)
 
 ## SUNDAY MAY 8 🌤
 Sleep **2** | Fatigue **4** | Stress **3** | Soreness **4**
@@ -136,7 +139,7 @@ I had a bottle with 90g of maltodextrin/sugar mix beside me on the bike and I fi
 I was immediately into my Escalantes and out the door wearing a trisuit and a cycling jacket for the run.  I honestly could have worn a pair of gloves too.  Despite the cold, the run felt just ok; I cut it a couple minutes short because the rain was starting to fall again.
 
 <!---->
-## FRIDAY MAY 13
+## FRIDAY MAY 13 ☁️
 Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -149,19 +152,53 @@ Swim 2800:
 Mobility 20 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **53 Minutes** &nbsp; Swim: **2800m**
 
 Morning check in and the sorest part of my body is my right ankle.  My lumbar is less stiff and I am at a greater range of motion before I feel stiffness there.
 
+At the pool, I got to work and things were productive but during the last half of the main set, I hit pause on the watch to empty my bladder; this is a first and probably the product of swimming in the afternoon.  I also had friends at the pool that mean another pause just before the cooldown.  I could have called it at 2600m but I swam the cooldown anyway.
+
+I noticed my quads on the commute home; weird as I was using a pull buoy the majority of the time.
 <!---->
-## SATURDAY MAY 14
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY MAY 14 ⛅️
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Ride 3:30-3:45 on TT bike. 
+Get in the climbs...but a very similar route to the race course. 
+Generally an easy to steady effort with a bit more pressure on the climbs...and a 30-50 minute section that's in the bars and "efficient"   
+* Fueling often. Hydrating the whole ride.
+
+Off the bike: Run 30 minutes EASY. Flat route. Very easy effort.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **203 Minutes** &nbsp; Ride: **88 km**
 
-&mdash;  
+I started from home instead of driving to _Elk Lake_ first but today was better than 90% of the Vic 70.3 bike course.  
+
+Efficient was the name of the game for the trip north; lots of time in the aerobars.  With a cool, northerly breeze (10 kph), my speed hovered around the 30 kph mark, heart rate in the 120's, and although I feel like I've ridden this route a hundred times, I studied the road for the best opportunities to grab calories.
+
+I rode past my pit-stop area on _Tatlow Road_ near the halfway point of the course but couldn't make it past my rest stop at the top of _Willis Point Road_.
+
+Mental note that it takes me about 15 minutes from the left turn back on to _West Saanich Road_ to the top of the last hill on _Oldfield Road_; the hardest part of course in my opinion.
+
+### CALORIES
+My aero bottle filled to ~400ml with 120g maltodextrin, 120g lemonade, 100g of sugar, 3 pinches of salt.  Roughly 1200 calories and it was thick.  I had to heat it up to get it to dissolve.  I had 1.5 litres of plain water in 2 bottles for chasing the sludge.
+
+This was consumed at a fairly consistent rate over the ride (bottles empty on the home stretch along _Interurban Road_) and apart from the syrupy texture being pretty gross, I had zero GI today.
+
+### RIDE COMPARISON
+
+While not an the exact route, this ride from 11 months ago shows some interesting similarities:
+
+Average RPM: 85 (identical)
+Average BPM: 120 (identical)
+Avg Respiration Rate: 26 brpm (nearly identical)
+
+I was slower overall today with an average moving speed of 25.8 kph versus 26.6 kph last year.
+
+---
+
+The run off the bike was done with little delay apart from locking my bike in the garage.  I was able to find a **comfortable rhythm** at 5:20/km pace right from the beginning.  On my usual flat, 30 minute out and back route to the _Selkirk Trestle_, that put me well beyond (1:15) my typical turn around point.  I followed up the return trip to log a perfect even split.
+

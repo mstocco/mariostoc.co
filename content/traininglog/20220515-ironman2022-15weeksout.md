@@ -4,7 +4,7 @@ Week beginning [Sunday, May 15, 2022](javascript:flick('sun');)
 **15** weeks out from race day.
 
 ## WEEKLY GOAL
-&mdash;
+To get outside even if we have February weather in the middle of May.
 
 ## SUMMARY
 Total Time: **0 Hours**
@@ -17,24 +17,40 @@ I feel like I was...
 ![](/assets/jpg/II-9x550.jpeg)
 
 ## SUNDAY MAY 15
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **3** | Fatigue **4** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Run 2:00. 
+Same darn terrain you've been running on. Dirt for as much as possible, and flat to rolling.
+You're welcome to head to Elk lake and get in a few laps if you like!
+Effort is EASY. 
+Remember to fuel/hydrate
+
+Mobility 20 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **120 Minutes** &nbsp; Jog: **18 km**
 
-&mdash;  
+Sore ankles and tired legs right from the first step.  Fun, just two hours more!  I started late hoping to get a weather window and after about 20 minutes, the rain stopped and I was plodding along with the sun actually poking out.  I did change my mood but not my pace; really slow today.
 
+I worked my way up to _Wilkinson_ and _West Saanich Road_ before doubling back to _Admirals Road_; mostly on the gravel surface.
+
+Had 300 calories (Gu gels), lots of water and zero GI.
+ 
 <!---->
-## MONDAY MAY 16
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## MONDAY MAY 16 🌤
+Sleep **4** | Fatigue **4** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Swim 2500: 
+3 rounds (50 easy free, 50 as 25 fist drill/25 swim, 50 fist drill, 50 gradual build easy to strong. R :20 after each)
+4 rounds (50 Shark-fin r :20, 150 aerobic/smooth w/ focus on rotation r :30)
+4 rounds (50 gradual build to strong r :30, 200 aerobic/smooth r :30)
+2x 50 EASY to cool down. 
+
+Mobility 27 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -47,7 +63,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Run 50-60 minutes easy w/ your group. Trying to get them to run a bit shorter than usual. And...avoid the big speed up at the end. Just an easy run in on this one. I imagine your legs will still be a bit tired from the weekend.
+
+Ride 45 minutes EASY. Trainer, rollers, or cruising the flats on the MTB. Whatever the weather provides. 
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -60,7 +78,16 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Easy spin to the pool.
+Swim 2800: 
+300 easy swimming. 
+200 swim w/ buoy.
+100 steady kick. 
+200 as 25 strong/25 smooth. 
+3 rounds (10x 50 Strong/high turnover....Theoretical 1000 meter race pace...not quite 750 effort! r :20 after each. 100 SUPER easy. Rest all you need) 
+2x 100 super easy to cool down.
+
+Ride 80 minutes EASY. Whatever route you like
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -73,7 +100,11 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+1st: Ride 75 minutes on the TT bike....20-30 minutes easy...
+30 minutes, mostly in the bars... with a bit of pressure on the pedals. Not "hard" but around what you might hold for a 1/2 IM. So good focus and riding fairly quickly...but rolling along to do it. 
+15-20 minutes easy to cool down/finish up.
+
+2nd: Off the bike: Run 45 minutes EASY
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -86,7 +117,13 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Swim 2700: 
+200 easy free, 200 w/ buoy, 4x 50 steady kick to warm up. Rest as needed. 
+8x 50 D 1-4, 5-8 r :20. 
+1500 continuous/smooth w/ 2x sighting per 50. 
+4x 50 EASY to cool down.
+
+Mobility 22 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
