@@ -36,7 +36,7 @@ Sore ankles and tired legs right from the first step.  Fun, just two hours more!
 
 I worked my way up to _Wilkinson_ and _West Saanich Road_ before doubling back to _Admirals Road_; mostly on the gravel surface.
 
-Had 300 calories (Gu gels), lots of water and zero GI.
+Had 300 calories (Gu gels), lots of water (running vest) and zero GI.
  
 <!---->
 ## MONDAY MAY 16 🌤
@@ -53,13 +53,17 @@ Swim 2500:
 Mobility 27 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **55 Minutes** &nbsp; Swim: **2500m**
 
-&mdash;  
+No rain but a windy afternoon commute on the bike to the pool.
+
+Another good session in the pool.  Bi-lateral breathing is slowly becoming more repeatably natural.  I once believed that I needed the 50m lane only to progress but I was in the water today when it dawned on me that the more frequent micro-breaks I get at the turns are opportunities to reset posture (feel horizontal) and feel where my feet need to be.
+
+Legs (quads) tired on the spin home.
 
 <!---->
 ## TUESDAY MAY 17
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
