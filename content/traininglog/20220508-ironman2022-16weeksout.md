@@ -190,14 +190,16 @@ I rode past my usual pit-stop area on _Tatlow Road_ near the halfway point of th
 
 Mental note that it takes me about 15 minutes from the left turn back on to _West Saanich Road_ to the top of the last hill on _Oldfield Road_; the hardest part of course in my opinion.
 
+
 ### RIDE COMPARISON
 
 While not an the exact route, this ride from 11 months ago shows some interesting similarities:
 
-Average RPM: 85 (identical)
-Average BPM: 120 (identical)
-Avg Respiration Rate: 26 brpm (nearly identical)
-
+* Average RPM: 85 (identical)
+* Average BPM: 120 (identical)
+* Avg Respiration Rate: 26 brpm (nearly identical)
+<!---->
+<div style="height:27px;"></div>
 I was slower overall today with an average moving speed of 25.8 kph versus 26.6 kph last year.
 
 ### CALORIES
