@@ -190,11 +190,6 @@ I rode past my usual pit-stop area on _Tatlow Road_ near the halfway point of th
 
 Mental note that it takes me about 15 minutes from the left turn back on to _West Saanich Road_ to the top of the last hill on _Oldfield Road_; the hardest part of course in my opinion.
 
-### CALORIES
-My aero bottle filled to ~400ml with 120g maltodextrin, 120g lemonade, 100g of sugar, 3 pinches of salt.  Roughly 1200 calories and it was thick.  I had to heat it up to get it to dissolve.  I had 1.5 litres of plain water in 2 bottles for chasing the sludge.
-
-This was consumed at a fairly consistent rate over the ride (bottles empty on the home stretch along _Interurban Road_) and apart from the syrupy texture being pretty gross, I had zero GI today.
-
 ### RIDE COMPARISON
 
 While not an the exact route, this ride from 11 months ago shows some interesting similarities:
@@ -204,6 +199,11 @@ Average BPM: 120 (identical)
 Avg Respiration Rate: 26 brpm (nearly identical)
 
 I was slower overall today with an average moving speed of 25.8 kph versus 26.6 kph last year.
+
+### CALORIES
+My aero bottle filled to ~400ml with 120g maltodextrin, 120g lemonade, 100g of sugar, 3 pinches of salt.  Roughly 1200 calories and it was thick.  I had to heat it up to get it to dissolve.  I had 1.5 litres of plain water in 2 bottles for chasing the sludge.
+
+This was consumed at a fairly consistent rate over the ride (bottles empty on the home stretch along _Interurban Road_) and apart from the syrupy texture being pretty gross, I had zero GI today.
 
 ---
 
