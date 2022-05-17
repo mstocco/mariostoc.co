@@ -62,8 +62,8 @@ Another good session in the pool.  Bi-lateral breathing is slowly becoming more 
 Legs (quads) tired on the spin home.
 
 <!---->
-## TUESDAY MAY 17
-Sleep **3** | Fatigue **4** | Stress **3** | Soreness **3**
+## TUESDAY MAY 17 ☁️
+Sleep **4** | Fatigue **4** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -74,7 +74,7 @@ Ride 45 minutes EASY. Trainer, rollers, or cruising the flats on the MTB. Whatev
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Worked to passed midnight last night (scheduled) and slept in until 0730.
 
 <!---->
 ## WEDNESDAY MAY 18

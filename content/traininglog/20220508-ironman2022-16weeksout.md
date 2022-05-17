@@ -156,7 +156,10 @@ Total Time: **53 Minutes** &nbsp; Swim: **2800m**
 
 Morning check in and the sorest part of my body is my right ankle.  My lumbar is less stiff and I am at a greater range of motion before I feel stiffness there.
 
-At the pool, I got to work and things were productive but during the last half of the main set, I hit pause on the watch to empty my bladder; this is a first and probably the product of swimming in the afternoon.  I also had friends at the pool that mean another pause just before the cooldown.  I could have called it at 2600m but I swam the cooldown anyway.
+At the pool, I got to work and things were productive but during the last half of the main set, I hit pause on the watch to empty my bladder; this is a first and probably the product of swimming in the afternoon.
+<!---->
+<div style="height:27px;"></div>
+I also had friends at the pool that mean another pause just before the cooldown.  I could have called it at 2600m but I swam the cooldown anyway.
 
 I noticed my quads on the commute home; weird as I was using a pull buoy the majority of the time.
 <!---->
@@ -177,9 +180,13 @@ Total Time: **203 Minutes** &nbsp; Ride: **88 km**
 
 I started from home instead of driving to _Elk Lake_ first but today was better than 90% of the Vic 70.3 bike course.  
 
-Efficient was the name of the game for the trip north; lots of time in the aerobars.  With a cool, northerly breeze (10 kph), my speed hovered around the 30 kph mark, heart rate in the 120's, and although I feel like I've ridden this route a hundred times, I studied the road for the best opportunities to grab calories.
+Efficient was the name of the game for the trip north; lots of time in the aerobars.  With a cool, northerly breeze (10 kph), my speed hovered around the 30 kph mark, heart rate in the 120's.
 
-I rode past my pit-stop area on _Tatlow Road_ near the halfway point of the course but couldn't make it past my rest stop at the top of _Willis Point Road_.
+<!---->
+<div style="height:27px;"></div>
+Although I feel like I've ridden this route a hundred times, today I paid more attention to the route for the best opportunities to grab calories; putting my head into the event at the end of the month.
+
+I rode past my usual pit-stop area on _Tatlow Road_ near the halfway point of the course but couldn't make it past my rest stop at the top of _Willis Point Road_.
 
 Mental note that it takes me about 15 minutes from the left turn back on to _West Saanich Road_ to the top of the last hill on _Oldfield Road_; the hardest part of course in my opinion.
 
