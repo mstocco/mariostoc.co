@@ -79,8 +79,8 @@ Worked to passed midnight last night (scheduled) and slept in until 0730.
 Rough day on the run.  Heart rate was way high to start, legs were heavy and **I stopped** to take my pulse manually to confirm the number on my wrist.  That was enough to calm things down and I plodded on.  I got to another rise and same thing repeated.  Watch said I was 158 and climbing so I walked for a bit.  I turned for home and called it a day.
 
 <!---->
-## WEDNESDAY MAY 18
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY MAY 18 🌦
+Sleep **4** | Fatigue **4** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -90,15 +90,19 @@ Swim 2800:
 200 swim w/ buoy.
 100 steady kick. 
 200 as 25 strong/25 smooth. 
-3 rounds (10x 50 Strong/high turnover....Theoretical 1000 meter race pace...not quite 750 effort! r :20 after each. 100 SUPER easy. Rest all you need) 
+3 rounds (10x 50 Strong/high turnover....Theoretical 1000 meter race pace...not quite 750 effort! r :20 after each. 100 SUPER easy. Rest all you need)
 2x 100 super easy to cool down.
 
 Ride 80 minutes EASY. Whatever route you like
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **70 Mins** &nbsp;Swim: **2800m** &nbsp;Rollers: **0 Mins**
 
-&mdash;  
+Up early and drove to the pool to make it there for the 0530 opening.  I was able to have a free lane through to the second of three rounds of the main set.  I was pushing through pretty well (comfortably hard) on the 50m lengths too.  Some congestion came into play but overall, this was a super workout.
+
+Batuhan was at the pool this morning and before the cooldown, he shared some of his recent experiences at St. George; cool!
+
+![Winds of 40 km/h gusting to 70 through this evening.](/assets/jpg/IMG_1144-329x550.jpeg Wind Warning)
 
 <!---->
 ## THURSDAY MAY 19
