@@ -198,10 +198,9 @@ While not an the exact route, this ride from 11 months ago shows some interestin
 * Average RPM: 85 (identical)
 * Average BPM: 120 (identical)
 * Avg Respiration Rate: 26 brpm (nearly identical)
+* Avg Speed: 25.8 kph (0.8 slower than last year)
 <!---->
 <div style="height:27px;"></div>
-I was slower overall today with an average moving speed of 25.8 kph versus 26.6 kph last year.
-
 ### CALORIES
 My aero bottle filled to ~400ml with 120g maltodextrin, 120g lemonade, 100g of sugar, 3 pinches of salt.  Roughly 1200 calories and it was thick.  I had to heat it up to get it to dissolve.  I had 1.5 litres of plain water in 2 bottles for chasing the sludge.
 

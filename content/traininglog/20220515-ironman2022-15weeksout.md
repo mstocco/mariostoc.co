@@ -72,9 +72,11 @@ Run 50-60 minutes easy w/ your group. Trying to get them to run a bit shorter th
 Ride 45 minutes EASY. Trainer, rollers, or cruising the flats on the MTB. Whatever the weather provides. 
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **40 Minutes** &nbsp; 
 
 Worked to passed midnight last night (scheduled) and slept in until 0730.
+
+Rough day on the run.  Heart rate was way high to start, legs were heavy and **I stopped** to take my pulse manually to confirm the number on my wrist.  That was enough to calm things down and I plodded on.  I got to another rise and same thing repeated.  Watch said I was 158 and climbing so I walked for a bit.  I turned for home and called it a day.
 
 <!---->
 ## WEDNESDAY MAY 18
