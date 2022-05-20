@@ -85,10 +85,9 @@ Worked to passed midnight last night (scheduled) and slept in until 0730.
 Rough day on the run this afternoon.  Heart rate was way high to start, legs were heavy and **I stopped** to take my pulse manually to confirm the number on my wrist.  That was enough to calm things down and I plodded on.
 
 I got to another rise and same thing repeated.  My legs were labouring and my watch said I was **158 BPM and climbing**.  Again, I walked for a bit.
+![Run](/assets/jpg/run-20220517.jpeg)
 
 I turned for home and called it a day.
-
-![Run](/assets/jpg/image.jpeg)
 
 <!---->
 ## WEDNESDAY MAY 18 🌦
