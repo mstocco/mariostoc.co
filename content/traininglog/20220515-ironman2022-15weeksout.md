@@ -77,17 +77,17 @@ Ride 45 minutes EASY. Trainer, rollers, or cruising the flats on the MTB. Whatev
 ### NOTES
 Total Time: **41 Minutes** &nbsp; Run: **6.35 km**
 
-Worked to passed midnight last night (scheduled) and slept in until 0730.
+Worked to passed midnight last night (scheduled); slept in until 0730.
 
-![Heart Rate](/assets/jpg/hr-20220517.jpeg)
+Rough afternoon for the run.  Heart rate was way high to start, legs were heavy and I **stopped to take my pulse** manually to confirm the number on my wrist.  That was enough to calm things down and I plodded on.
+
 <!---->
 <div style="height:27px;"></div>
-Rough day on the run this afternoon.  Heart rate was way high to start, legs were heavy and **I stopped** to take my pulse manually to confirm the number on my wrist.  That was enough to calm things down and I plodded on.
+![Heart Rate](/assets/jpg/hr-20220517.jpeg)
 
-I got to another rise and same thing repeated.  My legs were labouring and my watch said I was **158 BPM and climbing**.  Again, I walked for a bit.
+I got to another hill on _Selkirk Avenue_ and same thing repeated.  My legs were labouring and my watch said I was **158 BPM and climbing**.  Again, I walked for a bit before turning for home and calling it a day.
+
 ![Run](/assets/jpg/run-20220517.jpeg)
-
-I turned for home and called it a day.
 
 <!---->
 ## WEDNESDAY MAY 18 🌦
@@ -109,9 +109,16 @@ Ride 80 minutes EASY. Whatever route you like
 ### NOTES
 Time: **130 Mins** &nbsp;Swim: **2800m** &nbsp;Rollers: **60 Mins**
 
-Up early and drove to the pool to make it there for the 0530 opening.  I was able to have a free lane through to the second of three rounds of the main set.  I was pushing through pretty well (comfortably hard) on the 50m lengths too.  Some congestion came into play but overall, this was a super workout.
+Up early and **drove to the pool** to make it there for the 0530 opening.
 
+I was able to have a free lane through to the second of three rounds of the main set.  I was pushing through pretty well (comfortably hard) on the 50m lengths too.  Some congestion came into play but overall, this was a super workout.
+<!---->
+<div style="height:27px;"></div>
 Batuhan was at the pool this morning and before the cooldown, he shared some of his recent experiences at St. George; cool!
+
+Winds of 40 km/h gusting to 70 through this evening had me in the garage on the rollers.  The graphic below says it all about the weather:
+![Wind Warning](/assets/jpg/image.jpeg)
+
 
 ![Winds of 40 km/h gusting to 70 through this evening.](/assets/jpg/IMG_1144-329x550.jpeg Wind Warning)
 
