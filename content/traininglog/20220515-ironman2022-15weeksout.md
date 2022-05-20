@@ -72,11 +72,11 @@ Run 50-60 minutes easy w/ your group. Trying to get them to run a bit shorter th
 Ride 45 minutes EASY. Trainer, rollers, or cruising the flats on the MTB. Whatever the weather provides. 
 
 ### NOTES
-Total Time: **40 Minutes** &nbsp; 
+Total Time: **41 Minutes** &nbsp; Run: **6.35 km**
 
 Worked to passed midnight last night (scheduled) and slept in until 0730.
 
-Rough day on the run.  Heart rate was way high to start, legs were heavy and **I stopped** to take my pulse manually to confirm the number on my wrist.  That was enough to calm things down and I plodded on.  I got to another rise and same thing repeated.  Watch said I was 158 and climbing so I walked for a bit.  I turned for home and called it a day.
+Rough day on the run.  Heart rate was way high to start, legs were heavy and **I stopped** to take my pulse manually to confirm the number on my wrist.  That was enough to calm things down and I plodded on.  I got to another rise and same thing repeated.  Watch said I was 158 BPM and climbing so I walked for a bit.  I turned for home and called it a day.
 
 <!---->
 ## WEDNESDAY MAY 18 🌦
@@ -116,13 +116,15 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 2nd: Off the bike: Run 45 minutes EASY
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Mins** &nbsp;Bike: **~34km** &nbsp;Run: **7 km**
 
-&mdash;  
+I combined a shopping trip at _Oak Bay Bikes_ with my ride late this afternoon; going (generally) with a decent wind on the way there and into that wind on the way back.  Sunny most of the day and I was rained on along _Dallas Road_ coming back.  It made me pedal the little bit harder to ride away from that rain cloud.
+
+My right ankle was a bit bothered at the start of the easy run.  Jogged along the _Gorge Waterway_ under sunny skies; that rain cloud gone and happiness returned.
 
 <!---->
-## FRIDAY MAY 20
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY MAY 20 🌤
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -135,9 +137,9 @@ Swim 2700:
 Mobility 22 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Swim: **0m**
 
-&mdash;  
+Pretty good 8 hours last night as I woke feeling refreshed.
 
 <!---->
 ## SATURDAY MAY 21
