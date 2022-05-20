@@ -142,7 +142,7 @@ My right ankle was a bit bothered at the start of the easy run.  Jogged along th
 
 Bean burritos for dinner and no television tonight.
 
-![](/assets/jpg/image.jpeg)
+![Run](/assets/jpg/run-20220519.jpeg)
 
 <!---->
 ## FRIDAY MAY 20 🌤
