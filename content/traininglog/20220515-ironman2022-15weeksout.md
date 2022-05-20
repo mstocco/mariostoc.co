@@ -21,7 +21,7 @@ Sleep **3** | Fatigue **4** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Run 2:00. 
+Run 2:00.
 Same darn terrain you've been running on. Dirt for as much as possible, and flat to rolling.
 You're welcome to head to Elk lake and get in a few laps if you like!
 Effort is EASY. 
@@ -34,10 +34,15 @@ Total Time: **120 Minutes** &nbsp; Jog: **18 km**
 
 Sore ankles and tired legs right from the first step.  Fun, just two hours more!  I started late hoping to get a weather window and after about 20 minutes, the rain stopped and I was plodding along with the sun actually poking out.  I did change my mood but not my pace; really slow today.
 
-I worked my way up to _Wilkinson_ and _West Saanich Road_ before doubling back to _Admirals Road_; mostly on the gravel surface.
-
 Had 300 calories (Gu gels), lots of water (running vest) and zero GI.
- 
+<!---->
+<div style="height:27px;"></div>
+I went up to _Wilkinson_ and _West Saanich Road_ before doubling back to _Admirals Road_; mostly on the gravel surface of the _Colquitz River/Centennial Trail System_.
+
+I am about 5km or 30 minutes away from making this a lap of _Elk Lake_ (from home).
+
+![Run](/assets/jpg/image.jpeg)
+
 <!---->
 ## MONDAY MAY 16 🌤
 Sleep **4** | Fatigue **4** | Stress **4** | Soreness **4**
@@ -104,8 +109,8 @@ Batuhan was at the pool this morning and before the cooldown, he shared some of 
 
 ![Winds of 40 km/h gusting to 70 through this evening.](/assets/jpg/IMG_1144-329x550.jpeg Wind Warning)
 
-## THURSDAY MAY 19
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY MAY 19 🌦 
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -116,7 +121,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 2nd: Off the bike: Run 45 minutes EASY
 
 ### NOTES
-Total Time: **0 Mins** &nbsp;Bike: **~34km** &nbsp;Run: **7 km**
+Total Time: **125 Mins** &nbsp;Bike: **~34km** &nbsp;Run: **7 km**
 
 I combined a shopping trip at _Oak Bay Bikes_ with my ride late this afternoon; going (generally) with a decent wind on the way there and into that wind on the way back.  Sunny most of the day and I was rained on along _Dallas Road_ coming back.  It made me pedal the little bit harder to ride away from that rain cloud.
 
