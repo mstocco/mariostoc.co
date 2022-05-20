@@ -16,7 +16,7 @@ I feel like I was...
 
 ![](/assets/jpg/II-9x550.jpeg)
 
-## SUNDAY MAY 15
+## SUNDAY MAY 15 ⛅️
 Sleep **3** | Fatigue **4** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -96,7 +96,7 @@ Swim 2800:
 Ride 80 minutes EASY. Whatever route you like
 
 ### NOTES
-Total Time: **70 Mins** &nbsp;Swim: **2800m** &nbsp;Rollers: **0 Mins**
+Ttl Time: **130 Mins** &nbsp;Swim: **2800m** &nbsp;Rollers: **60 Mins**
 
 Up early and drove to the pool to make it there for the 0530 opening.  I was able to have a free lane through to the second of three rounds of the main set.  I was pushing through pretty well (comfortably hard) on the 50m lengths too.  Some congestion came into play but overall, this was a super workout.
 
@@ -104,7 +104,6 @@ Batuhan was at the pool this morning and before the cooldown, he shared some of 
 
 ![Winds of 40 km/h gusting to 70 through this evening.](/assets/jpg/IMG_1144-329x550.jpeg Wind Warning)
 
-<!---->
 ## THURSDAY MAY 19
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
