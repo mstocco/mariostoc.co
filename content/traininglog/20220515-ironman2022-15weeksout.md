@@ -39,9 +39,9 @@ Had 300 calories (Gu gels), lots of water (running vest) and zero GI.
 <div style="height:27px;"></div>
 I went up to _Wilkinson_ and _West Saanich Road_ before doubling back to _Admirals Road_; mostly on the gravel surface of the _Colquitz River/Centennial Trail System_.
 
-I am about 5km or 30 minutes away from making this a lap of _Elk Lake_ (from home).
+![Run](/assets/jpg/run-20220515.jpeg)
 
-![Run](/assets/jpg/image.jpeg)
+I am about 5km or 30 minutes away from making this a lap of _Elk Lake_ (from home).
 
 <!---->
 ## MONDAY MAY 16 🌤
@@ -60,11 +60,9 @@ Mobility 27 minutes
 ### NOTES
 Total Time: **55 Minutes** &nbsp; Swim: **2500m**
 
-No rain but a windy afternoon commute on the bike to the pool.
-
 Another good session in the pool.  Bi-lateral breathing is slowly becoming more repeatably natural.  I once believed that I needed the 50m lane only to progress but I was in the water today when it dawned on me that the more frequent micro-breaks I get at the turns are opportunities to reset posture (feel horizontal) and feel where my feet need to be.
 
-Legs (quads) tired on the spin home.
+Legs (quads) tired on the bike ride home.
 
 <!---->
 ## TUESDAY MAY 17 ☁️
@@ -81,7 +79,14 @@ Total Time: **41 Minutes** &nbsp; Run: **6.35 km**
 
 Worked to passed midnight last night (scheduled) and slept in until 0730.
 
-Rough day on the run.  Heart rate was way high to start, legs were heavy and **I stopped** to take my pulse manually to confirm the number on my wrist.  That was enough to calm things down and I plodded on.  I got to another rise and same thing repeated.  Watch said I was 158 BPM and climbing so I walked for a bit.  I turned for home and called it a day.
+![Heart Rate](/assets/jpg/hr-20220517.jpeg)
+<!---->
+<div style="height:27px;"></div>
+Rough day on the run this afternoon.  Heart rate was way high to start, legs were heavy and **I stopped** to take my pulse manually to confirm the number on my wrist.  That was enough to calm things down and I plodded on.
+
+I got to another rise and same thing repeated.  My legs were labouring and my watch said I was **158 BPM and climbing**.  Again, I walked for a bit.
+
+I turned for home and called it a day.
 
 <!---->
 ## WEDNESDAY MAY 18 🌦
