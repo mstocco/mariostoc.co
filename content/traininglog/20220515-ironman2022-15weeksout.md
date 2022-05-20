@@ -88,6 +88,8 @@ I got to another rise and same thing repeated.  My legs were labouring and my wa
 
 I turned for home and called it a day.
 
+![Run](/assets/jpg/image.jpeg)
+
 <!---->
 ## WEDNESDAY MAY 18 🌦
 Sleep **4** | Fatigue **4** | Stress **3** | Soreness **3**
@@ -106,7 +108,7 @@ Swim 2800:
 Ride 80 minutes EASY. Whatever route you like
 
 ### NOTES
-Ttl Time: **130 Mins** &nbsp;Swim: **2800m** &nbsp;Rollers: **60 Mins**
+Time: **130 Mins** &nbsp;Swim: **2800m** &nbsp;Rollers: **60 Mins**
 
 Up early and drove to the pool to make it there for the 0530 opening.  I was able to have a free lane through to the second of three rounds of the main set.  I was pushing through pretty well (comfortably hard) on the 50m lengths too.  Some congestion came into play but overall, this was a super workout.
 
