@@ -116,6 +116,7 @@ I was able to have a free lane through to the second of three rounds of the main
 Batuhan was at the pool this morning and before the cooldown, he shared some of his recent experiences at St. George; cool!
 
 Winds of 40 km/h gusting to 70 through this evening had me in the garage on the rollers.  The graphic below says it all about the weather:
+
 ![Wind Warning](/assets/jpg/wind-20220518.jpeg)
 
 <!---->
@@ -135,7 +136,13 @@ Total Time: **125 Mins** &nbsp;Bike: **~34km** &nbsp;Run: **7 km**
 
 I combined a shopping trip at _Oak Bay Bikes_ with my ride late this afternoon; going (generally) with a decent wind on the way there and into that wind on the way back.  Sunny most of the day and I was rained on along _Dallas Road_ coming back.  It made me pedal the little bit harder to ride away from that rain cloud.
 
+<!---->
+<div style="height:27px;"></div>
 My right ankle was a bit bothered at the start of the easy run.  Jogged along the _Gorge Waterway_ under sunny skies; that rain cloud gone and happiness returned.
+
+Bean burritos for dinner and no television tonight.
+
+![](/assets/jpg/image.jpeg)
 
 <!---->
 ## FRIDAY MAY 20 🌤
@@ -162,9 +169,16 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Ride 2:30 on TT bike:  Warm up ~ 30-45 minutes. Get the legs spinning. 
+Then...  
+60 minutes, mostly in the bars, with a descent amount of pressure on the pedals. Similar to what you plan to do for the race, or even a touch harder. 
+Then it's back to EASY spinning to finish up the ride.
+
+* When going harder: Try to eat/drink while going harder. Try to stay relaxed and efficient. 
+
+Off the bike: Run 60 minutes. Flat terrain. Easy effort, but find your rhythm and breathing
 
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+&mdash;
