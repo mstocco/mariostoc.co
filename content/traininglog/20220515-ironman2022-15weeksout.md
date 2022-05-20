@@ -82,9 +82,6 @@ Worked to passed midnight last night (scheduled); slept in until 0730. That beca
 Heart rate was way high to start, legs were heavy and I **stopped to take my pulse** manually to confirm the number on my wrist.  That was enough to calm things down and I plodded on.
 
 <!---->
-<!--
-<div style="height:27px;"></div>
--->
 ![Heart Rate](/assets/jpg/hr-20220517.jpeg)
 
 I got to another hill on _Selkirk Avenue_ and same thing repeated.  My legs were labouring and my watch said I was **158 BPM and climbing**.  Again, I walked for a bit before turning for home and calling it a day.
@@ -121,6 +118,7 @@ Batuhan was at the pool this morning and before the cooldown, he shared some of 
 Winds of 40 km/h gusting to 70 through this evening had me in the garage on the rollers.  The graphic below says it all about the weather:
 ![Wind Warning](/assets/jpg/wind-20220518.jpeg)
 
+<!---->
 ## THURSDAY MAY 19 🌦 
 Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
