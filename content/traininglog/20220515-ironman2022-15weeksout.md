@@ -14,6 +14,11 @@ I feel like I was...
 
 &mdash;
 
+<!--
+Battling early in the week, weather, motivation.  Swimming was the bright spot maybe because it is inside an out of the weather.
+
+-->
+
 ![](/assets/jpg/II-9x550.jpeg)
 
 ## SUNDAY MAY 15 ⛅️
@@ -162,6 +167,8 @@ Mobility 22 minutes
 Total Time: **0 Minutes** &nbsp; Swim: **0m**
 
 Pretty good 8 hours last night as I woke feeling refreshed.
+
+![Swim](/assets/jpg/swim-20220520.jpeg)
 
 <!---->
 ## SATURDAY MAY 21
