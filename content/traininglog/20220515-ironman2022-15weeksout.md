@@ -164,9 +164,9 @@ Swim 2700:
 Mobility 22 minutes
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Swim: **0m**
+Total Time: **55 Minutes** &nbsp; Swim: **2700m**
 
-Pretty good 8 hours last night as I woke feeling refreshed.
+Good sleep last night; I woke feeling refreshed.  **Broke 3 PRs** in the pool with the 1500m set.
 
 ![Swim](/assets/jpg/swim-20220520.jpeg)
 
