@@ -166,7 +166,7 @@ Mobility 22 minutes
 ### NOTES
 Total Time: **55 Minutes** &nbsp; Swim: **2700m**
 
-Good sleep last night; I woke feeling refreshed.  **Broke 3 PRs** in the pool with the 1500m set.
+Good sleep last night; I woke feeling refreshed.  <mark>**Broke 3 PRs in the pool**</mark> with the 1500m set.
 
 ![Swim](/assets/jpg/swim-20220520.jpeg)
 
