@@ -31,9 +31,15 @@ Short 2-3 minute stretch out to cool down.
 Mobility 25 minutes
 
 ### NOTES
-Total Time: **45 Minutes** Open Water Swim: **1970m**
+Total Time: **45 Mins** Open Water Swim: **1970m**
 
 Lumbar is tired from the ride [yesterday](ironman2022-15weeksout?sat).
+
+After some chores, Carina and I headed to Elk Lake for the swim (me) and a paddle (her).
+
+The weight I put on since Italy made the wetsuit tight and hard to put on.  The blessing being that there are zero gaps for cold water ingress.  My face, hands a feet were cold to start.  I loosely did the "warm up" and wondered just how uncomfortable this race next Sunday was going to be.  By the end of the first of three 10 minute efforts, I was feeling okay with the cold water.  By the end of the second effort, I was enjoying the cold water.  I finished the swim not really wanting to get out.
+
+I think if I get time in the water before the race starts, I am good to go.
 
 <!---->
 ## MONDAY MAY 23
