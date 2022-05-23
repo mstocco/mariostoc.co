@@ -172,7 +172,7 @@ Good sleep last night; I woke feeling refreshed.  <mark>**Broke 3 PRs in the poo
 ![Swim](/assets/jpg/swim-20220520.jpeg)
 
 <!---->
-## SATURDAY MAY 21
+## SATURDAY MAY 21 ☀️
 Sleep **3** | Fatigue **3** | Stress **2** | Soreness **2**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
