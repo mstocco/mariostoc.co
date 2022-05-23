@@ -33,7 +33,7 @@ Mobility 25 minutes
 ### NOTES
 Total Time: **45 Mins** Open Water Swim: **1970m**
 
-Lumbar is tired from the ride [yesterday](ironman2022-15weeksout?sat).
+As expected, my left lumbar is tired and sore from the ride [yesterday](ironman2022-15weeksout?sat).
 
 After some chores, Carina and I headed to Elk Lake for the swim (me) and a paddle (her).
 
@@ -43,6 +43,10 @@ The weight I put on since Italy made the wetsuit tight and hard to put on.  The 
 
 I think if I get time in the water before the race starts, I am good to go.
 
+![Swim](/assets/jpg/swim-20220522.jpeg)
+
+<!---->
+<div style="height:27px;"></div>
 ![Swim](/assets/jpg/image.jpeg)
 
 <!---->
