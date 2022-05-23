@@ -195,7 +195,7 @@ The ultimate question of the day was how would my lumbar handle being in the bar
 Pretty standard 46 minute spin up to _Mount Newton X-Rd_ with time in the aero bars.  Once there, I hit the lap button on the computer and began to a controlled push for the next 60 minutes.  **Fun two loop circuit** up to the roundabout at _Tulista Park_, then back to the _McTavish Overpass_ through to the last roundabout at the airport, and from there back to _Mount Newton_.  The roundabouts where taken heeled over, not losing much speed; no stopping being the key.  Wind was odd as the small waves on Bazan Bay indicated a NE direction but wind was felt (and sounded) more southerly.
 
 ![Bike Speed Graph](/assets/jpg/tt-20220521.jpeg)
-I was pretty achy after 20 minutes and I fought it off on the first trip south.  At about _Cy Hampton Park_, the ache subsided and my back felt a better through the south turnaround on _Lochside_.
+My lumbar became achy after 20 minutes and I fought it on the way south to _Cy Hampton Park_; then ache subsided and my back felt a better through to my turnaround on _Lochside_.
 
 <!---->
 <div style="height:27px;"></div>
