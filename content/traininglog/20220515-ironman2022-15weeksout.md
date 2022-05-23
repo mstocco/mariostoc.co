@@ -13,14 +13,14 @@ I feel like I was **BATTLING**
 
 The first half of the week was a struggle.  Motivation was off, the weather sucked and if I re-read my weekly goal, I wasn't in much of a mood to go outside.  Things improved toward the end of this week (weather warmed slightly). 
 
-Swimming was the bright spot maybe because it is an inside activity and out of the weather.  On [Saturday](javascript:flick('sat');) however, 
+Swimming was the bright spot maybe because it is an inside activity.
 
-The rid
+On [Saturday](javascript:flick('sat');) however, the ride on the TT bike was probably the most important workout I've done so far this spring.
 
 <!-- I had my first open water swim of the year, thankfully under close to summer like conditions. -->
 
 
-![This 46 year old, articulated tugboat was in for service at United Engineering this week.](/assets/jpg/IMG_4106-977x550.jpeg ARCTIC TAGLU)
+![This week, a 46 year old, articulated tugboat was in for service at United Engineering along Harbour Road, Victoria.](/assets/jpg/IMG_4106-977x550.jpeg ARCTIC TAGLU)
 
 ## SUNDAY MAY 15 ⛅️
 Sleep **3** | Fatigue **4** | Stress **2** | Soreness **4**
@@ -187,6 +187,21 @@ Then it's back to EASY spinning to finish up the ride.
 Off the bike: Run 60 minutes. Flat terrain. Easy effort, but find your rhythm and breathing
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **220 Mins** &Ride: **72 km** &nbsp;Run: **9.7 km**
 
-&mdash;
+![Bike Speed Graph](/assets/jpeg/tt-20220521.jpeg)
+<!---->
+<div style="height:27px;"></div>
+Pretty standard 46 minute spin up to _Mount Newton X-Rd_ with time in the aero bars.  Once there, I hit the lap button on the computer and began to a controlled push for the next 60 minutes.  Fun two loop circuit up to the roundabout at _Tulista Park_, then back to the _McTavish Overpass_ through to the last roundabout at the airport, and from there back to _Mount Newton_.  The roundabouts where taken heeled over, not losing much speed; no stopping being the key.  Wind was odd as the small waves on Bazan Bay indicated a NE direction but wind was felt (and sounded) more southerly.
+
+The big question of the day was how would my lumbar fair in the bars for an hour with a bit of urgency at the crank.  The sad answer is it didn't.  I was pretty achy after 20 minutes and I fought it off on the first trip south.  At about _Cy Hampton Park_, the ache subsided and my back felt a bit better through to my southern turnaround on _Lochside Drive_.
+
+Unfortunately, that didn't last and I began fighting that lumbar again, especially on the second trip out to the airport.  I sat up looking for a bit of relief at my last trip over the the _McTavish Overpass_.  I saw that I had less than 8 minutes to gut out the ache and I did just that.
+
+My legs and lungs over the 60 minutes?  Excellent.  Do I have a weakness to work on?  Absolutely.
+
+I spent a good amount (not all) sitting up and pedalling easy back home.
+
+---
+
+I took the time to stretch before heading out on the hour run.  No lumbar is not aggravated in anyway by running.  I took things easy just the same, found a nice comfortable spot and had a Maurten gel at 25 minutes.
