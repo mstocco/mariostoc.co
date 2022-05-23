@@ -43,9 +43,8 @@ The weight I put on since Italy made the wetsuit tight and hard to put on.  The 
 
 My face, hands a feet were cold to start.  I loosely did the "warm up" and wondered just how uncomfortable this race next Sunday was going to be.  By the end of the first of three 10 minute efforts, I was feeling okay with the cold water.  By the end of the second effort, I was enjoying the cold water.  I finished the swim not really wanting to get out.
 
-I think if I get time in the water before the race starts, I am good to go. <img alt="Swim" src="/assets/jpg/swim-20220522.jpeg" style="margin-top:5px;" />
-
-<!-- ![Swim](/assets/jpg/swim-20220522.jpeg) -->
+I think if I get time in the water before the race starts, I am good to go.
+<img alt="Swim" src="/assets/jpg/swim-20220522.jpeg" style="margin-top:5px;" />
 
 <!---->
 <div style="height:27px;"></div>
@@ -53,8 +52,8 @@ I think if I get time in the water before the race starts, I am good to go. <img
 ![Elk Lake](/assets/jpg/elklake-20220522.jpeg)
 
 <!---->
-## MONDAY MAY 23
-Sleep **5** | Fatigue **-** | Stress **-** | Soreness **-**
+## MONDAY MAY 23 ☁️
+Sleep **5** | Fatigue **-** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -64,7 +63,7 @@ On road or MTB. TT is fine, but you don't need to ride it.
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Terrible sleep last night, very likely from the allergy pill I took at dinner.  I can still feel the ride from [Saturday](ironman2022-15weeksout?sat) in my lumbar too.
 
 <!---->
 ## TUESDAY MAY 24

@@ -210,4 +210,6 @@ Lemonade and maple syrup for calories steady throughout the ride (and 60 minute 
 
 ---
 
-I took the time to stretch before heading out on the hour run.  No lumbar is not aggravated in anyway by running.  I took things easy just the same, found a nice comfortable spot and had a Maurten gel at 25 minutes.
+I took the time to stretch before heading out on the hour run.
+
+No issues or niggles and my lumbar does not feel aggravated in anyway by running.  I took things easy on a loop along _The Songhess_, found a nice, comfortable spot plus had a Maurten gel at 25 minutes (no GI).
