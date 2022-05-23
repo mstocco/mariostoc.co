@@ -47,7 +47,8 @@ I think if I get time in the water before the race starts, I am good to go.
 
 <!---->
 <div style="height:27px;"></div>
-![Swim](/assets/jpg/image.jpeg)
+### FIRST TIME IN THE LAKE
+![Elk Lake](/assets/jpg/elklake-20220522.jpeg)
 
 <!---->
 ## MONDAY MAY 23
