@@ -4,7 +4,7 @@ Week beginning [Sunday, May 22, 2022](javascript:flick('sun');)
 **14** weeks out from race day.
 
 ## WEEKLY GOAL
-&mdash;
+IRONMAN 70.3 Victoria race week execution.
 
 ## SUMMARY
 Total Time: **0 Hours**
@@ -16,25 +16,33 @@ I feel like I was...
 
 ![](/assets/jpg/II-9x550.jpeg)
 
-## SUNDAY MAY 22
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SUNDAY MAY 22 🌤
+Sleep **3** | Fatigue **4** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Open Water swim: 
+3x 3 minutes to warm up (literally) and to get your bearings. 
+Rest is whatever you need. If you're freezing...probably best to just swim easy, find your breath, and relax. 
+Once warm....rest about 1 minute between reps. 
+3x 10 minutes continuous/smooth/swimming straight. Practicing sighting and finding your rhythm. R 2:00 between each. 
+Short 2-3 minute stretch out to cool down.
+
+Mobility 25 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **45 Minutes** Open Water Swim: **1970m**
 
-&mdash;  
+Lumbar is tired from the ride [yesterday](ironman2022-15weeksout?sat).
 
 <!---->
 ## MONDAY MAY 23
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **5** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Ride 60 minutes EASY. 
+On road or MTB. TT is fine, but you don't need to ride it.
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -47,7 +55,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Run 45 minutes easy w/ your buddies. Try to get them to go easy the whole run! If not....Just avoid an all out spring at the end...10 minutes harder won't tire you out by Sunday.
+
+Mobility 22 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -60,7 +70,21 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Swim 2400: 
+300 easy free. 
+2x 50 Shark-fin r :20. 
+100 easy free. 
+2x 50 Paddle-fist r :20. 
+100 easy free. 
+2x 50 Fist drill r :20. 
+100 easy free. 
+2 rounds (8x 50 Strong/high turnover/Steady kick. R :30 after each. 100 EASY. R 1:00) 
+400 w/ buoy and a nice balanced stroke. Aerobic. 
+2x 50 easy to cool down.
+
+Ride 90 minutes on TT bike. 
+This can be later in the day. Just a nice spin. Get in the bars as much as seems comfortable and appropriate. 
+Effort is EASY
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -73,7 +97,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Run 30 minutes EASY
+
+Mobility 21 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -86,7 +112,14 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Swim Open Water: 
+3-5 minutes to warm up (literally) Get loose. Adjust goggles/cap/suit. 
+Then...
+20 minutes continuous. Find your rhythm. Never too hard. Just cruising. Then you're done! No more than that!
+
+Mobility 15 minutes
+
+**Solid dinner and hydrate well all day**
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -99,7 +132,13 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+**Solid breakfast and lunch. Hydrate well all day​**
+
+Spin 30 minutes on the race rig. Making sure all systems are go.
+
+Run 15 minutes EASY.
+
+Noon: Check in
 
 ### NOTES
 Total Time: **0 Minutes**

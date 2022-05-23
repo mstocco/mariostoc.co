@@ -192,10 +192,10 @@ Total Time: **220 Mins** &nbsp;Ride: **72 km** &nbsp;Run: **9.7 km**
 The ultimate question of the day was how would my lumbar handle being in the bars for an hour with a bit of urgency at the crank.  The sad answer is it didn't.
 <!---->
 <div style="height:27px;"></div>
-Pretty standard 46 minute spin up to _Mount Newton X-Rd_ with time in the aero bars.  Once there, I hit the lap button on the computer and began to a controlled push for the next 60 minutes.  Fun two loop circuit up to the roundabout at _Tulista Park_, then back to the _McTavish Overpass_ through to the last roundabout at the airport, and from there back to _Mount Newton_.  The roundabouts where taken heeled over, not losing much speed; no stopping being the key.  Wind was odd as the small waves on Bazan Bay indicated a NE direction but wind was felt (and sounded) more southerly.
+Pretty standard 46 minute spin up to _Mount Newton X-Rd_ with time in the aero bars.  Once there, I hit the lap button on the computer and began to a controlled push for the next 60 minutes.  **Fun two loop circuit** up to the roundabout at _Tulista Park_, then back to the _McTavish Overpass_ through to the last roundabout at the airport, and from there back to _Mount Newton_.  The roundabouts where taken heeled over, not losing much speed; no stopping being the key.  Wind was odd as the small waves on Bazan Bay indicated a NE direction but wind was felt (and sounded) more southerly.
 
 ![Bike Speed Graph](/assets/jpg/tt-20220521.jpeg)
-I was pretty achy after 20 minutes and I fought it off on the first trip south.  At about _Cy Hampton Park_, the ache subsided and my back felt a better through the south turnaround on _Lochside Dr_.
+I was pretty achy after 20 minutes and I fought it off on the first trip south.  At about _Cy Hampton Park_, the ache subsided and my back felt a better through the south turnaround on _Lochside_.
 
 <!---->
 <div style="height:27px;"></div>
@@ -204,7 +204,7 @@ Unfortunately, that didn't last and I began fighting that lumbar again, especial
 Legs and lungs over 60 minutes?  Excellent.  
 Do I have a glaring weakness to work on?  Absolutely.
 
-I spent a good amount (not all) sitting up and pedalling easy back home.
+I spent a good amount (but not all) sitting up and pedalling easy back home.
 
 Lemonade and maple syrup for calories steady throughout the ride (and 60 minute effort).
 
