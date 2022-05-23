@@ -7,19 +7,20 @@ Week beginning [Sunday, May 15, 2022](javascript:flick('sun');)
 To get outside even if we have February weather in the middle of May.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **12 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **BATTLING**
 
-&mdash;
+The first half of the week was a struggle.  Motivation was off, the weather sucked and if I re-read my weekly goal, I wasn't in much of a mood to go outside.  Things improved toward the end of this week (weather warmed slightly). 
 
-<!--
-Battling early in the week, weather, motivation.  Swimming was the bright spot maybe because it is inside an out of the weather.
+Swimming was the bright spot maybe because it is an inside activity and out of the weather.  On [Saturday](javascript:flick('sat');) however, 
 
--->
+The rid
 
-![](/assets/jpg/II-9x550.jpeg)
+<!-- I had my first open water swim of the year, thankfully under close to summer like conditions. -->
+
+
+![This 46 year old, articulated tugboat was in for service at United Engineering this week.](/assets/jpg/IMG_4106-977x550.jpeg ARCTIC TAGLU)
 
 ## SUNDAY MAY 15 ⛅️
 Sleep **3** | Fatigue **4** | Stress **2** | Soreness **4**
