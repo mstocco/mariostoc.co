@@ -53,7 +53,7 @@ I think if I get time in the water before the race starts, I am good to go.
 
 <!---->
 ## MONDAY MAY 23 ☁️
-Sleep **5** | Fatigue **-** | Stress **3** | Soreness **4**
+Sleep **5** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -61,9 +61,11 @@ Ride 60 minutes EASY.
 On road or MTB. TT is fine, but you don't need to ride it.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **60 Minutes** &nbsp; Ride: **24 km**
 
-Terrible sleep last night, very likely from the allergy pill I took at dinner.  I can still feel the ride from [Saturday](ironman2022-15weeksout?sat) in my lumbar too.
+Terrible sleep last night, very likely from the allergy pill (Reactin) I took at dinner.  I can still feel the ride from [Saturday](ironman2022-15weeksout?sat) in my lumbar too.
+
+After a lazy morning and some chores around the house, I headed out for a spin on the road bike up to Langford.  Efficient, with just one traffic light and easy effort.  Light westerly breeze and really nice weather for a ride.
 
 <!---->
 ## TUESDAY MAY 24

@@ -9,9 +9,11 @@ To get outside even if we have February weather in the middle of May.
 ## SUMMARY
 Total Time: **12 Hours**
 
-I feel like I was **BATTLING**
+I feel like I was **BATTLING IT**
 
-The first half of the week was a struggle.  Motivation was off, the weather sucked and if I re-read my weekly goal, I wasn't in much of a mood to go outside.  Things improved toward the end of this week (weather warmed slightly). 
+The first half of the week was a struggle.
+
+Motivation was off, the weather sucked and if I re-read my weekly goal, I wasn't in much of a mood to go outside.  Things improved toward the end of this week (weather warmed slightly). 
 
 Swimming was the bright spot maybe because it is an inside activity.
 
