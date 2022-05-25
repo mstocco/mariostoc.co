@@ -109,12 +109,16 @@ Effort is EASY
 ### NOTES
 Time: **90 Mins** &nbsp;Swim: **2400** &nbsp;Ride(s): **12 km**
 
-In the pool early trying to get as much in before the swim club arrived.  Wore my IRONMAN Italy swim cap; not sure if that was the greatest idea as there were a couple of _"7%-ers"_ in the lane too.  Regardless, I got in a solid effort.
+In the pool early trying to get as much in before the swim club arrived.  Wore my IRONMAN Italy swim cap; not sure if that was the greatest idea as there were a couple of _"7%-ers"_ in the lane too.  Regardless, I got in a **solid effort**.
 <!---->
 <div style="height:27px;"></div>
-Spent a bit of time in the hot tub with a jet on my lumbar before riding home.
+Spent a bit of time in the hot tub with a jet on my lumbar before riding home.  It is still tight.
 
-Instead of a commute straight home, I rode to _Beacon Hill Park_, through _James Bay_ before heading home; hit green lights the entire way too!  I knew that there is real ride this afternoon but this was one last opportunity to _"feel"_ my legs and importantly, Sunday's forecasted temperature after a hard swim.
+Instead of a commute straight home, I rode to _Beacon Hill Park_, through _James Bay_ before hitting the bike path north; hit green lights the entire way too!  I knew that there is real ride this afternoon but this was one last opportunity to _"feel"_ my legs and importantly, Sunday's forecasted temperature after a hard swim.
+
+I am marking that ride as 30 minutes of training as I was pressing a bit, pacing with a dude on an e-bike.
+
+---
 
 <!---->
 ## THURSDAY MAY 26
