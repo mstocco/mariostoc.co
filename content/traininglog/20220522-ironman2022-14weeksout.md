@@ -85,8 +85,8 @@ Lots of stretching and work with a lacrosse ball on my left glute.  I'm going to
 After work, it was just Yauki and me for the run.  He set a pace just a touch faster than I'll call relaxed; I went with it because it wasn't _"tempo"_.  The important part was really that effort was consistent and no sprint at the end.
 
 <!---->
-## WEDNESDAY MAY 25
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY MAY 25 ☁️
+Sleep **4** | Fatigue **4** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -107,9 +107,14 @@ This can be later in the day. Just a nice spin. Get in the bars as much as seems
 Effort is EASY
 
 ### NOTES
-Total Time: **0 Minutes**
+Time: **90 Mins** &nbsp;Swim: **2400** &nbsp;Ride(s): **12 km**
 
-&mdash;  
+In the pool early today so that I could get as much in before the swim club showed up.  I wore my IRONMAN Italy swim cap today; not sure if that was the greatest idea as there were a couple of _"7%-ers"_ in the lane too.  Regardless, I got in a solid effort.
+
+Spent a bit of time in the hot tub with a jet on my lumbar before riding home.
+<!---->
+<div style="height:27px;"></div>
+Instead of a commute straight home, I rode to _Beacon Hill Park_, through _James Bay_ before heading home; hit green lights the entire way too!  I knew that there is real ride this afternoon but this was one last opportunity to _"feel"_ my legs and importantly, Sunday's forecasted temperature after a hard swim.
 
 <!---->
 ## THURSDAY MAY 26
