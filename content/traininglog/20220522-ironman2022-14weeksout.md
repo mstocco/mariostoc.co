@@ -68,19 +68,21 @@ Terrible sleep last night, very likely from the allergy pill (Reactin) I took at
 After a lazy morning and some chores around the house, I headed out for a spin on the road bike up to Langford.  Efficient, with just one traffic light and easy effort.  Light westerly breeze and really nice weather for a ride.
 
 <!---->
-## TUESDAY MAY 24
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY MAY 24 ☁️
+Sleep **4** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Run 45 minutes easy w/ your buddies. Try to get them to go easy the whole run! If not....Just avoid an all out spring at the end...10 minutes harder won't tire you out by Sunday.
+Run 45 minutes easy w/ your buddies. Try to get them to go easy the whole run! If not....Just avoid an all out sprint at the end...10 minutes harder won't tire you out by Sunday.
 
 Mobility 22 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **51 Minutes** &nbsp; Run: **9.0 km**
 
-&mdash;  
+Lots of stretching and work with a lacrosse ball on my left glute.  I'm going to get over this ropey lumbar niggle and crush the bike one day.
+
+After work, it was just Yauki and me for the run.  He set a pace just a touch faster than I'll call relaxed; I went with it because it wasn't _"tempo"_.  The important part was really that effort was consistent and no sprint at the end.
 
 <!---->
 ## WEDNESDAY MAY 25
