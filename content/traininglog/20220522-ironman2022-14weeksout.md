@@ -119,10 +119,11 @@ Instead of a commute straight home, I rode to _Beacon Hill Park_, through _James
 I am marking that ride as 30 minutes of training as I was pressing a bit, pacing with a dude on an e-bike.
 
 ---
-
+![Argon 18 E-118 NEXT](/assets/jpg/bike-20220525.jpeg)
+I didn't get the remaining 60 minutes on the TT bike afterwork.  I did take the time to set up the bike for the race this weekend.
 <!---->
-## THURSDAY MAY 26
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY MAY 26 🌧
+Sleep **4** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -131,13 +132,13 @@ Run 30 minutes EASY
 Mobility 21 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **25 Minutes** &nbsp; Run: **4 km**
 
-&mdash;  
+Went for an easy jog in the rain just up to _Saanich Road_ along the bike path.  Apart from a twinge in my right ankle, I felt really good and could have gone for hours.  Hopefully this is a good sign as my lumbar is still sore.
 
 <!---->
-## FRIDAY MAY 27
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY MAY 27 ⛅️
+Sleep **3** | Fatigue **2** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -153,7 +154,7 @@ Mobility 15 minutes
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+
 
 <!---->
 ## SATURDAY MAY 28
