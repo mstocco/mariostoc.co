@@ -114,11 +114,8 @@ In the pool early trying to get as much in before the swim club arrived.  Wore m
 <div style="height:27px;"></div>
 Spent a bit of time in the hot tub with a jet on my lumbar before riding home.  It is still tight.
 
-Instead of a commute straight home, I rode to _Beacon Hill Park_, through _James Bay_ before hitting the bike path north; hit green lights the entire way too!  I knew that there is real ride this afternoon but this was one last opportunity to _"feel"_ my legs and importantly, Sunday's forecasted temperature after a hard swim.
+Instead of a commute straight home, I rode to _Beacon Hill Park_, through _James Bay_ before hitting the bike path north; hit green lights the entire way too!  I knew that there is real ride this afternoon but this was one last opportunity to _"feel"_ my legs and importantly, Sunday's forecasted temperature after a hard swim.  I was pressing a bit, pacing with a dude on an e-bike.
 
-I am marking that ride as 30 minutes of training as I was pressing a bit, pacing with a dude on an e-bike.
-
----
 ![Argon 18 E-118 NEXT](/assets/jpg/bike-20220525.jpeg)
 I didn't get the remaining 60 minutes on the TT bike afterwork.  I did take the time to set up the bike for the race this weekend.
 <!---->
