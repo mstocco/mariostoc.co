@@ -16,8 +16,8 @@ I feel like I was...
 
 ![First trip to a hospital for myself since 1998; had X-Rays taken for an unfortunate broken toe.](/assets/jpg/IMG_4127-977x550.jpeg SIKORSKY S76 - VICTORIA GENERAL HOSPITAL)
 
-## SUNDAY MAY 29
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SUNDAY MAY 29 ⛅️
+Sleep **2** | Fatigue **2** <mark>| Stress **5** | Soreness **6** </mark>
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### 2022 IRONMAN 70.3 Victoria
@@ -27,17 +27,17 @@ Chip Time: **6:14:37**<br />
 658<sup>th</sup> out of 1,102 by Gender   
 884<sup>th</sup> out of 1,683 Overall</span>
 
-<span class="agencyvc" style="font-size:0.9em;">SWIM:</span> 37:41 &mdash; 1:59/100m pace<br />
+<span class="agencyvc" style="font-size:0.9em;">SWIM &mdash; 37:41  &mdash; 1:59/100m pace</span><br />
 <span style="font-size:0.8em">53<sup>rd</sup> M50-54, 474<sup>th</sup> by Gender, 677<sup>th</sup> Overall</span>
 
-<span class="agencyvc" style="font-size:0.85em;">T1:</span> 8:00
+<span class="agencyvc" style="font-size:0.85em;">T1 &mdash; 8:00</span>
 
-<span class="agencyvc" style="font-size:0.9em;">BIKE:</span> 3:10:28 &mdash; 28.48 kph<br />
+<span class="agencyvc" style="font-size:0.9em;">BIKE &mdash; 3:10:28 &mdash; 28.48 kph</span><br />
 <span style="font-size:0.8em">71<sup>st</sup> M50-54 &nbsp; 625<sup>th</sup> by Gender &nbsp; 788<sup>th</sup> Overall</span>
 
-<span class="agencyvc" style="font-size:0.85em;">T2:</span> 5:46
+<span class="agencyvc" style="font-size:0.85em;">T2 &mdash; 5:46</span>
 
-<span class="agencyvc" style="font-size:0.9em;">RUN:</span> 2:12:43 &mdash; 6:18/km pace<br />
+<span class="agencyvc" style="font-size:0.9em;">RUN &mdash; 2:12:43 &mdash; 6:18/km pace</span><br />
 <span style="font-size:0.8em">71<sup>st</sup> M50-54 &nbsp; 745<sup>th</sup> by Gender &nbsp; 1049<sup>th</sup> Overall</span>
 
 Click [here](/racereports/) for the Race Report.
