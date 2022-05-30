@@ -22,17 +22,20 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 
 ### 2022 IRONMAN 70.3 Victoria
 Chip Time: **6:14:37**
+69<sup>th</sup> M50-54 &nbsp; 658<sup>th</sup> by Gender &nbsp; 884<sup>th</sup> Overall
 
-### NOTES
-Swim: **37:41**, 53<sup>rd</sup> M50-54, 474<sup>th</sup> by Gender, 677<sup>th</sup> Overall
+### SWIM - 37:41
+53<sup>rd</sup> M50-54, 474<sup>th</sup> by Gender, 677<sup>th</sup> Overall
 
+### TRANSITION 1 - 8:00
 
+### BIKE - 3:10:28
+71<sup>st</sup> M50-54 &nbsp; 625<sup>th</sup> by Gender &nbsp; 788<sup>th</sup> Overall
 
+### TRANSITION 2 - 5:46
 
-
-69/120 M50-54   
-658/1102 by Gender    
-884/1683 Overall
+### RUN - 2:12:43
+71<sup>st</sup> M50-54 &nbsp; 745<sup>th</sup> by Gender &nbsp; 1049<sup>th</sup> Overall
 
 
 <!---->
