@@ -134,6 +134,7 @@ Mobility 21 minutes
 Total Time: **25 Minutes** &nbsp; Run: **4 km**
 
 Went for an easy jog in the rain just up to _Saanich Road_ along the bike path.  Apart from a twinge in my right ankle, I felt really good and could have gone for hours.  Hopefully this is a good sign as my lumbar is still sore.
+![](/assets/jpg/image.jpeg)
 
 <!---->
 ## FRIDAY MAY 27 ⛅️
