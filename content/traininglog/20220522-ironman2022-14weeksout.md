@@ -156,11 +156,9 @@ Very **troubling niggle** in my right foot, lateral side, feels like it is the c
 
 If I thought what I felt on the jog [yesterday](javascript:flick('thu');) was going to lead to today, I would have walked.  It was raining an I was contemplating running the race in a pair of Nikes that I wore on the course last year during a virtual effort.  
 
-Given how my foot feels today, maybe that wasn't the best idea.
-
-Apart from that, I felt off today too.
+Apart from that, I **felt off** today too.
 <!---->
-I stayed off my feet most of the day but after work, headed to _Elk Lake_ to get the lay of the land.  
+I stayed off that foot most of the day but after work, headed to _Elk Lake_ to get the lay of the land.  
 
 I went through the motion of parking at the designated spot at _Beaver Lake_ and taking the shuttle bus over to the venue at _Hamsterly Beach_; timing the procedure.
 
