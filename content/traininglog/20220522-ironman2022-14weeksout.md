@@ -158,6 +158,7 @@ If I thought what I felt on the jog [yesterday](javascript:flick('thu');) was go
 
 Apart from that, I **felt off** today too.
 <!---->
+<div style="style:height:27px;"></div>
 I stayed off that foot most of the day but after work, headed to _Elk Lake_ to get the lay of the land.  
 
 I went through the motion of parking at the designated spot at _Beaver Lake_ and taking the shuttle bus over to the venue at _Hamsterly Beach_; timing the procedure.
@@ -178,10 +179,12 @@ Spin 30 minutes on the race rig. Making sure all systems are go.
 Run 15 minutes EASY.
 
 ### NOTES
-Total Time: **30 Minutes**
+Total Time: **30 Minutes** &nbsp; Ride: **just enough**
 
 Made a big stack of my chocolate banana pancakes with walnuts for breakfast.  My right foot is still bothersome.
 
 I noodled around on the TT bike, burned off any pre-race anxiousness before [racking my bike](javascript:flkty.select(2);).  I intended to walk/jog back to the parking lot but my sore right foot convinced me to just take the shuttle back; no run this afternoon.
 
-It was back home to organize for an early morning.  BBQ chicken breast and rice for dinner.
+It was back home to ready for an early wake up.
+
+BBQ chicken breast and rice for dinner.
