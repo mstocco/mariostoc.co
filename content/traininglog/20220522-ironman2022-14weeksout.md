@@ -152,11 +152,14 @@ _Solid dinner and hydrate well all day_
 ### NOTES
 <mark>Total Time: **0 Minutes**</mark>
 
-Very **troubling niggle** in my right foot, lateral side, feels like the cuboid/calcaneus joint.  I stayed off it most of the day but after work, headed to _Elk Lake_ to get the lay of the land.  I went through the motion of parking at the designated spot at _Beaver Lake_ and taking the shuttle bus over to the venue at _Hamsterly Beach_; timing the procedure.
+Very **troubling niggle** in my right foot, lateral side, feels like it is the cuboid/calcaneus joint.  If I thought what I felt on the jog yesterday was going to lead to today, I would have walked.
 
-Athlete check-in had closed but I was able to get information on the modifications to the bike course, check out the transition layout before jumping on the shuttle back to the parking lot.
+I stayed off it most of the day but after work, headed to _Elk Lake_ to get the lay of the land.  I went through the motion of parking at the designated spot at _Beaver Lake_ and taking the shuttle bus over to the venue at _Hamsterly Beach_; timing the procedure.
+<!---->
+Athlete check-in had just closed (1600) when I got to _Hamsterly Beach_.  I was able to get information on the modifications to the bike course, check out the transition layout before jumping back on the shuttle back to the parking lot.
 
-Even though I packed my open-water swim, I did not swim.  The late afternoon wind was up and whitecaps were forming on the lake.  I didn't see an opportunity for anything productive in the water.  I left to go cook pasta.
+Even though I packed my open-water swim, I did not swim.  The late afternoon wind was up and whitecaps were forming on the lake.  I didn't see an opportunity for anything productive in the water.  I contemplated driving to _Crystal Pool_ to get wet but instead, I made my way home to cook pasta.
+
 
 <!---->
 ## SATURDAY MAY 28 🌦
