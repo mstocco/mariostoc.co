@@ -126,9 +126,8 @@ Sleep **4** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Run 30 minutes EASY
-
-Mobility 21 minutes
+Run 30 minutes EASY.   
+Mobility 21 minutes.
 
 ### NOTES
 Total Time: **25 Minutes** &nbsp; Run: **4 km**
