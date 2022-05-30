@@ -146,21 +146,17 @@ Swim Open Water:
 Then...
 20 minutes continuous. Find your rhythm. Never too hard. Just cruising. Then you're done! No more than that!
 
-Mobility 15 minutes
-
-**Solid dinner and hydrate well all day**
+Mobility 15 minutes   
+_Solid dinner and hydrate well all day_
 
 ### NOTES
-Total Time: **0 Minutes**
+<mark>Total Time: **0 Minutes**</mark>
 
-Very **troubling niggle** in my right foot, lateral side, feels like the cuboid/calcaneus joint.  I stayed off it most of the day but after work, headed to _Elk Lake_ to get the lay of the land.
-
-I packed my open-water swim kit and was prepared to swim but that never happened.  I went through the motion of parking at the designated spot at _Beaver Lake_ and taking the shuttle bus over to the venue at _Hamsterly Beach_; timing the procedure.
+Very **troubling niggle** in my right foot, lateral side, feels like the cuboid/calcaneus joint.  I stayed off it most of the day but after work, headed to _Elk Lake_ to get the lay of the land.  I went through the motion of parking at the designated spot at _Beaver Lake_ and taking the shuttle bus over to the venue at _Hamsterly Beach_; timing the procedure.
 
 Athlete check-in had closed but I was able to get information on the modifications to the bike course, check out the transition layout before jumping on the shuttle back to the parking lot.
 
-I did not swim.  The late afternoon wind was up and whitecaps were forming on the lake.  I didn't see an opportunity for anything productive in the water.
-
+Even though I packed my open-water swim, I did not swim.  The late afternoon wind was up and whitecaps were forming on the lake.  I didn't see an opportunity for anything productive in the water.  I left to go cook pasta.
 
 <!---->
 ## SATURDAY MAY 28 🌦
