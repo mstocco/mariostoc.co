@@ -7,12 +7,13 @@ Week beginning [Sunday, May 22, 2022](javascript:flick('sun');)
 IRONMAN 70.3 Victoria race week execution.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **5 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **PLAYING THE SAFE CARD**
 
-&mdash;
+Most of this week I worried about how my back was going to hold up for the race.  After an easy jog on [Thursday](javascript:flick('thu');), I wondered if a new niggle would allow me to complete the run.  Needless to say, I wound down the week resting way more than planned.
+
+One lesson learned this week was that a local race can be more hectic than a race with travel.  Not booking time off work, household and yard work, it all adds up to more to do on top of prepping for a triathlon.
 
 ![Bike is racked and ready for tomorrow's race.](/assets/jpg/IMG_4118-977x550.jpeg MY SPOT IN TRANSITION)
 
@@ -152,7 +153,7 @@ Mobility 15 minutes
 ### NOTES
 Total Time: **0 Minutes**
 
-Very **troubling niggle** in my right foot, lateral side, likely the cuboid/calcaneus joint.  I stayed off it most of the day but then headed to _Elk Lake_ to get the lay of the land for the race on Sunday.
+Very **troubling niggle** in my right foot, lateral side, feels like the cuboid/calcaneus joint.  I stayed off it most of the day but after work, headed to _Elk Lake_ to get the lay of the land.
 
 I packed my open-water swim kit and was prepared to swim but that never happened.  I went through the motion of parking at the designated spot at _Beaver Lake_ and taking the shuttle bus over to the venue at _Hamsterly Beach_; timing the procedure.
 
@@ -167,19 +168,16 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-**Solid breakfast and lunch. Hydrate well all day​**
-
+**Solid breakfast and lunch. Hydrate all day​**  
 Spin 30 minutes on the race rig. Making sure all systems are go.
 
 Run 15 minutes EASY.
-
-Noon: Check in
 
 ### NOTES
 Total Time: **30 Minutes**
 
 Made a big stack of my chocolate banana pancakes with walnuts for breakfast.  My right foot is still bothersome.
 
-I rode to the _Hamsterly Beach_ from the parking area, got checked in and then noodled around on the bike to burn off any pre-race vibes.  With my bike racked, I intended to walk then jog back to the parking lot but the conversation my right foot convinced me to just take the shuttle back; no 15 minute run this afternoon.
+I noodled around on the TT bike, burned off any pre-race anxiousness before [racking my bike](javascript:flkty.select(2);).  I intended to walk/jog back to the parking lot but my sore right foot convinced me to just take the shuttle back; no run this afternoon.
 
-It was home to organize for an early morning.
+It was back home to organize for an early morning.  BBQ chicken breast and rice for dinner.
