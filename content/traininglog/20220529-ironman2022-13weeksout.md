@@ -22,26 +22,25 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 
 ### 2022 IRONMAN 70.3 Victoria
 Chip Time: **6:14:37**<br />
-<span style="font-size:0.85em">
+<span style="font-size:0.8em">
 69<sup>th</sup> out of 120 M50-54  
 658<sup>th</sup> out of 1,102 by Gender   
 884<sup>th</sup> out of 1,683 Overall</span>
 
----
+<span class="agencyvc" style="font-size:0.9em;">SWIM:</span> 37:41 &mdash; 1:59/100m pace<br />
+<span style="font-size:0.8em">53<sup>rd</sup> M50-54, 474<sup>th</sup> by Gender, 677<sup>th</sup> Overall</span>
 
-<span class="agencyvc" style="font-size:0.85em;">SWIM:</span> 37:41 &mdash; 1:59/100m pace<br />
-<span style="font-size:0.85em">53<sup>rd</sup> M50-54, 474<sup>th</sup> by Gender, 677<sup>th</sup> Overall</span>
+<span class="agencyvc" style="font-size:0.85em;">T1:</span> 8:00
 
-<span class="agencyvc" style="font-size:0.85em;">TRANSITION 1:</span> 8:00
+<span class="agencyvc" style="font-size:0.9em;">BIKE:</span> 3:10:28 &mdash; 28.48 kph<br />
+<span style="font-size:0.8em">71<sup>st</sup> M50-54 &nbsp; 625<sup>th</sup> by Gender &nbsp; 788<sup>th</sup> Overall</span>
 
-<span class="agencyvc" style="font-size:0.85em;">BIKE:</span> 3:10:28 &mdash; 28.48 kph<br />
-<span style="font-size:0.85em">71<sup>st</sup> M50-54 &nbsp; 625<sup>th</sup> by Gender &nbsp; 788<sup>th</sup> Overall</span>
+<span class="agencyvc" style="font-size:0.85em;">T2:</span> 5:46
 
-<span class="agencyvc" style="font-size:0.85em;">TRANSITION 2:</span> 5:46
+<span class="agencyvc" style="font-size:0.9em;">RUN:</span> 2:12:43 &mdash; 6:18/km pace<br />
+<span style="font-size:0.8em">71<sup>st</sup> M50-54 &nbsp; 745<sup>th</sup> by Gender &nbsp; 1049<sup>th</sup> Overall</span>
 
-<span class="agencyvc" style="font-size:0.85em;">RUN:</span> 2:12:43 &mdash; 6:18/km pace<br />
-<span style="font-size:0.85em">71<sup>st</sup> M50-54 &nbsp; 745<sup>th</sup> by Gender &nbsp; 1049<sup>th</sup> Overall</span>
-
+Click [here](/racereports/) for the Race Report.
 
 <!---->
 ## MONDAY MAY 30
