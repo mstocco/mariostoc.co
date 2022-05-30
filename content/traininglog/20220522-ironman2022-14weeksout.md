@@ -118,7 +118,7 @@ Spent a bit of time in the hot tub with a jet on my lumbar before riding home.  
 Instead of a commute straight home, I rode to _Beacon Hill Park_, through _James Bay_ before hitting the bike path north; hit green lights the entire way too!  I knew that there is real ride this afternoon but this was one last opportunity to _"feel"_ my legs and importantly, Sunday's forecasted temperature after a hard swim.  I was pressing a bit, pacing with a dude on an e-bike.
 
 The race bike is now set up for the weekend.
-![Argon 18 E-118 NEXT](/assets/jpg/bike-20220525.jpeg)
+<img alt="Argon 18 E-118 NEXT" src="/assets/jpg/bike-20220525.jpeg" style="margin-top:5px;" />
 
 <!---->
 ## THURSDAY MAY 26 🌧
@@ -134,7 +134,7 @@ Total Time: **25 Minutes** &nbsp; Run: **4 km**
 
 Went for an easy jog in the rain just up to _Saanich Road_ along the bike path.  Apart from a twinge in my right ankle, I felt really good and could have gone for hours.  Hopefully this is a good sign as my lumbar is still sore.
 
-![](/assets/jpg/image.jpeg)
+![Run](/assets/jpg/run-20220526.jpeg)
 
 <!---->
 ## FRIDAY MAY 27 ⛅️
