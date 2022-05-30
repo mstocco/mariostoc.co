@@ -21,35 +21,26 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### 2022 IRONMAN 70.3 Victoria
-Chip Time: **6:14:37**  
-
-<span style="font-size:0.9em">
+Chip Time: **6:14:37**<br />
+<span style="font-size:0.85em">
 69<sup>th</sup> out of 120 M50-54  
 658<sup>th</sup> out of 1,102 by Gender   
 884<sup>th</sup> out of 1,683 Overall</span>
 
 ---
 
-<span class="agencyvc" style="font-size:0.9em;">SWIM:</span> 37:41 &mdash; 1:59/100m pace<br />
-<span style="font-size:0.9em">53<sup>rd</sup> M50-54, 474<sup>th</sup> by Gender, 677<sup>th</sup> Overall</span>
+<span class="agencyvc" style="font-size:0.85em;">SWIM:</span> 37:41 &mdash; 1:59/100m pace<br />
+<span style="font-size:0.85em">53<sup>rd</sup> M50-54, 474<sup>th</sup> by Gender, 677<sup>th</sup> Overall</span>
 
+<span class="agencyvc" style="font-size:0.85em;">TRANSITION 1:</span> 8:00
 
+<span class="agencyvc" style="font-size:0.85em;">BIKE:</span> 3:10:28 &mdash; 28.48 kph<br />
+<span style="font-size:0.85em">71<sup>st</sup> M50-54 &nbsp; 625<sup>th</sup> by Gender &nbsp; 788<sup>th</sup> Overall</span>
 
-<span class="agencyvc" style="font-size:0.9em;">TRANSITION 1:</span> 8:00
+<span class="agencyvc" style="font-size:0.85em;">TRANSITION 2:</span> 5:46
 
----
-
-<span class="agencyvc" style="font-size:1.0em;">BIKE:</span> 3:10:28 &mdash; 28.48 kph   
-71<sup>st</sup> M50-54 &nbsp; 625<sup>th</sup> by Gender &nbsp; 788<sup>th</sup> Overall
-
----
-
-<span class="agencyvc" style="font-size:1.0em;">TRANSITION 2:</span> 5:46
-
----
-
-<span class="agencyvc" style="font-size:1.0em;">RUN:</span> 2:12:43 &mdash; 6:18/km pace   
-71<sup>st</sup> M50-54 &nbsp; 745<sup>th</sup> by Gender &nbsp; 1049<sup>th</sup> Overall
+<span class="agencyvc" style="font-size:0.85em;">RUN:</span> 2:12:43 &mdash; 6:18/km pace<br />
+<span style="font-size:0.85em">71<sup>st</sup> M50-54 &nbsp; 745<sup>th</sup> by Gender &nbsp; 1049<sup>th</sup> Overall</span>
 
 
 <!---->
