@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![Bike is racked and ready for tomorrow's race.](/assets/jpg/IMG_4118-977x550.jpeg MY SPOT IN TRANSITION)
 
 ## SUNDAY MAY 22 🌤
 Sleep **3** | Fatigue **4** | Stress **2** | Soreness **4**
@@ -152,10 +152,17 @@ Mobility 15 minutes
 ### NOTES
 Total Time: **0 Minutes**
 
+Very **troubling niggle** in my right foot, lateral side, likely the cuboid/calcaneus joint.  I stayed off it most of the day but then headed to _Elk Lake_ to get the lay of the land for the race on Sunday.
+
+I packed my open-water swim kit and was prepared to swim but that never happened.  I went through the motion of parking at the designated spot at _Beaver Lake_ and taking the shuttle bus over to the venue at _Hamsterly Beach_; timing the procedure.
+
+Athlete check-in had closed but I was able to get information on the modifications to the bike course, check out the transition layout before jumping on the shuttle back to the parking lot.
+
+I did not swim.  The late afternoon wind was up and whitecaps were forming on the lake.  I didn't see an opportunity for anything productive in the water.
 
 
 <!---->
-## SATURDAY MAY 28
+## SATURDAY MAY 28 🌦
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -169,6 +176,10 @@ Run 15 minutes EASY.
 Noon: Check in
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **30 Minutes**
 
-&mdash;  
+Made a big stack of my chocolate banana pancakes with walnuts for breakfast.  My right foot is still bothersome.
+
+I rode to the _Hamsterly Beach_ from the parking area, got checked in and then noodled around on the bike to burn off any pre-race vibes.  With my bike racked, I intended to walk then jog back to the parking lot but the conversation my right foot convinced me to just take the shuttle back; no 15 minute run this afternoon.
+
+It was home to organize for an early morning.
