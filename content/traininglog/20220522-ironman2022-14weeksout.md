@@ -156,16 +156,17 @@ Very **troubling niggle** in my right foot, lateral side, feels like it is the c
 
 If I thought what I felt on the jog [yesterday](javascript:flick('thu');) was going to lead to today, I would have walked.  It was raining an I was contemplating running the race in a pair of Nikes that I wore on the course last year during a virtual effort.  
 
-Given how my foot feels today, maybe that wasn't the best idea.  
+Given how my foot feels today, maybe that wasn't the best idea.
 
-I stayed off my feet most of the day but after work, headed to _Elk Lake_ to get the lay of the land.  
+Apart from that, I felt off today too.
 <!---->
+I stayed off my feet most of the day but after work, headed to _Elk Lake_ to get the lay of the land.  
+
 I went through the motion of parking at the designated spot at _Beaver Lake_ and taking the shuttle bus over to the venue at _Hamsterly Beach_; timing the procedure.
 
 Athlete check-in had just closed (1600) when I got to _Hamsterly Beach_.  I was able to get information on the modifications to the bike course, check out the transition layout before jumping back on the shuttle back to the parking lot.
 
-Even though I packed my open-water swim, I did not swim.  The late afternoon wind was up and whitecaps were forming on the lake.  I didn't see an opportunity for anything productive in the water.  I contemplated driving to _Crystal Pool_ to get wet but instead, I made my way home to cook pasta.
-
+Even though I packed my open-water swim kit, I did not swim.  The late afternoon wind was up and whitecaps were forming on the lake.  I didn't see an opportunity for anything productive in the water.  I contemplated driving to _Crystal Pool_ to get wet but instead, I made my way home to cook pasta.
 
 <!---->
 ## SATURDAY MAY 28 🌦
