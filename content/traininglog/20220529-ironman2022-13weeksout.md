@@ -43,7 +43,7 @@ Chip Time: **6:14:37**<br />
 Click [here](/racereports/) for the Race Report.
 
 <!---->
-## MONDAY MAY 30
+## MONDAY MAY 30 ☁️
 Sleep **3** | Fatigue **5** | Stress **3** | Soreness **6**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
