@@ -54,7 +54,7 @@ _Gingerly though because pseudo-running with cycling shoes kinda sucks with a bu
 
 Riding on _Old West Saanich Road_ and I am feeling good, maybe too good.  Lessons are still fresh from the training ride [8 days ago](/traininglog/ironman2022-15weeksout?sat) and I am careful enough not to cook things at the start.  I carry momentum where I need to and chilling out where extra effort would be of no benefit; pedalling my race bike is fun.
 
-Along the _Hunt Valley_ segment of the ride a young 24 year old, on a road bike, introduces himself to me.  I ask him if he is local to _Victoria_; his reply being _"No, Collingwood, Ontario_."   He heads up the road but on _Martindale_, I pass him back.
+Along the _Hunt Valley_ segment of the bike course, a young guy, 24 years old, on a road bike, introduces himself to me.  I ask him if he is local to _Victoria_; his reply being _"No, Collingwood, Ontario_."   He heads up the road but on _Martindale_, I pass him back.
 
 Just before _Mitchell Farms_, he goes by me once again, quite strongly too.  I am left thinking, _"He's got some legs, I won't be seeing him again."_
 
@@ -62,11 +62,11 @@ Back to the focus of riding my best ride.   I am staying on top of the sugar, dr
 
 Nailing the water bottle and gel hand-ups at every aid station makes for a fun game within a game.  Hitting garbage bins when disposing of empty bottles though, I am 2 of 3 on the day; something to work on.
 
-Riding up _Willis Point Road_ is all easy effort this morning.  In my opinion, the most important climb on this course is just after this one.  I am taking notes on the wind gusts and how riders are handling themselves on their way down.  I finally take the arm warmers off while riding up this hill.
+Riding up _Willis Point Road_ is all easy effort this morning.  This is the only out and back section of the course and the largest hill.  In my opinion though, the most important climb on this course is just after this one.  I am taking notes on the wind gusts and how riders are handling themselves on their way down.  The slow riding up this hill is my opportunity to take the arm warmers off.
 
-The roll back down _Willis Point Road_ is with a just bit more caution than on the previous hills; this morning is prime for an infamous local crosswind to pounce. 
+The roll back down _Willis Point Road_ is with a just bit more caution than on the previous hills; this morning is prime for an infamous local crosswind to pounce.  Today, I am lucky.
 
-The bike course turns northbound up _West Saanich Road_ after _Wallace Drive_.  A long line of motorists, hoping to go in the opposite direction is stopped by traffic control.  I see many frustrated drivers except for a woman who is out of her car to cheer on some triathletes; she even has a bell to ring.  This is the hill to conquer and for whatever reason, that bell makes pedalling up the grade easier.
+After _Wallace Drive_, the bike course turns northbound, up _West Saanich Road_ .  A long line of motorists, hoping to go in the opposite direction is stopped by traffic control.  I see many frustrated drivers except for a woman who is out of her car to cheer on some triathletes; she even has a bell to ring.  This is the hill to conquer and for whatever reason, that bell makes pedalling up the grade easier.
 
 Cresting the hill, I still cannot answer if I'd be able to comfortably run.  I am realizing that my day might only be these last ~20 minutes on the bike.  My decision is made; I start to turn that crank a little harder.
 
