@@ -61,25 +61,34 @@ Damage Report:
 * Adductors are sore/stiff
 
 <!---->
-## TUESDAY MAY 31
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY MAY 31 🌤
+Sleep **3** | Fatigue **5** | Stress **4** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Walk 30-45 minutes.  
+Mobility 30 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **16 Minutes** &nbsp; Walk: **1.14 km**
 
-&mdash;  
+That was as far as my pinkie toe could go.  I wore Altra shoes without socks as the socks were making things sore.
+
+I spent time in the garden to have light active time too.
+
+Triceps and adductors are still stiff.
 
 <!---->
-## WEDNESDAY JUN 1
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY JUN 1 🌤
+Sleep **4** | Fatigue **4** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Swim 1500: 
+2 rounds (100 easy free, 100 easy w/ buoy, 2x 50 steady kick. Rest as needed)
+4x 200 aerobic/steady odds: Swim, Evens: w/ buoy. R :30 after each. 
+2x 50 easy to cool down. 
+Ride 45 minutes easy on the way home.
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -92,7 +101,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Run 30 minutes EASY.   
+Mobility 25 minutes.
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -105,7 +115,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+MTB ~ 90 minutes. Fun is the goal. Ride where ever you like.  
+Mobility 15 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
