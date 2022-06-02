@@ -79,7 +79,7 @@ I spent time in the garden to have light active time too.
 Triceps and adductors are still stiff.
 
 <!---->
-## WEDNESDAY JUN 1 🌤
+## WEDNESDAY JUN 1 ☁️
 Sleep **4** | Fatigue **4** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -91,13 +91,17 @@ Swim 1500:
 Ride 45 minutes easy on the way home.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Swim: **1500m**
 
-&mdash;  
+I drove to the pool this afternoon after putting my foot into a cycling shoe (not ready, but close).
+
+In the pool though, things were good to go and I contemplated swimming more than 1500m.  In the end, I stuck to the plan but put in a little extra focus/effort into the workout.
+
+I did some light work around the yard for the balance of the afternoon and early evening.
 
 <!---->
-## THURSDAY JUN 2
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY JUN 2 🌤
+Sleep **4** | Fatigue **2** | Stress **3** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -107,7 +111,7 @@ Mobility 25 minutes.
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+The yard work [yesterday](javascript:flick('wed');) means allergy congestion this morning.  I didn't feel like I slept well either.  The rest of my body is feeling recovered apart from some stiffness in the QL and of course, my left pinkie toe (a lot less swollen this morning).
 
 <!---->
 ## FRIDAY JUN 3
