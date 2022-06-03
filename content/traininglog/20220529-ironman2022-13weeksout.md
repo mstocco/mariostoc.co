@@ -109,23 +109,31 @@ Run 30 minutes EASY.
 Mobility 25 minutes.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **30 Minutes** &nbsp; Rollers: **easy effort**
 
 The yard work [yesterday](javascript:flick('wed');) means allergy congestion this morning.  I didn't feel like I slept well either.  The rest of my body is feeling recovered apart from some stiffness in the QL and of course, my left pinkie toe (a lot less swollen this morning).
 
+I tested out my foot in my widest cycling shoes on the rollers.  I got in an easy spin of 30 minutes without much discomfort.
+
 <!---->
-## FRIDAY JUN 3
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY JUN 3 🌧
+Sleep **3** | Fatigue **2** | Stress **4** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-MTB ~ 90 minutes. Fun is the goal. Ride where ever you like.  
+Swim 2000: 
+200 easy free. 
+4 rounds (50 Paddle-fist r :15, 100 swim w/ focus on catch r :20) 
+4x 50 as 25 strong/fast/25 relaxed/smooth. R :20. 
+8x 100 descend 1-4, 5-8 as 1: Easy, 4: 1500 effort. R :20. 
+4x 50 as 25 backstroke/25 easy free to cool down.
+
 Mobility 15 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Pinkie toe is a bit better again today but not close for running.
 
 <!---->
 ## SATURDAY JUN 4
@@ -133,7 +141,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Rollers ~ 60 minutes. EASY riding.  
+Mobility 15 minutes  
 
 ### NOTES
 Total Time: **0 Minutes**
