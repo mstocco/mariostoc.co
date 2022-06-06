@@ -41,8 +41,8 @@ Half of the first 45 and most of the last 15 minutes were on the aero-bars and I
 Watched a replay of the start of the Sub7/Sub8 event held earlier today. 
 
 <!---->
-## MONDAY JUN 6
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## MONDAY JUN 6 ⛅️
+Sleep **3** | Fatigue **2** | Stress **3** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -59,7 +59,8 @@ Swim 2800:
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+I woke up feeling rested but slept in an awkward enough of a position that my back is tight this morning.
+
 
 <!---->
 ## TUESDAY JUN 7
