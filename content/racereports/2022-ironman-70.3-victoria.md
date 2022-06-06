@@ -108,3 +108,8 @@ Just up the trail, I pass a familiar coloured tri-suit. _"Let's go Collingwood, 
 Running with a new buddy is just the ticket for trip back to the south end of the run course.  My knee is aching from the fall.  My toe is aching from pretty much, all day but the comradery with Collingwood over the next ~5km is great.  We share stories about our new triathlon journeys and I can't help but think about how I could have, should have, started mine at 24 years old.
 
 Finish line is in sight.  I raise my arms up and attempt a flex.  Maybe not my fastest time but a certainly a time that I can say that I conquered.
+
+### FINISH: 6:14:37
+
+And the pinkie toe... 
+Acute oblique undisplaced fracture through the mid/distal shaft of the left fifth proximal phalanx. No intra-articular extension.
