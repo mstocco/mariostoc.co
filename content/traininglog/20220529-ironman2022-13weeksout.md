@@ -7,12 +7,15 @@ Week beginning [Sunday, May 29, 2022](javascript:flick('sun');)
 Recover from an unlucky start to 13 weeks out...
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **9.5 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **RECUPERATING**
 
-&mdash;
+Rough day at the office on [Sunday](javascript:flick('sun');) where before I left the house, I broke the pinkie toe on my left foot.
+
+Spoiler alert in case you haven't read my [race report](/racereports/2022-ironman-70.3-victoria), but I crossed the finish line regardless.  Most of the week was recovery from the race, the back half of the week was making sure that I don't push things and re-break that toe.
+
+I know it's highly likely that it will break again at some point but the longer I can put that off, the better it will heal.  Just need to balance healing a little toe without loosing fitness.
 
 ![First trip to a hospital for myself since 1998; had X-Rays taken for an unfortunate broken toe.](/assets/jpg/IMG_4127-977x550.jpeg SIKORSKY S76 - VICTORIA GENERAL HOSPITAL)
 
@@ -40,7 +43,7 @@ Chip Time: **6:14:37**<br />
 <span class="agencyvc" style="font-size:0.9em;">RUN &mdash; 2:12:43 &mdash; 6:18/km pace</span><br />
 <span style="font-size:0.8em">71<sup>st</sup> M50-54 &nbsp; 745<sup>th</sup> by Gender &nbsp; 1049<sup>th</sup> Overall</span>
 
-Click [here](/racereports/) for the Race Report.
+Click [here](/racereports/2022-ironman-70.3-victoria) for the Race Report.
 
 <!---->
 ## MONDAY MAY 30 ☁️
@@ -131,13 +134,15 @@ Swim 2000:
 Mobility 15 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **46 Minutes** &nbsp; Swim: **2000m**
 
-Pinkie toe is a bit better again today but not close for running.
+Pinkie toe is a bit better again today but it is not close for running.
+
+Swimming felt good (easy) but the kicking while on my back was bothersome for my pinkie toe.  I did just one 25m length of backstroke during the cooldown.  I did the next couple of 50m lengths of the cooldown wearing the paddles on my hands (first time) before just a 50m free to wrap up.  I see their benefit but don't know how some base their swim workouts exclusively with them.
 
 <!---->
-## SATURDAY JUN 4
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY JUN 4 🌧
+Sleep **2** | Fatigue **2** | Stress **2** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -145,6 +150,8 @@ Rollers ~ 60 minutes. EASY riding.
 Mobility 15 minutes  
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **60 Minutes**
 
-&mdash;  
+I think the hardest part is the pressure from the saddle for an hour.  40 minutes on the aerobars (not continuously).  Watched a replay of the 2022 Ironman Copenhagen race (bike to run).
+
+The foot was ok in the cycling shoes.
