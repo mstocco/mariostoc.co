@@ -49,7 +49,7 @@ Rounding the final turn for home, my rhythm is good, things feel super easy, eve
 
 Standing up and getting out of the water is a non-issue; no wobbles, no cold water headache.  I am pretty happy to finally have the use of both eyes.  I can feel my heart-rate while jogging up to transition.  Breathe.
 
-![](/assets/jpg/IMG_1171-392x550.jpg SWIM: 37:41)
+![](/assets/jpg/IMG_1171-392x550.jpeg SWIM: 37:41)
 <div style="height:27px;"></div>
 I take one last look at the weather.  To the south, a building westerly is turning a marine layer into ominously dark clouds over _Victoria_.  Experience tells me to the north, up the _Saanich Peninsula_, the weather should be pretty good.  Arm warmers and my Gabba (cycling top) but no gloves, no tights.  Helmet is on, let's go!
 
