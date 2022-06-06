@@ -7,14 +7,14 @@ Week beginning [Sunday, March 20, 2022](javascript:flick('sun');)
 To get as much as I can in; company is coming...
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **12.5 Hours**
 
 I feel like I was...
 <br /><sup>(completed at the end of the week)</sup>
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![Family from Thunder Bay, Ontario is in for a visit.  On Friday, the weather was great and we went for a hike.](/assets/jpg/IMG_4033-977x550.jpeg GOWLAND TOD PROVINCIAL PARK)
 
 ## SUNDAY MAR 20 🌧
 Sleep **3** | Fatigue **5** | Stress **4** | Soreness **4**
@@ -66,10 +66,11 @@ Option A: 55 minutes, easy running. Followed by 8x :20 strides (NOT sprints) :40
 Option B: 65 minutes, easy/controlled/moderate for most of the run, and building effort over the final 5-10 minutes.  
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **61 Minutes** &nbsp; Run: **10 km**
 
 Slept in today (0730).
 
+Ran with Yauki and Vincent around _Portage Inlet_ this afternoon.
 <!---->
 ## WEDNESDAY MAR 23
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
@@ -86,7 +87,7 @@ Swim 2400:
 Ride 1:00-1:15 on the way home. Easy effort. Have fun. Stay warm.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **128 Mins** &nbsp;Swim: **2400m** &nbsp;Ride: **24 km**
 
 &mdash;  
 
@@ -100,9 +101,9 @@ am: Run 45 minutes EASY.
 Mobility 15 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+<mark>Total Time: **0 Minutes** </mark>
 
-&mdash;  
+Company is in town.
 
 <!---->
 ## FRIDAY MAR 25
@@ -117,9 +118,9 @@ Swim 2400:
 4x 50 EASY to cool down.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **6 Hours** &nbsp;Swim: **2400m** &nbsp;Hike: **10 km**
 
-&mdash;  
+Hike up to and around _Jocelyn Hill_ with family. 
 
 <!---->
 ## SATURDAY MAR 26
@@ -130,6 +131,6 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 &mdash;  
 
 ### NOTES
-Total Time: **0 Minutes**
+<mark>Total Time: **0 Minutes** </mark>
 
-&mdash;  
+Family trip up to Duncan.  
