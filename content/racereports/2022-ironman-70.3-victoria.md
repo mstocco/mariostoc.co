@@ -49,7 +49,7 @@ Rounding the final turn for home, my rhythm is good, things feel super easy, eve
 
 Standing up and getting out of the water is a non-issue; no wobbles, no cold water headache.  I am pretty happy to finally have the use of both eyes.  I can feel my heart-rate while jogging up to transition.  Breathe.
 
-<!---->
+![](/assets/jpg/IMG_1171-392x550.jpg SWIM: 37:41)
 <div style="height:27px;"></div>
 I take one last look at the weather.  To the south, a building westerly is turning a marine layer into ominously dark clouds over _Victoria_.  Experience tells me to the north, up the _Saanich Peninsula_, the weather should be pretty good.  Arm warmers and my Gabba (cycling top) but no gloves, no tights.  Helmet is on, let's go!
 
@@ -67,7 +67,8 @@ Back to the focus of riding my best ride.   I am staying on top of the sugar, dr
 
 Nailing the water bottle and gel hand-ups at every aid station makes for a fun game within a game.  Hitting garbage bins when disposing of empty bottles though, I am 2 of 3 on the day; something to work on.
 
-<!---->
+![Approaching Tulista Park near Sidney](/assets/jpg/IMG_1172-392x550.jpeg BIKE: 3:10:28)
+
 <div style="height:27px;"></div>
 Riding up _Willis Point Road_ is all easy effort this morning.  This is the only out and back section of the course and the largest hill.  In my opinion though, the most important climb on this course is just after this one.  I am taking notes on the wind gusts and how riders are handling themselves on their way down.  The slow riding up this hill is my opportunity to take the arm warmers off.
 
@@ -113,3 +114,5 @@ Finish line is in sight.  I raise my arms up and attempt a flex.  Maybe not my f
 
 And the pinkie toe... 
 Acute oblique undisplaced fracture through the mid/distal shaft of the left fifth proximal phalanx. No intra-articular extension.
+
+![First official 70.3 done.](/assets/jpg/IMG_1173-392x550.jpeg RUN: 2:14:43)
