@@ -67,7 +67,8 @@ After _Wallace Drive_, the bike course turns northbound, up _West Saanich Road_ 
 
 Cresting the hill, I still cannot answer if I'd be able to comfortably run.  I am realizing that my day might only be these last ~20 minutes on the bike.  My decision is made; I start to turn that crank a little harder.
 
-On the final segments of the bike course, I am passing lots and lots of riders; many looking like they are done and wanting off their bikes.  Me? I am having a blast! 
+On the final segments of the bike course, I am passing lots and lots of riders; many looking like they are done and wanting off their bikes.   
+Me? I am having a blast! 
 
 <!---->
 <div style="height:1px;"></div>
@@ -91,9 +92,9 @@ It starts with a gurgle, then a bit of a pucker.
 
 Going through the aid station at the south end of the run course, I grab a bit of water.  Nothing with calories; it's time to play things safe.  I count a 2 deep line for the port-o-johns so I press on. Concerns about my sore toe being a limiter are replaced with the threatening condition of a brewing gastrointestinal event.
 
-The next aid station is no longer an option but hats off for local course knowledge.  A short, 70m detour up a hill at the _Beaver Lake Nature Centre_ led me to the public facilities.  Inside, I have the whole place to myself.  Everything is spotless, a fresh porcelain bowl, and a sink, a mirror and warm running water to freshen up with.  It was as if the parks dept. was just in there to clean too!
+The next aid station is no longer an option but hats off for local course knowledge.  A short, 70m detour up a hill at the _Beaver Lake Nature Centre_ led me to the public facilities.  Inside, I have the whole place to myself.  Everything is spotless, a fresh porcelain bowl, and a sink, a mirror and warm running water to freshen up with.  It was as if the Parks Dept. was just in there to clean too!
 
-Feeling like a new man, I am back on the trail.  
+Feeling like a new man, I am back on the trail.
 
 <!---->
 <div style="height:1px;"></div>
