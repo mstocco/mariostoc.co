@@ -46,8 +46,6 @@ Sleep **3** | Fatigue **2** | Stress **3** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Easy spin to/from pool.
-
 Swim 2800: 
 200 easy free. 
 4 rounds (50 steady kick r :10, 100 aerobic w/ focus on steady turnover :20) 
@@ -57,7 +55,7 @@ Swim 2800:
 2x 50 EASY to cool down.
 
 ### NOTES
-Total Time: **60 Minutes** &nbsp; Swim: **2800m** &larr;solid!
+Total Time: **60 Minutes** &nbsp; Swim: **2800m** <span style="color:red;">&larr;solid</span>
 
 I woke up feeling rested but slept in an awkward enough of a position that my back is tight this morning.
 ![Swim](/assets/jpg/swim-20220606.jpeg)
