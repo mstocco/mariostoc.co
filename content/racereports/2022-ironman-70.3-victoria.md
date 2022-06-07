@@ -112,6 +112,8 @@ Finish line is in sight.  I raise my arms up and attempt a flex.  Maybe not my f
 
 ### FINISH: 6:14:37
 
+---
+
 And the pinkie toe... 
 Acute oblique undisplaced fracture through the mid/distal shaft of the left fifth proximal phalanx. No intra-articular extension.
 
