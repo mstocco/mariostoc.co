@@ -57,13 +57,10 @@ Swim 2800:
 2x 50 EASY to cool down.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **60 Minutes** &nbsp; Swim: **2800m** &larr;solid!
 
 I woke up feeling rested but slept in an awkward enough of a position that my back is tight this morning.
-
-This may have been my best swim workout to date.
 ![Swim](/assets/jpg/swim-20220606.jpeg)
-
 
 <!---->
 ## TUESDAY JUN 7
