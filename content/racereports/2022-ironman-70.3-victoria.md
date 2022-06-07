@@ -38,7 +38,7 @@ While the first trip to the far end the lake had yellow buoys numbered in ascend
 Getting vertical and out of the water is a non-issue; no wobbles, no cold water headache and I can finally see with both eyes.  I can feel my heart-rate while jogging up to transition.  Breathe.
 
 
-![](/assets/jpg/IMG_1171-392x550.jpeg SWIM: 37:41)
+![The last 1500m was good.](/assets/jpg/IMG_1171-392x550.jpeg SWIM: 37:41)
 <div style="height:1px;"></div>
 I take one last look at the weather.  To the south, a building westerly is turning a marine layer into ominously dark clouds over _Victoria_.  Experience tells me to the north, up the _Saanich Peninsula_, the weather should be pretty good.  Arm warmers and my Gabba (cycling top) but no gloves, no tights.  Helmet is on, let's go!
 
@@ -58,7 +58,7 @@ Nailing the water bottle and gel hand-ups at every aid station makes for a fun g
 
 Riding up _Willis Point Road_ is all easy effort this morning.  This is the only out and back section of the course and the largest hill.  In my opinion though, the most important climb on this course is just after this one.  I am taking notes on the wind gusts and how riders are handling themselves on their way down.  The slow riding up this hill is my opportunity to take the arm warmers off.
 
-![Approaching Tulista Park near Sidney](/assets/jpg/IMG_1172-392x550.jpeg BIKE: 3:10:28)
+![Approaching Tulista Park, dropped by Collingwood](/assets/jpg/IMG_1172-392x550.jpeg BIKE: 3:10:28)
 <div style="height:1px;"></div>
 
 The roll back down _Willis Point Road_ is with a just bit more caution than on the previous hills; this morning is prime for an infamous local crosswind to pounce.  Today, I am lucky.

@@ -61,8 +61,8 @@ I woke up feeling rested but slept in an awkward enough of a position that my ba
 ![Swim](/assets/jpg/swim-20220606.jpeg)
 
 <!---->
-## TUESDAY JUN 7
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY JUN 7 ☀️
+Sleep **4** | Fatigue **2** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -73,9 +73,11 @@ Easy riding. A few rollers are ok, but no major hills. Looking to keep the press
 Optional: Grass/Barefoot walk ~ 5-45 minutes. If pain in the toe, stop
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Ride: **0 km**
 
-&mdash;  
+Took half of an allergy pill before bed and that wrecked my sleep; won't do that again.
+
+Pinkie toe is feeling better today.
 
 <!---->
 ## WEDNESDAY JUN 8
