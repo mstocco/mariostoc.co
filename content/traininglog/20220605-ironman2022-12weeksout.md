@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![Cytisus scoparius, a.k.a. Scotch broom, makes this trail more narrow.](/assets/jpg/IMG_4131-977x550.jpeg SCAFE HILL TRAIL)
 
 ## SUNDAY JUN 5 🌧
 Sleep **2** | Fatigue **2** | Stress **2** | Soreness **5**
@@ -61,7 +61,7 @@ I woke up feeling rested but slept in an awkward enough of a position that my ba
 ![Swim](/assets/jpg/swim-20220606.jpeg)
 
 <!---->
-## TUESDAY JUN 7 ☀️
+## TUESDAY JUN 7 🌤
 Sleep **4** | Fatigue **2** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -73,15 +73,17 @@ Easy riding. A few rollers are ok, but no major hills. Looking to keep the press
 Optional: Grass/Barefoot walk ~ 5-45 minutes. If pain in the toe, stop
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Ride: **0 km**
+Total Time: **95 Minutes** &nbsp; Ride: **24 km** <small>&uarr;394m </small>
 
 Took half of an allergy pill before bed and that wrecked my sleep; won't do that again.
 
-Pinkie toe is feeling better today.
+For the ride, I took my 29er for a run up [Scafe Hill](javascript:flkty.select(2);), with a bit of single track for good measure.  I feel like the bit of hill work, plus the extra it takes to pedal the XC bike vs the Road/TT bikes was good stimulus for the time invested.
+
+The joint around my pinkie toe feels tired at the end of the day.
 
 <!---->
-## WEDNESDAY JUN 8
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY JUN 8 ⛅️
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -95,9 +97,9 @@ Swim 2800:
 Mobility 25 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Swim: **0m**
 
-&mdash;  
+Woke up with a tight lumbar, frustrating.
 
 <!---->
 ## THURSDAY JUN 9
