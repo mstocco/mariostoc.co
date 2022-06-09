@@ -34,7 +34,7 @@ Optional: Grass/Barefoot walk ~ 5-30 minutes. If pain in the toe, stop.
 ### NOTES
 Total Time: **90 Minutes** &nbsp; Bike Workout: **rollers**
 
-I propped up the rear rollers to get my bike closer to level.  That helped with the pressure felt from the session [yesterday](ironman2022-13weeksout?sat).  If I was paying closer attention, I would have set up the trainer instead.
+I propped up the rear rollers to get my bike closer to level.  That helped with the pressure felt from the session [yesterday](ironman2022-13weeksout?sat).  If I was paying attention, I would have set up the trainer instead.
 
 Half of the first 45 and most of the last 15 minutes were on the aero-bars and I was on the base bar for the cadence reps.
 
@@ -77,7 +77,7 @@ Total Time: **95 Minutes** &nbsp; Ride: **24 km** <small>&uarr;394m </small>
 
 Took half of an allergy pill before bed and that wrecked my sleep; won't do that again.
 
-For the ride, I took my 29er for a run up [Scafe Hill](javascript:flkty.select(2);), with a bit of single track for good measure.  I feel like the bit of hill work, plus the extra it takes to pedal the XC bike vs the Road/TT bikes was good stimulus for the time invested.
+I took my Rocky Mountain for a run up [Scafe Hill](javascript:flkty.select(2);), with a bit of single track for good measure.  I feel like the bit of hill work, plus the extra it takes to pedal the XC bike vs the Road/TT bikes was **good stimulus** for the time invested.
 
 The joint around my pinkie toe feels tired at the end of the day.
 
@@ -97,10 +97,13 @@ Swim 2800:
 Mobility 25 minutes
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Swim: **0m**
+Total Time: **~80 Minutes** &nbsp; Swim: **2800m**
 
-Woke up with a tight lumbar, frustrating.
+Woke up (late) with a tight lumbar, frustrating.  If I was to listen to my body, I would have gone down for a nap at 1500, but there really is no option to bump today's swim until tomorrow with another 2900m scheduled for Friday.  I jumped on my mountain bike an pedalled to the pool.
 
+First 300m proved to have fatigue in my lats but I found a bit of a rhythm after that.  I messed up the 7 x 200m rounds by swimming just 25m easy in between.  I caught my mental gaffe on the seventh rep and after the "cooldown", I ripped off another 150m to make up the shortfall.
+
+Pinkie toe and surrounding area are tired and a bit sore after the swim today.
 <!---->
 ## THURSDAY JUN 9
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
