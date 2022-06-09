@@ -73,7 +73,7 @@ Easy riding. A few rollers are ok, but no major hills. Looking to keep the press
 Optional: Grass/Barefoot walk ~ 5-45 minutes. If pain in the toe, stop
 
 ### NOTES
-Total Time: **95 Minutes** &nbsp; Ride: **24 km** <small>&uarr;394m </small>
+Total Time: **95 Minutes** &nbsp; Ride: **24 km** <small> **&uarr;&darr;394m** </small>
 
 Took half of an allergy pill before bed and that wrecked my sleep; won't do that again.
 
@@ -114,8 +114,8 @@ Noted before leaving the pool, my pinkie toe and surrounding area are tired and 
 
 
 <!---->
-## THURSDAY JUN 9
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY JUN 9 🌧
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -128,7 +128,7 @@ Optional: Grass/Barefoot walk ~ 5-60 minutes. If pain in the toe, stop
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Better sleep last night though I am in the depths of hay fever season (typically starts in May).
 
 <!---->
 ## FRIDAY JUN 10
