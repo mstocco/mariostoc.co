@@ -99,11 +99,19 @@ Mobility 25 minutes
 ### NOTES
 Total Time: **~80 Minutes** &nbsp; Swim: **2800m**
 
-Woke up (late) with a tight lumbar, frustrating.  If I was to listen to my body, I would have gone down for a nap at 1500, but there really is no option to bump today's swim until tomorrow with another 2900m scheduled for Friday.  I jumped on my mountain bike an pedalled to the pool.
+Woke up (late) with a tight lumbar, frustrating.
 
+If I was listening to my body, I would have gone down for a nap this afternoon, but there really is no option to bump today's swim until tomorrow with another 2900m scheduled for Friday.  After work, I jumped on my mountain bike and pedalled to the pool.
+<!---->
+<div style="height:27px;"></div>
 First 300m proved to have fatigue in my lats but I found a bit of a rhythm after that.  I messed up the 7 x 200m rounds by swimming just 25m easy in between.  I caught my mental gaffe on the seventh rep and after the "cooldown", I ripped off another 150m to make up the shortfall.
 
+![Swim](/assets/jpg/swim-20220608.jpeg)
+Overall, this may not have been the swim that I had on [Monday](javascript:flick('mon');), but I had moments during the 200m sets where I was feeling good.  2pm is still the best time to swim at Crystal Pool as far as lane space is concerned.
+
 Pinkie toe and surrounding area are tired and a bit sore after the swim today.
+
+
 <!---->
 ## THURSDAY JUN 9
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
