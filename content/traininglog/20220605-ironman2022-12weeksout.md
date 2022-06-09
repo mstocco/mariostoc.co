@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![Cytisus scoparius, a.k.a. Scotch broom, makes this trail more narrow.](/assets/jpg/IMG_4131-977x550.jpeg SCAFE HILL TRAIL)
+![Cytisus scoparius, a.k.a. Scotch broom, is making this once open trail at lot more narrow.](/assets/jpg/IMG_4131-977x550.jpeg SCAFE HILL TRAIL)
 
 ## SUNDAY JUN 5 🌧
 Sleep **2** | Fatigue **2** | Stress **2** | Soreness **5**
@@ -73,7 +73,7 @@ Easy riding. A few rollers are ok, but no major hills. Looking to keep the press
 Optional: Grass/Barefoot walk ~ 5-45 minutes. If pain in the toe, stop
 
 ### NOTES
-Total Time: **95 Minutes** &nbsp; Ride: **24 km** <small> **&uarr;&darr;394m** </small>
+Total Time: **95 Minutes** &nbsp; Ride: **24 km** &nbsp;<small> **&uarr;&darr;**394m </small>
 
 Took half of an allergy pill before bed and that wrecked my sleep; won't do that again.
 
