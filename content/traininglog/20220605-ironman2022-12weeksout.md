@@ -13,7 +13,7 @@ I feel like I was **CAREFUL**
 
 Almost a 13 hour week without running or walking.  My toe is still sore and feeling precarious.  Walking barefoot is fine, anything with a shoe is still bothersome.  I almost went for a test run on [Friday](javascript:flick('fri');) but simply wearing running shoes in the house for an hour or so made me realize that it may be too soon.
 
-Solid week in the pool for a total of 8400m and I was on my Rocky Mountain for the first time in a long time.  Commuting on its to and from the pool adds effort and I took it up [Scafe Hill](javascript:flkty.select(2);) on [Tuesday](javascript:flick('tue');).
+Solid week in the pool for a total of 8400m and I was on my Rocky Mountain for the first time in a long time.  Commuting with that bike to and from the pool adds effort and I took it up [Scafe Hill](javascript:flkty.select(2);) on [Tuesday](javascript:flick('tue');).
 
 ![Cytisus scoparius, a.k.a. Scotch broom, is making this once open trail at lot more narrow.](/assets/jpg/IMG_4131-977x550.jpeg SCAFE HILL TRAIL)
 
