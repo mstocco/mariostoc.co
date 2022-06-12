@@ -188,6 +188,6 @@ Kinda gross.
 <div style="height:27px;"></div>
 I felt pretty good racing past the airport in the aero position after a couple hours of riding, fatigue in my lumbar started to build while heading for home.  An expected headwind turned into a descent crosswind (westerly) for the most of the trip south.
 
-Good stimulus in the legs after this one.  My pinkie toe went numb later in the ride and was sore after taking off my shoes.
+My pinkie toe went numb later in the ride and was sore after taking off my shoes.
 
 ![Bike](/assets/jpg/bike-20220611.jpeg)
