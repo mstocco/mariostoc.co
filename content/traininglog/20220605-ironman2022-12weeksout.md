@@ -78,7 +78,7 @@ Took half of an allergy pill before bed and that wrecked my sleep; won't do that
 
 I took the Rocky Mountain for a spin up and over [Scafe Hill](javascript:flkty.select(2);), with a bit of single track for good measure.  I feel like the bit of hill work, plus the extra it takes to pedal the XC bike vs the Road/TT bikes was **good stimulus** for the time invested.
 
-The joint around my pinkie toe feels tired at the end of the day.
+The joint around my pinkie toe feels tired.
 
 <!---->
 ## WEDNESDAY JUN 8 ⛅️
@@ -188,6 +188,6 @@ Kinda gross.
 <div style="height:27px;"></div>
 I felt pretty good racing past the airport in the aero position after a couple hours of riding but fatigue in my lumbar started to build on _Lochside Drive_ heading for home.  I sat up and pedalled easy for the  of the time.  My tailwind on the ride north turned into a descent crosswind (westerly) for the most of the trip south.
 
-Good stimulus in the legs after this one.  No need for the Observatory hill (this time).  My pinkie toe went numb later in the ride and was sore after taking off my shoes.
+Good stimulus in the legs after this one.  My pinkie toe went numb later in the ride and was sore after taking off my shoes.
 
 ![Bike](/assets/jpg/bike-20220611.jpeg)
