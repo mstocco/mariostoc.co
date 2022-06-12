@@ -4,10 +4,10 @@ Week beginning [Sunday, June 5, 2022](javascript:flick('sun');)
 **12** weeks out from race day.
 
 ## WEEKLY GOAL
-Patiently build some time while the pinkie toe mends
+Patiently build time while the pinkie toe mends
 
 ## SUMMARY
-Total Time: **12.75 Hours** <small>(NO RUNNING)</small>
+Total Time: **12.75 Hours** <small style="color:red;">(NO RUNNING)</small>
 
 I feel like I was **CAREFUL**
 
@@ -38,8 +38,6 @@ Total Time: **90 Minutes** &nbsp; Bike Workout: **rollers**
 I propped up the rear rollers to get my bike closer to level.  That helped with the pressure felt from the session [yesterday](ironman2022-13weeksout?sat).  If I was paying attention, I would have set up the trainer instead.
 
 Half of the first 45 and most of the last 15 minutes were on the aero-bars and I was on the base bar for the cadence reps.
-
-Watched a replay of the start of the Sub7/Sub8 event held earlier today. 
 
 <!---->
 ## MONDAY JUN 6 ⛅️
@@ -130,7 +128,9 @@ Total Time: **108 Minutes** &nbsp; Ride: **rollers**
 
 Better sleep last night though I am in the depths of hay fever season (typically starts in May).
 
-I set up my bike computer to alert me every 15 minutes to give me a timed, one minute off the saddle and water break.  This and the fact that I have the rear rollers shimmed up works to make the saddle time less pronounced.  I watched a bit of the 2021 IMC race and a bit of the 2021 IM Frankfurt race (men's bike).
+I set up my bike computer to alert me every 15 minutes to give me a timed, one minute off the saddle and water break.  This and the fact that I have the rear rollers shimmed up works to make the saddle time less pronounced.
+
+I watched a bit of the 2021 IMC race and a bit of the 2021 IM Frankfurt race (men's bike).
 
 <!---->
 ## FRIDAY JUN 10 ⛅️
@@ -170,8 +170,11 @@ Mobility 30 minutes
 ### NOTES
 Total Time: **185 Minutes** &nbsp; Ride: **80 km**
 
-Solid sleep last night but my pinkie toe is still a bit bothered.  Took half a _Reactine_ allergy pill before doing some yard work today.  That held off the congestion/sneezing over the course of the day but motivation to ride became an issue as the day wore on.
+Solid sleep last night but my pinkie toe is still a bit bothered.
 
+Took half a _Reactine_ allergy pill before doing some yard work today.  That held off the congestion/sneezing over the course of the day but motivation to ride became an issue as the day wore on.
+<!---->
+<div style="height:27px;"></div>
 Finally, I put 70g of lemonade mix into a aero bottle, filled up two more 750ml bottles with water and headed up the _Saanich Peninsula_.  Pretty standard fair for the ride, in and out of the aero position (more in the beginning, a little less during the final hour).  A bit of a tailwind on the way north but once in _Sidney_, the wind had stopped and there were showers present.  _Land End Road_ was a wet and rainy experience.
 
 The trip south dried out.  First time ever, a bee flew into and got lodged in my left ear.  I was pretty freaked out as I was in the aero-bars, north of 38kph and that little guy was probably going the same from the other direction.  My first attempt to flick him out of my ear failed and he was still stuck after a couple violent head shakes.  My second attempt to dig him out proved fatal, for him, as I heard and felt the squish of his body turn into wet mass of goo.  Gross.
