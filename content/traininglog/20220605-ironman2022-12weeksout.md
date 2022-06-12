@@ -150,9 +150,9 @@ Optional: Walk or possible run. We'll see. Don't expect a run, but it is possibl
 ### NOTES
 Total Time: **65 Minutes** &nbsp; Swim: **2800m** 
 
-Weird moment riding on Douglas on the way to the pool this morning; some deranged guy thought he'd attempt to tackle me on my bike.  Idiot.
+Weird moment riding on Douglas on the way to the pool this morning; some deranged guy thought he'd attempt to tackle me on my bike.
 
-In the pool, got the first 900m set done before the swim clubs arrived (50m lane all to myself).
+In the pool, got the first 900m set done before the swim clubs arrived (50m lane all to myself).  Lane congestion afterwards was not bad this morning.
 
 <!---->
 ## SATURDAY JUN 11 ⛅️
@@ -175,10 +175,15 @@ Solid sleep last night but my pinkie toe is still a bit bothered.
 Took half a _Reactine_ allergy pill before doing some yard work today.  That held off the congestion/sneezing over the course of the day but motivation to ride became an issue as the day wore on.
 <!---->
 <div style="height:27px;"></div>
-Finally, I put 70g of lemonade mix into a aero bottle, filled up two more 750ml bottles with water and headed up the _Saanich Peninsula_.  Pretty standard fair for the ride, in and out of the aero position (more in the beginning, a little less during the final hour).  A bit of a tailwind on the way north but once in _Sidney_, the wind had stopped and there were showers present.  _Land End Road_ was a wet and rainy experience.
+Finally, I put 70g of lemonade mix into a aero bottle, filled up two more 750ml bottles with water and headed up the _Saanich Peninsula_.
+
+Pretty standard fair for the ride, in and out of the aero position (more in the beginning, a little less during the final hour).  A bit of a tailwind on the way north but once in _Sidney_, the wind had stopped and there were showers present.  _Land End Road_ was a wet and rainy experience.
 
 The trip south dried out.  First time ever, a bee flew into and got lodged in my left ear.  I was pretty freaked out as I was in the aero-bars, north of 38kph and that little guy was probably going the same from the other direction.  My first attempt to flick him out of my ear failed and he was still stuck after a couple violent head shakes.  My second attempt to dig him out proved fatal, for him, as I heard and felt the squish of his body turn into wet mass of goo.  Gross.
-
+<!---->
+<div style="height:27px;"></div>
 I felt pretty good racing past the airport in the aero position after a couple hours of riding but fatigue in my lumbar started to build on _Lochside Drive_ heading for home.  I sat up and pedalled easy for the  of the time.  My tailwind on the ride north turned into a descent crosswind (westerly) for the most of the trip south.
 
 Good stimulus in the legs after this one.  No need for the Observatory hill (this time).  My pinkie toe went numb and was sore after taking off my shoes.
+
+[Bike](/assets/jpg/image.jpg)
