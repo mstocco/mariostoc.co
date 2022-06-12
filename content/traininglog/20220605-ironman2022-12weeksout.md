@@ -13,7 +13,7 @@ I feel like I was **CAREFUL**
 
 Almost a 13 hour week without running or walking.  My toe is still sore and feeling precarious.  Walking barefoot is fine, anything with a shoe is still bothersome.  I almost went for a test run on [Friday](javascript:flick('fri');) but simply wearing running shoes in the house for an hour or so made me realize that it may be too soon.
 
-Solid week in the pool for a total of 8400m and I was on my Rocky Mountain for the first time in a long time.  Commuting with that bike to and from the pool adds effort and I took it up [Scafe Hill](javascript:flkty.select(2);) on [Tuesday](javascript:flick('tue');).
+Solid week in the pool for a total of 8400m and I was on my Rocky Mountain for the first time in a long time.  Commuting with that bike to and from the pool adds effort and I took it up [Scafe Hill](javascript:flkty.select(2);) on [Tuesday](javascript:flick('tue');) for some _"off-roading"_.
 
 ![Cytisus scoparius, a.k.a. Scotch broom, is making this once open trail at lot more narrow.](/assets/jpg/IMG_4131-977x550.jpeg SCAFE HILL TRAIL)
 
@@ -76,7 +76,7 @@ Total Time: **95 Minutes** &nbsp; Ride: **24 km** &nbsp;<small> **&uarr;&darr;**
 
 Took half of an allergy pill before bed and that wrecked my sleep; won't do that again.
 
-I took my Rocky Mountain for a spin up [Scafe Hill](javascript:flkty.select(2);), with a bit of single track for good measure.  I feel like the bit of hill work, plus the extra it takes to pedal the XC bike vs the Road/TT bikes was **good stimulus** for the time invested.
+I took the Rocky Mountain for a spin up and over [Scafe Hill](javascript:flkty.select(2);), with a bit of single track for good measure.  I feel like the bit of hill work, plus the extra it takes to pedal the XC bike vs the Road/TT bikes was **good stimulus** for the time invested.
 
 The joint around my pinkie toe feels tired at the end of the day.
 
@@ -152,7 +152,7 @@ Total Time: **65 Minutes** &nbsp; Swim: **2800m**
 
 Weird moment riding on Douglas on the way to the pool this morning; some deranged guy thought he'd attempt to tackle me on my bike.
 
-In the pool, got the first 900m set done before the swim clubs arrived (50m lane all to myself).  Lane congestion afterwards was not bad this morning.
+In the pool, got the first 900m done before the swim clubs arrived (50m lane all to myself).  Lane congestion afterwards was okay this morning.
 
 <!---->
 ## SATURDAY JUN 11 ⛅️
@@ -179,11 +179,15 @@ Finally, I put 70g of lemonade mix into a aero bottle, filled up two more 750ml 
 
 Pretty standard fair for the ride, in and out of the aero position (more in the beginning, a little less during the final hour).  A bit of a tailwind on the way north but once in _Sidney_, the wind had stopped and there were showers present.  _Land End Road_ was a wet and rainy experience.
 
-The trip south dried out.  First time ever, a bee flew into and got lodged in my left ear.  I was pretty freaked out as I was in the aero-bars, north of 38kph and that little guy was probably going the same from the other direction.  My first attempt to flick him out of my ear failed and he was still stuck after a couple violent head shakes.  My second attempt to dig him out proved fatal, for him, as I heard and felt the squish of his body turn into wet mass of goo.  Gross.
+The trip south dried out pretty quickly.
+
+First time ever, a bee flew into and got lodged in my left ear.  I was pretty freaked out as I was in the aero-bars, north of 38kph and that little guy was probably going the same from the other direction.  My first attempt to flick him out of my ear failed and he was still stuck after a couple violent head shakes.  My second attempt to dig him out proved fatal, for him, as I heard and felt the squish of his body turn into wet mass of goo.
+
+Kinda gross.
 <!---->
 <div style="height:27px;"></div>
 I felt pretty good racing past the airport in the aero position after a couple hours of riding but fatigue in my lumbar started to build on _Lochside Drive_ heading for home.  I sat up and pedalled easy for the  of the time.  My tailwind on the ride north turned into a descent crosswind (westerly) for the most of the trip south.
 
 Good stimulus in the legs after this one.  No need for the Observatory hill (this time).  My pinkie toe went numb and was sore after taking off my shoes.
 
-[Bike](/assets/jpg/image.jpg)
+[Bike](/assets/jpg/image.jpeg)
