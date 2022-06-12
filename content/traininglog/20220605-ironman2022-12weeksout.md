@@ -7,12 +7,13 @@ Week beginning [Sunday, June 5, 2022](javascript:flick('sun');)
 Patiently build some time while the pinkie toe mends
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **12.75 Hours** <small>(NO RUNNING)</small>
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **CAREFUL**
 
-&mdash;
+Almost a 13 hour week without running or walking.  My toe is still sore and feeling precarious.  Walking barefoot is fine, anything with a shoe is still bothersome.  I almost went for a test run on [Friday](javascript:flick('fri');) but simply wearing running shoes in the house for an hour or so made me realize that it may be too soon.
+
+Solid week in the pool for a total of 8400m and I was on my Rocky Mountain for the first time in a long time.  Commuting on its to and from the pool adds effort and I took it up [Scafe Hill](javascript:flkty.select(2);) on [Tuesday](javascript:flick('tue');).
 
 ![Cytisus scoparius, a.k.a. Scotch broom, is making this once open trail at lot more narrow.](/assets/jpg/IMG_4131-977x550.jpeg SCAFE HILL TRAIL)
 
@@ -77,7 +78,7 @@ Total Time: **95 Minutes** &nbsp; Ride: **24 km** &nbsp;<small> **&uarr;&darr;**
 
 Took half of an allergy pill before bed and that wrecked my sleep; won't do that again.
 
-I took my Rocky Mountain for a run up [Scafe Hill](javascript:flkty.select(2);), with a bit of single track for good measure.  I feel like the bit of hill work, plus the extra it takes to pedal the XC bike vs the Road/TT bikes was **good stimulus** for the time invested.
+I took my Rocky Mountain for a spin up [Scafe Hill](javascript:flkty.select(2);), with a bit of single track for good measure.  I feel like the bit of hill work, plus the extra it takes to pedal the XC bike vs the Road/TT bikes was **good stimulus** for the time invested.
 
 The joint around my pinkie toe feels tired at the end of the day.
 
@@ -112,7 +113,6 @@ Overall, this may not have been the swim that I had on [Monday](javascript:flick
 
 Noted before leaving the pool, my pinkie toe and surrounding area are tired and a bit sore after the swim today.
 
-
 <!---->
 ## THURSDAY JUN 9 🌧
 Sleep **3** | Fatigue **3** | Stress **3** | Soreness **5**
@@ -126,13 +126,15 @@ Easy riding. A few rollers are ok, but no major hills.
 Optional: Grass/Barefoot walk ~ 5-60 minutes. If pain in the toe, stop
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **108 Minutes** &nbsp; Ride: **rollers**
 
 Better sleep last night though I am in the depths of hay fever season (typically starts in May).
 
+I set up my bike computer to alert me every 15 minutes to give me a timed, one minute off the saddle and water break.  This and the fact that I have the rear rollers shimmed up works to make the saddle time less pronounced.  I watched a bit of the 2021 IMC race and a bit of the 2021 IM Frankfurt race (men's bike).
+
 <!---->
-## FRIDAY JUN 10
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY JUN 10 ⛅️
+Sleep **4** | Fatigue **3** | Stress **2** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -146,19 +148,34 @@ Swim 2900:
 Optional: Walk or possible run. We'll see. Don't expect a run, but it is possible. 
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **65 Minutes** &nbsp; Swim: **2800m** 
 
-&mdash;  
+Weird moment riding on Douglas on the way to the pool this morning; some deranged guy thought he'd attempt to tackle me on my bike.  Idiot.
+
+In the pool, got the first 900m set done before the swim clubs arrived (50m lane all to myself).
 
 <!---->
-## SATURDAY JUN 11
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY JUN 11 ⛅️
+Sleep **2** | Fatigue **2** | Stress **2** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Ride 3:00 on TT bike. 
+Whatever terrain you like, but might as well head up Observatory a few times (I believe it's back open, and we haven't discussed it) 
+Stay well fueled. Generally an "easy" effort. 
+Spend as much time in the bars as is comfortable.
+
+Mobility 30 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **185 Minutes** &nbsp; Ride: **80 km**
 
-&mdash;  
+Solid sleep last night but my pinkie toe is still a bit bothered.  Took half a _Reactine_ allergy pill before doing some yard work today.  That held off the congestion/sneezing over the course of the day but motivation to ride became an issue as the day wore on.
+
+Finally, I put 70g of lemonade mix into a aero bottle, filled up two more 750ml bottles with water and headed up the _Saanich Peninsula_.  Pretty standard fair for the ride, in and out of the aero position (more in the beginning, a little less during the final hour).  A bit of a tailwind on the way north but once in _Sidney_, the wind had stopped and there were showers present.  _Land End Road_ was a wet and rainy experience.
+
+The trip south dried out.  First time ever, a bee flew into and got lodged in my left ear.  I was pretty freaked out as I was in the aero-bars, north of 38kph and that little guy was probably going the same from the other direction.  My first attempt to flick him out of my ear failed and he was still stuck after a couple violent head shakes.  My second attempt to dig him out proved fatal, for him, as I heard and felt the squish of his body turn into wet mass of goo.  Gross.
+
+I felt pretty good racing past the airport in the aero position after a couple hours of riding but fatigue in my lumbar started to build on _Lochside Drive_ heading for home.  I sat up and pedalled easy for the  of the time.  My tailwind on the ride north turned into a descent crosswind (westerly) for the most of the trip south.
+
+Good stimulus in the legs after this one.  No need for the Observatory hill (this time).  My pinkie toe went numb and was sore after taking off my shoes.
