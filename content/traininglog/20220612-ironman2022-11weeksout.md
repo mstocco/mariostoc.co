@@ -46,8 +46,8 @@ I turned off _Belamy_ on to _Electric Light_ for some single track work before l
 ![Noron](/assets/jpg/bike-20220612.jpeg)
 
 <!---->
-## MONDAY JUN 13
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## MONDAY JUN 13 🌦
+Sleep **4** | Fatigue **3** | Stress **3** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -61,9 +61,10 @@ Swim 2200:
 Mobility 17 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Swim: **0m**
 
-&mdash;  
+Bit of an up and down kind of sleep.  My pinkie toe is starting to feel more _"stiff"_ and less sore; a good sign.
+
 
 <!---->
 ## TUESDAY JUN 14
