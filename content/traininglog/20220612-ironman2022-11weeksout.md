@@ -35,8 +35,8 @@ The toe was still sore from the ride yesterday and running was off the table.  N
 The ride started out like work but once I got off-road, things became fun.
 
 My normal route up to the north end of Thetis Lake Park is on the asphalt of _Highland Road_. 
-<!---->
-<div style="height:27px;"></div>
+
+<!----->
 This evening, I headed up _Phelps Trail_ instead.  It's a little harder work and about 10 minutes longer by taking the fire-road.
 
 The CRD Parks Dept. spread some very coarse aggregate in an effort to "repair" sections of _Belamy Trail_.  Super thankful I ride an XC bike; the cool kids with their gravel bikes are going to be in for a surprise.
