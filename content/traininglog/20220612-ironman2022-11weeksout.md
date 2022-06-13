@@ -30,9 +30,12 @@ Mobility 15 minutes
 ### NOTES
 Total Time: **82 Minutes** &nbsp; Ride: **26 km** 
 
-No formal walk but it was another active day doing yard work.  Before I knew it, dinner was around the corner and I hadn't gone for a ride yet.
-
+No formal walk but it was another active day doing yard work.  The toe was still sore from the ride yesterday and running was off the table.  Before I knew it, dinner was around the corner and I hadn't gone for a ride yet.
+<!---->
+<div style="height:27px;"></div>
 It started out like work but once I got off-road, things became fun.  I headed up _Phelps Trail_ to the north end of _Thetis Lake Park_ instead of taking the road.  I turned off _Belamy Trail_ on to _Electric Light_ for some single track work before looping back to a run on _Comfy Wooden Chair_; took 6 seconds off for a new PR of 2:42!
+
+![Noron](/assets/img/image.jpeg)
 
 <!---->
 ## MONDAY JUN 13
