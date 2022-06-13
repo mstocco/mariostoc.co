@@ -37,9 +37,9 @@ The ride started out like work but once I got off-road, things became fun.
 <div style="height:27px;"></div>
 My normal route up to the north end of Thetis Lake Park is on the asphalt of _Highland Road_.   This evening, I headed up _Phelps Trail_ instead.  It's a little harder work and about 10 minutes longer by taking the fireroad.
 
-I turned off _Belamy Trail_ on to _Electric Light_ for some single track work before looping back to a run on _Comfy Wooden Chair_; took 6 seconds off for a new PR of 2:42!
-
-![Noron](/assets/jpg/image.jpeg)
+I turned off _Belamy Trail_ on to _Electric Light_ for some single track work before looping back to a run on _Comfy Wooden Chair_.
+![Noron](/assets/jpg/bike-20220612.jpeg)
+Took 6 seconds off for a new PR of 2:42!
 
 <!---->
 ## MONDAY JUN 13
