@@ -49,8 +49,6 @@ class TemplateDocument(HTML5Document):
 			if getattr(self, 'title', None):
 				if line.strip() in ['<!---->','<!----->']:
 					section = CarouselText('\n'.join(lines))
-					if line.find('<!----->') == 0:
-						section.style = 'padding-top:50px;'
 					if contentPath.find('traininglog') > 1:
 						if section.innerHTML.find('<h2>SUN') == 0:
 							section._id = 'sun'
@@ -61,6 +59,9 @@ class TemplateDocument(HTML5Document):
 									section._id = day.lower()
 					self.carousel.append(section)
 					lines = []
+					if line.find('<!----->') == 0:
+						print(line)
+						lines.append('<div style="height:27px;"></div>')
 				elif line.find('![') == 0 and line.find('x550') > 1:
 					if len(lines) > 0:
 						self.carousel.append(CarouselText('\n'.join(lines)))
