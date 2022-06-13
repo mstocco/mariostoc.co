@@ -41,7 +41,7 @@ This evening, I headed up _Phelps Trail_ instead.  It's a little harder work and
 
 The CRD Parks Dept. spread some very coarse aggregate in an effort to "repair" sections of _Belamy Trail_.  Super thankful I ride an XC bike; the cool kids with their gravel bikes are going to be in for a surprise.
 
-I turned off _Belamy_ on to _Electric Light_ for some single track work before looping back for a run on _Comfy Wooden Chair_; **new PR** of 2:42 <small style="font-weight:bold;">-6 secs.</small>
+I turned off _Belamy_ on to _Electric Light_ for some single track work before looping back for a run on _Comfy Wooden Chair_; **new PR** of 2:42 <small style="font-weight:bold;">-6 secs</small>.
 
 ![Noron](/assets/jpg/bike-20220612.jpeg)
 
