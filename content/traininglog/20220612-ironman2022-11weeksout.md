@@ -14,10 +14,10 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![Maybe we can not see what is right around the corner, but we can prepare.  This was a fun rip through the forest.](/assets/jpg/IMG_4132-977x550.jpeg PHELPS CONNECTOR)
 
-## SUNDAY JUN 12
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SUNDAY JUN 12 🌤
+Sleep **4** | Fatigue **3** | Stress **2** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -28,9 +28,11 @@ If you are going to run, max out at 5x 2 minutes running, with 3 minutes walking
 Mobility 15 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **82 Minutes** &nbsp; Ride: **26 km** 
 
-&mdash;  
+No formal walk but it was another active day doing yard work.  Before I knew it, dinner was around the corner and I hadn't gone for a ride yet.
+
+It started out like work but once I got off-road, things became fun.  I headed up _Phelps Trail_ to the north end of _Thetis Lake Park_ instead of taking the road.  I turned off _Belamy Trail_ on to _Electric Light_ for some single track work before looping back to a run on _Comfy Wooden Chair_; took 6 seconds off for a new PR of 2:42!
 
 <!---->
 ## MONDAY JUN 13
@@ -39,7 +41,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 
 ### PLANNED WORKOUT
 Easy ride to/from the pool. 
-Swim 2200: 
+Swim 2200:
 300 easy swim, 200 easy w/ buoy, 100 steady kick. 
 4 rounds (50 Paddle-fist drill r :15, 100 swim w/ focus on catch r :20)
 4 rounds (50 Shark-fin drill r :15, 100 swim w/ focus on rotation from hips. R :20)
