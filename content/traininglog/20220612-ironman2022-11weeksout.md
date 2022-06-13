@@ -39,7 +39,7 @@ My normal route up to the north end of Thetis Lake Park is on the asphalt of _Hi
 <div style="height:27px;"></div>
 This evening, I headed up _Phelps Trail_ instead.  It's a little harder work and about 10 minutes longer by taking the fire-road.
 
-The CRD Parks Dept. spread some super coarse stones in an effort to "repair" some sections of _Belamy Trail_.  Super thankful I purchased an XC bike; I can't imagine the cool kids with their gravel bikes are going to be stoked to ride this route now.
+The CRD Parks Dept. spread some very coarse aggregate in an effort to "repair" sections of _Belamy Trail_.  Super thankful I ride an XC bike; the cool kids with their gravel bikes are going to be in for a surprise.
 
 I turned off _Belamy Trail_ on to _Electric Light_ for some single track work before looping back to a run on _Comfy Wooden Chair_.
 
