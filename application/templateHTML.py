@@ -220,7 +220,7 @@ class PageFooter(FOOTER):
 	""" Footer for the bottom of the webpage.
 	"""
 	def tohtml(self):
-		copyright = P("Copyright &copy; 2020 Mario Stocco &nbsp; All rights reserved.")
+		copyright = P("Copyright &copy; 2022 Mario Stocco &nbsp; All rights reserved.")
 		self.append(copyright)
 		return HTML5Tag.tohtml(self)
 
