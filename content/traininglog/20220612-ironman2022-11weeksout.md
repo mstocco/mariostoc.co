@@ -67,8 +67,8 @@ Bit of an up and down kind of sleep.  My pinkie toe is starting to feel more _"s
 
 
 <!---->
-## TUESDAY JUN 14
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY JUN 14 ☁️
+Sleep **5** | Fatigue **3** | Stress **3** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -76,9 +76,11 @@ Walk 60 minutes. If you feel great...add in up to 5x 2 minutes easy running.
 Spin 60 minutes. Easy riding. Any bike. Generally a flatter route.
 
 ### NOTES
-Total Time: **0 Minutes**
+<mark>Total Time: **0 Minutes** </mark>
 
-&mdash;  
+Not sure if it was lack of good sleep catching up with me or not enough calories for dinner or not noticing drinking out of a funky water bottle.  Regardless of the reason, I was hit with a migraine today.  I gave in an took Advil mid-morning and spent a good portion of the day on the couch.
+
+Toe feels better than my head.
 
 <!---->
 ## WEDNESDAY JUN 15
