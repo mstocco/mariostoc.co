@@ -61,11 +61,13 @@ Swim 2200:
 Mobility 17 minutes
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Swim: **0m**
+Total Time: **70 Minutes** &nbsp; Swim: **2100m**
 
 Bit of an up and down kind of sleep.  My pinkie toe is starting to feel more _"stiff"_ and less sore; a good sign.
 
+Apart from mentally whiffing on 100m with a pull buoy during the warm-up, this was a good swim.  A couple of guys to measure myself against in the lane beside me too; fun!  
 
+Super windy for the ride (road bike) to and from the pool.
 <!---->
 ## TUESDAY JUN 14 ☁️
 Sleep **5** | Fatigue **3** | Stress **3** | Soreness **5**
