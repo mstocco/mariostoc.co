@@ -105,8 +105,8 @@ Ride 60 minutes home. Easy effort.
 ### NOTES
 Total Time: **100 Mins** &nbsp;Swim: **3000m** &nbsp;Ride: **rollers**
 
-Back as if I was on a mission this afternoon.  First rode to the pool when trouble hit.  I dropped my chain and it weirdly wrapped itself around the bottom bracket shell.  In the process, I bent my front derailleur and small chain ring.  I thought my days of breaking bike parts like that ended in 1997.  Dura-ace is expensive to replace these days.
-
+Trouble hit during the ride to the pool;  I dropped my chain and it weirdly wrapped itself around the bottom bracket shell.  In the process, I bent my front derailleur and small chain ring.  I thought my days of breaking bike parts like that ended in 1997.  Dura-ace is expensive to replace these days.
+<!----->
 I got to the pool, spent time washing the bike chain gunk off my hands a went to work.
 
 I really liked this workout because it was challenging to hit 100m at the same effort time after time for ~40 minutes.  No kick board sets and in a 25m pool set this up for a great looking post on Strava too.
