@@ -105,10 +105,11 @@ Ride 60 minutes home. Easy effort.
 ### NOTES
 Time: **120 Mins** &nbsp;Swim: **3000m** &nbsp;Ride: **rollers**
 
-Trouble hit during the ride to the pool;  I dropped my chain and it weirdly wrapped itself around the bottom bracket shell.  In the process, I bent my front derailleur and small chain ring.  I thought my days of breaking bike parts like that ended in 1997.  
+Trouble hit during the ride to the pool;  I dropped my chain and it weirdly wrapped itself around the bottom bracket shell.  In the process, I bent my front derailleur and small chain ring.  I thought my days of breaking bike parts like that ended in 1997.
+
 Dura-ace is expensive to replace these days.
 <!----->
-I got to the pool, spent time washing the bike chain gunk off my hands a went to work.
+I got to the pool, spent time washing the bike chain gunk off my hands then went to work.
 
 I really liked this workout because it was challenging to hit 100m at the same effort time after time for ~40 minutes.  Apart from some lane congestion, I feel like I nailed it today. 
 
@@ -117,7 +118,7 @@ No kick board sets and in a 25m pool set this up for a great looking post on Str
 
 ---
 
-I limped home on my broken road bike, took one look at the rain clouds brewing to the west and decided to ride the rollers with. my TT bike.  The effort was "fartlek", getting in and out of the aero-bars over 45 minutes.
+I limped home on my broken road bike, took one look at the rain clouds brewing to the west and decided to ride the rollers with my TT bike.  The effort was "fartlek", getting in and out of the aero-bars over 45 minutes.
 
 <!---->
 ## THURSDAY JUN 16
