@@ -67,7 +67,8 @@ Bit of an up and down kind of sleep.  My pinkie toe is starting to feel more _"s
 
 Apart from mentally whiffing on 100m with a pull buoy during the warm-up, this was a good swim.  A couple of guys to measure myself against in the lane beside me too; fun!  
 
-Super windy for the ride (road bike) to and from the pool.
+Super windy for the ride (road bike) to the pool.
+
 <!---->
 ## TUESDAY JUN 14 ☁️
 Sleep **5** | Fatigue **3** | Stress **3** | Soreness **5**
@@ -85,8 +86,8 @@ Not sure if it was lack of good sleep catching up with me or not enough calories
 Toe feels better than my head.
 
 <!---->
-## WEDNESDAY JUN 15
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY JUN 15 🌦
+Sleep **3** | Fatigue **2** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -102,9 +103,15 @@ R :15 after each.
 Ride 60 minutes home. Easy effort.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **100 Mins** &nbsp;Swim: **3000m** &nbsp;Ride: **rollers**
 
-&mdash;  
+Back as if I was on a mission this afternoon.  First rode to the pool when trouble hit.  I dropped my chain and it weirdly wrapped itself around the bottom bracket shell.  In the process, I bent my front derailleur and small chain ring.  I thought my days of breaking bike parts like that ended in 1997.  Dura-ace is expensive to replace these days.
+
+I got to the pool, spent time washing the bike chain gunk off my hands a went to work.
+
+I really liked this workout because it was challenging to hit 100m at the same effort time after time for ~40 minutes.  No kick board sets and in a 25m pool set this up for a great looking post on Strava too.
+
+I limped home on my broken road bike, took one look at the rain clouds brewing to the west and decided to ride the rollers with. my TT bike.  The effort was "fartlek", getting in and out of the aero-bars over 45 minutes.
 
 <!---->
 ## THURSDAY JUN 16
