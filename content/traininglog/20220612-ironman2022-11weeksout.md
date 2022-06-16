@@ -109,8 +109,10 @@ Trouble hit during the ride to the pool;  I dropped my chain and it weirdly wrap
 <!----->
 I got to the pool, spent time washing the bike chain gunk off my hands a went to work.
 
-I really liked this workout because it was challenging to hit 100m at the same effort time after time for ~40 minutes.  No kick board sets and in a 25m pool set this up for a great looking post on Strava too.
+I really liked this workout because it was challenging to hit 100m at the same effort time after time for ~40 minutes.  Apart from some lane congestion, I feel like I nailed it today.  No kick board sets and in a 25m pool set this up for a great looking post on Strava too.
 ![Swim](/assets/jpg/swim-20220615.jpeg)
+
+---
 
 I limped home on my broken road bike, took one look at the rain clouds brewing to the west and decided to ride the rollers with. my TT bike.  The effort was "fartlek", getting in and out of the aero-bars over 45 minutes.
 
