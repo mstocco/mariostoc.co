@@ -121,8 +121,8 @@ No kick board sets and in a 25m pool set this up for a great looking post on Str
 I limped home on my broken road bike, took one look at the rain clouds brewing to the west and decided to ride the rollers with my TT bike.  The effort was "fartlek", getting in and out of the aero-bars over 45 minutes.
 
 <!---->
-## THURSDAY JUN 16
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY JUN 16 🌧
+Sleep **2** | Fatigue **2** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -136,7 +136,7 @@ Mobility 30 minutes:
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+I had a good sleep.  Found what feels like a running niggle in my left calf; probably from a compensation for the toe on my left foot.
 
 <!---->
 ## FRIDAY JUN 17
