@@ -81,7 +81,9 @@ Spin 60 minutes. Easy riding. Any bike. Generally a flatter route.
 ### NOTES
 <mark>Total Time: **0 Minutes** </mark>
 
-Not sure if it was lack of good sleep catching up with me or not enough calories for dinner or not noticing drinking out of a funky water bottle.  Regardless of the reason, I was hit with a migraine today.  I gave in an took Advil mid-morning and spent a good portion of the day on the couch.
+Not sure if it was lack of good sleep catching up with me or not enough calories for dinner or not noticing drinking out of a funky water bottle.
+
+Regardless of the reason, I was hit with a migraine today.  I gave in an took Advil mid-morning and spent a good portion of the day on the couch under a blanket.
 
 Toe feels better than my head.
 
@@ -134,13 +136,15 @@ Option B: Walk 90 minutes. Nice long walk. Hills are certainly ok with me.
 Mobility 30 minutes:
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **50 Minutes** &nbsp; Walk/Jog: **5.9 km**
 
 I had a good sleep.  Found what feels like a running niggle in my left calf; probably from a compensation for the toe on my left foot.
 
+Headed out for some long awaited time in some running shoes.  I attempted Option A and completed 6 of 8 three minute reps.  The toe was uncomfortable for the first 6 minutes of walking but got better soon after that.  Same applied for the first three minute jog; uncomfortable to start and then felt better.  2, 3 and 4 were tolerable but on the fifth rep, I was getting the message to stop.  I went one more before walking home.
+
 <!---->
 ## FRIDAY JUN 17
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -151,9 +155,9 @@ Swim 2900:
 4x 50 EASY to cool down.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Swim: **0m**
 
-&mdash;  
+Pinkie toe is on the sore side upon waking today.
 
 <!---->
 ## SATURDAY JUN 18
