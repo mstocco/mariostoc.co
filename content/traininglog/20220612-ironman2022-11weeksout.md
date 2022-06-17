@@ -139,7 +139,7 @@ Total Time: **50 Minutes** &nbsp; Walk/Jog: **5.9 km**
 
 I had a good sleep.  Found what feels like a running niggle in my left calf...
 
-I attempted Option A and completed 6 of 8 three minute reps.  The toe was uncomfortable for the first 6 minutes of walking but got better soon after that.  Same applied for the first three minute jog; uncomfortable to start and then felt better.  2, 3 and 4 were tolerable but on the fifth rep, I was getting the message to stop.  I went one more before walking home.
+I attempted Option A and completed 6 of 8 three minute reps.  The toe was uncomfortable for the first 6 minutes of walking but got better soon after.  Same applied for the first 3 minute jog; uncomfortable to start, then felt better.  2, 3 and 4 were tolerable but on the fifth, I was getting the message to stop.  I went one more before walking home.
 
 <!---->
 ## FRIDAY JUN 17
