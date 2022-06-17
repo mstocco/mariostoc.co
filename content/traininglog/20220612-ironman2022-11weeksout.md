@@ -131,14 +131,13 @@ Sleep **2** | Fatigue **2** | Stress **2** | Soreness **4**
 Option A: 
 55 minutes: 
 12 minutes walking to warm up. 8x 3 minutes easy running, 1 minute walking after each. 11 minutes walking to cool down.
-Option B: Walk 90 minutes. Nice long walk. Hills are certainly ok with me. 
-
+Option B: Walk 90 minutes. Nice long walk. Hills are certainly ok with me.   
 Mobility 30 minutes:
 
 ### NOTES
 Total Time: **50 Minutes** &nbsp; Walk/Jog: **5.9 km**
 
-I had a good sleep.  Found what feels like a running niggle in my left calf; probably from a compensation for the toe on my left foot.
+I had a good sleep.  Found what feels like a running niggle in my left calf...
 
 Headed out for some long awaited time in some running shoes.  I attempted Option A and completed 6 of 8 three minute reps.  The toe was uncomfortable for the first 6 minutes of walking but got better soon after that.  Same applied for the first three minute jog; uncomfortable to start and then felt better.  2, 3 and 4 were tolerable but on the fifth rep, I was getting the message to stop.  I went one more before walking home.
 
