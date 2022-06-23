@@ -7,12 +7,13 @@ Week beginning [Sunday, June 12, 2022](javascript:flick('sun');)
 Turn the crank while the wheel heals.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **Just 8 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **STILL ON THE IR**
 
-&mdash;
+Maybe not my best week as I missed 2 days.  I would really need to go back a ways to find a week with that time missed.
+
+Riding and swimming are fun while the toe heals and there will come a time when I will have to pay the piper.  It just isn't this week as the _"test"_ on [Thursday](javascript:flick('thu');) produced just 18 minutes of jogging.
 
 ![Maybe we can not see what is right around the corner, but we can prepare.  This was a fun rip through the forest.](/assets/jpg/IMG_4132-977x550.jpeg PHELPS CONNECTOR)
 
@@ -123,7 +124,7 @@ No kick board sets and in a 25m pool set this up for a great looking post on Str
 I limped home on my broken road bike, took one look at the rain clouds brewing to the west and decided to ride the rollers with my TT bike.  The effort was "fartlek", getting in and out of the aero-bars over 45 minutes.
 
 <!---->
-## THURSDAY JUN 16 🌧
+## THURSDAY JUN 16 🌦
 Sleep **2** | Fatigue **2** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -142,7 +143,7 @@ I had a good sleep.  Found what feels like a running niggle in my left calf...
 I attempted Option A and completed 6 of 8 three minute reps.  The toe was uncomfortable for the first 6 minutes of walking but got better soon after.  Same applied for the first 3 minute jog; uncomfortable to start, then felt better.  2, 3 and 4 were tolerable but on the fifth, I was getting the message to stop.  I went one more before walking home (happy).
 
 <!---->
-## FRIDAY JUN 17
+## FRIDAY JUN 17 🌤
 Sleep **3** | Fatigue **3** | Stress **3** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -154,19 +155,23 @@ Swim 2900:
 4x 50 EASY to cool down.
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Swim: **0m**
+Total Time: **65 Minutes** &nbsp; Swim: **2900m**
 
 Pinkie toe is on the sore side upon waking today.
 
+Got to the pool to find that I plugged the wrong pool size into my Garmin.  The workout was easy enough to just count to 12 (lengths) 8 times.  This was another productive time in the water.
+
 <!---->
-## SATURDAY JUN 18
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY JUN 18 🌧
+Sleep **3** | Fatigue **2** | Stress **4** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash;  
 
 ### NOTES
-Total Time: **0 Minutes**
+<mark>Total Time: **0 Minutes** </mark>
 
-&mdash;  
+I bumped my little toe on the vacuum cleaner this morning.  That hurt (a lot) but I didn't feel it _"crack"_.
+
+Not enough time to make it to _Thetis Lake_ for the swim before the drive up island.  Weather was pretty terrible for a swim as well.
