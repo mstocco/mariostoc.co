@@ -14,14 +14,20 @@ I feel like I was...
 
 &mdash;
 
-![The Inland Island Highway was my training route on the time trial bike this week.](/assets/jpg/IMG_4138-977x550.jpeg BRITISH COLUMBIA HIGHWAY 19)
+![Twice, the Inland Island Highway was my training route with my time trial bike to start this week.](/assets/jpg/IMG_4138-977x550.jpeg BRITISH COLUMBIA HIGHWAY 19)
 
 ## SUNDAY JUN 19 ☁️
 Sleep **3** | Fatigue **2** | Stress **2** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Ride 4:30 on TT bike. Overall effort is easy to steady. 
+I would make a point to AVOID any substantial time in the bars while riding w/ good focus. 
+So....Riding in the bars = good. But riding in the bars with a good bit of pressure on the pedals = Not needed on this day.
+ 
+*Eating early, eating often. Stopping for more water and extra calories as needed.
+
+Have fun. Ride real far. 
 
 ### NOTES
 Total Time: **290 Minutes** &nbsp; Ride: **132 km**
@@ -38,7 +44,12 @@ Sleep **3** | Fatigue **3** | Stress **2** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Morning Mobility 25 minutes
+
+Ride 2:00 on TT bike. Another day, in the bars a fair bit. But only if the back allows. No loss if you end up in the horns all ride. 
+Still fueling. Still hydrating. Still keeping the effort on the easier end of things. Getting in the miles.
+
+Off the bike: Walk 60 minutes. Yes, get out and go for a walk. Like you're going somewhere. 6k is probably a good goal for distance
 
 ### NOTES
 Total Time: **0 Minutes** &nbsp; Ride: **59 km**
@@ -59,7 +70,18 @@ Sleep **3** | Fatigue **4** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+am: Travel home
+
+Pm: Swim 2600: 
+6x 50 easy swimming to warm up. Rest as needed. 
+4x 50 easy swimming w/ buoy. Still warming up. Rest as needed. 
+2x 50 steady kick. Rest as needed. 
+20x 50 aerobic w/ focus on sustainable rhythm. #4/8/12/16/20 w/ much higher turnover (not a sustainable rhythm, but also not a full sprint...something you could hold for 400-500 meters all out) r :15 after each. 
+100 super easy. 
+800 w/ buoy, aerobic and steady. Covering ground efficiently. 
+2x 50 easy to cool down.
+
+Post swim: Walk 60 minutes. Another solid walk. Getting out on your feet
 
 ### NOTES
 Total Time: **0 Minutes** &nbsp; Swim: **2600m**
@@ -72,7 +94,9 @@ Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Off S/B/R
+
+Mobility 30 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -85,7 +109,12 @@ Sleep **3** | Fatigue **-** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Ride 60 minutes. Get out on the TT bike. Keep the effort easy, but getting outside for a ride.
+
+Run Test #2: 
+10 minutes walking to warm up.
+10x 3 minutes easy running, 1 minute walk after each. 
+10 minutes walking to finish up.
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -98,7 +127,15 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Swim 3000: 
+4 rounds (50 easy free, 50 fist drill, 50 paddle-fist r :20 after each) 
+2 rounds (50 gradual build, 50 as 25 EASY/25 FAST, 50 as 25 FAST/25 EASY r :30 after each)
+100 easy swimming. 
+3x 600 @ IM effort/focus. R 1:30 after each. 
+2x 100 EASY to cool down.
+
+Ride 60 minutes EASY. This can be outside, on the rollers, on the MTB, on the TT or on the road bike if the roadie is fully operational. 
+As long as the ride is easy, it works for me.
 
 ### NOTES
 Total Time: **0 Minutes**
