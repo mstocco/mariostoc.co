@@ -117,9 +117,12 @@ Run Test #2:
 10 minutes walking to finish up.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total: **130 Mins** &nbsp;Run: **30 Mins** &nbsp;Ride: **22 km**
 
-&mdash;  
+Run/Walk test first because enquiring minds want to know...   
+Completed the effort as written (all 10 reps of easy running) and was just mildly uncomfortable.  It was sort of how I remember the run during [70.3](/racereports/2022-ironman-70.3-victoria) when I was jacked up on adrenaline and caffeine.  
+
+Heading out on the bike however, it was a bit of a gingerly effort to put my cycling shoe on that left foot.  While crossing the bumpy timbers of the bridges on the _Galloping Goose_, the toe was hurting.  I rode out to _Langford_ and scoped out a new hill to do repeats on (_Langvista Drive_).
 
 <!---->
 ## FRIDAY JUN 24
