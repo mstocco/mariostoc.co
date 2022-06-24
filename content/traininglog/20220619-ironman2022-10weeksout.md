@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![Twice, the Inland Island Highway was my training route with my time trial bike to start this week.](/assets/jpg/IMG_4138-977x550.jpeg BRITISH COLUMBIA HIGHWAY 19)
+![Twice to start this week, the Inland Island Highway was my training route with my time trial bike.](/assets/jpg/IMG_4138-977x550.jpeg BRITISH COLUMBIA HIGHWAY 19)
 
 ## SUNDAY JUN 19 ☁️
 Sleep **3** | Fatigue **2** | Stress **2** | Soreness **5**
@@ -151,8 +151,8 @@ While crossing the bumpy timbers of the bridges on the _Galloping Goose_, the to
 ![Bike](/assets/jpg/bike-20220623.jpeg)
 
 <!---->
-## FRIDAY JUN 24
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY JUN 24 ☀️
+Sleep **3** | Fatigue **2** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -169,7 +169,7 @@ As long as the ride is easy, it works for me.
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Awoke a bit on the groggy side this morning but my toe feels ok considering how it felt after the run [yesterday](javascript:flick('thu');).  Weight has crept back up since the start of the week to 80.kg.  
 
 <!---->
 ## SATURDAY JUN 25
