@@ -167,9 +167,13 @@ Ride 60 minutes EASY. This can be outside, on the rollers, on the MTB, on the TT
 As long as the ride is easy, it works for me.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **120 Minutes** &nbsp; Swim: **2950m**
 
 Awoke a bit on the groggy side this morning but my toe feels ok considering how it felt after the run [yesterday](javascript:flick('thu');).  Weight has crept back up since the start of the week to 80.kg.  
+
+Maybe it was the end of the week but I have been more focused in the pool.
+
+Rode easy out to _Gonzales_, then _Dallas Road_ before a short jaunt to _Esquimalt_.  Weather was fantastic today.
 
 <!---->
 ## SATURDAY JUN 25
@@ -177,7 +181,12 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Dead bugs pre-ride.  
+Ride 4:30 on MTB. Great trail of on the Goose. 
+Easy riding when you can, and harder up to get up the main climbs. 
+Standard fueling and hydration. 
+Have fun. Stop to refuel as needed.   
+Mobility 25 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
