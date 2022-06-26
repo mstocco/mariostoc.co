@@ -7,12 +7,15 @@ Week beginning [Sunday, June 19, 2022](javascript:flick('sun');)
 Take in [Parksville](javascript:flkty.select(2);) and get another chance to test the toe.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **18 Hours** 
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **ON MY BIKE**
 
-&mdash;
+Biggest [Sunday](javascript:flick('sun');) to [Saturday](javascript:flick('sat');) week of the year.  2 five-ish hour rides will do that.  
+
+My toe is doing its best to heal but it is still is sore and noticeably swollen.
+
+My seasonal hay-fever, which typically goes into hyperdrive during the first warm week in May, kicked in for real this week.  I was waking up congested and groggy most of this week.
 
 ![Twice to start this week, the Inland Island Highway was my training route with my time trial bike.](/assets/jpg/IMG_4138-977x550.jpeg BRITISH COLUMBIA HIGHWAY 19)
 
@@ -176,19 +179,37 @@ Maybe it was the end of the week but I have been more focused in the pool.
 Rode easy out to _Gonzales_, then _Dallas Road_ before a short jaunt to _Esquimalt_.  Weather was fantastic today.
 
 <!---->
-## SATURDAY JUN 25
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY JUN 25 ☀️
+Sleep **4** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 Dead bugs pre-ride.  
-Ride 4:30 on MTB. Great trail of on the Goose. 
+Ride 4:30 on MTB. Great Trail or on the Goose. 
 Easy riding when you can, and harder up to get up the main climbs. 
 Standard fueling and hydration. 
 Have fun. Stop to refuel as needed.   
 Mobility 25 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **300 Minutes** &nbsp; MTB Ride: **72.6 km** 
 
-&mdash;  
+Great Trail or the Goose; both being fire road routes but two very different terrain options.  I picked the Great Trail on the hottest day of the year (so far).
+
+Mixed a 710ml sludge bottle with ~1300 calories (lemonade/maltodextrin) and filled a 2L camelback with water.
+
+Pedalled easy for the first hour until reaching the base of _Wolf Hill_.  No stopping and I noticed my heart-rate was above 160 BPM; that should have had me anaerobically locked up and pushing my bike up the hill.  No today.  I felt the effort for sure but there was no desire to stop.  In fact, I didn't stop until I needed to lift my bike over the gate at the south end of the _Goldstream Heights_ subdivision.
+
+I continued on the trail to _Stebbings Road_ taking note of the loose aggregate and steep grades.  
+
+From the trailhead at _Stebbings Road_, it was more downhill and I was contemplating the return trip.
+
+The trip alarm I set for 2:30:00 went off and the next point up the trail was the _Sooke Lake FSR_; I turned around there.
+
+The climb back up to the _Stebbings Trailhead_ was not as taxing as I thought but I did choose the pavement to get to the trailhead on _Trail Way_.  There is more elevation going though the subdivision with a very consistent 5.8% grade (according to Strava).  Climbing this route took me ~14 minutes to the first peak on my TT Bike last summer.  Today, I climbed it in ~20 minutes with my MTB with a very consistent effort.
+
+Really hot with no breeze until I crested the top of the subdivision.
+
+Two or three hard efforts before getting on the Centra Gas fire-road for the well earned descent off the _Malahat_.  On the descent, I hit a wasp at speed and he got himself wedged between the rim of my glasses and the front of my helmet.   Before I could flick him on his way, the bugger stung me in my eyebrow.  I hate wasps.
+
+I stopped at a gas station for water in Langford before heading home.  My legs were tired but what hurt the most was my butt.  I'll be swapping that uncomfortable saddle before I ride this bike again.  My pinkie toe held up just fine.
