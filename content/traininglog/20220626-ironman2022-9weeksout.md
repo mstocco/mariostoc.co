@@ -75,8 +75,8 @@ Total: **150 mins** &nbsp; Run: **6.7 km** &nbsp; Ride: **90 mins**
 First real day of the week and I feel pretty good.  Did 41 minutes of easy running without a great deal of pain.  Did 30 minutes of continuous, focused, aero bar work on the rollers before heading outside.  Worst part of the day was getting a flat.  Time for new rubber.
 
 <!---->
-## WEDNESDAY JUN 29
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY JUN 29 ☁️
+Sleep **3** | Fatigue **3** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -92,7 +92,7 @@ Mobility 20 minutes
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Sleep interrupted by some crazy dreams.  Pinkie toe feels good even though there was some jogging [yesterday](javascript:flick('tue');).
 
 <!---->
 ## THURSDAY JUN 30
