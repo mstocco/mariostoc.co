@@ -35,13 +35,13 @@ Run/Walk 60 minutes:
 10 minutes walking to cool down.
 
 ### NOTES
-Total Time: **0 Minutes**
+<mark>Total Time: **0 Minutes** </mark>
 
 Horrible night last night.  Multiple bathroom breaks, night sweats, bit of a head-ache and a bad case of diarrhea to start the day.
 
 <!---->
-## MONDAY JUN 27
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## MONDAY JUN 27 🌤
+Sleep **3** | Fatigue **2** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -51,13 +51,15 @@ Pilates 14 minutes (Do some dead bugs before/after this) I'm hoping this is some
 Mobility 30 minutes (You can skip the first split test, we're just here for the stretching) 
 
 ### NOTES
-Total Time: **0 Minutes**
+<mark>Total Time: **0 Minutes** </mark>
 
-&mdash;  
+I was nearing the overpass at _Royal Oak_ while on my way to the lake for a swim when work called me back for an emergency.  I turned around and was not finished until 2300.  Grrrrr...
+
+My scalenes and traps are incredibly sore today.
 
 <!---->
-## TUESDAY JUN 28
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY JUN 28 🌦
+Sleep **3** | Fatigue **2** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -68,9 +70,9 @@ Ride 90 minute easy. TT bike.
 Try to get 30-40 minutes in the bars....mostly continuous. Overall an easy to steady effort, but trying to get dialed into the position.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total: **150 mins** &nbsp; Run: **6.7 km** &nbsp; Ride: **90 mins** 
 
-&mdash;  
+First real day of the week and I feel pretty good.  Did 41 minutes of easy running without a great deal of pain.  Did 30 minutes of continuous, focused, aero bar work on the rollers before heading outside.  Worst part of the day was getting a flat.  Time for new rubber.
 
 <!---->
 ## WEDNESDAY JUN 29
