@@ -94,9 +94,11 @@ Total Time: **0 Minutes**
 
 Sleep interrupted by some crazy dreams.  Pinkie toe feels good even though there was some jogging [yesterday](javascript:flick('tue');).
 
+Late start at the pool after attending a celebration of life.  Just one double lane available and all it took was one dude with IM South Africa
+
 <!---->
-## THURSDAY JUN 30
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY JUN 30 🌤
+Sleep **2** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -115,7 +117,7 @@ Total Time: **0 Minutes**
 
 <!---->
 ## FRIDAY JUL 1
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **2** | Fatigue **3** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -135,8 +137,8 @@ Total Time: **0 Minutes**
 &mdash;  
 
 <!---->
-## SATURDAY JUL 2
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY JUL 2 🌤
+Sleep **4** | Fatigue **3** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
