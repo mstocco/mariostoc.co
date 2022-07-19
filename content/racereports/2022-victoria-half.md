@@ -72,5 +72,6 @@ Apart from the pain, my first reaction was fear.  I took a step and then another
 
 One last question, _"How did my legs feel with a kilometre to go?"_ Answer: Depleted.   I was reminded of IM Italy at about the 25 kilometre point of that run.
 
-![](/assets/jpg/image.jpeg)
+![](/assets/jpg/20220717-map.jpeg)
+
 ![And done.](/assets/jpg/IMG_1217-549x550.jpeg RUN: 21.1KM 2:14:25 6:23/KM)
