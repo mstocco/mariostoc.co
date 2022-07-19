@@ -25,7 +25,7 @@ I finished the swim with the question, _"If I had to, could I go around again?"_
 ## Transition 1
 Nothing out of the ordinary to write about getting out of my wetsuit and donning on my bike kit.  I had arm warmers laid out to but decided to not wear them.
 
-<!---->
+![Picture is out of focus but I am right on time](/assets/jpg/IMG_1217-549x550.jpeg SWIM: 1900M 0:35:25 1:51/100M)
 ## The Bike
 Two loops of Central Saanich with a little more overall elevation gain but a kilometre and a half shorter than the 70.3.
 
@@ -43,7 +43,7 @@ I finished this ride strong, even up, dancing on the pedals, over the last pitch
 
 I may even look to put on a 30 tooth cassette before _Penticton_.
 
-<!---->
+![Willingdon Road during the second loop.](/assets/jpg/IMG_1216-549x550.jpeg BIKE: 88KM 3:04:32 28.9KPH AVG)
 ## Transition 2
 Brushing off the long cut grass from my feet, I noticed that my little toe area felt numb.  This might just be a _"good thing&trade;"_.
 
@@ -71,3 +71,6 @@ Instantly, acute pain shot from that little toe and felt like it didn't stop unt
 Apart from the pain, my first reaction was fear.  I took a step and then another while trying to gather myself.  In all, I lost around 30 seconds to this gaffe.  The walking quickly became emotionally harder than anything else and I resumed my best _"deadman shuffle"_ to the finish line.
 
 One last question, _"How did my legs feel with a kilometre to go?"_ Answer: Depleted.   I was reminded of IM Italy at about the 25 kilometre point of that run.
+
+![](/assets/jpg/image.jpeg)
+![And done.](/assets/jpg/IMG_1217-549x550.jpeg RUN: 21.1KM 2:14:25 6:23/KM)
