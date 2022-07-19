@@ -26,18 +26,21 @@ RACE DAY
 
 ### NOTES
 Total Time: **3:02:34**  
+142/256 Overall  
+110/162 Gender (M)  
+13/17 Division (M5054)
+
+<hr />
 
 <table>
-<tr><td>Swim</td><td style="text-align:right;font-weight:bold;">0:35:25</td></tr>
+<tr><td>Swim</td><td style="text-align:right;font-weight:bold; width:125px;">0:35:25</td></tr>
 <tr><td>T1</td><td style="text-align:right;font-weight:bold;">0:04:48</td></tr>
 <tr><td>Bike</td><td style="text-align:right;font-weight:bold;">3:04:22</td></tr>
 <tr><td>T2</td><td style="text-align:right;font-weight:bold;">0:03:32</td></tr>
 <tr><td>Run</td><td style="text-align:right;font-weight:bold;">2:14:25</td></tr>
 </table>
 
-142/256 Overall  
-110/162 Gender (M)  
-13/17 Division (M5054)
+
 
 <!---->
 ## MONDAY JUL 18 ☀️
