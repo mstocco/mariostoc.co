@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![With my friend Kevin Nuun about to roll up to the dismount line with me](/assets/jpg/IMG_1215-977x550.jpeg BROOKLEIGH ROAD, SAANICH, BC)
+![With my friend Kevin Nuun in hot pursuit, we are about to roll up to the dismount line together.](/assets/jpg/IMG_1215-977x550.jpeg BROOKLEIGH ROAD, SAANICH, BC)
 
 ## SUNDAY JUL 17
 Sleep **2** | Fatigue **2** | Stress **2** | Soreness **3**
@@ -40,7 +40,7 @@ Total Time: **3:02:34**
 <tr><td>Run</td><td style="text-align:right;font-weight:bold;">2:14:25</td></tr>
 </table>
 
-
+Full race report [here](/racereports/2022-victoria-half).
 
 <!---->
 ## MONDAY JUL 18 ☀️
