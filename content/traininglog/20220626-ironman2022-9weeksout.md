@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![A favourite among local cyclists, maybe one of Greater Victoria's best road to ride.](/assets/jpg/IMG_4173-977x550.jpeg ROSS-DURRANCE ROAD)
 
 ## SUNDAY JUN 26 ☀️
 Sleep **5** | Fatigue **-** | Stress **3** | Soreness **4**
