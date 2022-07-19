@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![With my friend Kevin Nuun about to roll up to the dismount line with me](/assets/jpg/IMG_1215-9x550.jpeg BROOKLEIGH ROAD, SAANICH, BC)
+![With my friend Kevin Nuun about to roll up to the dismount line with me](/assets/jpg/IMG_1215-977x550.jpeg BROOKLEIGH ROAD, SAANICH, BC)
 
 ## SUNDAY JUL 17
 Sleep **2** | Fatigue **2** | Stress **2** | Soreness **3**
@@ -36,30 +36,35 @@ Total Time: **3:04:32**
 </table>
 
 <!---->
-## MONDAY JUL 18
+## MONDAY JUL 18 ☀️
 Sleep **3** | Fatigue **6** | Stress **2** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
+Walk ~ 30 minutes. Nice easy stroll.
 
+Mobility 33 minutes
 
 ### NOTES
 Total Time: **30 Minutes**
 
-&mdash;  
+My little toe feels **surprisingly good** today; I cannot explain it.  I am pretty stiff otherwise with the big offenders being glutes, quads and my right hamstring.
+
+In lieu of the walk, I got some yard work done (~an hour on my feet).  Mobility work was completed too.
 
 <!---->
-## TUESDAY JUL 19
+## TUESDAY JUL 19 ☀️
 Sleep **2** | Fatigue **4** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Spin 45 minutes EASY. Any bike. Inside or outside.   
+Mobility 19 minutes  
 
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Another good sleep last night though I am still a bit stiff from [the race](/racereports/)
 
 <!---->
 ## WEDNESDAY JUL 20
