@@ -16,13 +16,12 @@ I feel like I was...
 
 ![With my friend Kevin Nuun in hot pursuit, we are about to roll up to the dismount line together.](/assets/jpg/IMG_1215-977x550.jpeg BROOKLEIGH ROAD, SAANICH, BC)
 
-## SUNDAY JUL 17
+## SUNDAY JUL 17 ⛅️
 Sleep **2** | Fatigue **2** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
-### PLANNED WORKOUT
-RACE DAY  
-2022 Victoria Half
+### RACE DAY  
+[2022 Victoria Half](racereports/2022-victoria-half)
 
 ### NOTES
 Total Time: **3:02:34**  
@@ -39,6 +38,9 @@ Total Time: **3:02:34**
 <tr><td>T2</td><td style="text-align:right;font-weight:bold;">0:03:32</td></tr>
 <tr><td>Run</td><td style="text-align:right;font-weight:bold;">2:14:25</td></tr>
 </table>
+
+Weather:  
+13ºC and overcast at the start, 20ºC and sunny at the finish line.  No wind throughout the day.
 
 Full race report [here](/racereports/2022-victoria-half).
 
@@ -69,30 +71,42 @@ Spin 45 minutes EASY. Any bike. Inside or outside.
 Mobility 19 minutes  
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **45 Minutes** &nbsp; Ride: **Rollers**
 
-Another good sleep last night though I am still a bit stiff from [the race](/racereports/)
+Another good sleep last night though I am still a bit stiff from [the race](/racereports/2022-victoria-half)
+
+Given the bike option, why not both?  I rode my TT Bike on the rollers, but outside in the sunshine with no fan.  This was a hot sweaty 45 minutes at easy effort.
 
 <!---->
-## WEDNESDAY JUL 20
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY JUL 20 ☀️
+Sleep **4** | Fatigue **4** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Ride 90 minutes on TT bike. Easy effort.   
+Mobility 20 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **90 Minutes** &nbsp;Ride: **27 km**
 
-&mdash;  
+I did not have the opportunity to glue a new tubular on the front wheel so my next best (only) option was my XC Bike.  I kept things easy, and headed out on the _Galloping Goose_, staying on the asphalt to the north end of _Thetis Lake Park_.  I did one run of single track on _Comfy Wooden Chair_ taking another **17 seconds off** my PR for that trail (now at 2:25).  The rest of the ride was fire road to _Langford_, and the _Goose_ home from the RCMP station.
+
+Good route with only a small amount of exposure to cars.
+
+I stopped the ride 300m from home and chatted with my neighbour for about 10 minutes.  Pedalling that last bit home, I could feel fatigue in my legs that was mostly unnoticed during the ride.
 
 <!---->
-## THURSDAY JUL 21
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY JUL 21 ☀️
+Sleep **3** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+1st: Open Water swim: 
+3x 3 minutes easy swimming to warm up. R ~ 1:00 after each. 
+When ready....
+3x 10 minutes steady and continuous. As usual, practicing swimming straight and finding a sustainable rhythm. R 1:30 after each.
+
+2nd: Run 40 minutes. Easy effort. VERY EASY!
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -105,7 +119,11 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Ride 3:00 on the TT bike. Include two trips up observatory and two trips up Willis. 
+Effort should be as easy as you can climb the climbs. And just cruising around for the three hours. 
+Standard fueling, standard hydration.
+
+Mobility 20 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -118,7 +136,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Run 40 minutes EASY.  
+Mobility 12 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
