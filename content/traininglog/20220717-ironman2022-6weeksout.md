@@ -91,13 +91,11 @@ Total Time: **90 Minutes** &nbsp;Ride: **27 km**
 
 I did not have the opportunity to glue a new tubular on the front wheel so my next best (only) option was my XC Bike.  I kept things easy, and headed out on the _Galloping Goose_, staying on the asphalt to the north end of _Thetis Lake Park_.  I did one run of single track on _Comfy Wooden Chair_ taking another **17 seconds off** my PR for that trail (now at 2:25).  The rest of the ride was fire road to _Langford_, and the _Goose_ home from the RCMP station.
 
-Good route with only a small amount of exposure to cars.
-
-I stopped the ride 300m from home and chatted with my neighbour for about 10 minutes.  Pedalling that last bit home, I could feel fatigue in my legs that was mostly unnoticed during the ride.
+I stopped ~200m from home to chat with my neighbour (~10 mins).  Pedalling that last bit home, I could feel fatigue in my legs that was mostly unnoticed during the ride.
 
 <!---->
 ## THURSDAY JUL 21 ☀️
-Sleep **3** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
