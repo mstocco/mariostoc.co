@@ -7,12 +7,13 @@ Week beginning [Sunday, July 17, 2022](javascript:flick('sun');)
 Recover from the race on [Sunday](javascript:flick('sun');) before the hopefully a really big 4 weeks.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **14 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **READY FOR THE NEXT...**
 
-&mdash;
+I think this was an pretty good week considering I how I absorbed the effort from the [race](racereports/2022-victoria-half).
+
+I did miss a run on [Thursday](javascript:flick('thu');) as my toe still needed more rest.  That rest led to my most comfortable run since its injury on [Saturday](javascript:flick('sat');).  I did have a bit of a motivational struggle getting out the door on [Friday](javascript:flick('fri');) but finished the ride on a high.
 
 ![With my friend Kevin Nuun in hot pursuit, we are about to roll up to the dismount line together.](/assets/jpg/IMG_1215-977x550.jpeg BROOKLEIGH ROAD, SAANICH, BC)
 
@@ -107,12 +108,14 @@ When ready....
 2nd: Run 40 minutes. Easy effort. VERY EASY!
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **90 Minutes** &nbsp; OWS: **2.1 km**
 
-&mdash;  
+I skipped the run but did commute to and from _Thetis Lake_ for roughly 40 minutes of cardio.  My toe was feeling on the sore side.
+
+The swim was pretty straight forward too as it was roughly 10 minutes in a straight line from the main beach directly toward a rock on the far shore; no need to loop the islands.
 
 <!---->
-## FRIDAY JUL 22
+## FRIDAY JUL 22 ☀️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -124,13 +127,15 @@ Standard fueling, standard hydration.
 Mobility 20 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **181 Minutes** &nbsp; Ride: **71 km**
 
-&mdash;  
+I rode this as it was written but it wasn't easy to get out the door.  I wanted to figure out a way to get the 11x30 cassette on the TT Bike but instead, kept the DeCadence wheels (11x25 on the rear) and put on a new Continental tubular on the front (original Pirelli was separating between the tread and the casing).
+
+Stayed out for the full 3 hours and was really happy that I did.  QL/Back did okay too.
 
 <!---->
-## SATURDAY JUL 23
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY JUL 23 ☀️
+Sleep **2** | Fatigue **3** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -138,6 +143,6 @@ Run 40 minutes EASY.
 Mobility 12 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **41 Minutes** &nbsp; Run: **6.7 km**
 
-&mdash;
+In between birthday celebrations (and too much food), I set out for a run at the warmest part of the day.  My little toe felt the best its been since breaking it; no soreness during and no tingly nerve sensation either.  Carina rode her bike beside me and it was really nice to have her company.
