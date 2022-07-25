@@ -9,11 +9,13 @@ Recover from the race on [Sunday](javascript:flick('sun');) before the hopefully
 ## SUMMARY
 Total Time: **14 Hours**
 
-I feel like I was **READY FOR THE NEXT...**
+I feel like I was **READY FOR WHAT'S NEXT**
 
-I think this was an pretty good week considering I how I absorbed the effort from the [race](racereports/2022-victoria-half).
+I think this was an pretty good week considering I how I absorbed the effort from the [race](racereports/2022-victoria-half) on [Sunday](javascript:flick('sun');).
 
-I did miss a run on [Thursday](javascript:flick('thu');) as my toe still needed more rest.  That rest led to my most comfortable run since its injury on [Saturday](javascript:flick('sat');).  I did have a bit of a motivational struggle getting out the door on [Friday](javascript:flick('fri');) but finished the ride on a high.
+Later in the week, I missed a run on [Thursday](javascript:flick('thu');) as my toe still needed more rest.  That rest led to my most comfortable run since its injury on [Saturday](javascript:flick('sat');).
+
+I did have a bit of a motivational struggle getting out the door on [Friday](javascript:flick('fri');) but finished the ride on a high.
 
 ![With my friend Kevin Nuun in hot pursuit, we are about to roll up to the dismount line together.](/assets/jpg/IMG_1215-977x550.jpeg BROOKLEIGH ROAD, SAANICH, BC)
 

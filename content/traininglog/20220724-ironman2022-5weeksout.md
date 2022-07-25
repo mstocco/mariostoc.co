@@ -36,8 +36,9 @@ Total Time: **315 Mins** &nbsp;OWS: **3.2 km** &nbsp;Ride: **62 km**
 Up to _Shawnigan Lake_ for some afternoon training.
 
 The lake was awesome; clean, cool water with little wind but some boat wake thrown in to practice with.  I wore my farmer-john wetsuit for the first time and I am not sure if I prefer it over my sleeved wetsuit.  It is certainty a half size smaller and having my arms free was nice.
-
+<!----->
 Carina dropped me off at the _Kinsol Trestle Parking Lot_ and I rode the kilometre north to grab [this photo](javascript:flkty.select(2);).  From there it was south on the _Great Trail_ with a couple of **big hills** in between.  I included a trip up and over the _Bear Mountain Parkway_ for good measure.  There was no wind and I was in a long sleeve shirt for any sort of heat adaptation.  My Oakley sunglasses were an obscured salty mess by the end of this ride. 
+![](/assets/jpg/image.jpeg)
 
 <!---->
 ## MONDAY JUL 25 ☀️
