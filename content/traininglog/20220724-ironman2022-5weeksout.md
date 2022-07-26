@@ -57,8 +57,8 @@ Total Time: **0 Minutes**
 &mdash;  
 
 <!---->
-## TUESDAY JUL 26
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY JUL 26 ☀️
+Sleep **5** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -72,9 +72,10 @@ Swim 2800:
 Ride 40ish minutes home from the pool. Just enough to count it as a ride, but not so much that it will fatigue you.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Swim: **0m**
 
-&mdash;  
+Not the most restful sleep like night.  I was expecting to feel dinged from the run [yesterday](javascript('mon');) but I actually feel pretty good.
+
 
 <!---->
 ## WEDNESDAY JUL 27
