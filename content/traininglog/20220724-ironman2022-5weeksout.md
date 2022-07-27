@@ -80,7 +80,7 @@ Total Time: **105 Minutes** &nbsp; Swim: **2800m**
 
 Not the most restful sleep like night.  I was expecting to feel more dinged from the run [yesterday](javascript('mon');) but I actually feel pretty good overall.  My right ankle being the only tender spot.
 
-While pedalling easy to and from the pool, I certainly feel the ride on [Sunday](javascript:flick('sun');) in my quads 
+While pedalling easy to and from the pool however, I certainly feel the ride on [Sunday](javascript:flick('sun');) lingering in my quads.
 <!----->
 In the pool, I got after it during the strong 100m reps.  I clocked 1:33 for the 100m and **a new PR**, repeating it 4 times in a row for good measure.  There was a slight fade for reps 6, 7 and 8 but overall, a big session.
 
