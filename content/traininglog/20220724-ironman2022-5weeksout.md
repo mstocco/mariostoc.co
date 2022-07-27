@@ -84,7 +84,7 @@ I certainly still feel the ride on [Sunday](javascript:flick('sun');) in my quad
 <!----->
 In the pool, I wore my HRM Swim band to get a more accurate reading of my heart-rate.  I got after it during the strong 100s too.  I clocked 1:33 for the 100m and a new PR, repeating it 4 times in a row for good measure.  There was a slight fade for reps 6, 7 and 8 but overall, a big session.
 
-![](/assets/jpg/image.jpeg)
+![Swim](/assets/jpg/swim-20220726.jpeg)
 <!---->
 ## WEDNESDAY JUL 27
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
