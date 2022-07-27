@@ -58,16 +58,16 @@ First run with my neighbours in almost 2 months.
 
 The pace started slow and gradually increased over the course of the hour.  I was feeling ok with the added push near the end; muscles were perfused and I was getting next to no complaints from my little toe.  We were brushing up against 5:30/km on the false flat until the final rise up _Culduthel Road_.
 
-It was a warm one.
+It was another warm one.
 
 <!---->
 ## TUESDAY JUL 26 ☀️
-Sleep **5** | Fatigue **3** | Stress **3** | Soreness **3**
+Sleep **5** | Fatigue **5** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 Easy spin to the pool. 
-Swim 2800: 
+Swim 2800:
 4 rounds (100 easy swim, 50 steady kick. R :15 after each) 
 15x 50 as 1: Easy, 2: Gradually build easy to strong, 3: Strong. R :15 after each). 
 150 easy/smooth. 
@@ -78,9 +78,9 @@ Ride 40ish minutes home from the pool. Just enough to count it as a ride, but no
 ### NOTES
 Total Time: **105 Minutes** &nbsp; Swim: **2800m**
 
-Not the most restful sleep like night.  I was expecting to feel dinged from the run [yesterday](javascript('mon');) but I actually feel pretty good overall.
+Not the most restful sleep like night.  I was expecting to feel more dinged from the run [yesterday](javascript('mon');) but I actually feel pretty good overall.  My right ankle being the only tender spot.
 
-I certainly still feel the ride on [Sunday](javascript:flick('sun');) in my quads while pedalling easy to and from the pool however.
+While pedalling easy to and from the pool, I certainly feel the ride on [Sunday](javascript:flick('sun');) in my quads 
 <!----->
 In the pool, I got after it during the strong 100m reps.  I clocked 1:33 for the 100m and **a new PR**, repeating it 4 times in a row for good measure.  There was a slight fade for reps 6, 7 and 8 but overall, a big session.
 
