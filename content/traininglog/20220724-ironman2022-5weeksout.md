@@ -86,8 +86,8 @@ In the pool, I got after it during the strong 100m reps.  I clocked 1:33 for the
 
 ![Swim](/assets/jpg/swim-20220726.jpeg)
 <!---->
-## WEDNESDAY JUL 27
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY JUL 27 ☀️
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -102,9 +102,9 @@ Do your best to fuel and hydrate on this ride.
 Off the bike: Run 30 minutes. EASY and flat.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Mins** &nbsp;Bike: **0 km** &nbsp;Run: **0 km**
 
-&mdash;  
+Much better sleep last night.
 
 <!---->
 ## THURSDAY JUL 28
