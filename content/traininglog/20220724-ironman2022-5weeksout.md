@@ -54,7 +54,11 @@ Mobility 15 minutes
 ### NOTES
 Total Time: **60 Minutes** &nbsp; Run: **10 km**
 
-First run with my neighbours in almost 2 months.  The pace started slow and gradually increased over the course of the hour.  I was feeling ok with the added push near the end; muscles were perfused and I was getting next to no complaints from my little toe.  We were brushing up against 5:30/km until the final rise up _Culduthel Road_.  It was a warm one.
+First run with my neighbours in almost 2 months.
+
+The pace started slow and gradually increased over the course of the hour.  I was feeling ok with the added push near the end; muscles were perfused and I was getting next to no complaints from my little toe.  We were brushing up against 5:30/km on the false flat until the final rise up _Culduthel Road_.
+
+It was a warm one.
 
 <!---->
 ## TUESDAY JUL 26 ☀️
@@ -74,8 +78,10 @@ Ride 40ish minutes home from the pool. Just enough to count it as a ride, but no
 ### NOTES
 Total Time: **105 Minutes** &nbsp; Swim: **2800m**
 
-Not the most restful sleep like night.  I was expecting to feel dinged from the run [yesterday](javascript('mon');) but I actually feel pretty good overall.  I certainly feel it in my quads while pedalling easy to and from the pool however.
+Not the most restful sleep like night.  I was expecting to feel dinged from the run [yesterday](javascript('mon');) but I actually feel pretty good overall.
 
+I certainly still feel the ride on [Sunday](javascript:flick('sun');) in my quads while pedalling easy to and from the pool however.
+<!----->
 In the pool, I wore my HRM Swim band to get a more accurate reading of my heart-rate.  I got after it during the strong 100s too.  I clocked 1:33 for the 100m and a new PR, repeating it 4 times in a row for good measure.  There was a slight fade for reps 6, 7 and 8 but overall, a big session.
 
 ![](/assets/jpg/image.jpeg)
