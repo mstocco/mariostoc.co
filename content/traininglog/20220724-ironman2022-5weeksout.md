@@ -4,7 +4,7 @@ Week beginning [Sunday, July 24, 2022](javascript:flick('sun');)
 **5** weeks out from race day.
 
 ## WEEKLY GOAL
-The last push.
+The start of the last push.
 
 ## SUMMARY
 Total Time:<mark> **20 Hours** </mark>
@@ -15,7 +15,7 @@ Biggest single, Sunday to Saturday week in my life.  During the build last year,
 
 This week delivered a small boost of confidence, with two rides standing out; both rides starting in the _Cowichan Valley_ and both ending up at home.
 
-My toe is starting to mend and my confidence in it is finally starting to happen too.  It say its 90% healthy and no longer an impediment to running.
+My toe is starting to mend and my confidence in it is finally starting to happen too.  I'd say its 90% healthy and no longer an impediment to running.
 
 ![The start of Sunday's ride.](/assets/jpg/IMG_4184-549x550.jpeg THE KINSOL TRESTLE, COWICHAN VALLEY)
 ![Where the the ride on Sunday finished.](/assets/jpg/IMG_4186-549x550.jpeg THE SERKIRK TRESTLE, VICTORIA)
@@ -109,7 +109,9 @@ Total Time: **182 Mins** &nbsp;Bike: **60 km** &nbsp;Walk: **1.5 km**
 
 Much better sleep last night.
 
-I rode up _Observatory Road_ 3 times and took a nice spin through _Central Saanich_ before looping back to _Willis Point Road_.  On the way up that hill I heard what I thought was my rear derailleur needing an adjustment (new cable installed recently).  Just before the crest of the hill, I found the real culprit for the noise; I had a rear tire going flat.
+I rode up _Observatory Road_ 3 times and took a nice spin through _Central Saanich_ before looping back to _Willis Point Road_.
+<!----->
+On the way up that hill I heard what I thought was my rear derailleur needing an adjustment (new cable installed recently).  Just before the crest of the hill, I found the real culprit for the noise; I had a rear tire going flat.
 
 I had a choice to burn another can of _Vittoria Pit Stop_ and ride up the hill a second time or to top up the tire with C0<small>2</small> and head for home.  I made the executive decision to nurse the tire back home with the C0<small>2</small> and not invest the $24 (cost of the _Pit Stop_) when I just bought a replacement tubular [yesterday](javascript:flick('tue');).  I made it back.
 
@@ -147,7 +149,8 @@ Spin 30 minutes easy. Either around town for errands or on the trainer to keep t
 ### NOTES
 Total Time: **32 Minutes** &nbsp; Run: **5.4 km**
 
-Just a run in the sun.
+Just a run in the sun on _Lochside Trail_ to _Quadra Street and back; no ride today.
+![Run](/assets/jpg/image.jpeg)
 
 
 <!---->
