@@ -113,11 +113,16 @@ I rode up _Observatory Road_ 3 times and took a nice spin through _Central Saani
 <!----->
 On the way up that hill I heard what I thought was my rear derailleur needing an adjustment (new cable installed recently).  Just before the crest of the hill, I found the real culprit for the noise; I had a rear tire going flat.
 
-I had a choice to burn another can of _Vittoria Pit Stop_ and ride up the hill a second time or to top up the tire with C0<small>2</small> and head for home.  I made the executive decision to nurse the tire back home with the C0<small>2</small> and not invest the $24 (cost of the _Pit Stop_) when I just bought a replacement tubular [yesterday](javascript:flick('tue');).  I made it back.
+I had a choice to burn another can of _Vittoria Pit Stop_ and ride up the hill a second time or to top up the tire with C0<small>2</small> and head for home.  I made the executive decision to nurse the tire back home with the C0<small>2</small> and not invest the $24 (cost of the _Pit Stop_) when I just bought a replacement tubular [yesterday](javascript:flick('tue');).
 
-I did start the run but I was feeling off, very off.  My ankle, this time the left one, was barking loudly so after 400m, I walked for a bit.  Starting the jog again and I was still not right so I called it and walked home.  No need to force something into a worse spot at this point in the game.
+I made it back.
 
- 
+---
+
+I did start the run but I was feeling off, very off.
+
+My ankle, this time the left one, was barking loudly so after 400m, I walked for a bit.  Starting the jog again and I was still not right so I called it and walked home.  No need to force something into a worse spot at this point in the game.
+
 <!---->
 ## THURSDAY JUL 28 ☀️
 Sleep **3** | Fatigue **5** | Stress **3** | Soreness **3**
@@ -150,7 +155,7 @@ Spin 30 minutes easy. Either around town for errands or on the trainer to keep t
 Total Time: **32 Minutes** &nbsp; Run: **5.4 km**
 
 Just a run in the sun on _Lochside Trail_ to _Quadra Street and back; no ride today.
-![Run](/assets/jpg/image.jpeg)
+![Run](/assets/jpg/run-20220729.jpeg)
 
 
 <!---->
@@ -168,30 +173,35 @@ Off the bike: 30 minutes on the feet. Ideally you get your gear away somewhat qu
 Walk 10 minutes. 
 Run 10 minutes easy, but actually trying to run. 
 Walk 10 minutes to finish up a long day. 
-*I'd bring water and calories on this run. If for anything, to start recovery on the final walk. 
 
+I'd bring water and calories on this run. If for anything, to start recovery on the final walk. 
 ### NOTES
 Total Time: **398 Mins** &nbsp;Ride: **143 km** &nbsp;Run **5.3 km** 
 
+<!----->
 Carina had a sailing regatta in _Cowichan Bay_ so I hitched a ride up into my old stomping grounds with her.
 
 This was a very nostalgic ride for me.  I pressed start at the resort that my parents owned in the 80's and left _Cowichan Bay_ and headed north on the road that my father first gave me the wheel of the family pickup truck.  I was 14 years old at the time.
 
+![Bike](/assets/jpg/bike-20220730.jpeg)
+<!----->
 I climbed up _Kingsview Road_ and turned on to _Belcarra Road_, passing the home I grew up in.  The current owners have looked after the place.  A Japanese Maple Tree that I planted in the back yard is now taller than the house itself; amazing.
 
 After _Maple Bay_, I headed west on the highway up to _Lake Cowichan_.  This road was not in any sort of condition that I remember.  The shoulder was very rough, if it even existed in some places.  Traffic on the highway was very heavy too; a large outdoor country music festival had every hillbilly, jacked-up 4x4 on _Vancouver Island_ racing up to the lake.  It was a danger stretch that beat me up too.
 
 From the lake, I took the quieter back road for my return east.  I caught up to a local roadie, also riding an Argon 18 and we shared the road back to _Duncan_.
 
-I skipped most of the highway south of Duncan by taking the back roads south.  _Koksilah Road_, then _Cobble Hill Road_ up toward _Shawnigan Lake_. 
-
+I skipped most of the highway south of Duncan by taking the back roads.  _Koksilah Road_, then _Cobble Hill Road toward _Shawnigan Lake_. 
+<!----->
 Just past 4 hours and 97 kms into the ride, I stoped at the _Cobble Hill Market_ for a fill of my water bottles and a can of RedBull.
 
 The climb up out of _Shawnigan Lake_ wasn't too bad.  It was hot and I had an my 11x25 cassette on the back wheel but I was able to break up the hill mentally into smaller chunks.
 
 _The Malahat_ has not changed; despite the downhill sections, I still do not find it safe to be in the aero bars with the amount of course stones on the shoulder and speeds at which the traffic goes past.  I did have a lucky lull in that traffic through the construction zone coming down _Tunnel Hill_ though.
 
-Going through the traffic lights of _Langford_ offered a couple small breaks and the last 15 minutes of the ride, I actually felt as strong as I had at any point in the ride.  I got to the point where I typically press stop on my bike computer but instead of rolling home, I turned around.  About a 100m back, a cyclist was dealing with a flat tire.  It was less than a month ago when I was that guy with a flat and someone stopped to help me out.  This afternoon, it was my turn to help a stranger.
+Going through the traffic lights of _Langford_ offered a couple small breaks and the last 15 minutes of the ride, I actually felt as strong as I had at any point in the ride.  I got to _Seaton Road_ where I pressed stop on my bike computer but instead of rolling home, I turned around.
+<!----->
+About a 100m back, a cyclist was dealing with a flat tire.  It was less than a month ago when I was that guy with a flat and someone stopped to help me out.  This afternoon, it was my turn to help a stranger.
 
 That may have added about 20 minutes worth of break before the run.
 
