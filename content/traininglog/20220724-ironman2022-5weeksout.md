@@ -7,12 +7,15 @@ Week beginning [Sunday, July 24, 2022](javascript:flick('sun');)
 The last push.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time:<mark> **20 Hours** </mark>
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **FINDING MYSELF AGAIN**
 
-&mdash;
+Biggest single, Sunday to Saturday week in my life.  During the build last year, I got to a [19 hour week](ironman2021-6weeksout).  
+
+This week delivered a small boost of confidence, with two rides standing out; both rides starting in the _Cowichan Valley_ and both ending up at home.
+
+My toe is starting to mend and my confidence in it is finally starting to happen too.  It say its 90% healthy and no longer an impediment to running.
 
 ![The start of Sunday's ride.](/assets/jpg/IMG_4184-549x550.jpeg THE KINSOL TRESTLE, COWICHAN VALLEY)
 ![Where the the ride on Sunday finished.](/assets/jpg/IMG_4186-549x550.jpeg THE SERKIRK TRESTLE, VICTORIA)
@@ -102,13 +105,20 @@ Do your best to fuel and hydrate on this ride.
 Off the bike: Run 30 minutes. EASY and flat.
 
 ### NOTES
-Total Time: **0 Mins** &nbsp;Bike: **0 km** &nbsp;Run: **0 km**
+Total Time: **182 Mins** &nbsp;Bike: **60 km** &nbsp;Walk: **1.5 km**
 
 Much better sleep last night.
 
+I rode up _Observatory Road_ 3 times and took a nice spin through _Central Saanich_ before looping back to _Willis Point Road_.  On the way up that hill I heard what I thought was my rear derailleur needing an adjustment (new cable installed recently).  Just before the crest of the hill, I found the real culprit for the noise; I had a rear tire going flat.
+
+I had a choice to burn another can of _Vittoria Pit Stop_ and ride up the hill a second time or to top up the tire with C0<small>2</small> and head for home.  I made the executive decision to nurse the tire back home with the C0<small>2</small> and not invest the $24 (cost of the _Pit Stop_) when I just bought a replacement tubular [yesterday](javascript:flick('tue');).  I made it back.
+
+I did start the run but I was feeling off, very off.  My ankle, this time the left one, was barking loudly so after 400m, I walked for a bit.  Starting the jog again and I was still not right so I called it and walked home.  No need to force something into a worse spot at this point in the game.
+
+ 
 <!---->
-## THURSDAY JUL 28
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY JUL 28 ☀️
+Sleep **3** | Fatigue **5** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -119,13 +129,15 @@ Swim 2000:
 Mobility 25 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **90 Minutes** &nbsp; OWS: **2100m**
 
-&mdash;  
+Late afternoon swim at _Thetis Lake_ in place of the pool workout.  This gave me ~40 minutes of commute time on my bike.
+
+I set my the interval programming on my watch for 4 x 10 minutes with a 2 minute rest then set of for a cruise around the lake.  IM effort without a wetsuit and towing a float in calm water was around 2:20/100m according to the GPS track.  Although those numbers are not "race typical" for me, I felt great (connected, present) in the water today.
 
 <!---->
-## FRIDAY JUL 29
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY JUL 29 ☀️
+Sleep **4** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -133,19 +145,54 @@ Run 40 minutes. Easy and flat route.
 Spin 30 minutes easy. Either around town for errands or on the trainer to keep things simple.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **32 Minutes** &nbsp; Run: **5.4 km**
 
-&mdash;  
+Just a run in the sun.
+
 
 <!---->
-## SATURDAY JUL 30
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY JUL 30 ☀️
+Sleep **4** | Fatigue **3** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Ride ~ 5:30ish on the bike. Your 138km route works well for me. 
+If you ride it faster, just add on some distance to get to the 5:30 mark. I'm ok if you take longer to ride the route as well. Obviously wind, traffic, ect always plays into it. 
+Standard fueling, standard hydration. Time in the bars. 
+Finding your personal pace and effort for a long day of riding efficiently. 
+
+Off the bike: 30 minutes on the feet. Ideally you get your gear away somewhat quickly. (10-20 minutes) 
+Walk 10 minutes. 
+Run 10 minutes easy, but actually trying to run. 
+Walk 10 minutes to finish up a long day. 
+*I'd bring water and calories on this run. If for anything, to start recovery on the final walk. 
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **398 Mins** &nbsp;Ride: **143 km** &nbsp;Run **5.3 km** 
 
-&mdash;  
+Carina had a sailing regatta in _Cowichan Bay_ so I hitched a ride up into my old stomping grounds with her.
+
+This was a very nostalgic ride for me.  I pressed start at the resort that my parents owned in the 80's and left _Cowichan Bay_ and headed north on the road that my father first gave me the wheel of the family pickup truck.  I was 14 years old at the time.
+
+I climbed up _Kingsview Road_ and turned on to _Belcarra Road_, passing the home I grew up in.  The current owners have looked after the place.  A Japanese Maple Tree that I planted in the back yard is now taller than the house itself; amazing.
+
+After _Maple Bay_, I headed west on the highway up to _Lake Cowichan_.  This road was not in any sort of condition that I remember.  The shoulder was very rough, if it even existed in some places.  Traffic on the highway was very heavy too; a large outdoor country music festival had every hillbilly, jacked-up 4x4 on _Vancouver Island_ racing up to the lake.  It was a danger stretch that beat me up too.
+
+From the lake, I took the quieter back road for my return east.  I caught up to a local roadie, also riding an Argon 18 and we shared the road back to _Duncan_.
+
+I skipped most of the highway south of Duncan by taking the back roads south.  _Koksilah Road_, then _Cobble Hill Road_ up toward _Shawnigan Lake_. 
+
+Just past 4 hours and 97 kms into the ride, I stoped at the _Cobble Hill Market_ for a fill of my water bottles and a can of RedBull.
+
+The climb up out of _Shawnigan Lake_ wasn't too bad.  It was hot and I had an my 11x25 cassette on the back wheel but I was able to break up the hill mentally into smaller chunks.
+
+_The Malahat_ has not changed; despite the downhill sections, I still do not find it safe to be in the aero bars with the amount of course stones on the shoulder and speeds at which the traffic goes past.  I did have a lucky lull in that traffic through the construction zone coming down _Tunnel Hill_ though.
+
+Going through the traffic lights of _Langford_ offered a couple small breaks and the last 15 minutes of the ride, I actually felt as strong as I had at any point in the ride.  I got to the point where I typically press stop on my bike computer but instead of rolling home, I turned around.  About a 100m back, a cyclist was dealing with a flat tire.  It was less than a month ago when I was that guy with a flat and someone stopped to help me out.  This afternoon, it was my turn to help a stranger.
+
+That may have added about 20 minutes worth of break before the run.
+
+I headed out on the _Lochside Trail_ toward my turn around at _Quadra Street_.  Unlike the jog on [Thursday](javascript:flick('thu');) today I was there about a minute faster.  I slowed it down a touch for the return home but this was a solid run off the bike for me.  It wasn't until typing up this report that I realized that this was written as a Walk/Run/Walk session.
+
+#### CALORIES ON THE BIKE
+Between 1800 and 1900 calories for the ride, between Maynards Sour Patch Kids, maple syrup and a can of RedBull that I picked up at the corner store in Cobble Hill.
