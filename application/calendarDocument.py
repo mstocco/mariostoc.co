@@ -19,10 +19,6 @@ class CalendarMonth(DIV):
 
 		keydates = []
 		keydates.append(date(2022,4,24))	# TC10K
-		keydates.append(date(2022,5,15))	# Westwood Lake Triathlon
-		keydates.append(date(2022,7,3))		# Cowichan Challenge
-		keydates.append(date(2022,7,10))	# XTerra Victoria
-		keydates.append(date(2022,7,31))	# Elk Lake Triathlon
 
 		imc = triathlons[0]	# IronMan Canada
 		imitaly = date(2021,9,18)
