@@ -187,19 +187,21 @@ This was a very nostalgic ride for me.  I pressed start at the resort that my pa
 <!----->
 I climbed up _Kingsview Road_ and turned on to _Belcarra Road_, passing the home I grew up in.  The current owners have looked after the place.  A Japanese Maple Tree that I planted in the back yard is now taller than the house itself; amazing.
 
-After _Maple Bay_, I headed west on the highway up to _Lake Cowichan_.  This road was not in any sort of condition that I remember.  The shoulder was very rough, if it even existed in some places.  Traffic on the highway was very heavy too; a large outdoor country music festival had every hillbilly, jacked-up 4x4 on _Vancouver Island_ racing up to the lake.  It was a danger stretch that beat me up too.
+After _Maple Bay_, I headed west on the highway up to _Lake Cowichan_.  This road was not in any sort of condition that I remember.  The shoulder was very rough, if it even existed in some places.  Traffic on the highway was very heavy too; a large outdoor country music festival had every hillbilly, jacked-up 4x4 on _Vancouver Island_ racing up to the lake.  It was a dangerous stretch that beat me up too.
 
 From the lake, I took the quieter back road for my return east.  I caught up to a local roadie, also riding an Argon 18 and we shared the road back to _Duncan_.
 
-I skipped most of the highway south of Duncan by taking the back roads.  _Koksilah Road_, then _Cobble Hill Road toward _Shawnigan Lake_. 
+I skipped most of the highway south of Duncan by taking _Koksilah Road_, then _Cobble Hill Road_ toward _Shawnigan Lake_. 
 <!----->
 Just past 4 hours and 97 kms into the ride, I stoped at the _Cobble Hill Market_ for a fill of my water bottles and a can of RedBull.
 
 The climb up out of _Shawnigan Lake_ wasn't too bad.  It was hot and I had an my 11x25 cassette on the back wheel but I was able to break up the hill mentally into smaller chunks.
 
-_The Malahat_ has not changed; despite the downhill sections, I still do not find it safe to be in the aero bars with the amount of course stones on the shoulder and speeds at which the traffic goes past.  I did have a lucky lull in that traffic through the construction zone coming down _Tunnel Hill_ though.
+_The Malahat_ has not changed; I still do not find the downhill sections safe to be in the aero bars with the amount of course stones on the shoulder and speeds at which the traffic goes past.  I did have a lucky lull in that traffic through the construction zone coming down _Tunnel Hill_ though.
 
-Going through the traffic lights of _Langford_ offered a couple small breaks and the last 15 minutes of the ride, I actually felt as strong as I had at any point in the ride.  I got to _Seaton Road_ where I pressed stop on my bike computer but instead of rolling home, I turned around.
+The traffic lights of _Langford_ offered a couple small breaks and the last 15 minutes of the ride, I actually felt as strong as I had at any point in the ride.
+
+I got to _Seaton Road_ where I pressed stop on my bike computer but instead of rolling home, I turned around.
 <!----->
 About a 100m back, a cyclist was dealing with a flat tire.  It was less than a month ago when I was that guy with a flat and someone stopped to help me out.  This afternoon, it was my turn to help a stranger.
 
