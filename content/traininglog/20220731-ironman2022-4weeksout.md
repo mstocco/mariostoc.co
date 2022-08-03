@@ -29,13 +29,11 @@ Run 60 minutes. Easy effort. Flatter route is perfect.
 Mobility 30 minutes
 
 ### NOTES
-Total Time: **82 Minutes** &nbsp; Old Man Shuffle: **10.5 km**
+Total Time: **82 Mins** &nbsp; Old Man Shuffle: **10.5 km**
 
-Tired legs is an **understatement**.
+Tired legs is an **understatement**.  This one hurt in a couple of ways.
 
-This one hurt in a couple of ways.  Ran on gravel with my soft Altras and my pinkie toe did not agree with the activity.  My legs were super heavy and never loosened up but really what hurt the most was my ego.  I fought for about 28 minutes through to _Mann Road_ but after a quick bio-break in the bushes, found it really hard to shuffle again.
-
-I eventually did but nothing pleasing about the day.
+Ran on gravel with my soft Altras and my pinkie toe did not agree with the surface.  My legs were super heavy and never loosened up.  What really hurt the most was my ego;  I fought for about 28 minutes up to _Mann Road_ but after a quick bio-break in the bushes, found it really hard to shuffle again.
 
 <!---->
 ## MONDAY AUG 1 🌤
@@ -52,7 +50,9 @@ Rest 3 minutes between each.
 ### NOTES
 Total Time: **84 Minutes** &nbsp; Swim: **~3500m**
 
-Durrance Lake with just a trisuit.  I felt good; swimming doesn't ask a lot from my legs though, during the 3rd 15 minute rep, I felt a bit of a cramp in my left hip flexor.  Water was nice and I had Carina on her paddle board, checking in with me as I swam laps of the lake.
+Durrance Lake with just a trisuit (no neoprene).
+
+I felt good; swimming doesn't ask a lot from my legs though, during the 3rd 15 minute rep, I felt a bit of a cramp in my left hip flexor.  Water was nice and I had Carina on her paddle board, checking in with me as I swam laps of the lake.
 
 <!---->
 ## TUESDAY AUG 2 🌤
@@ -71,7 +71,7 @@ Weather is still sunny but it has turned cold (for August).
 
 I rode my TT Bike up to _Hamsterly Beach_ to pick up the race swag (hoodie) that was not available for the Victoria Half.  It was roughly 30 minutes to and about the same coming home.
 
-I did not run immediately when I got home but when I did set out, it still felt like a _"brick session"_; heavy legs again for almost the full half hour.
+I did not run immediately when I got home but when I did eventually head out, it felt like a _"brick session"_; heavy legs (again) for almost the full half hour.
 
 <!---->
 ## WEDNESDAY AUG 3 ☀️
