@@ -197,17 +197,17 @@ Just past 4 hours and 97 kms into the ride, I stoped at the _Cobble Hill Market_
 
 The climb up out of _Shawnigan Lake_ wasn't too bad.  It was hot and I had an my 11x25 cassette on the back wheel but I was able to break up the hill mentally into smaller chunks.
 
-_The Malahat_ has not changed; I still do not find the downhill sections safe to be in the aero bars with the amount of course stones on the shoulder and speeds at which the traffic goes past.  I did have a lucky lull in that traffic through the construction zone coming down _Tunnel Hill_ though.
+_The Malahat_ has not changed; I still do not find the long downhill sections safe to be in the aero bars with the amount of large stones on the shoulder and speeds at which the traffic goes past.  Luckily, I did have a lull in traffic through the construction zone coming down _Tunnel Hill_.
 
 The traffic lights of _Langford_ offered a couple small breaks and the last 15 minutes of the ride, I actually felt as strong as I had at any point in the ride.
 
-I got to _Seaton Road_ where I pressed stop on my bike computer but instead of rolling home, I turned around.
+I got to _Seaton Road_ (basically back home) where I pressed stop on my bike computer but instead of rolling to the house, I turned around.
 <!----->
 About a 100m back, a cyclist was dealing with a flat tire.  It was less than a month ago when I was that guy with a flat and someone stopped to help me out.  This afternoon, it was my turn to help a stranger.
 
 That may have added about 20 minutes worth of break before the run.
 
-I headed out on the _Lochside Trail_ toward my turn around at _Quadra Street_.  Unlike the jog on [Thursday](javascript:flick('thu');) today I was there about a minute faster.  I slowed it down a touch for the return home but this was a solid run off the bike for me.  It wasn't until typing up this report that I realized that this was written as a Walk/Run/Walk session.
+I headed out on the _Lochside Trail_ toward my turn around at _Quadra Street_.  Unlike the jog on [Thursday](javascript:flick('thu');), today I was there about a minute faster.  I slowed it down a touch for the return home but this was a solid run off the bike for me.  It wasn't until typing up this report that I realized that this was written as a Walk/Run/Walk session.
 
 #### CALORIES ON THE BIKE
 Between 1800 and 1900 calories for the ride, between Maynards Sour Patch Kids, maple syrup and a can of RedBull that I picked up at the corner store in Cobble Hill.
