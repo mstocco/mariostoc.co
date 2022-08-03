@@ -29,9 +29,13 @@ Run 60 minutes. Easy effort. Flatter route is perfect.
 Mobility 30 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Old Man Shuffle: **9 km**
 
-&mdash;  
+Tired legs is an **understatement**.
+
+This one hurt in a couple of ways.  Ran on gravel with my soft Altras and my pinkie toe did not agree with the activity.  My legs were super heavy and never loosened up but really what hurt the most was my ego.  I fought for about 28 minutes through to _Mann Road_ but after a quick bio-break in the bushes, found it really hard to shuffle again.
+
+I eventually did but nothing pleasing about the day.
 
 <!---->
 ## MONDAY AUG 1 🌤
@@ -48,11 +52,11 @@ Rest 3 minutes between each.
 ### NOTES
 Total Time: **84 Minutes** &nbsp; Swim: **~3500m**
 
-
+Durrance Lake with just a trisuit.  I felt good in that swimming doesn't ask a lot from my legs though I think it was during the 3rd 15 minute rep that I felt a little cramp in my left hip flexor.  Water was nice and I had Carina on her paddle board, checking in with me as I swam laps of the lake.
 
 <!---->
 ## TUESDAY AUG 2 🌤
-Sleep **3** | Fatigue **-** | Stress **3** | Soreness **3**
+Sleep **3** | Fatigue **5** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -63,11 +67,11 @@ Run 30 minutes EASY.
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Weather is still sunny but it has turned cold (for August).
 
 <!---->
-## WEDNESDAY AUG 3
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY AUG 3 ☀️
+Sleep **3** | Fatigue **-** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
