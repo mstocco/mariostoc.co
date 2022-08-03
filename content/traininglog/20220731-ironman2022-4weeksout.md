@@ -29,7 +29,7 @@ Run 60 minutes. Easy effort. Flatter route is perfect.
 Mobility 30 minutes
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Old Man Shuffle: **9 km**
+Total Time: **82 Minutes** &nbsp; Old Man Shuffle: **10.5 km**
 
 Tired legs is an **understatement**.
 
@@ -52,7 +52,7 @@ Rest 3 minutes between each.
 ### NOTES
 Total Time: **84 Minutes** &nbsp; Swim: **~3500m**
 
-Durrance Lake with just a trisuit.  I felt good in that swimming doesn't ask a lot from my legs though I think it was during the 3rd 15 minute rep that I felt a little cramp in my left hip flexor.  Water was nice and I had Carina on her paddle board, checking in with me as I swam laps of the lake.
+Durrance Lake with just a trisuit.  I felt good; swimming doesn't ask a lot from my legs though, during the 3rd 15 minute rep, I felt a bit of a cramp in my left hip flexor.  Water was nice and I had Carina on her paddle board, checking in with me as I swam laps of the lake.
 
 <!---->
 ## TUESDAY AUG 2 🌤
@@ -65,9 +65,13 @@ Ride 45 minutes EASY. Any bike. Inside or outside.
 Run 30 minutes EASY.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **90 Mins** &nbsp;Ride: **24 km** &nbsp;Jog: **5.3 km**
 
 Weather is still sunny but it has turned cold (for August).
+
+I rode my TT Bike up to _Hamsterly Beach_ to pick up the race swag (hoodie) that was not available for the Victoria Half.  It was roughly 30 minutes to and about the same coming home.
+
+I did not run immediately when I got home but when I did set out, it still felt like a _"brick session"_; heavy legs again for almost the full half hour.
 
 <!---->
 ## WEDNESDAY AUG 3 ☀️
