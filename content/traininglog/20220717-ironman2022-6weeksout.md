@@ -24,7 +24,7 @@ Sleep **2** | Fatigue **2** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### RACE DAY  
-[2022 Victoria Half](racereports/2022-victoria-half)
+[2022 Victoria Half](/racereports/2022-victoria-half)
 
 ### NOTES
 Total Time: **3:02:34**  
