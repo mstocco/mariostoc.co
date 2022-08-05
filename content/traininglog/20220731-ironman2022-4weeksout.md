@@ -89,16 +89,14 @@ Then.....ride 30-50 minutes on flatter roads.
 then.....2x Willis Point (Front side) Again, just spinning up and down.
 Head home.
 
-Do your best to fuel and hydrate on this ride.
-
 Off the bike: Run 30 minutes. EASY and flat.
 
 ### NOTES
-Total Time: **195 Mins** &nbsp;Bike: **63 km** &nbsp;Run: **5.4 km**
+Total Time: **195 Mins** &nbsp;Bike: **63 km** &nbsp;Run: **5.4 km**  
 
-Basically the same route as [last week](ironman2022-5weeksout?wed) and I did the second trip up _Willis Point Road_ (no flat tire this week).
+Basically the same route as [last week](ironman2022-5weeksout?wed) and I did the second trip up _Willis Point Road_ (no flat tire this week).  Consumed Maynards (80g) and a 700ml bottle of Gatorade with 50g of sugar added, plus one 700ml of water.
 <!----->
-This 3 hour ride feels routine and normal.  Steady, even effort up the hills; in the aero bars on _Wallace Drive_ up to _Saanichton_ when safe.  Maynards (80g) and a 700ml bottle of Gatorade with 50g of sugar added.
+These mid-week, three hour ride now feel routine.  Steady, even effort up the hills; in the aero bars on _Wallace Drive_ up to _Saanichton_ when safe.  
 
 ![Bike](/assets/jpg/bike-20220803.jpeg)
 
@@ -124,7 +122,7 @@ Mobility 25 minutes
 
 Terrible sleep last night; sweaty mess at 0300 and a **headache**.  Did get back to sleep only to have a second round of night sweats.  Not good.  Bailed on the swim as the headache hadn't subsided by 1500.
 
-Weather is cold (17ºC) and windy; a miserable day for August.
+Weather was windy, cold (17ºC) and miserable.
 
 <!---->
 ## FRIDAY AUG 5 ☀️
