@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![Dark moody skies for the ride on Wednesday as a cold front passed over the region.](/assets/jpg/IMG_4195-977x550.jpeg WALLACE DRIVE)
 
 ## SUNDAY JUL 31 ☀️
 Sleep **3** | Fatigue **6** | Stress **3** | Soreness **3**
@@ -100,9 +100,9 @@ Basically the same route as [last week](ironman2022-5weeksout?wed) and I did the
 <!----->
 This 3 hour ride feels routine and normal.  Steady, even effort up the hills; in the aero bars on _Wallace Drive_ up to _Saanichton_ when safe.  Maynards (80g) and a 700ml bottle of Gatorade with 50g of sugar added.
 
-The run off the bike went well too.  Found myself in a nice rhythm right away (comfortable but not fast) and held it for the entire 30 minutes.  Little toe still had a bit of a nervy feeling tonight; more of an annoyance than anything.
+![Bike](/assets/jpg/bike-202208703.jpeg)
 
-![](/assets/jpg/image.jpeg)
+The run off the bike went well too.  Found myself in a nice rhythm right away (comfortable but not fast) and held it for the entire 30 minutes.  Little toe still had a bit of a nervy feeling tonight; more of an annoyance than anything.
 
 <!---->
 ## THURSDAY AUG 4 ☁️
