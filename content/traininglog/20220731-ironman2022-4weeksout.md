@@ -96,7 +96,7 @@ Total Time: **195 Mins** &nbsp;Bike: **63 km** &nbsp;Run: **5.4 km**
 
 Basically the same route as [last week](ironman2022-5weeksout?wed) and I did the second trip up _Willis Point Road_ (no flat tire this week).  Consumed Maynards (80g) and a 700ml bottle of Gatorade with 50g of sugar added, plus one 700ml of water.
 <!----->
-These mid-week, three hour ride now feel routine.  Steady, even effort up the hills; in the aero bars on _Wallace Drive_ up to _Saanichton_ when safe.  
+These mid-week, three hour rides now feel routine.  Steady, even effort up the hills; in the aero bars on _Wallace Drive_ up to _Saanichton_ when safe.  
 
 ![Bike](/assets/jpg/bike-20220803.jpeg)
 
@@ -149,7 +149,11 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Big Ride  ~ 145-160km.   
+Race day fueling.
+
+In the bars when it's safe to be in the bars. 
+Getting in some solid sections of climbing. Bear Mountain, Observatory reps, John Dean reps, ect. Basically....try to get in over 1000 meters of climbing on the day. More is certainly ok as well. But you do need some aerobar sections.  Steady on the climbs, easy/controlled the rest of the time. Ticking over the K's. 
 
 ### NOTES
 Total Time: **0 Minutes**
