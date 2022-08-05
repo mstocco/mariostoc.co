@@ -122,11 +122,9 @@ Mobility 25 minutes
 ### NOTES
 <mark>Total Time: **0 Minutes** </mark>
 
-Terrible sleep last night; sweaty mess at 0300 and a **headache**.  Did get back to sleep only to have a second round of night sweats.  Not good.
+Terrible sleep last night; sweaty mess at 0300 and a **headache**.  Did get back to sleep only to have a second round of night sweats.  Not good.  Bailed on the swim as the headache hadn't subsided by 1500.
 
 Weather is cold (17ºC) and windy; a miserable day for August.
-
-Bailed on the swim as the headache hadn't subsided by 1500.
 
 <!---->
 ## FRIDAY AUG 5 ☀️
