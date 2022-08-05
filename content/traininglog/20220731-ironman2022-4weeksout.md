@@ -75,7 +75,7 @@ I did not run immediately when I got home but when I did eventually head out, it
 
 <!---->
 ## WEDNESDAY AUG 3 ☀️
-Sleep **3** | Fatigue **-** | Stress **3** | Soreness **3**
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -93,13 +93,15 @@ Do your best to fuel and hydrate on this ride.
 Off the bike: Run 30 minutes. EASY and flat.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **195 Mins** &nbsp;Bike: **63 km** &nbsp;Run: **5.4 km**
 
-&mdash;  
+Basically the same route as [last week](ironman2022-5weeksout?wed) and I did the second trip up _Willis Point Road_ (no flat tire this week).  This 3 hour ride feels routine and normal.  Steady, even effort up the hills; in the aero bars on _Wallace Drive_ up to _Saanichton_ when safe.
+
+The run off the bike went well too.  Found myself in a nice rhythm right away (comfortable but not fast) and held it for the entire 30 minutes.  Little toe still had a bit of a nervy feeling tonight; more of an annoyance than anything.
 
 <!---->
-## THURSDAY AUG 4
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY AUG 4 ☁️
+<mark>Sleep **6** </mark>| Fatigue **3** | Stress **4** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -113,13 +115,17 @@ Swim 3000:
 Mobility 25 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+<mark>Total Time: **0 Minutes** </mark>
 
-&mdash;  
+Terrible sleep last night; sweaty mess at 0300 and a **headache**.  Did get back to sleep only to have a second round of night sweats.  Not good.
+
+Weather is cold (17ºC) and windy; a miserable day for August.
+
+Bailed on the swim as the headache hadn't subsided by 1500.
 
 <!---->
-## FRIDAY AUG 5
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY AUG 5 ☀️
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -134,7 +140,7 @@ Mobility 12 minutes
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Much better sleep last night.
 
 <!---->
 ## SATURDAY AUG 6
