@@ -71,8 +71,8 @@ Weather is still sunny but it has turned cold (for August).
 
 I rode my TT Bike up to _Hamsterly Beach_ to pick up the race swag (hoodie) that was not available for [The Victoria Half](/racereports/2022-victoria-half).  It was roughly 30 minutes to and about the same coming home.
 
-I did not run immediately when I got home but when I did eventually head out, it felt like a _"brick session"_; heavy legs (again) for almost the full half hour.  
-&bull; Little toe was fine this evening.
+I did not run immediately when I got home but when I did eventually head out, it felt like a _"brick session"_; heavy legs (again) for almost the full half hour.   
+&check; Little toe was fine this evening.
 
 <!---->
 ## WEDNESDAY AUG 3 ☀️
@@ -100,7 +100,7 @@ Basically the same route as [last week](ironman2022-5weeksout?wed) and I did the
 <!----->
 This 3 hour ride feels routine and normal.  Steady, even effort up the hills; in the aero bars on _Wallace Drive_ up to _Saanichton_ when safe.  Maynards (80g) and a 700ml bottle of Gatorade with 50g of sugar added.
 
-![Bike](/assets/jpg/bike-202208703.jpeg)
+![Bike](/assets/jpg/bike-20220803.jpeg)
 
 The run off the bike went well too.  Found myself in a nice rhythm right away (comfortable but not fast) and held it for the entire 30 minutes.  Little toe still had a bit of a nervy feeling tonight; more of an annoyance than anything.
 
