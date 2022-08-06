@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![Dark moody skies for the ride on Wednesday as a cold front passed over the region.](/assets/jpg/IMG_4195-977x550.jpeg WALLACE DRIVE)
+![Dark moody skies for the ride on Wednesday as a cold front passed over the region.](/assets/jpg/IMG_4195-977x550.jpeg WALLACE DRIVE, SAANICH, BC)
 
 ## SUNDAY JUL 31 ☀️
 Sleep **3** | Fatigue **6** | Stress **3** | Soreness **3**
@@ -33,7 +33,7 @@ Total Time: **82 Mins** &nbsp; Old Man Shuffle: **10.5 km**
 
 Tired legs is an **understatement**.  This one hurt in a couple of ways.
 
-Ran on gravel with my soft Altras and my pinkie toe did not agree with the surface.  My legs were super heavy and never loosened up.  What really hurt the most was my ego;  I fought for about 28 minutes up to _Mann Road_ but after a quick bio-break in the bushes, found it really hard to shuffle again.
+Ran on gravel with my soft Altras and my pinkie toe did not agree with the surface.  My legs were **super heavy** and never loosened up.  What really hurt the most was my ego;  I fought for about 28 minutes up to _Mann Road_ but after a quick bio-break in the bushes, found it really hard to shuffle again.
 
 <!---->
 ## MONDAY AUG 1 🌤
@@ -52,7 +52,7 @@ Total Time: **84 Minutes** &nbsp; Swim: **~3500m**
 
 Durrance Lake with just a trisuit (no neoprene).
 
-I felt good; swimming doesn't ask a lot from my legs, however during the 3rd 15 minute rep, I felt a bit of a cramp in my left hip flexor.  Water was nice and I had Carina on her paddle board, checking in with me as I swam laps of the lake.
+I **felt good**; swimming doesn't ask a lot from my legs, however during the 3rd 15 minute rep, I felt a bit of a cramp in my left hip flexor.  Water was nice and I had Carina on her paddle board, checking in with me as I swam laps of the lake.
 
 <!---->
 ## TUESDAY AUG 2 🌤
@@ -71,7 +71,7 @@ Weather is still sunny but it has turned cold (for August).
 
 I rode my TT Bike up to _Hamsterly Beach_ to pick up the race swag (hoodie) that was not available for [The Victoria Half](/racereports/2022-victoria-half).  It was roughly 30 minutes to and about the same coming home.
 
-I did not run immediately when I got home but when I did eventually head out, it felt like a _"brick session"_; heavy legs (again) for almost the full half hour.   
+I did not run immediately when I got home but when I did eventually head out, it felt like a _"brick session"_; **heavy legs** (again) for almost the full half hour.   
 &check; Little toe was fine this evening.
 
 <!---->
@@ -96,11 +96,11 @@ Total Time: **195 Mins** &nbsp;Bike: **63 km** &nbsp;Run: **5.4 km**
 
 Basically the same route as [last week](ironman2022-5weeksout?wed) and I did the second trip up _Willis Point Road_ (no flat tire this week).  Consumed Maynards (80g) and a 700ml bottle of Gatorade with 50g of sugar added, plus one 700ml of water.
 <!----->
-These mid-week, three hour rides now feel routine.  Steady, even effort up the hills; in the aero bars on _Wallace Drive_ up to _Saanichton_ when safe.  
+These mid-week, three hour rides now feel routine.  Steady, **even effort** up the hills; in the aero bars on _Wallace Drive_ up to _Saanichton_ when safe.  
 
 ![Bike](/assets/jpg/bike-20220803.jpeg)
 
-The run off the bike went well too.  Found myself in a nice rhythm right away (comfortable but not fast) and held it for the entire 30 minutes.  Little toe still had a bit of a nervy feeling tonight; more of an annoyance than anything.
+The run off the bike went well too.  Found myself in a **nice rhythm** right away (comfortable but not fast) and held it for the entire 30 minutes.  Little toe still had a bit of a nervy feeling tonight; more of an annoyance than anything.
 
 <!---->
 ## THURSDAY AUG 4 ☁️
@@ -126,7 +126,7 @@ Weather was windy, cold (17ºC) and miserable.
 
 <!---->
 ## FRIDAY AUG 5 ☀️
-Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -139,9 +139,11 @@ Run 45 minutes EASY. Flat route preferred. Just getting back into the swing of t
 Mobility 12 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **75 Mins** &nbsp;Run: **7.3 km** &nbsp;Ride: **rollers**
 
-Much better sleep last night.
+Much better sleep last night though I have new knot in my right piriformis.
+
+I felt really good at a **relaxed effort** to the turnaround at the _Round 9 Boxing Gym_.  I can only hope to feel like this in _Penticton_ in a few weeks.  Once home, I set up the rollers outside in the sunshine an **pedalled easy** but steady; way warmer than if I was out on the road. 
 
 <!---->
 ## SATURDAY AUG 6
