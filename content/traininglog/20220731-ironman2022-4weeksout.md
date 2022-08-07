@@ -11,13 +11,16 @@ Total Time: **15 Hours**
 
 I feel like I was **ON THE EDGE**
 
-Lots of fatigue to start the week.  I worked through it to have a solid afternoon on [Wednesday](javascript:flick('wed');) only to have a crash on on [Thursday](javascript:flick('thu');).  The week ended with a my biggest ride of the build on [Saturday](javascript:flick('sat');).
+Lots of fatigue to start the week.  I worked through it to have a solid afternoon on [Wednesday](javascript:flick('wed');) only to crash on [Thursday](javascript:flick('thu');).
 
-Reality is hard to ignore.  The _Keremos Creek Wildfire_ is the largest in the province and currently has the IM Canada Bike Course cut off.  Who know what will be?  
+The week ended with a [my biggest ride](javascript:flick('sat');) of this year's build. 
 
-![I doubt there could have been a nicer day for a long bike ride on Southern Vancouver Island.](/assets/jpg/IMG_4196-977x550.jpg BECHER BAY MARINA, EAST SOOKE)
+---
 
+Reality is hard to ignore.  
+The _Keremos Creek Wildfire_ is the largest in the province and currently has the IM Canada Bike Course cut off.  Who know what will be?  
 
+![I doubt there could have been a nicer day for a long bike ride on Southern Vancouver Island.](/assets/jpg/IMG_4196-977x550.jpeg BECHER BAY MARINA, EAST SOOKE)
 
 ## SUNDAY JUL 31 ☀️
 Sleep **3** | Fatigue **6** | Stress **3** | Soreness **3**
@@ -107,7 +110,6 @@ The run off the bike went well too.  Found myself in a **nice rhythm** right awa
 
 ![Dark moody skies for the ride on Wednesday as a cold front passed over the region.](/assets/jpg/IMG_4195-977x550.jpeg WALLACE DRIVE, SAANICH, BC)
 
-<!---->
 ## THURSDAY AUG 4 ☁️
 <mark>Sleep **6** </mark>| Fatigue **3** | Stress **4** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -135,12 +137,9 @@ Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Again, order is up to you. But this time....longer run.
+Again, order is up to you.  Spin 30 minutes. Nice and easy. If you have more energy than expected you can ride a bit longer.
 
-Spin 30 minutes. Nice and easy. If you have more energy than expected....you can ride a bit longer.
-
-Run 45 minutes EASY. Flat route preferred. Just getting back into the swing of the frequency and volume on the run. Should be good. 
-
+Run 45 minutes EASY. Flat route preferred. Just getting back into the swing of the frequency and volume on the run.  
 Mobility 12 minutes
 
 ### NOTES
@@ -156,7 +155,8 @@ Sleep **3** | Fatigue **4** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Big Ride  ~ 145-160km.   
+Big Ride:  ~145-160km.
+
 Race day fueling.
 
 In the bars when it's safe to be in the bars. 
@@ -166,32 +166,35 @@ Getting in some solid sections of climbing. Bear Mountain, Observatory reps, Joh
 Time: **360 Mins** Ride: **123 km** (hilly)
 
 Heading north on _West Saanich Road_, I noticed the main gate to the _Observatory_ was closed.  I could have got off my bike and used the pedestrian gate but I decided to pedal on instead.
-
+<!----->
 A roadie flew past me going up _Willis Point Road_ only to blow up maybe 150m ahead of me; I slowly started to bring him back.  Before I got the chance to pass him back, he turned around and headed back down; I carried on.
 
-Traffic didn't give me a clean opportunity to turn left onto _Ross-Durrance Road_ so I headed up, then down to _Willis Point_.  The long climb back out of _Willis Point_ was slow but steady.  Before I knew it, I was turning right on _Ross-Durrance Road_ for the trip to the foot of _Bear Mountain_.
+Traffic didn't give me a clean opportunity to turn left onto _Ross-Durrance Road_ so I headed up, then down for an impromtu trip to _Willis Point_.  The long climb back out of _Willis Point_ was slow but steady.  Before I knew it, I was turning right on _Ross-Durrance Road_ for the trip to the foot of _Bear Mountain_.
 
-According to Strava, I beat my time on the 7.1 km segment _"Up N Over Bear Mountain"_ by 12 seconds set about a month ago and a full 2 minutes and 14 seconds set about this time last year.  Heading down the south side of the hill, I had some sketchy gusts of wind to deal with.
+According to Strava, I beat my time by 12 seconds over the 7.1 km segment _"Up N Over Bear Mountain"_ set about a month ago and a full 2 minutes and 14 seconds set about this time last year.  Heading down the south side of the hill, I had some sketchy gusts of wind to deal with.
 
 My trip continued west after a 5 minute stop to top up of my water bottles at the _Happy Valley Market_.  I was ~2:40:00 into the ride at this point.
-
+<!----->
 While climbing up _Lindholm Road_, I noticed a pretty significant amount of brake rub going on.  I stopped at the top to find that my rear quick release skewer had loosened.  This was my second time ever up that hill but I was faster this time (according to Strava) despite the handicap.
 
-Down _Liberty Drive_ and left on _Rocky Point Road_ with 3:30:00 elapsed, I figured that if I ride another 60 minutes west, I'd get around 6 hours on the day.
+Down _Liberty Drive_ and left on _Rocky Point Road_ with ~3:30:00 elapsed, I figured that if I ride another 60 minutes west, I'd get around 6 hours on the day.
 
-At the corner of _East Sooke_ and _Gillespie Road_, I had a decision to make.  Continue to the end of _East Sooke_ or head up _Mount Matheson Road_ for the first time.  My coach's description of the later was _"it's steep."
+![Bike](/assets/jpg/image.jpeg)
+<!----->
+At the corner of _East Sooke_ and _Gillespie Road_, I had a decision to make.  Continue to the end of _East Sooke_(easy) or head up _Mount Matheson Road_ (less easy) for the first time.  My coach's description of the later was _"it's steep."_
 
 The view from top of _Mount Matheson Estates_ is **spectacular**!
 
-The ride back to town has its _"grunty climbs"_ but for the most part, I felt as good as I could have hoped for.  I finally had some longer moments in the aero-bars after lots of climbing on the day.  One last spin into _Esquimalt_ before heading home got me just over 6 hours of activity time (moving time of 5:50:55).
+The ride back to town has its _"grunty climbs"_ but for the most part, I felt as good as I could have hoped for.  I finally had some longer moments in the aero-bars after lots of climbing on the day.
+
+One last spin into _Esquimalt_ before heading home got me just over 6 hours of activity time (moving time of 5:50:55).
 
 Seriously beautiful afternoon for a bike ride.  The weather was warm, sunshine and apart from the south side of _Bear Mountain_, next to zero wind.
 
 ### NEW PERSONAL RECORD
 Total Accent: **2049m**  
-
-Previous Record was 1609m set last August 21 on a ride up to Duncan and back.
-
+Previous Record was 1609m set last August 21 on a ride to Duncan and back.
+<!----->
 ### OTHER NOTES
 I swapped out the 11x25 cassette for a 12x28 cassette before the ride.  I am still thinking I may go to a 30 tooth for IM Canada.
 
