@@ -7,14 +7,17 @@ Week beginning [Sunday, July 31, 2022](javascript:flick('sun');)
 Keep on pushing while adding some extra sleep.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **15 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **ON THE EDGE**
 
-&mdash;
+Lots of fatigue to start the week.  I worked through it to have a solid afternoon on [Wednesday](javascript:flick('wed');) only to have a crash on on [Thursday](javascript:flick('thu');).  The week ended with a my biggest ride of the build on [Saturday](javascript:flick('sat');).
 
-![Dark moody skies for the ride on Wednesday as a cold front passed over the region.](/assets/jpg/IMG_4195-977x550.jpeg WALLACE DRIVE, SAANICH, BC)
+Reality is hard to ignore.  The _Keremos Creek Wildfire_ is the largest in the province and currently has the IM Canada Bike Course cut off.  Who know what will be?  
+
+![I doubt there could have been a nicer day for a long bike ride on Southern Vancouver Island.](/assets/jpg/IMG_4196-977x550.jpg BECHER BAY MARINA, EAST SOOKE)
+
+
 
 ## SUNDAY JUL 31 ☀️
 Sleep **3** | Fatigue **6** | Stress **3** | Soreness **3**
@@ -102,6 +105,8 @@ These mid-week, three hour rides now feel routine.  Steady, **even effort** up t
 
 The run off the bike went well too.  Found myself in a **nice rhythm** right away (comfortable but not fast) and held it for the entire 30 minutes.  Little toe still had a bit of a nervy feeling tonight; more of an annoyance than anything.
 
+![Dark moody skies for the ride on Wednesday as a cold front passed over the region.](/assets/jpg/IMG_4195-977x550.jpeg WALLACE DRIVE, SAANICH, BC)
+
 <!---->
 ## THURSDAY AUG 4 ☁️
 <mark>Sleep **6** </mark>| Fatigue **3** | Stress **4** | Soreness **3**
@@ -146,8 +151,8 @@ Much better sleep last night though I have new knot in my right piriformis.
 I felt really good at a **relaxed effort** to the turnaround at the _Round 9 Boxing Gym_.  I can only hope to feel like this in _Penticton_ in a few weeks.  Once home, I set up the rollers outside in the sunshine an **pedalled easy** but steady; way warmer than if I was out on the road. 
 
 <!---->
-## SATURDAY AUG 6
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY AUG 6 ☀️
+Sleep **3** | Fatigue **4** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -158,6 +163,41 @@ In the bars when it's safe to be in the bars.
 Getting in some solid sections of climbing. Bear Mountain, Observatory reps, John Dean reps, ect. Basically....try to get in over 1000 meters of climbing on the day. More is certainly ok as well. But you do need some aerobar sections.  Steady on the climbs, easy/controlled the rest of the time. Ticking over the K's. 
 
 ### NOTES
-Total Time: **0 Minutes**
+Time: **360 Mins** Ride: **123 km** (hilly)
 
-&mdash;  
+Heading north on _West Saanich Road_, I noticed the main gate to the _Observatory_ was closed.  I could have got off my bike and used the pedestrian gate but I decided to pedal on instead.
+
+A roadie flew past me going up _Willis Point Road_ only to blow up maybe 150m ahead of me; I slowly started to bring him back.  Before I got the chance to pass him back, he turned around and headed back down; I carried on.
+
+Traffic didn't give me a clean opportunity to turn left onto _Ross-Durrance Road_ so I headed up, then down to _Willis Point_.  The long climb back out of _Willis Point_ was slow but steady.  Before I knew it, I was turning right on _Ross-Durrance Road_ for the trip to the foot of _Bear Mountain_.
+
+According to Strava, I beat my time on the 7.1 km segment _"Up N Over Bear Mountain"_ by 12 seconds set about a month ago and a full 2 minutes and 14 seconds set about this time last year.  Heading down the south side of the hill, I had some sketchy gusts of wind to deal with.
+
+My trip continued west after a 5 minute stop to top up of my water bottles at the _Happy Valley Market_.  I was ~2:40:00 into the ride at this point.
+
+While climbing up _Lindholm Road_, I noticed a pretty significant amount of brake rub going on.  I stopped at the top to find that my rear quick release skewer had loosened.  This was my second time ever up that hill but I was faster this time (according to Strava) despite the handicap.
+
+Down _Liberty Drive_ and left on _Rocky Point Road_ with 3:30:00 elapsed, I figured that if I ride another 60 minutes west, I'd get around 6 hours on the day.
+
+At the corner of _East Sooke_ and _Gillespie Road_, I had a decision to make.  Continue to the end of _East Sooke_ or head up _Mount Matheson Road_ for the first time.  My coach's description of the later was _"it's steep."
+
+The view from top of _Mount Matheson Estates_ is **spectacular**!
+
+The ride back to town has its _"grunty climbs"_ but for the most part, I felt as good as I could have hoped for.  I finally had some longer moments in the aero-bars after lots of climbing on the day.  One last spin into _Esquimalt_ before heading home got me just over 6 hours of activity time (moving time of 5:50:55).
+
+Seriously beautiful afternoon for a bike ride.  The weather was warm, sunshine and apart from the south side of _Bear Mountain_, next to zero wind.
+
+### NEW PERSONAL RECORD
+Total Accent: **2049m**  
+
+Previous Record was 1609m set last August 21 on a ride up to Duncan and back.
+
+### OTHER NOTES
+I swapped out the 11x25 cassette for a 12x28 cassette before the ride.  I am still thinking I may go to a 30 tooth for IM Canada.
+
+I wore my _Oakley ARO7_ helmet and survived the climbs though I did drink more water than I typically would.  It was a _"sweatfest"_ for my head going uphill but comfortable with some airflow going downhill.  Still, I'm likely to wear the _Evade II_ for IM Canada.
+
+My QL was fine but my lower lumbar had a couple of moments over the 6 hours.  Something that was noticed but never to the point of slowing me down.  Sore crotch and fatigued quads were more prominent during the ride.
+
+Calories were in a 700ml sludge bottle, 300g of sugar plus a bit of honey diluted in orange flavoured Gatorade.  Maple syrup gel packet, Maurten gel (non-caffeinated) and a Gu (birthday cake).  ~8L of water.
+
