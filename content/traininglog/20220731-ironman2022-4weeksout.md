@@ -171,7 +171,7 @@ A roadie flew past me going up _Willis Point Road_ only to blow up maybe 150m ah
 
 Traffic didn't give me a clean opportunity to turn left onto _Ross-Durrance Road_ so I headed up, then down for an impromtu trip to _Willis Point_.  The long climb back out of _Willis Point_ was slow but steady.  Before I knew it, I was turning right on _Ross-Durrance Road_ for the trip to the foot of _Bear Mountain_.
 
-According to Strava, I beat my time by 12 seconds over the 7.1 km segment _"Up N Over Bear Mountain"_ set about a month ago and a full 2 minutes and 14 seconds set about this time last year.  Heading down the south side of the hill, I had some sketchy gusts of wind to deal with.
+According to Strava, I beat my time over the segment _"Up N Over Bear Mountain"_ (7.1 km) set about a month ago and am now a full 2 minutes and 14 seconds from about this time last year.  Heading down the south side of the hill, I had some sketchy gusts of wind to deal with.
 
 My trip continued west after a 5 minute stop to top up of my water bottles at the _Happy Valley Market_.  I was ~2:40:00 into the ride at this point.
 <!----->
@@ -192,7 +192,7 @@ One last spin into _Esquimalt_ before heading home got me just over 6 hours of a
 Seriously beautiful afternoon for a bike ride.  The weather was warm, sunshine and apart from the south side of _Bear Mountain_, next to zero wind.
 
 ### NEW PERSONAL RECORD
-Total Accent: **2049m**.  Previous record was 1609m set last August 21 on a ride to Duncan and back.
+Total Accent: **2049m**.  Previous record was 1609m set last August 21 on a ride to Duncan.
 <!----->
 ### OTHER NOTES
 I swapped out the 11x25 cassette for a 12x28 cassette before the ride.  I am still thinking I may go to a 30 tooth for IM Canada.
