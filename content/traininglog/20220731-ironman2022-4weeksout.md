@@ -179,9 +179,9 @@ While climbing up _Lindholm Road_, I noticed a pretty significant amount of brak
 
 Down _Liberty Drive_ and left on _Rocky Point Road_ with ~3:30:00 elapsed, I figured that if I ride another 60 minutes west, I'd get around 6 hours on the day.
 
-![Bike](/assets/jpg/image.jpeg)
+![Bike](/assets/jpg/bike-20220806.jpeg)
 <!----->
-At the corner of _East Sooke_ and _Gillespie Road_, I had a decision to make.  Continue to the end of _East Sooke_(easy) or head up _Mount Matheson Road_ (less easy) for the first time.  My coach's description of the later was _"it's steep."_
+At the corner of _East Sooke_ and _Gillespie Road_, I had a decision to make.  Continue to the end of _East Sooke_ <small>(easy)</small> or head up _Mount Matheson Road_ for the first time <small>(less easy)</small>.  My coach's description of the later was _"it's steep."_
 
 The view from top of _Mount Matheson Estates_ is **spectacular**!
 
@@ -192,8 +192,7 @@ One last spin into _Esquimalt_ before heading home got me just over 6 hours of a
 Seriously beautiful afternoon for a bike ride.  The weather was warm, sunshine and apart from the south side of _Bear Mountain_, next to zero wind.
 
 ### NEW PERSONAL RECORD
-Total Accent: **2049m**  
-Previous Record was 1609m set last August 21 on a ride to Duncan and back.
+Total Accent: **2049m**.  Previous record was 1609m set last August 21 on a ride to Duncan and back.
 <!----->
 ### OTHER NOTES
 I swapped out the 11x25 cassette for a 12x28 cassette before the ride.  I am still thinking I may go to a 30 tooth for IM Canada.
