@@ -194,9 +194,11 @@ Off the bike: Run 20 minutes. Gut check. Leg check.
 ### NOTES
 Total Time: **320 minutes** OTB Pace: **5:17/km**
 
-**I could scream**; fucking people.  Both the entitled and the stupid, non-vaccinated population have now shut down the entire _Interior Heath Region_. 
+**I could scream!**  Fucking people.
 
-Too early for an official word from the _City of Penticton_ or _IRONMAN_ but I am not naive.  This is likely the end for IRONMAN Canada 2021.
+Both the entitled and the stupid, non-vaccinated population have now shut down the entire _Interior Heath Region_. 
+
+Too early for an official word from the _City of Penticton_ or _IRONMAN_ but I am not naive.  This is likely **the end for IRONMAN Canada 2021**.
 
 <!----->
 Just like on [Sunday](javascript:flick('sun');), I headed back up the _Malahat_ to ride the _South Cowichan Valley_.  Nearly the same route except I included _Bamberton_ and replaced _Cherry Point Road_ with _Kingbourne Road_.  New PR for Total Accent on the bike at **1605m** too; cool.

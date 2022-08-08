@@ -193,7 +193,7 @@ One last spin into _Esquimalt_ before heading home got me just over 6 hours of a
 Seriously beautiful afternoon for a bike ride.  The weather was warm, sunshine and apart from the south side of _Bear Mountain_, next to zero wind.
 
 ### NEW PERSONAL RECORD
-Total Accent: **2049m**.  Previous record was 1609m set last August 21 on a ride to Duncan.
+Total Accent: **2049m**.  Previous record was 1609m set [last August](ironman2021-6weeksout?sat) on a ride to Cobble Hill.
 <!----->
 ### OTHER NOTES
 I swapped out the 11x25 cassette for a 12x28 cassette before the ride.  I am still thinking I may go to a 30 tooth for IM Canada.
