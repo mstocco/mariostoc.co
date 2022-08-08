@@ -188,18 +188,21 @@ Sleep **3** | Fatigue **4** | Stress **5** | Soreness **3**
 ### PLANNED WORKOUT
 Ride 5:00-5:15 on TT bike. Some solid climbing. Generally speaking, goal is to cover ground efficiently. 
 Eating early, eating often. Stopping to refuel/fill bottles as often as needed. 
+
 Off the bike: Run 20 minutes. Gut check. Leg check.
 
 ### NOTES
 Total Time: **320 minutes** OTB Pace: **5:17/km**
 
-**I could scream**; fucking people.  Both the entitled and the stupid, non-vaccinated population have now shut down the entire _Interior Heath Region_.   Too early for an official word from the _City of Penticton_ or _IRONMAN_ but I am not naive.  This is likely the end for IRONMAN Canada 2021.
+**I could scream**; fucking people.  Both the entitled and the stupid, non-vaccinated population have now shut down the entire _Interior Heath Region_. 
+
+Too early for an official word from the _City of Penticton_ or _IRONMAN_ but I am not naive.  This is likely the end for IRONMAN Canada 2021.
 
 <!----->
-Just like on [Sunday](javascript:flick('sun');), I headed back up the _Malahat_ to ride the _South Cowichan Valley_.  Nearly the same route except I included _Bamberton_ and replaced _Cherry Point Road_ with _Kingbourne Road_.
+Just like on [Sunday](javascript:flick('sun');), I headed back up the _Malahat_ to ride the _South Cowichan Valley_.  Nearly the same route except I included _Bamberton_ and replaced _Cherry Point Road_ with _Kingbourne Road_.  New PR for Total Accent on the bike at **1605m** too; cool.
 
 3 Bottles of lemonade (90g each), 300 calories of _Maynards_ and 2 caffinated Maurten gels for just ~1100 calories.
 
 I had energy to run well off the bike.  I ran in the trisuit too, it was fine.
 
-![Bike](/assets/jpg/image.jpeg)
+![Bike](/assets/jpg/bike-20210821.jpeg)
