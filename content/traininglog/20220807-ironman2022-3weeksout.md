@@ -41,7 +41,7 @@ The weather was warm with a building wind from the north. Maybe it was the heat 
 
 Around 1530, Carina and I headed up to _Shawnigan Lake_ where got the swim workout done.  No wetsuit and the water was a cool, near perfect temperature.  I had a **comfortable groove** going and the only thing that may have put a delta into the distance per 10 minutes was the boat wake.  The RCMP pulled over the boat causing the greatest waves and when that happened, my last 10 minutes was as fast and easy as my first.
 
-![Swim](/assets/jpg/image.jpeg)
+![Swim](/assets/jpg/swim-20220807.jpeg)
 
 <!---->
 ## MONDAY AUG 8 ☀️
