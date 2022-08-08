@@ -195,8 +195,11 @@ Total Time: **320 minutes** OTB Pace: **5:17/km**
 
 **I could scream**; fucking people.  Both the entitled and the stupid, non-vaccinated population have now shut down the entire _Interior Heath Region_.   Too early for an official word from the _City of Penticton_ or _IRONMAN_ but I am not naive.  This is likely the end for IRONMAN Canada 2021.
 
-Just like on Sunday, I headed back up the _Malahat_ to ride the _South Cowichan Valley_.  Nearly the same route except I included _Bamberton_ and replaced _Cherry Point Road_ with _Kingbourne Road_.
+<!----->
+Just like on [Sunday](javascript:flick('sun');), I headed back up the _Malahat_ to ride the _South Cowichan Valley_.  Nearly the same route except I included _Bamberton_ and replaced _Cherry Point Road_ with _Kingbourne Road_.
 
 3 Bottles of lemonade (90g each), 300 calories of _Maynards_ and 2 caffinated Maurten gels for just ~1100 calories.
 
 I had energy to run well off the bike.  I ran in the trisuit too, it was fine.
+
+![Bike](/assets/jpg/image.jpeg)
