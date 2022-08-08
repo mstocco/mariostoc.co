@@ -77,7 +77,8 @@ Weather is still sunny but it has turned cold (for August).
 
 I rode my TT Bike up to _Hamsterly Beach_ to pick up the race swag (hoodie) that was not available for [The Victoria Half](/racereports/2022-victoria-half).  It was roughly 30 minutes to and about the same coming home.
 
-I did not run immediately when I got home but when I did eventually head out, it felt like a _"brick session"_; **heavy legs** (again) for almost the full half hour.   
+I did not run immediately when I got home but when I did eventually head out, it felt like a _"brick session"_; **heavy legs** (again) for almost the full half hour.
+
 &check; Little toe was fine this evening.
 
 <!---->
