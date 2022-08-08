@@ -35,7 +35,7 @@ Mobility 20 minutes
 ### NOTES
 Total Time: **120 Mins** &nbsp;Run: **5 km** &nbsp;Swim: **~3 km**
 
-I had to renew the insurance for my SUV so I walked to the broker (11 minutes).  From there, I jogged easy on the _Goose_ for 30 minutes.  The legs felt surprisingly good although a sore piriformis, turning into sciatica, was felt on the 5 minute walk home.
+I had to renew the insurance for my SUV so I walked to the broker (11 minutes).  From there, I jogged easy on the _Goose_ for 30 minutes.  The legs felt **surprisingly good** although a sore piriformis, turning into sciatica, was felt on the 5 minute walk home.
 <!----->
 The weather was warm with a building wind from the north. Maybe it was the heat, or the wind but I wasn't in the mood for more activity.  I had a nap early in the afternoon; unknown how long.
 
@@ -61,7 +61,7 @@ Mobility 22 minutes
 ### NOTES
 Total Time: **0 Minutes** &nbsp; Run: **0 km**
 
-Slept solid through 0300 then whatever woke me had me awake for about an hour.  My piriformis/sciatica has calmed down but my hips and lumbar are pretty tight. 
+Slept solid through 0313 then whatever woke me had me awake for about an hour.  My piriformis/sciatica has calmed down but my hips and lumbar are pretty tight. 
 
 <!---->
 ## TUESDAY AUG 9
@@ -76,8 +76,9 @@ Swim 2400:
 4x 50 easy to cool down.
 Easy spin to the pool.
 
-Ride 60 minutes easy on the way home.   
-&bull;If you'd rather do this as two separate workouts, that is ok as well!
+Ride 60 minutes easy on the way home.
+
+&star; two separate workouts is ok as well!
 
 ### NOTES
 Total Time: **0 Minutes**
