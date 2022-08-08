@@ -33,11 +33,11 @@ Run 30 minutes EASY. Flat route.
 Mobility 20 minutes
 
 ### NOTES
-Total Time: **120 Minutes** &nbsp;Run: **5 km** &nbsp;Swim: **~3 km**
+Total Time: **120 Mins** &nbsp;Run: **5 km** &nbsp;Swim: **~3 km**
 
-I had to renew the insurance for my SUV so I walked to the broker (11 minutes).  From there, I jogged on the _Goose_ for 30 minutes before walking the final 5 minutes home.  The weather was warm with a building wind from the north.  I felt ok although my sore piriformis is feeling like turning into sciatica.
-
-I had a nap early in the afternoon; unknown how long.
+I had to renew the insurance for my SUV so I walked to the broker (11 minutes).  From there, I jogged easy on the _Goose_ for 30 minutes.  The legs felt surprisingly good although a sore piriformis, turning into sciatica, was felt on the 5 minute walk home.
+<!----->
+The weather was warm with a building wind from the north. Maybe it was the heat or the wind but I wasn't much in the mood for more activity.  I had a nap early in the afternoon; unknown how long.
 
 Carina and I headed up to _Shawnigan Lake_ where got the swim workout done.  No wetsuit and the water was a near cool, perfect temperature.  I had a good groove going and the only thing that may have put a delta into the distances per 10 minutes was the boat wake.  The RCMP pulled over the boat causing the greatest wake and when that happened, my last 10 minutes was a fast as my first.
 
