@@ -13,7 +13,7 @@ I feel like I was **ON THE EDGE**
 
 Lots of fatigue to start the week.  I worked through it to have a solid afternoon on [Wednesday](javascript:flick('wed');) only to crash on [Thursday](javascript:flick('thu');).
 
-The week ended with a [my biggest ride](javascript:flick('sat');) of this year's build. 
+The week culminated with [my biggest ride](javascript:flick('sat');) of this year's build.    
 
 ---
 

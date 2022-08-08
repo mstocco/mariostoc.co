@@ -37,9 +37,9 @@ Total Time: **120 Mins** &nbsp;Run: **5 km** &nbsp;Swim: **~3 km**
 
 I had to renew the insurance for my SUV so I walked to the broker (11 minutes).  From there, I jogged easy on the _Goose_ for 30 minutes.  The legs felt surprisingly good although a sore piriformis, turning into sciatica, was felt on the 5 minute walk home.
 <!----->
-The weather was warm with a building wind from the north. Maybe it was the heat or the wind but I wasn't much in the mood for more activity.  I had a nap early in the afternoon; unknown how long.
+The weather was warm with a building wind from the north. Maybe it was the heat, or the wind but I wasn't in the mood for more activity.  I had a nap early in the afternoon; unknown how long.
 
-Around 1530, Carina and I headed up to _Shawnigan Lake_ where got the swim workout done.  No wetsuit and the water was a cool, near perfect temperature.  I had a **comfortable groove** going and the only thing that may have put a delta into the distance per 10 minutes was the boat wake.  The RCMP pulled over the boat causing the greatest waves and when that happened, my last 10 minutes was as fast and easy as my first.
+Around 1530, Carina and I headed up to _Shawnigan Lake_ where got the swim workout done.  No wetsuit and the water was a cool, near perfect temperature.  I had a **good groove** going and the only thing that may have put a delta into the distance per 10 minutes was the boat wake.  The RCMP pulled over the boat causing the greatest waves and when that happened, my last 10 minutes was as fast and easy as my first.
 
 ![Swim](/assets/jpg/swim-20220807.jpeg)
 
