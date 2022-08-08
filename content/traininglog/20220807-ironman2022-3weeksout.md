@@ -4,7 +4,7 @@ Week beginning [Sunday, August 7, 2022](javascript:flick('sun');)
 **3** weeks out from race day.
 
 ## WEEKLY GOAL
-&mdash;
+Be consistent EVERY day this week.
 
 ## SUMMARY
 Total Time: **0 Hours**
@@ -16,8 +16,8 @@ I feel like I was...
 
 ![](/assets/jpg/II-9x550.jpeg)
 
-## SUNDAY AUG 7
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SUNDAY AUG 7 ☀️
+Sleep **3** | Fatigue **5** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -33,13 +33,17 @@ Run 30 minutes EASY. Flat route.
 Mobility 20 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **120 Minutes** &nbsp;Run: **5 km** &nbsp;Swim: **~3 km**
 
-&mdash;  
+I had to renew the insurance for my SUV so I walked to the broker (11 minutes).  From there, I jogged on the _Goose_ for 30 minutes before walking the final 5 minutes home.  The weather was warm with a building wind from the north.  I felt ok although my sore piriformis is feeling like turning into sciatica.
+
+I had a nap early in the afternoon; unknown how long.
+
+Carina and I headed up to _Shawnigan Lake_ where got the swim workout done.  No wetsuit and the water was a near cool, perfect temperature.  I had a good groove going and the only thing that may have put a delta into the distances per 10 minutes was the boat wake.  The RCMP pulled over the boat causing the greatest wake and when that happened, my last 10 minutes was a fast as my first.
 
 <!---->
-## MONDAY AUG 8
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## MONDAY AUG 8 ☀️
+Sleep **4** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -51,9 +55,9 @@ Flat route. Easy effort. Bring calories! Bring water. Ease into the run. Just ge
 Mobility 22 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Run: **0 km**
 
-&mdash;  
+Slept solid through 0300 then whatever woke me had me awake for about an hour.  My piriformis/sciatica has calmed down but my hips and lumbar are pretty tight. 
 
 <!---->
 ## TUESDAY AUG 9

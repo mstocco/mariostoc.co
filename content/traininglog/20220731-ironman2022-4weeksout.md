@@ -17,7 +17,7 @@ The week ended with a [my biggest ride](javascript:flick('sat');) of this year's
 
 ---
 
-Reality is hard to ignore.  
+## Reality is hard to ignore.  
 The _Keremos Creek Wildfire_ is the largest in the province and currently has the IM Canada Bike Course cut off.  Who know what will be?  
 
 ![I doubt there could have been a nicer day for a long bike ride on Southern Vancouver Island.](/assets/jpg/IMG_4196-977x550.jpeg BECHER BAY MARINA, EAST SOOKE)
