@@ -85,8 +85,10 @@ Total Time: **0 Minutes**
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
+
+
 ### PLANNED WORKOUT
-&mdash;  
+Athlete Check-in: **1PM - 2PM** 
 
 ### NOTES
 Total Time: **0 Minutes**

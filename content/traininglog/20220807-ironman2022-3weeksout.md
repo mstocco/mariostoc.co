@@ -59,13 +59,15 @@ Flat route. Easy effort. Bring calories! Bring water. Ease into the run. Just ge
 Mobility 22 minutes
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Run: **0 km**
+Total Time: **90 Mins** &nbsp;Run: **11.4 km** &nbsp;Walk: **1.4 km**
 
-Slept solid through 0313 then whatever woke me had me awake for about an hour.  My piriformis/sciatica has calmed down but my hips and lumbar are pretty tight. 
+Slept solid through 0313 then whatever woke me had me awake for about an hour.  My piriformis/sciatica has calmed down but my hips and lumbar are pretty tight.
+
+At 1600, during the heat of the day, Yauki and Vince accompanied me for the planned time on feet (as it was written).  We ran down to the _Songhees_ and back.  I consumed 2 Maurten non-caffeinated gels, one after 12 minutes into the run, the second at around 38 minutes.  I also had a 500ml bottle of water with me that was mostly consumed during the run and finished before the walk home.  I **felt good** this afternoon.
 
 <!---->
-## TUESDAY AUG 9
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY AUG 9 🌤
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -76,14 +78,13 @@ Swim 2400:
 4x 50 easy to cool down.
 Easy spin to the pool.
 
-Ride 60 minutes easy on the way home.
-
+Ride 60 minutes easy on the way home.  
 &star; two separate workouts is ok as well!
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Mins** &nbsp;Swim: **0m** &nbsp;Ride: **0 km**
 
-&mdash;  
+Another restful sleep last night.  The soreness in my right piriformis seems to have cleared and my lumbar/hips are less stiff this morning.
 
 <!---->
 ## WEDNESDAY AUG 10
