@@ -51,19 +51,15 @@ Sleep **4** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-90 minutes on your feet.   
-10 minutes walking to warm up. 
-Run 70 minutes. 
-Flat route. Easy effort. Bring calories! Bring water. Ease into the run. Just getting the time on your feet. 
-10 minutes walking to finish up.  
+90 minutes on your feet.   10 minutes walking to warm up. Run 70 minutes. Flat route. Easy effort. Bring calories! Bring water. Ease into the run. Just getting the time on your feet. 10 minutes walking to finish up.    
 Mobility 22 minutes
 
 ### NOTES
 Total Time: **90 Mins** &nbsp;Run: **11.4 km** &nbsp;Walk: **1.4 km**
 
-Slept solid through 0313 then whatever woke me had me awake for about an hour.  My piriformis/sciatica has calmed down but my hips and lumbar are pretty tight.
+Slept solid through 0313 then whatever woke me had me awake for about an hour.  My sciatica has calmed down but my hips/lumbar are pretty tight.
 
-At 1600, during the heat of the day, Yauki and Vince accompanied me for the planned time on feet (as it was written).  We ran down to the _Songhees_ and back.  I consumed 2 Maurten non-caffeinated gels, one after 12 minutes into the run, the second at around 38 minutes.  I also had a 500ml bottle of water with me that was mostly consumed during the run and finished before the walk home.  I **felt good** this afternoon.
+At 1600, during the heat of the day, Yauki and Vince accompanied me for the planned workout (as written). I consumed 2 Maurten non-caffeinated gels, one after 12 minutes into the run, the second at around 38 minutes.  I also had a 500ml bottle of water with me that was mostly consumed during the run and finished before the walk home.  I **felt good** this afternoon.
 
 <!---->
 ## TUESDAY AUG 9 🌤
