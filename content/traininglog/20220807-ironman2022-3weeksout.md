@@ -56,9 +56,10 @@ Sleep **4** | Fatigue **4** | Stress **3** | Soreness **4**
 ### NOTES
 Total Time: **90 Mins** &nbsp;Run: **11.4 km** &nbsp;Walk: **1.4 km**
 
-Slept solid through 0313 then whatever woke me had me awake for about an hour.  My sciatica has calmed down but my hips/lumbar are tight.
+Slept solid through 0313 then whatever woke me had me awake for about an hour.  My sciatica has calmed a bit but my hips/lumbar are tight.
 
-At 1600, during the heat of the day, Yauki and Vince accompanied me for the planned workout (as written). I consumed 2 Maurten non-caffeinated gels, one after 12 minutes into the run, the second at around 38 minutes.  500ml of water was mostly drank on the run; finished on the walk home.  I **felt good** this afternoon.
+At 1600, during the heat of the day, Yauki and Vince accompanied me for the planned workout (as written). I consumed 2 Maurten non-caffeinated gels, one after 12 minutes into the run, the second at around 38 minutes.  500ml of water was mostly drank on the run; finished on the walk home.    
+I **felt good** this afternoon.
 
 <!---->
 ## TUESDAY AUG 9 🌤
