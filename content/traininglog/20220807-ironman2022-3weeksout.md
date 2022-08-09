@@ -81,7 +81,7 @@ Ride 60 minutes easy on the way home.
 ### NOTES
 Total Time: **0 Mins** &nbsp;Swim: **0m** &nbsp;Ride: **0 km**
 
-Another restful sleep last night.  The soreness in my right piriformis seems to have cleared and my lumbar/hips are less stiff this morning.
+Another restful sleep last night.  The soreness in my right piriformis seems to have cleared but my lumbar/hips are again stiff this morning.
 
 <!---->
 ## WEDNESDAY AUG 10
