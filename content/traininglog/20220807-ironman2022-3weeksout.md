@@ -108,9 +108,11 @@ Never too hard on this ride. Riding efficiently and covering ground as easily/sm
 Off the Bike: 30 minutes. Easy running. Finding your footing on some tired legs.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp;Ride: **0 km** &nbsp;Run: **0 km**
 
 Another solid sleep and I woke feeling refreshed.  Hips are less tight this morning and no piriformis.
+
+The weather has turned cloudy and cool with a chance of showers.
 
 <!---->
 ## THURSDAY AUG 11
@@ -160,4 +162,4 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+&mdash;
