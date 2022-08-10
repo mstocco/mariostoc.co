@@ -83,9 +83,13 @@ Total Time: **90 Mins** &nbsp;Swim: **2400m** &nbsp;Ride: **rollers**
 
 Another restful sleep last night.  The soreness in my right piriformis seems to have cleared but my lumbar/hips are again stiff this morning.
 
-In the pool this afternoon, I **felt really good**.  First of the descending set came in at 1:46 and I thought I'd struggle to make each rep faster; it was a bit of effort but no struggle.  During the 9th rep of the next set of 100m lengths, I thought it was my 11th (last hard rep) and I put put my best sprint into the last 25m.  That knocked a second off my **100m PR** (25m pool, touch turns) which is now 1:31.
+After a busy day at work and needing to run a few errands, I drove to the pool.  Once in the pool, I **felt really good** starting with the first stroke.
+<!----->
+First of the descending set came in at 1:46 and I thought I'd struggle to make each rep faster; it was a bit of effort but no struggle.  During the 9th rep of the next set of 100m lengths, I thought it was my 11th (last hard rep) and I put put my best sprint into the last 25m.  That knocked a second off my **100m PR** (25m pool, touch turns) which is now 1:31.
 
 Before dinner, I set the rollers up outside in the sunshine and pedalled easy for 48 minutes.  I was dripping with sweat; perfect.
+
+![](/assets/jpg/image.jpeg)
 
 <!---->
 ## WEDNESDAY AUG 10 ☁️
@@ -100,7 +104,6 @@ Fuel, hydrate, get comfy. Then see how you feel off the bike.
 Never too hard on this ride. Riding efficiently and covering ground as easily/smoothly as possible. 
 
 Off the Bike: 30 minutes. Easy running. Finding your footing on some tired legs.
-
 
 ### NOTES
 Total Time: **0 Minutes**
