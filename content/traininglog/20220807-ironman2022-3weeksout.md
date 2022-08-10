@@ -60,7 +60,7 @@ Slept solid through 0313 then whatever woke me had me awake for about an hour.  
 
 During the heat of the day, Yauki and Vince accompanied me for the planned workout (as written). I consumed 2 Maurten gels, one after 12 minutes into the run, the second around 38 minutes.  500ml of water was mostly drank on the run; finished on the walk home.
 
-I **felt good** this afternoon.
+Apart from the first bit, I **felt good** this afternoon.
 
 <!---->
 ## TUESDAY AUG 9 🌤
