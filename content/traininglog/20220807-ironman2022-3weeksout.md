@@ -87,9 +87,11 @@ After a busy day at work and needing to run a few errands, I drove to the pool. 
 <!----->
 First of the descending set came in at 1:46 and I thought I'd struggle to make each rep faster; it was a bit of effort but no struggle.  During the 9th rep of the next set of 100m lengths, I thought it was my 11th (last hard rep) and I put put my best sprint into the last 25m.  That knocked a second off my **100m PR** (25m pool, touch turns) which is now 1:31.
 
-Before dinner, I set the rollers up outside in the sunshine and pedalled easy for 48 minutes.  I was dripping with sweat; perfect.
+![Swim](/assets/jpg/swim-20220809.jpeg)
 
-![](/assets/jpg/image.jpeg)
+---
+
+Before dinner, I set the rollers up outside in the sunshine and pedalled easy for 48 minutes.  I was dripping with sweat; perfect.
 
 <!---->
 ## WEDNESDAY AUG 10 ☁️
