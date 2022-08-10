@@ -79,13 +79,17 @@ Ride 60 minutes easy on the way home.
 &star; two separate workouts is ok as well!
 
 ### NOTES
-Total Time: **0 Mins** &nbsp;Swim: **0m** &nbsp;Ride: **0 km**
+Total Time: **90 Mins** &nbsp;Swim: **2400m** &nbsp;Ride: **rollers**
 
 Another restful sleep last night.  The soreness in my right piriformis seems to have cleared but my lumbar/hips are again stiff this morning.
 
+In the pool this afternoon, I **felt really good**.  First of the descending set came in at 1:46 and I thought I'd struggle to make each rep faster; it was a bit of effort but no struggle.  During the 9th rep of the next set of 100m lengths, I thought it was my 11th (last hard rep) and I put put my best sprint into the last 25m.  That knocked a second off my **100m PR** (25m pool, touch turns) which is now 1:31.
+
+Before dinner, I set the rollers up outside in the sunshine and pedalled easy for 48 minutes.  I was dripping with sweat; perfect.
+
 <!---->
-## WEDNESDAY AUG 10
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY AUG 10 ☁️
+Sleep **2** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -101,7 +105,7 @@ Off the Bike: 30 minutes. Easy running. Finding your footing on some tired legs.
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Another solid sleep and I woke feeling refreshed.  Hips are less tight this morning and no piriformis.
 
 <!---->
 ## THURSDAY AUG 11
