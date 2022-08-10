@@ -110,9 +110,9 @@ Off the Bike: 30 minutes. Easy running. Finding your footing on some tired legs.
 ### NOTES
 Total Time: **0 Minutes** &nbsp;Ride: **0 km** &nbsp;Run: **0 km**
 
-Another solid sleep and I woke feeling refreshed.  Hips are less tight this morning and no piriformis.
+Another solid sleep and I woke feeling refreshed.  Hips are less tight this morning and the soreness in my piriformis seems to have cleared.
 
-Weather turned cloudy, cool with a chance of showers.
+Weather has turned cloudy, cool.
 
 <!---->
 ## THURSDAY AUG 11
