@@ -83,7 +83,7 @@ Total Time: **90 Mins** &nbsp;Swim: **2400m** &nbsp;Ride: **rollers**
 
 Another restful sleep last night.  The soreness in my right piriformis seems to have cleared but my lumbar/hips are again stiff this morning.
 
-After a busy day at work and needing to run a few errands, I drove to the pool.  Once in the pool, I **felt really good** starting with the first stroke.
+After a busy day at work and needing to run a few errands, I drove to the pool.  In the water, I **felt really good** from the first stroke.
 <!----->
 First of the descending set came in at 1:46 and I thought I'd struggle to make each rep faster; it was a bit of effort but no struggle.  During the 9th rep of the next set of 100m lengths, I thought it was my 11th (last hard rep) and I put put my best sprint into the last 25m.  That knocked a second off my **100m PR** (25m pool, touch turns) which is now 1:31.
 
