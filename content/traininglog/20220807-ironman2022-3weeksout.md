@@ -112,7 +112,7 @@ Total Time: **0 Minutes** &nbsp;Ride: **0 km** &nbsp;Run: **0 km**
 
 Another solid sleep and I woke feeling refreshed.  Hips are less tight this morning and no piriformis.
 
-The weather has turned cloudy and cool with a chance of showers.
+Weather turned cloudy, cool with a chance of showers.
 
 <!---->
 ## THURSDAY AUG 11
