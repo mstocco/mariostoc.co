@@ -118,7 +118,13 @@ Same struggle to get motivated as last [Wednesday](ironman2022-4weeksout?wed); s
 
 Roughly 1.8L of water and ~90 of Maynards (Tropical Swedish Berries) consumed on the bike.
 
+<!----->
+
 I set out on for the run in short order.  My energy was good and my legs felt ok however I felt the nervy sensation in my little toe for the entire trip out to _Quadra Street_ and back.  I stopped briefly to re-tie my left shoe after the _Switch Bridge_; that didn't help.  My guess is the bone has healed but I may be dealing with some nerve issues in that joint for the next foreseeable future.
+
+---
+
+![Bike](/assets/jpg/image.jpeg)
 
 <!---->
 ## THURSDAY AUG 11 ☀️
