@@ -108,15 +108,23 @@ Never too hard on this ride. Riding efficiently and covering ground as easily/sm
 Off the Bike: 30 minutes. Easy running. Finding your footing on some tired legs.
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp;Ride: **0 km** &nbsp;Run: **0 km**
+Total Time: **198 Mins** &nbsp;Ride: **71 km** &nbsp;Run: **5.3 km**
 
 Another solid sleep and I woke feeling refreshed.  Hips are less tight this morning and the soreness in my piriformis seems to have cleared.
 
 Weather has turned cloudy, cool.
+<!----->
+Same struggle to get motivated as last [Wednesday](ironman2022-4weeksout?wed); same dreary weather too.  I had just clipped into my pedal and before I took a pedal stroke, I toppled over.  I must really not want to ride today.  The paving stones of my driveway left a nice raspberry on the patella of my left knee.  I picked my sorry self up and pedalled away from my house.  Time to just get things done.
+
+~9 minutes in, on _Douglas Street_, I got into the aero bars and once again, riding was fun.  I rode the a very typical _"Lochside Route"_ north through to _Sidney_, turning around at _Dolphin Road_ near the ferry terminal.  Effort was steady and I had plenty of time in the aero bars throughout the ride.  A bit of a SE breeze pushed me north and the wind all but died for the trip south.  Ironically, it was colder the further north on the peninsula than it was in _Saanich_.
+
+Roughly 1.8L of water and ~90 of Maynards (Tropical Swedish Berries) consumed on the bike.
+
+I set out on for the run in short order.  My energy was good and my legs felt ok however I felt the nervy sensation in my little toe for the entire trip out to _Quadra Street_ and back.  I stopped briefly to re-tie my left shoe after the _Switch Bridge_; that didn't help.  My guess is the bone has healed but I may be dealing with some nerve issues in that joint for the next foreseeable future.
 
 <!---->
-## THURSDAY AUG 11
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY AUG 11 ☀️
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -128,9 +136,9 @@ Open Water 55 minutes in the water:
 Mobility 20 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Mins** &nbsp;Ride: **0km** &nbsp;Swim: **0m**
 
-&mdash;  
+Slept soundly and feel pretty good after some cereal and a coffee.
 
 <!---->
 ## FRIDAY AUG 12
