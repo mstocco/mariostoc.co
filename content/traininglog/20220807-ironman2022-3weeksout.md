@@ -99,8 +99,8 @@ Sleep **2** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-In honor of all the climbing the previous Wednesday, and the huge ride on Saturday, and the longest run in a while on Monday....
-This ride should be flatter! Time in the bars getting comfy. 
+In honor of all the climbing the previous [Wednesday](ironman2022-4weeksout?wed), and the huge ride on [Saturday](ironman2022-4weeksout?sat), and the longest run in a while on [Monday](javascript:flick('mon');)...  This ride should be flatter! Time in the bars getting comfy.
+
 Ride 3:00. Peninsula loop is perfect. Get your aerobar time, get in your groove. 
 Fuel, hydrate, get comfy. Then see how you feel off the bike. 
 Never too hard on this ride. Riding efficiently and covering ground as easily/smoothly as possible. 
@@ -111,8 +111,6 @@ Off the Bike: 30 minutes. Easy running. Finding your footing on some tired legs.
 Total Time: **198 Mins** &nbsp;Ride: **71 km** &nbsp;Run: **5.3 km**
 
 Another solid sleep and I woke feeling refreshed.  Hips are less tight this morning and the soreness in my piriformis seems to have cleared.
-
-Weather has turned cloudy, cool.
 <!----->
 Same struggle to get motivated as last [Wednesday](ironman2022-4weeksout?wed); same dreary weather too.  I had just clipped into my pedal and before I took a pedal stroke, I toppled over.  I must really not want to ride today.  The paving stones of my driveway left a nice raspberry on the patella of my left knee.  I picked my sorry self up and pedalled away from my house.  Time to just get things done.
 
