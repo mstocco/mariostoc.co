@@ -124,9 +124,9 @@ Roughly 1.8L of water and ~90 of Maynards (Tropical Swedish Berries) consumed on
 
 ---
 
-I set out on for the run in short order.  My energy was good and my legs felt ok however...
+I set out on for the run in short order.  My energy was there and my **legs felt good** however...
 
-I felt the nervy sensation in my little toe for the entire trip out to _Quadra Street_ and back.  I stopped briefly to re-tie my left shoe after the _Switch Bridge_; that didn't help.  My guess is the bone has healed but I may be dealing with some nerve issues in that joint for the next foreseeable future.
+The uncomfortable nervy sensation in my little toe was felt the entire jog (_Quadra Street_ and back).  At the _Switch Bridge_, I stopped briefly to re-tie my left shoe; that didn't help.  The bone may have healed but I may be dealing with a nerve issue for the foreseeable future.
 
 <!---->
 ## THURSDAY AUG 11 ☀️
