@@ -112,7 +112,7 @@ Total Time: **198 Mins** &nbsp;Ride: **71 km** &nbsp;Run: **5.3 km**
 
 Another solid sleep and I woke feeling refreshed.  Hips are less tight this morning and the soreness in my piriformis seems to have cleared.
 <!----->
-Like [last Wednesday](ironman2022-4weeksout?wed), the weather was dreary and motivation was low.  I clipped into my pedal but before I took a stroke, I toppled over.  I must really not want to ride today.  The paving stones of my driveway left a nice raspberry on the patella of my left knee.  I picked my sorry self up and pedalled away from my house.  Time to just get things done.
+Like [last Wednesday](ironman2022-4weeksout?wed), the weather was dreary and **motivation was low**.  I clipped into a pedal but before I took a stroke, I toppled over.  I must really not want to ride today.  The paving stones of my driveway left a nice raspberry on my left knee.  I picked my sorry self up and pedalled away; time to just get it done.
 
 ![Bike](/assets/jpg/bike-20220810.jpeg)
 <!----->
