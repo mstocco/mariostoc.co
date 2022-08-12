@@ -142,7 +142,7 @@ Open Water 55 minutes in the water:
 Mobility 20 minutes
 
 ### NOTES
-Total Time: **100 Mins** &nbsp;Ride: **14 km** &nbsp;Swim: **2300	m**
+Time: **100 Mins** &nbsp;Ride: **14 km** &nbsp;Swim: **2300	m**
 
 Slept soundly and feel pretty good after some cereal and a coffee.
 
