@@ -147,7 +147,7 @@ Time: **100 Mins** &nbsp;Ride: **14 km** &nbsp;Swim: **2300	m**
 Slept soundly and feel pretty good after some cereal and a coffee.
 
 Cooler temperature had less people at the lake this afternoon; felt at times like I had the place to myself.  Pretty standard workout with no wetsuit and towing a float bag.  Most people swim around the islands of the lake.  I prefer sighting the longest, straightest line that I can.
-
+<!----->
 ![Swim](/assets/jpg/image.jpeg)
 <!---->
 ## FRIDAY AUG 12 ☀️
