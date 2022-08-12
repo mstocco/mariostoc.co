@@ -142,13 +142,16 @@ Open Water 55 minutes in the water:
 Mobility 20 minutes
 
 ### NOTES
-Total Time: **0 Mins** &nbsp;Ride: **0km** &nbsp;Swim: **0m**
+Total Time: **100 Mins** &nbsp;Ride: **14 km** &nbsp;Swim: **2300	m**
 
 Slept soundly and feel pretty good after some cereal and a coffee.
 
+Cooler temperature had less people at the lake this afternoon; felt at times like I had the place to myself.  Pretty standard workout with no wetsuit and towing a float bag.  Most people swim around the islands of the lake.  I prefer sighting the longest, straightest line that I can.
+
+![Swim](/assets/jpg/image.jpeg)
 <!---->
-## FRIDAY AUG 12
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY AUG 12 ☀️
+Sleep **2** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -161,9 +164,9 @@ Run 45 minutes EASY.
 Spin 30-40 minutes EASY. Trainer or outside. Just keep it VERY EASY.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp;Ride: **0 km** &nbsp;Run: **0 km**
 
-&mdash;  
+If I've done anything right so far this week, it's been getting restful sleep.
 
 <!---->
 ## SATURDAY AUG 13
