@@ -203,13 +203,12 @@ I wore my farmer-john wetsuit at _Elk Lake_.  Although it works in the water, it
 
 I felt like I had a good open water rhythm going for the 30 minute stretch this afternoon.
 
-![Swim](/assets/jpg/image.jpeg)
+![Swim](/assets/jpg/swim-20220813.jpeg)
 <!----->
 Once on the bike, it was calories and kilometres on a winding but flattish route up the peninsula to _Lands End Road_ with lots of time in the aero-bars.  Effort was easy and similar to [Wednesday](javascript:flick('wed');), slight tailwind northbound, cooler temperatures at the north end and no wind for the trip south.
+![Bike](/assets/jpg/bike-20220813.jpeg)
 
 I was home before I knew it, 30 minutes short of the scheduled 3:45 ride time.
-
-![Bike](/assets/jpg/image.jpeg)
 <!----->
 The temperature for this evening was around 22ºC.  I wore my Oakley ARO7 helmet; comfortable for the pace and terrain without a drop of sweat.
 
