@@ -199,16 +199,19 @@ Time: **230 Mins** &nbsp;Swim: **1700m** &nbsp;Ride: **80 km**
 
 Bit of a chore day that had me out the door late (and home just before sunset).
 <!----->
+![Swim](/assets/jpg/swim-20220813.jpeg)
 I wore my farmer-john wetsuit at _Elk Lake_.  Although it works in the water, it is tight and takes me too much effort to remove.  I never shed the pounds this summer for that size M.  My full sleeve is size ML and if _Okanagan Lake_ is cool enough, that will likely be my go too option.  The water temperature in _Okanagan Lake_ today was reported to be a very warm 26ºC.
 
 I felt like I had a good open water rhythm going for the 30 minute stretch this afternoon.
 
-![Swim](/assets/jpg/swim-20220813.jpeg)
 <!----->
-Once on the bike, it was calories and kilometres on a winding but flattish route up the peninsula to _Lands End Road_ with lots of time in the aero-bars.  Effort was easy and similar to [Wednesday](javascript:flick('wed');), slight tailwind northbound, cooler temperatures at the north end and no wind for the trip south.
-![Bike](/assets/jpg/bike-20220813.jpeg)
+Once on the bike, it was calories and kilometres on a winding but flattish route up the peninsula to _Lands End Road_ with lots of time in the aero-bars.
+
+Effort was easy and similar to [Wednesday](javascript:flick('wed');), slight tailwind northbound, cooler temperatures at the north end and no wind for the trip south.
 
 I was home before I knew it, 30 minutes short of the scheduled 3:45 ride time.
+
+![Bike](/assets/jpg/bike-20220813.jpeg)
 <!----->
 The temperature for this evening was around 22ºC.  I wore my Oakley ARO7 helmet; comfortable for the pace and terrain without a drop of sweat.
 
