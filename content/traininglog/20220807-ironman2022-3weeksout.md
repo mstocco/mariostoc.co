@@ -11,7 +11,11 @@ Total Time: **14.5 Hours**
 
 I feel like I was **CHANGING GEARS**
 
-&mdash;
+12 of 13 scheduled activities completed missing just a short ride on [Friday](javascript:flick('fri');); otherwise a really good week.  Sleep was on point too.
+
+Early in the week, I felt the 6 hour ride from [last Saturday](ironman2022-4weeksout?sat) but that effort did absorb quickly.
+
+Less and less news being reported on the _Keremeos Creek Wildfire_ which is promising however, there is now a 50 hectare fire near on _Highway 3_ and _Nighthawk Road_ (turn off to the _US Border_, west side of _Richter Pass_).
 
 ![Static display at CFB Patricia Bay, home of the 443 Maritime Helicopter Squadron.](/assets/jpg/IMG_4199-977x550.jpeg Sikorsky CH-124 Sea King)
 
@@ -163,19 +167,42 @@ Run 45 minutes EASY.
 Spin 30-40 minutes EASY. Trainer or outside. Just keep it VERY EASY.
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp;Ride: **0 km** &nbsp;Run: **0 km**
+Total Time: **46 Minutes** &nbsp;Ride: **0 km** &nbsp;Run: **7.5 km**
 
 If I've done anything right so far this week, it's been getting restful sleep.
 
+The workday got the better of me and it was 6pm before I laced up my shoes for the 45 minute jog to _Harbour Road_ and back.  My little toe was less nervy that the run on [Wednesday](javascript:flick('wed');) but still noticeable.  I actually stopped at one point to adjust the laces on my right shoe.  
+
+I skipped the easy ride.  Dinner is calling.
+
 <!---->
-## SATURDAY AUG 13
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY AUG 13 ⛅️
+Sleep **2** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash;  
 
 ### NOTES
-Total Time: **0 Minutes**
+Time: **230 Mins** &nbsp;Swim: **1700m** &nbsp;Ride: **80 km**
 
-&mdash;
+Bit of a chore day that had me out the door late (and home at sunset).
+
+I wore my farmer-john wetsuit at _Elk Lake_.  Although it works in the water, it is tight and takes me too much effort to remove.  I never shed the pounds this summer for that size M.  My full sleeve is size ML and if _Okanagan Lake_ is cool enough, that will likely be my go too option.  The water temperature in _Okanagan Lake_ today was reported to be a very warm 26ºC.
+
+I felt like I had a good open water rhythm going for the 30 minute stretch this afternoon.
+
+Once on the bike, it was calories and kilometres on a winding but flattish route up the peninsula to _Lands End Road_ with lots of time in the aero-bars.  Effort was easy and similar to [Wednesday](javascript:flick('wed');), slight tailwind northbound, cooler temperatures at the north end and no wind for the trip south.
+
+I think I may have found my lemonade sludge recipe!  For a 1400 calorie bottle:  
+
+* 250g of Sugar
+* 50g of Western Family Lemonade
+* 38g of Maltodextrin 
+* 300ml of hot water
+
+The above works out to the same 0.8:1 fructose to glucose ratio as Maurten and has ~30mg of sodium citrate from the lemonade crystals.  It tasted better than the stuff I had mixed in the past (too much Maltodextrin).
+
+I was home before I knew it, 30 minutes short of the scheduled 3:45 ride time.
+
+The temperature for this evening was 22ºC.  I wore my Oakley ARO7 helmet without a drop of sweat.
