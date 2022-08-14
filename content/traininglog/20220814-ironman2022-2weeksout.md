@@ -29,11 +29,14 @@ Mobility 25 minutes
 ### NOTES
 Total Time: **96 Minutes** &nbsp; Run: **16.2 km**
 
-Maybe the most important run of the summer is on the schedule.
+Maybe the most important run of the summer.  I feel like I **nailed it**.
 
-I feel like I nailed it.  Easy effort to the _Inner Harbour_ then out along _Dallas Road_.  The weather was warm and perfect.  I had moments when I felt good and moments when I felt fantastic.   I packed a 500ml bottle diluted with some of sludge mix left over from the ride [yesterday](ironman2022-3weeksout?sat).
+Easy effort to the _Inner Harbour_ then out along _Dallas Road_.  The weather was warm and perfect.  I had moments when I felt good and moments when I felt fantastic.   I packed a 500ml water bottle diluted with some of sludge mix left over from the ride [yesterday](ironman2022-3weeksout?sat).
 
-After hitting the 15km mark, I was feeling well enough to round it to an even 10 miles.  
+After hitting the 15km mark, I was feeling well enough to round it to an even 10 miles.  More importantly, when I got home I felt like I had run but not cooked.
+<!----->
+### TIME IN ZONES
+![Heart Rate](/assets/jpg/hr-20220814.jpeg)
 
 ![Run](/assets/jpg/image.jpeg)
 

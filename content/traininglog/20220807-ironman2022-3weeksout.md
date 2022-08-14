@@ -200,7 +200,7 @@ Time: **230 Mins** &nbsp;Swim: **1700m** &nbsp;Ride: **80 km**
 Bit of a chore day that had me out the door late (and home just before sunset).
 <!----->
 ![Swim](/assets/jpg/swim-20220813.jpeg)
-I wore my farmer-john wetsuit at _Elk Lake_.  Although it works in the water, it is tight and takes me too much effort to remove.  I never shed the pounds this summer for that size M.  My full sleeve is size ML and if _Okanagan Lake_ is cool enough, that will likely be my go too option.  The water temperature in _Okanagan Lake_ today was reported to be a very warm 26ºC.
+I wore my farmer-john wetsuit at _Elk Lake_.  Although it works in the water, it is tight and takes way too much effort to remove.  I never shed the pounds this summer for size M.  My full sleeve is size ML and if _Okanagan Lake_ is cool enough, that will likely be my go-to-option.  The water temperature in _Okanagan Lake_ today was reported to be a very warm 26ºC.
 
 I felt like I had a **good open water rhythm** going for the 30 minute stretch this afternoon.
 
