@@ -207,7 +207,14 @@ I felt like I had a good open water rhythm going for the 30 minute stretch this 
 <!----->
 Once on the bike, it was calories and kilometres on a winding but flattish route up the peninsula to _Lands End Road_ with lots of time in the aero-bars.  Effort was easy and similar to [Wednesday](javascript:flick('wed');), slight tailwind northbound, cooler temperatures at the north end and no wind for the trip south.
 
-I think I may have found my lemonade sludge recipe!  For a 1400 calorie bottle:  
+I was home before I knew it, 30 minutes short of the scheduled 3:45 ride time.
+
+The temperature for this evening was 22ºC.  I wore my Oakley ARO7 helmet without a drop of sweat.
+
+![Bike](/assets/jpg/image.jpeg)
+<!----->
+### SUGAR RUSH
+I think I may have nailed my lemonade sludge recipe!  For a 1400 calorie bottle:  
 
 * 250g of Sugar
 * 50g of Western Family Lemonade
@@ -215,7 +222,3 @@ I think I may have found my lemonade sludge recipe!  For a 1400 calorie bottle:
 * 300ml of hot water
 
 The above works out to the same 0.8:1 fructose to glucose ratio as Maurten and has ~30mg of sodium citrate from the lemonade crystals.  It tasted better than the stuff I had mixed in the past (too much Maltodextrin).
-
-I was home before I knew it, 30 minutes short of the scheduled 3:45 ride time.
-
-The temperature for this evening was 22ºC.  I wore my Oakley ARO7 helmet without a drop of sweat.
