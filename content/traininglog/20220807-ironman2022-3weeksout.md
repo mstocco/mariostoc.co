@@ -209,10 +209,10 @@ Once on the bike, it was calories and kilometres on a winding but flattish route
 
 I was home before I knew it, 30 minutes short of the scheduled 3:45 ride time.
 
-The temperature for this evening was 22ºC.  I wore my Oakley ARO7 helmet without a drop of sweat.
-
 ![Bike](/assets/jpg/image.jpeg)
 <!----->
+The temperature for this evening was around 22ºC.  I wore my Oakley ARO7 helmet; comfortable for the pace and terrain without a drop of sweat.
+
 ### SUGAR RUSH
 I think I may have nailed my lemonade sludge recipe!  For a 1400 calorie bottle:  
 
