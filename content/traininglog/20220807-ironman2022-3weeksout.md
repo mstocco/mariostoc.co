@@ -7,14 +7,13 @@ Week beginning [Sunday, August 7, 2022](javascript:flick('sun');)
 Be consistent EVERY day this week.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **14.5 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **CHANGING GEARS**
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![Static display at CFB Patricia Bay, home of the 443 Maritime Helicopter Squadron.](/assets/jpg/IMG_4199-977x550.jpeg Sikorsky CH-124 Sea King)
 
 ## SUNDAY AUG 7 ☀️
 Sleep **3** | Fatigue **5** | Stress **3** | Soreness **4**
