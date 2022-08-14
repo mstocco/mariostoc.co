@@ -21,9 +21,7 @@ Sleep **2** | Fatigue **2** | Stress **2** | Soreness **2**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Run 15km.   Flat route. Easy effort. Remember to fuel as if you're getting into a long day.  Only goal is to cover the distance as comfortably as possible.
-
-Mobility 25 minutes
+Run 15km.   Flat route. Easy effort. Remember to fuel as if you're getting into a long day.  Only goal is to cover the distance as comfortably as possible. &mdash; Mobility 25 minutes
 
 ### NOTES
 Total Time: **96 Minutes** &nbsp; Run: **16.2 km**
