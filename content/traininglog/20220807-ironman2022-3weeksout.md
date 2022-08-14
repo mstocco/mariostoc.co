@@ -11,7 +11,7 @@ Total Time: **14.5 Hours**
 
 I feel like I was **CHANGING GEARS**
 
-12 of 13 scheduled activities completed missing just a short ride on [Friday](javascript:flick('fri');); otherwise a really good week.  Sleep was on point too.
+12 of 13 scheduled activities completed, just missing a short ride on [Friday](javascript:flick('fri');); otherwise a **really good week**.  Sleep was on point too.
 
 Early in the week, I felt the 6 hour ride from [last Saturday](ironman2022-4weeksout?sat) but that effort did absorb quickly.
 
@@ -181,7 +181,15 @@ Sleep **2** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+ 1st: Open Water Swim: 
+3-5 minutes swimming super easy to warm up and loosen up. 
+When ready, 30 minutes @ IM effort/focus. 
+2-3 minutes easy to cool down.
+ 
+2nd: (This does NOT have to be right away, but you should be fueling/hydrating after the swim, just like a race)  
+Ride 3:45. Flattish route. 
+A few rollers are certainly allowed, but no need to seek out maximum vertical. 
+Think about Sunday run when riding. No need for a big effort. Just get in the time, get comfortable, and practice your fueling.
 
 ### NOTES
 Time: **230 Mins** &nbsp;Swim: **1700m** &nbsp;Ride: **80 km**
