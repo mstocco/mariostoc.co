@@ -202,12 +202,12 @@ Bit of a chore day that had me out the door late (and home just before sunset).
 ![Swim](/assets/jpg/swim-20220813.jpeg)
 I wore my farmer-john wetsuit at _Elk Lake_.  Although it works in the water, it is tight and takes me too much effort to remove.  I never shed the pounds this summer for that size M.  My full sleeve is size ML and if _Okanagan Lake_ is cool enough, that will likely be my go too option.  The water temperature in _Okanagan Lake_ today was reported to be a very warm 26ºC.
 
-I felt like I had a good open water rhythm going for the 30 minute stretch this afternoon.
+I felt like I had a **good open water rhythm** going for the 30 minute stretch this afternoon.
 
 <!----->
-Once on the bike, it was calories and kilometres on a winding but flattish route up the peninsula to _Lands End Road_ with lots of time in the aero-bars.
+Once on the bike, it was calories and kilometres on a meandering but flattish route up the peninsula to _Lands End Road_ with a good amount of time in the aero-bars.
 
-Effort was easy and similar to [Wednesday](javascript:flick('wed');), slight tailwind northbound, cooler temperatures at the north end and no wind for the trip south.
+**Effort was easy** and similar to [Wednesday](javascript:flick('wed');), slight tailwind northbound, cooler temperatures at the north end and no wind for the trip south.
 
 I was home before I knew it, 30 minutes short of the scheduled 3:45 ride time.
 
@@ -219,8 +219,8 @@ The temperature for this evening was around 22ºC.  I wore my Oakley ARO7 helmet
 I think I may have nailed my lemonade sludge recipe!  For a 1400 calorie bottle:  
 
 * 250g of Sugar
-* 50g of Western Family Lemonade
+* 66g of Western Family Lemonade
 * 38g of Maltodextrin 
 * 300ml of hot water
 
-The above works out to the same 0.8:1 fructose to glucose ratio as Maurten and has ~30mg of sodium citrate from the lemonade crystals.  It tasted better than the stuff I had mixed in the past (too much Maltodextrin).
+The above works out to the same 0.8:1 fructose to glucose ratio as Maurten and has ~30mg of sodium citrate from the lemonade crystals.  It tasted better than the stuff I had mixed in the past (previously with too much Maltodextrin).
