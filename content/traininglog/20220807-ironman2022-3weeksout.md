@@ -11,9 +11,11 @@ Total Time: **14.5 Hours**
 
 I feel like I was **CHANGING GEARS**
 
-12 of 13 scheduled activities completed, just missing a short ride on [Friday](javascript:flick('fri');); otherwise a **really good week**.  Sleep was on point too.
+12 out of 13 scheduled activities completed, just missing a short ride on [Friday](javascript:flick('fri');); otherwise a **really good week**.  Sleep was on point too.
 
 Early in the week, I felt the 6 hour ride from [last Saturday](ironman2022-4weeksout?sat) but that effort did absorb quickly.
+
+---
 
 Less and less news being reported on the _Keremeos Creek Wildfire_ which is promising however, there is now a 50 hectare fire near on _Highway 3_ and _Nighthawk Road_ (turn off to the _US Border_, west side of _Richter Pass_).
 
@@ -188,14 +190,15 @@ When ready, 30 minutes @ IM effort/focus.
  
 2nd: (This does NOT have to be right away, but you should be fueling/hydrating after the swim, just like a race)  
 Ride 3:45. Flattish route. 
-A few rollers are certainly allowed, but no need to seek out maximum vertical. 
+A few rollers are certainly allowed, but no need to seek out maximum vertical.
+
 Think about Sunday run when riding. No need for a big effort. Just get in the time, get comfortable, and practice your fueling.
 
 ### NOTES
 Time: **230 Mins** &nbsp;Swim: **1700m** &nbsp;Ride: **80 km**
 
-Bit of a chore day that had me out the door late (and home at sunset).
-
+Bit of a chore day that had me out the door late (and home just before sunset).
+<!----->
 I wore my farmer-john wetsuit at _Elk Lake_.  Although it works in the water, it is tight and takes me too much effort to remove.  I never shed the pounds this summer for that size M.  My full sleeve is size ML and if _Okanagan Lake_ is cool enough, that will likely be my go too option.  The water temperature in _Okanagan Lake_ today was reported to be a very warm 26ºC.
 
 I felt like I had a good open water rhythm going for the 30 minute stretch this afternoon.
