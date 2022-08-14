@@ -17,7 +17,7 @@ Early in the week, I felt the 6 hour ride from [last Saturday](ironman2022-4week
 
 ---
 
-Less and less news being reported on the _Keremeos Creek Wildfire_ which is promising however, there is now a 50 hectare fire near on _Highway 3_ and _Nighthawk Road_ (turn off to the _US Border_, west side of _Richter Pass_).
+Less and less news being reported on the _Keremeos Creek Wildfire_ which is promising, however there is now a 50 hectare fire near on _Highway 3_ and _Nighthawk Road_ (turn off to the _US Border_, west side of _Richter Pass_).
 
 ![Static display at CFB Patricia Bay, home of the 443 Maritime Helicopter Squadron.](/assets/jpg/IMG_4199-977x550.jpeg Sikorsky CH-124 Sea King)
 
@@ -203,6 +203,8 @@ I wore my farmer-john wetsuit at _Elk Lake_.  Although it works in the water, it
 
 I felt like I had a good open water rhythm going for the 30 minute stretch this afternoon.
 
+![Swim](/assets/jpg/image.jpeg)
+<!----->
 Once on the bike, it was calories and kilometres on a winding but flattish route up the peninsula to _Lands End Road_ with lots of time in the aero-bars.  Effort was easy and similar to [Wednesday](javascript:flick('wed');), slight tailwind northbound, cooler temperatures at the north end and no wind for the trip south.
 
 I think I may have found my lemonade sludge recipe!  For a 1400 calorie bottle:  
