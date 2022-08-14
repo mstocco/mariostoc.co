@@ -21,8 +21,7 @@ Sleep **2** | Fatigue **2** | Stress **2** | Soreness **2**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Run 15km.   
-Flat route. Easy effort. Remember to fuel as if you're getting into a long day.  Only goal is to cover the distance as comfortably as possible.
+Run 15km.   Flat route. Easy effort. Remember to fuel as if you're getting into a long day.  Only goal is to cover the distance as comfortably as possible.
 
 Mobility 25 minutes
 
@@ -38,8 +37,7 @@ After hitting the 15km mark, I was feeling well enough to round it to an even 10
 ### TIME IN ZONES
 ![Heart Rate](/assets/jpg/hr-20220814.jpeg)
 
-![Run](/assets/jpg/image.jpeg)
-
+![Run](/assets/jpg/run-20220814.jpeg)
 <!---->
 ## MONDAY AUG 15
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
