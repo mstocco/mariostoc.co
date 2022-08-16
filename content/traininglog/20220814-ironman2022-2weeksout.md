@@ -63,7 +63,9 @@ I felt a bit stiff to start but quickly found a groove and got done what I neede
 
 ![Swim](/assets/jpg/swim-20220815.jpeg)
 
-I rode out toward _Colwood_, taking  _The Goose_ home for the balance of riding. 
+---
+
+The balance of riding was a ride on the _E&N Rail Trail_ toward _Colwood_, looping back home on _The Goose_. 
 
 
 <!---->
