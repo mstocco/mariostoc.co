@@ -63,6 +63,8 @@ I got back on my bike and briefly thought about riding up to _Thetis Lake_ for a
 
 Low and behold, a 25m lane all to myself!  I felt a bit stiff to start but quickly found a groove and got done what I needed to get done.
 
+![Swim](/assets/jpg/swim-20220815.jpeg)
+
 I rode out toward _Colwood_, taking  _The Goose_ home for the balance of riding. 
 
 
