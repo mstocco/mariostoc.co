@@ -68,12 +68,11 @@ I felt a bit stiff to start but quickly found a groove and got done what I neede
 
 ---
 
-The balance of riding was a ride on the _E&N Rail Trail_ toward _Colwood_, looping back home on _The Goose_. 
-
+The balance of riding was a ride on the _E&N Rail Trail_ toward _Colwood_, looping back home on _The Goose_.  A bit of wind and the XC bike made for a bit of work.
 
 <!---->
-## TUESDAY AUG 16
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY AUG 16 ☀️
+Sleep **4** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -87,7 +86,7 @@ Mobility 25 minutes
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Just a so-so sleep last night.  My kit was ready for an early morning run but I rolled over and got another couple hours.
 
 <!---->
 ## WEDNESDAY AUG 17
