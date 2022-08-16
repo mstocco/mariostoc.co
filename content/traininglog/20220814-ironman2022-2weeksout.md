@@ -55,13 +55,16 @@ Something had me awake at 0115 (leftover Indian food perhaps).
 
 After work, I pedalled to _Crystal Pool_ but when I got on the pool deck, the 25m lanes were closed.  Apparently, a part of the filtration system broke and the water was too turbid for lane swimming.  What to do...
 <!----->
-I got back on my bike and briefly thought about riding up to _Thetis Lake_ for an open-water swim but I really wanted to do the scheduled workout as written.  Off to the _Esquimalt Recreation Centre_ I rode.
+I got back on my bike and briefly thought about riding up to _Thetis Lake_ for an open-water swim but I really wanted to do the scheduled workout as written.  I took a chance and rode to the _Esquimalt Recreation Centre_.
 
 Low and behold, a 25m lane all to myself!
 
+### SWIM WORKOUT
+![Swim](/assets/jpg/swim-20220815.jpeg)
+
 I felt a bit stiff to start but quickly found a groove and got done what I needed to get done.
 
-![Swim](/assets/jpg/swim-20220815.jpeg)
+
 
 ---
 
