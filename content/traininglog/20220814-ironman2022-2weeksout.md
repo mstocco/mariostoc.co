@@ -30,7 +30,7 @@ Maybe the most important run of the summer.  I feel like I **nailed it**.
 
 Easy effort to the _Inner Harbour_ then out along _Dallas Road_.  The weather was warm and perfect.  I had moments when I felt good and moments when I felt fantastic.   I packed a 500ml water bottle diluted with some of sludge mix left over from the ride [yesterday](ironman2022-3weeksout?sat).
 
-After hitting the 15km mark, I was feeling well enough to round it to an even 10 miles.  More importantly, when I got home I felt like I had run but not cooked.
+After 15km, I felt good to go and round this activity up to 10 miles.  More importantly, when I got home I felt like I had run but not cooked.
 <!----->
 ### TIME IN ZONES
 ![Heart Rate](/assets/jpg/hr-20220814.jpeg)
@@ -61,7 +61,9 @@ After work, I pedalled to _Crystal Pool_ but when I got on the pool deck, the 25
 <!----->
 I got back on my bike and briefly thought about riding up to _Thetis Lake_ for an open-water swim but I really wanted to do the scheduled workout as written.  Off to Esquimalt Recreation Centre I rode.
 
-Low and behold, a 25m lane all to myself!  I felt a bit stiff to start but quickly found a groove and got done what I needed to get done.
+Low and behold, a 25m lane all to myself!
+
+I felt a bit stiff to start but quickly found a groove and got done what I needed to get done.
 
 ![Swim](/assets/jpg/swim-20220815.jpeg)
 
