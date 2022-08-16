@@ -57,9 +57,11 @@ Time: **90 Minutes** &nbsp;Swim: **2000m** &nbsp;Ride: **22 km**
 
 Something had me awake at 0115 (leftover Indian food perhaps).
 
-After work, I pedalled to _Crystal Pool_ but when I got on the pool deck, the 25m lanes were closed.  Apparently, a part of the filtration system broke and the water was too turbid for lane swimming.  I got back on my bike and briefly thought about riding up to _Thetis Lake_ for an open-water swim but I really wanted to do the scheduled workout as written.  Off to Esquimalt Recreation Centre I rode.
+After work, I pedalled to _Crystal Pool_ but when I got on the pool deck, the 25m lanes were closed.  Apparently, a part of the filtration system broke and the water was too turbid for lane swimming.  What to do...
+<!----->
+I got back on my bike and briefly thought about riding up to _Thetis Lake_ for an open-water swim but I really wanted to do the scheduled workout as written.  Off to Esquimalt Recreation Centre I rode.
 
-Low and behold, a 25m lane all to myself!  I felt a bit stiff to start but quickly found a groove.
+Low and behold, a 25m lane all to myself!  I felt a bit stiff to start but quickly found a groove and got done what I needed to get done.
 
 I rode out toward _Colwood_, taking  _The Goose_ home for the balance of riding. 
 
