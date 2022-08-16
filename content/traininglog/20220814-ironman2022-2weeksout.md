@@ -64,8 +64,6 @@ Low and behold, a 25m lane all to myself!
 
 I felt a bit stiff to start but quickly found a groove and got done what I needed to get done.
 
-
-
 ---
 
 The balance of riding was a ride on the _E&N Rail Trail_ toward _Colwood_, looping back home on _The Goose_.  A bit of wind and the XC bike made for a bit of work.
@@ -84,9 +82,9 @@ Run 30 minutes. Flat route. EASY effort.
 Mobility 25 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Run: **0 km** <small>? pace</small>
 
-Just a so-so sleep last night.  My kit was ready for an early morning run but I rolled over and got another couple hours.
+Just a so-so sleep last night.  My run kit was ready for an early morning run but I rolled over and got another hour of sleep.
 
 <!---->
 ## WEDNESDAY AUG 17
