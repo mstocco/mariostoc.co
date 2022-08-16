@@ -42,13 +42,9 @@ Sleep **4** | Fatigue **4** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Easy spin to the pool.
-Swim 2000:
-200 easy free, 200 swim w/ buoy, 100 steady kick. 
-4x 100 Descend easy #1 to strong #4. R :20 after each. 
-2x 50 easy free. 
-3 rounds (4x 50 Strong/High turnover/Good focus r :25, 100 EASY R 1:00) 
-100 extra easy to cool down.
+Easy spin to the pool.  
+Swim 2000: 200 easy free, 200 swim w/ buoy, 100 steady kick.  4x 100 Descend easy #1 to strong #4. R :20 after each. 
+2x 50 easy free. 3 rounds (4x 50 Strong/High turnover/Good focus r :25, 100 EASY R 1:00) 100 extra easy to cool down.
 
 Spin 45 minutes on the way home. EASY
 
@@ -59,7 +55,7 @@ Something had me awake at 0115 (leftover Indian food perhaps).
 
 After work, I pedalled to _Crystal Pool_ but when I got on the pool deck, the 25m lanes were closed.  Apparently, a part of the filtration system broke and the water was too turbid for lane swimming.  What to do...
 <!----->
-I got back on my bike and briefly thought about riding up to _Thetis Lake_ for an open-water swim but I really wanted to do the scheduled workout as written.  Off to Esquimalt Recreation Centre I rode.
+I got back on my bike and briefly thought about riding up to _Thetis Lake_ for an open-water swim but I really wanted to do the scheduled workout as written.  Off to the _Esquimalt Recreation Centre_ I rode.
 
 Low and behold, a 25m lane all to myself!
 
