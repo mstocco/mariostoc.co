@@ -110,8 +110,8 @@ From the _Observatory_, I took a spin up to _Stelly's X-Road_ before turning sou
 
 ![Last rep I went to the top](/assets/jpg/IMG_4205-733x550.jpeg DOMINION ASTROPHYSICAL OBSERVATORY)
 
-## THURSDAY AUG 18
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY AUG 18 ⛅️
+Sleep **4** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -127,9 +127,9 @@ Flat route. Easy effort. You're going to need some water and calories in the sys
 Same as the other longer runs. Goal is to cover the distance and feel as comfortable as possible.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp;OWS: **0m** &nbsp;Run: **0 km**
 
-&mdash;  
+It was warm like night and even with the window open, it took a while to fall asleep.  
 
 <!---->
 ## FRIDAY AUG 19
