@@ -88,6 +88,7 @@ Just a so-so sleep last night.  My run kit was ready for an early morning run bu
 
 My **legs felt heavy**, I felt heavy and slow.  Flat route on the bike path to the _Selkirk Trestle_ and back and I never really found a groove.
 
+![Run](/assets/jpg/run-20220816.jpeg)
 
 <!---->
 ## WEDNESDAY AUG 17 ☀️
