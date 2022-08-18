@@ -108,8 +108,12 @@ Similar to [yesterday](javascript:flick('tue');), my legs felt on the heavier si
 
 From the _Observatory_, I took a spin up to _Stelly's X-Road_ before turning south back to town.  I had a roadie to share some work with into _Brentwood Bay_.  Lots of time in the aero-bars during those flat sections too.
 
-![Last rep I went to the top](/assets/jpg/IMG_4205-733x550.jpeg DOMINION ASTROPHYSICAL OBSERVATORY)
-
+</div>
+<div class="carousel-cell image" title="DOMINION ASTROPHYSICAL OBSERVATORY" style="width:733px;background-image:url(/assets/jpg/IMG_4205-733x550.jpeg)">
+<div class="imagebanner">
+<div class="banner" style="height:60px;width:713px;"><h3>DOMINION ASTROPHYSICAL OBSERVATORY</h3><p>At the top of the hill, this pragmatic and classically-embellished observatory opened in 1918 and with its 1.85m reflecting telescope, made significant discoveries about our Milky Way, giving Canadian astronomy important international status.</p></div>
+</div>
+<!---->
 ## THURSDAY AUG 18 ⛅️
 Sleep **4** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
