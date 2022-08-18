@@ -82,13 +82,16 @@ Run 30 minutes. Flat route. EASY effort.
 Mobility 25 minutes
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Run: **0 km** <small>? pace</small>
+Total Time: **30 Minutes** &nbsp; Run: **5 km** <small>5:58/km pace</small>
 
 Just a so-so sleep last night.  My run kit was ready for an early morning run but I rolled over and got another hour of sleep.
 
+My **legs felt heavy**, I felt heavy and slow.  Flat route on the bike path to the _Selkirk Trestle_ and back and I never really found a groove.
+
+
 <!---->
-## WEDNESDAY AUG 17
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY AUG 17 ☀️
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -99,9 +102,11 @@ Steady, but controlled effort, up the climbs.
 Getting in your calories. Have fun. Getting in the bars on the flatter sections.
 
 ### NOTES
-Total Time: **0 Minutes**
+Moving Time: **151 Minutes** &nbsp; Ride: **54.9 km**
 
-&mdash;  
+Similar to [yesterday](javascript:flick('tue');), my legs felt on the heavier side.  I rode to the _Observatory Hill_ and rode up to the stop sign 3 times. After an 7 minute break to coordinate dinner, I rolled back down and to climb once more to the stop sign and then a full climb from the gate to the top.
+
+From the _Observatory_, I took a spin up to _Stelly's X-Road_ before turning south back to town.  I had a roadie to share some work with into _Brentwood Bay_.  Lots of time in the aero-bars during those flat sections too.
 
 <!---->
 ## THURSDAY AUG 18
