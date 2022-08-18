@@ -104,7 +104,8 @@ Getting in your calories. Have fun. Getting in the bars on the flatter sections.
 ### NOTES
 Moving Time: **151 Minutes** &nbsp; Ride: **54.9 km**
 
-Similar to [yesterday](javascript:flick('tue');), my legs felt on the heavier side.  I rode up _Observatory Hill_ to the stop sign 4 times then a full climb, gate to the top.  All steady efforts, HR in the 130's.
+Similar to [yesterday](javascript:flick('tue');), my legs felt on the heavier side.  I rode up _Observatory Hill_ to the stop sign 4 times then a full climb, gate to the very top. &nbsp; **&rarr;**  
+All steady efforts, HR in the 130's.
 
 From the _Observatory_, I took a spin up to _Stelly's X-Road_ before turning south back to town.  I had a roadie to share some work with into _Brentwood Bay_.  Lots of time in the aero-bars during those flat sections too.
 
