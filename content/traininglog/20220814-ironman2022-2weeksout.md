@@ -86,8 +86,7 @@ Total Time: **30 Minutes** &nbsp; Run: **5 km** <small>5:58/km pace</small>
 
 Just a so-so sleep last night.  My run kit was ready for an early morning run but I rolled over and got another hour of sleep.
 
-My **legs felt heavy**, I felt heavy and slow.  Flat route on the bike path to the _Selkirk Trestle_ and back and I never really found a groove.
-
+I **felt heavy and slow**.  Flat route to the _Selkirk Trestle_ and back and I never found a groove.
 ![Run](/assets/jpg/run-20220816.jpeg)
 
 <!---->
@@ -105,11 +104,12 @@ Getting in your calories. Have fun. Getting in the bars on the flatter sections.
 ### NOTES
 Moving Time: **151 Minutes** &nbsp; Ride: **54.9 km**
 
-Similar to [yesterday](javascript:flick('tue');), my legs felt on the heavier side.  I rode to the _Observatory Hill_ and rode up to the stop sign 3 times. After an 7 minute break to coordinate dinner, I rolled back down and to climb once more to the stop sign and then a full climb from the gate to the top.
+Similar to [yesterday](javascript:flick('tue');), my legs felt on the heavier side.  I rode up _Observatory Hill_ to the stop sign 3 times. After an 7 minute break to coordinate dinner, I rolled back down for one more rep to the stop sign and then a full climb, gate to the top.
 
 From the _Observatory_, I took a spin up to _Stelly's X-Road_ before turning south back to town.  I had a roadie to share some work with into _Brentwood Bay_.  Lots of time in the aero-bars during those flat sections too.
 
-<!---->
+![Last rep I went to the top](/assets/jpg/IMG_4205-733x550.jpeg DOMINION ASTROPHYSICAL OBSERVATORY)
+
 ## THURSDAY AUG 18
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
