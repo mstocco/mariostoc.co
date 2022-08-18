@@ -84,9 +84,9 @@ Mobility 25 minutes
 ### NOTES
 Total Time: **30 Minutes** &nbsp; Run: **5 km** <small>5:58/km pace</small>
 
-Just a so-so sleep last night.  My run kit was ready for an early morning run but I rolled over and got another hour of sleep.
+My run kit was ready for an early morning run but I rolled over and got another hour of sleep.
 
-I **felt heavy and slow**.  Flat route to the _Selkirk Trestle_ and back and I never found a groove.
+I **felt heavy and slow**.  Flat route to the _Selkirk Trestle_ and back and never found a groove.
 ![Run](/assets/jpg/run-20220816.jpeg)
 
 <!---->
