@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![My second trip to the trestle this summer, this time during the scheduled run on Friday.](/assets/jpg/IMG_4208-977x550.jpeg THE HISTORIC KINSOL TRESTLE)
 
 ## SUNDAY AUG 14 ☀️
 Sleep **2** | Fatigue **2** | Stress **2** | Soreness **2**
@@ -137,12 +137,13 @@ Total Time: **0 Minutes** &nbsp;OWS: **0m** &nbsp;Run: **0 km**
 It was warm like night and even with the window open, it took a while to fall asleep.  
 
 <!---->
-## FRIDAY AUG 19
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY AUG 19 ⛅️
+Sleep **5** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Optional: Ride 30 minutes EASY. Just a short spin on tired legs.   
+Set the bike up with race day gearing, wheels, chain, etc.
+ 
 Mobility 25 minutes
 
 ### NOTES
@@ -156,7 +157,12 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+**Race Day fueling and hydration. Good day to use up some extra maple syrup. Just to get in the race day mode/mindset​**. 
+
+Ride 2:40 on TT bike. Flat to rolling route. Basically a standard Island loop. Include 3 trips up Observatory...steady climbing, making sure the 30 tooth works as planned. Spin up nice and easy!
+
+Off the bike: 20 minutes flat and easy running. Making sure the stomach is good to go. Making sure you feel comfortable coming off some time in the TT bars. 
+
 
 ### NOTES
 Total Time: **0 Minutes**
