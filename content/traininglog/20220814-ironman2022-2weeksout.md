@@ -152,11 +152,11 @@ In the water, the things I noticed immediately:
 <!----->
 I got a groove going in the water a short time into the first 18 minute rep.  It took some focus in the waves, paying attention to where I was going and where the boats were.  I welcomed the waves as _Okanagan Lake_ is big and is likely to have similar conditions.
 
+![Swim](/assets/jpg/swim-20220818.jpeg)
+
 I didn't waste much time at the truck getting out of my swim kit and off on the run.
 
 I saw on the map that there was a connector trail off _West Shawnigan Road_ that would get me on to the _Cowichan Valley Trail_; I found that trail but it wasn't as evident at the map suggested.
-
-![Swim](/assets/jpg/swim-20220818.jpeg)
 
 <!----->
 The surface of the _Cowichan Valley Trail_ is pretty much the same as the _Kettle Valley Rail Trail_, the first 10km out and back segment of IRONMAN Canada.  Everything was comfortable from a cardio perspective but my ankles were a bit tender this evening.  Not much nervy sensation coming from the little toe.
