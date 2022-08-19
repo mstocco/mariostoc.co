@@ -4,7 +4,7 @@ Week beginning [Sunday, August 21, 2022](javascript:flick('sun');)
 **RACE WEEK**
 
 ## WEEKLY GOAL
-&mdash;
+Get myself to _Penticton_ ready<br><sup>(what I can control)</sup>
 
 ## SUMMARY
 Total Time: **0 Hours**
@@ -21,7 +21,12 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+**Remember to fuel before/during/after each session. And hydrate too!​**
+
+1st: Open Water Swim ~ 2x 2:30 EASY swimming to warm up. Rest as needed. 
+3x 10 minutes @ IM effort/focus. R 2:00 after each. 3 minutes easy swimming to stretch out and cool down. 
+
+2nd: Run 16km. Flat route. Easy effort. Cover ground. Nothing more than that. Bring your calories. Bring your water. If you want to head up island to get a bit of heat, that is allowed.
 
 ### NOTES
 Total Time: **0 Minutes**
