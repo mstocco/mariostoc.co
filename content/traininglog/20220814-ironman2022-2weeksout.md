@@ -143,7 +143,7 @@ After a full day at work, I headed up (late) to _West Shawnigan Provincial Park_
 
 Getting into my brand new triathlon suit from <a target="_blank" href="https://jakroo.com/product?id=333&modelId=tailwind">Jakroo</a> (arrived this afternoon) and then into my full sleeved wetsuit took some time (point to remember for race day).
 
-In the water, the things I noticed immediately were:
+In the water, the things I noticed immediately:
 
 1. The water is far more weedy at this end of the lake (compared to _Mason's Beach_ area).
 2. This spot is more exposed to wind chop and there are far more ski boats kicking the waves up too.
