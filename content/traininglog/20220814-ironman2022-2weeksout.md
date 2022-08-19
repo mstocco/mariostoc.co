@@ -141,9 +141,9 @@ It was warm like night and even with the window open, it took a while to fall as
 
 After a full day at work, I headed up (late) to _West Shawnigan Provincial Park_ (45 min drive) to get my workouts in.  The temperature in the _Cowichan Valley_ is almost always a notch warmer and _Penticton_ is expected to be a notch above that.
 
-Getting into my brand new triathlon suit from Jakroo (arrived this afternoon) and then into my full sleeved wetsuit took some time (point to remember for race day).
+Getting into my brand new triathlon suit from <a target="_blank" href="https://jakroo.com/product?id=333&modelId=tailwind">Jakroo</a> (arrived this afternoon) and then into my full sleeved wetsuit took some time (point to remember for race day).
 
-Once in the water, the things I noticed immediately were:
+In the water, the things I noticed immediately were:
 
 1. The water is far more weedy at this end of the lake (compared to _Mason's Beach_ area).
 2. This spot is more exposed to wind chop and there are far more ski boats kicking the waves up too.
