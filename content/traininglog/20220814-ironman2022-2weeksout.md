@@ -145,7 +145,7 @@ Getting into my brand new triathlon suit from <a target="_blank" href="https://j
 
 In the water, the things I noticed immediately:
 
-1. The water is far more weedy at this end of the lake (compared to _Mason's Beach_ area).
+1. The water is far more weedy at this end of the lake (compared to the _Mason's Beach_ area).
 2. This spot is more exposed to wind chop and there are far more ski boats kicking the waves up too.
 3. It's been a month since I swam in my full-sleeved wetsuit.  It felt foreign for the first ~15 minutes in the water.
 
@@ -182,9 +182,9 @@ Set the bike up with race day gearing, wheels, chain, etc.
 Mobility 25 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Mobility: **0 Minutes** 
 
-&mdash;  
+Horrible sleep as I woke up hungry, with a headache because of it too.  I had a big helping of leftover Phad Thai (minus the tofu, gross) and struggled to get meaningful sleep thereafter.  It has been more eating and drinking this morning to recover (no Advil).
 
 <!---->
 ## SATURDAY AUG 20
