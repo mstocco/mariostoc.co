@@ -132,7 +132,7 @@ Same as the other longer runs. Goal is to cover the distance and feel as comfort
 ### NOTES
 Time: **154 Mins** &nbsp;OWS: **~3000m** &nbsp;Run: **12.6 km**
 
-* <small>Garmin credited me 3120m for the swim but think it count the bobbing in the waves during the rests longer than reality.</small>
+* <small>GPS credited me 3120m for the swim but with the waves, the rests measured longer than reality.</small>
 
 <!----->
 It was warm like night and even with the window open, it took a while to fall asleep.
