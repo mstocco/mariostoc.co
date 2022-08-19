@@ -132,9 +132,11 @@ Same as the other longer runs. Goal is to cover the distance and feel as comfort
 ### NOTES
 Time: **154 Mins** &nbsp;OWS: **~3000m** &nbsp;Run: **12.6 km**
 
-It was warm like night and even with the window open, it took a while to fall asleep.
+* <small>Garmin credited me 3120m for the swim but think it count the bobbing in the waves during the rests longer than reality.</small>
 
 <!----->
+It was warm like night and even with the window open, it took a while to fall asleep.
+
 After a full day at work, I headed up (late) to _West Shawnigan Provincial Park_ (45 min drive) to get my workouts in.  The temperature in the _Cowichan Valley_ is almost always a notch warmer and _Penticton_ is expected to be a notch above that.
 
 Getting into my brand new triathlon suit from Jakroo (arrived this afternoon) and then into my full sleeved wetsuit took some time (point to remember for race day).   Once in the water, the things I noticed immediately were:
@@ -143,7 +145,7 @@ Getting into my brand new triathlon suit from Jakroo (arrived this afternoon) an
 2. This spot is more exposed to wind chop and there are far more ski boats kicking the waves up too.
 3. It's been a month since I swam in my full-sleeved wetsuit.  It felt foreign for the first ~15 minutes in the water.
 
-&bull; <small>Garmin credited me 3120m for the swim but think it count the bobbing in the waves during the rests longer than reality.</small>
+
 <!----->
 I got a groove going in the water a short time into the first 18 minute rep.  It took some focus in the waves, paying attention to where I was going and where the boats were.  I welcomed the waves as _Okanagan Lake_ is big and is likely to have similar conditions.
 
@@ -151,6 +153,9 @@ I didn't waste much time at the truck getting out of my swim kit and off on the 
 
 I saw on the map that there was a connector trail off _West Shawnigan Road_ that would get me on to the _Cowichan Valley Trail_; I found that trail but it wasn't as evident at the map suggested.
 
+![Swim](/assets/jpg/image.jpeg)
+
+<!----->
 The surface of the _Cowichan Valley Trail_ is pretty much the same as the _Kettle Valley Rail Trail_, the first 10km out and back segment of IRONMAN Canada.  Everything was comfortable from a cardio perspective but my ankles were a bit tender this evening.  Not much nervy sensation coming from the little toe.
 
 My effort was easy, my pace was slower at 6:10/km and my heart-rate was a bit higher hovering in the low 130s.  All expected as the temperature was still quite warm.
