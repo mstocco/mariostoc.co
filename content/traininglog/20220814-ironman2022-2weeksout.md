@@ -130,7 +130,7 @@ Flat route. Easy effort. You're going to need some water and calories in the sys
 Same as the other longer runs. Goal is to cover the distance and feel as comfortable as possible.
 
 ### NOTES
-Total Time: **154 Mins** &nbsp;OWS: **~3000m** &nbsp;Run: **12.6 km**
+Time: **154 Mins** &nbsp;OWS: **~3000m** &nbsp;Run: **12.6 km**
 
 It was warm like night and even with the window open, it took a while to fall asleep.
 
@@ -143,6 +143,8 @@ Getting into my brand new triathlon suit from Jakroo (arrived this afternoon) an
 2. This spot is more exposed to wind chop and there are far more ski boats kicking the waves up too.
 3. It's been a month since I swam in my full-sleeved wetsuit.  It felt foreign for the first ~15 minutes in the water.
 
+&bull; <small>Garmin credited me 3120m for the swim but think it count the bobbing in the waves during the rests longer than reality.</small>
+<!----->
 I got a groove going in the water a short time into the first 18 minute rep.  It took some focus in the waves, paying attention to where I was going and where the boats were.  I welcomed the waves as _Okanagan Lake_ is big and is likely to have similar conditions.
 
 I didn't waste much time at the truck getting out of my swim kit and off on the run.
