@@ -137,6 +137,8 @@ Time: **154 Mins** &nbsp;OWS: **~3000m** &nbsp;Run: **12.6 km**
 <!----->
 It was warm like night and even with the window open, it took a while to fall asleep.
 
+---
+
 After a full day at work, I headed up (late) to _West Shawnigan Provincial Park_ (45 min drive) to get my workouts in.  The temperature in the _Cowichan Valley_ is almost always a notch warmer and _Penticton_ is expected to be a notch above that.
 
 Getting into my brand new triathlon suit from Jakroo (arrived this afternoon) and then into my full sleeved wetsuit took some time (point to remember for race day).   Once in the water, the things I noticed immediately were:
