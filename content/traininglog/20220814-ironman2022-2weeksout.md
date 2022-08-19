@@ -132,7 +132,7 @@ Same as the other longer runs. Goal is to cover the distance and feel as comfort
 ### NOTES
 Time: **154 Mins** &nbsp;OWS: **~3000m** &nbsp;Run: **12.6 km**
 
-* <small>GPS credited me 3120m for the swim but with the waves, the rests measured longer than reality.</small>
+* <small>GPS credited me 3120m for the swim but with the waves, it seems the rests measured longer than reality.</small>
 
 <!----->
 It was warm like night and even with the window open, it took a while to fall asleep.
@@ -167,7 +167,7 @@ I was on the calories the entire run and carried a litre of water in my running 
 
 I ran past the trestle and on the way back, I walked down a rough trail to get this week's [photo](javascript:flkty.select(2);).  Once running again, I couldn't afford to stop as the evening bugs were out in full force.
 
-Overall, a solid training late afternoon/evening.
+Overall, a **solid training** late afternoon/evening.
 
 
 
