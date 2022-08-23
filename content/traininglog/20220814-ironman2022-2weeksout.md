@@ -215,7 +215,7 @@ I **felt good** on the ride with a good tailwind that pushed me north to the air
 
 ---
 
-Consistent drip of sugar from the aero bottle put me in a good spot for a run off the bike.  The typical route to _Quadra Street_ and back **feeling great** for the full 31 minutes.
+Consistent drip of sugar from the aero bottle put me in a good spot for a run off the bike.  The typical bike-path route to _Quadra Street_ and back, **feeling great** for the full 31 minutes.
 
 
 
