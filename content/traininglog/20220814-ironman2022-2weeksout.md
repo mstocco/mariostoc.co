@@ -207,7 +207,7 @@ Off the bike: 20 minutes flat and easy running. Making sure the stomach is good 
 ### NOTES
 Total Time: **~180 Mins** &nbsp;Ride: **60 km** &nbsp;Run: **5.4 km**
 
-This morning, I played bike mechanic; the challenge being to get the 11x30 cassette to work.  I simply added a link from to the chain and everything worked!
+This morning, I played bike mechanic; the challenge getting the 11x30 cassette installed.  The solution was adding a link from to the chain.
 <!---->
 Looking at the workouts after the fact, I went up _Observatory Hill_ <small>(full)</small> twice instead of 3 times and was home from the ride ~20 minutes early.  On the run, I was feeling good and went ~10 minutes longer.  Probably a wash but I did fuel well.
 
