@@ -9,11 +9,13 @@ Wind it down SAFELY.
 ## SUMMARY
 Total Time: **12.3 Hours**
 
-I feel like I was **THANKFUL FOR EVERYTHING**
+I feel like I was **VERY GRATEFUL**
 
-Some heavy legs even as the volume has dropped but that wasn't the whole story.
+Some lingering heaviness in the legs even as the volume has dropped but that wasn't the whole story.
 
-The last activity of the week, a run on [Saturday](javascript:flick('sat');), had me thinking about the race, where I am at in life and 
+The last activity of the week, a run on [Saturday](javascript:flick('sat');), had me thinking about this upcoming race, where I am at in life and the many things I have in my life to be thankful for.  Most of it centred on my health and work I've put into it over these past months.
+
+This is certainly a nice place to be.
 
 ![My second trip to the trestle this summer, this time around the midway point of my scheduled run on Thursday.](/assets/jpg/IMG_4208-977x550.jpeg THE HISTORIC KINSOL TRESTLE)
 

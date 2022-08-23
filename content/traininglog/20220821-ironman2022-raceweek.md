@@ -35,13 +35,14 @@ The cooler breeze off the water certainly helped as I made my way to _James Bay_
 <!----->
 Maybe the easiest 10 miles I've run in a long time.  I packed a 500ml water bottle with some diluted lemonade sludge (left over from the ride yesterday) and sipped often.
 
+![Run](/assets/jpg/run-20220821.jpeg)
+
 ---
 
 With family commitments, I didn't make it to the lake.
 
 At the end of a long day, I felt like I had gone for a run but not wrecked, happy and ready for sleep.
 
-![Run](/assets/jpg/image.jpeg)
 <!---->
 ## MONDAY AUG 22 ☀️
 Sleep **4** | Fatigue **3** | Stress **3** | Soreness **3**
