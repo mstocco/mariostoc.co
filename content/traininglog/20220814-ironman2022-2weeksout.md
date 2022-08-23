@@ -213,6 +213,8 @@ Looking at the workouts after the fact, I went up _Observatory Hill_ <small>(ful
 
 I felt good on the ride with a good tailwind that pushed me north to the airport and a headwind to work with on the way home.  The tri-spoke wheels were pushed around a bit but am left feeling confident running them in the Okanagan.  The shifting with the 11x30 and lengthened chain was perfect.
 
+---
+
 Consistent drip of sugar from the aero bottle put me in a good spot for a run off the bike.  Standard bike path route out to _Quadra Street_ and back feeling good to great for the full 31 minutes.
 
 [](/assets/jpg/image.jpeg)
