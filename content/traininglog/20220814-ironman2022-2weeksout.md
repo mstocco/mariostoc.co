@@ -7,12 +7,13 @@ Week beginning [Sunday, August 14, 2022](javascript:flick('sun');)
 Wind it down SAFELY.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **12.3 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **THANKFUL FOR EVERYTHING**
 
-&mdash;
+Some heavy legs even as the volume has dropped but that wasn't the whole story.
+
+The last activity of the week, a run on [Saturday](javascript:flick('sat');), had me thinking about the race, where I am at in life and 
 
 ![My second trip to the trestle this summer, this time around the midway point of my scheduled run on Thursday.](/assets/jpg/IMG_4208-977x550.jpeg THE HISTORIC KINSOL TRESTLE)
 
@@ -186,9 +187,11 @@ Mobility: **0 Minutes**
 
 Horrible sleep as I woke up hungry, with a headache because of it too.  I had a big helping of leftover Phad Thai (minus the tofu, gross) and struggled to get meaningful sleep thereafter.  It has been more eating and drinking this morning to recover (no Advil).
 
+Family from Germany in town.  I did not get to the mobility session.
+
 <!---->
-## SATURDAY AUG 20
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY AUG 20 ☀️
+Sleep **4** | Fatigue **2** | Stress **3** | Soreness **2**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -200,6 +203,11 @@ Off the bike: 20 minutes flat and easy running. Making sure the stomach is good 
 
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **~180 Mins** &nbsp;Ride: **60 km** &nbsp;Run: **5.4 km**
 
-&mdash;  
+Looking at the workouts after the fact, I went up _Observatory Hill_ <small>(full)</small> twice instead of 3 times and was home from the ride ~20 minutes early.  On the run, I was feeling good and went ~10 minutes longer.  Probably a wash but I did fuel well.
+
+I spent the morning doing bike prep and before I started, I wasn't sure how I was going to get the 11x30 cassette to work.  I added a link from an old chain and that was the trick!  I felt good on the ride with a good tailwind that pushed me north to the airport and a headwind to work with on the way home.  The tri-spoke wheels were pushed around a bit but am left feeling confident running them in the Okanagan.
+
+Consistent drip of sugar from the aero bottle put me in a good spot for a run off the bike.  Standard bike path route out to _Quadra Street_ and back feeling good to great for the full 31 minutes.
+
