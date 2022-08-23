@@ -207,9 +207,13 @@ Off the bike: 20 minutes flat and easy running. Making sure the stomach is good 
 ### NOTES
 Total Time: **~180 Mins** &nbsp;Ride: **60 km** &nbsp;Run: **5.4 km**
 
+The morning was spent playing bike mechanic. I honestly wasn't sure how I was going to get the 11x30 cassette to work.  I simply added a link from an old chain and that was the trick!
+<!---->
 Looking at the workouts after the fact, I went up _Observatory Hill_ <small>(full)</small> twice instead of 3 times and was home from the ride ~20 minutes early.  On the run, I was feeling good and went ~10 minutes longer.  Probably a wash but I did fuel well.
 
-I spent the morning doing bike prep and before I started, I wasn't sure how I was going to get the 11x30 cassette to work.  I added a link from an old chain and that was the trick!  I felt good on the ride with a good tailwind that pushed me north to the airport and a headwind to work with on the way home.  The tri-spoke wheels were pushed around a bit but am left feeling confident running them in the Okanagan.
+I felt good on the ride with a good tailwind that pushed me north to the airport and a headwind to work with on the way home.  The tri-spoke wheels were pushed around a bit but am left feeling confident running them in the Okanagan.
 
 Consistent drip of sugar from the aero bottle put me in a good spot for a run off the bike.  Standard bike path route out to _Quadra Street_ and back feeling good to great for the full 31 minutes.
+
+[](/assets/jpg/image.jpeg)
 
