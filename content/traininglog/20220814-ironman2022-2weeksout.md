@@ -211,11 +211,12 @@ This morning, I played bike mechanic; the challenge getting the 11x30 cassette i
 <!---->
 Looking at the workouts after the fact, I went up _Observatory Hill_ <small>(full)</small> twice instead of 3 times and was home from the ride ~20 minutes early.  On the run, I was feeling good and went ~10 minutes longer.  Probably a wash but I did fuel well.
 
-I felt good on the ride with a good tailwind that pushed me north to the airport and a headwind to work with on the way home.  The tri-spoke wheels were pushed around a bit but am left feeling confident running them in the Okanagan.  The shifting with the 11x30 and lengthened chain was perfect.
+I felt good on the ride with a good tailwind that pushed me north to the airport and a headwind to work with on the way home.  The tri-spoke wheels were pushed around a bit but am left feeling confident running them in the Okanagan.  The shifting with the 11x30 and lengthened chain was perfect. ![Bike](/assets/jpg/bike-20220820.jpeg)
+
 
 ---
 
 Consistent drip of sugar from the aero bottle put me in a good spot for a run off the bike.  Standard bike path route out to _Quadra Street_ and back feeling good to great for the full 31 minutes.
 
-[](/assets/jpg/image.jpeg)
+
 
