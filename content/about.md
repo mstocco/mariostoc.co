@@ -1,17 +1,17 @@
 # About Me
-Hi, I'm Mario Stocco.
+
 
 If you are reading this, it is highly likely that you 
 already know me, but if you don't, here is the scoop...
+
+I live and work in 
+_Victoria, British Columbia_ and I am engaged to the
+sweetest woman ever!
 
 I am currently employed as a Software Engineer at 
 _Distributel Communications_ in Canada, working on a
 number of initiatives around our best-in-market 
 telecommunications platform.  
-
-I live and work in 
-_Victoria, British Columbia_ and I am engaged to the
-sweetest woman ever!
 
 Before _Distributel_, I spent well over a decade as a 
 contractor for hire, building custom tele-<wbr />
@@ -19,9 +19,8 @@ communication solutions for customers from Florida
 to California and all across Canada.
 
 In my free time, I can be found _running, biking_ and 
-_swimming_ in preparation to complete my second Ironman
-distance triathlon:   
-**IRONMAN Canada**, August 28th, 2022.
+_swimming_ with the goal of completing my next 
+Ironman distance triathlon.
 
 <p class="agencyvc" style="margin-top:35px;"><strong>&#9667;</strong> SWIPE LEFT FOR MORE</p>
 <!-- 
