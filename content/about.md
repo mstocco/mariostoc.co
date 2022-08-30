@@ -1,26 +1,15 @@
-# About Me
 
+<h1 style="margin:0 30px;">About Me</h1>
 
-If you are reading this, it is highly likely that you 
-already know me, but if you don't, here is the scoop...
+If you are reading this, it is highly likely that you already know me, but if you don't, here is the quick scoop...
 
-I live and work in 
-_Victoria, British Columbia_ and I am engaged to the
-sweetest woman ever!
+I live and work in _Victoria, British Columbia_ and I am engaged to the sweetest woman ever!
 
-I am currently employed as a Software Engineer at 
-_Distributel Communications_ in Canada, working on a
-number of initiatives around our best-in-market 
-telecommunications platform.  
+I am currently employed as a Software Engineer at _Distributel Communications_ in Canada, working on a number of initiatives around our best-in-market telecommunications platform.  
 
-Before _Distributel_, I spent well over a decade as a 
-contractor for hire, building custom tele-<wbr />
-communication solutions for customers from Florida 
-to California and all across Canada.
+Before _Distributel_, I spent well over a decade as a contractor for hire, building custom tele-<wbr />communication solutions for customers from Florida to California and all across Canada.
 
-In my free time, I can be found _running, biking_ and 
-_swimming_ with the goal of completing my next 
-Ironman distance triathlon.
+In my free time, I can be found _running, biking_ and _swimming_ with the goal of completing my next Ironman distance triathlon.
 
 <p class="agencyvc" style="margin-top:35px;"><strong>&#9667;</strong> SWIPE LEFT FOR MORE</p>
 <!-- 
