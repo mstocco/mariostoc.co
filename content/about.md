@@ -1,7 +1,7 @@
+<div style="margin:40px 0 0 0;"></div>
+# About Me
 
-<h1 style="margin:0 30px;">About Me</h1>
-
-If you are reading this, it is highly likely that you already know me, but if you don't, here is the quick scoop...
+<br />If you are reading this, it is highly likely that you already know me, but if you don't, here is the quick scoop...
 
 I live and work in _Victoria, British Columbia_ and I am engaged to the sweetest woman ever!
 
@@ -9,16 +9,8 @@ I am currently employed as a Software Engineer at _Distributel Communications_ i
 
 Before _Distributel_, I spent well over a decade as a contractor for hire, building custom tele-<wbr />communication solutions for customers from Florida to California and all across Canada.
 
-In my free time, I can be found _running, biking_ and _swimming_ with the goal of completing my next Ironman distance triathlon.
+In my free time, I can be found _running, biking, swimming_ and then documenting it all [here](/traininglog/).
 
-<p class="agencyvc" style="margin-top:35px;"><strong>&#9667;</strong> SWIPE LEFT FOR MORE</p>
-<!-- 
-See the [TRAINING LOG](/traininglog/) 
+<p style="margin-top:68px;font-size:0.82em;font-weight:bold;">&#9667; SWIPE HORIZONTALLY &#9657;</p>
 
-That process is documented daily in the [TRAINING LOG](/traininglog/) 
-section of this website.
-
-![Haleakalā, Maui](/assets/jpg/IMG_2467-976x550.jpg 10,023ft above the Pacific) 
-![To celebrate my 47th birthday, I ran a half marathon in Savona, Italy](/assets/jpg/IMG_0442-550x550.jpeg 2018 SAVONA MEZZA MARATONA)
--->
 ![](/assets/jpg/2021-ironman-italy-finishline-826x550.jpeg)
