@@ -106,6 +106,7 @@ In the pool and did the first 35 minutes of the workout; just enough to be comfo
 
 A short ride on the bike there after.  I did re-install the new chain by re-adding a link and using a KMC quick-link.  The chain is very quiet except for what I think maybe that quick-link... 
 
+Here is the race setup:
 ![Bike](/assets/jpg/bike-20220824.jpeg)
 
 <!---->
