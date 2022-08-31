@@ -124,11 +124,17 @@ Run/Walk 40 minutes: 10 minutes walking to loosen up. Run 25 minutes. Flat and e
 ### NOTES
 Total Time: **40 Minutes** &nbsp; Run: **5.4 km**
 
-The travel to Osoyoos went well but driving that distance did light up my right hamstring/piriformis.
+The travel to Osoyoos went well but driving that distance did light up my hamstring/piriformis (typical right side).
 
-Once in town, I did the 10 minute walk followed by the run.  Right away the heat and dry air was felt but before I was a kilometre in, I really felt like I was in my element.  All systems go, I **felt fantastic!**
+Once in town, I did the 10 minute walk followed by the run.  Right away the heat and dry air was felt but before I was a kilometre in, I really felt like I was in my element.
 
-I ran for ~30 minutes before shutting things down.
+All systems go, I **felt fantastic!**
+<!---->
+
+Starting at the _Main Street Bridge_, I ran the _Pioneer Walkway_, then ironically down _Lakeshore Drive_.  I turned around after 15 minutes and caught back up with my family on the way back.  Short run but just what was needed.
+
+![Run](/assets/jpg/image.jpeg)
+
 
 <!---->
 ## FRIDAY AUG 26
