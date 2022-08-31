@@ -130,7 +130,9 @@ The travel to Osoyoos went well but driving that distance did light up my hamstr
 
 Once in town, I did the 10 minute walk followed by the run.  Right away the heat and dry air was felt but before I was a kilometre in, I really felt like I was in my element.
 <!---->
-Starting at the _Main Street Bridge_, I ran the _Pioneer Walkway_, then ironically down _Lakeshore Drive_.  I turned around after 15 minutes and caught back up with my family on the way back.  Short run but just what was needed.
+Starting at the _Main Street Bridge_, I ran the _Pioneer Walkway_, then ironically down _Lakeshore Drive_.  I turned around after 15 minutes and caught back up with my family on the way back.
+
+Short run but just what was needed.
 
 All systems go, I **felt fantastic!**
 
@@ -158,8 +160,14 @@ Total Swim Time: **25 Minutes**
 Very late night visiting with my aunt.
 
 Rolling into town around noon, we parked on _Lakeshore _ and I went straight to the event check-in.  Number 1244 reminded me of the 1355 I had at the [Victoria 70.3](/racereports/2022-)
+<!----->
+I thought about putting on my wetsuit but instead, got into the water with just my tri-suit.  Swim was easy effort, the water clear and the temperate was comfortable, not overly warm but reportedly just over the 24.4°C limit.
 
-I thought about putting on my wetsuit but instead, got into the water with just my racekit.  Swim was easy effort, the water was comfortable, not overly warm but reportedly just over the 24.4°C limit.
+I wore a new pair of goggles for the first time; they are super clear and good to go.
+
+A large, delicious poké bowl (salmon) for a late lunch.
+
+![Swim](/assets/jpg/image.jpeg) 
 
 <!---->
 ## SATURDAY AUG 27 ☁️
