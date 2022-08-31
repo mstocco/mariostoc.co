@@ -74,9 +74,11 @@ Spin 30 minutes easy. On the rollers or outside if you like. Just a short spin d
 Run/Walk 40 minutes: 10 minutes walking to loosen up. Run 25 minutes. Flat and easy. 5 minutes walking to cool down.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **72 Mins** &nbsp;Ride: **14 km** &nbsp;Walk/Run: **3.5 km**
 
-&mdash;  
+A short spin on the TT Bike out toward _Colwood_ before coming back through _Esquimalt_.
+
+I really wasn't feeling it on my feet however.  Sore ankles and some nerve pain in my little toe.  I cut this one short and walked home.
 
 <!---->
 ## WEDNESDAY AUG 24 ☀️
@@ -94,11 +96,17 @@ Ride 60 minutes easy. Race bike set up. Easy effort. Keeping the body moving. No
 Mobility 17 minutes
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp;Swim: **1500m** &nbsp;Ride: **14 km**
+Total Time: **89 Mins** &nbsp;Swim: **1500m** &nbsp;Ride: **14 km**
 
-_Crystal Pool_ is still having issues with their filtration system so I rode the race bike to _Esquimalt Rec._. The bike rack was full in view the reception area so I had to lock my bike up a bit away.  That didn't sit well with me so I got into the pool and did the first 35 minutes of the workout; just enough to be comfortable in the water and get back to my bike.  I wouldn't have been able to forgive myself if someone had got through the bike lock.
+_Crystal Pool_ is still having issues with their filtration system so I rode the race bike to _Esquimalt Rec._. Their bike rack was full so I had to lock my bike up a bit away; that didn't sit well with me.
+<!----->
+In the pool and did the first 35 minutes of the workout; just enough to be comfortable in the water and get back to my bike.  I wouldn't have been able to forgive myself if someone had got through the bike lock.
+
+---
 
 A short ride on the bike there after.  I did re-install the new chain by re-adding a link and using a KMC quick-link.  The chain is very quiet except for what I think maybe that quick-link... 
+
+![Bike](/assets/jpg/bike-20220824.jpeg)
 
 <!---->
 ## THURSDAY AUG 25 ☀️
