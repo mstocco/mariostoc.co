@@ -7,7 +7,7 @@ Week beginning [Sunday, August 21, 2022](javascript:flick('sun');)
 Get myself to _Penticton_ ready<br /><sup>(focus on only what I can control)</sup>
 
 ## SUMMARY
-Total Time: **Just 6 Hours**
+Total Time: **6 Hours**
 
 I feel like I was **READY A WEEK AGO**
 
