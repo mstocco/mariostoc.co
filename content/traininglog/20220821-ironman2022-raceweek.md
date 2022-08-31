@@ -159,7 +159,7 @@ Total Swim Time: **25 Minutes**
 
 Very late night visiting with my aunt.
 
-Rolling into town around noon, we parked on _Lakeshore _ and I went straight to the event check-in.  Number 1244 reminded me of the 1355 I had at the [Victoria 70.3](/racereports/2022-)
+Rolling into town around noon, we parked on _Lakeshore Drive_ and I went straight to the event check-in.  Number 1244 reminded me of the 1355 I had at the [Victoria 70.3](/racereports/2022-ironman-70.3-victoria).
 <!----->
 I thought about putting on my wetsuit but instead, got into the water with just my tri-suit.  Swim was easy effort, the water clear and the temperate was comfortable, not overly warm but reportedly just over the 24.4°C limit.
 
@@ -167,7 +167,7 @@ I wore a new pair of goggles for the first time; they are super clear and good t
 
 A large, delicious poké bowl (salmon) for a late lunch.
 
-![Swim](/assets/jpg/image.jpeg) 
+![Swim](/assets/jpg/swim-20220826.jpeg) 
 
 <!---->
 ## SATURDAY AUG 27 ☁️
@@ -183,10 +183,12 @@ Making sure everything works. Keep it easy. Flat is preferred, but you should go
 ### NOTES
 Total Ride Time: **10 Minutes**
 
-Weather was quite cool and windy.
+Weather in _Penticton_ today was cooler than _Victoria_.  A northerly wind blew all day as well. 
 
 Not much of a ride.  I started with my bike in the garage of the property we we staying at.  There was a small tick, tick, tick that I was confident was the KMC Quick-link.  I replaced that with an official Shimano link and the noise disappeared.  With the bike ready, stickers on, I rolled down to the race venue with Pattie.  I could have rolled around town for a half-hour or so but it really may have made the anticipation of [tomorrow](/racereports/2022-ironman-canada) even more amplified.
 
 I racked my bike and went for lunch (burger at _The Patio_).
 
-For dinner, I had a Poké Bowl (tuna) and I was in bed at a decent time.
+Carina took the opportunity to go shopping and take in a winery.  I hung out in our room and had an afternoon nap.
+
+For dinner, I had another Poké Bowl (tuna this time) and I was in bed at a decent time.
