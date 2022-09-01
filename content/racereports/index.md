@@ -18,16 +18,16 @@ _Sunday, August 28, 2022_
 
 ### RESULT
 <table>
-<tr><td>Swim</td><td style="text-align:right;"></td></tr>
-<tr><td>T1</td><td style="text-align:right;"></td></tr>
-<tr><td>Bike</td><td style="text-align:right;"></td></tr>
-<tr><td>T2</td><td style="text-align:right;"></td></tr>
-<tr><td>Run</td><td style="text-align:right;"></td></tr>
-<tr><td></td><td style="text-align:right;"></td></tr>
+<tr><td>Swim</td><td style="text-align:right;">1:11:56</td></tr>
+<tr><td>T1</td><td style="text-align:right;">00:07:47</td></tr>
+<tr><td>Bike</td><td style="text-align:right;">6:54:40</td></tr>
+<tr><td>T2</td><td style="text-align:right;">00:14:35</td></tr>
+<tr><td>Run</td><td style="text-align:right;">5:03:08</td></tr>
+<tr><td></td><td style="text-align:right;">13:32:06</td></tr>
 </table>
 
 ### SUMMARY
-
+What a day.
 
 [READ MORE](2022-ironman-canada-penticton)
 
@@ -74,15 +74,16 @@ _Saturday, September 18, 2021_
 
 ### RESULT
 <table>
-<tr><td>Swim</td><td style="text-align:right;"></td></tr>
-<tr><td>T1</td><td style="text-align:right;"></td></tr>
-<tr><td>Bike</td><td style="text-align:right;"></td></tr>
-<tr><td>T2</td><td style="text-align:right;"></td></tr>
-<tr><td>Run</td><td style="text-align:right;"></td></tr>
-<tr><td></td><td style="text-align:right;"></td></tr>
+<tr><td>Swim</td><td style="text-align:right;">1:10:23</td></tr>
+<tr><td>T1</td><td style="text-align:right;">00:11:18</td></tr>
+<tr><td>Bike</td><td style="text-align:right;">6:20:44</td></tr>
+<tr><td>T2</td><td style="text-align:right;">00:14:25</td></tr>
+<tr><td>Run</td><td style="text-align:right;">5:25:19</td></tr>
+<tr><td></td><td style="text-align:right;">13:22:09</td></tr>
 </table>
 
 ### SUMMARY
+My first IRONMAN!
 
 
 [READ MORE](2021-ironman-italy-emilia-romagna)
