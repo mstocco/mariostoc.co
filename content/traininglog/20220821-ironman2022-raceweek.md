@@ -193,8 +193,6 @@ With the bike ready, I rolled down to the race venue with Pattie from _Austin, T
 I could have rolled around town for 40 minutes but that may have made the anticipation of [tomorrow](/racereports/2022-ironman-canada-penticton) even more amplified.
 
 ![2022 Ironman Canada Transition](/assets/jpg/transition-20220827.jpeg)
-
 I racked my bike and met Carina for lunch (burger at _The Patio_). She took the opportunity to go shopping and take in a winery.  I hung out in our room and had an afternoon nap.
 
 For dinner, I had another poké bowl (tuna this time) and I was in bed at a decent time.
-
