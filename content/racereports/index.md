@@ -16,11 +16,36 @@ Racing is just one day, the time in between is where the magic happens for me an
 ![2022 IRONMAN Canada - Penticton](/assets/img/2022-ironman-canada.jpeg)
 _Sunday, August 28, 2022_
 
+### RESULT
+<table>
+<tr><td>Swim</td><td style="text-align:right;"></td></tr>
+<tr><td>T1</td><td style="text-align:right;"></td></tr>
+<tr><td>Bike</td><td style="text-align:right;"></td></tr>
+<tr><td>T2</td><td style="text-align:right;"></td></tr>
+<tr><td>Run</td><td style="text-align:right;"></td></tr>
+<tr><td></td><td style="text-align:right;"></td></tr>
+</table>
+
+### SUMMARY
+
+
 [READ MORE](2022-ironman-canada-penticton)
 
 <!---->
 ![2022 Victoria Half ](/assets/img/2022-victoria-half.jpeg)
 _Sunday, July 17, 2022_
+
+### RESULT
+<table>
+<tr><td>Swim</td><td style="text-align:right;"></td></tr>
+<tr><td>T1</td><td style="text-align:right;"></td></tr>
+<tr><td>Bike</td><td style="text-align:right;"></td></tr>
+<tr><td>T2</td><td style="text-align:right;"></td></tr>
+<tr><td>Run</td><td style="text-align:right;"></td></tr>
+<tr><td></td><td style="text-align:right;"></td></tr>
+</table>
+
+### SUMMARY
 
 [READ MORE](2022-victoria-half)
 
@@ -28,16 +53,55 @@ _Sunday, July 17, 2022_
 ![2022 IRONMAN 70.3 - Victoria](/assets/img/2022-ironman703-victoria.jpeg)
 _Sunday, May 29, 2022_
 
+### RESULT
+<table>
+<tr><td>Swim</td><td style="text-align:right;"></td></tr>
+<tr><td>T1</td><td style="text-align:right;"></td></tr>
+<tr><td>Bike</td><td style="text-align:right;"></td></tr>
+<tr><td>T2</td><td style="text-align:right;"></td></tr>
+<tr><td>Run</td><td style="text-align:right;"></td></tr>
+<tr><td></td><td style="text-align:right;"></td></tr>
+</table>
+
+### SUMMARY
+
+
 [READ MORE](2022-ironman-703-victoria)
 
 <!---->
 ![2021 IRONMAN Italy - Emilia Romagna](/assets/img/2021-ironman-italy.jpeg)
 _Saturday, September 18, 2021_
 
+### RESULT
+<table>
+<tr><td>Swim</td><td style="text-align:right;"></td></tr>
+<tr><td>T1</td><td style="text-align:right;"></td></tr>
+<tr><td>Bike</td><td style="text-align:right;"></td></tr>
+<tr><td>T2</td><td style="text-align:right;"></td></tr>
+<tr><td>Run</td><td style="text-align:right;"></td></tr>
+<tr><td></td><td style="text-align:right;"></td></tr>
+</table>
+
+### SUMMARY
+
+
 [READ MORE](2021-ironman-italy-emilia-romagna)
 
 <!---->
 ![2021 Victoria Half ](/assets/img/2021-victoria-half.jpeg)
 _Sunday, July 18, 2021_
+
+### RESULT
+<table>
+<tr><td>Swim</td><td style="text-align:right;"></td></tr>
+<tr><td>T1</td><td style="text-align:right;"></td></tr>
+<tr><td>Bike</td><td style="text-align:right;"></td></tr>
+<tr><td>T2</td><td style="text-align:right;"></td></tr>
+<tr><td>Run</td><td style="text-align:right;"></td></tr>
+<tr><td></td><td style="text-align:right;"></td></tr>
+</table>
+
+### SUMMARY
+
 
 [READ MORE](2021-victoria-half)
