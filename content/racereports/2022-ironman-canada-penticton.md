@@ -2,7 +2,16 @@
 
 _August 28, 2022_
 
-![Race Day Recap &#42;IRONMAN Canada is Back&#42;](https://youtu.be/3WEOmYirXj4)
+### SECTIONS
+<ul class="alt">
+<li><a href="javascript:flkty.select(0);">THE SWIM - OKANAGAN LAKE</a></li>
+<li><a href="javascript:flkty.select(0);">THE ONE-LOOP BIKE COURSE</a></li>
+<li><a href="javascript:flkty.select(0);">MAKING THIS HAPPEN</a></li>
+</ul>
+<br />
+
+### YOUTUBE VIDEO
+[Race Day Recap &#42;IRONMAN Canada is Back&#42;](https://youtu.be/3WEOmYirXj4)
 
 <!---->
 ## THE SWIM - OKANAGAN LAKE
@@ -13,7 +22,12 @@ So much made about the temperature of the lake.  I never did get hear the measur
 ![](/assets/jpg/IMG_1302-977x550.jpeg TIME TO GO)
 
 ## THE ONE-LOOP BIKE COURSE
-The crowd has packed the street around the start of the bike course.  The cheering is incredible.
+A crowd has packed the street around the start of the bike course.  The cheering is incredible.  Heading south on _Main Street_ is emotional.  Maybe it was the effort from the swim.
+
+The residents along _Lakeside Road_ are out and cheering.  I see a large Canadian flag set up on my left.  Close by is the Italian flag.  I call out, _"Forza Italia!"_  The family gives me an extra cheer and as I ride away, I hear _"Forza Azzuri!"_
+
+_McClean Creak Road_ is a hill.  I tackle it with the least amount of effort.  The day is still to young.
+
 
 ![](/assets/jpg/IMG_1340-977x550.jpeg EASTSIDE ROAD)
 
@@ -27,14 +41,10 @@ I've run out of hill to walk, time to go.
 ![](/assets/jpg/IMG_1316-365x550.jpeg LEAVING TRANSITION)
 
 
-![](/assets/jpg/IMG_1307-366x550.jpeg GETTING IT DONE)
+![](/assets/jpg/IMG_1307-366x550.jpeg 20.2KM COMPLETE, 22 TO GO)
 
 
 Gatorade?   Yes please.  I am handed a cup and I put it down the hatch.  The residual carbonation, the acidity both hit the back of my throat.  It is Pepsi.  Normally I am good with cola but there is a reaction and it is not comfortable.
 
 
-
-![](/assets/jpg/IMG_1309-366x550.jpeg THE RED CARPET)
-
-
-<!-- ![](/assets/jpg/.jpeg ) -->
+![](/assets/jpg/IMG_1309-366x550.jpeg RUNNING THE RED CARPET)
