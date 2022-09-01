@@ -185,10 +185,16 @@ Total Ride Time: **10 Minutes**
 
 Weather in _Penticton_ today was cooler than _Victoria_.  A northerly wind blew all day as well. 
 
-Not much of a ride.  I started with my bike in the garage of the property we we staying at.  There was a small tick, tick, tick that I was confident was the KMC Quick-link.  I replaced that with an official Shimano link and the noise disappeared.  With the bike ready, stickers on, I rolled down to the race venue with Pattie.  I could have rolled around town for a half-hour or so but it really may have made the anticipation of [tomorrow](/racereports/2022-ironman-canada) even more amplified.
 
-I racked my bike and went for lunch (burger at _The Patio_).
+I started my day with in the garage of the property we we staying at.  Race stickers applied and I needed to address the small tick, tick, tick in the chain noticed on [Wednesday](javascript:flick('wed');).  I replaced the quick-link with an official Shimano link and the noise disappeared.
+<!----->
+With the bike ready, I rolled down to the race venue with Pattie from _Austin, Texas_.  That took just 10 minutes so not really a ride.  
 
-Carina took the opportunity to go shopping and take in a winery.  I hung out in our room and had an afternoon nap.
+I could have rolled around town for 40 minutes but that may have made the anticipation of [tomorrow](/racereports/2022-ironman-canada) even more amplified.
 
-For dinner, I had another Poké Bowl (tuna this time) and I was in bed at a decent time.
+![2022 Ironman Canada Transition](/assets/jpg/transition-20220827.jpeg)
+
+I racked my bike and met Carina for lunch (burger at _The Patio_). She took the opportunity to go shopping and take in a winery.  I hung out in our room and had an afternoon nap.
+
+For dinner, I had another poké bowl (tuna this time) and I was in bed at a decent time.
+
