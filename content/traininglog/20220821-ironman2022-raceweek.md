@@ -190,7 +190,7 @@ I started my day with in the garage of the property we we staying at.  Race stic
 <!----->
 With the bike ready, I rolled down to the race venue with Pattie from _Austin, Texas_.  That took just 10 minutes so not really a ride.  
 
-I could have rolled around town for 40 minutes but that may have made the anticipation of [tomorrow](/racereports/2022-ironman-canada) even more amplified.
+I could have rolled around town for 40 minutes but that may have made the anticipation of [tomorrow](/racereports/2022-ironman-canada-penticton) even more amplified.
 
 ![2022 Ironman Canada Transition](/assets/jpg/transition-20220827.jpeg)
 
