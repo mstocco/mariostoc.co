@@ -133,14 +133,14 @@ The watch says I'm running 6:45/km pace, my brain thinks I am travelling at 5:00
 <h2 style="margin-bottom:4px;">FINAL THOUGHTS</h2>
 I did feel hungry on the final leg of the swim, maybe I could have ate more for breakfast.
 
-I fuelled with two aero bottles, 400ml of maple syrup in one, 350ml and a splash of coffee in the second.  I also had a Maurten gel during the first half of the ride.  ~2850 calories total.
+I fuelled on the bike with two aero bottles, 400ml of maple syrup in one, 350ml and a splash of coffee in the second.  I also had a Maurten gel during the first half of the ride.  ~2850 calories total.
 
-Legs and lungs felt good on the bike, my lumbar was my limiter.
+Legs and lungs felt good on the bike, my lumbar (left side) was my limiter.
 
 Applying sunscreen before bed was a great idea but I need to cover everything exposed (lats).
 
 Pepsi is NOT my friend.
 
-Kevin didn't catch me on the course today, but his overall time was faster than mine.  Chapeau my friend, you were a part of what made my experience great.
+Kevin never did catch me out on the course today, but his overall time was faster than mine.  Chapeau my friend, you were a part of what made my experience great.
 
-IRONMAN may have brought the participants, but it was the people of _Penticton_ that hosted a memorable race.
+IRONMAN may have brought the participants, but it was the people of _Penticton_ that made this a truly memorable event.
