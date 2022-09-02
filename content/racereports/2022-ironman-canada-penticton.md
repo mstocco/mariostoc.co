@@ -14,7 +14,7 @@ _August 28, 2022_
 [Race Day Recap &#42;IRONMAN Canada is Back&#42;](https://youtu.be/3WEOmYirXj4)
 
 <!---->
-## THE SWIM - OKANAGAN LAKE
+<h2 style="margin-bottom:4px;">THE SWIM - OKANAGAN LAKE</h2>
 So much made about the temperature of the lake.  I never did get hear the measured temperature but over the loud speaker it is announced that wetsuits are a go.  Nothing left to do here, it is time to leave my spot in the transition area and make my way into the lake.
 
 I have time for a warm-up swim.  The water is warmer than the air.  I feel ready to swim.
@@ -29,7 +29,7 @@ The 300m marker is to my right and I am on auto-pilot.  I feel great the entire 
 
 ![](/assets/jpg/IMG_1302-977x550.jpeg IT IS GO TIME)
 
-## THE ONE-LOOP BIKE COURSE
+<h2 style="margin-bottom:4px;">THE ONE-LOOP BIKE COURSE</h2>
 A crowd has packed the street around the start of the bike course.  The cheering is incredible.  Heading south on _Main Street_ is emotional.  Maybe it was the effort from the swim.
 
 The residents along _Lakeside Road_ are out and cheering.  I see a large Canadian flag; close to that is an equally large Italian flag.  I call out, _"Forza Italia!"_  The family gives me an extra cheer!  As I ride away, I hear _"Forza Azzuri!"_
@@ -49,15 +49,29 @@ Leaving _Keremeos_, I have family on the roadside cheering me on.  Forty-somethi
 The kicker by the golf course is an out of the saddle effort.  I despite my lower back, everything else is feeling really good.
 
 Zoommmm...  Lots of downhills for the trip to _Willowbrook_ are the reward for the climbing so far.  An out and back section finally gives me a chance to see my friend from _Victoria_.  I did some quick math and he's maybe just 4 minutes behind and closing.
+<!----->
+Climbing out of _Willowbrook_, I am thinking about my back and how soon before Kevin passes me.  
+
+The turn back on to _White Lake Road_, has a other crowd of people cheering on the participants.  _"Look at him, he is still smiling!"_  That was someone commenting about me!  I scan the crowd and see Katie and Jason, more friends of mine from _Victoria_. 
+
+Jason runs beside me for a short bit, his words of encouragement hit me well.  My back pain disappears and I am in the aero-bars for the mostly downhill leg back to _Penticton_.  I don't think Kevin is going to catch me now.
+
  
 ![](/assets/jpg/IMG_1340-977x550.jpeg EASTSIDE ROAD)
 
-## MAKING THIS HAPPEN
-The sun is really hot.  The long grass in transition was cool and damp from the morning dew when I left.  I would love to be putting my shoes on that cool grass; it feels like there is heat radiating from the lawn right now.
+<h2 style="margin-bottom:4px;">MAKING THIS HAPPEN</h2>
+The long grass was cool and damp when I left transition this morning.  My bike is racked and I am sitting on ground, putting on my running shoes.  I find myself wishing for that cool grass again; it is really hot out now.  The procrastinating is real.  Let's get going.
 
 Ahead of me is the 12% grade of _Vancouver Avenue_.  People are running past me, I am walking up.
 
-I've run out of hill to walk, time to go.  It's 4 kilometres of the _Kettle Valley Rail Trail_ [KVR].  The soft gravel path feels loose.
+I've run out of hill to walk up, time for me to get going for real this time.  In front of me is 4 kilometres of and out and back section of the _Kettle Valley Rail Trail_ [KVR]. The surface is a very fine gravel, not quite sand but it feels loose.
+
+This is the heat of the day and this trail is false-flat uphill.  I am noticing the grind.
+
+At the turnaround, I see a smile.  My sweetheart is at the 5km marker and cheering me on; I am instantly happy.  I stop for a kiss and turn for the trek back to _Penticton_ with a huge smile on my face.
+
+With the turnaround, I see Kevin; he is at most 30 seconds back.  I am caught for sure now. 
+
  
 ![](/assets/jpg/IMG_1316-365x550.jpeg LEAVING TRANSITION)
 
@@ -68,5 +82,6 @@ Back on asphalt.  I walk to the bottom of _Vancouver Ave_.  10 kilometres in the
 
 Gatorade?   Yes please.  I am handed a cup and I put it down the hatch.  The residual carbonation, the acidity both hit the back of my throat.  It is Pepsi.  Normally I am good with cola but there is a reaction and it is not comfortable.
 
-
 ![](/assets/jpg/IMG_1309-366x550.jpeg RUNNING THE RED CARPET)
+
+<h2 style="margin-bottom:4px;">FINAL THOUGHTS</h1>
