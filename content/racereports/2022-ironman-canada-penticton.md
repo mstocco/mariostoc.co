@@ -11,7 +11,7 @@ This was my second Ironman distance event.  I hope you enjoy the read...
  <li><a href="javascript:flkty.select(4);">THE ONE-LOOP BIKE COURSE</a></li>
  <li><a href="javascript:flkty.select(7);">MAKING THIS HAPPEN</a></li>
  <li><a href="javascript:flkty.select(7);">FINAL THOUGHTS</a></li>
-</ul><br />
+</ul>
 
 ### IRONMAN YOUTUBE VIDEOS
 [Race Preview](https://youtu.be/IT2PVp_PstY)
@@ -78,8 +78,9 @@ Highway 97 is coned off for the cyclists and this is fast descent back to _Penti
 
 Head down and pressure on the pedals, Kevin is still coming.
 
-_Skaha Lake Road_ and I am back on the closed road into town.  This is my first look at the race leaders, almost half way done with the marathon.   
-What I am looking at feels incomprehensible.
+_Skaha Lake Road_ and I am back on the closed road into town.  This is my first look at the race leaders, almost half way done with the marathon.
+
+Looking at these runners feels incomprehensible.
  
 ![](/assets/jpg/IMG_1340-977x550.jpeg EASTSIDE ROAD)
 
@@ -92,21 +93,27 @@ I've run out of hill, my walk is over; time for me to get going, for real this t
 
 This is the heat of the day and this trail is false-flat uphill.  My quads are noticing the grind.
 
-At the 5km  turnaround, a smile appears from the crowd.  My sweetheart, Carina is here!  It is instant happiness and I stop for a kiss.  Turning for the trek back to _Penticton_, I have a huge smile on my face.
+At the 5km  turnaround, a smile appears from the crowd.  My sweetheart, Carina is here!  It is instant happiness and I stop for a kiss.  
+
+My trek back to town starts with a huge smile.
  
 ![](/assets/jpg/IMG_1316-365x550.jpeg LEAVING TRANSITION)
-With the turnaround behind me, I spot Kevin on his way outbound; he is at most, just 30 seconds back.  He is a strong runner; I am confident that I will be caught for sure now.
+With the turnaround behind me, I spot Kevin on his outbound leg of the trail; he is at most, just 30 seconds back.  He is a strong runner; I am confident that I will be caught for sure now.
 
 Off the dirt of the KVR and finally on asphalt,  I intentionally walk down to the bottom of _Vancouver Ave_.  10 kilometres in the books, 20 miles in front of me.  I am feeling good.
 
 When IRONMAN announced the route for this new run course, I can not say that I was overly excited about it.  A long section of false flat road, lined with very uninteresting box stores at the south end; it really sounded terrible.  What I am experiencing now that I am on that road is very unexpected.
 
-_Main Street_ is lined with people and I get the sense that the majority of this crowd consists of families cheering on their loved one(s).  I hear the cheers for me personally too.  I smile and return a _"Thank you!"_.  If that cheer comes from a kid, I make sure to tell him or her how awesome they are.
+_Main Street_ is lined with people and I get the sense that the majority of this crowd consists of families cheering on their loved one(s).  I hear the cheers for me personally too.  I smile and return a _"Thank you!"_.
+
+If that cheer comes from a youngster, I make sure to tell him or her how awesome they are.
 
 ![](/assets/jpg/IMG_1307-366x550.jpeg 20.2KM COMPLETE, 22 TO GO)
-Mentally, I am treating this first loop as a recon-mission; a preview of _"the real race"_ in a couple hours.  
+Mentally, I am treating this first loop of _Penticton_ as a recon-mission; a preview of _"the real race"_ happening in a couple hours.
 
-_Main Street_ turns into _Shaka Lake Road_ and where I thought I'd be looking at those box stores, I only notice the people.  I am sensing that the crowds lining the street at this south end of the course are locals.   
+The south end of _Main Street_ becomes _Shaka Lake Road_ and where I thought I'd be looking at those box stores, I only notice the people.  I am sensing that the crowds lining the street at this south end of the course are locals.   There are lot's of people out cheers us on.
+
+
 
 Gatorade?   Yes please.  I am handed a cup and I put it down the hatch.  The residual carbonation, the acidity both hit the back of my throat.  It is Pepsi.  Normally I am good with cola but there is a reaction and it is not comfortable.
 
