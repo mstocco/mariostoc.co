@@ -32,20 +32,24 @@ The 300m marker is to my right and I am on auto-pilot.  I feel great the entire 
 ## THE ONE-LOOP BIKE COURSE
 A crowd has packed the street around the start of the bike course.  The cheering is incredible.  Heading south on _Main Street_ is emotional.  Maybe it was the effort from the swim.
 
-The residents along _Lakeside Road_ are out and cheering.  I see a large Canadian flag set up on my left.  Close by is the Italian flag.  I call out, _"Forza Italia!"_  The family gives me an extra cheer and as I ride away, I hear _"Forza Azzuri!"_
+The residents along _Lakeside Road_ are out and cheering.  I see a large Canadian flag; close to that is an equally large Italian flag.  I call out, _"Forza Italia!"_  The family gives me an extra cheer!  As I ride away, I hear _"Forza Azzuri!"_
 
-_McClean Creak Road_ is a hill.  I tackle it with the least amount of effort.  The day is still too young.
+_McClean Creek Road_ is a hill.  I tackle it with as little effort possible.  The day is still too young.
 
-I am rolling into _Osoyoos_.  So far, I've spent the majority of this ride on in the aero-bars; my lumber is starting to act up.  
+Rolling into _Osoyoos_, I've spent the majority of _Highway 97_ in the aero-bars; my lumber is starting to act up.  
 
-_Richter Pass_ is a slow and steady affair at least for the climb to the top.  The race to the bottom is a very different affair.
+_Richter Pass_ is a slow and steady affair at least for the climb to the top.  The race to the valley below is a very different affair.
 
-If you passed me on the way up, don't worry, there are more up-hills for you to catch back up to me.
+If you passed me on the way up, don't worry, there are more up-hills for you to catch me again (maybe).  Zoommm!
 <!----->
-The distance from the between the Aid Station going up _Richter_ and the one in _Cawston_ is felt.  I'm out of water and I can use a bio-break.  My lower back can use a break too.   Finally at kilometre 106, I get that break.
+The distance from the between the Aid Station going up _Richter_ and the one in _Cawston_ is being felt.  My water bottle has been empty for some time and I can use a bio-break.  My lower back needs a break too.   Finally at kilometre 106, I that break is here.
 
-Leaving _Keremeos_, I have family on the roadside cheering me on.  Forty something years ago, my aunt would have been babysitting me in a tiny town in _Northwestern Ontario_, now she is watching me doing my best to save some energy for the next hill, _Yellow Lake Pass_.
+Leaving _Keremeos_, I have family on the roadside cheering me on.  Forty-something years ago, my aunt would have been babysitting me in a tiny town in _Northwestern Ontario_, now she is watching me doing my best to save some energy for the next hill, Highway 3A up to _Yellow Lake_.
 
+The kicker by the golf course is an out of the saddle effort.  I despite my lower back, everything else is feeling really good.
+
+Zoommmm...  Lots of downhills for the trip to _Willowbrook_ are the reward for the climbing so far.  An out and back section finally gives me a chance to see my friend from _Victoria_.  I did some quick math and he's maybe just 4 minutes behind and closing.
+ 
 ![](/assets/jpg/IMG_1340-977x550.jpeg EASTSIDE ROAD)
 
 ## MAKING THIS HAPPEN
