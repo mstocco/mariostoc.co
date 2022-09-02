@@ -14,7 +14,7 @@ This was my second Ironman distance event.  I hope you enjoy the read...
 </ul>
 
 ### IRONMAN YOUTUBE VIDEOS
-[Race Preview](https://youtu.be/IT2PVp_PstY)
+[Race Preview](https://youtu.be/IT2PVp_PstY)   
 [Race Day Recap &#42;IRONMAN Canada is Back&#42;](https://youtu.be/3WEOmYirXj4)
 
 <!---->
@@ -98,7 +98,7 @@ At the 5km  turnaround, a smile appears from the crowd.  My sweetheart, Carina i
 My trek back to town starts with a huge smile.
  
 ![](/assets/jpg/IMG_1316-365x550.jpeg LEAVING TRANSITION)
-With the turnaround behind me, I spot Kevin on his outbound leg of the trail; he is at most, just 30 seconds back.  He is a strong runner; I am confident that I will be caught for sure now.
+With the turnaround barely behind me, I spot Kevin on his outbound leg of the trail; he is at most, just 30 seconds back.  He is a strong runner; I am confident that I will be caught for sure now.
 
 Off the dirt of the KVR and finally on asphalt,  I intentionally walk down to the bottom of _Vancouver Ave_.  10 kilometres in the books, 20 miles in front of me.  I am feeling good.
 
@@ -115,7 +115,9 @@ The south end of _Main Street_ becomes _Shaka Lake Road_ and where I thought I'd
 
 
 
-Gatorade?   Yes please.  I am handed a cup and I put it down the hatch.  The residual carbonation, the acidity both hit the back of my throat.  It is Pepsi.  Normally I am good with cola but there is a reaction and it is not comfortable.
+_"Gatorade?"_   I am handed a cup and I put it down the hatch.  The residual carbonation, the acidity both hit the back of my throat.  It is Pepsi.  There is a reaction and it is very uncomfortable.  There is 17 kilometres of run still in front of me. 
+
+I am still holding back the urge to vomit that cola I ingested.  I have 5 kilometres to go and I spot Carina in the crowd again.  We make a plan to meet at the finish line in 30 minutes.  
 
 ![](/assets/jpg/IMG_1309-366x550.jpeg RUNNING THE RED CARPET)
 
@@ -132,4 +134,4 @@ Applying sunscreen before bed was a great idea but I need to cover everything ex
 
 After 11 hours of exercise, Pepsi is NOT my friend.
 
-
+IRONMAN may have brought the participants, but it was the people of _Penticton_ that hosted a memorable race.
