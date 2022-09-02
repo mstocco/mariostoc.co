@@ -19,13 +19,11 @@ So much made about the temperature of the lake.  I never did get hear the measur
 
 I have time for a warm-up swim.  The water is warmer than the air.  I feel ready to swim.
 
-In [Italy](), the pre-race atmosphere was a _"Euro-Dance Party"_ on the beach.  The tradition here at IRONMAN Canada is a lone bagpiper rocking a catchy tune.
+The pre-race atmosphere at [IRONMAN Italy](2021-ironman-italy-emilia-romagna),  was a _"Euro-Dance Party"_ on the beach.  The tradition here at IRONMAN Canada is a lone bagpiper rocking a catchy tune.
 
 I am standing ahead of 70-80 minute group; right where I need to be.  The shuffle to the start line begins.
 
-Beep, Beep, Beep.  It is my turn to go.
-
-The lake is shallow for a bit from the shore.  I finally take that first stroke; it feels great and I am off.
+Beep, Beep, Beep.  It is my turn to go.  The lake is shallow for a bit from the shore.  I finally take that first stroke; it feels great and I am off.
 
 The 300m marker is to my right and I am on auto-pilot.  I feel great the entire swim.
 
@@ -43,8 +41,10 @@ I am rolling into _Osoyoos_.  So far, I've spent the majority of this ride on in
 _Richter Pass_ is a slow and steady affair at least for the climb to the top.  The race to the bottom is a very different affair.
 
 If you passed me on the way up, don't worry, there are more up-hills for you to catch back up to me.
+<!----->
+The distance from the between the Aid Station going up _Richter_ and the one in _Cawston_ is felt.  I'm out of water and I can use a bio-break.  My lower back can use a break too.   Finally at kilometre 106, I get that break.
 
-The distance from the between the Aid Station going up _Richter_ and the one in _Cawston_ is felt.  I'm out of water and I can use a bio-break.
+Leaving _Keremeos_, I have family on the roadside cheering me on.  Forty something years ago, my aunt would have been babysitting me in a tiny town in _Northwestern Ontario_, now she is watching me doing my best to save some energy for the next hill, _Yellow Lake Pass_.
 
 ![](/assets/jpg/IMG_1340-977x550.jpeg EASTSIDE ROAD)
 
