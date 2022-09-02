@@ -7,10 +7,12 @@ _August 28, 2022_
 <li><a href="javascript:flkty.select(2);">THE SWIM - OKANAGAN LAKE</a></li>
 <li><a href="javascript:flkty.select(4);">THE ONE-LOOP BIKE COURSE</a></li>
 <li><a href="javascript:flkty.select(7);">MAKING THIS HAPPEN</a></li>
+<li><a href="javascript:flkty.select(7);">FINAL THOUGHTS</a></li>
 </ul>
 <br />
 
-### YOUTUBE VIDEO
+### IRONMAN YOUTUBE VIDEOS
+[Race Preview](https://youtu.be/IT2PVp_PstY)
 [Race Day Recap &#42;IRONMAN Canada is Back&#42;](https://youtu.be/3WEOmYirXj4)
 
 <!---->
@@ -64,35 +66,37 @@ The climb out of _Willowbrook_ is done and I am at the turn back on to _White La
 Hey, that was someone commenting about me!  Further up the road, I see Katie and Jason, more friends of mine from _Victoria_. 
 
 <!----->
-Jason runs beside me for a short bit, his words of encouragement hit me well.  In an instant my the pain in my lower back disappears.  I am in the aero-bars, picking off riders ahead of me.
+Jason is running beside me, his words of encouragement hit me well.  Instantly, the pain in my lower back disappears.  I am back in the aero-bars, picking off every rider ahead of me.
 
-Will Kevin catch me before we get back into town?
+It is the rider behind me that is my motivation.  I wonder, _"Will Kevin catch me before we get back into town?"_
 
 Highway 97 is coned off for the cyclists and the descent back to _Penticton_.  I pre-rode this a year ago and noted how as the valley warmed, convective winds moving uphill made for some tricky handling with a TT bike.  The wind I expected is not nearly as intense today.
 
 Head down and pressure on the pedals, Kevin is still coming.
 
-_Skaha Lake Road_ and I am back on the closed road into town.  This is my first look at the race leaders, almost half way done with the marathon.  What I see feels incomprehensible.
+_Skaha Lake Road_ and I am back on the closed road into town.  This is my first look at the race leaders, almost half way done with the marathon.  What I am looking at feels incomprehensible.
  
 ![](/assets/jpg/IMG_1340-977x550.jpeg EASTSIDE ROAD)
 
 <h2 style="margin-bottom:4px;">MAKING THIS HAPPEN</h2>
 The long grass was cool and damp when I left transition this morning.  My bike is racked and I am sitting on ground, putting on my running shoes.  I find myself wishing for that cool grass again; it is really hot out now.  The procrastinating is real.  Let's get going.
 
-Ahead of me is the 12% grade of _Vancouver Avenue_.  People are running past me, I am walking up.
+Ahead of me is the 12% grade of _Vancouver Avenue_.  People are running past me, I choose to walk up.
 
-I've run out of hill to walk up, time for me to get going for real this time.  In front of me is 4 kilometres of and out and back section of the _Kettle Valley Rail Trail_ [KVR]. The surface is a very fine gravel, not quite sand but it feels loose.
+I've run out of hill, my walk is over; time for me to get going, for real this time.  In front of me is 4 kilometres of and out and back section of the _Kettle Valley Rail Trail_ [KVR]. The surface is a very fine gravel, not quite sand but it still feels loose.
 
-This is the heat of the day and this trail is false-flat uphill.  I am noticing the grind.
+This is the heat of the day and this trail is false-flat uphill.  My legs are noticing the grind.
 
 At the turnaround, I see a smile.  My sweetheart is at the 5km marker and cheering me on; I am instantly happy.  I stop for a kiss and turn for the trek back to _Penticton_ with a huge smile on my face.
-
-With the turnaround, I see Kevin; he is at most 30 seconds back.  I am caught for sure now. 
-
  
 ![](/assets/jpg/IMG_1316-365x550.jpeg LEAVING TRANSITION)
+With the turnaround behind me, I spot Kevin on his way outbound; he is at most, just 30 seconds back.  He is a strong runner; I am confident that I will be caught for sure now.
 
-Back on asphalt.  I walk to the bottom of _Vancouver Ave_.  10 kilometres in the books, 20 miles in front of me.  I am feeling good.
+Off the dirt of the KVR and finally on asphalt,  I intentionally walk down to the bottom of _Vancouver Ave_.  10 kilometres in the books, 20 miles in front of me.  I am feeling good.
+
+When IRONMAN announced the route for this new run course, I can not say that I was overly excited about it.  A long section of false flat road, lined with very uninteresting box stores at the south end; it really sounded terrible.  What I am experiencing now that I am on that road is very unexpected.
+
+_Main Street_ is lined with people and I get the sense that the majority of this crowd consists of families cheering on their loved one(s).  I hear the cheers for me personally too.  I smile and return a _"Thank you!"_. 
 
 ![](/assets/jpg/IMG_1307-366x550.jpeg 20.2KM COMPLETE, 22 TO GO)
 
@@ -102,3 +106,16 @@ Gatorade?   Yes please.  I am handed a cup and I put it down the hatch.  The res
 ![](/assets/jpg/IMG_1309-366x550.jpeg RUNNING THE RED CARPET)
 
 <h2 style="margin-bottom:4px;">FINAL THOUGHTS</h1>
+I felt more organized the morning of the race and was able to get into the water before the start.
+
+I did feel hungry on the final leg of the swim, maybe I could have ate more for breakfast.
+
+I fuelled consistently with two aero bottles, 400ml of maple syrup in one, 350ml and a splash of coffee in the second.  I also had a Maurten gel during the first half of the ride.  ~2850 calories total.
+
+Legs and lungs felt good on the bike, my lumbar was my limiter.
+
+Applying sunscreen before bed was a great idea but I need to cover everything exposed (lats).
+
+After 11 hours of exercise, Pepsi is NOT my friend.
+
+
