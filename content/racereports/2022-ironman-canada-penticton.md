@@ -111,17 +111,18 @@ If that cheer comes from a youngster, I make sure to tell him or her how awesome
 ![](/assets/jpg/IMG_1307-366x550.jpeg 20.2KM COMPLETE, 22 TO GO)
 Mentally, I am treating this first loop of _Penticton_ as a recon-mission; a preview of _"the real race"_ happening in a couple hours.
 
-The south end of _Main Street_ becomes _Shaka Lake Road_ and where I thought I'd be looking at those box stores, I only notice the people.  I am sensing that the crowds lining the street at this south end of the course are locals.   There are lot's of people out cheers us on.
+The south end of _Main Street_ becomes _Shaka Lake Road_ and where I thought I'd be looking at those box stores, I only see people.  I get the sense that the crowds lining the street at this south end of the course are predominantly locals.   There are lot's of people out cheers us on.
 
+Northbound again, I see Kevin making his way south.  I give him a cheer and he cheers back.  How has he not passed me yet?
 
+_Lakeshore Drive_ and the sidewalks are packed, Lot's of cheering as fast kids are finishing up on the Red Carpet.  Keep going, my time will come.
 
 _"Gatorade?"_   I am handed a cup and I put it down the hatch.  The residual carbonation, the acidity both hit the back of my throat.  It is Pepsi.  There is a reaction and it is very uncomfortable.  There is 17 kilometres of run still in front of me. 
 
 I am still holding back the urge to vomit that cola I ingested.  I have 5 kilometres to go and I spot Carina in the crowd again.  We make a plan to meet at the finish line in 30 minutes.  
 
 ![](/assets/jpg/IMG_1309-366x550.jpeg RUNNING THE RED CARPET)
-
-<h2 style="margin-bottom:4px;">FINAL THOUGHTS</h1>
+<h2 style="margin-bottom:4px;">FINAL THOUGHTS</h2>
 I felt more organized the morning of the race and was able to get into the water before the start.
 
 I did feel hungry on the final leg of the swim, maybe I could have ate more for breakfast.
