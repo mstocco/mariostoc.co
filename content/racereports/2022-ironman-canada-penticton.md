@@ -44,11 +44,11 @@ If you passed me on the way up, don't worry, there are more up-hills for you to 
 <!----->
 The distance from the between the Aid Station going up _Richter_ and the one in _Cawston_ is being felt.  My water bottle has been empty for some time and I can use a bio-break.  My lower back needs a break too.   Finally at kilometre 106, I that break is here.
 
-Leaving _Keremeos_, I have family on the roadside cheering me on.  Forty-something years ago, my aunt would have been babysitting me in a tiny town in _Northwestern Ontario_, now she is watching me save some energy for the next hill, Highway 3A up to _Yellow Lake_.
+Leaving _Keremeos_, I have family on the roadside cheering me on.  Forty-something years ago, my aunt would have been babysitting me in a tiny town in _Northwestern Ontario_, now she is watching me, 110 kilometres into this bike ride.
 
 It is nice to have family and friends close to cheer me on but I experience a moment of perspective.
 
-Rolling through _Olalla_, a tiny community between _Keremeos_ and the hill in front of me, I spot an elderly woman, in front of her house along the highway.  She is happily cheering on the cyclists and their funny-looking bicycles.  Just a few weeks ago, this woman would have been evacuated from her home as a forest fire threatened to take everything she had.
+Rolling through _Olalla_, a hamlet between _Keremeos_ and the hill in front of me, I spot an elderly woman, in front of her house.  She is happily cheering on the cyclists as they pass.  Just a few weeks ago, this woman would have been evacuated from her home as a forest fire threatened to take everything she had.
 
 Perspective.
 
