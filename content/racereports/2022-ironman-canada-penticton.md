@@ -46,21 +46,23 @@ The distance from the between the Aid Station going up _Richter_ and the one in 
 
 Leaving _Keremeos_, I have family on the roadside cheering me on.  Forty-something years ago, my aunt would have been babysitting me in a tiny town in _Northwestern Ontario_, now she is watching me, 110 kilometres into this bike ride.
 
-It is nice to have family and friends close to cheer me on but I experience a moment of perspective.
+It is nice to have family and friends close to cheer me on but I experience a moment of perspective (and gratitude).
 
 Rolling through _Olalla_, a hamlet between _Keremeos_ and the hill in front of me, I spot an elderly woman, in front of her house.  She is happily cheering on the cyclists as they pass.  Just a few weeks ago, this woman would have been evacuated from her home as a forest fire threatened to take everything she had.
 
-Perspective.
-
 <!----->
+The kicker by the _Twin Lakes Golf Course_ is an out of the saddle, +150 BPM effort (highest of the day).  Despite the discomfort in my lower back, everything else is feeling really good.
 
-The kicker by the golf course is an out of the saddle effort.  I despite my lower back, everything else is feeling really good.
+Zoommmm...   
+Lots of downhills for the trip to _Willowbrook_ are the reward for the climbing so far.
 
-Zoommmm...  Lots of downhills for the trip to _Willowbrook_ are the reward for the climbing so far.  An out and back section finally gives me a chance to see my friend from _Victoria_.  I did some quick math and he's maybe just 4 minutes behind and closing.
+The only out and back section of the bike course, finally gives me a chance to see my friend Kevin from _Victoria_.  I did some quick math and he's maybe 4 minutes behind and closing.
 
-It is nice to have family and friends close to cheer me on out of _Willowbrook_, I am thinking about my back and how soon before Kevin passes me.  
+The climb out of _Willowbrook_ is done and I am at the turn back on to _White Lake Road_.  Another crowd of people is here cheering on the participants.
 
-The turn back on to _White Lake Road_, has a other crowd of people cheering on the participants.  _"Look at him, he is still smiling!"_  That was someone commenting about me!  I scan the crowd and see Katie and Jason, more friends of mine from _Victoria_. 
+> _"Look at him, he is still smiling!"_  
+
+Hey, that was someone commenting about me!  I scan the crowd and see Katie and Jason, more friends of mine from _Victoria_. 
 
 Jason runs beside me for a short bit, his words of encouragement hit me well.  My back pain disappears and I am in the aero-bars for the mostly downhill leg back to _Penticton_.  I don't think Kevin is going to catch me now.
 
