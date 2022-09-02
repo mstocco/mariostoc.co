@@ -3,7 +3,6 @@
 _August 28, 2022_
 
 ![2022 IRONMAN Canada - Penticton](/assets/img/2022-ironman-canada.jpeg)
-
 This was my second Ironman distance event.  I hope you enjoy the read...
 
 ### SECTIONS
