@@ -2,14 +2,17 @@
 
 _August 28, 2022_
 
+![2022 IRONMAN Canada - Penticton](/assets/img/2022-ironman-canada.jpeg)
+
+This was my second Ironman distance event.  I hope you enjoy the read...
+
 ### SECTIONS
 <ul class="alt">
-<li><a href="javascript:flkty.select(2);">THE SWIM - OKANAGAN LAKE</a></li>
-<li><a href="javascript:flkty.select(4);">THE ONE-LOOP BIKE COURSE</a></li>
-<li><a href="javascript:flkty.select(7);">MAKING THIS HAPPEN</a></li>
-<li><a href="javascript:flkty.select(7);">FINAL THOUGHTS</a></li>
-</ul>
-<br />
+ <li><a href="javascript:flkty.select(2);">THE SWIM - OKANAGAN LAKE</a></li>
+ <li><a href="javascript:flkty.select(4);">THE ONE-LOOP BIKE COURSE</a></li>
+ <li><a href="javascript:flkty.select(7);">MAKING THIS HAPPEN</a></li>
+ <li><a href="javascript:flkty.select(7);">FINAL THOUGHTS</a></li>
+</ul><br />
 
 ### IRONMAN YOUTUBE VIDEOS
 [Race Preview](https://youtu.be/IT2PVp_PstY)
@@ -63,18 +66,21 @@ The climb out of _Willowbrook_ is done and I am at the turn back on to _White La
 
 &nbsp; _"Look at this guy, he is still smiling!"_  
 
-Hey, that was someone commenting about me!  Further up the road, I see Katie and Jason, more friends of mine from _Victoria_. 
+Hey, that was someone commenting about me!  
+
+Further up the road, I see Katie and Jason, more friends of mine from _Victoria_. 
 
 <!----->
 Jason is running beside me, his words of encouragement hit me well.  Instantly, the pain in my lower back disappears.  I am back in the aero-bars, picking off every rider ahead of me.
 
 It is the rider behind me that is my motivation.  I wonder, _"Will Kevin catch me before we get back into town?"_
 
-Highway 97 is coned off for the cyclists and the descent back to _Penticton_.  I pre-rode this a year ago and noted how as the valley warmed, convective winds moving uphill made for some tricky handling with a TT bike.  The wind I expected is not nearly as intense today.
+Highway 97 is coned off for the cyclists and this is fast descent back to _Penticton_.  I pre-rode this segment a year ago and noted as the valley warmed, convective winds blowing uphill made for some tricky handling with a TT bike.  The wind I expected, is not nearly as intense today.
 
 Head down and pressure on the pedals, Kevin is still coming.
 
-_Skaha Lake Road_ and I am back on the closed road into town.  This is my first look at the race leaders, almost half way done with the marathon.  What I am looking at feels incomprehensible.
+_Skaha Lake Road_ and I am back on the closed road into town.  This is my first look at the race leaders, almost half way done with the marathon.   
+What I am looking at feels incomprehensible.
  
 ![](/assets/jpg/IMG_1340-977x550.jpeg EASTSIDE ROAD)
 
@@ -85,9 +91,9 @@ Ahead of me is the 12% grade of _Vancouver Avenue_.  People are running past me,
 
 I've run out of hill, my walk is over; time for me to get going, for real this time.  In front of me is 4 kilometres of and out and back section of the _Kettle Valley Rail Trail_ [KVR]. The surface is a very fine gravel, not quite sand but it still feels loose.
 
-This is the heat of the day and this trail is false-flat uphill.  My legs are noticing the grind.
+This is the heat of the day and this trail is false-flat uphill.  My quads are noticing the grind.
 
-At the turnaround, I see a smile.  My sweetheart is at the 5km marker and cheering me on; I am instantly happy.  I stop for a kiss and turn for the trek back to _Penticton_ with a huge smile on my face.
+At the 5km  turnaround, a smile appears from the crowd.  My sweetheart, Carina is here!  It is instant happiness and I stop for a kiss.  Turning for the trek back to _Penticton_, I have a huge smile on my face.
  
 ![](/assets/jpg/IMG_1316-365x550.jpeg LEAVING TRANSITION)
 With the turnaround behind me, I spot Kevin on his way outbound; he is at most, just 30 seconds back.  He is a strong runner; I am confident that I will be caught for sure now.
@@ -96,10 +102,12 @@ Off the dirt of the KVR and finally on asphalt,  I intentionally walk down to th
 
 When IRONMAN announced the route for this new run course, I can not say that I was overly excited about it.  A long section of false flat road, lined with very uninteresting box stores at the south end; it really sounded terrible.  What I am experiencing now that I am on that road is very unexpected.
 
-_Main Street_ is lined with people and I get the sense that the majority of this crowd consists of families cheering on their loved one(s).  I hear the cheers for me personally too.  I smile and return a _"Thank you!"_. 
+_Main Street_ is lined with people and I get the sense that the majority of this crowd consists of families cheering on their loved one(s).  I hear the cheers for me personally too.  I smile and return a _"Thank you!"_.  If that cheer comes from a kid, I make sure to tell him or her how awesome they are.
 
 ![](/assets/jpg/IMG_1307-366x550.jpeg 20.2KM COMPLETE, 22 TO GO)
+Mentally, I am treating this first loop as a recon-mission; a preview of _"the real race"_ in a couple hours.  
 
+_Main Street_ turns into _Shaka Lake Road_ and where I thought I'd be looking at those box stores, I only notice the people.  I am sensing that the crowds lining the street at this south end of the course are locals.   
 
 Gatorade?   Yes please.  I am handed a cup and I put it down the hatch.  The residual carbonation, the acidity both hit the back of my throat.  It is Pepsi.  Normally I am good with cola but there is a reaction and it is not comfortable.
 
