@@ -78,8 +78,6 @@ Highway 97 is coned off for the cyclists and this is fast descent back to _Penti
 Head down and pressure on the pedals, Kevin is still coming.
 
 _Skaha Lake Road_ and I am back on the closed road into town.  This is my first look at the race leaders, almost half way done with their marathon.  How these runners are moving is incomprehensible.
-
-I nail a flying dismount.
  
 ![](/assets/jpg/IMG_1340-977x550.jpeg EASTSIDE ROAD)
 
@@ -112,7 +110,7 @@ Mentally, I am treating this first loop of _Penticton_ as a recon-mission; a pre
 
 The south end of _Main Street_ becomes _Skaka Lake Road_ and where I thought I'd be looking at those box stores, I only see people.  I get the sense that the crowds lining the street at this end of the course are predominantly locals.   There are lot's of people out cheering us on.
 
-Northbound again, I see Kevin making his way south.  I give him a cheer and he cheers back.  How has he not passed me yet?
+Northbound again, I see Kevin making his way south.  I give him a cheer and he cheers back.  I wonder, _"How has he not passed me yet?"_
 
 _Lakeshore Drive_ and the sidewalks are packed.  Lot's of cheering as the fast kids finish up on the Red Carpet.  Keep going, my time will come.
 
