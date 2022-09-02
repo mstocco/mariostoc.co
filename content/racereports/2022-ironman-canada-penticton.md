@@ -4,9 +4,9 @@ _August 28, 2022_
 
 ### SECTIONS
 <ul class="alt">
-<li><a href="javascript:flkty.select(0);">THE SWIM - OKANAGAN LAKE</a></li>
-<li><a href="javascript:flkty.select(0);">THE ONE-LOOP BIKE COURSE</a></li>
-<li><a href="javascript:flkty.select(0);">MAKING THIS HAPPEN</a></li>
+<li><a href="javascript:flkty.select(2);">THE SWIM - OKANAGAN LAKE</a></li>
+<li><a href="javascript:flkty.select(4);">THE ONE-LOOP BIKE COURSE</a></li>
+<li><a href="javascript:flkty.select(7);">MAKING THIS HAPPEN</a></li>
 </ul>
 <br />
 
@@ -21,16 +21,15 @@ I have time for a warm-up swim.  The water is warmer than the air.  I feel ready
 
 In [Italy](), the pre-race atmosphere was a _"Euro-Dance Party"_ on the beach.  The tradition here at IRONMAN Canada is a lone bagpiper rocking a catchy tune.
 
-I am standing ahead of 70-80 minute group; right where I need to be.
+I am standing ahead of 70-80 minute group; right where I need to be.  The shuffle to the start line begins.
 
 Beep, Beep, Beep.  It is my turn to go.
 
-The lake is shallow at the beach.
+The lake is shallow for a bit from the shore.  I finally take that first stroke; it feels great and I am off.
 
-I feel great from the first stroke.  I feel great at the 300m marker.  I feel great the entire swim.
+The 300m marker is to my right and I am on auto-pilot.  I feel great the entire swim.
 
-
-![](/assets/jpg/IMG_1302-977x550.jpeg TIME TO GO)
+![](/assets/jpg/IMG_1302-977x550.jpeg IT IS GO TIME)
 
 ## THE ONE-LOOP BIKE COURSE
 A crowd has packed the street around the start of the bike course.  The cheering is incredible.  Heading south on _Main Street_ is emotional.  Maybe it was the effort from the swim.
@@ -41,7 +40,11 @@ _McClean Creak Road_ is a hill.  I tackle it with the least amount of effort.  T
 
 I am rolling into _Osoyoos_.  So far, I've spent the majority of this ride on in the aero-bars; my lumber is starting to act up.  
 
-_Richter Pass_ is a slow and steady affair.
+_Richter Pass_ is a slow and steady affair at least for the climb to the top.  The race to the bottom is a very different affair.
+
+If you passed me on the way up, don't worry, there are more up-hills for you to catch back up to me.
+
+The distance from the between the Aid Station going up _Richter_ and the one in _Cawston_ is felt.  I'm out of water and I can use a bio-break.
 
 ![](/assets/jpg/IMG_1340-977x550.jpeg EASTSIDE ROAD)
 
@@ -54,6 +57,7 @@ I've run out of hill to walk, time to go.  It's 4 kilometres of the _Kettle Vall
  
 ![](/assets/jpg/IMG_1316-365x550.jpeg LEAVING TRANSITION)
 
+Back on asphalt.  I walk to the bottom of _Vancouver Ave_.  10 kilometres in the books, 20 miles in front of me.  I am feeling good.
 
 ![](/assets/jpg/IMG_1307-366x550.jpeg 20.2KM COMPLETE, 22 TO GO)
 
