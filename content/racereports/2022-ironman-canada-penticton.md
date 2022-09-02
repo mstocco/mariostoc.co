@@ -46,10 +46,11 @@ The distance from the between the Aid Station going up _Richter_ and the one in 
 
 Leaving _Keremeos_, I have family on the roadside cheering me on.  Forty-something years ago, my aunt would have been babysitting me in a tiny town in _Northwestern Ontario_, now she is watching me, 110 kilometres into this bike ride.
 
-It is nice to have family and friends close to cheer me on but I experience a moment of perspective (and gratitude).
+It is nice to have family and friends close to cheer me on but I .
 
-Rolling through _Olalla_, a hamlet between _Keremeos_ and the hill in front of me, I spot an elderly woman, in front of her house.  She is happily cheering on the cyclists as they pass.  Just a few weeks ago, this woman would have been evacuated from her home as a forest fire threatened to take everything she had.
+Rolling through _Olalla_, a hamlet between _Keremeos_ and the hill in front of me, I experience a moment of perspective (and gratitude). I spot an elderly woman in front of her house.  She is happily cheering on the cyclists as they pass.  Just a few weeks ago, this woman would have been evacuated from her home as a forest fire threatened to take everything she had.
 
+The climb to _Yellow Lake_ 
 <!----->
 The kicker by the _Twin Lakes Golf Course_ is an out of the saddle, +150 BPM effort (highest of the day).  Despite the discomfort in my lower back, everything else is feeling really good.
 
@@ -60,7 +61,7 @@ The only out and back section of the bike course, finally gives me a chance to s
 
 The climb out of _Willowbrook_ is done and I am at the turn back on to _White Lake Road_.  Another crowd of people is here cheering on the participants.
 
-> _"Look at him, he is still smiling!"_  
+&nbsp; _"Look at this guy, he is still smiling!"_  
 
 Hey, that was someone commenting about me!  I scan the crowd and see Katie and Jason, more friends of mine from _Victoria_. 
 
