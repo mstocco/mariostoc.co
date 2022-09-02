@@ -46,16 +46,14 @@ The distance from the between the Aid Station going up _Richter_ and the one in 
 
 Leaving _Keremeos_, I have family on the roadside cheering me on.  Forty-something years ago, my aunt would have been babysitting me in a tiny town in _Northwestern Ontario_, now she is watching me, 110 kilometres into this bike ride.
 
-It is nice to have family and friends close to cheer me on but I .
-
 Rolling through _Olalla_, a hamlet between _Keremeos_ and the hill in front of me, I experience a moment of perspective (and gratitude). I spot an elderly woman in front of her house.  She is happily cheering on the cyclists as they pass.  Just a few weeks ago, this woman would have been evacuated from her home as a forest fire threatened to take everything she had.
 
-The climb to _Yellow Lake_ 
+The climb up to _Yellow Lake_ was a little easier with perspective.
 <!----->
 The kicker by the _Twin Lakes Golf Course_ is an out of the saddle, +150 BPM effort (highest of the day).  Despite the discomfort in my lower back, everything else is feeling really good.
 
 Zoommmm...   
-Lots of downhills for the trip to _Willowbrook_ are the reward for the climbing so far.
+Lots of downhills for the trip to _Willowbrook_ is the reward for the climbing so far.
 
 The only out and back section of the bike course, finally gives me a chance to see my friend Kevin from _Victoria_.  I did some quick math and he's maybe 4 minutes behind and closing.
 
@@ -63,10 +61,18 @@ The climb out of _Willowbrook_ is done and I am at the turn back on to _White La
 
 &nbsp; _"Look at this guy, he is still smiling!"_  
 
-Hey, that was someone commenting about me!  I scan the crowd and see Katie and Jason, more friends of mine from _Victoria_. 
+Hey, that was someone commenting about me!  Further up the road, I see Katie and Jason, more friends of mine from _Victoria_. 
 
-Jason runs beside me for a short bit, his words of encouragement hit me well.  My back pain disappears and I am in the aero-bars for the mostly downhill leg back to _Penticton_.  I don't think Kevin is going to catch me now.
+<!----->
+Jason runs beside me for a short bit, his words of encouragement hit me well.  In an instant my the pain in my lower back disappears.  I am in the aero-bars, picking off riders ahead of me.
 
+Will Kevin catch me before we get back into town?
+
+Highway 97 is coned off for the cyclists and the descent back to _Penticton_.  I pre-rode this a year ago and noted how as the valley warmed, convective winds moving uphill made for some tricky handling with a TT bike.  The wind I expected is not nearly as intense today.
+
+Head down and pressure on the pedals, Kevin is still coming.
+
+_Skaha Lake Road_ and I am back on the closed road into town.  This is my first look at the race leaders, almost half way done with the marathon.  What I see feels incomprehensible.
  
 ![](/assets/jpg/IMG_1340-977x550.jpeg EASTSIDE ROAD)
 
