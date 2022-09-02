@@ -99,7 +99,7 @@ With the turnaround barely behind me, I spot Kevin on his outbound leg of the tr
 
 Off the dirt of the KVR and finally on asphalt,  I intentionally walk down to the bottom of _Vancouver Ave_.  10 kilometres in the books, 20 miles in front of me.  I am feeling good.
 
-When IRONMAN announced the route for this new run course, I can not say that I was overly excited about it.  A long section of false flat road, lined with very uninteresting box stores at the south end; it really sounded terrible.  What I am experiencing now that I am on that road is very unexpected.
+When IRONMAN announced the route for this new run course, I can not say that I was overly excited about it.  A long section of false flat road, lined with very uninteresting box stores at the south end; to me it sounded terrible.  Now that I am on that road, what I am experiencing is very unexpected.
 
 _Main Street_ is lined with people and I get the sense that the majority of this crowd consists of families cheering on their loved one(s).  I hear the cheers for me personally too.  I smile and return a _"Thank you!"_.
 
