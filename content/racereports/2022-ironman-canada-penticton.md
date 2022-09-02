@@ -64,10 +64,9 @@ The only out and back section of the bike course, finally gives me a chance to s
 The climb out of _Willowbrook_ is done and I am at the turn back on to _White Lake Road_.  Another crowd of people is here cheering on the participants.
 
 &nbsp; _"Look at this guy, he is still smiling!"_  
-
 Hey, that was someone commenting about me!  
 
-Further up the road, I see Katie and Jason, more friends of mine from _Victoria_. 
+Also in that same crowd, I see Katie and Jason, more friends of mine from _Victoria_.   So cool!
 
 <!----->
 Jason is running beside me, his words of encouragement hit me well.  Instantly, the pain in my lower back disappears.  I am back in the aero-bars, picking off every rider ahead of me.
@@ -78,9 +77,9 @@ Highway 97 is coned off for the cyclists and this is fast descent back to _Penti
 
 Head down and pressure on the pedals, Kevin is still coming.
 
-_Skaha Lake Road_ and I am back on the closed road into town.  This is my first look at the race leaders, almost half way done with their marathon.
+_Skaha Lake Road_ and I am back on the closed road into town.  This is my first look at the race leaders, almost half way done with their marathon.  How these runners are moving is incomprehensible.
 
-How these runners are moving is incomprehensible.
+I nail a flying dismount.
  
 ![](/assets/jpg/IMG_1340-977x550.jpeg EASTSIDE ROAD)
 
@@ -117,7 +116,7 @@ Northbound again, I see Kevin making his way south.  I give him a cheer and he c
 
 _Lakeshore Drive_ and the sidewalks are packed.  Lot's of cheering as the fast kids finish up on the Red Carpet.  Keep going, my time will come.
 
-_"Gatorade here!"_    
+&nbsp; _"Gatorade here!"_    
 I am handed a cup and I put it down the hatch.  The residual carbonation, the acidity both hit the back of my throat.  It is Pepsi.  My stomach reacts and it is very uncomfortable.  With 17 kilometres of run course in front of me, I am turning off auto-pilot and going into problem solving mode.
 <!----> 
 My plan was to slowly consume a gel during the time between Aid Stations.  That plan is tossed.  
