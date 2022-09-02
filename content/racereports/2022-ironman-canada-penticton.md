@@ -7,8 +7,8 @@ This was my second Ironman distance event.  I hope you enjoy the read...
 <ul class="alt">
  <li><a href="javascript:flkty.select(2);">THE SWIM - OKANAGAN LAKE</a></li>
  <li><a href="javascript:flkty.select(4);">THE ONE-LOOP BIKE COURSE</a></li>
- <li><a href="javascript:flkty.select(7);">MAKING THIS HAPPEN</a></li>
- <li><a href="javascript:flkty.select(7);">FINAL THOUGHTS</a></li>
+ <li><a href="javascript:flkty.select(9);">MAKING THIS HAPPEN</a></li>
+ <li><a href="javascript:flkty.select(16);">FINAL THOUGHTS</a></li>
 </ul>
 ![2022 IRONMAN Canada - Penticton](/assets/img/2022-ironman-canada.jpeg)
 ### IRONMAN YOUTUBE VIDEOS
