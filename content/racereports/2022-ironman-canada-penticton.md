@@ -11,15 +11,11 @@ This was my second Ironman distance event.  I hope you enjoy the read...
  <li><a href="javascript:flkty.select(16);">FINAL THOUGHTS</a></li>
 </ul>
 ![2022 IRONMAN Canada - Penticton](/assets/img/2022-ironman-canada.jpeg)
-### IRONMAN YOUTUBE VIDEOS
-<ul class="alt">
- <li><a href="https://youtu.be/IT2PVp_PstY" target="_blank">Race Preview</a></li>
-  <li><a href="https://youtu.be/3WEOmYirXj4" target="_blank">Race Day Recap &#42;IRONMAN Canada is Back&#42;</a></li>
- </ul>
- 
- 
-[Race Preview](https://youtu.be/IT2PVp_PstY)   
+
+### IRONMAN YOUTUBE VIDEO
 [Race Day Recap &#42;IRONMAN Canada is Back&#42;](https://youtu.be/3WEOmYirXj4)
+ 
+[Race Preview](https://youtu.be/IT2PVp_PstY)
 
 <!---->
 <h2 style="margin-bottom:4px;">THE SWIM - OKANAGAN LAKE</h2>
@@ -40,7 +36,7 @@ The 300m marker is to my right and I am on auto-pilot.  I feel great the entire 
 <h2 style="margin-bottom:4px;">THE ONE-LOOP BIKE COURSE</h2>
 A crowd has packed the street around the start of the bike course.  The cheering is incredible.  Heading south on _Main Street_ is emotional.  Maybe it was the effort from the swim.
 
-The residents along _Lakeside Road_ are out and cheering.  I see a large Canadian flag; close to that is an equally large Italian flag.  I call out, _"Forza Italia!"_  The family gives me an extra cheer!  As I ride away, I hear _"Forza Azzuri!"_
+The residents along _Lakeside Road_ are out and cheering.  I see a large Canadian flag; close to that is an equally large Italian flag.  I call out, _"Forza Italia!"_  The family gives me an extra cheer!  As I ride away, I hear _"Forza Azzurri!"_
 
 _McClean Creek Road_ is a hill.  I tackle it with as little effort possible.  The day is still too young.
 
@@ -48,9 +44,9 @@ Rolling into _Osoyoos_, I've spent the majority of _Highway 97_ in the aero-bars
 
 _Richter Pass_ is a slow and steady affair at least for the climb to the top.  The race to the valley below is a very different affair.
 
-If you passed me on the way up, don't worry, there are more up-hills for you to catch up to me again (maybe).  Zoommm!
+If you passed me on the way up, don't worry, there are more up-hills for you to catch up to me again (maybe). &nbsp;Zoommm!
 <!----->
-The distance from the between the Aid Station going up _Richter_ and the one in _Cawston_ is being felt.  My water bottle has been empty for some time and I can use a bio-break.  My lower back needs a break too.   Finally at kilometre 106, I that break is here.
+The distance from the between the Aid Station going up _Richter_ and the one in _Cawston_ is being felt.  My water bottle has been empty for some time and I can use a bio-break.  My lower back needs a break too.   Finally at kilometre 106, that  break is here.
 
 Leaving _Keremeos_, I have family on the roadside cheering me on.  Forty-something years ago, my aunt would have been babysitting me in a tiny town in _Northwestern Ontario_, now she is watching me, 110 kilometres into this bike ride.
 
@@ -61,7 +57,7 @@ The climb up to _Yellow Lake_ was a little easier with perspective.
 The kicker by the _Twin Lakes Golf Course_ is an out of the saddle, +150 BPM effort (highest of the day).  Despite the discomfort in my lower back, everything else is feeling really good.
 
 Zoommmm...   
-Lots of downhills for the trip to _Willowbrook_ is the reward for the climbing so far.
+Lots of downhills for the trip to _Willowbrook_ is the reward for all the climbing so far.
 
 The only out and back section of the bike course, finally gives me a chance to see my friend Kevin from _Victoria_.  I did some quick math and he's maybe 4 minutes behind and closing.
 
@@ -78,13 +74,13 @@ Jason is running beside me, his words of encouragement hit me well.  Instantly, 
 
 It is the rider behind me that is my motivation.  I wonder, _"Will Kevin catch me before we get back into town?"_
 
-Highway 97 is coned off for the cyclists and this is fast descent back to _Penticton_.  I pre-rode this segment a year ago and noted as the valley warmed, convective winds blowing uphill made for some tricky handling with a TT bike.  The wind I expected, is not nearly as intense today.
+Highway 97 is coned off for the cyclists and this is fast descent back to _Penticton_.  I pre-rode this segment a year ago and noted as the valley warmed, convective winds blowing uphill make for some tricky handling with a TT bike.  The wind I was expecting is not nearly as intense today.
 
 Head down and pressure on the pedals, Kevin is still coming.
 
-_Skaha Lake Road_ and I am back on the closed road into town.  This is my first look at the race leaders, almost half way done with the marathon.
+_Skaha Lake Road_ and I am back on the closed road into town.  This is my first look at the race leaders, almost half way done with their marathon.
 
-Looking at these runners feels incomprehensible.
+How these runners are moving is incomprehensible.
  
 ![](/assets/jpg/IMG_1340-977x550.jpeg EASTSIDE ROAD)
 
@@ -119,14 +115,14 @@ The south end of _Main Street_ becomes _Skaka Lake Road_ and where I thought I'd
 
 Northbound again, I see Kevin making his way south.  I give him a cheer and he cheers back.  How has he not passed me yet?
 
-_Lakeshore Drive_ and the sidewalks are packed, Lot's of cheering as fast kids are finishing up on the Red Carpet.  Keep going, my time will come.
+_Lakeshore Drive_ and the sidewalks are packed.  Lot's of cheering as the fast kids finish up on the Red Carpet.  Keep going, my time will come.
 
-_"Gatorade?"_    
+_"Gatorade here!"_    
 I am handed a cup and I put it down the hatch.  The residual carbonation, the acidity both hit the back of my throat.  It is Pepsi.  My stomach reacts and it is very uncomfortable.  With 17 kilometres of run course in front of me, I am turning off auto-pilot and going into problem solving mode.
 <!----> 
 My plan was to slowly consume a gel during the time between Aid Stations.  That plan is tossed.  
 
-The entire distance back to the southern end of the course, I have been fighting back the urge to vomit that cola.  In my hand is an opened, but barely consumed Maurten packet.  It has been there for the last 3 Aid Stations; time to toss it into the trash.
+The entire distance back to the southern end of the course, I have been fighting back the urge to vomit that cola.  In my hand is an opened, but barely consumed Maurten packet.  It has been there for the last 3 Aid Stations; time to place it in the trash.
 
 Less than 10 kilometres to go and the sun has just dipped below _Blue Mountain_.  I am sure Kevin has been saving himself for a kick to the finish.  After he catches me, I will give myself permission to walk for a little bit.
 
@@ -134,7 +130,7 @@ Less than 10 kilometres to go and the sun has just dipped below _Blue Mountain_.
 
 The watch says I'm running 6:45/km pace, my brain thinks I am travelling at 5:00/km.  I am as strong as I've ever been.
 
-I am an Ironman.
+&nbsp; &mdash; _I am an IRONMAN._
 
 ![](/assets/jpg/IMG_1309-366x550.jpeg RUNNING THE RED CARPET)
 <h2 style="margin-bottom:4px;">FINAL THOUGHTS</h2>
