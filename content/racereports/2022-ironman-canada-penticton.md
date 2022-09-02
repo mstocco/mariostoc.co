@@ -1,8 +1,6 @@
 # IRONMAN Canada &mdash; Penticton
-
 _August 28, 2022_
 
-![2022 IRONMAN Canada - Penticton](/assets/img/2022-ironman-canada.jpeg)
 This was my second Ironman distance event.  I hope you enjoy the read...
 
 ### SECTIONS
@@ -12,8 +10,14 @@ This was my second Ironman distance event.  I hope you enjoy the read...
  <li><a href="javascript:flkty.select(7);">MAKING THIS HAPPEN</a></li>
  <li><a href="javascript:flkty.select(7);">FINAL THOUGHTS</a></li>
 </ul>
-
+![2022 IRONMAN Canada - Penticton](/assets/img/2022-ironman-canada.jpeg)
 ### IRONMAN YOUTUBE VIDEOS
+<ul class="alt">
+ <li><a href="https://youtu.be/IT2PVp_PstY" target="_blank">Race Preview</a></li>
+  <li><a href="https://youtu.be/3WEOmYirXj4" target="_blank">Race Day Recap &#42;IRONMAN Canada is Back&#42;</a></li>
+ </ul>
+ 
+ 
 [Race Preview](https://youtu.be/IT2PVp_PstY)   
 [Race Day Recap &#42;IRONMAN Canada is Back&#42;](https://youtu.be/3WEOmYirXj4)
 
@@ -89,7 +93,7 @@ The long grass was cool and damp when I left transition this morning.  My bike i
 
 Ahead of me is the 12% grade of _Vancouver Avenue_.  People are running past me, I choose to walk up.
 
-I've run out of hill, my walk is over; time for me to get going, for real this time.  In front of me is 4 kilometres of and out and back section of the _Kettle Valley Rail Trail_ [KVR]. The surface is a very fine gravel, not quite sand but it still feels loose.
+I've run out of hill, my walk is over; time for me to get going, for real this time.  In front of me is 4 kilometres of an out and back section of the _Kettle Valley Rail Trail_ [KVR]. The surface is a very fine gravel, not quite sand but it still feels loose.
 
 This is the heat of the day and this trail is false-flat uphill.  My quads are noticing the grind.
 
@@ -126,11 +130,11 @@ The entire distance back to the southern end of the course, I have been fighting
 
 Less than 10 kilometres to go and the sun has just dipped below _Blue Mountain_.  I am sure Kevin has been saving himself for a kick to the finish.  After he catches me, I will give myself permission to walk for a little bit.
 
-5 kilometres to go and I spot Carina in the crowd again.  We make a plan to meet at the finish line in 30 minutes.  She's going for a pizza and a glass of wine, I set off to complete the task at hand.
+5 km to go and I spot Carina in the crowd again.  We make a plan to meet at the finish line in 30 minutes.  She's going for pizza and a glass of wine, I set off to complete this task at hand.
 
-The watch says I'm running 6:45/km pace, my brain thinks I am travelling at 5:00/km.
+The watch says I'm running 6:45/km pace, my brain thinks I am travelling at 5:00/km.  I am as strong as I've ever been.
 
-I am as strong as I've ever been and today I am an Ironman.
+I am an Ironman.
 
 ![](/assets/jpg/IMG_1309-366x550.jpeg RUNNING THE RED CARPET)
 <h2 style="margin-bottom:4px;">FINAL THOUGHTS</h2>
