@@ -111,21 +111,21 @@ If that cheer comes from a youngster, I make sure to tell him or her how awesome
 ![](/assets/jpg/IMG_1307-366x550.jpeg 20.2KM COMPLETE, 22 TO GO)
 Mentally, I am treating this first loop of _Penticton_ as a recon-mission; a preview of _"the real race"_ happening in a couple hours.
 
-The south end of _Main Street_ becomes _Shaka Lake Road_ and where I thought I'd be looking at those box stores, I only see people.  I get the sense that the crowds lining the street at this end of the course are predominantly locals.   There are lot's of people out cheers us on.
+The south end of _Main Street_ becomes _Skaka Lake Road_ and where I thought I'd be looking at those box stores, I only see people.  I get the sense that the crowds lining the street at this end of the course are predominantly locals.   There are lot's of people out cheers us on.
 
 Northbound again, I see Kevin making his way south.  I give him a cheer and he cheers back.  How has he not passed me yet?
 
 _Lakeshore Drive_ and the sidewalks are packed, Lot's of cheering as fast kids are finishing up on the Red Carpet.  Keep going, my time will come.
 
-_"Gatorade?"_   I am handed a cup and I put it down the hatch.  The residual carbonation, the acidity both hit the back of my throat.  It is Pepsi.  My stomach reacts and it is very uncomfortable.  With is 17 kilometres of run still in front of me, I am turning off auto-pilot and going into problem solving mode.
-<!-----> 
+_"Gatorade?"_   I am handed a cup and I put it down the hatch.  The residual carbonation, the acidity both hit the back of my throat.  It is Pepsi.  My stomach reacts and it is very uncomfortable.  With 17 kilometres of run still in front of me, I am turning off auto-pilot and going into problem solving mode.
+<!----> 
 My plan was to slowly consume a gel during the time between Aid Stations.  That plan is is no longer an option.  
 
-While covering the distance to the southern end of the course, I am fighting back the urge to vomit that cola.  I have been carrying an opened, but barely consumed Maurten packet through the last 3 Aid Stations; it is time to toss it into the trash.
+The entire distance to the southern end of the course, I have been fighting back the urge to vomit that cola.  In my hand is an opened, but barely consumed Maurten packet.  It has been there for the last 3 Aid Stations; time to toss it into the trash.
 
-I am confident that as soon as Kevin catches me, I will give myself permission to walk for a bit.
+Less than 10 kilometres to go and the sun has just dipped below _Blue Mountain_.  I am sure Kevin has been saving himself for a kick to the finish.  After he catches me, I will give myself permission to walk for a little bit.
 
-5 kilometres to go and I spot Carina in the crowd again.  We make a plan to meet at the finish line in 30 minutes.  She's going for a pizza and a glass of wine, I set off to get this task completed
+5 kilometres to go and I spot Carina in the crowd again.  We make a plan to meet at the finish line in 30 minutes.  She's going for a pizza and a glass of wine, I set off to complete the task at hand.
 
 ![](/assets/jpg/IMG_1309-366x550.jpeg RUNNING THE RED CARPET)
 <h2 style="margin-bottom:4px;">FINAL THOUGHTS</h2>
