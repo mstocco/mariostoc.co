@@ -40,17 +40,25 @@ Rolling into _Osoyoos_, I've spent the majority of _Highway 97_ in the aero-bars
 
 _Richter Pass_ is a slow and steady affair at least for the climb to the top.  The race to the valley below is a very different affair.
 
-If you passed me on the way up, don't worry, there are more up-hills for you to catch me again (maybe).  Zoommm!
+If you passed me on the way up, don't worry, there are more up-hills for you to catch up to me again (maybe).  Zoommm!
 <!----->
 The distance from the between the Aid Station going up _Richter_ and the one in _Cawston_ is being felt.  My water bottle has been empty for some time and I can use a bio-break.  My lower back needs a break too.   Finally at kilometre 106, I that break is here.
 
-Leaving _Keremeos_, I have family on the roadside cheering me on.  Forty-something years ago, my aunt would have been babysitting me in a tiny town in _Northwestern Ontario_, now she is watching me doing my best to save some energy for the next hill, Highway 3A up to _Yellow Lake_.
+Leaving _Keremeos_, I have family on the roadside cheering me on.  Forty-something years ago, my aunt would have been babysitting me in a tiny town in _Northwestern Ontario_, now she is watching me save some energy for the next hill, Highway 3A up to _Yellow Lake_.
+
+It is nice to have family and friends close to cheer me on but I experience a moment of perspective.
+
+Rolling through _Olalla_, a tiny community between _Keremeos_ and the hill in front of me, I spot an elderly woman, in front of her house along the highway.  She is happily cheering on the cyclists and their funny-looking bicycles.  Just a few weeks ago, this woman would have been evacuated from her home as a forest fire threatened to take everything she had.
+
+Perspective.
+
+<!----->
 
 The kicker by the golf course is an out of the saddle effort.  I despite my lower back, everything else is feeling really good.
 
 Zoommmm...  Lots of downhills for the trip to _Willowbrook_ are the reward for the climbing so far.  An out and back section finally gives me a chance to see my friend from _Victoria_.  I did some quick math and he's maybe just 4 minutes behind and closing.
-<!----->
-Climbing out of _Willowbrook_, I am thinking about my back and how soon before Kevin passes me.  
+
+It is nice to have family and friends close to cheer me on out of _Willowbrook_, I am thinking about my back and how soon before Kevin passes me.  
 
 The turn back on to _White Lake Road_, has a other crowd of people cheering on the participants.  _"Look at him, he is still smiling!"_  That was someone commenting about me!  I scan the crowd and see Katie and Jason, more friends of mine from _Victoria_. 
 
