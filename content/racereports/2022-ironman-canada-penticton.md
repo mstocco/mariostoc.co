@@ -147,10 +147,9 @@ IRONMAN may have brought the participants, but it was the people of _Penticton_ 
 <!---->
 <h2 style="margin-bottom:4px;">THANK YOU</h2>
 
-### VICTORIA TRIATHLETES
-Whether we know each other from Crystal Pool, other races or some other setting, seeing a familiar face in a crowd of strangers made for a better experience for me.
+VICTORIA TRIATHLETES &mdash; Whether we know each other from Crystal Pool, other races or some other setting, seeing a familiar face in a crowd of strangers made for a better experience for me.
 
-Kevin Nunn &bull; Matt Patriquin &bull; Jason Ball and Katie Quast &bull; Chris Mavrikos &bull; Jim Runkel &bull; Chritsy Gain &bull; Tammi Carter
+Jason Ball and Katie Quast &bull; Matt Patriquin &bull; Kevin Nunn &bull; Chris Mavrikos &bull; Jim Runkel &bull; Chritsy Gain &bull; Tammi Carter
 
 ---
 
@@ -162,6 +161,6 @@ My family in Osoyoos, Penny and David; thank you for opening up your home to us 
 
 ---
 
-To my number one fan and love of my life, Carina.  ❤️
+To my number one fan and the love of my life, Carina.  ❤️
 
 
