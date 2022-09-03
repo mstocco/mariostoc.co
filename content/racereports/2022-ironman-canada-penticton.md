@@ -71,11 +71,11 @@ Also in that same crowd, I see Katie and Jason, more friends of mine from _Victo
 <!----->
 Jason is running beside me, his words of encouragement hit me well.  Instantly, the pain in my lower back disappears.  I am back in the aero-bars, picking off every rider ahead of me.
 
-It is the rider behind me that is my motivation.  I wonder, _"Will Kevin catch me before we get back into town?"_
+But it's the rider behind me that is my motivation.  I am wondering, _"Will Kevin catch me before we get back into town?"_
 
 Highway 97 is coned off for the cyclists and this is fast descent back to _Penticton_.  I pre-rode this segment a year ago and noted as the valley warmed, convective winds blowing uphill make for some tricky handling with a TT bike.  The wind I was expecting is not nearly as intense today.
 
-Head down and pressure on the pedals, Kevin is still coming.
+Head down and pressure on the pedals, remember Kevin is still coming.
 
 _Skaha Lake Road_ and I am back on the closed road into town.  This is my first look at the race leaders, almost half way done with their marathon.  How these runners are moving is incomprehensible.
  
