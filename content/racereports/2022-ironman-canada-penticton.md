@@ -144,3 +144,24 @@ Pepsi is NOT my friend.
 Kevin never did catch me out on the course today, but his overall time was faster than mine.  Chapeau my friend, you were a part of what made my experience great.
 
 IRONMAN may have brought the participants, but it was the people of _Penticton_ that made this a truly memorable event.
+<!---->
+<h2 style="margin-bottom:4px;">THANK YOU</h2>
+
+### VICTORIA TRIATHLETES
+Whether we know each other from Crystal Pool, other races or some other setting, seeing a familiar face in a crowd of strangers made for a better experience for me.
+
+Kevin Nunn &bull; Matt Patriquin &bull; Jason Ball and Katie Quast &bull; Chris Mavrikos &bull; Jim Runkel &bull; Chritsy Gain &bull; Tammi Carter
+
+---
+
+Pattie Rosen, it was a sincere pleasure to spent time with you in _Penticton_.  Best wishes on your inspirational IRONMAN adventures.
+
+---
+
+My family in Osoyoos, Penny and David; thank you for opening up your home to us before the race and being there too experience the event right to the finish line.
+
+---
+
+To my number one fan and love of my life, Carina.  ❤️
+
+
