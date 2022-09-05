@@ -166,6 +166,11 @@ Coach Elliot Bassett, <a href="https://mtnendurance.com" target="_blank">Mountai
 
 ---
 
+<<<<<<< master
 To my number one fan and the love of my life, Carina.  ❤️
+=======
+To my number one fan and the love of my life,  
+Carina.  ❤️ She is beside me the entire time.
+>>>>>>> origin/master
 
 
