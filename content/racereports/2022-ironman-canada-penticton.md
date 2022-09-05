@@ -10,12 +10,13 @@ This was my second Ironman distance event.  I hope you enjoy the read...
  <li><a href="javascript:flkty.select(9);">MAKING THIS HAPPEN</a></li>
  <li><a href="javascript:flkty.select(16);">FINAL THOUGHTS</a></li>
 </ul>
-![2022 IRONMAN Canada - Penticton](/assets/img/2022-ironman-canada.jpeg)
 
 ### IRONMAN YOUTUBE VIDEO
 [Race Day Recap &#42;IRONMAN Canada is Back&#42;](https://youtu.be/3WEOmYirXj4)
  
-[Race Preview](https://youtu.be/IT2PVp_PstY)
+![2022 IRONMAN Canada - Penticton](/assets/img/2022-ironman-canada.jpeg)
+
+<!-- [Race Preview](https://youtu.be/IT2PVp_PstY) -->
 
 <!---->
 <h2 style="margin-bottom:4px;">THE SWIM - OKANAGAN LAKE</h2>
@@ -40,9 +41,9 @@ The residents along _Lakeside Road_ are out and cheering.  I see a large Canadia
 
 _McClean Creek Road_ is a hill.  I tackle it with as little effort possible.  The day is still too young.
 
-Rolling into _Osoyoos_, I've spent the majority of _Highway 97_ in the aero-bars; my lumber is starting to act up.  
+65 kilometres to _Osoyoos_, I've spent the majority of _Highway 97_ in the aero-bars; my lumber is starting to act up.  
 
-_Richter Pass_ is a slow and steady affair at least for the climb to the top.  The race to the valley below is a very different affair.
+_Richter Pass_ is a slow and steady affair at least for the climb to the summit.  The race to the valley below is a very different affair.
 
 If you passed me on the way up, don't worry, there are more up-hills for you to catch up to me again (maybe). &nbsp;Zoommm!
 <!----->
@@ -77,7 +78,7 @@ Highway 97 is coned off for the cyclists and this is fast descent back to _Penti
 
 Head down and pressure on the pedals, remember Kevin is still coming.
 
-_Skaha Lake Road_ and I am back on the closed road into town.  This is my first look at the race leaders, almost half way done with their marathon.  How these runners are moving is incomprehensible.
+_Skaha Lake Road_ and I am back on the closed road into town.  This is my first look at the race leaders, almost half way done with their marathon.  How fast these runners are moving is incomprehensible.
  
 ![](/assets/jpg/IMG_1340-977x550.jpeg EASTSIDE ROAD)
 
@@ -115,7 +116,7 @@ Northbound again, I see Kevin making his way south.  I give him a cheer and he c
 _Lakeshore Drive_ and the sidewalks are packed.  Lot's of cheering as the fast kids finish up on the Red Carpet.  Keep going, my time will come.
 
 &nbsp; _"Gatorade here!"_    
-I am handed a cup and I put it down the hatch.  The residual carbonation, the acidity both hit the back of my throat.  It is Pepsi.  My stomach reacts and it is very uncomfortable.  With 17 kilometres of run course in front of me, I am turning off auto-pilot and going into problem solving mode.
+I am handed a cup and I put it down the hatch.  Residual carbonation and acidity hit my gut and the reaction is instant.  It's Pepsi and this is very uncomfortable.  With 17 kilometres of run course in front of me, I am turning off auto-pilot and going into problem solving mode.
 <!----> 
 My plan was to slowly consume a gel during the time between Aid Stations.  That plan is tossed.  
 
@@ -127,11 +128,11 @@ Less than 10 kilometres to go and the sun has just dipped below _Blue Mountain_.
 
 The watch says I'm running 6:45/km pace, my brain thinks I am travelling at 5:00/km.  I am as strong as I've ever been.
 
-&nbsp; &mdash; _I am an IRONMAN._
+&nbsp; &mdash; _I am an IRONMAN._ <small>(again)</small>
 
 ![](/assets/jpg/IMG_1309-366x550.jpeg RUNNING THE RED CARPET)
 <h2 style="margin-bottom:4px;">FINAL THOUGHTS</h2>
-I did feel hungry on the final leg of the swim, maybe I could have ate more for breakfast.
+I felt hungry on the final leg of the swim, maybe I could have ate more for breakfast.
 
 I fuelled on the bike with two aero bottles, 400ml of maple syrup in one, 350ml and a splash of coffee in the second.  I also had a Maurten gel during the first half of the ride.  ~2850 calories total.
 
@@ -147,17 +148,21 @@ IRONMAN may have brought the participants, but it was the people of _Penticton_ 
 <!---->
 <h2 style="margin-bottom:4px;">THANK YOU</h2>
 
-VICTORIA TRIATHLETES &mdash; Whether we know each other from Crystal Pool, other races or some other setting, seeing a familiar face in a crowd of strangers made for a better experience for me.
+VICTORIA TRIATHLETES &mdash; Whether we know each other from the pool, other races or another setting, seeing a familiar face in a crowd of strangers made for a better experience for me.
 
-Jason Ball and Katie Quast &bull; Matt Patriquin &bull; Kevin Nunn &bull; Chris Mavrikos &bull; Jim Runkel &bull; Chritsy Gain &bull; Tammi Carter
-
----
-
-Pattie Rosen, it was a sincere pleasure to spent time with you in _Penticton_.  Best wishes on your inspirational IRONMAN adventures.
+Kevin Nunn &bull; Matt Patriquin &bull; Jason Ball and Katie Quast &bull; Chris Mavrikos &bull; Jim Runkel &bull; Christy Gain &bull; Tammi Carter
 
 ---
 
-My family in Osoyoos, Penny and David; thank you for opening up your home to us before the race and being there too experience the event right to the finish line.
+Pattie Rosen, it was a sincere pleasure meeting you in _Penticton_.  Best wishes on your inspirational IRONMAN adventures.
+
+---
+
+Penny and David, thank you for opening up your home to us before the race and cheering right to the finish line.
+
+---
+
+Coach Elliot Bassett, <a href="https://mtnendurance.com" target="_blank">Mountain Endurance</a><br />The strategic mastermind behind my daily preparation.
 
 ---
 
