@@ -52,8 +52,8 @@ class Website:
 			for root, dirs, files in os.walk(targetdir):
 				for filename in files:
 					if directory == 'traininglog':
-						if filename == 'index.html':
-							continue
+						if filename == 'index.html': continue
+						if filename.find('calendar-') == 0: continue
 					target = '%s/%s' % (root, filename)
 					print('  - %s' % target.replace(self.public, ''))
 					os.remove(target)
