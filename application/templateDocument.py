@@ -60,7 +60,6 @@ class TemplateDocument(HTML5Document):
 					self.carousel.append(section)
 					lines = []
 					if line.find('<!----->') == 0:
-						print(line)
 						lines.append('<div style="height:27px;"></div>')
 				elif line.find('![') == 0 and line.find('x550') > 1:
 					if len(lines) > 0:
