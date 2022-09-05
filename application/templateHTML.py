@@ -136,7 +136,7 @@ class Navigation(NAV):
 		self.links.append({'href':'/racereports/', 'label':'RACE REPORTS'})
 		self.links.append({'href':'/blog/', 'label':'THINGS I\'VE WRITTEN'})
 		self.links.append({'href':'/pictures/', 'label':'PICTURES I\'VE TAKEN'})
-		self.links.append({'href':'/about', 'label':'ABOUT'})
+		self.links.append({'href':'/about', 'label':'ABOUT ME'})
 		input1 = INPUT({"name":"q","id":"q","type":"text","maxlength":"200","placeholder":"search..."})
 		input2 = INPUT({"name":"q","type":"hidden","value":"site:mariostoc.co"})
 		google = FORM({"action":"https://google.com/search"})
