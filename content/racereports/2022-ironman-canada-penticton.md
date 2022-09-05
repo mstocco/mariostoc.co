@@ -11,16 +11,16 @@ This was my second Ironman distance event.  I hope you enjoy the read...
  <li><a href="javascript:flkty.select(16);">FINAL THOUGHTS</a></li>
 </ul>
 
+![2022 IRONMAN Canada - Penticton](/assets/img/2022-ironman-canada.jpeg)
+
 ### IRONMAN YOUTUBE VIDEO
 [Race Day Recap &#42;IRONMAN Canada is Back&#42;](https://youtu.be/3WEOmYirXj4)
- 
-![2022 IRONMAN Canada - Penticton](/assets/img/2022-ironman-canada.jpeg)
 
 <!-- [Race Preview](https://youtu.be/IT2PVp_PstY) -->
 
 <!---->
 <h2 style="margin-bottom:4px;">THE SWIM - OKANAGAN LAKE</h2>
-So much made about the temperature of the lake.  I never did get hear the measured temperature but over the loud speaker it is announced that wetsuits are a go.  Nothing left to do here, it is time to leave my spot in the transition area and make my way into the lake.
+So much made about the temperature of the lake.  I never did hear the exact temperature but over the loud speaker it is announced that wetsuits are a go.  Nothing left to do here, it is time to leave my spot in the transition area and make my way into the lake.
 
 I have time for a warm-up swim.  The water is warmer than the air.  I feel ready to swim.
 
@@ -41,7 +41,7 @@ The residents along _Lakeside Road_ are out and cheering.  I see a large Canadia
 
 _McClean Creek Road_ is a hill.  I tackle it with as little effort possible.  The day is still too young.
 
-65 kilometres to _Osoyoos_, I've spent the majority of _Highway 97_ in the aero-bars; my lumber is starting to act up.  
+65 kilometres to _Osoyoos_, I've spent the majority of _Highway 97_ in the aero-bars; my lumbar is starting to act up.  
 
 _Richter Pass_ is a slow and steady affair at least for the climb to the summit.  The race to the valley below is a very different affair.
 
@@ -132,7 +132,7 @@ The watch says I'm running 6:45/km pace, my brain thinks I am travelling at 5:00
 
 ![](/assets/jpg/IMG_1309-366x550.jpeg RUNNING THE RED CARPET)
 <h2 style="margin-bottom:4px;">FINAL THOUGHTS</h2>
-I felt hungry on the final leg of the swim, maybe I could have ate more for breakfast.
+I felt hungry on the final leg of the swim, maybe I could have had more for breakfast.
 
 I fuelled on the bike with two aero bottles, 400ml of maple syrup in one, 350ml and a splash of coffee in the second.  I also had a Maurten gel during the first half of the ride.  ~2850 calories total.
 
@@ -166,11 +166,8 @@ Coach Elliot Bassett, <a href="https://mtnendurance.com" target="_blank">Mountai
 
 ---
 
-<<<<<<< master
-To my number one fan and the love of my life, Carina.  ❤️
-=======
 To my number one fan and the love of my life,  
 Carina.  ❤️ She is beside me the entire time.
->>>>>>> origin/master
+
 
 
