@@ -11,7 +11,6 @@ Racing is just one day, the time in between is where the magic happens for me an
  <li class="item"><a href="javascript:flkty.select(6);">2021Victoria Half and Sprint Triathon</a></li>
 </ul>
 
-
 <!---->
 ![2022 IRONMAN Canada - Penticton](/assets/img/2022-ironman-canada.jpeg)
 _Sunday, August 28, 2022_
@@ -62,7 +61,7 @@ _Sunday, August 28, 2022_
  </table>
 
 ### SUMMARY
-What a day.
+What a day.  Well paced wetsuit swim, gave up time on the bike (QL) and then had maybe one of the best runs in my life.  Penticton was awesome.
 
 [READ MORE](2022-ironman-canada-penticton)
 
@@ -123,7 +122,6 @@ _Sunday, July 17, 2022_
 ![2022 IRONMAN 70.3 - Victoria](/assets/img/2022-ironman703-victoria.jpeg)
 _Sunday, May 29, 2022_
 
-### RESULT
 <table style="margin-bottom:18px;">
  <tr>
   <td style="width:80px;border-bottom:1px solid black;"></td>
@@ -224,7 +222,7 @@ _Saturday, September 18, 2021_
  </table>
 
 ### SUMMARY
-My first IRONMAN!  Wetsuit swim in the Adriatic Sea was fast (probably tide assisted).  I've never ridden a bike for 180kms and set a 40km PR on the last 40km.  The ultimate introduction to IRONMAN started after 19km into the run.  Unforgettable.
+My first IRONMAN!  Wetsuit swim in the _Adriatic_ was probably tide assisted.  First ride of 180km with a 40km PR on the last 40km.  The ultimate introduction to IRONMAN started 19km into the run.  Unforgettable.
 
 [READ MORE](2021-ironman-italy-emilia-romagna)
 
