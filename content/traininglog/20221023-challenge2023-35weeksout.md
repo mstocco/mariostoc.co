@@ -17,7 +17,7 @@ I was consistent with the workouts and got a big win at work on [Friday](javascr
 
 The weather is certainly wintertime in the PNW.
 
-![Celebrating the end of a productive week with Carina at the top of the Malahat.](/assets/jpg/IMG_4402-977x550 Villa Eyrie Resort)
+![Celebrating the end of a productive week with Carina at the top of the Malahat.](/assets/jpg/IMG_4402-977x550.jpeg Villa Eyrie Resort)
 
 ## SUNDAY OCT 23 ⛅️
 Sleep **4** | Fatigue **2** | Stress **4** | Soreness **5**
@@ -30,7 +30,7 @@ Ride 60 minutes easy on the trainer. Nice and light. Only add resistance if you 
 Mobility 15 minutes
 
 ### NOTES
-Total Time: **60 Minutes**
+Total Time: **60 Minutes** &nbsp; Trainer: **128W**
 
 One hour, mostly on the bullhorns, and mostly around ~120W.  I don't know how accurate the zones are set up for me but Garmin marked a good amount of my time in Z3.  Lower back held up, but the bruised tissue is still sore.
 
@@ -46,12 +46,14 @@ Swim 1500:
 2x 50 super easy to cool down.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Swim: **1500m**
 
-&mdash;  
+I felt every stroke with my right arm in my mid-back.  1500m was about the most that injury site was willing to take.  Spent time in the hot tub afterwards too.
+
+I drove to and from the pool; parking a bit away to get some steps in.
 
 <!---->
-## TUESDAY OCT 25
+## TUESDAY OCT 25 ⛅️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -61,7 +63,7 @@ Walk ~ 75 minutes. Out for a long walk. Still going flat. But it's not a short j
 Mobility 15 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Walk: **5 km**
 
 &mdash;  
 
@@ -75,7 +77,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 Trainer ~ 60 minutes. Still riding really easy. Still on the trainer.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **60 Minutes** &nbsp; Trainer: **W**
 
 &mdash;  
 
@@ -97,8 +99,10 @@ Mobility 20 minutes
 ### NOTES
 Total Time: **0 Minutes** &nbsp; Swim: **1800m**
 
-Rode to the pool and once on deck, saw that the 50m lanes were still in.  I jumped in and swam 300m easy before the change over.  It wasn't long for the lifeguards to get the 25m lanes set up an once they finished, I started today's workout from the start.  The swim clubs started at 1600 and 200m into the last of rep of the main set, the clock was 1559.  I called it a day and headed to the hot tub and put a jet on my lumber.
 
+Once on deck, saw that the 50m lanes were still in.  I jumped in and swam 300m easy before the change over.  It wasn't long for the lifeguards to get the 25m lanes set up an once they finished, I started today's workout from the start.  The swim clubs started at 1600 and 200m into the last of rep of the main set, the clock was 1559.  I called it a day and headed to the hot tub and put a jet on my lumber.
+
+Rode to and from the pool.
 <!---->
 ## FRIDAY OCT 28 ⛅️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
