@@ -7,13 +7,13 @@ Week beginning [Sunday, October 23, 2022](javascript:flick('sun');)
 Get _"back"_ to training, slowly.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **+6 Hours**
 
-I feel like I was **PAST PRECARIOUS**
+I feel like I was **LEAVING PRECARIOUS BEHIND**
 
 This week was done with an abundance of caution to give my back a chance at getting healthy.  By the time [Saturday](javascript:flick('sat');) rolled around, my back was in a much better spot.
 
-I was consistent with the workouts and got a big win at work on [Friday](javascript:flick('fri');) too.
+I was consistent with the workouts and got a big win at work on [Friday](javascript:flick('fri');) too.  Sleep quality improved as my back improved.
 
 The weather is certainly wintertime in the PNW.
 
@@ -30,7 +30,7 @@ Ride 60 minutes easy on the trainer. Nice and light. Only add resistance if you 
 Mobility 15 minutes
 
 ### NOTES
-Total Time: **60 Minutes** &nbsp; Trainer: **128W**
+Total Time: **60 Minutes** &nbsp; Trainer: **129W Avg** 
 
 One hour, mostly on the bullhorns, and mostly around ~120W.  I don't know how accurate the zones are set up for me but Garmin marked a good amount of my time in Z3.  Lower back held up, but the bruised tissue is still sore.
 
@@ -46,7 +46,7 @@ Swim 1500:
 2x 50 super easy to cool down.
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Swim: **1500m**
+Total Time: **40 Minutes** &nbsp; Swim: **1500m**
 
 I felt every stroke with my right arm in my mid-back.  1500m was about the most that injury site was willing to take.  Spent time in the hot tub afterwards too.
 
@@ -63,9 +63,10 @@ Walk ~ 75 minutes. Out for a long walk. Still going flat. But it's not a short j
 Mobility 15 minutes
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Walk: **5 km**
+Total Time: **67 Minutes** &nbsp; Walk: **5.3 km**
 
-&mdash;  
+Walk with Carina.
+![](/assets/jpg/walk-20221025.jpeg)
 
 <!---->
 ## WEDNESDAY OCT 26
@@ -77,9 +78,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 Trainer ~ 60 minutes. Still riding really easy. Still on the trainer.
 
 ### NOTES
-Total Time: **60 Minutes** &nbsp; Trainer: **W**
+Total Time: **60 Minutes** &nbsp; Trainer: **129W NP**
 
-&mdash;  
+Time on the trainer after a long day at work.
 
 <!---->
 ## THURSDAY OCT 27 🌦
@@ -97,7 +98,7 @@ Swim 1700:
 Mobility 20 minutes
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Swim: **1800m**
+Total Time: **45 Minutes** &nbsp; Swim: **1800m**
 
 
 Once on deck, saw that the 50m lanes were still in.  I jumped in and swam 300m easy before the change over.  It wasn't long for the lifeguards to get the 25m lanes set up an once they finished, I started today's workout from the start.  The swim clubs started at 1600 and 200m into the last of rep of the main set, the clock was 1559.  I called it a day and headed to the hot tub and put a jet on my lumber.
@@ -132,6 +133,6 @@ Option B: MTB ~ 75-90 minutes. Nice easy spin. Flat route. Goose, Lochside, or e
 Mobility 18 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
-
-&mdash;  
+Total Time: **50 Minutes** &nbsp; Trainer: **127W NP**
+ 
+Big day for yard-work before the next "atmospheric river" arrives tonight.  Most of my time was on the steeper pitch of the garage roof removing moss and cutting back branches.  After dinner, I jumped on the trainer and pedalled easy; I cut it short thinking about the day's load on my back.  
