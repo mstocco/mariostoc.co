@@ -34,7 +34,7 @@ In between periods of heavy rain and before the Seahawks game, I got 40 minutes 
 
 <!---->
 ## MONDAY OCT 31 🎃
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -48,13 +48,16 @@ Swim 1700:
 Mobility 17 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **41 Minutes** &nbsp; Swim: **1700m**
 
-&mdash;  
+Drove to the pool after work; the pool was quiet (kids had other plans).
 
+I pushed a bit harder on 10x100 set.  Started with a 1:41 and watched the fade to 1:47 for the later reps.  Finished strong with another 1:41 on the final 100.  All touch turns and my back is feeling good (not perfect).
+
+Carved a pumpkin](javascript:flkty.select(2);) once I got home.
 <!---->
 ## TUESDAY NOV 1
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **3** | Fatigue **2** | Stress **3** | Soreness **2**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
