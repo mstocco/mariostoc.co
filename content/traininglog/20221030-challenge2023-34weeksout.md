@@ -14,10 +14,10 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![Carved this guy after the swim on Monday afternoon.](/assets/jpg/IMG_4412-977x550.jpeg Halloween 2022)
 
-## SUNDAY OCT 30
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SUNDAY OCT 30 🌧
+Sleep **2** | Fatigue **2** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -28,12 +28,12 @@ Run 30 minutes flat and easy.
 20 minutes walking to cool down/finish up. 
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Run Time: **40 Minutes** &nbsp; Distance: **6.3 km**
 
-&mdash;  
+In between periods of heavy rain and before the Seahawks game, I got 40 minutes of continuous running in.  I felt comfortable and ran mostly on the dirt of the _Colquitz River Trail_.   Walking time was a little over 10 minutes.  I had a good stretch afterwards, during the game.
 
 <!---->
-## MONDAY OCT 31
+## MONDAY OCT 31 🎃
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -112,7 +112,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 Same as [Tuesday](javascript:flick('tue');). 
 Trainer ~ 60 minutes.
 Nice and easy. HR 130 or less for the entire ride.
-
+6
 Mobility 20 minutes
 
 ### NOTES
