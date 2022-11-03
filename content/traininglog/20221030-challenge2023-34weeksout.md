@@ -54,9 +54,9 @@ Drove to the pool after work; the pool was quiet (kids had other plans).
 
 I pushed a bit harder on 10x100 set.  Started with a 1:41 and watched the fade to 1:47 for the later reps.  Finished strong with another 1:41 on the final 100.  All touch turns and my back is feeling good (not perfect).
 
-Carved a pumpkin](javascript:flkty.select(2);) once I got home.
+Carved a [pumpkin](javascript:flkty.select(2);) once I got home.
 <!---->
-## TUESDAY NOV 1
+## TUESDAY NOV 1 ⛅️
 Sleep **3** | Fatigue **2** | Stress **3** | Soreness **2**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -65,13 +65,16 @@ Trainer ~ 60 minutes.
 Nice and easy. HR 130 or less for the entire ride.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **60 Minutes** &nbsp; Trainer: **116 W NP**
 
-&mdash;  
+Time and work didn't allow for the opportunity to right in nice weather; on the trainer after dinner.
+
+Mixed in some subtle variation.  Back held
+![Trainer](/assets/jpg/image.jpeg)
 
 <!---->
-## WEDNESDAY NOV 2
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY NOV 2 🌦
+Sleep **3** | Fatigue **2** | Stress **4** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -84,13 +87,13 @@ Run 30 minutes nice and easy.
 Mobility 21 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Run Time: **0 Minutes** Distance: **0 km**
 
 &mdash;  
 
 <!---->
-## THURSDAY NOV 3
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY NOV 3 🌧
+Sleep **3** | Fatigue **3** | Stress **5** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -102,9 +105,11 @@ Swim 1900:
 2x 50 super easy to cool down.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **46 Minutes** &nbsp; Swim: **1900m**
 
-&mdash;  
+Miserable, cold, wet weather for the ride to and from the pool.  I was going to get wet anyway...
+
+Swam with the 50m lanes in place.  It wasn't that big of a deal as it used to be (mentally it used to feel like forever to get to the far wall).  I did my best to get the descending sets in.  After 1900m, I considered doing a few more lengths but decided to stick to the plan and pedalled home instead.
 
 <!---->
 ## FRIDAY NOV 4
