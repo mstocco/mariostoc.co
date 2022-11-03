@@ -70,7 +70,7 @@ Total Time: **60 Minutes** &nbsp; Trainer: **116 W NP**
 Time and work didn't allow for the opportunity to right in nice weather; on the trainer after dinner.
 
 Mixed in some subtle variation.  Back held
-![Trainer](/assets/jpg/image.jpeg)
+![Trainer](/assets/jpg/bike-20221101.jpeg)
 
 <!---->
 ## WEDNESDAY NOV 2 🌦
@@ -87,9 +87,10 @@ Run 30 minutes nice and easy.
 Mobility 21 minutes
 
 ### NOTES
-Run Time: **0 Minutes** Distance: **0 km**
+Run Time: **50 Minutes** Distance: **7.8 km**
 
-&mdash;  
+Weather was nice!
+![Run](/assets/jpg/image.jpeg)
 
 <!---->
 ## THURSDAY NOV 3 🌧
@@ -107,7 +108,7 @@ Swim 1900:
 ### NOTES
 Total Time: **46 Minutes** &nbsp; Swim: **1900m**
 
-Miserable, cold, wet weather for the ride to and from the pool.  I was going to get wet anyway...
+Miserable, cold, wet weather for the ride to and from the pool.  I was going toget wet anyway...
 
 Swam with the 50m lanes in place.  It wasn't that big of a deal as it used to be (mentally it used to feel like forever to get to the far wall).  I did my best to get the descending sets in.  After 1900m, I considered doing a few more lengths but decided to stick to the plan and pedalled home instead.
 
