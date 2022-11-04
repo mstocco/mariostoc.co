@@ -25,20 +25,35 @@ class TemplateDocument(HTML5Document):
 		"""
 		with open(contentPath, 'r', encoding='utf-8') as fileobj:
 			content = fileobj.read().strip()
-		
-		if self.documentURI.find('/traininglog/ironman') == 0:
-			self.body.onload = 'javascript:scroll();'
-			week = self.documentURI.split('-')[1].split('week')[0]
-			self.navigation.traininglog = True
-			self.navigation.week = week
-			if week == 'race':
-				self.title = 'IRONMAN CANADA RACE WEEK'
-				self.description = "This is Ironman Canada race week 2021!"
-			else:
-				self.title = "IMCanada Training %s Weeks To Go" % week
-				self.description = "My week of training with %s weeks to go before IRONMAN Canada-Penticton" % week
-			self.opengraph.title = self.title
-		else:
+
+
+		traininglog = False
+		for goalrace in ['ironman','challenge']:
+			if self.documentURI.find('/traininglog/%s' % goalrace) == 0:
+				traininglog = True
+				self.body.onload = 'javascript:scroll();'
+				week = self.documentURI.split('-')[1].split('week')[0]
+				self.navigation.traininglog = True
+				self.navigation.week = week
+
+				if goalrace == 'challenge':
+					self.title = 'Challenge Roth - %s Weeks Out' % week
+					self.description = 'My training log %s weeks out from Challenge Roth' % week
+					if week == 'race':
+						self.title = 'CHALLENGE ROTH RACE WEEK'
+						self.description = 'My race week training log for Challenge Roth'
+
+				else:
+					self.title = 'IRONMAN Canada Training - %s Weeks Out' % week
+					self.description = 'My training log, %s weeks before IRONMAN Canada-Penticton' % week
+					if week == 'race':
+						self.title = 'IRONMAN CANADA RACE WEEK'
+						self.description = 'This is Ironman Canada race week 2022!'
+
+				self.opengraph.title = self.title
+				break
+				
+		if not traininglog:
 			for line in content.split('\n'):
 				if len(line) > 1 and line[0] == '#':
 					self.title = line.replace('#', '').strip()
