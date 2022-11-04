@@ -69,7 +69,7 @@ Total Time: **60 Minutes** &nbsp; Trainer: **116 W NP**
 
 Time and work didn't allow for the opportunity to right in nice weather; on the trainer after dinner.
 
-Mixed in some subtle variation.  Back held
+Mixed in some subtle variation.  QL/back held up as I was pedalling in the aero position for the majority of the hour.
 ![Trainer](/assets/jpg/bike-20221101.jpeg)
 
 <!---->
