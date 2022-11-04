@@ -90,7 +90,7 @@ Mobility 21 minutes
 Run Time: **50 Minutes** Distance: **7.8 km**
 
 Weather was nice!
-![Run](/assets/jpg/image.jpeg)
+![Run](/assets/jpg/run-20221102.jpeg)
 
 <!---->
 ## THURSDAY NOV 3 🌧
