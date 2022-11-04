@@ -13,16 +13,18 @@ class CalendarMonth(DIV):
 	def __init__(self, yyyy, mm):
 
 		triathlons = []
-		triathlons.append(date(2022,8,28))    # IRONMAN Canada 2022
-		triathlons.append(date(2022,5,29))    # Victoria 70.3
-		triathlons.append(date(2022,7,17))    # Victoria Half and Sprint
+		triathlons.append(date(2023,6,25))    # Challenge Roth
+		triathlons.append(date(2023,5,28))    # Victoria 70.3
+		triathlons.append(date(2023,5,14))    # Westwood Standard
 
 		keydates = []
-		keydates.append(date(2022,4,24))	# TC10K
+		keydates.append(date(2023,1,22))	# CV Half Marathon
+		keydates.append(date(2023,3,12))	# CV Half Marathon
+		keydates.append(date(2023,4,23))	# TC10K
 
-		imc = triathlons[0]	# IronMan Canada
+		goalrace = triathlons[0]
 		imitaly = date(2021,9,18)
-		trainingStart = date(2021,10,10)
+		trainingStart = date(2022,10,2)
 
 		dateobj = date(yyyy, mm, 1)
 		h4 = H4({'style':'margin:0;'})
@@ -47,40 +49,42 @@ class CalendarMonth(DIV):
 			td = TD()
 			style = {'style':'text-align:right;padding:0 2px;margin:0;width:25px;'}
 			if calDate.month != mm:
-				style['style'] = '%s;color:#ddd;' % style['style']
+				style['style'] = '%scolor:#ddd;' % style['style']
 			elif calDate.month == 9:
 				if calDate == imitaly:
-					style['style'] = '%s;font-weight:bold;text-decoration:underline;font-size:1.17em;background-color:#33B8FF;' % style['style']
+					style['style'] = '%sfont-weight:bold;text-decoration:underline;font-size:1.17em;background-color:#33B8FF;' % style['style']
 				else:
-					style['style'] = '%s;color:#ddd;' % style['style']
+					style['style'] = '%scolor:#ddd;' % style['style']
 			else:
 				if calDate <= date.today():
 					if calDate < trainingStart:
-						style['style'] = '%s;color:#ddd;' % style['style']
+						style['style'] = '%scolor:#ddd;' % style['style']
 					elif calDate > date(2021,11,13) and calDate < date(2021,12,19):
-						style['style'] = '%s;color:orange;' % style['style']
+						style['style'] = '%scolor:orange;' % style['style']
 					else:
-						style['style'] = '%s;background-color:greenyellow;' % style['style']
+						style['style'] = '%sbackground-color:greenyellow;' % style['style']
 				if calDate in triathlons:
-					style['style'] = '%s;font-weight:bold;text-decoration:underline;font-size:1.17em;background-color:#33B8FF;' % style['style']
+					style['style'] = '%sfont-weight:bold;text-decoration:underline;font-size:1.17em;background-color:#33B8FF;' % style['style']
 				elif calDate in keydates:
-					style['style'] = '%s;font-weight:bold;text-decoration:underline;font-size:1.17em;background-color:#BCE8FF;' % style['style']
+					style['style'] = '%sfont-weight:bold;text-decoration:underline;font-size:1.17em;background-color:#BCE8FF;' % style['style']
 
 			td.style = style['style']
 			td.innerHTML = str(calDate.day)
 			if daynum % 7 == 0:
-				wtg = imc - calDate
+				wtg = goalrace - calDate
 				if daynum > 0:
 					tbody.append(tr)
 				weeknum = int(wtg.days / 7)
-				href = 'ironman2022-%dweeksout' % weeknum
+				#href = 'ironman2022-%dweeksout' % weeknum
+				href = 'challenge2023-%dweeksout' % weeknum
 
 				wk = TD({'style':'text-align:center;padding:0 2px;margin:0;width:35px;'})
 				if weeknum < 47:
 					wk.append(str(weeknum))
 					if weeknum < 2:
 						wk.innerHTML = 'RACE'
-						href = 'ironman2022-raceweek'
+						#href = 'ironman2022-raceweek'
+						href = 'challenge2023-raceweek'
 						if weeknum < 1:
 							wk.innerHTML = '-'
 					if calDate <= date.today():
@@ -107,8 +111,8 @@ class CalendarMonth(DIV):
 		table.append(thead)
 		table.append(tbody)
 		div = DIV({'style':'height:162px;'})
-		if yyyy == 2020:
-			div.style = 'height:142px;border-bottom:1px solid #ddd;'
+		if yyyy == 2022:
+			div.style = 'height:152px;border-bottom:1px solid #ddd;'
 		div.append(table)
 		self.append(div)
 
@@ -124,19 +128,19 @@ class CalendarMonths(DIV):
 
 
 class IronmanCalendar(TemplateDocument):
-	""" A html representation of my 12 month lead up
-	    to Ironman Canada - Penticton.  Eash calendar
-		is an HTML table and when rendered, will highlight
-		days completed and any special days that I want to
-		make note of.  Clicking a week takes you to that
-		training log webpage.
+	""" A html representation of my lead up to my next
+	    goal race. Each calendar is an HTML table and when
+		rendered, will highlight days completed and any 
+		special days that I want to make note of.  Clicking
+		a week takes you to that training log webpage.
 	"""
 	def template(self):
 		self.version = date.today().isoformat()
 		self.domain = 'mariostoc.co'
+		self.title = 'Training Calendar 2023'
 		self.documentURI = '/traininglog/calendar'
-		self.description = 'Training Calendar - Ironman 2021'
-		self.lastModified = 20210611
+		self.description = 'Training Calendar - Challenge Roth 2023'
+		self.lastModified = 20220905
 		self.masthead = Masthead()
 		self.navigation = Navigation()
 		self.carousel = Carousel()
@@ -154,30 +158,31 @@ class IronmanCalendar(TemplateDocument):
 		carouselCells.append(CalendarMonths())
 		carouselCells.append(CalendarMonths())
 		carouselCells.append(CalendarMonths())
-		carouselCells.append(CalendarMonths())
-		carouselCells.append(CalendarMonths())
+		
 		
 		div = DIV({'style':'height:32px;'})
-		carouselCells[3].append(div)
+		#carouselCells[3].append(div)
 		carouselCells[2].append(div)
 		carouselCells[1].append(div)
-		div.innerHTML = H1('IRONMAN TRAINING 2022').tohtml()
+		div.innerHTML = H2('CHALLENGE ROTH TRAINING 2023').tohtml()
 		carouselCells[0].append(div)
 
-		mm = 9
-		yyyy = 2021
+		mm = 10
+		yyyy = 2022
 		for r in range(3):
 			carouselCells[0].append(CalendarMonth(yyyy, mm))
 			carouselCells[1].append(CalendarMonth(yyyy, (mm + 1)))
 			carouselCells[2].append(CalendarMonth(yyyy, (mm + 2)))
-			carouselCells[3].append(CalendarMonth(yyyy, (mm + 3)))
-			mm = (mm + 4)
+			#carouselCells[3].append(CalendarMonth(yyyy, (mm + 3)))
+			mm = (mm + 3)
 			if mm > 12:
 				mm = 1
-				yyyy = 2022
+				yyyy = 2023
 
 		for cell in carouselCells:
 			self.carousel.append(cell)
+
+		self.carousel.append(CarouselImage('![](/assets/jpg/IMG_1336-549x550.jpeg)'))
 		self.carousel.append(CarouselLast())
 
 
