@@ -7,12 +7,15 @@ Week beginning [Sunday, October 30, 2022](javascript:flick('sun');)
 Be consistent in the rain.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **6 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **SLOW AND HEAVY**
 
-&mdash;
+Overall a good week for doing the work.  The habit of doing something everyday is easy.  I am dealing with the internal fight over where I am at (reality) and where I expect myself to be.
+
+When I tally up 6 hours for the week, that isn't a whole lot.  When I check in with how I am feeling (mostly after a run), I am probably right to only be at 6 hours (at least for this week)
+
+The weather was mostly terrible this week.
 
 ![Carved this guy after the swim on Monday afternoon.](/assets/jpg/IMG_4412-977x550.jpeg Halloween 2022)
 
@@ -113,31 +116,40 @@ Miserable, cold, wet weather for the ride to and from the pool.  I was going tog
 Swam with the 50m lanes in place.  It wasn't that big of a deal as it used to be (mentally it used to feel like forever to get to the far wall).  I did my best to get the descending sets in.  After 1900m, I considered doing a few more lengths but decided to stick to the plan and pedalled home instead.
 
 <!---->
-## FRIDAY NOV 4
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY NOV 4 🌧
+Sleep **2** | Fatigue **3** | Stress **4** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 Same as [Tuesday](javascript:flick('tue');). 
 Trainer ~ 60 minutes.
 Nice and easy. HR 130 or less for the entire ride.
-6
+
 Mobility 20 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **60 Minutes** &nbsp; Trainer: **127 W NP**
 
-&mdash;  
+The work problem that I thought I solved [last Friday](challenge2023-35weeksout?fri), I think I got over the hump with it late this afternoon.
+
+Again, after dinner I started the ride.  I put the start of the _2021 Challenge Roth_ on the screen and set the trainer on _"Free Ride"_ (1% grade).
+
 
 <!---->
-## SATURDAY NOV 5
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY NOV 5 ☀️
+Sleep **2** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+**Breathing and deadbugs before the run​**  
+60 minutes on your feet: 
+10 minutes of walking to warm up. 
+Run 45 minutes. Easy effort. 
+5 minutes of walking to cool down.
 
 ### NOTES
-Total Time: **0 Minutes**
+Run Time: **50 Minutes** &nbsp; Distance: **7.9 km**
 
-&mdash;  
+This would have been a good run except my right ankle started sore and stayed that way for most of the trip north past _Panama Flats_.
+
+About an hour of yard-work after I got home.
