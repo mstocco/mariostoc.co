@@ -13,11 +13,10 @@ I feel like I was...
 <br /><sup>(completed at the end of the week)</sup>
 
 &mdash;
-
 ![](/assets/jpg/II-9x550.jpeg)
 
-## SUNDAY NOV 6
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SUNDAY NOV 6 🌤
+Sleep **3** | Fatigue **3** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -32,13 +31,16 @@ Trainer ~ 75 minutes:
 Mobility 17 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **75 Minutes** &nbsp; Trainer: **116 W NP**
 
-&mdash;  
+Right ankle is a bit bothered from [yesterday's jog](challenge2023-34weeksout?sat).
 
+I plugged in the workout into my Garmin Edge with a primary (cadence) and secondary (power) target set for the 30 second reps.  Unfortunately, just the cadence was used and the trainer dumped the resistance during those 30 second periods.  I stayed in the aerobars and spun as fast and smooth as I could.
+
+![](/assets/jpg/image.jpeg)
 <!---->
-## MONDAY NOV 7
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## MONDAY NOV 7 🌧
+Sleep **2** | Fatigue **2** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -55,7 +57,7 @@ Swim 2100:
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Snow in the forecast!
 
 <!---->
 ## TUESDAY NOV 8
