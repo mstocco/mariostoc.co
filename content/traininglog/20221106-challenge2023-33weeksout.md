@@ -21,30 +21,28 @@ Sleep **3** | Fatigue **3** | Stress **2** | Soreness **4**
 
 ### PLANNED WORKOUT
 Option A: 
-MTB ~ Bundle up and ride 75-90 minutes. Easy riding. Stay warm. Goose or Lochside is most appropriate (aka-Flat/rolling)   
+MTB ~ 75-90 minutes. Easy riding. Goose or Lochside is appropriate (aka-Flat/rolling)   
 Option B: 
 Trainer ~ 75 minutes: 
 30 minutes easy spinning to warm up. 
 12x :30 high cadence/light pressure on the pedals, 1:30 normal riding. 
-21 minutes easy spinning to finish up.
-
+21 minutes easy spinning to finish up.  
 Mobility 17 minutes
 
 ### NOTES
 Total Time: **75 Minutes** &nbsp; Trainer: **116 W NP**
 
-Right ankle is a bit bothered from [yesterday's jog](challenge2023-34weeksout?sat).
+Right ankle is bothered from [yesterday's jog](challenge2023-34weeksout?sat).
 
 I plugged in the workout into my Garmin Edge with a primary (cadence) and secondary (power) target set for the 30 second reps.  Unfortunately, just the cadence was used and the trainer dumped the resistance during those 30 second periods.  I stayed in the aerobars and spun as fast and smooth as I could.
 
-![](/assets/jpg/image.jpeg)
 <!---->
 ## MONDAY NOV 7 🌧
 Sleep **2** | Fatigue **2** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-**Breathing and deadbugs before you head to the pool.**   
+**Breathing and deadbugs before the pool.**   
 Swim 2100: 
 6x 50 easy swimming to warm up. Rest as needed. 
 4x 50 kick gradual descend 1-4 r :20. 
