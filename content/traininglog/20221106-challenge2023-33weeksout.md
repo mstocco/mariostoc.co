@@ -37,7 +37,7 @@ Right ankle is bothered from [yesterday's jog](challenge2023-34weeksout?sat).
 I plugged in the workout into my Garmin Edge with a primary (cadence) and secondary (power) target set for the 30 second reps.  Unfortunately, just the cadence was used and the trainer dumped the resistance during those 30 second periods.  I stayed in the aerobars and spun as fast and smooth as I could.
 
 <!---->
-## MONDAY NOV 7 🌧
+## MONDAY NOV 7 🌨
 Sleep **2** | Fatigue **2** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -53,9 +53,11 @@ Swim 2100:
 2x 50 easy swimming to cool down
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **51 Minutes** &nbsp; Swim **2100m**
 
-Snow in the forecast!
+Snow in the forecast and snow in the air (not sticking); I drove to/from the pool.
+
+Did a lot more bilateral breathing (just because).  I wore my HRM Swim strap to get a better read on my heart-rate.  It represents my effort on the descending reps better than the minuscule difference in time/pace.
 
 <!---->
 ## TUESDAY NOV 8
