@@ -13,7 +13,7 @@ I feel like I was...
 <br /><sup>(completed at the end of the week)</sup>
 
 &mdash;
-![](/assets/jpg/II-9x550.jpeg)
+![On Sunday we turned the clocks back one hour.  On Monday, we turned the calendar ahead to February.](/assets/jpg/IMG_4416-977x550.jpeg 9PM Monday Night)
 
 ## SUNDAY NOV 6 🌤
 Sleep **3** | Fatigue **3** | Stress **2** | Soreness **4**
@@ -79,8 +79,8 @@ Windy and cold but the sun was out long enough to get rid of the snow.
 All easy running for a slightly different loop north of _Panama Flats_; practically the same route as [Saturday](challenge2023-34weeksout?sat) and my right ankle felt better this afternoon. 
 
 <!---->
-## WEDNESDAY NOV 9
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY NOV 9 ☀️
+Sleep **4** | Fatigue **3** | Stress **4** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
