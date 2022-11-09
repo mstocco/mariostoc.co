@@ -60,8 +60,8 @@ Snow in the forecast and snow in the air (not sticking); I drove to/from the poo
 Did a lot more bilateral breathing (just because).  I wore my HRM Swim strap to get a better read on my heart-rate.  It represents my effort on the descending reps better than the minuscule difference in time/pace.
 
 <!---->
-## TUESDAY NOV 8
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY NOV 8 🌤
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -72,9 +72,11 @@ Run 45 minutes. Easy effort.
 5 minutes of walking to cool down  
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **52 Minutes**  &nbsp; Run: **8 km**
 
-&mdash;  
+Windy and cold but the sun was out long enough to get rid of the snow.
+
+All easy running for a slightly different loop north of _Panama Flats_; practically the same route as [Saturday](challenge2023-34weeksout?sat) and my right ankle felt better this afternoon. 
 
 <!---->
 ## WEDNESDAY NOV 9
