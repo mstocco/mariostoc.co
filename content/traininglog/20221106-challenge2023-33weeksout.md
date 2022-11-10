@@ -74,9 +74,13 @@ Run 45 minutes. Easy effort.
 ### NOTES
 Total Time: **52 Minutes**  &nbsp; Run: **8 km**
 
+Did some "Jane Fondas" along with the dead bugs before heading out the door.
+
 Windy and cold but the sun was out long enough to get rid of the snow.
 
-All comfortable running for a slightly different loop north of _Panama Flats_; practically the same route as [Saturday](challenge2023-34weeksout?sat) and my right ankle felt a bit better this afternoon.  Had another dog incident on the trail again today; I think I will try a different time of the day next.
+Walked for a bit before some comfortable running.  A slightly different loop north of _Panama Flats_; practically the same route as [Saturday](challenge2023-34weeksout?sat) and my right ankle felt better this afternoon.
+
+Had another dog incident on the trail again today; I think I will try a different time of the day next.
 
 <!---->
 ## WEDNESDAY NOV 9 ☀️
