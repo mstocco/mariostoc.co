@@ -150,6 +150,6 @@ Run 45 minutes. Easy effort.
 ### NOTES
 Run Time: **50 Minutes** &nbsp; Distance: **7.9 km**
 
-This would have been a good run except my right ankle started sore and stayed that way for most of the trip north past _Panama Flats_.
-
+This would have been a good run except my right ankle **started sore** and stayed that way for most of the trip north past _Panama Flats_.
+![Run](/assets/jpg/run-20221105.jpeg)
 About an hour of yard-work after I got home.
