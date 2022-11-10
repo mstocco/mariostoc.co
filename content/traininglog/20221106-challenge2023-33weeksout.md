@@ -78,6 +78,8 @@ Windy and cold but the sun was out long enough to get rid of the snow.
 
 All easy running for a slightly different loop north of _Panama Flats_; practically the same route as [Saturday](challenge2023-34weeksout?sat) and my right ankle felt better this afternoon. 
 
+![Run](/assets/jpg/image.jpeg)
+
 <!---->
 ## WEDNESDAY NOV 9 ☀️
 Sleep **4** | Fatigue **3** | Stress **4** | Soreness **3**
@@ -89,9 +91,11 @@ Easy effort. Spinning the legs. Nothing too hard.
 Mobility 20 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **62 Minutes**  &nbsp; Trainer: **141 W NP**
 
-&mdash;  
+First ride on Rouvy; picked a section of the Roth Bike Course and pedalled with 3 virtual avatars.  The hill near _Greding_ will not catch me off guard.
+
+![Bike](/assets/jpg/image.jpeg)
 
 <!---->
 ## THURSDAY NOV 10
