@@ -80,7 +80,7 @@ Windy and cold but the sun was out long enough to get rid of the snow.
 
 Walked for a bit before some comfortable running.  A slightly different loop north of _Panama Flats_; practically the same route as [Saturday](challenge2023-34weeksout?sat) and my right ankle felt better this afternoon.
 
-Had another dog incident on the trail again today; I think I will try a different time of the day next.
+Another dog incident on the trail again; I think I will try a different time of day next time.
 
 <!---->
 ## WEDNESDAY NOV 9 ☀️
@@ -100,8 +100,8 @@ First ride on Rouvy; picked a section of the _Roth Bike Course_ and pedalled wit
 ![Bike](/assets/jpg/bike-20221109.jpeg)
 
 <!---->
-## THURSDAY NOV 10
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY NOV 10 🌤
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
