@@ -76,9 +76,7 @@ Total Time: **52 Minutes**  &nbsp; Run: **8 km**
 
 Windy and cold but the sun was out long enough to get rid of the snow.
 
-All easy running for a slightly different loop north of _Panama Flats_; practically the same route as [Saturday](challenge2023-34weeksout?sat) and my right ankle felt better this afternoon. 
-
-![Run](/assets/jpg/image.jpeg)
+All comfortable running for a slightly different loop north of _Panama Flats_; practically the same route as [Saturday](challenge2023-34weeksout?sat) and my right ankle felt a bit better this afternoon.  Had another dog incident on the trail again today; I think I will try a different time of the day next.
 
 <!---->
 ## WEDNESDAY NOV 9 ☀️
@@ -93,9 +91,9 @@ Mobility 20 minutes
 ### NOTES
 Total Time: **62 Minutes**  &nbsp; Trainer: **141 W NP**
 
-First ride on Rouvy; picked a section of the Roth Bike Course and pedalled with 3 virtual avatars.  The hill near _Greding_ will not catch me off guard.
+First ride on Rouvy; picked a section of the _Roth Bike Course_ and pedalled with 3 virtual avatars.  The hill near _Greding_ will not catch me off guard.
 
-![Bike](/assets/jpg/image.jpeg)
+![Bike](/assets/jpg/bike-20221109.jpeg)
 
 <!---->
 ## THURSDAY NOV 10
