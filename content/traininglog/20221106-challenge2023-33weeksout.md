@@ -95,7 +95,7 @@ Mobility 20 minutes
 ### NOTES
 Total Time: **62 Minutes**  &nbsp; Trainer: **141 W NP**
 
-First ride on Rouvy; **fun!** Picked a section of the _Roth Bike Course_ and pedalled with 3 virtual avatars.  The hill at _Greding_ will not catch me off guard.
+First ride on Rouvy; **fun!** Picked a section of the _Roth Bike Course_ and pedalled with 3 virtual avatars.  The hill at _Greding_ is noted.
 
 ![Bike](/assets/jpg/bike-20221109.jpeg)
 
