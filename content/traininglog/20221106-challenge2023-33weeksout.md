@@ -122,8 +122,8 @@ Carina had the afternoon off and came with me to the pool.  Maybe it was the pas
 ![Swim](/assets/jpg/image.jpeg)
 
 <!---->
-## FRIDAY NOV 11
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY NOV 11 ☁️
+Sleep **5** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -136,7 +136,7 @@ Trainer ​60 minutes:
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Massive (what I think is an) MSG headache.  Crossing off <strike>Chicken 649</strike> from the restaurants list.  Rough sleep and a rough morning.
 
 <!---->
 ## SATURDAY NOV 12
