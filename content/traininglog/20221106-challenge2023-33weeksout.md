@@ -78,7 +78,7 @@ Did some "Jane Fondas" along with the dead bugs before heading out the door.
 
 Windy and cold but the sun was out long enough to get rid of the snow.
 
-Walked for a bit before some comfortable running.  A slightly different loop north of _Panama Flats_; practically the same route as [Saturday](challenge2023-34weeksout?sat) and my right ankle felt better this afternoon.
+Walked for a bit before some comfortable running.  A slightly different loop north of _Panama Flats_; practically the same route as [Saturday](challenge2023-34weeksout?sat) and my **right ankle felt better** this afternoon.
 
 Another dog incident on the trail again; I think I will try a different time of day next time.
 
@@ -95,7 +95,7 @@ Mobility 20 minutes
 ### NOTES
 Total Time: **62 Minutes**  &nbsp; Trainer: **141 W NP**
 
-First ride on Rouvy; picked a section of the _Roth Bike Course_ and pedalled with 3 virtual avatars.  The hill near _Greding_ will not catch me off guard.
+First ride on Rouvy; **fun!** Picked a section of the _Roth Bike Course_ and pedalled with 3 virtual avatars.  The hill at _Greding_ will not catch me off guard.
 
 ![Bike](/assets/jpg/bike-20221109.jpeg)
 
