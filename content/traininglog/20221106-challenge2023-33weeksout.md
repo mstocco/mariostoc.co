@@ -115,9 +115,11 @@ Swim 1800:
 Mobility 20 minutes 
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **45 Minutes** &nbsp; Swim: **1800m**
 
-&mdash;  
+Carina had the afternoon off and came with me to the pool.  Maybe it was the pasta and sausage for lunch but I felt a bit slow today.  Could have been in my head too; regardless I got the workout complete.
+
+![Swim](/assets/jpg/image.jpeg)
 
 <!---->
 ## FRIDAY NOV 11
