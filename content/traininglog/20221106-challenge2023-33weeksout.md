@@ -119,7 +119,7 @@ Total Time: **45 Minutes** &nbsp; Swim: **1800m**
 
 Carina had the afternoon off and came with me to the pool.  We had a 50m lane all to ourselves.
 
-Maybe it was the pasta and sausage for lunch but I felt a bit slow today.  Could have been in my head too; regardless I got the workout complete.
+Maybe it was the pasta and sausage for lunch but I **felt a bit slow** today.  Could have been in my head too; regardless I got the workout complete.
 
 <!---->
 ## FRIDAY NOV 11 ☁️
