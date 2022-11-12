@@ -128,15 +128,18 @@ Sleep **5** | Fatigue **3** | Stress **3** | Soreness **4**
 
 ### PLANNED WORKOUT
 **Breathing and deadbugs before the ride**  
-Trainer ​60 minutes: 
+Trainer 60 minutes: 
 20 minutes easy riding. Warming up the legs. 
 16x :30 high cadence/light pressure on the pedals, 1:30 normal riding.
 8 minutes easy riding to finish up the ride
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **60 Mins** &nbsp; Normalized Power: **134W**
 
-Massive (what I think is an) MSG headache.  Crossing off <strike>Chicken 649</strike> from the restaurants list.  Rough sleep and a rough morning.
+Massive MSG headache.Rough sleep and a rough morning.Crossing off <strike>Chicken 649</strike> from the restaurants list.
+
+I had a **solid workout** on the trainer regardless.
+![Bike](/assets/jpg/bike-20221111.jpeg)
 
 <!---->
 ## SATURDAY NOV 12
@@ -144,7 +147,20 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Swim 2000:
+6x 50 easy swimming. R :10-:20 to warm up.
+4x 50 easy swimming w/ buoy. R :10-:20…still warming up.
+2x 50 steady kick. R :15.
+50, 100, 150, 200 steady free. R :30 after each.
+50, 100, 150, 200 steady w/ buoy. R :30 after reach.
+6x 50 steady kick. R :15.
+100 easy to cool down.
+
+Pre-Run: Dead Bugs and breathing.
+Run/Walk 60 minutes:
+5 minute walk to warm up.
+50 minutes easy running (Similar terrain to your recent runs)
+5 minutes walking to cool down.
 
 ### NOTES
 Total Time: **0 Minutes**
