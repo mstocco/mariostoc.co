@@ -142,8 +142,8 @@ I had a **solid workout** on the trainer regardless.
 ![Bike](/assets/jpg/bike-20221111.jpeg)
 
 <!---->
-## SATURDAY NOV 12
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY NOV 12 ☀️
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
