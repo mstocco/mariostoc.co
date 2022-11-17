@@ -7,12 +7,14 @@ Week beginning [Sunday, November 6, 2022](javascript:flick('sun');)
 Keep being consistent.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **7.5  Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **CONSISTENT**
 
-&mdash;
+Nice little bump in volume this week too.  The weather was cold enough to snow on [Monday](javascript:flkty.select(2);) and stayed cold through most of the week.  Rearranged the suite to give the trainer/tt-bike a better home.
+
+Lower back ended the week in a precarious place and will need to be watched [next week](challenge2023-32weeksout).
+
 ![On Sunday we turned the clocks back one hour.  On Monday, we turned the calendar ahead to February.](/assets/jpg/IMG_4416-977x550.jpeg 9PM Monday Night)
 
 ## SUNDAY NOV 6 🌤
@@ -163,6 +165,6 @@ Run/Walk 60 minutes:
 5 minutes walking to cool down.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **105 Mins** &nbsp;Run: **9 km** &nbsp;Swim: **2 km**
 
-&mdash;  
+
