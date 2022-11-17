@@ -44,7 +44,7 @@ Sleep **2** | Fatigue **2** | Stress **5** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-**Breathing and deadbugs before you head to the pool.**  
+**Breathing and deadbugs before the pool.**  
 Swim 2200: 
 50, 100, 150 easy free to warm up.
 50, 100, 150 easy w/ buoy. Still warming up.
@@ -53,11 +53,14 @@ Swim 2200:
 2x 50 cool down.
 
 ### NOTES
-Total Time: **40 Minutes** &nbsp; Swim: **1600 m**
+Total Time: **40 Minutes** &nbsp; Swim: **1600m**
 
-I drove to the pool and did what I could.
+My back is stiff and not 100%.
 
-Swam the first 1350m of the workout and stopped for a break.  My back was stiff and not 100%.  Finished with an easy 250m and called it.
+I drove to the pool and did what I could. 
+
+Swam the first 1350m of the workout and then stopped for a break.
+Finished with an easy 250m and called it a day.
 
 <!---->
 ## TUESDAY NOV 15 🌤
@@ -65,14 +68,14 @@ Sleep **3** | Fatigue **2** | Stress **4** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-**Breathing and deadbugs before the run​.**   
+**Breathing and deadbugs before the run.**   
 60 minutes on your feet: Basically the same as the Saturday run. 
 5 minutes of walking to warm up.
 Run 50 minutes. Easy effort.
 5 minutes of walking to cool down.
 
 ### NOTES
-Run Time: **52 Minutes** &nbsp; Distance: **8 km**
+Run Time: **52 Minutes** &nbsp; Distance: **8.2 km**
 
 Sunny and cold.  My back is feeling better so I headed out on dirt road of _Panama Flats_. Ran very easy _(6:20/km)_ and **felt good** during the time away from the keyboard.
 
