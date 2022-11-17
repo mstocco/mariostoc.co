@@ -89,13 +89,15 @@ Trainer 60 minutes.
 Mobility 20 minutes
 
 ### NOTES
-Moving Time: **80 Mins** Ride: [Comfy Wooden Chair](javascript:flkty.select(2);)
+Time: **80 Mins** Ride: [Comfy Wooden Chair](javascript:flkty.select(2);)
 
 Sunshine and so I made the executive decision to **ride outside** after work.
 
-Pedalled easy up to the north end of _Thetis Lake Park_ to see how comfortable I am  on my favourite bit of single track (been awhile).  Nothing close to a dab; rode the line I wanted.
+Pedalled easy up to the north end of _Thetis Lake Park_ to see how comfortable I am  on my favourite bit of single track (its been awhile).
 
-Gorgeous twilight ride home.
+Nothing close to a dab; rode the line I wanted.
+
+Gorgeous twilight sky for the ride home.
 <!---->
 ## THURSDAY NOV 17
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
