@@ -50,7 +50,7 @@ Swim 2200:
 50, 100, 150 easy w/ buoy. Still warming up.
 2 rounds (50 as 25 fist drill/25 strong finish to your stroke, 50 gradual build to strong, 50 as 25 FAST/25 EASY. R :15 after each)
 12x 100 aerobic/smooth w/ strong final 10 meters of each rep...making sure you are actually going aerobically and can accelerate at the end of each rep. R :20 after each. 
-2x 50 easy to cool down.
+2x 50 cool down.
 
 ### NOTES
 Total Time: **40 Minutes** &nbsp; Swim: **1600 m**
@@ -74,9 +74,8 @@ Run 50 minutes. Easy effort.
 ### NOTES
 Run Time: **52 Minutes** &nbsp; Distance: **8 km**
 
-Sunny and cold.  My back is feeling better so I headed out on dirt road of _Panama Flats_.
+Sunny and cold.  My back is feeling better so I headed out on dirt road of _Panama Flats_. Ran very easy _(6:20/km)_ and **felt good** during the time away from the keyboard.
 
-Ran very easy _(6:20/km)_ and **felt good** during the time away from the keyboard.
 ![Run](/assets/jpg/run-20221115.jpeg)
 
 <!---->
@@ -94,11 +93,14 @@ Mobility 20 minutes
 ### NOTES
 Time: **80 Mins** &nbsp; Ride: [Comfy Wooden Chair](javascript:flkty.select(2);)
 
-Sunshine and so I made the executive decision to **ride outside** after work.
+Sunshine and cold; I made the executive decision to **ride outside** after work.
 
-Pedalled easy up to the north end of _Thetis Lake Park_ to see how comfortable I am  on my favourite bit of single track (its been awhile).
+Pedalled easy up to the north end of _Thetis Lake Park_ to see how comfortable I am on my favourite bit of single track (its been awhile).
 
-Nothing close to a dab; rode the line I wanted.
+Nothing close to a dab; rode the line I wanted.  
+Rode home feeling confident.
+
+---
 
 Gorgeous twilight sky for the ride home.
 <!---->
