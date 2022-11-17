@@ -57,7 +57,7 @@ Total Time: **40 Minutes** &nbsp; Swim: **1600 m**
 
 I drove to the pool and did what I could.
 
-Swam the first 1350m of the workout and stopped for a break.  My back was not 100%.  Finished with up with an easy 250m and called it a day.
+Swam the first 1350m of the workout and stopped for a break.  My back was stiff and not 100%.  Finished with an easy 250m and called it.
 
 <!---->
 ## TUESDAY NOV 15 🌤
