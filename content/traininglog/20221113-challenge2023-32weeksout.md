@@ -89,11 +89,11 @@ Trainer 60 minutes.
 Mobility 20 minutes
 
 ### NOTES
-Total Moving Time: **80 Minutes** Ride: [Comfy Wooden Chair](javascript:flkty.select(2);)
+Moving Time: **80 Mins** Ride: [Comfy Wooden Chair](javascript:flkty.select(2);)
 
 Sunshine and so I made the executive decision to **ride outside** after work.
 
-Pedalled easy up to the north end of _Thetis Lake Park_ to see how comfortable I am on my favourite bit of single track.  Easy; no dabs.
+Pedalled easy up to the north end of _Thetis Lake Park_ to see how comfortable _(if I am comfortable)_  on my favourite bit of single track.  Nothing close to a dab; rode the line I wanted.
 
 <!---->
 ## THURSDAY NOV 17
