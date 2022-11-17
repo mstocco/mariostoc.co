@@ -34,9 +34,9 @@ Inside Option:
 9 minutes easy riding to finish up. 
 
 ### NOTES
-<mark> Lower back is lit up </mark>
+<p style="background-color:yellow;font-weight:bold;">Lower back lit up; riding not an option.</p>
 
-Yesterday's lifting a loaded trailer onto the hitch, then the run + swim was more than I could handle. Riding is not an option.
+Yesterday's lifting a loaded trailer onto the hitch, then the run + swim was more than I could handle.
 
 <!---->
 ## MONDAY NOV 14 🌤
@@ -55,7 +55,9 @@ Swim 2200:
 ### NOTES
 Total Time: **40 Minutes** &nbsp; Swim: **1600 m**
 
-I drove to the pool and did what I could.  Swam the first 1350m of the workout and stopped for a break.  My back was not 100%.  Finished with up with an easy 250m and called it a day.  
+I drove to the pool and did what I could.
+
+Swam the first 1350m of the workout and stopped for a break.  My back was not 100%.  Finished with up with an easy 250m and called it a day.
 
 <!---->
 ## TUESDAY NOV 15 🌤
@@ -74,7 +76,8 @@ Run Time: **52 Minutes** &nbsp; Distance: **8 km**
 
 Sunny and cold.  My back is feeling better so I headed out on dirt road of _Panama Flats_.
 
-Ran very easy _(6:20/km)_ and **felt good** during the time away from the keyboard.  
+Ran very easy _(6:20/km)_ and **felt good** during the time away from the keyboard.
+![Run](/assets/jpg/run-20221115.jpeg)
 
 <!---->
 ## WEDNESDAY NOV 16 ☀️
@@ -89,7 +92,7 @@ Trainer 60 minutes.
 Mobility 20 minutes
 
 ### NOTES
-Time: **80 Mins** Ride: [Comfy Wooden Chair](javascript:flkty.select(2);)
+Time: **80 Mins** &nbsp; Ride: [Comfy Wooden Chair](javascript:flkty.select(2);)
 
 Sunshine and so I made the executive decision to **ride outside** after work.
 
@@ -99,8 +102,8 @@ Nothing close to a dab; rode the line I wanted.
 
 Gorgeous twilight sky for the ride home.
 <!---->
-## THURSDAY NOV 17
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY NOV 17 ☀️
+Sleep **3** | Fatigue **2** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
