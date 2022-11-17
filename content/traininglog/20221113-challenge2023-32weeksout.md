@@ -23,8 +23,7 @@ Sleep **4** | Fatigue **3** | Stress **6** | Soreness **6**
 ### PLANNED WORKOUT
 Outside Option: 
 Bundle Up ~ 90 minutes. Easy riding on the MTB. 
-Goose, or Great trail are both good options. Just getting out for a spin. 
-Rolling or even hilly are good. But use your gears and keep things easy. 
+Just getting out for a spin. Rolling or even hilly routes are good; keep things easy. 
 
 Inside Option: 
 75 minutes on the trainer. 
@@ -33,17 +32,14 @@ Inside Option:
 5 minutes easy riding between rounds. 
 6x 1:00 high cadence/stable hips....cadence won't be in the 140 range if you go for a minute...so find a cadence that is high, but somewhat maintainable with good form, 2:00 easy spinning after each rep.
 9 minutes easy riding to finish up. 
-Mobility 17 minutes
 
 ### NOTES
-<mark>Total Time: **0 Minutes** </mark>
+<mark> Lower back is lit up </mark>
 
-Lower back is lit up; yesterday's lifting a loaded trailer onto the hitch, then the run/swim was more than I could handle.
-
-Riding is not an option.
+Yesterday's lifting a loaded trailer onto the hitch, then the run + swim was more than I could handle. Riding is not an option.
 
 <!---->
-## MONDAY NOV 14
+## MONDAY NOV 14 🌤
 Sleep **2** | Fatigue **2** | Stress **5** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -57,13 +53,13 @@ Swim 2200:
 2x 50 easy to cool down.
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Swim: **m**
+Total Time: **40 Minutes** &nbsp; Swim: **1600 m**
 
-I drove to the pool and did what I could.  
+I drove to the pool and did what I could.  Swam the first 1350m of the workout and stopped for a break.  My back was not 100%.  Finished with up with an easy 250m and called it a day.  
 
 <!---->
-## TUESDAY NOV 15
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY NOV 15 🌤
+Sleep **3** | Fatigue **2** | Stress **4** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -76,7 +72,9 @@ Run 50 minutes. Easy effort.
 ### NOTES
 Run Time: **52 Minutes** &nbsp; Distance: **8 km**
 
-Sunny bit cold.  My back is feeling better so I headed out on dirt road of _Panama Flats_.  Ran very easy and felt good throughout the time away from the keyboard. 
+Sunny and cold.  My back is feeling better so I headed out on dirt road of _Panama Flats_.
+
+Ran very easy _(6:20/km)_ and **felt good** during the time away from the keyboard.  
 
 <!---->
 ## WEDNESDAY NOV 16 ☀️
@@ -93,7 +91,9 @@ Mobility 20 minutes
 ### NOTES
 Total Moving Time: **80 Minutes** Ride: [Comfy Wooden Chair](javascript:flkty.select(2);)
 
-Sunshine and so I made the executive decision to ride outside after work.  Pedalled easy up to the north end of _Thetis Lake Park_ to see how comfortable I am on my favourite bit of single track.  Easy; no dabs.
+Sunshine and so I made the executive decision to **ride outside** after work.
+
+Pedalled easy up to the north end of _Thetis Lake Park_ to see how comfortable I am on my favourite bit of single track.  Easy; no dabs.
 
 <!---->
 ## THURSDAY NOV 17
