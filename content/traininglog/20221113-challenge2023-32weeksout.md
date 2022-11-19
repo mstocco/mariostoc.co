@@ -120,13 +120,13 @@ Swim 2100:
 Mobility 20 minutes
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Swim: **0m**
+Total Time: **55 Minutes** &nbsp; Swim: **2100m**
 
-&mdash;  
+Afternoon in the 50m lanes.  300m times were a bit slower than expected but the effort was on point.  Felt a good pump when I was done.
 
 <!---->
-## FRIDAY NOV 18
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY NOV 18 ☀️
+Sleep **3** | Fatigue **2** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -136,17 +136,29 @@ All easy spinning.
 Taking it easy and loosening up before the weekend!
 
 ### NOTES
-Total Time: **0 Minutes**
+Ride Time: **61 Mins** &nbsp; Normalized Power: **137W**
 
-&mdash;  
+Sim the first 27km of the _Roth_ bike cousre. 
+Just 4 days left of the free trial of Rouvy. 
+![Bike](/assets/jpg/bike-20221118.jpeg)
 
 <!---->
-## SATURDAY NOV 19
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY NOV 19 ☀️
+Sleep **3** | Fatigue **4** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Swim 2300:  
+200 easy free to warm up. 
+4 rounds (50 fist drill, 50 as 25 fist drill/25 strong finish to your stroke, 50 gradual build to strong, 50 as 25 FAST/25 EASY. R :20 after each) 
+12x 100 aerobic/smooth/steady w/ #4/8/12 w/ a bit more turnover (Not a sprint, but a bit quicker) R :20 after each. 
+2x 50 easy to cool down. 
+
+**Pre-Run: Dead bugs and Breathing.**   
+Run/Walk 60 minutes:   
+3 minute walk to warm up. 
+55 minutes easy running (Similar terrain to your recent runs) 
+2 minutes walking to cool down.
 
 ### NOTES
 Total Time: **0 Minutes**
