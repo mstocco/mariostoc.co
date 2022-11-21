@@ -7,12 +7,16 @@ Week beginning [Sunday, November 13, 2022](javascript:flick('sun');)
 Pay better attention to my body.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **6.5 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **MOSTLY PRODUCTIVE**
 
-&mdash;
+For a week that **started terribly**, it certainly **ended on a high**.
+
+Quote of the week...
+> The magic you are looking for is in the work that is avoided.
+
+Despite it being cold, the sunshine this week helped.
 
 ![Fun bit of single track to jumpstart the mountain bike season!](/assets/jpg/IMG_1490-977x550.jpeg COMFY WOODEN CHAIR)
 
@@ -136,11 +140,11 @@ All easy spinning.
 Taking it easy and loosening up before the weekend!
 
 ### NOTES
-Ride Time: **61 Mins** &nbsp; Normalized Power: **137W**
+Ride Time: **61 Mins** &nbsp; Normalized Power: **136W**
 
-Sim the first 27km of the _Roth_ bike cousre. 
-Just 4 days left of the free trial of Rouvy. 
+Sim the first 27km of the _Roth_ bike course.
 ![Bike](/assets/jpg/bike-20221118.jpeg)
+<sup>&mdash; just 4 days left of the free trial of Rouvy.</sup>
 
 <!---->
 ## SATURDAY NOV 19 ☀️
@@ -161,6 +165,15 @@ Run/Walk 60 minutes:
 2 minutes walking to cool down.
 
 ### NOTES
-Total Time: **0 Minutes**
+Time: **115 Mins** &nbsp;Run: **9.5 km** &nbsp;Swim: **2300m**
 
-&mdash;  
+Late morning start to the run.  I prepended _Cuthbert Holmes Park_ to my base route and did some of the muddy trails on _Panama Hill_.  RPE was **easy and comfortable** for the entire hour. 
+
+<!----->
+
+The 50m lanes where busier than [last week](challenge2023-33weeksout?sat).  Regardless, I was able to pick my spot and I got the work done.
+
+I took a glance at a time for one of the later 100m reps and saw 2:01.  There wasn't a whole lot of juice left but I was able refocused on posture, the catch, rotation and finish and hit the wall with a 1:55 on the watch.
+
+Better.
+
