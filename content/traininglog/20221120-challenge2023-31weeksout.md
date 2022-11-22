@@ -42,7 +42,7 @@ I could have ridden again outside as their was still a weather window in the aft
 I am glad I did because there was an opportunity for good stimulus in those 70 seconds reps.  The workout was challenging and I finished feeling like I had a great spin.
 
 #### POWER ZONES
-![Bike](/assets/jpg/20221120.jpeg)
+![Bike](/assets/jpg/bike-20221120.jpeg)
 
 <!---->
 ## MONDAY NOV 21 ⛅️
