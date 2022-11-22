@@ -35,7 +35,7 @@ Mobility 25 minutes
 ### NOTES
 Morning ride with Carina into _Downtown_ for a nice breakfast with Peter and Heidi.
 <!----->
-Ride Time: **76 Mins** Normalized Power: **136W**
+Ride Time: **76 Mins** Normalized Power: **137W**
 
 I could have ridden again outside as their was still a weather window in the afternoon but I decided to ride the workout as written on the trainer.
 
