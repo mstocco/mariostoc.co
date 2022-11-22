@@ -33,13 +33,15 @@ Trainer ~ 75 minutes:
 Mobility 25 minutes
 
 ### NOTES
-Ride Time: **76 Mins** Normalized Power: **136W**
-
 Morning ride with Carina into _Downtown_ for a nice breakfast with Peter and Heidi.
+<!----->
+Ride Time: **76 Mins** Normalized Power: **136W**
 
 I could have ridden again outside as their was still a weather window in the afternoon but I decided to ride the workout as written on the trainer.
 
 I am glad I did because there was an opportunity for good stimulus in those 70 seconds reps.  The workout was challenging and I finished feeling like I had a great spin.
+
+![Bike](/assets/jpg/image.jpeg)
 
 <!---->
 ## MONDAY NOV 21 ⛅️
