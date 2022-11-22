@@ -37,12 +37,12 @@ Morning ride with Carina into _Downtown_ for a nice breakfast with Peter and Hei
 <!----->
 Ride Time: **76 Mins** Normalized Power: **137W**
 
-I could have ridden outside _(again)_ as their was still a weather window in the afternoon.  I watched the closing kilometres of the IM Arizona _(procrastination)_  before I threw a leg over the trainer and completed the workout as written.
+I could have ridden outside _(again)_ as their was still a weather window in the afternoon.  Instead, I watched the closing kilometres of IM Arizona _(procrastination)_  before I threw a leg over the trainer and completed the workout as written.
 
 #### POWER ZONES
 ![Bike](/assets/jpg/bike-20221120.jpeg)
 
-I feel like there was **really good stimulus** in those 70 seconds reps.  The workout was challenging and finished a great spin with a smile.
+I feel like there was **really good stimulus** in those 70 seconds reps.  Those reps were challenging and I finished a great spin with a smile.
 
 <!---->
 ## MONDAY NOV 21 ⛅️
