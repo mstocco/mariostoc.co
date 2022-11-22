@@ -13,10 +13,10 @@ I feel like I was **MOSTLY PRODUCTIVE**
 
 For a week that **started terribly**, it certainly **ended on a high**.
 
-Quote of the week...
+Quote of the week:
 > The magic you are looking for is in the work that is avoided.
 
-Despite it being cold, the sunshine this week helped.
+Despite it being cold, the sunshine this week helped with my overall mood and bouncing back from [Sunday's miss](javascript:flick('sun');).
 
 ![Fun bit of single track to jumpstart the mountain bike season!](/assets/jpg/IMG_1490-977x550.jpeg COMFY WOODEN CHAIR)
 
@@ -167,9 +167,11 @@ Run/Walk 60 minutes:
 ### NOTES
 Time: **115 Mins** &nbsp;Run: **9.5 km** &nbsp;Swim: **2300m**
 
-Late morning start to the run.  I prepended _Cuthbert Holmes Park_ to my base route and did some of the muddy trails on _Panama Hill_.  RPE was **easy and comfortable** for the entire hour. 
-
+Late morning start to the run.  I prepended _Cuthbert Holmes Park_ to my base route and did some of the muddy trails on _Panama Hill_.
 <!----->
+RPE for the run was **easy and comfortable** for the entire hour.  Although there have not been any (big) hills or strides of late, I am really enjoying the process that these 8 to 9ish km activities are delivering.  The roughly same route melts into the background and I get an hour to myself to chill out and be thankful.  
+
+---
 
 The 50m lanes where busier than [last week](challenge2023-33weeksout?sat).  Regardless, I was able to pick my spot and I got the work done.
 
