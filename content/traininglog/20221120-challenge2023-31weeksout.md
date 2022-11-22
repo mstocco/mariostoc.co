@@ -61,11 +61,11 @@ Swim 2200:
 Mobility 15 minutes
 
 ### NOTES
-Total Time: **55 Minutes** &nbsp; Swim: **2200m**
+Total Time: **55 Minutes** &nbsp; Swim: **2300m**
 
 25m lane all to myself with a fish in the lane to my left and another in the lane to my right.  My **focus was on point** this afternoon.
 
-+2000m felt more _"regular"_ today.
+The workout added up to 2300m and the distance felt more _"regular"_ today.
 
 <!---->
 ## TUESDAY NOV 22 🌧
