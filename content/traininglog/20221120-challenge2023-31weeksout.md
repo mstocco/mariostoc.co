@@ -35,14 +35,14 @@ Mobility 25 minutes
 ### NOTES
 Morning ride with Carina into _Downtown_ for a nice breakfast with Peter and Heidi.
 <!----->
-Ride Time: **76 Mins** Normalized Power: **137W**
+Ride Time: **76 Mins** &nbsp; Normalized Power: **137W**
 
 I could have ridden outside _(again)_ as their was still a weather window in the afternoon.  Instead, I watched the closing kilometres of IM Arizona _(procrastination)_  before I threw a leg over the trainer and completed the workout as written.
 
 #### POWER ZONES
 ![Bike](/assets/jpg/bike-20221120.jpeg)
 
-I feel like there was **really good stimulus** in those 70 seconds reps.  Those reps were challenging and I finished a great spin with a smile.
+I feel like there was **really good stimulus** in the 70 seconds reps.  Those reps were challenging and I finished a great spin with a smile.
 
 <!---->
 ## MONDAY NOV 21 ⛅️
@@ -79,9 +79,13 @@ Run w/ the crew.
 Assumed pickup over the final 5-15 minutes.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **54 Minutes** &nbsp; Run: **8.4 km**
 
-&mdash;  
+What a fantastic late afternoon to push away from the computer, put some runners on and get outside.  The rain stopped too.  My Tuesday crew didn't get back to me so I when solo on my typical dirt circuit.
+
+My friend Matt was leading the TripleShot group ride on the trail.  He spotted me and it was great to stop and say hello.
+
+**Effort was easy** and overall, I am feeling good.
 
 <!---->
 ## WEDNESDAY NOV 23
