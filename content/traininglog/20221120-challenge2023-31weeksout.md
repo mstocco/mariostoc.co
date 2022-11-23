@@ -81,9 +81,11 @@ Assumed pickup over the final 5-15 minutes.
 ### NOTES
 Total Time: **54 Minutes** &nbsp; Run: **8.4 km**
 
-What a fantastic late afternoon to push away from the computer, put some runners on and get outside.  The rain stopped too.  My Tuesday crew didn't get back to me so I when solo on my typical dirt circuit.
+What a fantastic late afternoon to push away from the computer, put some runners on and get outside.  The rain stopped too. 
 
-My friend Matt was leading the TripleShot group ride on the trail.  He spotted me and it was great to stop and say hello.
+My Tuesday crew didn't get back to me so I when solo on my typical dirt circuit.
+
+My friend, Matt P. was leading the TripleShot group ride on the trail.  He spotted me and it was great to stop and say hello.
 
 **Effort was easy** and overall, I am feeling good.
 
@@ -106,7 +108,7 @@ Mobility 18 minutes
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+&mdash;
 
 <!---->
 ## THURSDAY NOV 24
