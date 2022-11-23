@@ -79,19 +79,17 @@ Run w/ the crew.
 Assumed pickup over the final 5-15 minutes.
 
 ### NOTES
-Total Time: **54 Minutes** &nbsp; Run: **8.4 km**
+Total Time: **84 Minutes** &nbsp; Run: **8.4 km** <small>+ spin</small>
 
-What a fantastic late afternoon to push away from the computer, put some runners on and get outside.  The rain stopped too. 
+A fantastic afternoon to push away from the computer, put some and get outside;  the rain stopped too. My Tuesday crew didn't get back to me so I went solo on my typical dirt circuit.
 
-My Tuesday crew didn't get back to me so I when solo on my typical dirt circuit.
+My friend, Matt P. was leading a TripleShot group ride on the trail.  He spotted me and it was great to stop briefly and say hello.
 
-My friend, Matt P. was leading the TripleShot group ride on the trail.  He spotted me and it was great to stop and say hello.
-
-**Effort was easy** and overall, I am feeling good.
+**Effort was easy** and I felt good enough to add a 30 minute easy spin on the trainer after I got home.
 
 <!---->
-## WEDNESDAY NOV 23
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY NOV 23 ☁️
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
