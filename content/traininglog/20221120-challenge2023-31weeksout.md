@@ -104,11 +104,11 @@ Keep it relaxed.
 Mobility 18 minutes
 
 ### NOTES
-Spin Time: **~75 Mins** &nbsp; Normalized Power: **112W**
+Spin Time: **~75 Mins** &nbsp; Normalized Power: **115W**
 
 Inside option selected as the weather began to deteriorate in the afternoon.
 
-_Rouvy_ free trial expired so I loaded up _Fulgaz_.  The new app froze twice on me in 15 minutes; I shut it down and put on the _YouTube_ (more bike coverage of last weekend's _IM Arizona_).  Nothing much to report except more time spinning the legs.
+My free trial of _Rouvy_ expired so I downloaded _Fulgaz_.  The new app froze twice on me in 15 minutes; I shut it down and put on the _YouTube_ (more bike coverage of last weekend's _IM Arizona_).  Nothing much to report except more time **easy spinning** the legs.
 
 <!---->
 ## THURSDAY NOV 24 🌤
@@ -127,10 +127,9 @@ Swim 2400:
 ### NOTES
 Total Time: **55 Minutes** &nbsp; Swim: **2400m**
 
-Had a nice afternoon to ride to and from the pool.  New bike racks installed at _Crystal Pool_ too; room for the wide handlebars on the XC bike (awesome).
+Had a **nice afternoon** to ride to and from the pool.  New bike racks installed at _Crystal Pool_ too; room for the wide handlebars on the XC bike (awesome).
 
-Got the workout in _just_ before the 25m lanes went in.  I am going to have to get to the pool a bit earlier.  The watch recorded this workout as 2450 but it was completed as written.
-
+Got the workout in _just_ before the 25m lanes went in.  I am going to have to get to the pool a bit earlier.  The watch recorded this workout as 2450m but it was completed as written.
 
 <!---->
 ## FRIDAY NOV 25 🌦
