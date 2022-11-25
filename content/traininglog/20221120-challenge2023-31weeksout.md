@@ -85,7 +85,7 @@ A fantastic afternoon to push away from the computer, put some and get outside; 
 
 My friend, Matt P. was leading a TripleShot group ride on the trail.  He spotted me and it was great to stop briefly and say hello.
 
-**Effort was easy** and I felt good enough to add a 30 minute easy spin on the trainer after I got home.
+**Effort was easy** and after I got home, I felt good enough to spin easy for 30 minutes on the trainer.
 
 <!---->
 ## WEDNESDAY NOV 23 ☁️
@@ -104,13 +104,15 @@ Keep it relaxed.
 Mobility 18 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Spin Time: **~75 Mins** &nbsp; Normalized Power: **112W**
 
-&mdash;
+Inside option selected as the weather began to deteriorate in the afternoon.
+
+_Rouvy_ free trial expired so I loaded up _Fulgaz_.  The new app froze twice on me in 15 minutes; I shut it down and put on the _YouTube_ (more bike coverage of last weekend's _IM Arizona_).  Nothing much to report except more time spinning the legs.
 
 <!---->
-## THURSDAY NOV 24
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY NOV 24 🌤
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -123,13 +125,16 @@ Swim 2400:
 2x 50 EASY to cool down. 
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **55 Minutes** &nbsp; Swim: **2400m**
 
-&mdash;  
+Had a nice afternoon to ride to and from the pool.  New bike racks installed at _Crystal Pool_ too; room for the wide handlebars on the XC bike (awesome).
+
+Got the workout in _just_ before the 25m lanes went in.  I am going to have to get to the pool a bit earlier.  The watch recorded this workout as 2450 but it was completed as written.
+
 
 <!---->
-## FRIDAY NOV 25
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY NOV 25 🌦
+Sleep **3** | Fatigue **2** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -142,7 +147,7 @@ Trainer 65 minutes:
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Woke with stiff feet and my right ankle a bit sore.  Thankful to be on the bike later this afternoon.
 
 <!---->
 ## SATURDAY NOV 26
