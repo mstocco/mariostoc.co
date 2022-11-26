@@ -149,7 +149,7 @@ Spin Time: **65 Mins** &nbsp; Normalized Power: **140W**
 Woke with stiff feet and my right ankle a bit sore.  Thankful to be on the bike later this afternoon.
 
 Solid workout on the trainer before dinner.
-![Bike](/assets/jpg/image.jpg)
+![Bike](/assets/jpg/bike-20221125.jpeg)
 
 <!---->
 ## SATURDAY NOV 26 🌧
@@ -157,9 +157,17 @@ Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+1st: Swim 2200:   
+2 rounds (100 easy free, 100 w/ buoy, 100 kick. Rest as needed) 
+4x 50 as 17 meters strong/high turnover/33 meters EASY/Relaxed. Rest as needed. 
+6 rounds (3x 50 Strong/Fast/focus on good turnover/and make it consistent. R :20, 50 EASY. R :30) 
+200 EASY to cool down. 
+
+2nd: Run 60 minutes:   
+5 minutes walking to warm up.
+Run 55 minutes. Easy effort. Similar route. Similar effort. 
 
 ### NOTES
 Total Time: **0 Mins** &nbsp;Run: **0.0 km** &nbsp;Swim: **0000m**
 
-Right ankle is still a bit sore this morning.
+Right ankle is still a bit sore this morning.  Workout order flipped so I could swim in a 50m lane (1530 @Crystal Pool).
