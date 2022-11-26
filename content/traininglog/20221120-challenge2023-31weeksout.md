@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![My staple running route these past weeks is along this creek](/assets/jpg/IMG_4436-977x550 PATH ACROSS THE COLQUITZ)
 
 ## SUNDAY NOV 20 ⛅️
 Sleep **3** | Fatigue **3** | Stress **2** | Soreness **3**
@@ -150,7 +150,7 @@ Stiff feet and a sore right ankle in the morning; thankful to be on the bike lat
 
 **Solid workout** on the trainer before dinner.
 
-#### Heartrate/cadence plot
+#### HEARTRATE/CADENCE CHART
 ![Bike](/assets/jpg/bike-20221125.jpeg)
 
 <!---->
@@ -170,6 +170,6 @@ Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**
 Run 55 minutes. Easy effort. Similar route. Similar effort. 
 
 ### NOTES
-Total Time: **0 Mins** &nbsp;Run: **0.0 km** &nbsp;Swim: **0000m**
+Total Time: **59 Mins** &nbsp;Run: **9.4 km** &nbsp;Swim: **0000m**
 
 Right ankle is still a bit sore this morning.  Workout order flipped so I could swim in a 50m lane (1530 @Crystal Pool).
