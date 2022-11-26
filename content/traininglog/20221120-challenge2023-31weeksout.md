@@ -148,8 +148,9 @@ Spin Time: **65 Mins** &nbsp; Normalized Power: **140W**
 
 Stiff feet and a sore right ankle in the morning; thankful to be on the bike later this afternoon.
 
-**Solid workout** on the trainer before dinner.  Heartrate/cadence plot below:
+**Solid workout** on the trainer before dinner.
 
+#### Heartrate/cadence plot
 ![Bike](/assets/jpg/bike-20221125.jpeg)
 
 <!---->
