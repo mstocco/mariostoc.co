@@ -144,19 +144,22 @@ Trainer 65 minutes:
 10 minutes easy riding to finish up/cool down.
 
 ### NOTES
-Total Time: **0 Minutes**
+Spin Time: **65 Mins** &nbsp; Normalized Power: **140W**
 
 Woke with stiff feet and my right ankle a bit sore.  Thankful to be on the bike later this afternoon.
 
+Solid workout on the trainer before dinner.
+![Bike](/assets/jpg/image.jpg)
+
 <!---->
-## SATURDAY NOV 26
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY NOV 26 🌧
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash;  
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Mins** &nbsp;Run: **0.0 km** &nbsp;Swim: **0000m**
 
-&mdash;  
+Right ankle is still a bit sore this morning.
