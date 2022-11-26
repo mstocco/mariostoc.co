@@ -7,14 +7,13 @@ Week beginning [Sunday, November 20, 2022](javascript:flick('sun');)
 Keep being consistent.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total SBR Time: **9 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **CONSISTENT**
 
 &mdash;
 
-![My staple running route these past weeks is along this creek](/assets/jpg/IMG_4436-977x550 PATH ACROSS THE COLQUITZ)
+![My staple running route these past weeks is along this creek](/assets/jpg/IMG_4436-977x550.jpeg PATH ACROSS THE COLQUITZ)
 
 ## SUNDAY NOV 20 ⛅️
 Sleep **3** | Fatigue **3** | Stress **2** | Soreness **3**
@@ -173,3 +172,6 @@ Run 55 minutes. Easy effort. Similar route. Similar effort.
 Total Time: **59 Mins** &nbsp;Run: **9.4 km** &nbsp;Swim: **0000m**
 
 Right ankle is still a bit sore this morning.  Workout order flipped so I could swim in a 50m lane (1530 @Crystal Pool).
+
+The run was just so-so today; just not the same spring underfoot as previous trips along [Colquitz Creek](javascript:flkty.select(2);).
+
