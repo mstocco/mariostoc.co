@@ -16,6 +16,8 @@ This was a good week in that I was productive at work and productive with the sw
 Definitely felt the bump in volume by the time [Saturday](javascript:flick('sat');) rolled around.
 
 Certainly noticing the lack of daylight.
+
+Despite watching my diet, weight is still at 79Kg.
 ![79Kg](/assets/jpg/weight-20221126.jpeg)
 
 ![My staple running route these past weeks follows this creek as it meanders toward Beaver Lake](/assets/jpg/IMG_4436-977x550.jpeg PATH ACROSS THE COLQUITZ)
