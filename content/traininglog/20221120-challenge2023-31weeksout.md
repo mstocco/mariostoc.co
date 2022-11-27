@@ -171,7 +171,20 @@ Run 55 minutes. Easy effort. Similar route. Similar effort.
 ### NOTES
 Total Time: **59 Mins** &nbsp;Run: **9.4 km** &nbsp;Swim: **0000m**
 
-Right ankle is still a bit sore this morning.  Workout order flipped so I could swim in a 50m lane (1530 @Crystal Pool).
+Despite a sound sleep, my right ankle is still a bit sore this morning.
 
-The run was just so-so today; just not the same spring underfoot as previous trips along [Colquitz Creek](javascript:flkty.select(2);).
+Workout order flipped so I could swim in a 50m lane (1530 @Crystal Pool).
+
+<!----->
+The run was just so-so this afternoon; just not the same spring underfoot as previous trips along [Colquitz Creek](javascript:flkty.select(2);).   Maybe it was the effort on the trainer [yesterday](javascript:flick('fri');), maybe it is the drop in pressure as the next storm approaches.
+
+There is a tender knot in my right glute max that will need some work.
+
+---
+
+This felt like the most **intense swim workout** that I've done.  50m gassers with fast people (UVic swim caps and a strong triathlete) in the lane with me.  I thought about stopping early and calling it a productive week (more than once).  Then I'd do another length and before I knew it, I was at the 200m cooldown.
+
+I am going to sleep like a rock tonight. 
+
+
 
