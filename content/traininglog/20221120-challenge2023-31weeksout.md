@@ -11,11 +11,13 @@ Total SBR Time: **9 Hours**
 
 I feel like I was **CONSISTENT**
 
-This was a good week in that I was productive at work and productive with the swim/bike/run.  Definitely felt the bump in volume by the time [Saturday](javascript:flick('sat');).
+This was a good week in that I was productive at work and productive with the swim/bike/run.
+
+Definitely felt the bump in volume by the time [Saturday](javascript:flick('sat');) rolled around.
 
 Certainly noticing the lack of daylight.
 
-![My staple running route these past weeks is along this creek](/assets/jpg/IMG_4436-977x550.jpeg PATH ACROSS THE COLQUITZ)
+![My staple running route these past weeks follows this creek as it meanders toward Beaver Lake](/assets/jpg/IMG_4436-977x550.jpeg PATH ACROSS THE COLQUITZ)
 
 ## SUNDAY NOV 20 ⛅️
 Sleep **3** | Fatigue **3** | Stress **2** | Soreness **3**
