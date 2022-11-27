@@ -183,6 +183,7 @@ There is a tender knot in my right glute max that will need some work.
 ---
 
 This felt like the most **intense swim workout** that I've done.  50m gassers with fast people (UVic swim caps and a strong triathlete) in the lane with me.  I thought about stopping early and calling it a productive week (more than once).  Then I'd do another length and before I knew it, I was at the 200m cooldown.
+![swim](/assets/jpg/swim-20221126.jpeg)
 
 I am going to sleep like a rock tonight. 
 
