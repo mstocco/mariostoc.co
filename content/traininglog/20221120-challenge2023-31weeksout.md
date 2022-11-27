@@ -11,7 +11,9 @@ Total SBR Time: **9 Hours**
 
 I feel like I was **CONSISTENT**
 
-&mdash;
+This was a good week in that I was productive at work and productive with the swim/bike/run.  Definitely felt the bump in volume by the time [Saturday](javascript:flick('sat');).
+
+Certainly noticing the lack of daylight.
 
 ![My staple running route these past weeks is along this creek](/assets/jpg/IMG_4436-977x550.jpeg PATH ACROSS THE COLQUITZ)
 
@@ -178,14 +180,12 @@ Workout order flipped so I could swim in a 50m lane (1530 @Crystal Pool).
 <!----->
 The run was just so-so this afternoon; just not the same spring underfoot as previous trips along [Colquitz Creek](javascript:flkty.select(2);).   Maybe it was the effort on the trainer [yesterday](javascript:flick('fri');), maybe it is the drop in pressure as the next storm approaches.
 
-There is a tender knot in my right glute max that will need some work.
-
 ---
 
 This felt like the most **intense swim workout** that I've done.  50m gassers with fast people (UVic swim caps and a strong triathlete) in the lane with me.  I thought about stopping early and calling it a productive week (more than once).  Then I'd do another length and before I knew it, I was at the 200m cooldown.
 ![swim](/assets/jpg/swim-20221126.jpeg)
 
-I am going to sleep like a rock tonight. 
+There is a tender knot in my right glute max that will need some work.  I am going to sleep like a rock tonight. 
 
 
 
