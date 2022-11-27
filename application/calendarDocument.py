@@ -164,7 +164,7 @@ class IronmanCalendar(TemplateDocument):
 		#carouselCells[3].append(div)
 		carouselCells[2].append(div)
 		carouselCells[1].append(div)
-		div.innerHTML = H2('CHALLENGE ROTH TRAINING 2023').tohtml()
+		div.innerHTML = H2('CHALLENGE ROTH TRAINING - 2023').tohtml()
 		carouselCells[0].append(div)
 
 		mm = 10
