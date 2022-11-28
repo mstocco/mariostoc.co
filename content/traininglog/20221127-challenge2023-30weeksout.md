@@ -27,9 +27,14 @@ Outside Option:
 Mobility 27 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Moving Time: **85 Minutes**  &nbsp; Ride: ** km**
 
-&mdash;  
+Right glute max it still pretty sore. I rolled it out lightly before heading out.
+
+Weather was sunny with a descent headwind on the ride west.
+Took a spin up to the north end of _Thetis Park_ and hit a bit of single and found and fireroad back to _Westoby Road_.
+
+![Bike](/assets/jpg/image.jpeg)
 
 <!---->
 ## MONDAY NOV 28
