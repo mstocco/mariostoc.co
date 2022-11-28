@@ -17,24 +17,21 @@ I feel like I was...
 ![](/assets/jpg/II-9x550.jpeg)
 
 ## SUNDAY NOV 27 ☀️
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **2** | Fatigue **4** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Outside Option: 
-1:30-1:40. Have fun. Stay warm. Remember to drink water. Flat to rolling.
-
+1:30-1:40. Have fun. Stay warm. Remember to drink water. Flat to rolling.  
 Mobility 27 minutes
 
 ### NOTES
-Moving Time: **85 Minutes**  &nbsp; Ride: ** km**
+Moving Time: **91 Minutes**  &nbsp; Ride: **25 km**
 
 Right glute max it still pretty sore. I rolled it out lightly before heading out.
 
-Weather was sunny with a descent headwind on the ride west.
-Took a spin up to the north end of _Thetis Park_ and hit a bit of single and found and fireroad back to _Westoby Road_.
-
-![Bike](/assets/jpg/image.jpeg)
+Sunny with a headwind on the ride west.
+Spin up to the north end of _Thetis Park_, hit a bit of single track and a new fireroad back to _Westoby Road_.
+![Bike](/assets/jpg/20221127.jpeg)
 
 <!---->
 ## MONDAY NOV 28
