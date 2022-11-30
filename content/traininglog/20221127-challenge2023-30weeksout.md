@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![A difference venue for the swim workout on Tuesday.](/assets/jpg/IMG_4449-977x550.jpeg VANCOUVER AQUATIC CENTRE)
 
 ## SUNDAY NOV 27 ☀️
 Sleep **2** | Fatigue **4** | Stress **2** | Soreness **4**
@@ -45,11 +45,12 @@ Mobility 16 minutes
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+1700 sailing to Vancouver and checked in just after 2000.
+
 
 <!---->
-## TUESDAY NOV 29
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY NOV 29 ☁️
+Sleep **4** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -63,9 +64,15 @@ Swim 2500:
 Run 30 minutes EASY. Keep this EASY. Save your energy for [Wednesday's run](javascript:flick('wed');).
 
 ### NOTES
-Total Time: **0 Minutes**
+Swim: **2500m / 57 Mins** &nsbp; Treadmill: **30 Mins**
 
-&mdash;  
+I worked in the morning before walking across downtown to the _Vancouver Aquatic Centre_.
+
+The place is a definitely a dated facility but the water was the right temperature for lengths and for the most part, I had 50m lane for half the time I was in the water.  7:52 and 7:50 for the 400m reps.
+
+I didn't think that I was feeling particularly strong but I stuck to the schedule; I think this was **productive** time in the water.
+
+Back at the hotel, I found the gym and spent ~30 easy minutes on treadmill.  Given the snow, I will be back on this contraption again [tomorrow](javascript:flick('wed');)
 
 <!---->
 ## WEDNESDAY NOV 30
