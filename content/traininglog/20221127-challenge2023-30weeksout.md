@@ -75,8 +75,8 @@ I didn't think that I was feeling particularly strong but I stuck to the schedul
 Back at the hotel, I found the gym and spent ~30 easy minutes on treadmill.  Given the snow, I will be back on this contraption again [tomorrow](javascript:flick('wed');)
 
 <!---->
-## WEDNESDAY NOV 30
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY NOV 30 ☀️
+Sleep **4** | Fatigue **3** | Stress **2** | Soreness **2**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -84,13 +84,13 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 Run 50 minutes. Easy effort. Second run in two days. I imagine you'll be fine as long as you keep things easy. 
 
 ### NOTES
-Total Time: **0 Minutes**
+Treadmill Time: **60 Minutes** &nbsp; Avg HR: **130 BPM**
 
-&mdash;  
+Back down in the tiny gym of the _Pan Pacific Hotel_.  I walked for the first 5 minutes on the belt before pressing start on the watch.  I ran easy to heart-rate with a slow gradual increase in belt speed and incline.   I felt really good; no pressure to be in front of the computer.
 
 <!---->
-## THURSDAY DEC 1
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY DEC 1 🌤
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -102,13 +102,16 @@ Trainer 75 minutes:
 Mobility 22 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **75 Mins** Normalized Power: **136W**
 
-&mdash;  
+As fun as it was to travel to Vancouver, it is also really nice to wake up in my bed.
 
+I rode the trainer after work and although the warm-up was easy, the last 20 seconds of the efforts were challenging.
+
+Found a hotspot on my left hip flexor while stretching after dinner; massaged it with the roller.
 <!---->
-## FRIDAY DEC 2
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY DEC 2 ☁️
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
