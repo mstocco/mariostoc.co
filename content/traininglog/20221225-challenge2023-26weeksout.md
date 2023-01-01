@@ -4,19 +4,20 @@ Week beginning [Sunday, December 25, 2022](javascript:flick('sun');)
 **26** weeks out from race day.
 
 ## WEEKLY GOAL
-&mdash;
+
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **9.5 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **CELEBRATING**
 
-&mdash;
+Given the commotion of the season, this was a productive week.
 
-![](/assets/jpg/II-9x550.jpeg)
+We had my father-in-law spend the week with us and it worked out well.
 
-## SUNDAY DEC 25
+![CAUTION! SALMON AT WORK](/assets/jpg/IMG_4507-977x550.jpeg The fish trap in Cuthbert Holmes Park)
+
+## SUNDAY DEC 25 🎄
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -94,7 +95,7 @@ Total Time: **0 Minutes**
 &mdash;  
 
 <!---->
-## SATURDAY DEC 31
+## SATURDAY DEC 31 ☁️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -102,6 +103,6 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 &mdash;  
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **38 Minutes** &nbsp; Run: **5.8 km**
 
-&mdash;  
+Easy run on the dirt paths of _Cuthbert Holmes Park_.  Found the [fish trap](javascript:flkty.select(2);) used to count the salmon in the creek; the higher water flow over the grated walkway caught a tiny cutthroat trout.  I picked the poor fellow up and placed it back in the stream.  My last act of random kindness for 2022.

@@ -13,7 +13,7 @@ I feel like I was **RAMPING UP!**
 
 ~2500m in the pool feels normal now and I am stoke with how swimming is going.  The bike coming along too.
 
-![A look at the "Big Island"; much to cold to go for a swim but later next spring...](/assets/jpg/IMG_4497-977x550.jpeg THETIS LAKE)
+![A look at the "Big Island"; much to cold to go for a swim but later next spring...](/assets/jpg/IMG_4497-977x550.jpeg LOWER THETIS LAKE)
 
 ## SUNDAY DEC 11
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
