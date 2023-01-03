@@ -28,19 +28,23 @@ Total Time: **80 Minutes**
 
 As prescribed, easy effort.
 
+![](/assets/jpg/image.jpeg)
+
 <!---->
 ## MONDAY JAN 2 ☁️
 Sleep **2** | Fatigue **2** | Stress **2** | Soreness **2**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-**Pre-ride: Dead bugs, Breathing, Glute Bridges.**  
+**Dead bugs, Breathing, Glute Bridges.**  
 Trainer 90 minutes: 
 20 minutes easy riding to warm up.
 12x :30 high cadence/stable hips, :45 easy after each. 
 5 minutes easy riding. 
 8x 2:00, Big gear work, low cadence (70-80 range is appropriate for you, for now) high torque, power should be in the 165-200 range, 3:00 easy spinning after each. 
 10 minutes easy riding to finish up.
+
+Run 60 minutes. Easy effort. Terrain is up to you. But keep the effort EASY. 
 
 ### NOTES
 Total Time: **153 Mins** &nbsp;Run: **9.99 km** &nbsp;Trainer: **yes**
