@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![Vista 18](/assets/jpg/IMG_4517-977x550.jpeg NEW DAY, NEW YEAR IN VICTORIA)
+![A really nice sunrise to start the new year here in Victoria, Canada.](/assets/jpg/IMG_4517-977x550.jpeg VISTA 18 AT THE CHATEAU VICTORIA HOTEL)
 
 ## SUNDAY JAN 1 🎉
 Sleep **2** | Fatigue **2** | Stress **2** | Soreness **3**
@@ -47,9 +47,13 @@ Total Time: **153 Mins** &nbsp;Run: **9.99 km** &nbsp;Trainer: **yes**
 
 By the time we got home, it was getting to be later in the afternoon.  I did the jog first and carried a 500ml bottle with 60g of homemade carbohydrate mix in my hip belt.  Easy effort on the standard gravel route _(Panama Flats)_.   No aches or pains.
 
+<!----->
 Getting in the door and on to the trainer.  I had another bottle (710ml) ready to go with 70g of mix for the next 90 minutes.  I was NOT looking forward to the low cadence reps.  When I got to them however, it wasn't as bad as I thought.  I set the trainer at ~191 W and focused on holding 70 RPM with my hands on the bull horns.  I'd go back to the aerobars in between the reps.
 
 This was a **solid afternoon** and I am **feeling good**.
+
+![](/assets/jpg/image.jpeg)
+
 <!---->
 ## TUESDAY JAN 3 ☁️
 Sleep **2** | Fatigue **3** | Stress **2** | Soreness **2**
