@@ -24,13 +24,13 @@ Sleep **2** | Fatigue **2** | Stress **2** | Soreness **3**
 Trainer 80 minutes. Easy effort. Light spinning.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **80 Minutes**
 
-&mdash;  
+As prescribed, easy effort.
 
 <!---->
-## MONDAY JAN 2
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## MONDAY JAN 2 ☁️
+Sleep **2** | Fatigue **2** | Stress **2** | Soreness **2**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -43,13 +43,16 @@ Trainer 90 minutes:
 10 minutes easy riding to finish up.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **153 Minutes** &nbsp;Run: **9.99km** &nbsp;Trainer: **yes**
 
-&mdash;  
+By the time we got home, it was getting to be later in the afternoon.  I did the jog first and carried a 500ml bottle with 60g of homemade carbohydrate mix in my hip belt.  Easy effort on the standard gravel route _(Panama Flats)_.   No aches or pains.
 
+Getting in the door and on to the trainer.  I had another bottle (710ml) ready to go with 70g of mix for the next 90 minutes.  I was NOT looking forward to the low cadence reps.  When I got to them however, it wasn't as bad as I thought.  I set the trainer at ~191 W and focused on holding 70 RPM with my hands on the bull horns.  I'd go back to the aerobars in between the reps.
+
+This was a **solid afternoon** and I am **feeling good**.
 <!---->
-## TUESDAY JAN 3
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY JAN 3 ☁️
+Sleep **2** | Fatigue **3** | Stress **2** | Soreness **2**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
