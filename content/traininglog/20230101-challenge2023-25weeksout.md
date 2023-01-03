@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![Vista 18](/assets/jpg/IMG_4517-977x550.jpeg NEW DAY, NEW YEAR IN VICTORIA)
 
 ## SUNDAY JAN 1 🎉
 Sleep **2** | Fatigue **2** | Stress **2** | Soreness **3**
@@ -34,7 +34,7 @@ Sleep **2** | Fatigue **2** | Stress **2** | Soreness **2**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-**Pre-ride: Dead bugs, breathing, and Glute Bridges.**  
+**Pre-ride: Dead bugs, Breathing, Glute Bridges.**  
 Trainer 90 minutes: 
 20 minutes easy riding to warm up.
 12x :30 high cadence/stable hips, :45 easy after each. 
@@ -43,7 +43,7 @@ Trainer 90 minutes:
 10 minutes easy riding to finish up.
 
 ### NOTES
-Total Time: **153 Minutes** &nbsp;Run: **9.99km** &nbsp;Trainer: **yes**
+Total Time: **153 Mins** &nbsp;Run: **9.99 km** &nbsp;Trainer: **yes**
 
 By the time we got home, it was getting to be later in the afternoon.  I did the jog first and carried a 500ml bottle with 60g of homemade carbohydrate mix in my hip belt.  Easy effort on the standard gravel route _(Panama Flats)_.   No aches or pains.
 
