@@ -24,12 +24,13 @@ Sleep **2** | Fatigue **2** | Stress **2** | Soreness **3**
 Trainer 80 minutes. Easy effort. Light spinning.
 
 ### NOTES
-Total Time: **80 Minutes**
+Total Time: **80 Minutes** &nbsp; Normalized Power: **132W**
 
 As prescribed, easy effort.
 
-![](/assets/jpg/image.jpeg)
+![Bike](/assets/jpg/bike-20230101.jpeg)
 
+Seahawks beat the Jets as the cherry on the cake.
 <!---->
 ## MONDAY JAN 2 ☁️
 Sleep **2** | Fatigue **2** | Stress **2** | Soreness **2**
@@ -38,25 +39,24 @@ Sleep **2** | Fatigue **2** | Stress **2** | Soreness **2**
 ### PLANNED WORKOUT
 **Dead bugs, Breathing, Glute Bridges.**  
 Trainer 90 minutes: 
-20 minutes easy riding to warm up.
+20 minutes easy warm up.
 12x :30 high cadence/stable hips, :45 easy after each. 
 5 minutes easy riding. 
 8x 2:00, Big gear work, low cadence (70-80 range is appropriate for you, for now) high torque, power should be in the 165-200 range, 3:00 easy spinning after each. 
-10 minutes easy riding to finish up.
+10 minutes easy to finish up.
 
-Run 60 minutes. Easy effort. Terrain is up to you. But keep the effort EASY. 
+Run 60 minutes. Easy effort; terrain is up to you, but keep the effort EASY. 
 
 ### NOTES
 Total Time: **153 Mins** &nbsp;Run: **9.99 km** &nbsp;Trainer: **yes**
 
 By the time we got home, it was getting to be later in the afternoon.  I did the jog first and carried a 500ml bottle with 60g of homemade carbohydrate mix in my hip belt.  Easy effort on the standard gravel route _(Panama Flats)_.   No aches or pains.
-
 <!----->
+![Run](/assets/jpg/run-20230102.jpeg)
+
 Getting in the door and on to the trainer.  I had another bottle (710ml) ready to go with 70g of mix for the next 90 minutes.  I was NOT looking forward to the low cadence reps.  When I got to them however, it wasn't as bad as I thought.  I set the trainer at ~191 W and focused on holding 70 RPM with my hands on the bull horns.  I'd go back to the aerobars in between the reps.
 
-This was a **solid afternoon** and I am **feeling good**.
-
-![](/assets/jpg/image.jpeg)
+A **solid afternoon** and I am **feeling good**.
 
 <!---->
 ## TUESDAY JAN 3 ☁️
