@@ -24,13 +24,14 @@ Sleep **2** | Fatigue **2** | Stress **2** | Soreness **3**
 Trainer 80 minutes. Easy effort. Light spinning.
 
 ### NOTES
-Total Time: **80 Minutes** &nbsp; Normalized Power: **132W**
+Total Time: **80 Mins** &nbsp; Normalized Power: **132W**
 
 As prescribed, easy effort.
 
 ![Bike](/assets/jpg/bike-20230101.jpeg)
 
-Seahawks beat the Jets as the cherry on the cake.
+Seahawks beat the Jets too!
+
 <!---->
 ## MONDAY JAN 2 ☁️
 Sleep **2** | Fatigue **2** | Stress **2** | Soreness **2**
