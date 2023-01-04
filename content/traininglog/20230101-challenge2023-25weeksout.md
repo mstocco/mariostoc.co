@@ -75,17 +75,17 @@ Swim 2800:
 Mobility 30 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **75 Minutes** &nbsp;Swim:<mark> **2850m** </mark> 
 
-&mdash;  
+Part of it was me, but my watch didn't credit me for the 400m length.  My mistake was doing another 100m kick in place of a 200m free.  Regardless, I got wet and was working at getting better.  Bonus round completed with Carina getting a short video of me after the work was done.
 
 <!---->
-## WEDNESDAY JAN 4
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY JAN 4 ⛅️
+Sleep **2** | Fatigue **3** | Stress **2** | Soreness **2**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-**Pre-ride: Dead bugs, breathing, and Glute Bridges.**  
+**Dead bugs, Breathing, Glute Bridges.**  
 Bike: 
 Option A: MTB ~ 1:40-1:50
 Get outside, have fun, stay warm, stay as try as you can.
@@ -99,9 +99,10 @@ Option B: Trainer 1:25:
 Mobility 25 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **115 Minutes** &nbsp; MTB Ride: **29 km**
 
-&mdash;  
+This ride was **fun** as it had a bit of everything, pavement, fire road and single track.  Before heading out, I put 30psi, front and rear, into the tires to see if it'd make a difference.  I'd have to say yes as on my Rocky Mountain, I finally went sub-30 minutes to the north entrance to the park.  Actually it was 29:01!  Typically on this bike, I am at the gate in 32-ish minutes.
+
 
 <!---->
 ## THURSDAY JAN 5
