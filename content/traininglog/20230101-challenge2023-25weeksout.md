@@ -90,20 +90,25 @@ Bike:
 Option A: MTB ~ 1:40-1:50
 Get outside, have fun, stay warm, stay as try as you can.
 Remember to eat and drink! Generaly effort is easy to steady. 
-Option B: Trainer 1:25: 
-30 minutes easy riding. 
-2 rounds (1, 2, 3 minutes high cadence/VERY stable hips, 2 minutes normal riding after each) 
-2 rounds (1, 2, 3 minutes low cadence/high torque, Power in the 165-200 range...70-80 rpms, 2 minutes normal riding between each) 
-7 extra minutes of EASY spinning to cool down.
 
 Mobility 25 minutes
 
 ### NOTES
 Total Time: **115 Minutes** &nbsp; MTB Ride: **29 km**
 
-This ride was **fun** as it had a bit of everything, pavement, fire road and single track.  Before heading out, I put 30psi, front and rear, into the tires to see if it'd make a difference.  I'd have to say yes as on my Rocky Mountain, I finally went sub-30 minutes to the north entrance to the park.  Actually it was 29:01!  Typically on this bike, I am at the gate in 32-ish minutes.
+This ride was **fun** as it had a bit of everything, pavement, fire road and single track.
 
+Before heading out, I pumped 30 psi into the front and rear tires of my Rocky Mountain to see if it'd make a difference... 
 
+Question answered. I finally went sub-30 minutes to the north entrance to the park.  Actually it was 29:01!  Typically on this bike, I am at the gate in 32-ish minutes.
+<!----->
+Appearantly I wasn't done because after the gate, there is a 2.1 km Strava Segment that includes my favorite bit of single track; I crushed that today too.
+
+30 psi did have an adverse effect on traction on the steep rocky bits.
+
+It was nice to get this ride in before the weather turns wet for the foresable future.
+
+![Bike](/assets/jpg/image.jpeg)
 <!---->
 ## THURSDAY JAN 5
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
