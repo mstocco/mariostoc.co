@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![A really nice sunrise to start the new year here in Victoria, Canada.](/assets/jpg/IMG_4517-977x550.jpeg VISTA 18 AT THE CHATEAU VICTORIA HOTEL)
+![A really nice sunrise to start the new year here in Victoria, Canada.](/assets/jpg/IMG_4517-977x550.jpeg?v2 VISTA 18 RESTAURANT)
 
 ## SUNDAY JAN 1 🎉
 Sleep **2** | Fatigue **2** | Stress **2** | Soreness **3**
@@ -26,11 +26,10 @@ Trainer 80 minutes. Easy effort. Light spinning.
 ### NOTES
 Total Time: **80 Mins** &nbsp; Normalized Power: **132W**
 
-As prescribed, easy effort.
-
+As prescribed, easy effort with a couple of small, manual changes to the trainer resistance over the course of the activity.
 ![Bike](/assets/jpg/bike-20230101.jpeg)
 
-Seahawks beat the Jets too!
+Seahawks beat the Jets to keep the fan base excited.
 
 <!---->
 ## MONDAY JAN 2 ☁️
@@ -105,7 +104,7 @@ Question answered. I finally went sub-30 minutes to the north entrance to the pa
 Appearantly I wasn't done because after the gate, there is a 2.1 km Strava Segment that includes my favorite bit of single track; I crushed that today too.
 
 #### TLR weekly cfg 4:  13:51
-![Bike](/assets/jpg/bike-20230104.jpeg)
+![Bike](/assets/jpg/bike-20230104.jpeg?v2)
 
 30 psi did have an adverse effect on traction on the steep rocky bits.
 
@@ -113,8 +112,8 @@ It was nice to get this ride in before the weather turns wet for the foresable f
 
 
 <!---->
-## THURSDAY JAN 5
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY JAN 5 ☁️
+Sleep **4** | Fatigue **3** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -128,7 +127,7 @@ Pre-run: **Dead bugs, breathing, and Glute Bridges.**
 Run 50 minutes. Hilly route. EASY effort.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Mins** &nbsp;Swim: **0m** &nbsp;Run: **0 km**
 
 &mdash;  
 
