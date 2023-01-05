@@ -103,6 +103,8 @@ Before heading out, I pumped 30 psi into the front and rear tires of my Rocky Mo
 Question answered. I finally went sub-30 minutes to the north entrance to the park.  Actually it was 29:01!  Typically on this bike, I am at the gate in 32-ish minutes.
 <!----->
 Appearantly I wasn't done because after the gate, there is a 2.1 km Strava Segment that includes my favorite bit of single track; I crushed that today too.
+
+#### TLR weekly cfg 4:  13:51
 ![Bike](/assets/jpg/bike-20230104.jpeg)
 
 30 psi did have an adverse effect on traction on the steep rocky bits.
