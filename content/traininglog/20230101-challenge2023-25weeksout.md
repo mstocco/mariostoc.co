@@ -29,7 +29,7 @@ Total Time: **80 Mins** &nbsp; Normalized Power: **132W**
 As prescribed, easy effort with a couple of small, manual changes to the trainer resistance over the course of the activity.
 ![Bike](/assets/jpg/bike-20230101.jpeg)
 
-Seahawks beat the Jets to keep the fan base excited.
+Seahawks beat the Jets this afternoon too.
 
 <!---->
 ## MONDAY JAN 2 ☁️
@@ -127,9 +127,11 @@ Pre-run: **Dead bugs, breathing, and Glute Bridges.**
 Run 50 minutes. Hilly route. EASY effort.
 
 ### NOTES
-Total Time: **0 Mins** &nbsp;Swim: **0m** &nbsp;Run: **0 km**
+Total Time: **120 Mins** &nbsp;Swim: **2800m** &nbsp;Run: **7.4 km**
 
-&mdash;  
+Extra effort in the pool after a _"swim focused"_ weekly call with Elliot.  My body would have been fine with the effort on a regular day but I had a run as well.
+
+After a short lap of _Cuthbert Holmes_, I hit the berm for 16 reps that got me ~220m of elevation.  Super windy made the hill a bit steeper.
 
 <!---->
 ## FRIDAY JAN 6
