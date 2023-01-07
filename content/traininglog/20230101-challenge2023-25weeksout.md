@@ -7,12 +7,13 @@ Week beginning [Sunday, January 1, 2023](javascript:flick('sun');)
 New week, new year, same goal of consistency.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **13 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **TRAINING**
 
-&mdash;
+Huge week with the time off work.  Two fun MTB rides around _Mount Stewart_, some focused efforts in the pool and easy running made up the bulk of the week.  The weather mostly cooperated except for [Saturday](javascript:flick('sat');).
+
+New bike frame arrived but they sent me a size M. 😡
 
 ![A really nice sunrise to start the new year here in Victoria, Canada.](/assets/jpg/IMG_4517-977x550.jpeg?v2 VISTA 18 RESTAURANT)
 
@@ -134,12 +135,12 @@ Extra effort in the pool after a _"swim focused"_ weekly call with Elliot.  My b
 After a short lap of _Cuthbert Holmes_, I hit the berm for 16 reps that got me ~220m of elevation.  Super windy made the hill a bit steeper.
 
 <!---->
-## FRIDAY JAN 6
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY JAN 6 ☁️
+Sleep **3** | Fatigue **3** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-This is the same as Wednesday...  
+This is the same as [Wednesday...](javascript:flick('wed');)    
 I'm hoping you can get outside one day (Or both) And if not, you I can write a second trainer set for Friday. 
 I'd prefer two outside rides, but I realize that is asking a lot for the First week in January. 
 
@@ -148,26 +149,36 @@ Pre-ride: Dead bugs, breathing, and Glute Bridges.
 Option A: MTB ~ 1:40-1:50. 
 Get outside, have fun, stay warm, stay as try as you can.
 Remember to eat and drink! Generaly effort is easy to steady.
-Option B: Trainer 1:25:
-30 minutes easy riding.
-2 rounds (1, 2, 3 minutes high cadence/VERY stable hips, 2 minutes normal riding after each)
-2 rounds (1, 2, 3 minutes low cadence/high torque, Power in the 165-200 range...70-80 rpms, 2 minutes normal riding between each)
-7 extra minutes of EASY spinning to cool down.
+
+<strike>Option B: Trainer 1:25</strike>
 
 Mobilty 22 minutes  
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **120 Minutes** &nbsp; MTB Ride: **29 km**
 
-&mdash;  
+First drop of rain felt as I arrived home; 40 seconds later the rain came down!  I could not have timed it better.
+
+Similar ride up to _Thetis_ but I was ~40 seconds slower to the gate.  After a short break, I ripped both the Strava Segments, Noron and TLR weekly cfg 4, setting PRs on both.  I was roughly 57 minutes total to the gate at _Davies Road_ (last year it was closer to an hour).
+
+I explored a bit of single track from there only to find a private property/no riding sign at the end of the trail.  I did need to push my bike for a short bit and once back on rideable terrain, I finished the ride on familiar path(s).  
+
+I **felt strong** on the push home and a finished with a bit more vertical than [Wednesday...](javascript:flick('wed');).
 
 <!---->
-## SATURDAY JAN 7
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY JAN 7 🌧
+Sleep **2** | Fatigue **3** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+1st: Pre-run: Dead bugs, breathing, and Glute Bridges.
+Run 40 minutes EASY. Best footing you can find. Generally a flat run. Save some energy for the swim. 
+
+2nd: Swim 2500:
+2 rounds (100 easy swim, 50 steady kick...keeping the kick tight and controlled. Rest as needed after each) 
+2 rounds (8x 50 w/ form focus. In this case...playing around with more force with your hand into the water, aka: More rotation, aka: slightly higher turnover. R :30 after each. Giving yourself time to reset after each rep. 100 EASY and relaxed after each round) 
+4x 250 aerobic/smooth. Focus on breathing and feeling comfortable. R 1:00 after each. 
+4x 50 super easy to cool down.
 
 ### NOTES
 Total Time: **0 Minutes**
