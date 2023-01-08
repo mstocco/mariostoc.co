@@ -7,7 +7,7 @@ Week beginning [Sunday, January 1, 2023](javascript:flick('sun');)
 New week, new year, same goal of consistency.
 
 ## SUMMARY
-Total Time: **13 Hours**
+Total Time: **12.5 Hours**
 
 I feel like I was **TRAINING**
 
@@ -181,6 +181,15 @@ Run 40 minutes EASY. Best footing you can find. Generally a flat run. Save some 
 4x 50 super easy to cool down.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **72 Mins** Swim: <mark>700m</mark> Run(s): **53 mins**
 
-&mdash;  
+Spent the morning watching the rain come down hard.  No let up at all.
+
+Carina drove me to the pool with the idea that I'd run on the treadmill and then swim the 50m lanes at 1530.  That plan started ok but the pool closed early; not enough life guards.  Plan B: jog home.  Why not as I had running kit with me...
+
+<!----->
+One thing that was pretty cool was noticing that there was an Assault AirRunner at the pool.  I've always wanted to try one.  
+
+It did not disappoint.  Far more engaging that a regular treadmill; fun.
+
+![Run](/assets/jpg/image.jpeg)
