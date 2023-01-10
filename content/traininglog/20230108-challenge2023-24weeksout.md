@@ -16,8 +16,8 @@ I feel like I was...
 
 ![](/assets/jpg/II-9x550.jpeg)
 
-## SUNDAY JAN 8
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SUNDAY JAN 8 🌧
+Sleep **2** | Fatigue **4** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -31,13 +31,15 @@ Trainer 1:40:
 Mobility 30 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **63 Mins** &nbsp; Normalized Power: **100W**
 
-&mdash;  
+I did some chores, made linguine from scratch and watched the Seahawks win in OT.  The whole time, I wasn't overly excited about getting on the bike.  Quads did feel worked from [last week](challenge2023-25weeksout).  Maybe it being the last day before returning to work weighing on my mind...
+
+After dinner, I did make it downstairs to spin my legs, with the second half of the DET v GB game on the screen.  Easy effort only.
 
 <!---->
-## MONDAY JAN 9
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## MONDAY JAN 9 ☁️
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -47,13 +49,17 @@ Get outside. Ideally on a trail or two. But any road will do.
 Make sure the effort is EASY.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **65 Minutes** &nbsp; Run: **9.9 km**
 
-&mdash;  
+The rain came down hard all day I didn't really have an appetite for going out in that.  There was a weather window at 1800 and I choose to head out in the dark.  That put me on the sidewalks where there were street lamps made the footing known.
+
+Up and over _Craigflower Hill_ plus the short rolling route to/from and I ending up with ~140m of elevation gain.  My hill reps on _"The Berm"_ net more gain for the same given time.  Something to remember for next time.
+
+Effort was **easy**.
 
 <!---->
-## TUESDAY JAN 10
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY JAN 10 ☀️
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -67,9 +73,9 @@ Swim 2700:
 Mobility 30 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Swim: **0m**
 
-&mdash;  
+Rode to and from the pool.
 
 <!---->
 ## WEDNESDAY JAN 11
