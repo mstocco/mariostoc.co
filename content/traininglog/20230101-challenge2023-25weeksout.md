@@ -11,9 +11,11 @@ Total Time: **12.5 Hours**
 
 I feel like I was **TRAINING**
 
-Huge week with the time off work.  Two fun MTB rides around _Mount Stewart_, some focused efforts in the pool and easy running made up the bulk of the week.  The weather mostly cooperated except for [Saturday](javascript:flick('sat');).
+Huge week in the grand scheme of things; nice to get it all in with the week off work and some dry weather moments.  Two fun MTB rides around _Mount Stewart_, some focused efforts in the pool and easy running made up the bulk of the week.
 
-New bike frame arrived but they sent me a size M. 😡
+Hit all the workouts as written except for [Saturday](javascript:flick('sat');) where a lack of lifeguards cut my pool time short.
+
+FedEx dropped off a new bike frame but what was in the box was a size M. 😡
 
 ![A really nice sunrise to start the new year here in Victoria, Canada.](/assets/jpg/IMG_4517-977x550.jpeg?v2 VISTA 18 RESTAURANT)
 
@@ -86,8 +88,7 @@ Sleep **2** | Fatigue **3** | Stress **2** | Soreness **2**
 
 ### PLANNED WORKOUT
 **Dead bugs, Breathing, Glute Bridges.**  
-Bike: 
-Option A: MTB ~ 1:40-1:50
+MTB ~ 1:40-1:50
 Get outside, have fun, stay warm, stay as try as you can.
 Remember to eat and drink! Generaly effort is easy to steady. 
 
@@ -98,15 +99,14 @@ Total Time: **115 Minutes** &nbsp; MTB Ride: **29 km**
 
 This ride was **fun** as it had a bit of everything, pavement, fire road and single track.
 
-Before heading out, I pumped 30 psi into the front and rear tires of my Rocky Mountain to see if it'd make a difference... 
+Before heading out, I pumped 30 psi into the front and rear tires of my Rocky Mountain to see if it'd make a difference...  Question answered. 
 
-Question answered. I finally went sub-30 minutes to the north entrance to the park.  Actually it was 29:01!  Typically on this bike, I am at the gate in 32-ish minutes.
+I finally went sub-30 minutes (29:03) to the gate at _Westoby Road_!  Typically with this bike, I am at the gate in 32-ish minutes.
 <!----->
 Appearantly I wasn't done because after the gate, there is a 2.1 km Strava Segment that includes my favorite bit of single track; I crushed that today too.
 
 #### TLR weekly cfg 4:  13:51
 ![Bike](/assets/jpg/bike-20230104.jpeg?v2)
-
 30 psi did have an adverse effect on traction on the steep rocky bits.
 
 It was nice to get this ride in before the weather turns wet for the foresable future.
@@ -131,25 +131,27 @@ Run 50 minutes. Hilly route. EASY effort.
 Total Time: **120 Mins** &nbsp;Swim: **2800m** &nbsp;Run: **7.4 km**
 
 Extra effort in the pool after a _"swim focused"_ weekly call with Elliot.  My body would have been fine with the effort on a regular day but I had a run as well.
-
+<!----->
 After a short lap of _Cuthbert Holmes_, I hit the berm for 16 reps that got me ~220m of elevation.  Super windy made the hill a bit steeper.
+
+![](/assets/jpg/image.jpeg)
 
 <!---->
 ## FRIDAY JAN 6 ☁️
 Sleep **3** | Fatigue **3** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
+<h3 style="color:#ADADAD;">COACH'S NOTES</h3>
+<p style="background-color:#fdfdfd;color:#adadad;">
+ This is the same as <a href="javascript:flick('wed');">Wednesday...</a>
+ I'm hoping you can get outside one day (or both) And if not, I can write a second trainer set for Friday. 
+ I'd prefer two outside rides, but I realize that is asking a lot for the first week of January. 
+</p>
+
 ### PLANNED WORKOUT
-This is the same as [Wednesday...](javascript:flick('wed');)    
-I'm hoping you can get outside one day (Or both) And if not, you I can write a second trainer set for Friday. 
-I'd prefer two outside rides, but I realize that is asking a lot for the First week in January. 
-
-Pre-ride: Dead bugs, breathing, and Glute Bridges.
-
 Option A: MTB ~ 1:40-1:50. 
 Get outside, have fun, stay warm, stay as try as you can.
-Remember to eat and drink! Generaly effort is easy to steady.
-
+Remember to eat and drink! Generaly effort is easy to steady.  
 <strike>Option B: Trainer 1:25</strike>
 
 Mobilty 22 minutes  
@@ -158,21 +160,21 @@ Mobilty 22 minutes
 Total Time: **120 Minutes** &nbsp; MTB Ride: **29 km**
 
 First drop of rain felt as I arrived home; 40 seconds later the rain came down!  I could not have timed it better.
-
+<!----->
 Similar ride up to _Thetis_ but I was ~40 seconds slower to the gate.  After a short break, I ripped both the Strava Segments, Noron and TLR weekly cfg 4, setting PRs on both.  I was roughly 57 minutes total to the gate at _Davies Road_ (last year it was closer to an hour).
 
 I explored a bit of single track from there only to find a private property/no riding sign at the end of the trail.  I did need to push my bike for a short bit and once back on rideable terrain, I finished the ride on familiar path(s).  
 
 I **felt strong** on the push home and a finished with a bit more vertical than [Wednesday...](javascript:flick('wed');).
-
+![](/assets/jpg/image.jpeg)
 <!---->
 ## SATURDAY JAN 7 🌧
 Sleep **2** | Fatigue **3** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-1st: Pre-run: Dead bugs, breathing, and Glute Bridges.
-Run 40 minutes EASY. Best footing you can find. Generally a flat run. Save some energy for the swim. 
+1st: Run 40 minutes EASY.
+Best footing you can find. Generally a flat run. Save some energy for the swim. 
 
 2nd: Swim 2500:
 2 rounds (100 easy swim, 50 steady kick...keeping the kick tight and controlled. Rest as needed after each) 
@@ -185,9 +187,9 @@ Total Time: **72 Mins** Swim: <mark>700m</mark> Run(s): **53 mins**
 
 Spent the morning watching the rain come down hard.  No let up at all.
 
+<!----->
 Carina drove me to the pool with the idea that I'd run on the treadmill and then swim the 50m lanes at 1530.  That plan started ok but the pool closed early; not enough life guards.  Plan B: jog home.  Why not as I had running kit with me...
 
-<!----->
 One thing that was pretty cool was noticing that there was an Assault AirRunner at the pool.  I've always wanted to try one.  
 
 It did not disappoint.  Far more engaging that a regular treadmill; fun.
