@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![This was the sunset on the ride home from the pool on Tuesday.](/assets/jpg/IMG_4528-977x550 JOHNSON STREET BRIDGE)
+![This was the sunset on the ride home from the pool on Tuesday.](/assets/jpg/IMG_4528-977x550.jpeg JOHNSON STREET BRIDGE)
 
 ## SUNDAY JAN 8 🌧
 Sleep **2** | Fatigue **4** | Stress **3** | Soreness **3**
@@ -71,7 +71,7 @@ Mobility 30 minutes
 ### NOTES
 Total Time: **61 Minutes** &nbsp; Swim: **2700m**
 
-The focused 50m lengths were on point; actually the whole swim was good.  No swim clubs and a lane all to my self for the entire hour.
+The whole swim was good; a lane all to my self for the entire hour.
 ![Swim](/assets/jpg/swim-20230110.jpeg)
 
 <!---->
