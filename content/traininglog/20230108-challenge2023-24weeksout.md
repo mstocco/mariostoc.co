@@ -51,7 +51,8 @@ Total Time: **65 Minutes** &nbsp; Run: **9.9 km**
 
 The rain came down hard all day I didn't really have an appetite for going out in that.  There was a weather window at 1800 and I choose to head out in the dark.  That put me on the sidewalks where there were street lamps made the footing known.
 
-Up and over _Craigflower Hill_ plus the short rolling route to/from and I ending up with ~140m of elevation gain.  My hill reps on _"The Berm"_ net more gain for the same given time.  Something to remember for next time.  Effort was **easy**.
+Up and over _Craigflower Hill_ plus the short rolling route to/from and I ending up with ~140m of elevation gain.  My hill reps on _"The Berm"_ net ~100m more gain for less time.  Something to remember for next time.    
+Effort was **easy**.
 
 <!---->
 ## TUESDAY JAN 10 ☀️
@@ -71,7 +72,7 @@ Mobility 30 minutes
 ### NOTES
 Total Time: **61 Minutes** &nbsp; Swim: **2700m**
 
-The whole swim was **productive** (lane all to my self).
+This swim was **productive** (lane all to my self).
 ![Swim](/assets/jpg/swim-20230110.jpeg)
 
 <!---->
