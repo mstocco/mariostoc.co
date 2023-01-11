@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![This was the sunset on the ride home from the pool on Tuesday.](/assets/jpg/IMG_4528-977x550 JOHNSON STREET BRIDGE)
 
 ## SUNDAY JAN 8 🌧
 Sleep **2** | Fatigue **4** | Stress **3** | Soreness **3**
@@ -28,14 +28,12 @@ Trainer 1:40:
 8x 2:00, Big gear work, low cadence (70-80 range is appropriate for you, for now) high torque, power should be in the 165-200 range, 3:00 easy spinning after each.
 15 minutes easy riding to finish up.
 
-Mobility 30 minutes
-
 ### NOTES
 Total Time: **63 Mins** &nbsp; Normalized Power: **100W**
 
 I did some chores, made linguine from scratch and watched the Seahawks win in OT.  The whole time, I wasn't overly excited about getting on the bike.  Quads did feel worked from [last week](challenge2023-25weeksout).  Maybe it being the last day before returning to work weighing on my mind...
 
-After dinner, I did make it downstairs to spin my legs, with the second half of the DET v GB game on the screen.  Easy effort only.
+After dinner, I did make it downstairs to spin my legs; easy effort only.
 
 <!---->
 ## MONDAY JAN 9 ☁️
@@ -53,9 +51,7 @@ Total Time: **65 Minutes** &nbsp; Run: **9.9 km**
 
 The rain came down hard all day I didn't really have an appetite for going out in that.  There was a weather window at 1800 and I choose to head out in the dark.  That put me on the sidewalks where there were street lamps made the footing known.
 
-Up and over _Craigflower Hill_ plus the short rolling route to/from and I ending up with ~140m of elevation gain.  My hill reps on _"The Berm"_ net more gain for the same given time.  Something to remember for next time.
-
-Effort was **easy**.
+Up and over _Craigflower Hill_ plus the short rolling route to/from and I ending up with ~140m of elevation gain.  My hill reps on _"The Berm"_ net more gain for the same given time.  Something to remember for next time.  Effort was **easy**.
 
 <!---->
 ## TUESDAY JAN 10 ☀️
@@ -74,8 +70,6 @@ Mobility 30 minutes
 
 ### NOTES
 Total Time: **61 Minutes** &nbsp; Swim: **2700m**
-
-Rode to and from the pool; nice break from the rain.
 
 The focused 50m lengths were on point; actually the whole swim was good.  No swim clubs and a lane all to my self for the entire hour.
 ![Swim](/assets/jpg/swim-20230110.jpeg)
