@@ -73,9 +73,12 @@ Swim 2700:
 Mobility 30 minutes
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Swim: **0m**
+Total Time: **61 Minutes** &nbsp; Swim: **2700m**
 
-Rode to and from the pool.
+Rode to and from the pool; nice break from the rain.
+
+The focused 50m lengths were on point; actually the whole swim was good.  No swim clubs and a lane all to my self for the entire hour.
+![Swim](/assets/jpg/swim-20230110.jpeg)
 
 <!---->
 ## WEDNESDAY JAN 11
