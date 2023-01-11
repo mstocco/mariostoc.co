@@ -79,7 +79,9 @@ Mobility 30 minutes
 ### NOTES
 Total Time: **75 Minutes** &nbsp;Swim:<mark> **2850m** </mark> 
 
-Part of it was me, but my watch didn't credit me for the 400m length.  My mistake was doing another 100m kick in place of a 200m free.  Regardless, I got wet and was working at getting better.  Bonus round completed with Carina getting a short video of me after the work was done.
+Part of it was me, but my watch didn't credit me for the 400m length.  My mistake was doing another 100m kick in place of a 200m free.  Regardless, I got wet and was working at becoming a better swimmer.
+
+**Bonus:** Carina recorded a short video of me after 2700m.
 
 <!---->
 ## WEDNESDAY JAN 4 ⛅️
@@ -87,7 +89,8 @@ Sleep **2** | Fatigue **3** | Stress **2** | Soreness **2**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-**Dead bugs, Breathing, Glute Bridges.**  
+**Dead bugs, Breathing, Glute Bridges.**
+
 MTB ~ 1:40-1:50
 Get outside, have fun, stay warm, stay as try as you can.
 Remember to eat and drink! Generaly effort is easy to steady. 
@@ -97,20 +100,18 @@ Mobility 25 minutes
 ### NOTES
 Total Time: **115 Minutes** &nbsp; MTB Ride: **29 km**
 
-This ride was **fun** as it had a bit of everything, pavement, fire road and single track.
-
 Before heading out, I pumped 30 psi into the front and rear tires of my Rocky Mountain to see if it'd make a difference...  Question answered. 
 
-I finally went sub-30 minutes (29:03) to the gate at _Westoby Road_!  Typically with this bike, I am at the gate in 32-ish minutes.
-<!----->
+I finally went sub-30 minutes (29:03) to the gate at _Westoby Road_!  Typically with this bike, I am there in 32-ish minutes.
 Appearantly I wasn't done because after the gate, there is a 2.1 km Strava Segment that includes my favorite bit of single track; I crushed that today too.
+
+<!----->
+30 psi did have a noticeable (adverse) effect on rear wheel traction on the steep rocky bits.
 
 #### TLR weekly cfg 4:  13:51
 ![Bike](/assets/jpg/bike-20230104.jpeg?v2)
-30 psi did have an adverse effect on traction on the steep rocky bits.
 
 It was nice to get this ride in before the weather turns wet for the foresable future.
-
 
 <!---->
 ## THURSDAY JAN 5 ☁️
@@ -124,25 +125,23 @@ Swim 2800:
 5 Rounds (50 build to strong. R :30, 250 aerobic/steady/smooth. R :45)
 4x 50 EASY to cool down. 
 
-Pre-run: **Dead bugs, breathing, and Glute Bridges.**   
+Pre-run: **Dead bugs, Breathing, Glute Bridges.**   
 Run 50 minutes. Hilly route. EASY effort.
 
 ### NOTES
 Total Time: **120 Mins** &nbsp;Swim: **2800m** &nbsp;Run: **7.4 km**
 
-Extra effort in the pool after a _"swim focused"_ weekly call with Elliot.  My body would have been fine with the effort on a regular day but I had a run as well.
-<!----->
-After a short lap of _Cuthbert Holmes_, I hit the berm for 16 reps that got me ~220m of elevation.  Super windy made the hill a bit steeper.
+Extra effort in the pool after a _"swim focused"_ weekly call with Elliot.  My body would have been fine with just the swim on but I had a run as well.
 
-![](/assets/jpg/image.jpeg)
+I hit _"The Berm"_ for 16 reps that got me ~220m of elevation.  Wind gusts made the hill steeper.
 
 <!---->
 ## FRIDAY JAN 6 ☁️
 Sleep **3** | Fatigue **3** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
-<h3 style="color:#ADADAD;">COACH'S NOTES</h3>
-<p style="background-color:#fdfdfd;color:#adadad;">
+<h3 style="color:#aaa;">COACH'S NOTES</h3>
+<p style="background-color:#ddd;color:#aaa;">
  This is the same as <a href="javascript:flick('wed');">Wednesday...</a>
  I'm hoping you can get outside one day (or both) And if not, I can write a second trainer set for Friday. 
  I'd prefer two outside rides, but I realize that is asking a lot for the first week of January. 
@@ -166,7 +165,7 @@ Similar ride up to _Thetis_ but I was ~40 seconds slower to the gate.  After a s
 I explored a bit of single track from there only to find a private property/no riding sign at the end of the trail.  I did need to push my bike for a short bit and once back on rideable terrain, I finished the ride on familiar path(s).  
 
 I **felt strong** on the push home and a finished with a bit more vertical than [Wednesday...](javascript:flick('wed');).
-![](/assets/jpg/image.jpeg)
+![](/assets/jpg/bike-20230106.jpeg)
 <!---->
 ## SATURDAY JAN 7 🌧
 Sleep **2** | Fatigue **3** | Stress **2** | Soreness **3**
@@ -188,10 +187,16 @@ Total Time: **72 Mins** Swim: <mark>700m</mark> Run(s): **53 mins**
 Spent the morning watching the rain come down hard.  No let up at all.
 
 <!----->
-Carina drove me to the pool with the idea that I'd run on the treadmill and then swim the 50m lanes at 1530.  That plan started ok but the pool closed early; not enough life guards.  Plan B: jog home.  Why not as I had running kit with me...
+Carina drove me to the pool with the idea that I'd run on a treadmill and then swim the 50m lanes at 1530.  That plan started ok...
 
-One thing that was pretty cool was noticing that there was an Assault AirRunner at the pool.  I've always wanted to try one.  
-
+I noticing that there was an Assault AirRunner at the pool.  I've always wanted to try one.  
 It did not disappoint.  Far more engaging that a regular treadmill; fun.
 
-![Run](/assets/jpg/image.jpeg)
+![Run 1](/assets/jpg/run1-20230107.jpeg)
+
+<!----->
+Once the 50m lanes were set up, I got into the water.  Unfortunately,the pool closed early; not enough life guards.
+
+Plan B: jog home.  Why not as I had running kit with me and the rain had turned into a drizzle.
+![Run 2](/assets/jpg/run2-20230107.jpeg)
+
