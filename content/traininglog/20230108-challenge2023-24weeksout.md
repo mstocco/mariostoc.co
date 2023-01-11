@@ -33,7 +33,7 @@ Total Time: **63 Mins** &nbsp; Normalized Power: **100W**
 
 I did some chores, made linguine from scratch and watched the Seahawks win in OT.  The whole time, I wasn't overly excited about getting on the bike.  Quads did feel worked from [last week](challenge2023-25weeksout).  Maybe it being the last day before returning to work weighing on my mind...
 
-After dinner, I did make it downstairs to spin my legs; easy effort only.
+After dinner I did spin my legs; easy effort only.
 
 <!---->
 ## MONDAY JAN 9 ☁️
@@ -71,7 +71,7 @@ Mobility 30 minutes
 ### NOTES
 Total Time: **61 Minutes** &nbsp; Swim: **2700m**
 
-The whole swim was good; a lane all to my self for the entire hour.
+The whole swim was **productive** (lane all to my self).
 ![Swim](/assets/jpg/swim-20230110.jpeg)
 
 <!---->
