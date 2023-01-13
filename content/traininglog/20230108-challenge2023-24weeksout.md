@@ -90,8 +90,9 @@ Time: **60 Mins** &nbsp; Normalized Power: **112W**
 
 Left glute and right (front) deltoid are the minor sore points of the morning.
 
-Stuck the D2Z aerobars on the old TT Bike to try them out for the first time.  I think they'll work on the new bike.  Light, very much Z2 effort on the trainer for the hour.
+Stuck the D2Z aerobars on the old TT Bike to try them out for the first time.  I think they'll work on the new bike.
 
+Light, very much Z2 effort on the trainer for the hour.
  
 <!---->
 ## THURSDAY JAN 12 🌧
@@ -115,6 +116,7 @@ Time: **90 Mins** &nbsp;Swim: **2800m** &nbsp;Run: **30 mins**
 Unlike [Tuesday](javascript:flick('tue');), the kids took over most of the lanes at 1600 today.  That squeezed everyone else into 2 lanes and it was crowded.  The 150m reps were done with effort just to keep up and find my space in the lane.  **Solid workout.**
 
 I felt pretty good on the standard treadmill too.  I was hoping to use the curved, AirRunner but it was occupied.  ☹️
+
 <!---->
 ## FRIDAY JAN 13
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
