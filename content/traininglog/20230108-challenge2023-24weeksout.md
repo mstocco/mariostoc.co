@@ -86,12 +86,15 @@ Ride 60 minutes. EASY riding. Keep the HR low. Keep the effort low. Just spnning
 You can jump outside on any bike, or ride inside. Trainer or rollers work!
 
 ### NOTES
-Time: **60 Mins** &nbsp; Normalized Power: **0W**
+Time: **60 Mins** &nbsp; Normalized Power: **112W**
 
 Left glute and right (front) deltoid are the minor sore points of the morning.
 
+Stuck the D2Z aerobars on the old TT Bike to try them out for the first time.  I think they'll work on the new bike.  Light, very much Z2 effort on the trainer for the hour.
+
+ 
 <!---->
-## THURSDAY JAN 12
+## THURSDAY JAN 12 🌧
 Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
