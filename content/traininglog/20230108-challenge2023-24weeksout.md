@@ -76,8 +76,8 @@ This swim was **productive** (lane all to my self).
 ![Swim](/assets/jpg/swim-20230110.jpeg)
 
 <!---->
-## WEDNESDAY JAN 11
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY JAN 11 🌤
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -86,13 +86,13 @@ Ride 60 minutes. EASY riding. Keep the HR low. Keep the effort low. Just spnning
 You can jump outside on any bike, or ride inside. Trainer or rollers work!
 
 ### NOTES
-Total Time: **0 Minutes**
+Time: **60 Mins** &nbsp; Normalized Power: **0W**
 
-&mdash;  
+Left glute and right (front) deltoid are the minor sore points of the morning.
 
 <!---->
 ## THURSDAY JAN 12
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -106,12 +106,12 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 
 2nd: Run 30 minutes EASY. Treadmill run will work just fine!
 
-
 ### NOTES
-Total Time: **0 Minutes**
+Time: **90 Mins** &nbsp;Swim: **2800m** &nbsp;Run: **30 mins**
 
-&mdash;  
+Unlike [Tuesday](javascript:flick('tue');), the kids took over most of the lanes at 1600 today.  That squeezed everyone else into 2 lanes and it was crowded.  The 150m reps were done with effort just to keep up and find my space in the lane.  **Solid workout.**
 
+I felt pretty good on the standard treadmill too.  I was hoping to use the curved, AirRunner but it was occupied.  ☹️
 <!---->
 ## FRIDAY JAN 13
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
