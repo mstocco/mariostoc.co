@@ -7,12 +7,11 @@ Week beginning [Sunday, January 8, 2023](javascript:flick('sun');)
 Back to work week... Wake up early and stay organized.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **9.5 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **WORKED**
 
-&mdash;
+Two trainer rides started, neither ridden to completion.
 
 ![This was the sunset on the ride home from the pool on Tuesday.](/assets/jpg/IMG_4528-977x550.jpeg JOHNSON STREET BRIDGE)
 
@@ -137,17 +136,24 @@ Mobility 25 minutes
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Very late start to the activity.  I took two cracks at the 6 minute reps and neither time I could get close to the floor of the HR goal.  Legs had no juice
 
 <!---->
 ## SATURDAY JAN 14
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **3** | Fatigue **4** | Stress **2** | Soreness **2**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash;  
 
 ### NOTES
-Total Time: **0 Minutes**
+Moving Time: **100 Minutes** &nbsp; Ascent: **570m**
 
-&mdash;  
+I have been chasing October 1, 2020 ever since I picked up my Rocky Mountain Element.  Today, I focused on the push to the gate at the end of _Westoby Road_ and what do you know...
+
+**27:16** besting my time from [last week](challenge2023-25weeksout?) and inching ever closer to that 2020 time (27 flat).  The difference being just paying attention to the terrain and task at hand (better paced).
+
+I head uphill from there with an attempt to ride up to the summit of _Mount Stewart_.  Nice idea but that route is still far too much hill for me to handle.  I had get off and push my bike twice.
+
+
+
