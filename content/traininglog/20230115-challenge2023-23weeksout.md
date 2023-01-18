@@ -85,7 +85,7 @@ I got on the _AirRunner_ and although the effort was **easy**, I still had to wo
 
 <!---->
 ## WEDNESDAY JAN 18
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -97,9 +97,9 @@ Trainer 1:25:
 7 extra minutes of EASY spinning to cool down
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Mins** Normalized Power: **0W**
 
-&mdash;  
+Woke up feeling a bit less stiff but my right serratus is still not back to normal. 
 
 <!---->
 ## THURSDAY JAN 19
