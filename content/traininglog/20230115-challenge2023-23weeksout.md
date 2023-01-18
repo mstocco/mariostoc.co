@@ -36,8 +36,10 @@ Run 50 minutes. Easy running. Flatter terrain would be preferred.
 Total Time: **110 Mins**  &nbsp;Swim: **2700m** &nbsp;Run: **8 km**
 
 Feeling a bit smoked.  Quads on the ride to the pool, lats once in the water and my right side serratus posterior inferior is tight in general this morning.  I felt like I was fighting the water.  Regardless, I did what I could to stay on schedule; lane was congested for periods too.
-
+<!----->
 The afternoon run was completed as easy effort along the _Panama Flats_ route.
+
+![](/assets/jpg/image.jpeg)
 
 <!---->
 ## MONDAY JAN 16 🌤
@@ -52,9 +54,13 @@ Mobility 30 minutes
 ### NOTES
 Total Time: **60 Mins** &nbsp; Normalized Power: **107W**
 
-If ever I needed a light spin, it was today.  Typical Monday at work and if I could, I would have ridden outside.  Instead I just spun easy on the trainer.  Next time I have a ride like this, I will probably dig out the rollers just for variety.
+If ever I needed a light spin day, it was today; maybe it was [yesterday](javascript:flick('sun');)...
 
-Quads still on the fatigued side and my right serratus is still tender.  Everything else is pretty good.
+Typical Monday at work and if I could, I would have ridden outside.  Instead I just spun easy on the trainer.  Next time I have a ride like this, I will probably dig out the rollers just for variety.
+
+Quads still on the fatigued side and my right serratus is still tender.
+
+Everything else is pretty good.
 
 <!---->
 ## TUESDAY JAN 17 ☁️
@@ -80,8 +86,10 @@ Right serratus is tender but let's carry on...
 
 Maybe one of my **more focused swims** and I was **feeling good**, at least while in the water.  I could feel my back got some work while putting on my shoes to hit the treadmill.  Carry on...
 
+<!----->
 I got on the _AirRunner_ and although the effort was **easy**, I still had to work at not falling off the contraption.
 
+![Swim](/assets/jpg/image.jpeg)
 
 <!---->
 ## WEDNESDAY JAN 18
