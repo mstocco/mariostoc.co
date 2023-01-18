@@ -4,7 +4,7 @@ Week beginning [Sunday, January 15, 2023](javascript:flick('sun');)
 **23** weeks out from race day.
 
 ## WEEKLY GOAL
-&mdash;
+Acclimatize to working and training (week 2)
 
 ## SUMMARY
 Total Time: **0 Hours**
@@ -40,8 +40,8 @@ Feeling a bit smoked.  Quads on the ride to the pool, lats once in the water and
 The afternoon run was completed as easy effort along the _Panama Flats_ route.
 
 <!---->
-## MONDAY JAN 16
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## MONDAY JAN 16 🌤
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -50,13 +50,15 @@ Ride 60 minutes. Easy effort. Generally an easier day.
 Mobility 30 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **60 Mins** &nbsp; Normalized Power: **107W**
 
-&mdash;  
+If ever I needed a light spin, it was today.  Typical Monday at work and if I could, I would have ridden outside.  Instead I just spun easy on the trainer.  Next time I have a ride like this, I will probably dig out the rollers just for variety.
+
+Quads still on the fatigued side and my right serratus is still tender.  Everything else is pretty good.
 
 <!---->
-## TUESDAY JAN 17
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY JAN 17 ☁️
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -72,9 +74,14 @@ Swim 2800:
 Run 30 minutes EASY  
 
 ### NOTES
-Total Time: **0 Minutes**
+Time: **93 Mins** &nbsp;Swim: **2800m** &nbsp;Run: **Treadmill**
 
-&mdash;  
+Right serratus is tender but let's carry on...
+
+Maybe one of my **more focused swims** and I was **feeling good**, at least while in the water.  I could feel my back got some work while putting on my shoes to hit the treadmill.  Carry on...
+
+I got on the _AirRunner_ and although the effort was **easy**, I still had to work at not falling off the contraption.
+
 
 <!---->
 ## WEDNESDAY JAN 18
