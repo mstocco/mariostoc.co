@@ -39,7 +39,7 @@ Feeling a bit smoked.  Quads on the ride to the pool, lats once in the water and
 <!----->
 The afternoon run was completed as easy effort along the _Panama Flats_ route.
 
-![](/assets/jpg/image.jpeg)
+![Run](/assets/jpg/run-20230115.jpeg)
 
 <!---->
 ## MONDAY JAN 16 🌤
@@ -84,12 +84,17 @@ Time: **93 Mins** &nbsp;Swim: **2800m** &nbsp;Run: **Treadmill**
 
 Right serratus is tender but let's carry on...
 
-Maybe one of my **more focused swims** and I was **feeling good**, at least while in the water.  I could feel my back got some work while putting on my shoes to hit the treadmill.  Carry on...
-
+Maybe one of my **more focused swims** and I was **feeling good**, at least while in the water.  Started to tail off during the lat 150m reps but felt like I could go forever during the 500m rep.
 <!----->
+![Swim](/assets/jpg/swim-20230117.jpeg)
+
+---
+
+I could feel my back got some work while putting on my shoes to hit the treadmill.  Carry on...
+
 I got on the _AirRunner_ and although the effort was **easy**, I still had to work at not falling off the contraption.
 
-![Swim](/assets/jpg/image.jpeg)
+![Run](/assets/jpg/image.jpeg)
 
 <!---->
 ## WEDNESDAY JAN 18
