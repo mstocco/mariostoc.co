@@ -35,10 +35,13 @@ Run 50 minutes. Easy running. Flatter terrain would be preferred.
 ### NOTES
 Total Time: **110 Mins**  &nbsp;Swim: **2700m** &nbsp;Run: **8 km**
 
-Feeling a bit smoked.  Quads on the ride to the pool, lats once in the water and my right side serratus posterior inferior is tight in general this morning.  I felt like I was fighting the water.  Regardless, I did what I could to stay on schedule; lane was congested for periods too.
-<!----->
-The afternoon run was completed as easy effort along the _Panama Flats_ route.
+Feeling a bit smoked.  Quads on the ride to the pool, lats once in the water and my right side serratus posterior inferior is tight in this morning.
 
+I felt like I was fighting the water; Sunday lanes were congested too.
+<!----->
+Regardless, I did what I could to stay on schedule.
+
+The afternoon run was completed as easy effort along the _Panama Flats_ route.
 ![Run](/assets/jpg/run-20230115.jpeg)
 
 <!---->
@@ -84,7 +87,9 @@ Time: **93 Mins** &nbsp;Swim: **2800m** &nbsp;Run: **Treadmill**
 
 Right serratus is tender but let's carry on...
 
-Maybe one of my **more focused swims** and I was **feeling good**, at least while in the water.  Started to tail off during the lat 150m reps but felt like I could go forever during the 500m rep.
+Maybe one of my **more focused swims** and I was **feeling good**, at least while in the water.
+
+Started to tail off during the lat 150m reps but felt like I could go forever during the 500m rep.
 <!----->
 ![Swim](/assets/jpg/swim-20230117.jpeg)
 
@@ -92,9 +97,8 @@ Maybe one of my **more focused swims** and I was **feeling good**, at least whil
 
 I could feel my back got some work while putting on my shoes to hit the treadmill.  Carry on...
 
-I got on the _AirRunner_ and although the effort was **easy**, I still had to work at not falling off the contraption.
-
-![Run](/assets/jpg/image.jpeg)
+I got on the _AirRunner_ and although the effort was **easy**, I still had to work at not falling off the contraption.  Heart-rate chart below:
+![Run](/assets/jpg/run-20230117.jpeg)
 
 <!---->
 ## WEDNESDAY JAN 18
