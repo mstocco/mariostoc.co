@@ -114,9 +114,11 @@ Trainer 1:25:
 7 extra minutes of EASY spinning to cool down
 
 ### NOTES
-Total Time: **0 Mins** Normalized Power: **0W**
+Total Time: **85 Mins** Normalized Power: **147W**
 
 Woke up feeling a bit less stiff but my right serratus is still not back to normal. 
+
+Curious how the trainer measures my asymmetry this afternoon.  Left/Right was better during the efforts but were out of whack (~6% favouring the left) during the recoveries. 
 
 <!---->
 ## THURSDAY JAN 19
