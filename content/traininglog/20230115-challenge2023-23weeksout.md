@@ -116,15 +116,16 @@ Trainer 1:25:
 7 extra minutes of EASY spinning to cool down
 
 ### NOTES
-Total Time: **85 Mins** Normalized Power: **147W**
+Total Time: **85 Mins** &nbsp; Normalized Power: **147W**
 
 Woke up feeling a bit less stiff but my right serratus is still not back to normal. 
 
-Curious how the trainer measures my asymmetry this afternoon.  Left/Right was better during the efforts but were out of whack (~6% favouring the left) during the recoveries. 
+Curious how the trainer measured my asymmetry this afternoon.  Left/Right was better during the efforts but were out of whack during the recoveries.  
+(~6% favouring the left) 
 
 <!---->
-## THURSDAY JAN 19
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY JAN 19 🌤
+Sleep **4** | Fatigue **3** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -137,9 +138,11 @@ Swim 2800:
 4x 50 EASY to cool down.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Swim: **0m**
 
-&mdash;  
+Work had me on an emergency call from 2130 to well past midnight last night.  😡
+
+My back is still a bit stiff but not as intense and less local to the serratus this morning.
 
 <!---->
 ## FRIDAY JAN 20
