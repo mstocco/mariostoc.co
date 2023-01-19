@@ -106,7 +106,9 @@ Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Pre-ride: Dead bugs, breathing, and Glute Bridges.
+Pre-ride:  
+Dead bugs, breathing, and glute bridges.
+
 Trainer 1:25:
 30 minutes easy riding.
 2 rounds (1, 2, 3 minutes high cadence/VERY stable hips, 2 minutes normal riding after each)
