@@ -132,8 +132,8 @@ Sleep **4** | Fatigue **3** | Stress **4** | Soreness **4**
 Dead bugs, breathing, and Glute Bridges.  
 Swim 2800:
 2 Rounds (100 easy swim, 100 easy w/ buoy, 50 steady kick. Rest as needed after each)
-3 rounds (50 w/ buoy...exaggerated rotation, 50 as 25 throwing into your rotation/25 smooth/steady, 50 gradual build to strong, 50 as 25 FAST/25 EASY. R :20 after each)
-<strike>5 Rounds (50 build to strong. R :30, 250 aerobic/steady/smooth. R :45)</strike>
+3 rounds (50 w/ buoy...exaggerated rotation, 50 as 25 throwing into your rotation/25 smooth/steady, 50 gradual build to strong, 50 as 25 FAST/25 EASY. R :20 after each)  
+<strike>5 Rounds (50 build to strong. R :30, 250 aerobic/steady/smooth. R :45)</strike>  
 15x 100 aerobic/steady w/ #5/10/15 @ 1500 effort...higher turnover/higher effort. r :20. 
 4x 50 EASY to cool down.
 
@@ -145,6 +145,8 @@ Work had me on an emergency call from 2130 to well past midnight last night.  ðŸ
 My back is still a bit stiff but not as intense and less local to the serratus this morning.
 <!----->
 In the water, I had a guy, maybe a bit younger than me but looking way too fit for January, share a 25m lane with me.  He swam continuous while I stuck to the timed intervals.  It worked out as we were mostly able to stay in phase with each other even though I was stopping for breaks.
+
+This was another **solid workout** in the pool.  Focused and my lap times were pretty consistent for me.
 
 After the pool, I really noticed that my back was tight.  Same, right side, serratus and maybe even the lat too.
 <!---->
