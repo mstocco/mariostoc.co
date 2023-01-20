@@ -39,7 +39,7 @@ Feeling a bit smoked.  Quads on the ride to the pool, lats once in the water and
 
 I felt like I was fighting the water; Sunday lanes were congested too.
 <!----->
-Regardless, I did what I could to stay on schedule.
+Regardless, I did my best to stay on schedule.
 
 The afternoon run was completed as easy effort along the _Panama Flats_ route.
 ![Run](/assets/jpg/run-20230115.jpeg)
@@ -50,7 +50,8 @@ Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Ride 60 minutes. Easy effort. Generally an easier day. 
+Ride 60 minutes. Easy effort.   
+Generally an easier day. 
 
 Mobility 30 minutes
 
@@ -63,7 +64,7 @@ Typical Monday at work and if I could, I would have ridden outside.  Instead I j
 
 Quads still on the fatigued side and my right serratus is still tender.
 
-Everything else is pretty good.
+Everything else is feeling pretty good.
 
 <!---->
 ## TUESDAY JAN 17 ☁️
@@ -89,7 +90,7 @@ Right serratus is tender but let's carry on...
 
 Maybe one of my **more focused swims** and I was **feeling good**, at least while in the water.
 
-Started to tail off during the lat 150m reps but felt like I could go forever during the 500m rep.
+Started to tail off during the last 150m reps; felt like I could go forever during the 500m rep.
 <!----->
 ![Swim](/assets/jpg/swim-20230117.jpeg)
 
@@ -120,8 +121,7 @@ Total Time: **85 Mins** &nbsp; Normalized Power: **147W**
 
 Woke up feeling a bit less stiff but my right serratus is still not back to normal. 
 
-Curious how the trainer measured my asymmetry this afternoon.  Left/Right was better during the efforts but were out of whack during the recoveries.  
-(~6% favouring the left) 
+Curious how the trainer measured my asymmetry this afternoon.  Left/Right was better during the efforts but were out of whack during the recoveries (~6% favouring the left). 
 
 <!---->
 ## THURSDAY JAN 19 🌤
@@ -144,8 +144,9 @@ Work had me on an emergency call from 2130 to well past midnight last night.  �
 
 My back is still a bit stiff but not as intense and less local to the serratus this morning.
 <!----->
-Swim details here...
+In the water, I had a guy, maybe a bit younger than me but looking way too fit for January, share a 25m lane with me.  He swam continuous while I stuck to the timed intervals.  It worked out as we were mostly able to stay in phase with each other even though I was stopping for breaks.
 
+After the pool, I really noticed that my back was tight.  Same, right side, serratus and maybe even the lat too.
 <!---->
 ## FRIDAY JAN 20 ☁️
 Sleep **3** | Fatigue **3** | Stress **4** | Soreness **4**
