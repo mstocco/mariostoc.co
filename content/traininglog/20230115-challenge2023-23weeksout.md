@@ -129,24 +129,26 @@ Sleep **4** | Fatigue **3** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Pre-swim: Dead bugs, breathing, and Glute Bridges.
+Dead bugs, breathing, and Glute Bridges.  
 Swim 2800:
 2 Rounds (100 easy swim, 100 easy w/ buoy, 50 steady kick. Rest as needed after each)
 3 rounds (50 w/ buoy...exaggerated rotation, 50 as 25 throwing into your rotation/25 smooth/steady, 50 gradual build to strong, 50 as 25 FAST/25 EASY. R :20 after each)
-5 Rounds (50 build to strong. R :30, 250 aerobic/steady/smooth. R :45)
+<strike>5 Rounds (50 build to strong. R :30, 250 aerobic/steady/smooth. R :45)</strike>
 15x 100 aerobic/steady w/ #5/10/15 @ 1500 effort...higher turnover/higher effort. r :20. 
 4x 50 EASY to cool down.
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Swim: **0m**
+Total Time: **63 Minutes** &nbsp; Swim: **2750m**
 
 Work had me on an emergency call from 2130 to well past midnight last night.  😡
 
 My back is still a bit stiff but not as intense and less local to the serratus this morning.
+<!----->
+Swim details here...
 
 <!---->
-## FRIDAY JAN 20
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY JAN 20 ☁️
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -157,9 +159,10 @@ Run 50 minutes.....
 10 minutes easy running to finish up
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Run: **0 km**
 
-&mdash;  
+The hint of a sore throat [yesterday](javascript:flick('thu');) is no longer a maybe.  Nasal congestion along with a sore throat this morning confirms I am dealing with a bug of some sort.  My back is continues to be on the stiff side too.  
+
 
 <!---->
 ## SATURDAY JAN 21
