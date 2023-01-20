@@ -88,18 +88,16 @@ Time: **93 Mins** &nbsp;Swim: **2800m** &nbsp;Run: **Treadmill**
 
 Right serratus is tender but let's carry on...
 
-Maybe one of my **more focused swims** and I was **feeling good**, at least while in the water.
-
-Started to tail off during the last 150m reps; felt like I could go forever during the 500m rep.
+Maybe one of my **more focused swims** and I was **feeling good**, at least while in the water.  Started to tail off during the last 150m reps; felt like I could go forever during the 500m rep.
 <!----->
 ![Swim](/assets/jpg/swim-20230117.jpeg)
 
 ---
 
 I could feel my back got some work while putting on my shoes to hit the treadmill.  Carry on...
-
-I got on the _AirRunner_ and although the effort was **easy**, I still had to work at not falling off the contraption.  Heart-rate chart below:
 ![Run](/assets/jpg/run-20230117.jpeg)
+
+I got on the _AirRunner_ and although the effort was **easy**, I still had to work at not falling off the contraption.
 
 <!---->
 ## WEDNESDAY JAN 18
@@ -149,6 +147,7 @@ In the water, I had a guy, maybe a bit younger than me but looking way too fit f
 This was another **solid workout** in the pool.  Focused and my lap times were pretty consistent for me.
 
 After the pool, I really noticed that my back was tight.  Same, right side, serratus and maybe even the lat too.
+
 <!---->
 ## FRIDAY JAN 20 ☁️
 Sleep **3** | Fatigue **3** | Stress **4** | Soreness **4**
