@@ -7,12 +7,13 @@ Week beginning [Sunday, January 15, 2023](javascript:flick('sun');)
 Acclimatize to working and training (week 2)
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **7.5 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **FRUSTRATED**
 
-&mdash;
+I started this week on the back foot, fought through some fatigue to get in a couple of good swims and trainer workout in.
+
+Things came to a crash on [Friday](javascript:flick('fri');) with what felt like a cold.  That night was was one of the toughest I have experienced in a long time.  A nasal swab on [Saturday](javascript:flick('sat');) confirmed, I am currently COVID positive.
 
 ![](/assets/jpg/II-9x550.jpeg)
 
@@ -150,7 +151,7 @@ After the pool, I really noticed that my back was tight.  Same, right side, serr
 
 <!---->
 ## FRIDAY JAN 20 ☁️
-Sleep **3** | Fatigue **3** | Stress **4** | Soreness **4**
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -161,20 +162,25 @@ Run 50 minutes.....
 10 minutes easy running to finish up
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Run: **0 km**
+<mark>Total Time: **0 Minutes** &nbsp; Run: **0 km** </mark>
 
 The hint of a sore throat [yesterday](javascript:flick('thu');) is no longer a maybe.  Nasal congestion along with a sore throat this morning confirms I am dealing with a bug of some sort.  My back is continues to be on the stiff side too.  
 
+---
+
+Not today folks...  Chills and a headache as the afternoon became evening.  
 
 <!---->
 ## SATURDAY JAN 21
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **7** | Fatigue **3** | Stress **5** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash;  
 
 ### NOTES
-Total Time: **0 Minutes**
+<mark>Total Time: **0 Minutes** </mark>
 
-&mdash;  
+Horrible night, all night.  Stopped counting trips to the bathroom after the sixth.  Headache, chills, not fun.  Rapid antigen test confirmed that my body is fighting COVID.
+
+Now what?
