@@ -210,7 +210,6 @@ class SocialIcons(DIV):
 		self.innerHTML = P('SOCIALLY PROFILED').tohtml()
 		self.append(SocialIcon('Strava', 'https://www.strava.com/athletes/21702937'))
 		self.append(SocialIcon('Garmin', 'https://connect.garmin.com/modern/profile/_canadian'))
-		self.append(SocialIcon('Twitter', 'https://twitter.com/vaporfly4pct'))
 		self.append(SocialIcon('Linkedin', 'https://www.linkedin.com/in/voipexpert'))
 		self.append(SocialIcon('GitHub', 'https://github.com/mstocco'))
 		return HTML5Tag.tohtml(self)
