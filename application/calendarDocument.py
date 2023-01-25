@@ -18,9 +18,17 @@ class CalendarMonth(DIV):
 		triathlons.append(date(2023,5,14))    # Westwood Standard
 
 		keydates = []
-		keydates.append(date(2023,1,22))	# CV Half Marathon
+		#keydates.append(date(2023,1,22))	# CV Half Marathon
 		keydates.append(date(2023,3,12))	# CV Half Marathon
 		keydates.append(date(2023,4,23))	# TC10K
+
+		offdays = []
+		offdays.append(date(2023,1,20))		# COVID
+		offdays.append(date(2023,1,21))		# COVID
+		offdays.append(date(2023,1,22))		# COVID
+		offdays.append(date(2023,1,23))		# COVID
+		offdays.append(date(2023,1,24))		# COVID
+		offdays.append(date(2023,1,25))		# COVID
 
 		goalrace = triathlons[0]
 		imitaly = date(2021,9,18)
@@ -67,6 +75,8 @@ class CalendarMonth(DIV):
 					style['style'] = '%sfont-weight:bold;text-decoration:underline;font-size:1.17em;background-color:#33B8FF;' % style['style']
 				elif calDate in keydates:
 					style['style'] = '%sfont-weight:bold;text-decoration:underline;font-size:1.17em;background-color:#BCE8FF;' % style['style']
+				elif calDate in offdays:
+					style['style'] = '%s;text-decoration:line-through;background-color:#FFFF66;' % style['style']
 
 			td.style = style['style']
 			td.innerHTML = str(calDate.day)
