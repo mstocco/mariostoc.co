@@ -89,8 +89,8 @@ I woke up with a headache which feels like a hangover.  It very well could be a 
 Late afternoon, I needed to get some sleep.  Headache and chills evident that this bug hasn't been beat yet.
 
 <!---->
-## FRIDAY JAN 27
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY JAN 27 ☁️
+Sleep **2** | Fatigue **2** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -99,7 +99,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Similar to yesterday morning, I am still mildly congested and my throat is mildly sore.  Let's hope that I can make it through today without the mid-afternoon downturn.
 
 <!---->
 ## SATURDAY JAN 28
