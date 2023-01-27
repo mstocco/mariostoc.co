@@ -4,7 +4,7 @@ Week beginning [Sunday, January 22, 2023](javascript:flick('sun');)
 **22** weeks out from race day.
 
 ## WEEKLY GOAL
-&mdash;
+Shake this virus.
 
 ## SUMMARY
 Total Time: **0 Hours**
@@ -16,8 +16,8 @@ I feel like I was...
 
 ![](/assets/jpg/II-9x550.jpeg)
 
-## SUNDAY JAN 22
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SUNDAY JAN 22 ⛅️
+Sleep **4** | Fatigue **2** | Stress **5** | Soreness **6**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -26,11 +26,13 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Today may be worse than [yesterday](challenge2023-23weeksout?sat).
+
+Every symptom listed in an over-the-counter cold medication commercial, yes every one, experienced.  Switched to Neocitron in the afternoon; it's less effective for me.  Advil before bed.
 
 <!---->
-## MONDAY JAN 23
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## MONDAY JAN 23 ☀️
+Sleep **4** | Fatigue **2** | Stress **5** | Soreness **6**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -39,11 +41,11 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Waking up to a new day.  I am no longer leaking through my face like yesterday.  My throat is still ridiculously sore.  Advil is keeping me sane.
 
 <!---->
-## TUESDAY JAN 24
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY JAN 24 🌤
+Sleep **4** | Fatigue **2** | Stress **3** | Soreness **6**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -52,24 +54,28 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Still need Advil to get over the pain in my left tonsil.  Not much of a cough.
 
 <!---->
-## WEDNESDAY JAN 25
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY JAN 25 ⛅️
+Sleep **3** | Fatigue **2** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash;  
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **35 Minutes** &nbsp; Normalized Power: **?**
 
-&mdash;  
+First full day without Advil.
+
+Throat is still very sore but I am nearing the end of this setback.  
+
+Set the alarm on the head unit to beep if I get out of HR Z1 and then pedalled **very easy**; just enough to start a sweat and zero stress beyond that.
 
 <!---->
-## THURSDAY JAN 26
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY JAN 26 ☁️
+Sleep **3** | Fatigue **2** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -78,7 +84,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+I woke up with a headache which feels like a hangover.  It very well could be a withdrawal symptom given the Advil Train I was riding to start this week and that I quit it cold turkey yesterday.  I am still mildly congested and my throat is mildly sore.
+
+Late afternoon, I needed to get some sleep.  Headache and chills evident that this bug hasn't been beat yet.
 
 <!---->
 ## FRIDAY JAN 27
