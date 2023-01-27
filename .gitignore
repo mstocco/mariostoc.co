@@ -1,7 +1,7 @@
-/doc/about
-/doc/traininglog/*
-/doc/blog/*
-/doc/pictures/*
-/doc/racereports/*
+/docs/about
+/docs/traininglog/*
+/docs/blog/*
+/docs/pictures/*
+/docs/racereports/*
 *.pyc
 xaa
