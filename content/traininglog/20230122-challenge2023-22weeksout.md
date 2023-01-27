@@ -43,6 +43,8 @@ Total Time: **0 Minutes**
 
 Waking up to a new day.  I am no longer leaking through my face like yesterday.  My throat is still ridiculously sore.  Advil is keeping me sane.
 
+A bit of a dry cough is developing this afternoon.
+
 <!---->
 ## TUESDAY JAN 24 🌤
 Sleep **4** | Fatigue **2** | Stress **3** | Soreness **6**
@@ -54,7 +56,9 @@ Sleep **4** | Fatigue **2** | Stress **3** | Soreness **6**
 ### NOTES
 Total Time: **0 Minutes**
 
-Still need Advil to get over the pain in my left tonsil.  Not much of a cough.
+Still need Advil to get over the pain in my left tonsil.  Not much of a cough which might be my best news so far.
+
+2 Advil before bed to try and get through a full night's sleep.
 
 <!---->
 ## WEDNESDAY JAN 25 ⛅️
@@ -88,13 +92,15 @@ I woke up with a headache which feels like a hangover.  It very well could be a 
 
 Late afternoon, I needed to get some sleep.  Headache and chills evident that this bug hasn't been beat yet.
 
+No Advil.  The sleep helped.
+
 <!---->
 ## FRIDAY JAN 27 ☁️
 Sleep **2** | Fatigue **2** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Late afternoon walk with Carina.
 
 ### NOTES
 Total Time: **0 Minutes**
