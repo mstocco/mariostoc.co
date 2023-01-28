@@ -103,19 +103,27 @@ Sleep **2** | Fatigue **2** | Stress **3** | Soreness **4**
 Late afternoon walk with Carina.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **~30 Minutes**
 
 Similar to yesterday morning, I am still mildly congested and my throat is mildly sore.  Let's hope that I can make it through today without the mid-afternoon downturn.
 
+Walk with Carina before dinner was nice.
+
 <!---->
-## SATURDAY JAN 28
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY JAN 28 ☁️
+Sleep **4** | Fatigue **1** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Sat: 1/28
+Pre-Bike: Dead bugs, breathing, and Glute Bridges.
+
+Trainer ~ 30-45 minutes. EASY effort. Keep the HR low. 
+Breaking a sweat is ok, but under no circumstance should this feel harder than a walk.
+
+Stretching 22 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Mins** &nbsp; Normalized Power: **?W**
 
-&mdash;  
+Woke up at 0530 with a headache.  Felt light a caffeine withdrawal headache but I had a cup of coffee yesterday; it might be an Advil withdrawal headache or this virus is proving to have some fight in it.  I am congested (nasal) too.
