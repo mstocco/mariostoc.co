@@ -20,6 +20,8 @@ I feel like I was...
 Sleep **4** | Fatigue **2** | Stress **5** | Soreness **6**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
+<h3 style="color:red;">FIGHTING COVID</h3>
+
 ### PLANNED WORKOUT
 &mdash;  
 
@@ -34,6 +36,8 @@ Every symptom listed in an over-the-counter cold medication commercial, yes ever
 ## MONDAY JAN 23 ☀️
 Sleep **4** | Fatigue **2** | Stress **5** | Soreness **6**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+
+<h3 style="color:red;">FIGHTING COVID</h3>
 
 ### PLANNED WORKOUT
 &mdash;  
@@ -50,6 +54,8 @@ A bit of a dry cough is developing this afternoon.
 Sleep **4** | Fatigue **2** | Stress **3** | Soreness **6**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
+<h3 style="color:red;">FIGHTING COVID</h3>
+
 ### PLANNED WORKOUT
 &mdash;  
 
@@ -65,11 +71,13 @@ Still need Advil to get over the pain in my left tonsil.  Not much of a cough wh
 Sleep **3** | Fatigue **2** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
+<h3 style="color:orange;">RECOVERING FROM COVID</h3>
+
 ### PLANNED WORKOUT
 &mdash;  
 
 ### NOTES
-Total Time: **35 Minutes** &nbsp; Normalized Power: **?**
+Total Time: **35 Minutes** &nbsp; Normalized Power: **100W**
 
 First full day without Advil.
 
@@ -81,6 +89,8 @@ Set the alarm on the head unit to beep if I get out of HR Z1 and then pedalled *
 ## THURSDAY JAN 26 ☁️
 Sleep **3** | Fatigue **2** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+
+<h3 style="color:red;">STILL FIGHTING COVID</h3>
 
 ### PLANNED WORKOUT
 &mdash;  
@@ -99,6 +109,8 @@ No Advil.  The sleep helped.
 Sleep **2** | Fatigue **2** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
+<h3 style="color:orange;">RECOVERING FROM COVID</h3>
+
 ### PLANNED WORKOUT
 Late afternoon walk with Carina.
 
@@ -114,9 +126,10 @@ Walk with Carina before dinner was nice.
 Sleep **4** | Fatigue **1** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
+<h3 style="color:orange;">RECOVERING FROM COVID</h3>
+
 ### PLANNED WORKOUT
-Sat: 1/28
-Pre-Bike: Dead bugs, breathing, and Glute Bridges.
+Dead bugs, Breathing, and Glute Bridges.
 
 Trainer ~ 30-45 minutes. EASY effort. Keep the HR low. 
 Breaking a sweat is ok, but under no circumstance should this feel harder than a walk.
