@@ -154,6 +154,8 @@ After the pool, I really noticed that my back was tight.  Same, right side, serr
 Sleep **3** | Fatigue **3** | Stress **4** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
+<h3 style="color:red;border-top:1px solid red;margin-bottom:24px;">FIGHTING COVID</h3>
+
 ### PLANNED WORKOUT
 Pre-run: Dead bugs, breathing, and Glute Bridges.
 Run 50 minutes.....
@@ -175,12 +177,14 @@ Not today folks...  Chills and a headache as the afternoon became evening.
 Sleep **7** | Fatigue **3** | Stress **5** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
+<h3 style="color:red;border-top:1px solid red;margin-bottom:24px;">FIGHTING COVID</h3>
+
 ### PLANNED WORKOUT
 &mdash;  
 
 ### NOTES
 <mark>Total Time: **0 Minutes** </mark>
 
-Horrible night, all night.  Stopped counting trips to the bathroom after the sixth.  Headache, chills, not fun.  Rapid antigen test confirmed that my body is fighting COVID.
+**Horrible night, all night.**  Stopped counting trips to the bathroom after the sixth.  Headache, chills, not fun.  Rapid antigen test confirmed that my body is fighting COVID.
 
 Now what?

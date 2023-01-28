@@ -20,7 +20,7 @@ I feel like I was...
 Sleep **4** | Fatigue **2** | Stress **5** | Soreness **6**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
-<h3 style="color:red;">FIGHTING COVID</h3>
+<h3 style="color:red;border-top:1px solid red;margin-bottom:24px;">FIGHTING COVID</h3>
 
 ### PLANNED WORKOUT
 &mdash;  
@@ -37,7 +37,7 @@ Every symptom listed in an over-the-counter cold medication commercial, yes ever
 Sleep **4** | Fatigue **2** | Stress **5** | Soreness **6**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
-<h3 style="color:red;">FIGHTING COVID</h3>
+<h3 style="color:red;border-top:1px solid red;margin-bottom:24px;">FIGHTING COVID</h3>
 
 ### PLANNED WORKOUT
 &mdash;  
@@ -54,7 +54,7 @@ A bit of a dry cough is developing this afternoon.
 Sleep **4** | Fatigue **2** | Stress **3** | Soreness **6**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
-<h3 style="color:red;">FIGHTING COVID</h3>
+<h3 style="color:red;border-top:1px solid red;margin-bottom:24px;">FIGHTING COVID</h3>
 
 ### PLANNED WORKOUT
 &mdash;  
@@ -71,7 +71,7 @@ Still need Advil to get over the pain in my left tonsil.  Not much of a cough wh
 Sleep **3** | Fatigue **2** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
-<h3 style="color:orange;">RECOVERING FROM COVID</h3>
+<h3 style="color:orange;border-top:1px solid orange;margin-bottom:24px;">RECOVERING FROM COVID</h3>
 
 ### PLANNED WORKOUT
 &mdash;  
@@ -90,7 +90,7 @@ Set the alarm on the head unit to beep if I get out of HR Z1 and then pedalled *
 Sleep **3** | Fatigue **2** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
-<h3 style="color:red;">STILL FIGHTING COVID</h3>
+<h3 style="color:red;border-top:1px solid red;margin-bottom:24px;">STILL FIGHTING COVID</h3>
 
 ### PLANNED WORKOUT
 &mdash;  
@@ -109,7 +109,7 @@ No Advil.  The sleep helped.
 Sleep **2** | Fatigue **2** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
-<h3 style="color:orange;">RECOVERING FROM COVID</h3>
+<h3 style="color:orange;border-top:1px solid orange;margin-bottom:24px;">RECOVERING FROM COVID</h3>
 
 ### PLANNED WORKOUT
 Late afternoon walk with Carina.
@@ -126,7 +126,7 @@ Walk with Carina before dinner was nice.
 Sleep **4** | Fatigue **1** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
-<h3 style="color:orange;">RECOVERING FROM COVID</h3>
+<h3 style="color:orange;border-top:1px solid orange;margin-bottom:24px;">RECOVERING FROM COVID</h3>
 
 ### PLANNED WORKOUT
 Dead bugs, Breathing, and Glute Bridges.
