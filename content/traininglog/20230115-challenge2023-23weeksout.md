@@ -13,10 +13,12 @@ I feel like I was **FRUSTRATED**
 
 I started this week on the back foot, fought through some fatigue to get in a couple of good swims and trainer workout in.
 
-Things came to a crash on [Friday](javascript:flick('fri');) with what felt like a cold.  That night was was one of the toughest I have experienced in a long time.  A nasal swab on [Saturday](javascript:flick('sat');) confirmed, I am currently COVID positive.
+Things came to a crash on [Friday](javascript:flick('fri');) with what felt like a cold.  That night was was one of the toughest I have experienced in a long time.  A nasal swab on [Saturday](javascript:flick('sat');) confirmed:   
+**I am currently COVID positive.**
 
-![](/assets/jpg/II-9x550.jpeg)
+I strongly suspect that I contracted it at the pool on [Tuesday](javascript:flick('tue');).
 
+<!---->
 ## SUNDAY JAN 15 ⛅️
 Sleep **3** | Fatigue **5** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -180,7 +182,12 @@ Sleep **7** | Fatigue **3** | Stress **5** | Soreness **4**
 <h3 style="color:red;border-top:1px solid red;margin-bottom:24px;">FIGHTING COVID</h3>
 
 ### PLANNED WORKOUT
-&mdash;  
+Dead bugs, breathing, and Glute Bridges.
+
+MTB Option ~ 1:00-1:15. Fun, easy.  
+Trainer Option ~ 60 minutes. EASY.
+
+Stretching 22 minutes
 
 ### NOTES
 <mark>Total Time: **0 Minutes** </mark>

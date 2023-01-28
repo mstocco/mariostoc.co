@@ -7,15 +7,15 @@ Week beginning [Sunday, January 22, 2023](javascript:flick('sun');)
 Shake this virus.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **2 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **SICK AS A DOG**
 
-&mdash;
+Where last week, I felt frustrated and annoyed for getting catching COVID, this week, the reality of this situation hit home.  I honestly thought that I was going to be over this by [Monday](javascript:flick('mon');) at the latest.
 
-![](/assets/jpg/II-9x550.jpeg)
+A super easy session on the trainer on [Wednesday](javascript:flick('wed');), put me on the back foot for [Thursday](javascript:flick('thu');).
 
+<!---->
 ## SUNDAY JAN 22 ⛅️
 Sleep **4** | Fatigue **2** | Stress **5** | Soreness **6**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
