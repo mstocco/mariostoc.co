@@ -130,6 +130,7 @@ A walk around the neighbourhood before dinner was nice.
 
 I am feeling better but lets see what [tomorrow](javascript:flick('sat');) has in store...
 
+Another day Advil-free day.
 <!---->
 ## SATURDAY JAN 28 ☁️
 Sleep **4** | Fatigue **1** | Stress **4** | Soreness **4**
