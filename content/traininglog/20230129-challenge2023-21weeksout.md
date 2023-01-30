@@ -30,7 +30,7 @@ Breaking a sweat is ok, but under no circumstance should this feel harder than a
 Stretching 22 minutes
 
 ### NOTES
-Total Time: **45 Mins** &nbsp; Heart Rate: **100 BPM**
+Total Time: **45 Mins** &nbsp; Avg HR: **105 BPM**
 
 Hit the trainer at halftime of the Chief/Bengals game.  Pedalled easy for 45 minutes; everything felt normal with zero ill-effects.
 
