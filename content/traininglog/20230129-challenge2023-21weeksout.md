@@ -35,6 +35,7 @@ Total Time: **45 Mins** &nbsp; Heart Rate: **100 BPM**
 Hit the trainer at halftime of the Chief/Bengals game.  Pedalled easy for 45 minutes; everything felt normal with zero ill-effects.
 
 Stretched afterwards (much needed).  My back (QL/right side) was acting in a bad way; it felt like it would go into a full spasm if I wasn't careful.   It didn't.
+
 &rarr; Extra water before going to bed.
 
 <!---->

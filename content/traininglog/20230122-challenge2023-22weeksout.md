@@ -115,11 +115,13 @@ Sleep **2** | Fatigue **2** | Stress **3** | Soreness **4**
 Late afternoon walk with Carina.
 
 ### NOTES
-Total Time: **~30 Minutes**
+Total Time: **~30 Minutes** &nbsp; Short Walk
 
 Similar to yesterday morning, I am still mildly congested and my throat is mildly sore.  Let's hope that I can make it through today without the mid-afternoon downturn.
 
-Walk with Carina before dinner was nice.
+A walk around the neighbourhood before dinner was nice.
+
+I am feeling ok but lets see [tomorrow](javascript:flick('sat');).
 
 <!---->
 ## SATURDAY JAN 28 ☁️
@@ -137,6 +139,8 @@ Breaking a sweat is ok, but under no circumstance should this feel harder than a
 Stretching 22 minutes
 
 ### NOTES
-Total Time: **0 Mins** &nbsp; Normalized Power: **?W**
+Total Time: **68 Mins** &nbsp; Walking
 
 Woke up at 0530 with a headache.  Felt light a caffeine withdrawal headache but I had a cup of coffee yesterday; it might be an Advil withdrawal headache or this virus is proving to have some fight in it.  I am congested (nasal) too.
+
+Weather was sunny so Carina and I went for a walk around _Swan Lake_.  QL was preciously tight.
