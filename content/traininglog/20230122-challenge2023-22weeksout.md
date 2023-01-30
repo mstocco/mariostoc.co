@@ -117,11 +117,13 @@ Late afternoon walk with Carina.
 ### NOTES
 Total Time: **~30 Minutes** &nbsp; Short Walk
 
-Similar to yesterday morning, I am still mildly congested and my throat is mildly sore.  Let's hope that I can make it through today without the mid-afternoon downturn.
+Similar to yesterday morning, I am still mildly congested and my throat is mildly sore.
+
+Unlike [yesterday](javascript:flick('thu');) I made it through today without the mid-afternoon downturn.
 
 A walk around the neighbourhood before dinner was nice.
 
-I am feeling ok but lets see [tomorrow](javascript:flick('sat');).
+I am feeling better but lets see what [tomorrow](javascript:flick('sat');) has in store...
 
 <!---->
 ## SATURDAY JAN 28 ☁️
