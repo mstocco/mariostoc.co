@@ -30,13 +30,12 @@ Breaking a sweat is ok, but under no circumstance should this feel harder than a
 Stretching 22 minutes
 
 ### NOTES
-Total Time: **45 Mins** &nbsp; Heart Rate: **100 BPM**
+Total Time: **45 Mins** &nbsp; Avg HR: **105 BPM**
 
 Hit the trainer at halftime of the Chief/Bengals game.  Pedalled easy for 45 minutes; everything felt normal with zero ill-effects.
 
-Stretched afterwards (much needed).  My back (QL/right side) was acting in a bad way; it felt like it would go into a full spasm if I wasn't careful.   It didn't.
-
-&rarr; Extra water before going to bed.
+Stretched afterwards (much needed).  My back (QL/right side) was acting in a bad way; it felt like it would go into a full spasm if I wasn't careful. It didn't.  
+&rarr;Extra water before going to bed.
 
 <!---->
 ## MONDAY JAN 30 🌤
@@ -49,7 +48,7 @@ Sleep **3** | Fatigue **1** | Stress **3** | Soreness **4**
 ### NOTES
 Total Time: **0 Minutes**
 
-Hint of a headache (just a 2 out of 10) and a nagging, dry cough are the final holdout symptoms from last week.
+Hint of a headache (just a 2 out of 10) and a nagging, occasional dry cough are the final holdout symptoms from last week.
 
 My back is feeling less precarious this morning.
 
