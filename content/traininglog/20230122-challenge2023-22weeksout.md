@@ -15,7 +15,7 @@ Where last week, I felt frustrated and annoyed for getting catching COVID, this 
 
 A super easy session on the trainer on [Wednesday](javascript:flick('wed');), put me on the back foot for [Thursday](javascript:flick('thu');).
 
-<!---->
+![After a rough week, I was able to get out for a walk around Swan Lake with Carina](/assets/jpg/IMG_4538-977x550 TURNING THE CORNER)
 ## SUNDAY JAN 22 ⛅️
 Sleep **4** | Fatigue **2** | Stress **5** | Soreness **6**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>

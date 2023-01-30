@@ -4,7 +4,7 @@ Week beginning [Sunday, January 29, 2023](javascript:flick('sun');)
 **21** weeks out from race day.
 
 ## WEEKLY GOAL
-&mdash;
+Start my post-COVID journey.
 
 ## SUMMARY
 Total Time: **0 Hours**
@@ -16,21 +16,28 @@ I feel like I was...
 
 ![](/assets/jpg/II-9x550.jpeg)
 
-## SUNDAY JAN 29
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SUNDAY JAN 29 🌤
+Sleep **2** | Fatigue **1** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+&mideast; flipped from [yesterday](challenge2023-22weeksout?sat)
+
+Dead bugs, breathing, glute bridges.  
+Trainer ~ 30-45 minutes. EASY effort. Keep the HR low. 
+Breaking a sweat is ok, but under no circumstance should this feel harder than a walk.
+
+Stretching 22 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **45 Mins** &nbsp; Heart Rate: **100 BPM**
 
-&mdash;  
+Hit the trainer at halftime of the Chief/Bengals game.  Pedalled easy for 45 minutes with zero ill-effects.
 
+Stretched afterwards (needed).  My back (QL/right side) was acting in a bad way; it felt like it would go into a full spasm if I wasn't careful.  Extra water before going to bed.
 <!---->
-## MONDAY JAN 30
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## MONDAY JAN 30 🌤
+Sleep **3** | Fatigue **1** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -39,7 +46,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Hint of a headache (just a 2 out of 10) and a nagging, dry cough are the last, holdout systems from last week.  My back is feeling less precarious this morning too.
 
 <!---->
 ## TUESDAY JAN 31
