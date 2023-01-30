@@ -49,7 +49,7 @@ Sleep **3** | Fatigue **1** | Stress **3** | Soreness **4**
 ### NOTES
 Total Time: **0 Minutes**
 
-Hint of a headache (just a 2 out of 10) and a nagging, dry cough are the final holdout symptoms from last week.
+Hint of a headache (just a 2 out of 10) and a nagging, occasional dry cough are the final holdout symptoms from last week.
 
 My back is feeling less precarious this morning.
 
