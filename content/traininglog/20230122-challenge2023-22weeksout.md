@@ -11,11 +11,16 @@ Total Time: **2 Hours**
 
 I feel like I was **SICK AS A DOG**
 
-Where last week, I felt frustrated and annoyed for getting catching COVID, this week, the reality of this situation hit home.  I honestly thought that I was going to be over this by [Monday](javascript:flick('mon');) at the latest.
+Where last week, I felt frustrated and annoyed for getting catching COVID, this week, the reality of this situation hit home.
 
-A super easy session on the trainer on [Wednesday](javascript:flick('wed');), put me on the back foot for [Thursday](javascript:flick('thu');).
+I honestly thought that I was going to be over this by [Monday](javascript:flick('mon');) at the latest.
 
-![After a rough week, I was able to get out for a walk around Swan Lake with Carina](/assets/jpg/IMG_4538-977x550 TURNING THE CORNER)
+My first activity of this week was a super easy session on the trainer on [Wednesday](javascript:flick('wed');).  That put me on the back foot for [Thursday](javascript:flick('thu');).
+
+Even on [Saturday](javascript:flick('sat');), I was still feeling less than 100%.
+
+![After a rough week, I was able to get out for a walk around Swan Lake with Carina](/assets/jpg/IMG_4538-977x550.jpeg TURNING THE CORNER)
+
 ## SUNDAY JAN 22 ⛅️
 Sleep **4** | Fatigue **2** | Stress **5** | Soreness **6**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
@@ -143,6 +148,6 @@ Stretching 22 minutes
 ### NOTES
 Total Time: **68 Mins** &nbsp; Walking
 
-Woke up at 0530 with a headache.  Felt light a caffeine withdrawal headache but I had a cup of coffee yesterday; it might be an Advil withdrawal headache or this virus is proving to have some fight in it.  I am congested (nasal) too.
+Woke up at 0530 with a headache.  Felt like a _"caffeine withdrawal"_ headache but I had a cup of coffee yesterday; it might be an _"Advil withdrawal"_ headache or maybe it is just COVID.  I am still congested (nasal) too.
 
-Weather was sunny so Carina and I went for a walk around _Swan Lake_.  QL was preciously tight.
+Weather was sunny so Carina and I went for a walk around _Swan Lake_.  QL was precariously tight.
