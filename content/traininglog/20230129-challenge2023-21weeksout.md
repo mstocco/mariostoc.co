@@ -21,7 +21,7 @@ Sleep **2** | Fatigue **1** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mideast; flipped from [yesterday](challenge2023-22weeksout?sat)
+&midast; flipped from [yesterday](challenge2023-22weeksout?sat)
 
 Dead bugs, breathing, glute bridges.  
 Trainer ~ 30-45 minutes. EASY effort. Keep the HR low. 
@@ -34,7 +34,8 @@ Total Time: **45 Mins** &nbsp; Heart Rate: **100 BPM**
 
 Hit the trainer at halftime of the Chief/Bengals game.  Pedalled easy for 45 minutes with zero ill-effects.
 
-Stretched afterwards (needed).  My back (QL/right side) was acting in a bad way; it felt like it would go into a full spasm if I wasn't careful.  Extra water before going to bed.
+Stretched afterwards (needed).  My back (QL/right side) was acting in a bad way; it felt like it would go into a full spasm if I wasn't careful.  &rarr; Extra water before going to bed.
+
 <!---->
 ## MONDAY JAN 30 🌤
 Sleep **3** | Fatigue **1** | Stress **3** | Soreness **4**
@@ -46,7 +47,9 @@ Sleep **3** | Fatigue **1** | Stress **3** | Soreness **4**
 ### NOTES
 Total Time: **0 Minutes**
 
-Hint of a headache (just a 2 out of 10) and a nagging, dry cough are the last, holdout systems from last week.  My back is feeling less precarious this morning too.
+Hint of a headache (just a 2 out of 10) and a nagging, dry cough are the final holdout symptoms from last week.
+
+My back is feeling less precarious this morning too.
 
 <!---->
 ## TUESDAY JAN 31
