@@ -17,7 +17,7 @@ I honestly thought that I was going to be over this by [Monday](javascript:flick
 
 My first activity of this week was a super easy session on the trainer on [Wednesday](javascript:flick('wed');).  That put me on the back foot for [Thursday](javascript:flick('thu');).
 
-Even on [Saturday](javascript:flick('sat');), I was still feeling less than 100%.
+Even on [Saturday](javascript:flick('sat');), I was still less than 100%.
 
 ![After a rough week, I was able to get out for a walk around Swan Lake with Carina](/assets/jpg/IMG_4538-977x550.jpeg TURNING THE CORNER)
 
@@ -150,4 +150,4 @@ Total Time: **68 Mins** &nbsp; Walking
 
 Woke up at 0530 with a headache.  Felt like a _"caffeine withdrawal"_ headache but I had a cup of coffee yesterday; it might be an _"Advil withdrawal"_ headache or maybe it is just COVID.  I am still congested (nasal) too.
 
-Weather was sunny so Carina and I went for a walk around _Swan Lake_.  QL was precariously tight.
+QL is precariously tight so I swapped the trainer for a walk around _Swan Lake_.  
