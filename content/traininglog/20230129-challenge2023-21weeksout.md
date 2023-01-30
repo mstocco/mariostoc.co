@@ -23,7 +23,7 @@ Sleep **2** | Fatigue **1** | Stress **2** | Soreness **3**
 ### PLANNED WORKOUT
 &midast; flipped from [yesterday](challenge2023-22weeksout?sat)
 
-Dead bugs, breathing, glute bridges.  
+**Dead bugs, breathing, glute bridges.**  
 Trainer ~ 30-45 minutes. EASY effort. Keep the HR low. 
 Breaking a sweat is ok, but under no circumstance should this feel harder than a walk.
 
@@ -32,9 +32,10 @@ Stretching 22 minutes
 ### NOTES
 Total Time: **45 Mins** &nbsp; Heart Rate: **100 BPM**
 
-Hit the trainer at halftime of the Chief/Bengals game.  Pedalled easy for 45 minutes with zero ill-effects.
+Hit the trainer at halftime of the Chief/Bengals game.  Pedalled easy for 45 minutes; everything felt normal with zero ill-effects.
 
-Stretched afterwards (needed).  My back (QL/right side) was acting in a bad way; it felt like it would go into a full spasm if I wasn't careful.  &rarr; Extra water before going to bed.
+Stretched afterwards (much needed).  My back (QL/right side) was acting in a bad way; it felt like it would go into a full spasm if I wasn't careful.   It didn't.
+&rarr; Extra water before going to bed.
 
 <!---->
 ## MONDAY JAN 30 🌤
@@ -49,7 +50,7 @@ Total Time: **0 Minutes**
 
 Hint of a headache (just a 2 out of 10) and a nagging, dry cough are the final holdout symptoms from last week.
 
-My back is feeling less precarious this morning too.
+My back is feeling less precarious this morning.
 
 <!---->
 ## TUESDAY JAN 31
