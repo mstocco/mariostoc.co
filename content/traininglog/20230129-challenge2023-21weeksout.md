@@ -43,40 +43,64 @@ Sleep **3** | Fatigue **1** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Walk 60-75 minutes. 
+
+Stretching 25 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **35 Minutes** &nbsp; Walk: **2.5 km**
 
 Hint of a headache (just a 2 out of 10) and a nagging, occasional dry cough are the final holdout symptoms from last week.
 
 My back is feeling less precarious this morning.
 
+Walked with Carina but just 35 minutes and not the full hour.
+
 <!---->
-## TUESDAY JAN 31
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY JAN 31 ⛅️
+Sleep **3** | Fatigue **2** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Pre-Bike: Dead bugs, breathing, and glute bridges.
+
+Trainer ~ 60 minutes. Easy effort. Just spin the legs. Nothing more than that!
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **60 Mins** &nbsp; Normalized Power: **128W**
 
-&mdash;  
+Still congested this morning, still bothered by this weird cough.
+
+I set an alarm on my head unit to warn at 120BPM, then set the simulated grade to 0% (level road) and spun my legs for an hour.  Got the beep a couple times and backed off a touch.  Felt pretty good.
 
 <!---->
-## WEDNESDAY FEB 1
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY FEB 1 🌤
+Sleep **4** | Fatigue **2** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Pre-Swim: Dead bugs, breathing, and glute bridges.
+
+1st: Swim 2000:
+2 rounds (100 easy swim, 100 w/ buoy, 50 steady kick. Rest as needed) 
+4 rounds (50 Shark-fin drill. R :20, 200 aerobic/smooth w/ exaggerated rotation. R :45) 
+4x 100 as 15 fist drill/35 swimming w/ finger tips DOWN early in the stroke. R :20. 
+2x 50 EASY to cool down.
+
+2nd: Run 25 minutes EASY
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **67 Mins** &nbsp;Swim: **1800m** &nbsp;Run: **4.7 km**
 
-&mdash;  
+A lot less congested upon waking but that nag of a cough persists.
+
+Back to the scene of the crime; weird being at _Crystal Pool_.
+
+It's been a while since I've swam on a Wednesday afternoon and how many lanes the kids programs take up at 1600.  Everyone moved into the slow lane.  Instead of crawling over people, I called it a workout, with 200m to go.
+
+What I missed in the pool, I added on the run.  I **felt pretty good** on the bike path down to the _Selkirk Trestle_.   Carina, on her bike commute home, kept me company for my return trip.  I know this was written as EASY but I felt like going faster and finished my first run after COVID in a strong way.
+
+The effort was enough to get Garmin to estimate my Lactate Threshold at 155 bpm and a pace of 5:03 /km.  Almost identical to this time last year.  The last time I ran with enough time/intensity to trigger a reading was last April.
 
 <!---->
 ## THURSDAY FEB 2
@@ -84,7 +108,13 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Pre-Bike: Dead bugs, breathing, and glute bridges.
+
+Ride 75 minutes: 
+30 minutes easy spinning to warm up. 
+5x :30 high cadence, :30 easy spinning. 1 minute easy riding.  
+8x 1:30 in a big gear/low cadence/high torque....165-200 watt range...no erg mode, 1:30 normal spinning between each. 
+15 minutes easy spinning to cool down/finish up.
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -97,7 +127,13 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Swim 2000: 
+200 easy swim. 100 kick. 100 swim w/ buoy. 
+6x 50 Descend 1-3, 4-6 as 1: Easy, 2: Moderate, 3: Build easy to strong. R :20 after each. 
+3 rounds (3x 100 aerobic/steady w/ strong final 15 (Increased turnover and focus) R :20 after each. Then...100 EASY w/ buoy. Rest as needed)
+Extra 100 easy to cool down
+
+Stretching 22 minutes.
 
 ### NOTES
 Total Time: **0 Minutes**
