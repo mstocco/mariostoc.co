@@ -98,9 +98,8 @@ Back to the scene of the crime; it was a bit weird being at _Crystal Pool_.
 <!----->
 It's been a while since I've swam on a Wednesday afternoon and how many lanes the kids programs take up at 1600.  Everyone moved into the slow lane.  Instead of crawling over people, I called it a workout, with 200m to go.
 
-What I missed in the pool, I added on the run.  I **felt pretty good** on the bike path down to the _Selkirk Trestle_.   Carina, on her bike commute home, kept me company for my return trip.  I know this was written as EASY but I felt like going faster and finished my first run after COVID in a strong way.
-
-The effort was enough to get Garmin to estimate my Lactate Threshold at 155 bpm and a pace of 5:03 /km.  Almost identical to this time last year.  The last time I ran with enough time/intensity to trigger a reading was last April.
+What I missed in the pool, I added on the run.  I **felt pretty good** on the bike path down to the _Selkirk Trestle_.   Carina, on her bike commute home, kept me company for my return trip.  This was written as all-caps EASY but I felt like going faster and did the last half as a build to a strong finish. ![Run](/assets/jpg/run-20230201.jpeg) 
+The effort was enough to get Garmin to estimate my Lactate Threshold at 155 bpm and a pace of 5:03 /km.  Identical to this time last year.  The last time I ran with enough time/intensity to trigger a reading was last April.
 
 <!---->
 ## THURSDAY FEB 2 🌤
