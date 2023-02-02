@@ -94,8 +94,8 @@ Total Time: **67 Mins** &nbsp;Swim: **1800m** &nbsp;Run: **4.7 km**
 
 A lot less congested upon waking but that nag of a cough persists.
 
-Back to the scene of the crime; weird being at _Crystal Pool_.
-
+Back to the scene of the crime; it was a bit weird being at _Crystal Pool_.
+<!----->
 It's been a while since I've swam on a Wednesday afternoon and how many lanes the kids programs take up at 1600.  Everyone moved into the slow lane.  Instead of crawling over people, I called it a workout, with 200m to go.
 
 What I missed in the pool, I added on the run.  I **felt pretty good** on the bike path down to the _Selkirk Trestle_.   Carina, on her bike commute home, kept me company for my return trip.  I know this was written as EASY but I felt like going faster and finished my first run after COVID in a strong way.
@@ -103,12 +103,12 @@ What I missed in the pool, I added on the run.  I **felt pretty good** on the bi
 The effort was enough to get Garmin to estimate my Lactate Threshold at 155 bpm and a pace of 5:03 /km.  Almost identical to this time last year.  The last time I ran with enough time/intensity to trigger a reading was last April.
 
 <!---->
-## THURSDAY FEB 2
+## THURSDAY FEB 2 🌤
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Pre-Bike: Dead bugs, breathing, and glute bridges.
+Dead bugs, breathing, and glute bridges.
 
 Ride 75 minutes: 
 30 minutes easy spinning to warm up. 
@@ -117,9 +117,11 @@ Ride 75 minutes:
 15 minutes easy spinning to cool down/finish up.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Mins** &nbsp; Normalized Power: **0W**
 
-&mdash;  
+With the bit of intensity to during the run [yesterday](javascript:flick('wed');), today was going to be interesting.  Good news this morning; congestion is less, the weird cough is still there but no other ill effects.
+
+Muscles are a bit stiff, shoulders (swim) and quads (run) but those are positives.
 
 <!---->
 ## FRIDAY FEB 3
