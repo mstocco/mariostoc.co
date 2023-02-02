@@ -98,12 +98,12 @@ Back to the scene of the crime; it was a bit weird being at _Crystal Pool_.
 <!----->
 It's been a while since I've swam on a Wednesday afternoon and how many lanes the kids programs take up at 1600.  Everyone moved into the slow lane.  Instead of crawling over people, I called it a workout, with 200m to go.
 
-What I missed in the pool, I added on the run.  I **felt pretty good** on the bike path down to the _Selkirk Trestle_.   Carina, on her bike commute home, kept me company for my return trip.  This was written as all-caps EASY but I felt like going faster and did the last half as a build to a strong finish. ![Run](/assets/jpg/run-20230201.jpeg) 
+What I missed in the pool, I added on the run.  I **felt good** on the path down to the _Selkirk Trestle_.   Carina kept me company on her bike commute home.  This was written as all-caps EASY but I felt like going faster; did the last half building to a **strong finish**. ![Run](/assets/jpg/run-20230201.jpeg) 
 The effort was enough to get Garmin to estimate my Lactate Threshold at 155 bpm and a pace of 5:03 /km.  Identical to this time last year.  The last time I ran with enough time/intensity to trigger a reading was last April.
 
 <!---->
 ## THURSDAY FEB 2 🌤
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **4** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
