@@ -119,11 +119,12 @@ Ride 75 minutes:
 15 minutes easy spinning to cool down/finish up.
 
 ### NOTES
-Total Time: **0 Mins** &nbsp; Normalized Power: **0W**
+Total Time: **75 Mins** &nbsp; Normalized Power: **136W**
 
 With the bit of intensity to during the run [yesterday](javascript:flick('wed');), today was going to be interesting.  Good news this morning; congestion is less, the weird cough is still there but no other ill effects.
 
-Muscles are a bit stiff, shoulders (swim) and quads (run) but those are positives.
+Muscles are a bit, DOMS like stiff, shoulders (swim) and mostly quads (run).
+
 
 <!---->
 ## FRIDAY FEB 3
