@@ -127,8 +127,8 @@ Muscles are a bit, DOMS like stiff, shoulders (swim) and mostly quads (run).
 
 
 <!---->
-## FRIDAY FEB 3
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY FEB 3 ⛅️
+Sleep **4** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -141,9 +141,9 @@ Extra 100 easy to cool down
 Stretching 22 minutes.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Swim: **&mdash;**
 
-&mdash;  
+Still a hint of DOMS in my quads.  Groggy this morning; probably not the best sleep last night.
 
 <!---->
 ## SATURDAY FEB 4
