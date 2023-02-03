@@ -121,7 +121,7 @@ Ride 75 minutes:
 ### NOTES
 Total Time: **75 Mins** &nbsp; Normalized Power: **136W**
 
-With the bit of intensity to during the run [yesterday](javascript:flick('wed');), today was going to be interesting.  Good news this morning; congestion is less, the weird cough is still there but no other ill effects.
+With the bit of intensity to during the run [yesterday](javascript:flick('wed');), today was going to be interesting.  Good news this morning; congestion is less, the weird cough is still there but **no other ill effects**.
 
 Muscles are a bit, DOMS like stiff, shoulders (swim) and mostly quads (run).
 
