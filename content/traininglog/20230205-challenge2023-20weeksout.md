@@ -65,11 +65,11 @@ on a television is a lot more engaging.
 
 <!----->
 
-#### Some takeaways
+### SOME TAKEAWAYS
  * This is not ERG mode.  I am shifting gears with the simulated terrain.
- * If this is correct, I am an hour, thirty to the highest point on the course.
+ * If this is correct, I am an 1:18:00 to _Gredding_ and 1:40:00 to the highest point on the course.
  * Lots of very open farmland, if it is windy on race day, there won't be much hiding.
- * The big hill at Gredding starts at 10%, then eases back to 6% for the majority.
+ * The big hill at Gredding starts at 10%, then eases back to 6% for the majority of the climb.
  * In real life, there are 90° corners on the course where speed will have to be scrubbed. 
  * This was fun and I recognize landmarks from previous race videos on _YouTube_.
 
