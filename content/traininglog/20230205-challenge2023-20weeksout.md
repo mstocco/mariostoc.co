@@ -103,12 +103,16 @@ end of the _Selkirk Trestle_.  It crossed my mind to run a bit
 further but my weather window was closing fast.  I picked up the 
 pace for the final 5 minutes to get home before the rain. 
 
-The balance of the evening was on the trainer, pedalling easy an exploring the next kilometres of the Roth bike course.
+The balance of the evening was on the trainer, pedalling _"easish"_ 
+and exploring the next 19 kilometres of the Roth bike course.
 
-Best thing about today is that my cough is (might be) getting better.
+From _Untermässing_, it is net uphill going north parallelling the _Autobahn_
+and a kicker of a hill before leaving the _Naturpark Altmühltal_ section. 
+The road will be fast through _Eysölden_ to the village of _Zell_.
 
 ![BIke](/assets/jpg/bike-20230207.jpeg)
 
+One good thing about today is that my cough is (might be) getting better.
 <!---->
 ## WEDNESDAY FEB 8 🌤
 Sleep **4** | Fatigue **3** | Stress **3** | Soreness **4**
@@ -123,9 +127,13 @@ Ride 90 minutes:
 13 minutes easy spinning to cool down
 
 ### NOTES
-Total Time: **0 Minutes**
+<mark>Total Time: **0 Minutes**</mark>
 
 Crystal Pool will be closed until the middle of the month.
+
+Work had me tied up this afternoon then life took over my evening.
+
+No training, I am tired, grumpy, disappointed with myself and going to bed early tonight.
 
 <!---->
 ## THURSDAY FEB 9
