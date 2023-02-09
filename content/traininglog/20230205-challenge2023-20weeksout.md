@@ -32,7 +32,11 @@ Stretching 33 minutes
 ### NOTES
 <mark>Total Time: **0 Minutes**</mark>
 
-A low motivation day, all day.  Once I finally got myself out the door, I found that the pool was closed due to a broken filter.
+A low motivation day, all day.
+
+Once I finally got myself out the door and to _Crystal Pool_, 
+I found that the pool was closed due to a broken filter.  It 
+should be fixed tomorrow.
 
 <!---->
 ## MONDAY FEB 6 🌤
@@ -46,13 +50,30 @@ Ride 75 minutes. Ideally this is outside on the MTB. But a ride on the trainer i
 Stretching 15 minutes
 
 ### NOTES
-Total Time: **0 Mins** &nbsp; Normalized Power: **100W**
+Total Time: **115 Mins** &nbsp; Normalized Power: **147W**
 
-I installed Rouvy on the Apple TV in the suite, then rode the simulated Challenge Roth bike course from T1, over the hill at Gredding and 
+I installed Rouvy on the Apple TV in the suite.  
+
+After a short, 8 minute warmup spin, I rode the simulated 
+_Challenge Roth_ bike course from T1, over the hill at Gredding 
+and down into the hamlet of Obermässing.  Easy effort, just 
+like it was an Ironman.
+
+I tried Rouvey on my iPad earlier this winter but having it displayed 
+on a television is a lot more engaging; recognizing landmarks from 
+race videos on YT.
 
 <!----->
-![Bike](/assets/jpg/bike-2-230206.jpeg)
 
+#### Some takeaways
+ * This is not ERG mode.  I am shifting gears with the simulated terrain.
+ * If this is correct, I am an hour, thirty to the highest point on the course.
+ * Lots of very open farmland, if it is windy on race day, there won't be much hiding.
+ * The big hill at Gredding starts at 10%, then eases back to 6% for the majority.
+ * In real life, there are 90° corners on the course where speed will have to be scrubbed. 
+ * This was fun!
+
+![Bike](/assets/jpg/bike-20230206.jpeg) 
 <!---->
 ## TUESDAY FEB 7 🌧
 Sleep **4** | Fatigue **4** | Stress **4** | Soreness **3**
@@ -70,16 +91,23 @@ Dead bugs, breathing, glute bridges.
 2nd: Run 30 minutes EASY
 
 ### NOTES
-Total Time: **0 Minutes** 
+Run Time: **34 Mins** &nbsp; Trainer: **42 Mins** 
+
+Finished work at 1430 but Crystal Pool is still closed due to 
+maintenance, lanes at Commonwealth and Esquimalt Rec are filled 
+with programs, West Shore has some lanes until 1600 but I won't 
+be able to get out there in time.
+<!----->
+I ran in between rain showers, staying on the bike path to the 
+end of the _Selkirk Trestle_.  It crossed my mind to run a bit 
+further but my weather window was closing fast.  I picked up the 
+pace for the final 5 minutes to get home before the rain. 
+
+The balance of the evening was on the trainer, pedalling easy an exploring the next kilometres of the Roth bike course.
 
 Best thing about today is that my cough is (might be) getting better.
 
-Finished work at 1430 but Crystal Pool is still closed due to maintenance, lanes at Commonwealth and Esquimalt Rec are filled with programs, West Shore has some lanes until 1600 but I won't be able to get out there in time.
-
-I ran in between rain showers, staying on the bike path to the end of the _Selkirk Trestle_.  It crossed my mind to run a bit furthers but my weather window was closing fast.  I picked up the pace for the final 5 minutes to get home before the rain. 
-
-The balance of the evening was on the trainer, pedalling easy an exploring the next kilometres of the Roth bike course.
-![BIke](/assets/jpg/image.jpeg)
+![BIke](/assets/jpg/bike-20230207.jpeg)
 
 <!---->
 ## WEDNESDAY FEB 8 🌤
