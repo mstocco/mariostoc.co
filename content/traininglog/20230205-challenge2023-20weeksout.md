@@ -62,9 +62,7 @@ like it was an Ironman.
 I tried Rouvey on my iPad earlier this winter but having it displayed 
 on a television is a lot more engaging.
 
-
 <!----->
-
 ### SOME TAKEAWAYS
  * This is not ERG mode.  I am shifting gears with the simulated terrain.
  * If this is correct, I am an 1:18:00 to _Gredding_ and 1:40:00 to the highest point on the course.
@@ -74,6 +72,7 @@ on a television is a lot more engaging.
  * This was fun and I recognize landmarks from previous race videos on _YouTube_.
 
 ![Bike](/assets/jpg/bike-20230206.jpeg) 
+
 <!---->
 ## TUESDAY FEB 7 🌧
 Sleep **4** | Fatigue **4** | Stress **4** | Soreness **3**
