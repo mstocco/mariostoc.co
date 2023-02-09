@@ -60,8 +60,8 @@ and down into the hamlet of Obermässing.  Easy effort, just
 like it was an Ironman.
 
 I tried Rouvey on my iPad earlier this winter but having it displayed 
-on a television is a lot more engaging; recognizing landmarks from 
-race videos on YT.
+on a television is a lot more engaging.
+
 
 <!----->
 
@@ -71,7 +71,7 @@ race videos on YT.
  * Lots of very open farmland, if it is windy on race day, there won't be much hiding.
  * The big hill at Gredding starts at 10%, then eases back to 6% for the majority.
  * In real life, there are 90° corners on the course where speed will have to be scrubbed. 
- * This was fun!
+ * This was fun and I recognize landmarks from previous race videos on _YouTube_.
 
 ![Bike](/assets/jpg/bike-20230206.jpeg) 
 <!---->
