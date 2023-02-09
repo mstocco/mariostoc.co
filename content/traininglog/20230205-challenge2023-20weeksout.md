@@ -4,7 +4,7 @@ Week beginning [Sunday, February 5, 2023](javascript:flick('sun');)
 **20** weeks out from race day.
 
 ## WEEKLY GOAL
-&mdash;
+Pay attention because I still have a weird cough.
 
 ## SUMMARY
 Total Time: **0 Hours**
