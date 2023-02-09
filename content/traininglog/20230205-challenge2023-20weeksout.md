@@ -135,8 +135,8 @@ Work had me tied up this afternoon then life took over my evening.
 No training, I am tired, grumpy, disappointed with myself and going to bed early tonight.
 
 <!---->
-## THURSDAY FEB 9
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY FEB 9 🌧
+Sleep **4** | Fatigue **3** | Stress **4** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -150,7 +150,7 @@ Stretching 17 minutes
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Another so-so sleep.  My best choice to find a lane this afternoon is Westshore (12:15-4PM lanes, water walking & leisure pool).  
 
 <!---->
 ## FRIDAY FEB 10
