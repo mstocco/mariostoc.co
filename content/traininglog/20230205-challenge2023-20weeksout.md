@@ -13,13 +13,13 @@ I feel like I was **STILL COUGHING**
 
 My watch recorded my resting heart rate higher on average this week and its GPS tracking is acting up too.
 
-I looked back on [20 weeks out] from last year and that was a second 13.5 hour week.  Now I can't help but think about how COVID has me behind schedule this year.
+I looked back on [20 weeks out](ironman2022-20weeksout) from last year and that was the second of two +13 hour weeks.  I can't help but think about how COVID has me behind schedule this year.
 
-Regardless, I did have a couple of wins.  I was back in the pool on [Friday](javascript:flick('fri');) and I had a really solid mountain bike ride on [Saturday](javascript:flick('sat');).
+Regardless, I did have a **couple of wins**.  I was back in the pool on [Friday](javascript:flick('fri');) and I had a really solid mountain bike ride on [Saturday](javascript:flick('sat');).  I averaged 77.1 Kg on the scale this week too.
 
 ![With Crystal Pool still closed for maintenance, I swam at the pool in Colwood for the first time.](/assets/jpg/IMG_4552-977x550.jpeg WESTSHORE PARKS AND RECREATION)
 
-## SUNDAY FEB 5
+## SUNDAY FEB 5 🌦
 Sleep **4** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
