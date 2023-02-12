@@ -7,14 +7,17 @@ Week beginning [Sunday, February 5, 2023](javascript:flick('sun');)
 Pay attention because I still have a weird cough.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **8.75 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **STILL COUGHING**
 
-&mdash;
+My watch recorded my resting heart rate higher on average this week and its GPS tracking is acting up too.
 
-![](/assets/jpg/II-9x550.jpeg)
+I looked back on [20 weeks out] from last year and that was a second 13.5 hour week.  Now I can't help but think about how COVID has me behind schedule this year.
+
+Regardless, I did have a couple of wins.  I was back in the pool on [Friday](javascript:flick('fri');) and I had a really solid mountain bike ride on [Saturday](javascript:flick('sat');).
+
+![With Crystal Pool still closed for maintenance, I swam at the pool in Colwood for the first time.](/assets/jpg/IMG_4552-977x550.jpeg WESTSHORE PARKS AND RECREATION)
 
 ## SUNDAY FEB 5
 Sleep **4** | Fatigue **3** | Stress **3** | Soreness **4**
@@ -148,13 +151,19 @@ Swim 2500:
 Stretching 17 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **57 Minutes** &nbsp; Run: **9 km**
 
-Another so-so sleep.  My best choice to find a lane this afternoon is Westshore (12:15-4PM lanes, water walking & leisure pool).  
+Another so-so sleep.  My best choice to find a lane this afternoon is Westshore (12:15-4PM lanes, water walking & leisure pool).
+
+Bike parts arrived this afternoon and I hung around until they were delivered.  That put me on the back foot for getting out to Westshore for the swim.  So...  the run scheduled for [tomorrow](javascript:flick('fri');) was done today.
+
+Second run in a row where the watch failed to record a GPS track until 20 minutes after pressing start.  Hrmm...
+
+The run was done at an **easy effort** including 5 times up _The Berm_. 
 
 <!---->
-## FRIDAY FEB 10
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY FEB 10 🌤
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -165,19 +174,54 @@ EASY effort. A few rollers or longer hills would be great, but not necessary.
 Stretching 27 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **100 Minutes** &nbsp; Swim: **2150m**
 
-&mdash;  
+I felt rested upon rising this morning; its been awhile.  The cough is **more bothersome** today though.
 
+I rode up to the pool in _Colwood_ for my first swim there.  The facility was clean, the water was a bit warm, not a hint of chlorine and a bit salty.  I did have a full lane to myself though.  Drop in fee was a dollar and a bit more than _Crystal Pool_
+
+If this was summer, I couldn't picture myself riding my bike 10 minutes past _Thetis Lake_ just to go for a swim.
+
+I swam the 2000m workout from [](javascript:flick('');).  I thought I'd get a some extra lengths in, but after 150m, honesty trumped ego and I hopped out of the pool.
+ 
 <!---->
-## SATURDAY FEB 11
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY FEB 11 ☁️
+Sleep **3** | Fatigue **3** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash;  
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **160 Minutes** &nbsp; Ride: **38 km**
 
-&mdash;  
+Originally, I though I'd avoid the hills and pedal the _Galloping Goose_ out to _Matheson Lake_ and back.  I felt good from the start and chose the hills.
+
+I saw a guy on _Highlands Road_ with a gravel bike who was stopped to fix something.  I asked if he needed help and he said, "Nope, all good" as I rode by him.
+
+Not a minute later, he went flying by me, up and over a hill and I thought about how much extra energy this mountain bike needs.
+
+A couple of corners and another hill and I spot the guy up the road.  Up the next rise, I pull even with him and the truth is now known.  He tries to tell me something but he's blown himself to smithereens.  I pressed on to the park entrance at _Westoby Road_ and never see the guy again.
+
+I made it to the gate in 27:45.  The _Highlands-Barker-Westoby_ segment being 16 seconds slower than [Jan 14th](challenge2023-weeksout?) but still a good ride up the hill.  
+
+I rode by my typical single track trail as through the trees, there looked to be 3 or 4 mountain bikers on the trail.
+
+There is a Strava Segment called _Scafe Hill More Suffering_, turning off _Bellamy Trail_ and going up the fireroad to a lookout point.  In my head, I reminded myself, "Smooth is fast and fast is smooth."  I absolutely smashed my previous times on this climb by **over 3 minutes** set about this time [last year](ironman2022-weeksout?)!
+
+Truth is I was huffing and puffing pretty good.
+
+After a water/gel break, I heading back to _Bellamy Trail_ for a crack at the _Kallie's Korner_ single track.
+
+More good times as this <span style="color:blue;">&#11044; trail</span> had me pushing my bike on many points in the past.  It wasn't clean but I rode way more of the tricky parts then I ever had previously.
+
+_Kallie's Korner_ pops out near the very top of _Munn Road_.  I was hoping to make my way back to _Thetis Park_ via _Frank's Trail_ but at some point, I got turned around and ended up on _Munn_ anyway.  I stopped to look address the "Gees".  A gel, gloves, glasses and my gilet for the cold roll down the hill.
+
+An hour, 38 on the clock, I decided to turn off _Munn_ and make my way to the south end of _Hartland_.  More good riding to and in the park.
+
+I started to feel the ride in my legs on the final kms at _Panama Flats_.  This was a fun ride.
+
+![Overcast day in BC and I am heading north instead of south.](/assets/jpg/IMG_4555-366x550.jpeg FRANK'S TRAIL)
+
+
+
