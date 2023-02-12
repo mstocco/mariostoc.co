@@ -180,8 +180,9 @@ _Admirals Road_ and 5 times up _The Berm_.
 
 ### HEARTRATE/ELEVATION CHART 
 ![Run](/assets/jpg/run-20230209.jpeg)
-My recorded heartrate seems a bit higher than my RPE. 
-Maybe its just the day...
+
+My heartrate was recorded higher than my RPE. 
+Maybe its just the day.  I am paying attention regardless.
 
 <!---->
 ## FRIDAY FEB 10 🌤
@@ -224,7 +225,8 @@ and I hopped out of the pool.
 
 ### 2000M SWAIM PACE CHART
 ![Swim](/assets/jpg/swim-20230210.jpeg)
-Yes, the last 50m was with some pep.
+Yes, the last 50m was with some pep.  The bonus cooldown was 
+recorded at 1:52/100m.
 
 <!---->
 ## SATURDAY FEB 11 ☁️
@@ -292,8 +294,8 @@ _Munn Road_. I was not interesting in going that far and started
 to make my way back to _Thetis Park_ via _Frank's Trail_.  I got 
 turned around and ended up on _Munn_ anyway.
 
-Before starting the cold descent down _Munn_ I stopped to address 
-the "Gees":
+Before starting the cold descent down _Munn Road_, I stopped to 
+address the "Gees":
 
  * Gloves and Glasses
  * Gilet (really nice to have today)

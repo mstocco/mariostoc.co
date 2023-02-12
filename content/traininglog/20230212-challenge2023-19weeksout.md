@@ -4,7 +4,7 @@ Week beginning [Sunday, February 12, 2023](javascript:flick('sun');)
 **19** weeks out from race day.
 
 ## WEEKLY GOAL
-&mdash;
+Ride the momentum that I finished [last week](challenge2023-20weeksout) with.
 
 ## SUMMARY
 Total Time: **0 Hours**
@@ -16,17 +16,21 @@ I feel like I was...
 
 ![](/assets/jpg/II-9x550.jpeg)
 
-## SUNDAY FEB 12
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SUNDAY FEB 12 ☁️
+Sleep **3** | Fatigue **3** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Dead bugs, Breathing, Glute Bridges.  
+1st: Run 30 minutes. EASY effort.   
+2nd: Ride 60 minutes easy. Any bike you like. Inside or outside. Just keep it easy.
+
+Mobility 30 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Time: **40 Mins** &nbsp;Run: **6.5 km** &nbsp;Spin: **0 km**
 
-&mdash;  
+Started out 
 
 <!---->
 ## MONDAY FEB 13
@@ -34,7 +38,13 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Dead bugs, Breathing, Glute Bridges.  
+Swim 2300:
+200 easy swim, 100 swim w/ buoy, 2x 50 steady kick.
+8x 50 Descend 1-4, 5-8 1: Easy, 2: steady, 3:½IM effort, 4: 1500 effort. R :15 after each.
+4 rounds (50 as 25 FAST/25 cruise, 50 Steady. R :15 after each)
+3x 300 aerobic/steady/smooth w/ focus on relaxed breathing. R 1:00 after each.
+4x 50 easy to cool down.
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -47,7 +57,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Run 60 minutes. Easy effort. Flat to rolling terrain. Keep the effort easy.
+
+Mobility 18 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -60,7 +72,13 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Trainer 1:40: Remember to hydrate and fuel! 
+10 minutes easy spinning to warm up. 
+8x :30 moderate standing, getting out of the saddle to loosen up, :45 seated/normal riding. 
+5 minutes easy spinning. 
+6x 2:00 in a big gear/low cadence/high torque...170-210 watt range, 3:00 easy/normal spinning after each. 
+4x7 minutes @ what feels like 1 gear easier than a 60 minute effort (aka: Find 60 minute effort..then drop it a gear easier and tick away) 3 minutes easy after each rep. 
+5 minutes easy spinning to cool down.
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -73,7 +91,13 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Dead bugs, Breathing, Glute Bridges.  
+Swim 2500:
+2 rounds (100 easy swim, 100 w/ buoy, 50 steady kick. Rest as needed)
+50, 100, 150, 200, 250, 300, 350, 400 all aerobic w/ a strong final 25 on each rep. Making sure you were staying aerobic and comfortable for the first part of each rep. R :45 after each.
+4x 50 super easy to cool down.
+
+Run 30 minutes EASY
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -86,7 +110,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Dead bugs, Breathing, Glute Bridges.  
+Ride 75 minutes. Easy spinning. Inside or outside. Any bike you like. But saving the legs for the weekend. This is just an easy spin.
 
 ### NOTES
 Total Time: **0 Minutes**
