@@ -11,11 +11,19 @@ Total Time: **8.75 Hours**
 
 I feel like I was **STILL COUGHING**
 
-My watch recorded my resting heart rate higher on average this week and its GPS tracking is acting up too.
+My watch recorded my resting heart rate higher on average this 
+week and its GPS tracking is acting up too.
 
-I looked back on [20 weeks out](ironman2022-20weeksout) from last year and that was the second of two +13 hour weeks.  I can't help but think about how COVID has me behind schedule this year.
+I looked back on [20 weeks out](ironman2022-20weeksout) from 
+last year and that was the second of two +13 hour weeks.  I 
+can't help but think about how COVID has me behind schedule 
+this year.
 
-Regardless, I did have a **couple of wins**.  I was back in the pool on [Friday](javascript:flick('fri');) and I had a really solid mountain bike ride on [Saturday](javascript:flick('sat');).  I averaged 77.1 Kg on the scale this week too.
+Regardless, I did have a **couple of wins**.  I was back in the 
+pool on [Friday](javascript:flick('fri');) and I had a really 
+solid mountain bike ride on [Saturday](javascript:flick('sat');). 
+
+I averaged 77.1 Kg on the scale this week too.
 
 ![With Crystal Pool still closed for maintenance, I swam at the pool in Colwood for the first time.](/assets/jpg/IMG_4552-977x550.jpeg WESTSHORE PARKS AND RECREATION)
 
@@ -145,21 +153,35 @@ Sleep **4** | Fatigue **3** | Stress **4** | Soreness **3**
 ### PLANNED WORKOUT
 Swim 2500: 
 2 rounds (100 easy swim, 100 w/ buoy, 50 steady kick. Rest as needed)
-50, 100, 150, 200, 250, 300, 350, 400 all aerobic w/ a strong final 25 on each rep. Making sure you were staying aerobic and comfortable for the first part of each rep. R :45 after each. 
-4x 50 super easy to cool down. 
-
+50, 100, 150, 200, 250, 300, 350, 400 all aerobic w/ a strong final 25 on each rep. 
+Making sure you were staying aerobic and comfortable for the first part of each rep. R :45 after each. 
+4x 50 super easy to cool down.   
 Stretching 17 minutes
 
 ### NOTES
 Total Time: **57 Minutes** &nbsp; Run: **9 km**
 
-Another so-so sleep.  My best choice to find a lane this afternoon is Westshore (12:15-4PM lanes, water walking & leisure pool).
+Another so-so sleep.  My best choice to find a lane this 
+afternoon is Westshore (12:15-4PM lanes, water walking & 
+leisure pool).
 
-Bike parts arrived this afternoon and I hung around until they were delivered.  That put me on the back foot for getting out to Westshore for the swim.  So...  the run scheduled for [tomorrow](javascript:flick('fri');) was done today.
+Bike parts arrived this afternoon and I hung around until 
+they were delivered.  That put me on the back foot for getting 
+out to Westshore for the swim.  So...  the run scheduled for 
+[tomorrow](javascript:flick('fri');) was done before dinner.
+<!----->
+Second run in a row where the watch failed to record a GPS 
+track until 20 minutes after pressing start.  Hrmm...
 
-Second run in a row where the watch failed to record a GPS track until 20 minutes after pressing start.  Hrmm...
+The run was done at an **easy effort** mostly on the close-by 
+gravel with a trip up to _Marigold_, a couple of trips out to 
+_Admirals Road_ and 5 times up _The Berm_.
 
-The run was done at an **easy effort** including 5 times up _The Berm_. 
+
+### HEARTRATE/ELEVATION CHART 
+![Run](/assets/jpg/run-20230209.jpeg)
+My recorded heartrate seems a bit higher than my RPE. 
+Maybe its just the day...
 
 <!---->
 ## FRIDAY FEB 10 🌤
@@ -168,60 +190,129 @@ Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
 
 ### PLANNED WORKOUT
 Dead bugs, breathing, glute bridges.  
+
 Run 50 minutes. Longest run in a bit.  
-EASY effort. A few rollers or longer hills would be great, but not necessary. 
+EASY effort. A few rollers or longer hills would be great, 
+but not necessary. 
 
 Stretching 27 minutes
 
 ### NOTES
 Total Time: **100 Minutes** &nbsp; Swim: **2150m**
 
-I felt rested upon rising this morning; its been awhile.  The cough is **more bothersome** today though.
+I felt rested upon rising this morning; its been awhile.  The 
+cough is **more bothersome** today though.
 
-I rode up to the pool in _Colwood_ for my first swim there.  The facility was clean, the water was a bit warm, not a hint of chlorine and a bit salty.  I did have a full lane to myself though.  Drop in fee was a dollar and a bit more than _Crystal Pool_
+I rode up to the pool in _Colwood_ for my first swim there. 
+The facility was clean, the water was a bit warm, not a hint 
+of chlorine and a bit salty.  I did have a full lane to myself 
+though.
 
-If this was summer, I couldn't picture myself riding my bike 10 minutes past _Thetis Lake_ just to go for a swim.
+Drop-in fee was a dollar more than _Crystal Pool_.
+<!----->
+If this was summer, I couldn't picture myself riding my bike 
+10 minutes past _Thetis Lake_ just to go for a swim in a 25m
+pool.  On the otherhand, I did have an hour of easy bike 
+commute time...
 
-I swam the 2000m workout from [](javascript:flick('');).  I thought I'd get a some extra lengths in, but after 150m, honesty trumped ego and I hopped out of the pool.
- 
+I swam the 2000m workout from [Sunday](javascript:flick('sun');). 
+
+Everything **felt okay**, like I'd missed a week of swimming; 
+nothing more. I thought I'd get a some extra lengths in after 
+the workout, but after an additional 150m, honesty trumped ego 
+and I hopped out of the pool.
+
+### 2000M SWAIM PACE CHART
+![Swim](/assets/jpg/swim-20230210.jpeg)
+Yes, the last 50m was with some pep.
+
 <!---->
 ## SATURDAY FEB 11 ☁️
 Sleep **3** | Fatigue **3** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Dead bugs, breathing, glute bridges.  
+Mountain bike ~ 2:00-2:15. Get outside. Stay warm. Have fun. 
+Easy to steady effort.  Remember to fuel and hydrate.  
 
 ### NOTES
 Total Time: **160 Minutes** &nbsp; Ride: **38 km**
 
-Originally, I though I'd avoid the hills and pedal the _Galloping Goose_ out to _Matheson Lake_ and back.  I felt good from the start and chose the hills.
+Originally, I thought I'd avoid the hills and pedal the 
+_Galloping Goose_ out to _Matheson Lake_ and back but I 
+**felt good from the start** and chose ride up some hills.
 
-I saw a guy on _Highlands Road_ with a gravel bike who was stopped to fix something.  I asked if he needed help and he said, "Nope, all good" as I rode by him.
+I saw a guy on _Highlands Road_ with a gravel bike who had 
+stopped on the shoulder to fix something.  As I rode bym I 
+asked if he needed help and he said, "Nope, all good".
 
-Not a minute later, he went flying by me, up and over a hill and I thought about how much extra energy this mountain bike needs.
+Not a minute later, he went flying by me, up and over a hill 
+and I thought about how much extra energy this mountain bike 
+needs to pedal...
+<!----->
+Around a corner and over a hill, I spot the guy just up the 
+road.  Up the next rise, I pull even with him and the truth is 
+now known.  He tried to tell me something but he can barely 
+muster a word. He'd blown himself to smithereens.
 
-A couple of corners and another hill and I spot the guy up the road.  Up the next rise, I pull even with him and the truth is now known.  He tries to tell me something but he's blown himself to smithereens.  I pressed on to the park entrance at _Westoby Road_ and never see the guy again.
+I pressed on to the park entrance at _Westoby Road_, looking 
+back a few time but never to see the guy again. I made it to 
+the gate in 27:45.
 
-I made it to the gate in 27:45.  The _Highlands-Barker-Westoby_ segment being 16 seconds slower than [Jan 14th](challenge2023-weeksout?) but still a good ride up the hill.  
+The _Highlands-Barker-Westoby_ segment was 16 seconds slower 
+than [Jan 14th](challenge2023-24weeksout?sat) but still a 
+good ride up the hill for me (thanks gravel dude).  
 
-I rode by my typical single track trail as through the trees, there looked to be 3 or 4 mountain bikers on the trail.
+I rode past the entrance to my typical single track trail. 
+Through the trees, there looked to be 3 or 4 mountain bikers 
+on the trail coming from the opposite direction. No biggie 
+because...
 
-There is a Strava Segment called _Scafe Hill More Suffering_, turning off _Bellamy Trail_ and going up the fireroad to a lookout point.  In my head, I reminded myself, "Smooth is fast and fast is smooth."  I absolutely smashed my previous times on this climb by **over 3 minutes** set about this time [last year](ironman2022-weeksout?)!
+Up ahead is a Strava Segment called _"Scafe Hill More Suffering"_. 
+It is a fireroad that starts off _Bellamy Trail_ and heads up past 
+a lookout point.
 
-Truth is I was huffing and puffing pretty good.
+In my head, I remind myself a few time over,  
+"Smooth is fast and fast is smooth."
+<!----->
+Near the top I was huffing and puffing pretty good but I 
+**smashed my previous time** from a similiar ride 
+[last February](ironman2022-27weeksout?sat) by **over 3 minutes**!
 
-After a water/gel break, I heading back to _Bellamy Trail_ for a crack at the _Kallie's Korner_ single track.
+After a water/gel break, I continued north up _Bellamy_ for the single 
+track of <span style="color:mediumblue;">_Kallie's Korner_ &#9679;</span>;  
+a trail that had me pushing my bike on many points in the past.
 
-More good times as this <span style="color:blue;">&#11044; trail</span> had me pushing my bike on many points in the past.  It wasn't clean but I rode way more of the tricky parts then I ever had previously.
+It wasn't clean but I rode way more of the tricky parts then 
+I ever had previously.
 
-_Kallie's Korner_ pops out near the very top of _Munn Road_.  I was hoping to make my way back to _Thetis Park_ via _Frank's Trail_ but at some point, I got turned around and ended up on _Munn_ anyway.  I stopped to look address the "Gees".  A gel, gloves, glasses and my gilet for the cold roll down the hill.
+_Kallie's Korner_ heading north pops out near the very top of 
+_Munn Road_. I was not interesting in going that far and started 
+to make my way back to _Thetis Park_ via _Frank's Trail_.  I got 
+turned around and ended up on _Munn_ anyway.
 
-An hour, 38 on the clock, I decided to turn off _Munn_ and make my way to the south end of _Hartland_.  More good riding to and in the park.
+Before starting the cold descent down _Munn_ I stopped to address 
+the "Gees":
 
-I started to feel the ride in my legs on the final kms at _Panama Flats_.  This was a fun ride.
+ * Gloves and Glasses
+ * Gilet (really nice to have today)
+ * and a Gel _(Gu Salted Caramel)_
 
 ![Overcast day in BC and I am heading north instead of south.](/assets/jpg/IMG_4555-366x550.jpeg FRANK'S TRAIL)
 
+Passing _Westridge Place_ with 1:38:00 on the clock, I decided 
+to spin around and made my way to the southend of _Hartland_.
 
+I bested my time on the road up into the park and then down 
+<span style="color:mediumblue;">_Bottom Feeder_ &#9679;</span>.
 
+Making my way home, I started to feel the ride in my legs on 
+the final kms at _Panama Flats_.
+
+This was a fun ride and without intension, a very similar 
+route (minus a couple single track excursions) to the ride 
+on [Feb 26, 2022](ironman2022-27weeksout?sat) referenced 
+earlier.
+
+A post-COVID confidence booster.
