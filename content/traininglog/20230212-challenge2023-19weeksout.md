@@ -30,9 +30,15 @@ Mobility 30 minutes
 ### NOTES
 Time: **100 Mins** &nbsp;Run: **6.5 km** &nbsp;Rouvy: **27 km**
 
-Laced up my shoes before the _Super Bowl_ for a short run mostly on dirt. Heart-rate measured from the strap still maybe 10bpm higher than what I'd considered square with the effort.  When is normal coming back?
+Laced up my shoes before the _Super Bowl_ for a short run mostly on dirt. I went about 10 minutes longer as the effort was easy and I was feeling good.
 
-After the football game, I pedalled more of the Challenge Roth course from _Zell_, through _Hilpostein/Solar_, passed the swim/bike transition, finishing at the top of the big hill past _Eckersmühlen_.  I pedalled as easy as I could with the _Beastie Boys_ playing in the background.   Normalized power was 139W over the hour on the trainer with an average heart-rate of 112bpm (seems right).
+Looking at the activity afterwards, my heart-rate measured, from the strap, is still maybe 10bpm higher than what I'd considered square with the effort.  When is normal coming back?
+
+Mobility work happened during the football game.
+<!----->
+I was a bit disappointed that a referee felt the need to get involved in the final stage of the game; whatever, time to get on the trainer.
+
+I pedalled more of the Challenge Roth course from _Zell_, through _Hilpostein/Solar_, passed the swim/bike transition, finishing at the top of the big hill past _Eckersmühlen_.  I pedalled as easy as I could with the _Beastie Boys_ playing in the background.   Normalized power was 139W over the hour on the trainer with an average heart-rate of 112bpm (seems right).
 
 ![](/assets/jpg/image.jpeg)
 
