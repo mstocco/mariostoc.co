@@ -28,13 +28,17 @@ Dead bugs, Breathing, Glute Bridges.
 Mobility 30 minutes
 
 ### NOTES
-Time: **40 Mins** &nbsp;Run: **6.5 km** &nbsp;Spin: **0 km**
+Time: **100 Mins** &nbsp;Run: **6.5 km** &nbsp;Rouvy: **27 km**
 
-Started out 
+Laced up my shoes before the _Super Bowl_ for a short run mostly on dirt. Heart-rate measured from the strap still maybe 10bpm higher than what I'd considered square with the effort.  When is normal coming back?
+
+After the football game, I pedalled more of the Challenge Roth course from _Zell_, through _Hilpostein/Solar_, passed the swim/bike transition, finishing at the top of the big hill past _Eckersmühlen_.  I pedalled as easy as I could with the _Beastie Boys_ playing in the background.   Normalized power was 139W over the hour on the trainer with an average heart-rate of 112bpm (seems right).
+
+![](/assets/jpg/image.jpeg)
 
 <!---->
-## MONDAY FEB 13
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## MONDAY FEB 13 🌤
+Sleep **4** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -47,9 +51,9 @@ Swim 2300:
 4x 50 easy to cool down.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Swim: **0m**
 
-&mdash;  
+COVID woke me up at 0412 with a coughing fit; 
 
 <!---->
 ## TUESDAY FEB 14
