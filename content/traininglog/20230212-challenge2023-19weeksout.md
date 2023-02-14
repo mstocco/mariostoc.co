@@ -30,15 +30,27 @@ Mobility 30 minutes
 ### NOTES
 Time: **100 Mins** &nbsp;Run: **6.5 km** &nbsp;Rouvy: **27 km**
 
-Laced up my shoes before the _Super Bowl_ for a short run mostly on dirt. I went about 10 minutes longer as the effort was easy and I was feeling good.
+Laced up my shoes before the _Super Bowl_ for a short run 
+mostly on dirt. I went about 10 minutes longer as the 
+**effort was easy** and I was feeling good.
 
-Looking at the activity afterwards, my heart-rate measured, from the strap, is still maybe 10bpm higher than what I'd considered square with the effort.  When is normal coming back?
+Looking at the activity afterwards, my heart-rate measured, 
+from the strap, is still maybe 10bpm higher than what I'd 
+considered square with the effort.  When is normal coming back?
 
 Mobility work during the football game.
 <!----->
-I was a bit disappointed that a referee felt the need to get involved in the final stage of the game; whatever, time to get on the trainer.
+I was a bit disappointed that a referee felt the need to get 
+involved in the final stage of the game; whatever, time to get 
+on the trainer.
 
-I discovered more of the Challenge Roth course from _Zell_, through _Hilpostein/Solar_, passed the swim/bike transition, finishing at the top of the big hill past _Eckersmühlen_.  I **pedalled easy** as possible with _The Beastie Boys_ playing in the background.   61 minutes on the trainer with a normalized power of 139W and an average heart-rate of 112bpm (seems right).
+I discovered more of the Challenge Roth course from _Zell_, 
+through _Hilpostein/Solar_, passed the swim/bike transition, 
+finishing at the top of the big hill past _Eckersmühlen_.  I 
+**pedalled easy** as possible with _The Beastie Boys_ playing 
+in the background.   61 minutes on the trainer with a 
+normalized power of 139W and an average heart-rate of 112bpm 
+(seems right).
 
 ![Bike](/assets/jpg/bike-20230212.jpeg)
 
@@ -48,7 +60,6 @@ Sleep **4** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Dead bugs, Breathing, Glute Bridges.  
 Swim 2300:
 200 easy swim, 100 swim w/ buoy, 2x 50 steady kick.
 8x 50 Descend 1-4, 5-8 1: Easy, 2: steady, 3:½IM effort, 4: 1500 effort. R :15 after each.
@@ -59,11 +70,13 @@ Swim 2300:
 ### NOTES
 Total Time: **110 Minutes** &nbsp; Swim: **2300m**
 
-COVID woke me up at 0412 with a coughing fit; 
+Woke up to a coughing fit at 0412. 
 
-After work, I rode out to Colwood as _Crystal Pool_ is still out of commission.  Good, **focused effort** in the water and I had a lane all to myself.  I plugged the workout into my watch with as if it was a 50m pool and I had to edit the activity after the fact.
+After work, I rode back out to _Colwood_.  Good, **focused swim** 
+and I had a lane all to myself.  I plugged the workout 
+into my watch incorrectly (50m pool).
 
-The last 20 minutes of the commute home was in a hail storm which absolutely sucked.
+Caught in a hail storm for the commute home; that absolutely sucked.
 
 <!---->
 ## TUESDAY FEB 14
