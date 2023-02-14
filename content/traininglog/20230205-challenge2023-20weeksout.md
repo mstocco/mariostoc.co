@@ -25,7 +25,7 @@ solid mountain bike ride on [Saturday](javascript:flick('sat');).
 
 I averaged 77.1 Kg on the scale this week too.
 
-![With Crystal Pool still closed for maintenance, I swam at the pool in Colwood for the first time.](/assets/jpg/IMG_4552-977x550.jpeg WESTSHORE PARKS AND RECREATION)
+![With Crystal Pool still closed for maintenance, I swam at the 25m pool in Colwood for the first time this week.](/assets/jpg/IMG_4552-977x550.jpeg Juan de Fuca Recreation Centre)
 
 ## SUNDAY FEB 5 🌦
 Sleep **4** | Fatigue **3** | Stress **3** | Soreness **4**
