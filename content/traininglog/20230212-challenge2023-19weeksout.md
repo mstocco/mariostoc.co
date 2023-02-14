@@ -43,7 +43,7 @@ I discovered more of the Challenge Roth course from _Zell_, through _Hilpostein/
 ![Bike](/assets/jpg/bike-20230212.jpeg)
 
 <!---->
-## MONDAY FEB 13 🌤
+## MONDAY FEB 13 🌦
 Sleep **4** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -57,9 +57,13 @@ Swim 2300:
 4x 50 easy to cool down.
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Swim: **0m**
+Total Time: **110 Minutes** &nbsp; Swim: **2300m**
 
 COVID woke me up at 0412 with a coughing fit; 
+
+After work, I rode out to Colwood as _Crystal Pool_ is still out of commission.  Good, **focused effort** in the water and I had a lane all to myself.  I plugged the workout into my watch with as if it was a 50m pool and I had to edit the activity after the fact.
+
+The last 20 minutes of the commute home was in a hail storm which absolutely sucked.
 
 <!---->
 ## TUESDAY FEB 14
