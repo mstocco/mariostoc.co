@@ -79,7 +79,7 @@ into my watch incorrectly (50m pool).
 Caught in a hail storm for the commute home; that absolutely sucked.
 
 <!---->
-## TUESDAY FEB 14 ❤️
+## TUESDAY FEB 14 💕
 Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -89,13 +89,16 @@ Run 60 minutes. Easy effort. Flat to rolling terrain. Keep the effort easy.
 Mobility 18 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **65 Minutes** &nbsp; Run: **10.5 km**
 
-Better sleep last night.  QL is a little stiff.
+Better sleep last night.  QL is a little stiff.  
+Still dealing with this cough. 😡
+
+Run was completed as written, **easy effort**, on dirt with a couple trips up _The Berm_.  Nice to just turn the brain off for an hour and just go.  Sunny but cold.
 
 <!---->
-## WEDNESDAY FEB 15
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY FEB 15 
+Sleep **3** | Fatigue **4** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -110,7 +113,7 @@ Trainer 1:40: Remember to hydrate and fuel!
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Another good sleep.  QL is less stiff but still dealing with this cough. 😡
 
 <!---->
 ## THURSDAY FEB 16
