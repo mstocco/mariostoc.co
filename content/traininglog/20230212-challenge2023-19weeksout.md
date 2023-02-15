@@ -94,7 +94,7 @@ Total Time: **65 Minutes** &nbsp; Run: **10.5 km**
 Better sleep last night.  QL is a little stiff.  
 Still dealing with this cough. 😡
 
-Run was completed as written, **easy effort**, on dirt with a couple trips up _The Berm_.  Nice to just turn the brain off for an hour and just go.  Sunny but cold.
+Run was completed as written, **easy effort**, on dirt with a couple trips up _The Berm_.  Nice to just turn the brain off for an hour and just go. ![Run](/assets/jpg/run-20230214.jpeg)
 
 <!---->
 ## WEDNESDAY FEB 15 
@@ -111,7 +111,7 @@ Trainer 1:40: Remember to hydrate and fuel!
 5 minutes easy spinning to cool down.
 
 ### NOTES
-Total Time: **0 Minutes**
+Time: **0 Mins** &nbsp; Normalized Power: **0W**
 
 Another good sleep.  QL is less stiff but still dealing with this cough. 😡
 
