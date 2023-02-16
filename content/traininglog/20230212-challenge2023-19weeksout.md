@@ -199,7 +199,7 @@ effort from my heart and lungs into my legs.
  </tbody>
 </table>
 <!---->
-## THURSDAY FEB 16
+## THURSDAY FEB 16 ☁️
 Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -215,7 +215,7 @@ Run 30 minutes EASY
 ### NOTES
 Total Time: **0 Mins** &nbsp;Swim: **0000m** &nbsp;Run: **0.0km**
 
-&mdash;
+Restful sleep; still dealing with the cough.
 
 <!---->
 ## FRIDAY FEB 17
