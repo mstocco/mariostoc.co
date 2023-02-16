@@ -147,13 +147,10 @@ like a terrible idea.
 I had 70g of a lemonade/maltodextrin mix in my bottle and it
 went down well.
 <!----->
-I would not rate this workout as my favourite.  Mostly my 
-interface with the saddle was bothered tonight.  Maybe it was 
-the late start too.
-
-### WORKOUT POWER CHART
+### INTERVAL POWER
 ![Bike](/assets/jpg/bike-20230215.jpeg)
-One thing that my mistake with the 2 minute efforts revealled was 
+
+One thing that my mistake with the 2 minute efforts revealed was 
 the delta in heartrate vs cadence and what it feels like to transfer 
 effort from my heart and lungs into my legs.
 
@@ -198,6 +195,10 @@ effort from my heart and lungs into my legs.
   </tr>
  </tbody>
 </table>
+
+I would not rate this workout as my favourite; my 
+interface with the saddle was aggravated tonight. 
+It could have been the late start too.
 <!---->
 ## THURSDAY FEB 16 ☁️
 Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**
