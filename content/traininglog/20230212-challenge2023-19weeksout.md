@@ -84,7 +84,8 @@ Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Run 60 minutes. Easy effort. Flat to rolling terrain. Keep the effort easy.
+Run 60 minutes. Easy effort. Flat to rolling terrain. 
+Keep the effort easy.
 
 Mobility 18 minutes
 
@@ -94,7 +95,9 @@ Total Time: **65 Minutes** &nbsp; Run: **10.5 km**
 Better sleep last night.  QL is a little stiff.  
 Still dealing with this cough. 😡
 
-Run was completed as written, **easy effort**, on dirt with a couple trips up _The Berm_.  Nice to just turn the brain off for an hour and just go. ![Run](/assets/jpg/run-20230214.jpeg)
+Run was completed as written, **easy effort**, on dirt with a 
+couple trips up _The Berm_.  Nice to just turn the brain off 
+for an hour and just go. ![Run](/assets/jpg/run-20230214.jpeg)
 
 <!---->
 ## WEDNESDAY FEB 15 🌤
@@ -111,26 +114,93 @@ Trainer 1:40: Remember to hydrate and fuel!
 5 minutes easy spinning to cool down.
 
 ### NOTES
-Time: **100 Mins** &nbsp; Normalized Power: **136W**
+Time: **100 Mins** &nbsp; Normalized Power: **137W**
 
-Another good sleep.  QL is less stiff but still dealing with this cough. 😡
+Another good sleep.  QL is less stiff but still dealing with 
+this cough. 😡
 
-It took way more experimentation then I wanted to invest but if I pair up the Tacx app on my iPad (or iPhone) first, and start an activity there with the resistance equivalent to "free ride",  I can then start a workout on my Garmin Edge with the interval times (minus any power targets).
+It took way more experimentation then I wanted to invest but 
+I was able to ride this workout without ERG-mode engaged on 
+the trainer.
+<!----->
 
-Voila, no ERG-mode.
+### THE TRICK
+Pair the Tacx app on my iPad (or iPhone) first, and start a 
+_"Slope Workout"_ with a _"level gradient"_. Next, start the 
+workout on the Garmin Edge with the interval times (minus 
+any power targets).  Voila, no ERG-mode.
 
-It is not all great though.  Without a my normal queues that I typically build into the workouts for the Garmin Edge, I needed a reminder that 8x30 sec was standing.  The first four of the 2 minute efforts, I had ridden with the correct wattage but I self-selected 99 RPM.  I remembered the low RPM requirement for the 5th and 6th repeats of that set but I am out of gearing.  52x11 @ 65RPM = ~200W 
+### THE CAVEAT(S)
+I typically build cues for the workout intervals for the Garmin 
+Edge.  I missed them tonight and I needed a reminder that 8x30sec 
+was standing.  The first four of the 2 minute efforts, I were 
+ridden with the correct wattage but I self-selected 99 RPM.  I 
+remembered the low RPM requirement for the 5th and 6th repeats.
 
-I could increase the slope by pfaffing with my iPad but I feel like that is another terrible idea.  Maybe next time, I'll set up the slope in the Tacx app to 1%...
+Also with a _"0% grade"_, I am out of gears.  
+ &nbsp; &rarr; 52x11 @ 65RPM = ~200W
 
-In my bottle, I had 70g of a lemonade/maltodextrin mix.
+Maybe next time, I'll set up the slope in the Tacx app to 1%; 
+pfaffing with my iPad while in the middle of a workout feels 
+like a terrible idea.  
 
-I would not rate this workout as my favourite.
+I had 70g of a lemonade/maltodextrin mix in my bottle and it
+went down well.
+<!----->
+I would not rate this workout as my favourite.  Mostly my 
+interface with the saddle was bothered tonight.  Maybe it was 
+the late start too.
 
-![Bike](/assets/jpg/image.jpeg)
+### WORKOUT POWER CHART
+![Bike](/assets/jpg/bike-20230215.jpeg)
+One thing that my mistake with the 2 minute efforts revealled was 
+the delta in heartrate vs cadence and what it feels like to transfer 
+effort from my heart and lungs into my legs.
+
+<table style="border-collapse: collapse;">
+ <thead>
+  <tr class="agencyvc">
+   <td style="text-align:center;">Rep</td>
+   <td style="width:90px;text-align:right;">RPM</td>
+   <td style="width:74px;text-align:right;">Avg HR</td>
+   <td style="width:70px;text-align:right;">W/KG</td>
+   <td style="width:68px;text-align:right;">AVG KPH</td>
+  </tr>
+ </thead>
+ <tbody>
+  <tr style="background-color:whitesmoke;">
+   <td style="text-align:center;">3</td>
+   <td style="text-align:right;">99</td>
+   <td style="text-align:right;">125</td>
+   <td style="text-align:right;">2.54</td>
+   <td style="text-align:right;">34.7</td>
+  </tr>
+  <tr style="background-color:whitesmoke;">
+   <td style="text-align:center;">4</td>
+   <td style="text-align:right;">99</td>
+   <td style="text-align:right;">127</td>
+   <td style="text-align:right;">2.59</td>
+   <td style="text-align:right;">34.6</td>
+  </tr>
+  <tr>
+   <td style="text-align:center;">5</td>
+   <td style="text-align:right;">64</td>
+   <td style="text-align:right;">118</td>
+   <td style="text-align:right;">2.60</td>
+   <td style="text-align:right;">34.9</td>
+  </tr>
+  <tr>
+   <td style="text-align:center;">6</td>
+   <td style="text-align:right;">62</td>
+   <td style="text-align:right;">117</td>
+   <td style="text-align:right;">2.49</td>
+   <td style="text-align:right;">34.4</td>
+  </tr>
+ </tbody>
+</table>
 <!---->
 ## THURSDAY FEB 16
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -143,9 +213,9 @@ Swim 2500:
 Run 30 minutes EASY
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Mins** &nbsp;Swim: **0000m** &nbsp;Run: **0.0km**
 
-&mdash;  
+&mdash;
 
 <!---->
 ## FRIDAY FEB 17
