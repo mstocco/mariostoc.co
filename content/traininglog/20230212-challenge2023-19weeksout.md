@@ -97,7 +97,7 @@ Still dealing with this cough. 😡
 Run was completed as written, **easy effort**, on dirt with a couple trips up _The Berm_.  Nice to just turn the brain off for an hour and just go. ![Run](/assets/jpg/run-20230214.jpeg)
 
 <!---->
-## WEDNESDAY FEB 15 
+## WEDNESDAY FEB 15 🌤
 Sleep **3** | Fatigue **4** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -111,10 +111,23 @@ Trainer 1:40: Remember to hydrate and fuel!
 5 minutes easy spinning to cool down.
 
 ### NOTES
-Time: **0 Mins** &nbsp; Normalized Power: **0W**
+Time: **100 Mins** &nbsp; Normalized Power: **136W**
 
 Another good sleep.  QL is less stiff but still dealing with this cough. 😡
 
+It took way more experimentation then I wanted to invest but if I pair up the Tacx app on my iPad (or iPhone) first, and start an activity there with the resistance equivalent to "free ride",  I can then start a workout on my Garmin Edge with the interval times (minus any power targets).
+
+Voila, no ERG-mode.
+
+It is not all great though.  Without a my normal queues that I typically build into the workouts for the Garmin Edge, I needed a reminder that 8x30 sec was standing.  The first four of the 2 minute efforts, I had ridden with the correct wattage but I self-selected 99 RPM.  I remembered the low RPM requirement for the 5th and 6th repeats of that set but I am out of gearing.  52x11 @ 65RPM = ~200W 
+
+I could increase the slope by pfaffing with my iPad but I feel like that is another terrible idea.  Maybe next time, I'll set up the slope in the Tacx app to 1%...
+
+In my bottle, I had 70g of a lemonade/maltodextrin mix.
+
+I would not rate this workout as my favourite.
+
+![Bike](/assets/jpg/image.jpeg)
 <!---->
 ## THURSDAY FEB 16
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
