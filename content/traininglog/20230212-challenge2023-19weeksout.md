@@ -196,6 +196,8 @@ effort from my heart and lungs into my legs.
  </tbody>
 </table>
 
+---
+
 I would not rate this workout as my favourite; my 
 interface with the saddle was aggravated tonight. 
 It could have been the late start too.
