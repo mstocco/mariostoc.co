@@ -138,7 +138,7 @@ ridden with the correct wattage but I self-selected 99 RPM.  I
 remembered the low RPM requirement for the 5th and 6th repeats.
 
 Also with a _"0% grade"_, I am out of gears.  
- &nbsp; &rarr; <small><strong>52x11 @ 65RPM = ~200W<strong></small>
+ &nbsp; &rarr; <small><strong>52x11 @ 65RPM = ~200W</strong></small>
 
 Maybe next time, I'll set up the slope in the Tacx app to 1%; 
 pfaffing with my iPad while in the middle of a workout feels 
@@ -215,9 +215,11 @@ Swim 2500:
 
 Run 30 minutes EASY
 
-### NOTES
-Total Time: **100 Mins** &nbsp;Swim: **2500m** &nbsp;Run: **7.5 km**
+### NOTES 🏆
+Time: **100 Mins** &nbsp;Swim: **2500m** &nbsp;Run: **7.5 km**
 
+![Swim](/assets/jpg/swim-20230216.jpeg)
+<!----->
 Restful sleep; still dealing with the cough.
 
 I took the bus out to _Colwood_ as _Crystal Pool_ is still out of commission.
@@ -227,6 +229,8 @@ I think I just needed a win and with a 400m rep on the schedule, I took it.  New
 The whole swim was **on point**.
 
 I jogged home expecting to be a bit fatigued but I found an **easy rhythm**early and let it carry me back to _Tillicum_ and _Burnside_.
+
+![Run](/assets/jpg/image.jpeg)
 
 <!---->
 ## FRIDAY FEB 17
