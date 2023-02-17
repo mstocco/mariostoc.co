@@ -240,8 +240,8 @@ and _Burnside_.
 ![Run](/assets/jpg/run-20230216.jpeg)
 
 <!---->
-## FRIDAY FEB 17
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY FEB 17 ☁️
+Sleep **4** | Fatigue **3** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -249,9 +249,9 @@ Dead bugs, Breathing, Glute Bridges.
 Ride 75 minutes. Easy spinning. Inside or outside. Any bike you like. But saving the legs for the weekend. This is just an easy spin.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Mins** &nbsp; Normalized Power: &mdash;
 
-&mdash;  
+Cough, cough, and up way too early for a conference call.  Left hip flexor is the niggle of the day; maybe a 3/10.
 
 <!---->
 ## SATURDAY FEB 18
