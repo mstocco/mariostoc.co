@@ -215,21 +215,27 @@ Swim 2500:
 
 Run 30 minutes EASY
 
-### NOTES 🏆
+### NOTES 
 Time: **100 Mins** &nbsp;Swim: **2500m** &nbsp;Run: **7.5 km**
 
-![Swim](/assets/jpg/swim-20230216.jpeg)
-<!----->
 Restful sleep; still dealing with the cough.
 
 I took the bus out to _Colwood_ as _Crystal Pool_ is still out of commission.
 
-I think I just needed a win and with a 400m rep on the schedule, I took it.  New 400m SCM PR by 13 seconds.  Previous time was set [last June](ironman2022-10weeksout?fri) while swimming a 600m set.  I must have been going good back then.
+The whole swim was **on point** but with a 400m rep on the schedule...  
 
-The whole swim was **on point**.
+<!----->
+**New 400m SCM PR by 13 seconds**.  Previous time was set 
+[last June](ironman2022-10weeksout?fri) while swimming a 600m 
+set.  I must have been going good back then.
 
-![Run](/assets/jpg/run-20230216.jpeg)
-I jogged home expecting to be a bit fatigued but I found an **easy rhythm**early and let it carry me back to _Tillicum_ and _Burnside_.
+![Swim](/assets/jpg/swim-20230216.jpeg)
+
+---
+
+I jogged home expecting to be a bit fatigued but I found an 
+**easy rhythm** early and let it carry me back to _Tillicum_ 
+and _Burnside_.
 
 ![Run](/assets/jpg/run-20230216.jpeg)
 
