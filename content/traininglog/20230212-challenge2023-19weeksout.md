@@ -228,9 +228,10 @@ I think I just needed a win and with a 400m rep on the schedule, I took it.  New
 
 The whole swim was **on point**.
 
+![Run](/assets/jpg/run-20230216.jpeg)
 I jogged home expecting to be a bit fatigued but I found an **easy rhythm**early and let it carry me back to _Tillicum_ and _Burnside_.
 
-![Run](/assets/jpg/image.jpeg)
+![Run](/assets/jpg/run-20230216.jpeg)
 
 <!---->
 ## FRIDAY FEB 17
