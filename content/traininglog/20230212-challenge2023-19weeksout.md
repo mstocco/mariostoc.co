@@ -249,19 +249,27 @@ Dead bugs, Breathing, Glute Bridges.
 Ride 75 minutes. Easy spinning. Inside or outside. Any bike you like. But saving the legs for the weekend. This is just an easy spin.
 
 ### NOTES
-Total Time: **0 Mins** &nbsp; Normalized Power: &mdash;
+Total Time: **83 Mins** &nbsp; Normalized Power: **132W**
 
 Cough, cough, and up way too early for a conference call.  Left hip flexor is the niggle of the day; maybe a 3/10.
 
+I loaded up Rouvy (late) and rode the (simulated) Roth course from T1 to the base of the BIG HILL in _Greding_.  10% grade at 13km and 17km and then long shallow descent sums up this part of the course.
+
 <!---->
-## SATURDAY FEB 18
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY FEB 18 🌧
+Sleep **5** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Ride 90 minutes. Ideally this is....outside and fun. Effort should be easy to steady. 
+Big day on [Sunday](challenge2023-18weeksout?sun). No need to make yourself exhausted from this ride. 
+
+Run 30 minutes EASY.   
+&middot; Ideally this is off the bike but anytime of day will work. 
+
+Mobility 20 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Time: **0 Mins**
+Not a good sleep last night.
 
-&mdash;  
