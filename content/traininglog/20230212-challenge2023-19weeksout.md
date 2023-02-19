@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![I have run by here a lot this winter.](/assets/jpg/IMG_4566-977x550.jpeg PANAMA FLATS)
 
 ## SUNDAY FEB 12 ☁️
 Sleep **3** | Fatigue **3** | Stress **2** | Soreness **3**
@@ -265,11 +265,20 @@ Ride 90 minutes. Ideally this is....outside and fun. Effort should be easy to st
 Big day on [Sunday](challenge2023-18weeksout?sun). No need to make yourself exhausted from this ride. 
 
 Run 30 minutes EASY.   
-&middot; Ideally this is off the bike but anytime of day will work. 
+&middot; Ideally this is off the bike but anytime will work. 
 
 Mobility 20 minutes
 
 ### NOTES
-Time: **0 Mins**
-Not a good sleep last night.
+Time: **117 Mins** Rouvy: **147W** Run: **5.9km**
+
+Not a good sleep last night; bit of a headache as well.
+
+Jumped back on Rouvy to pedal the BIG HILL at Greding through to the base of Solar Hill in Hilpoltstein.  
+
+Took me about 7:30 to get up to the bench where they had an aid station in 2022.  Not long after, the road pitches up again though gradually becoming flatter the further into the farmland you go.  21 minutes to the highest point on the course.
+
+To make things even more realistic, I stopped at an aid station and looked after a biological need.
+
+If I was listening to my body, I would gone down for a nap this afternoon.  Instead, I laced up my Lone Peaks for a trip out to [Panama Flats](javascript:flkty.select(2);) and kept my consistency streak for the week intact.
 
