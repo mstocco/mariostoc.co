@@ -7,12 +7,15 @@ Week beginning [Sunday, February 12, 2023](javascript:flick('sun');)
 Ride the momentum that I finished [last week](challenge2023-20weeksout) with.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **11.25 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **CONSISTENT**LY  COUGHING**
 
-&mdash;
+I feel good about getting every workout complete but there hasn't been much improvement with the nagging cough.
+
+Apart from the bike commute to the pool in _Colwood_, all my riding was on the trainer this week; none of it was done with ERG mode and I am starting to feel comfortable with where the landmarks are on the Challenge Roth "Radstrecke" <small>(bike course)</small>
+
+By the end of the week, 11 hours of training felt more like 13.
 
 ![I have run by here a lot this winter.](/assets/jpg/IMG_4566-977x550.jpeg PANAMA FLATS)
 
