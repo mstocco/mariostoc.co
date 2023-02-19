@@ -4,18 +4,23 @@ Week beginning [Sunday, February 12, 2023](javascript:flick('sun');)
 **19** weeks out from race day.
 
 ## WEEKLY GOAL
-Ride the momentum that I finished [last week](challenge2023-20weeksout) with.
+Ride the momentum that [last week](challenge2023-20weeksout) finished with.
 
 ## SUMMARY
 Total Time: **11.25 Hours**
 
 I feel like I was **CONSISTENT**LY  COUGHING**
 
-I feel good about getting every workout complete but there hasn't been much improvement with the nagging cough.
+I feel good about getting **every workout** complete but there 
+hasn't been much improvement with the nagging cough.
 
-Apart from the bike commute to the pool in _Colwood_, all my riding was on the trainer this week; none of it was done with ERG mode and I am starting to feel comfortable with where the landmarks are on the Challenge Roth "Radstrecke" <small>(bike course)</small>
+Apart from the [bike commute](javascript:flick('mon');) to the 
+pool in _Colwood_, all my riding was on the trainer this week; 
+none using ERG-mode and I am starting to feel comfortable with 
+where the landmarks are on the Challenge Roth "Radstrecke" 
+<small>(bike course)</small>.
 
-By the end of the week, 11 hours of training felt more like 13.
+By the end of the week, 11 hours of training felt closer to 13.
 
 ![I have run by here a lot this winter.](/assets/jpg/IMG_4566-977x550.jpeg PANAMA FLATS)
 
@@ -75,11 +80,12 @@ Total Time: **110 Minutes** &nbsp; Swim: **2300m**
 
 Woke up to a coughing fit at 0412. 
 
-After work, I rode back out to _Colwood_.  Good, **focused swim** 
-and I had a lane all to myself.  I plugged the workout 
-into my watch incorrectly (50m pool).
+After work, I rode back out to _Colwood_.  Good, 
+**focused swim** and I had a lane all to myself.  I plugged 
+the workout into my watch incorrectly (50m pool).
 
-Caught in a hail storm for the commute home; that absolutely sucked.
+Caught in a **hail storm** for the commute home; that 
+absolutely sucked.
 
 <!---->
 ## TUESDAY FEB 14 💕
@@ -159,43 +165,13 @@ effort from my heart and lungs into my legs.
 
 <table style="border-collapse: collapse;">
  <thead>
-  <tr class="agencyvc">
-   <td style="text-align:center;">Rep</td>
-   <td style="width:90px;text-align:right;">RPM</td>
-   <td style="width:74px;text-align:right;">Avg HR</td>
-   <td style="width:70px;text-align:right;">W/KG</td>
-   <td style="width:68px;text-align:right;">AVG KPH</td>
-  </tr>
+  <tr class="agencyvc"><td style="text-align:center;">Rep</td><td style="width:90px;text-align:right;">RPM</td><td style="width:74px;text-align:right;">Avg HR</td><td style="width:70px;text-align:right;">W/KG</td><td style="width:68px;text-align:right;">AVG KPH</td></tr>
  </thead>
  <tbody>
-  <tr style="background-color:whitesmoke;">
-   <td style="text-align:center;">3</td>
-   <td style="text-align:right;">99</td>
-   <td style="text-align:right;">125</td>
-   <td style="text-align:right;">2.54</td>
-   <td style="text-align:right;">34.7</td>
-  </tr>
-  <tr style="background-color:whitesmoke;">
-   <td style="text-align:center;">4</td>
-   <td style="text-align:right;">99</td>
-   <td style="text-align:right;">127</td>
-   <td style="text-align:right;">2.59</td>
-   <td style="text-align:right;">34.6</td>
-  </tr>
-  <tr>
-   <td style="text-align:center;">5</td>
-   <td style="text-align:right;">64</td>
-   <td style="text-align:right;">118</td>
-   <td style="text-align:right;">2.60</td>
-   <td style="text-align:right;">34.9</td>
-  </tr>
-  <tr>
-   <td style="text-align:center;">6</td>
-   <td style="text-align:right;">62</td>
-   <td style="text-align:right;">117</td>
-   <td style="text-align:right;">2.49</td>
-   <td style="text-align:right;">34.4</td>
-  </tr>
+  <tr style="background-color:whitesmoke;"><td style="text-align:center;">3</td><td style="text-align:right;">99</td><td style="text-align:right;">125</td><td style="text-align:right;">2.54</td><td style="text-align:right;">34.7</td></tr>
+  <tr style="background-color:whitesmoke;"><td style="text-align:center;">4</td><td style="text-align:right;">99</td><td style="text-align:right;">127</td><td style="text-align:right;">2.59</td><td style="text-align:right;">34.6</td></tr>
+  <tr><td style="text-align:center;">5</td><td style="text-align:right;">64</td><td style="text-align:right;">118</td><td style="text-align:right;">2.60</td><td style="text-align:right;">34.9</td></tr>
+  <tr><td style="text-align:center;">6</td><td style="text-align:right;">62</td><td style="text-align:right;">117</td><td style="text-align:right;">2.49</td><td style="text-align:right;">34.4</td></tr>
  </tbody>
 </table>
 
@@ -254,9 +230,18 @@ Ride 75 minutes. Easy spinning. Inside or outside. Any bike you like. But saving
 ### NOTES
 Total Time: **83 Mins** &nbsp; Normalized Power: **132W**
 
-Cough, cough, and up way too early for a conference call.  Left hip flexor is the niggle of the day; maybe a 3/10.
+Cough, cough, and up way too early for a conference call. 
+Left hip flexor is the niggle of the day; maybe a 3/10.
 
-I loaded up Rouvy (late) and rode the (simulated) Roth course from T1 to the base of the BIG HILL in _Greding_.  10% grade at 13km and 17km and then long shallow descent sums up this part of the course.
+I took a late-afternoon nap.
+
+Later in the evening, I loaded up the Roth Bike Course on 
+Rouvy then pedaled the trainer from T1 to the base of the 
+BIG HILL in _Greding_.
+
+10% grades at roughly 13km and 17km then a long shallow 
+descent (not unlike _Okanagan Falls_ to _Osoyoos_) sums 
+up the first part of the course.
 
 <!---->
 ## SATURDAY FEB 18 🌧
@@ -264,24 +249,56 @@ Sleep **5** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Ride 90 minutes. Ideally this is....outside and fun. Effort should be easy to steady. 
+Ride 90 minutes. Ideally this is outside and fun. Effort should be easy to steady. 
 Big day on [Sunday](challenge2023-18weeksout?sun). No need to make yourself exhausted from this ride. 
 
-Run 30 minutes EASY.   
-&middot; Ideally this is off the bike but anytime will work. 
+Run 30 minutes EASY.  Ideally this is off the bike but anytime will work. 
 
 Mobility 20 minutes
 
 ### NOTES
-Time: **117 Mins** Rouvy: **147W** Run: **5.9km**
+Time: **117 Mins** &nbsp;Rouvy: **147W** &nbsp;Run: **5.9km**
 
-Not a good sleep last night; bit of a headache as well.
+Not a good sleep last night and a headache as well. Addressed 
+with extra water and a bigger breakfast; no Advil taken.
 
-Jumped back on Rouvy to pedal the BIG HILL at Greding through to the base of Solar Hill in Hilpoltstein.  
+Time was not on my side for an outdoor ride (that's 
+[tomorrow](challenge2023-18weeksout?sun)). Jumped back on 
+Rouvy to pedal the BIG HILL at _Greding_ through to the base 
+of _Solar Hill_ in _Hilpoltstein_.  
+<!----->
+That hill is the largest single feature on the race course. 
+The first part of the hill starts around 10% and eases to a 
+consistant 6.5%.  It reaches a bench where the race has placed 
+an Aid Station.
 
-Took me about 7:30 to get up to the bench where they had an aid station in 2022.  Not long after, the road pitches up again though gradually becoming flatter the further into the farmland you go.  21 minutes to the highest point on the course.
+So in theory, if I pedal at an effort appropriate for me, I 
+should reach the _Aid Station_ in about 7:30.
 
-To make things even more realistic, I stopped at an aid station and looked after a biological need.
+From there, the hill continues up with various pitches of 4% 
+to 5% over the next 14 minutes.
 
-If I was listening to my body, I would gone down for a nap this afternoon.  Instead, I laced up my Lone Peaks for a trip out to [Panama Flats](javascript:flkty.select(2);) and kept my consistency streak for the week intact.
+In all, a little over 21 minutes in total for me before starting 
+the sometimes twisty descent into _Obermässing_.  For reference, 
+_Richter Pass_ was a 36 minute hill and the steeper part of 
+_Yellow Lake Pass_ was 200m in ~20 minutes.  This hill in 
+_Greding_ is around 170m of gain.
+
+From there I continued on through the simulated German 
+countryside.  To make things even more realistic, I stopped at 
+the _Bike Service Area_ in _Offenbau_ and looked after a 
+biological need.
+
+I stopped just shy of _Solar Hill_ &nbsp;<small>(80 mins ride time)</small>.
+<!----->
+If I was listening to my body, I would gone down for another 
+nap this afternoon.  Instead, I laced up my _Lone Peaks_ for 
+a trip out to [Panama Flats](javascript:flkty.select(2);) 
+
+That kept my workout consistency streak for the week intact.
+
+**Effort was easy**, everthing in order.
+
+![Run](/assets/jpg/run-20230218.jpeg)
+
 
