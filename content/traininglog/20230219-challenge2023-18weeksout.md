@@ -68,8 +68,8 @@ Overall, a **fun ride**.  I'd do that route again.
 ![Bike](/assets/jpg/bike-20230219.jpeg)
 
 <!---->
-## MONDAY FEB 20
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## MONDAY FEB 20 🌧
+Sleep **3** | Fatigue **4** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -86,9 +86,9 @@ Not a lot of rest, but it isn't continuous either.
 2nd: Run 45ish minutes easy. Running home from the pool.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Mins** &nbsp;Swim: **0000m** &nbsp;Run: **0.0 km**
 
-&mdash;  
+Good sleep last night but coughing still.  My left wrist is not too bad.
 
 <!---->
 ## TUESDAY FEB 21
