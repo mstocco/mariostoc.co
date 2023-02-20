@@ -4,7 +4,8 @@ Week beginning [Sunday, February 19, 2023](javascript:flick('sun');)
 **18** weeks out from race day.
 
 ## WEEKLY GOAL
-I hit every workout [last week](2023challenge-19weeksout).  Let's do that again but with a bit more sleep.
+I hit every workout [last week](2023challenge-19weeksout). 
+Let's do that again but with a bit more sleep.
 
 ## SUMMARY
 Total Time: **0 Hours**
@@ -14,7 +15,7 @@ I feel like I was...
 
 &mdash;
 
-![A bit of exploration during the mountain bike ride on Sunday.](/assets/jpg/IMG_4569-977x550.jpeg ON THE APPROACH UP MOUNT WORK)
+![A bit of exploration during the mountain bike ride on Sunday.](/assets/jpg/IMG_4569-977x550.jpeg ON THE APPROACH TO MOUNT WORK)
 
 ## SUNDAY FEB 19 💨
 Sleep **2** | Fatigue **4** | Stress **2** | Soreness **3**
@@ -31,18 +32,40 @@ Effort is easy to steady. I imagine you'll be pretty tired at the end, and that 
 ### NOTES
 Moving Time: **197 Minutes** &nbsp; Elevation:  **960m** 
 
-Storm warning and the skies started to get dark just as I headed out for today's ride.
+Storm warning and the skies started to get dark just as I 
+headed out for today's ride.  
 
-I pedalled easier than I typically have to get up to the end of _Westoby Road_.  Once off-road, I headed up hill for another crack at _Kallie's Korner_.  I almost cleaned it too.  I got to _Munn Road_ with a big smile.
+I pedalled easier than my recent efforts to the gate at the 
+end of _Westoby Road_.  After a quick rip on _Comfy Wooden 
+Chair_, I headed up hill for another crack at _Kallie's Korner_.
 
-Instead of spending time on the asphalt, I took the _Corey Road Connector_.  It's a fire-road with a CRD sign that says no riding.  I do see others riding it so, monkey see, monkey do.  I took this way up to the north end of the Mount Work Bike Park where I linked up with Bubble Wrap.  The section that I was on wasn't too gnarly but a wet root did put me on the ground.  Left wrist is going to be sore [tomorrow](javascript:flick('mon');).
+I almost cleaned it too!  One tricky bit and one dab. I 
+reached _Munn Road_ with a huge smile and here is where I 
+decided to go explore...
+<!----->
+Instead of riding down _Munn_ again, I turned on to a fire 
+road called _Corey Road Connector_.  This eventually put me 
+in the north-west end of the _Mount Work Bike Park_; an entire 
+section of the bike park that is new to me.
 
-This entire section of the bike park is new to me but I did make my way to _Regional Trail North_.   From here, I no longer needed the _Trail Forks_ app on my iPhone.
+_Bubble Wrap_, a single **black diamond trail** was my only option 
+before finding blue trails in my comfort zone. This bit of trail
+wasn't too gnarly but a wet root did put me on the ground fast. 
+My left wrist is going to be sore [tomorrow](javascript:flick('mon');).
 
-Up _Centerfold_ to _Painless_  I cleaned the entire trail.  That spit me out at the top end of _Fun Trail_.  _Sofa King_, _Bottom Feeder and _Shock Treatment_ made up the time in the park go by fast.  I exited by my usual trail _Executive West_  and headed home.
+I stopped whenever I needed to check the _Trail Forks_ app on 
+my iPhone. I made my way to _Regional Trail North_; a familiar 
+fire road to me.
 
-Overall, a **good ride**.  I'd do it again knowing better how the trails connect at the north end of _Mount Work_.
+Finally the **blue trails**. _Centerfold_ to _Painless_; I 
+cleaned the entire trail.  That put me at the top of _Fun 
+Trail_.  _Sofa King_, _Bottom Feeder_ and _Shock Treatment_ 
+made up the time in the park go by fast.  I exited the park 
+via _Executive West_ and headed for home.
 
+Overall, a **fun ride**.  I'd do that route again.
+<!----->
+![Bike](/assets/jpg/bike-20230219.jpeg)
 
 <!---->
 ## MONDAY FEB 20
