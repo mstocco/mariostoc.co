@@ -88,41 +88,52 @@ Not a lot of rest, but it isn't continuous either.
 ### NOTES
 Total Time: **105 Mins** &nbsp;Swim: **2500m** &nbsp;Run: **7.5 km**
 
-Good sleep last night but coughing still.  My left wrist is not too bad.  Cooked a big breakfast.
+Good sleep last night but coughing still.  My left wrist is 
+not too bad.  Cooked a big breakfast.
 <!----->
-Often when I jump into the water at my local pool and I am _"relatively quick"_ .  This morning was a **whole lot different**.
+Often when I jump into the water at my local pool and I am 
+_"relatively quick"_ .  This morning was a **whole lot different**.
 
-Carina dropped me off at _Saanich Commonwealth Pool_ and from the mezzanine, I could see the facility was busy.  Lanes segregated by pace?  Not here, not this morning.  I picked a double lane that had 3 people at ludicrous pace and 2 others maybe be closer to my ability.
+Carina dropped me off at _Commonwealth Pool_.  From the 
+mezzanine, I could see the facility was BUSY.  Lanes segregated 
+by pace?  Not this morning.  I picked a double lane that had 3 
+people swimming at ludicrous pace and 2 others maybe be closer 
+to my ability.
 
-Even the chop on the water was foreign to other local pools; it was just like being in the middle of a lake on a breezy afternoon.  The 3 beside me were that fast.
+The chop on the water created by the fast crew made it feel 
+like being in the **middle of a lake** on a breezy afternoon. 
+They were that fast.
 
-At the wall, I recognized one of the fast trio as Brent McMahon.  Very fast company indeed.
+At the wall, I recognized one of the fast trio as Brent McMahon. 
+Very fast company indeed.
 
 ---
 
-I jogged home.  I was prepared for rain but it was just wind and mostly blowing in my favour.  I was not running fast; a hard swim and the ride [yesterday](javascript:flick('sun');) made sure of that.  Still, I had to run a number of extra blocks further to get to the 45 minute mark.
+I jogged home.  I was prepared for rain but it was just wind 
+and mostly blowing in my favour.  I was **not running fast**; 
+a hard swim and the ride [yesterday](javascript:flick('sun');) 
+made sure of that.
 
-Spaghetti for dinner again tonight.
-
-
-
-
+Still, I had to run a number of extra blocks further to get 
+to the 45 minute mark.
 
 <!---->
 ## TUESDAY FEB 21
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Dead bugs, breathing, and Glute Bridges. 
-Ride 60 minutes EASY. Looking at the weather....Inside riding. Keep it easy!
+Dead bugs, breathing, glute bridges.
+
+Ride 60 minutes EASY. Looking at the weather, inside riding. 
+Keep it easy!
 
 Mobility 25 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Ride: **0 km**
 
-&mdash;  
+Woke up feeling somewhat refreshed but a touch congested.
 
 <!---->
 ## WEDNESDAY FEB 22
@@ -130,8 +141,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Order is up to you. 
-Whatever works in your schedule, works for me. 
+Order is up to you. Whatever works in your schedule, 
+works for me. 
 
 Trainer 90 minutes: Remember to hydrate and fuel!
 12 minutes easy spinning to warm up.
@@ -147,7 +158,7 @@ Run 30 minutes EASY.
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+&mdash;
 
 <!---->
 ## THURSDAY FEB 23
@@ -155,7 +166,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Pre-Swim: Dead bugs, breathing, and Glute Bridges.
+Dead bugs, breathing, glute bridges.  
 Swim 2500: 
 200 easy swim, 100 swim w/ buoy, 2x 50 steady kick.
 16x 50 1-3, 5-7, 9-11, 13-15 @ 1500 effort/feel, 4/8/12/16 EASY. R :10 after each. 
