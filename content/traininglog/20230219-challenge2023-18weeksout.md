@@ -44,7 +44,7 @@ reached _Munn Road_ with a huge smile and here is where I
 decided to go explore...
 <!----->
 Instead of riding down _Munn_ again, I turned on to a fire 
-road called _Corey Road Connector_.  This eventually put me 
+road called _Corry Road Connector_.  This eventually put me 
 in the north-west end of the _Mount Work Bike Park_; an entire 
 section of the bike park that is new to me.
 
@@ -86,9 +86,27 @@ Not a lot of rest, but it isn't continuous either.
 2nd: Run 45ish minutes easy. Running home from the pool.
 
 ### NOTES
-Total Time: **0 Mins** &nbsp;Swim: **0000m** &nbsp;Run: **0.0 km**
+Total Time: **105 Mins** &nbsp;Swim: **2500m** &nbsp;Run: **7.5 km**
 
-Good sleep last night but coughing still.  My left wrist is not too bad.
+Good sleep last night but coughing still.  My left wrist is not too bad.  Cooked a big breakfast.
+<!----->
+So, often jump into the water at _Crystal Pool_ and I am _"generally quick"_ for who else is in the pool with me.  Because of the recent maintenance work, I've had to swim elsewhere and that has been _Juan de Fuca Rec_ in _Colwood_.  Today was a whole lot different.
+
+Carina dropped me off at _Saanich Commonwealth Pool_ and from the mezzanine, I couldn't see where I'd even find space for my workout; it was busy.  Lanes segregated by pace?  Not here, not this morning.  I jumped into a double lane that had 3 people at one pace and 2 other people that might be closer to my own.
+
+Even the chop on the water was foreign to other local pools; it was just like being in the middle of a lake on a breezy afternoon.  The 3 beside me were that fast.
+
+At the wall, I recognized one of them as Brent McMahon.  Very fast company indeed.
+
+---
+
+I jogged home.  I was prepared for rain but it was just wind and mostly blowing in my favour.  I was not running fast; a hard swim and the ride [yesterday](javascript:flick('sun');) made sure of that.  Still, I had to run a number of extra blocks further to get to the 45 minute mark.
+
+Spaghetti for dinner again tonight.
+
+
+
+
 
 <!---->
 ## TUESDAY FEB 21
