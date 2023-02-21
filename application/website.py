@@ -62,6 +62,17 @@ class Website:
 		except:
 			pass
 
+	def getMarkdownFiles(self, files):
+		""" Return a sorted list of just the .md files. """
+		files.sort()
+		files.reverse()
+		filenames = []
+		for filename in files:
+			if filename.find('.md') > 1:
+				if filename.find('.icloud') > 1: continue
+				filenames.append(filename)
+		return filenames
+
 	def publish(self):
 		""" 1. Walk the content directory looking for markdown files.
 		    2. Convert markdown into an HTML5 Document
@@ -73,43 +84,46 @@ class Website:
 		documentURIs = ['/']
 		for root, dirs, files in os.walk(self.content):
 			directory = '%s' % root.split(self.content)[1]
+			filenames = self.getMarkdownFiles(files)
 
 			print('->', directory)
-			files.sort()
-			files.reverse()
-			for filename in files:
-				if filename.find('.md') > 1:
-					if filename.find('.icloud') > 1:
-						continue
-					basename = '%s/%s' % (directory, filename)
-					webpage = TemplateDocument()
-					webpage.documentURI = basename.replace('.md', '')
-					if len(filename) > 9:
-						if filename[:8].isnumeric():
-							webpage.lastModified = int(filename[:8])
-							webpage.documentURI = webpage.documentURI.replace(filename[:9], '')
-							if webpage.lastModified <= self.today:
-								documentURIs.append(webpage.documentURI)
-						else:
+			if directory == '/blog':
+				posts = []
+				for filename in filenames:
+					if filename == 'index.md': continue
+
+					print(' ***', filename)
+
+			for filename in filenames:
+				basename = '%s/%s' % (directory, filename)
+				webpage = TemplateDocument()
+				webpage.documentURI = basename.replace('.md', '')
+				if len(filename) > 9:
+					if filename[:8].isnumeric():
+						webpage.lastModified = int(filename[:8])
+						webpage.documentURI = webpage.documentURI.replace(filename[:9], '')
+						if webpage.lastModified <= self.today:
 							documentURIs.append(webpage.documentURI)
-					elif filename == 'index.md':
-						webpage.nocache = True
-						webpage.documentURI = basename.replace('.md', '.html')
-						documentURIs.append('%s/' % directory)
 					else:
 						documentURIs.append(webpage.documentURI)
-					if hasattr(self, 'current'):
-						if webpage.documentURI != self.current:
-							webpage.navigation.current = {'href': self.current}
-						else:
-							webpage.nocache = True
-					webpage.handleMarkdown('%s%s' % (self.content, basename))
-					self.saveDocument(webpage)
+				elif filename == 'index.md':
+					webpage.nocache = True
+					webpage.documentURI = basename.replace('.md', '.html')
+					documentURIs.append('%s/' % directory)
+				else:
+					documentURIs.append(webpage.documentURI)
+				if hasattr(self, 'current'):
+					if webpage.documentURI != self.current:
+						webpage.navigation.current = {'href': self.current}
+					else:
+						webpage.nocache = True
+				webpage.handleMarkdown('%s%s' % (self.content, basename))
+				self.saveDocument(webpage)
 
 			if directory == '/traininglog':
 				if hasattr(self, 'current'):
 					redirect = RedirectDocument()
-					redirect.url = self.current
+					redirect.url = '%s?%s' % (self.current, time.strftime('%a', time.localtime()).lower())
 					redirect.title = 'Latest Training Week'
 					redirect.documentURI = '/traininglog/latest'
 					self.saveDocument(redirect)
