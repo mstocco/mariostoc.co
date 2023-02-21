@@ -90,13 +90,13 @@ Total Time: **105 Mins** &nbsp;Swim: **2500m** &nbsp;Run: **7.5 km**
 
 Good sleep last night but coughing still.  My left wrist is not too bad.  Cooked a big breakfast.
 <!----->
-So, often jump into the water at _Crystal Pool_ and I am _"generally quick"_ for who else is in the pool with me.  Because of the recent maintenance work, I've had to swim elsewhere and that has been _Juan de Fuca Rec_ in _Colwood_.  Today was a whole lot different.
+Often when I jump into the water at my local pool and I am _"relatively quick"_ .  This morning was a **whole lot different**.
 
-Carina dropped me off at _Saanich Commonwealth Pool_ and from the mezzanine, I couldn't see where I'd even find space for my workout; it was busy.  Lanes segregated by pace?  Not here, not this morning.  I jumped into a double lane that had 3 people at one pace and 2 other people that might be closer to my own.
+Carina dropped me off at _Saanich Commonwealth Pool_ and from the mezzanine, I could see the facility was busy.  Lanes segregated by pace?  Not here, not this morning.  I picked a double lane that had 3 people at ludicrous pace and 2 others maybe be closer to my ability.
 
 Even the chop on the water was foreign to other local pools; it was just like being in the middle of a lake on a breezy afternoon.  The 3 beside me were that fast.
 
-At the wall, I recognized one of them as Brent McMahon.  Very fast company indeed.
+At the wall, I recognized one of the fast trio as Brent McMahon.  Very fast company indeed.
 
 ---
 
