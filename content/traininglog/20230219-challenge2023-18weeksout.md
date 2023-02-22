@@ -118,7 +118,7 @@ Still, I had to run a number of extra blocks further to get
 to the 45 minute mark.
 
 <!---->
-## TUESDAY FEB 21
+## TUESDAY FEB 21 🌦
 Sleep **3** | Fatigue **4** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -131,9 +131,11 @@ Keep it easy!
 Mobility 25 minutes
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Ride: **0 km**
+Total Time: **79 Mins** &nbsp; Rides: **10 km** and **~17.89 km**
 
 Woke up feeling somewhat refreshed but a touch congested.
+
+Has an errand downtown and got 29 minutes of **moving time**, there and back, on the bike.  Flirted with the edge of a squall on the commute home and made up the balance of my scheduled saddle time on trainer, after dinner.
 
 <!---->
 ## WEDNESDAY FEB 22
