@@ -135,8 +135,12 @@ Total Time: **79 Mins** &nbsp; Rides: **10 km** and **~17.89 km**
 
 Woke up feeling somewhat refreshed but a touch congested.
 
-Has an errand downtown and got 29 minutes of **moving time**, there and back, on the bike.  Flirted with the edge of a squall on the commute home and made up the balance of my scheduled saddle time on trainer, after dinner.
+Has an errand downtown and got 29 minutes of moving time, (there and back minus the traffic lights), using the mountain bike.
 
+The edge of a squall got me wet on the commute home so after dinner, I made up the balance of today's saddle time on trainer (free ride).
+
+Watched the start of _Roth 2019_ on YouTube.  
+  
 <!---->
 ## WEDNESDAY FEB 22
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
