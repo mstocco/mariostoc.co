@@ -110,7 +110,7 @@ Very fast company indeed.
 ---
 
 I jogged home.  I was prepared for rain but it was just wind 
-and mostly blowing in my favour.  I was **not running fast**; 
+and mostly blowing in my favour.  I was not running fast, I **felt heavy** 
 a hard swim and the ride [yesterday](javascript:flick('sun');) 
 made sure of that.
 
@@ -164,8 +164,10 @@ Run 30 minutes EASY.
 ### NOTES
 Total Time: **0 Mins** &nbsp;Run: **0 km** &nbsp;Ride: **~0 km**
 
-Left hip is stiff and sore (hip flexor anterior and lateral) today. 
+Left hip is stiff and sore (anterior and lateral) today. 
+<!----->
 
+Snow.
 
 <!---->
 ## THURSDAY FEB 23
