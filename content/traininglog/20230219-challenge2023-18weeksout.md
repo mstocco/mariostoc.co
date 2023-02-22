@@ -133,7 +133,7 @@ Mobility 25 minutes
 ### NOTES
 Total Time: **79 Mins** &nbsp;Rides: **10 km** and **~17.9 km**
 
-Woke up feeling refreshed but a touch congested.
+Woke up feeling refreshed but a bit congested.
 
 An errand in town gave me 29 minutes of moving time, (there and back minus the traffic lights), using the mountain bike.
 
@@ -142,8 +142,8 @@ The edge of a squall got me wet on the commute home so...  After dinner, I made 
 Watched the start of _Roth 2019_ on YouTube.  
   
 <!---->
-## WEDNESDAY FEB 22
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY FEB 22 ☁️
+Sleep **2** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -162,9 +162,10 @@ Trainer 90 minutes: Remember to hydrate and fuel!
 Run 30 minutes EASY.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Mins** &nbsp;Run: **0 km** &nbsp;Ride: **~0 km**
 
-&mdash;
+Left hip is stiff and sore (hip flexor anterior and lateral) today. 
+
 
 <!---->
 ## THURSDAY FEB 23
