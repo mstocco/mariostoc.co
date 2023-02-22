@@ -164,10 +164,10 @@ Run 30 minutes EASY.
 ### NOTES
 Total Time: **0 Mins** &nbsp;Run: **0 km** &nbsp;Ride: **~0 km**
 
-Left hip is stiff and sore (anterior and lateral) today. 
+Snow is back in the forecast for today ☹️
 <!----->
+Left hip (anterior and lateral) is stiff and sore; enough for me to wonder how hard I should be pushing the workouts... 
 
-Snow.
 
 <!---->
 ## THURSDAY FEB 23
