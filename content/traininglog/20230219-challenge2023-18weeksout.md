@@ -131,13 +131,13 @@ Keep it easy!
 Mobility 25 minutes
 
 ### NOTES
-Total Time: **79 Mins** &nbsp; Rides: **10 km** and **~17.89 km**
+Total Time: **79 Mins** &nbsp;Rides: **10 km** and **~17.9 km**
 
-Woke up feeling somewhat refreshed but a touch congested.
+Woke up feeling refreshed but a touch congested.
 
-Has an errand downtown and got 29 minutes of moving time, (there and back minus the traffic lights), using the mountain bike.
+An errand in town gave me 29 minutes of moving time, (there and back minus the traffic lights), using the mountain bike.
 
-The edge of a squall got me wet on the commute home so after dinner, I made up the balance of today's saddle time on trainer (free ride).
+The edge of a squall got me wet on the commute home so...  After dinner, I made up the balance of today's saddle time on trainer (free ride).
 
 Watched the start of _Roth 2019_ on YouTube.  
   
