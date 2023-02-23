@@ -172,9 +172,9 @@ Mid-afternoon and I figured that I flirted with the forecast long enough.  I did
 
 Nothing works better at repairing a sore body than a nap and that's what I did next.
 
-After dinner, plugged the workout into my bike computer but opted to spend time on the massage chair and do mobility instead.  Lots of tightness from my quads through to my lower back.
+After dinner, plugged the workout into my bike computer but before jumping on the trainer, I thought it best to spend time on the massage chair and do a mobility session instead.  Lots of tightness from my quads through to my lower back.
 
-I am skipping the ride and going to bed.
+This is a time to listen to my body, I am **skipping the ride** and going to bed.
 <!---->
 ## THURSDAY FEB 23 ☁️
 Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**
