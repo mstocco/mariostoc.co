@@ -162,16 +162,22 @@ Trainer 90 minutes: Remember to hydrate and fuel!
 Run 30 minutes EASY.
 
 ### NOTES
-Total Time: **0 Mins** &nbsp;Run: **0 km** &nbsp;Ride: **~0 km**
+Total Time: **31 Mins** &nbsp;Run: **5 km** &nbsp;Ride: **~0 km**
 
 Snow is back in the forecast for today ☹️
 <!----->
 Left hip (anterior and lateral) is stiff and sore; enough for me to wonder how hard I should be pushing the workouts... 
 
+Mid-afternoon and I figured that I flirted with the forecast long enough.  I did the run first and the hip started off precarious.  I did not push my luck with it, did a 30 minute, mixed surface loop and called it done.
 
+Nothing works better at repairing a sore body than a nap and that's what I did next.
+
+After dinner, plugged the workout into my bike computer but opted to spend time on the massage chair and do mobility instead.  Lots of tightness from my quads through to my lower back.
+
+I am skipping the ride and going to bed.
 <!---->
-## THURSDAY FEB 23
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY FEB 23 ☁️
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -188,7 +194,8 @@ Swim 2500:
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Best news that I can write regarding my left hip is that the soreness has moved from the anterior/lateral into the glute and left QL.
+
 
 <!---->
 ## FRIDAY FEB 24
