@@ -235,7 +235,7 @@ Good news is my hip flexor was not bothered by the jog; better
 news is that I survived the loop, including the big hill on _Grange 
 Road_, without issue. Effort was **super easy**.
 
-I sipped tea through the evening to replenish the fluids  
+I sipped tea through the evening to replenish the fluids 
 and hit the knot in my left glute with the lacrosse ball.
 <!----->
 ### NICE, MIXED SURFACE LOOP
