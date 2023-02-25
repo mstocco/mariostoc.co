@@ -177,7 +177,7 @@ After dinner, plugged the workout into my bike computer but before jumping on th
 This is a time to listen to my body, I am **skipping the ride** and going to bed.
 <!---->
 ## THURSDAY FEB 23 ☁️
-Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -194,8 +194,9 @@ Swim 2500:
 ### NOTES
 Total Time: **0 Minutes**
 
-Best news that I can write regarding my left hip is that the soreness has moved from the anterior/lateral into the glute and left QL.
+Something I can write regarding my left hip is that the soreness has moved from the anterior/lateral into the glute and left QL.
 
+At least until I jumped on my bike at rode to the pool.  The hip flexor is really weak.
 
 <!---->
 ## FRIDAY FEB 24
