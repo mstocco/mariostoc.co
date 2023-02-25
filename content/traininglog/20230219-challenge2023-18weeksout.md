@@ -232,11 +232,11 @@ morning.  By late afternoon and when I was confident that I'd
 not have the runs on the run, I headed out.
 
 Good news is my hip flexor was not bothered by the jog; better 
-news is that I survived the loop, including the hill on _Grange 
+news is that I survived the loop, including the big hill on _Grange 
 Road_, without issue. Effort was **super easy**.
 
-I sipped tea through the evening to help get the fluids back up 
-and rolled the knot in my left glute.
+I sipped tea through the evening to replenish the fluids  
+and hit the knot in my left glute with the lacrosse ball.
 <!----->
 ### NICE, MIXED SURFACE LOOP
 ![Run](/assets/jpg/run-20230224.jpeg)
