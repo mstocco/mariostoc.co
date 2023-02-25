@@ -143,7 +143,7 @@ Watched the start of _Roth 2019_ on YouTube.
   
 <!---->
 ## WEDNESDAY FEB 22 ☁️
-Sleep **2** | Fatigue **3** | Stress **3** | Soreness **4**
+Sleep **2** | Fatigue **3** | Stress **3** |<mark> Soreness **5** </mark>
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -188,7 +188,7 @@ I am **skipping the ride** and going to bed.
 
 <!---->
 ## THURSDAY FEB 23 ☁️
-Sleep **3** | Fatigue **4** | Stress **3** | Soreness **5**
+Sleep **3** | Fatigue **4** | Stress **3** |<mark> Soreness **5** </mark>
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -203,25 +203,19 @@ Swim 2500:
 100 super easy to cool down.
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Swim: **1600m**
+Total Time: **~65 Minutes** &nbsp; Swim: **1600m**
 
-<<<<<<< master
-Something I can write regarding my left hip is that the soreness has moved from the anterior/lateral into the glute and left QL.
-
-At least until I jumped on my bike at rode to the pool.  The hip flexor is really weak.
-=======
 Best news that I can write regarding my left hip is that the 
-soreness has moved from the anterior/lateral into the glute 
-and left QL.
+soreness is on the moved from the anterior/lateral into the 
+glute and left QL.
 
-The hip flexor is very weak and very apperant while riding to 
-and from the pool.  I swam short today because I was starting 
+The **hip flexor is very weak** and very evident while riding to 
+and from the pool.  I **swam short** today because I was starting 
 to feel it in my hip in the water too.
->>>>>>> origin/master
 
 <!---->
 ## FRIDAY FEB 24
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
