@@ -242,25 +242,25 @@ news is that I survived the loop, including the hill on _Grange
 Road_, without issue. Effort was **super easy**.
 
 I sipped tea through the evening to help get the fluids back up 
-and rolled the knot in my glute.
+and rolled the knot in my left glute.
 <!----->
 ### NICE, MIXED SURFACE LOOP
 ![Run](/assets/jpg/run-20230224.jpeg)
+
 <!---->
-## SATURDAY FEB 25
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY FEB 25 ☁️
+Sleep **2** | Fatigue **3** | Stress **2** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Pre-Swim:  
-Dead bugs, breathing, and Glute Bridges.  
+Pre-Swim: Dead bugs, glute bridges.  
 
 1st: Swim 2200:  
 4 rounds (100 easy free, 100 easy w/ buoy, 50 steady kick. Rest as needed) 
 50, 100, 150, 200, 200, 150, 100, 50 aerobic/smooth. R :20 after each. 
 4x 50 super easy to stretch out and cool down. 
 
-Pre-Bike: Dead bugs, breathing, and Glute Bridges.
+Pre-Bike: Dead bugs, glute bridges.
 
 2nd: Trainer 1:40:   
 20 minutes easy spinning to warm up. 
@@ -274,4 +274,4 @@ Pre-Bike: Dead bugs, breathing, and Glute Bridges.
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Really good sleep/sleep-in. Still dealing with the cough.
