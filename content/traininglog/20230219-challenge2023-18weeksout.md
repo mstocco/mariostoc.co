@@ -166,15 +166,26 @@ Total Time: **31 Mins** &nbsp;Run: **5 km** &nbsp;Ride: **~0 km**
 
 Snow is back in the forecast for today ☹️
 <!----->
-Left hip (anterior and lateral) is stiff and sore; enough for me to wonder how hard I should be pushing the workouts... 
+Left hip (anterior and lateral) is stiff and sore; enough for 
+me to wonder how hard I should be pushing the workouts... 
 
-Mid-afternoon and I figured that I flirted with the forecast long enough.  I did the run first and the hip started off precarious.  I did not push my luck with it, did a 30 minute, mixed surface loop and called it done.
+Mid-afternoon and I figured that I flirted with the forecast 
+long enough.  I did the run first and the hip started off 
+precarious.  I did not push my luck with it, did a 30 minute, 
+mixed surface loop and called it done.
 
-Nothing works better at repairing a sore body than a nap and that's what I did next.
+Nothing works better at repairing a sore body than a nap and 
+that's what I did next.
 
-After dinner, plugged the workout into my bike computer but before jumping on the trainer, I thought it best to spend time on the massage chair and do a mobility session instead.  Lots of tightness from my quads through to my lower back.
+After dinner, plugged the workout into my bike computer but 
+before jumping on the trainer, I thought it best to spend time 
+on the massage chair and do a mobility session instead.
 
-This is a time to listen to my body, I am **skipping the ride** and going to bed.
+Lots of tightness from my quads through to my lower back. 
+This is a time to listen to my body...   
+
+I am **skipping the ride** and going to bed.
+
 <!---->
 ## THURSDAY FEB 23 ☁️
 Sleep **3** | Fatigue **4** | Stress **3** | Soreness **5**
@@ -192,11 +203,21 @@ Swim 2500:
 100 super easy to cool down.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Swim: **1600m**
 
+<<<<<<< master
 Something I can write regarding my left hip is that the soreness has moved from the anterior/lateral into the glute and left QL.
 
 At least until I jumped on my bike at rode to the pool.  The hip flexor is really weak.
+=======
+Best news that I can write regarding my left hip is that the 
+soreness has moved from the anterior/lateral into the glute 
+and left QL.
+
+The hip flexor is very weak and very apperant while riding to 
+and from the pool.  I swam short today because I was starting 
+to feel it in my hip in the water too.
+>>>>>>> origin/master
 
 <!---->
 ## FRIDAY FEB 24
@@ -210,18 +231,46 @@ Run 60 minutes. Rolling to hilly. Easy effort, but you will get in some vertical
 Mobility 21 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Moving Time: **55 Minutes** &nbsp; Run: **8.53 km**
 
-&mdash;  
+Almost as if life is piling on, I got the trots late this 
+morning.  By late afternoon and when I was confident that I'd 
+not have the runs on the run, I headed out.
 
+Good news is my hip flexor was not bothered by the jog; better 
+news is that I survived the loop, including the hill on _Grange 
+Road_, without issue. Effort was **super easy**.
+
+I sipped tea through the evening to help get the fluids back up 
+and rolled the knot in my glute.
+<!----->
+### NICE, MIXED SURFACE LOOP
+![Run](/assets/jpg/run-20230224.jpeg)
 <!---->
 ## SATURDAY FEB 25
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Pre-Swim:  
+Dead bugs, breathing, and Glute Bridges.  
 
+1st: Swim 2200:  
+4 rounds (100 easy free, 100 easy w/ buoy, 50 steady kick. Rest as needed) 
+50, 100, 150, 200, 200, 150, 100, 50 aerobic/smooth. R :20 after each. 
+4x 50 super easy to stretch out and cool down. 
+
+Pre-Bike: Dead bugs, breathing, and Glute Bridges.
+
+2nd: Trainer 1:40:   
+20 minutes easy spinning to warm up. 
+10x :30 high cadence, :30 easy spinning. 
+15 minutes easy spinning. 
+5x 1:30 in a big gear/low cadence/high torque...No power range, just do what feels sustainable...and like you have pressure on the pedals, 1:30 easy spinning after each. 
+15 minutes easy spinning. 
+10x :30 high cadence, :30 easy spinning.
+15 minutes easy spinning. 
+<!----->
 ### NOTES
 Total Time: **0 Minutes**
 
