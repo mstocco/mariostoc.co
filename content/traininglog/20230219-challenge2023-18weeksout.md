@@ -14,7 +14,9 @@ I feel like I was **DINGED UP**
 
 I wish every day could be like [Sunday](javascript:flick('sun');) as there were a whole bunch of issues to work through over the balance of this week.  Left hip flexor and surrounding tissue were **lit up** and limited me most of the week.  The post-COVID cough is has not abated at all.
 
-The week did end with a solid [Saturday](javascript:flick('sat');).
+This week ended with a solid swim and ride on [Saturday](javascript:flick('sat');).
+
+My take away from this week is to pay attention to the maintenance work as the load starts to ramp up.
 
 ![A bit of exploration during the mountain bike ride on Sunday.](/assets/jpg/IMG_4569-977x550.jpeg ON THE APPROACH TO MOUNT WORK)
 
@@ -273,9 +275,8 @@ Really good sleep/sleep-in. Still dealing with the cough but the soreness has in
 
 25m lane at _Crystal Pool_ worked well in the afternoon; the place was not busy today.  I had people to push with in the lanes to the left and right of me, hence the **effort was solid**.  
 
-The forecast was for snow but the reality was different.  I thought about doing a long ride outside during the commute home but the math in my head was:  
-<small>1:40 on the trainer = +2 hours outside.</small>
+The forecast was for snow but the reality was different.  During the commute home, I contemplated making it a long ride outside but the math was:  <small>1:40 on the trainer = +2 hours outside.</small>
 
- I was hungry and and my decision was to turn for home; better to ride inside fuelled then outside hungry putting myself in a hole.
+I was hungry and my decision was to turn for home; better to ride inside fuelled then outside hungry putting myself in a hole.
 
- The ride on the trainer went by quick.  I had the 2019 race on the television and by luck, one of the low cadence reps fell on a moment when a pro was heading up _Solar Hill_; hashtag: **motivated**.
+The ride on the trainer went by quick.  I had the 2019 race on the screen and by luck, a low cadence rep was timed with the moment when a pro was heading up _Solar Hill_; hashtag: **motivated**.
