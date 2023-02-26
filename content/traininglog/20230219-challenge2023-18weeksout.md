@@ -12,11 +12,17 @@ Total Time: **12.5 Hours**
 
 I feel like I was **DINGED UP**
 
-I wish every day could be like [Sunday](javascript:flick('sun');) as there were a whole bunch of issues to work through over the balance of this week.  Left hip flexor and surrounding tissue were **lit up** and limited me most of the week.  The post-COVID cough is has not abated at all.
+I wish every day could be like [Sunday](javascript:flick('sun');) 
+as there were a whole bunch of issues to work through over the 
+balance of this week.  Left hip flexor and surrounding tissue 
+were **lit up** and limited me most of the week.  The post-COVID 
+cough is has not abated at all.
 
-This week ended with a solid swim and ride on [Saturday](javascript:flick('sat');).
+Desipte the bout of soreness this week, it ended with a solid 
+swim/ride on [Saturday](javascript:flick('sat');).
 
-My take away from this week is to pay attention to the maintenance work as the load starts to ramp up.
+My take away from this week is to pay attention to the maintenance 
+work as the load starts to ramp up (training/life).
 
 ![A bit of exploration during the mountain bike ride on Sunday.](/assets/jpg/IMG_4569-977x550.jpeg ON THE APPROACH TO MOUNT WORK)
 
@@ -138,9 +144,12 @@ Total Time: **79 Mins** &nbsp;Rides: **10 km** and **~17.9 km**
 
 Woke up feeling refreshed but a bit congested.
 
-An errand in town gave me 29 minutes of moving time, (there and back minus the traffic lights), using the mountain bike.
+An errand in town gave me 29 minutes of moving time, (there 
+and back minus the traffic lights), using the mountain bike.
 
-The edge of a squall got me wet on the commute home so...  After dinner, I made up the balance of today's saddle time on trainer (free ride).
+The edge of a squall got me wet on the commute home so... 
+After dinner, I made up the balance of today's saddle time on 
+trainer (free ride).
 
 Watched the start of _Roth 2019_ on YouTube.  
   
@@ -177,8 +186,12 @@ long enough.  I did the run first and the hip started off
 precarious.  I did not push my luck with it, did a 30 minute, 
 mixed surface loop and called it done.
 
+---
+
 Nothing works better at repairing a sore body than a nap and 
 that's what I did next.
+
+---
 
 After dinner, plugged the workout into my bike computer but 
 before jumping on the trainer, I thought it best to spend time 
@@ -217,7 +230,7 @@ and from the pool.  I **swam short** today because I was starting
 to feel it in my hip in the water too.
 
 <!---->
-## FRIDAY FEB 24
+## FRIDAY FEB 24 ☁️
 Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -263,7 +276,7 @@ Pre-Bike: Dead bugs, glute bridges.
 20 minutes easy spinning to warm up. 
 10x :30 high cadence, :30 easy spinning. 
 15 minutes easy spinning. 
-5x 1:30 in a big gear/low cadence/high torque...No power range, just do what feels sustainable...and like you have pressure on the pedals, 1:30 easy spinning after each. 
+5x 1:30 in a big gear/low cadence/high torque; no power range, just do what feels sustainable and like you have pressure on the pedals, 1:30 easy spinning after each. 
 15 minutes easy spinning. 
 10x :30 high cadence, :30 easy spinning.
 15 minutes easy spinning. 
@@ -271,12 +284,22 @@ Pre-Bike: Dead bugs, glute bridges.
 ### NOTES
 Swim: **2200m** &nbsp; Normalized Power: **130W**
 
-Really good sleep/sleep-in. Still dealing with the cough but the soreness has in my hip flexor has subsided.
+Really good sleep/sleep-in. Still dealing with the cough but 
+the hip flexor soreness has subsided.
 
-25m lane at _Crystal Pool_ worked well in the afternoon; the place was not busy today.  I had people to push with in the lanes to the left and right of me, hence the **effort was solid**.  
+25m lane at _Crystal Pool_ worked well in the afternoon; the 
+place was not busy today.  I had people to push with in the 
+lanes to the left and right of me, hence the **effort was solid**.  
 
-The forecast was for snow but the reality was different.  During the commute home, I contemplated making it a long ride outside but the math was:  <small>1:40 on the trainer = +2 hours outside.</small>
+The forecast was for snow but the reality was different. 
+During the commute home, I contemplated making it a long ride 
+outside but the math was:  <small>1:40 on the trainer = 2.5 
+hours outside.</small>
 
-I was hungry and my decision was to turn for home; better to ride inside fuelled then outside hungry putting myself in a hole.
+I was hungry and my decision was to turn for home; better to 
+ride inside fuelled then outside hungry (putting myself in a hole).
 
-The ride on the trainer went by quick.  I had the 2019 race on the screen and by luck, a low cadence rep was timed with the moment when a pro was heading up _Solar Hill_; hashtag: **motivated**.
+The ride on the trainer went by quick.  I had the 2019 race on 
+the screen and by luck, a low cadence rep was timed with the 
+moment when a pro was heading up _Solar Hill_;  
+**&#35;motivated**.
