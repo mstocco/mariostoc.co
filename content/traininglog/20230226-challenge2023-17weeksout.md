@@ -27,9 +27,15 @@ Ride 80 minutes easy. Just spin. Trainer or rollers. Whatever sounds fun.
 2nd: Run 50 minutes EASY. Ideally this is off the bike. But whatever works with the schedule works with me.
 
 ### NOTES
-Total Time: **0 Minutes**
+Time: **130 Mins** &nbsp;Run: **8km** &nbsp;NP: **118W**
 
-&mdash;  
+Wedding expo came first, then the run, then the spin on the trainer.
+
+The **legs felt heavy** right away.  No choice but to run easy up to _Panama Flats_ and back.  Impending weather and daylight was my motivation to get the run in first.  I had a gel ~30 minutes in.
+
+I was on the bike shortly after the run.  Free ride on the trainer and I rode easy.  **Not much energy** in the legs for this activity either.  I had a bottle with 70g of carb mix  consumed in the first hour, and just water for the last 20 minutes.
+
+Pasta dinner flowed the ride.
 
 <!---->
 ## MONDAY FEB 27
