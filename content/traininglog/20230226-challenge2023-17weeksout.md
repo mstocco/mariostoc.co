@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![At the north end of the flats is a small hill with a stand of really cool Garry oak trees.](/assets/jpg/IMG_4627-955x550.jpeg Quercus garryana)
 
 ## SUNDAY FEB 26 🌤
 Sleep **3** | Fatigue **4** | Stress **4** | Soreness **4**
@@ -27,13 +27,13 @@ Ride 80 minutes easy. Just spin. Trainer or rollers. Whatever sounds fun.
 2nd: Run 50 minutes EASY. Ideally this is off the bike. But whatever works with the schedule works with me.
 
 ### NOTES
-Time: **130 Mins** &nbsp;Run: **8km** &nbsp;NP: **118W**
+Total Time: **130 Mins** &nbsp;Run: **8km** &nbsp;NP: **118W**
 
-Wedding expo came first, then the run, then the spin on the trainer.
+Wedding expo came first, then the late afternoon run, then the spin on the trainer.
 
-The **legs felt heavy** right away.  No choice but to run easy up to _Panama Flats_ and back.  Impending weather and daylight was my motivation to get the run in first.  I had a gel ~30 minutes in.
+The **legs felt heavy** right away.  No choice but to run easy up to [Panama Hill](javascript:flkty.select(2);) and back.  Impending weather and daylight was my motivation to get the run in first.  I had a gel ~30 minutes in.
 
-I was on the bike shortly after the run.  Free ride on the trainer and I rode easy.  **Not much energy** in the legs for this activity either.  I had a bottle with 70g of carb mix  consumed in the first hour, and just water for the last 20 minutes.
+I was on the trainer shortly after the run. **Not much energy** in the legs for this activity either.  I had a bottle with 70g of carb mix  consumed in the first hour, and just water for the last 20 minutes.
 
 Pasta dinner flowed the ride.
 
