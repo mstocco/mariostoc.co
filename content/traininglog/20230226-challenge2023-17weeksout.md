@@ -38,8 +38,8 @@ I was on the trainer shortly after; **tired legs** for this activity too.  I had
 Pasta dinner flowed the ride.
 
 <!---->
-## MONDAY FEB 27
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## MONDAY FEB 27 🌧
+Sleep **4** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -53,9 +53,12 @@ Swim 2500:
 Mobility 25 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **59 Minutes** &nbsp; Swim: **2500m**
 
-&mdash;  
+A restless sleep and I am still working with a tight hip and sore glute; both on the left side.  My throat is sore and I am STILL coughing.  Happy Monday.
+
+I felt engaged during the swim.
+![Swim](/assets/jpg/image.jpeg)
 
 <!---->
 ## TUESDAY FEB 28
