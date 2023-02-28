@@ -55,10 +55,9 @@ Mobility 25 minutes
 ### NOTES
 Total Time: **59 Minutes** &nbsp; Swim: **2500m**
 
-A restless sleep and I am still working with a tight hip and sore glute; both on the left side.  My throat is sore and I am STILL coughing.  Happy Monday.
+A restless sleep and I am still working with a tight hip and sore glute; both on the left side.  My throat is sore and I am STILL coughing.
 
-I felt engaged during the swim.
-![Swim](/assets/jpg/image.jpeg)
+I swam with **good focus** this afternoon.
 
 <!---->
 ## TUESDAY FEB 28
