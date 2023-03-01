@@ -75,9 +75,9 @@ Total Time: **62 Minutes** &nbsp; Run: **10.2 km**
 
 Not the most restful sleep last night.  Regardless, everything is just a **little bit better** today.
 
-Shovelled some heavy snow before work and later in the afternoon, I went for the easy run.
+Shovelled some heavy snow before work then late this afternoon, I went for the easy run.
 
-What a difference from [Sunday](javascript:flick('sun');); practically the same route, same time of day, same kind of weather, except everything felt far more **comfortable today**.  I could still feel the knot in my left glute and there is some soreness in my right talo-navicular joint but for a regular, base run, I finished it with a big smile.
+What a difference from [Sunday](javascript:flick('sun');).  Practically the same route, same time of day, same kind of weather, except today, everything felt far more **comfortable**.  I could still feel the knot in my left glute and there is some soreness in my right talo-navicular joint. Regardless, for a regular, base run, I finished it with a big smile.
 <!----->
 Reviewing the activity afterwards, I would have guessed that my pace was quicker than it was.  No matter, my focus was running with good posture, not going fast.
 
@@ -90,7 +90,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Pre-Bike: Dead bugs, breathing, and Glute Bridges.
+Pre-Bike: Dead bugs, Glute Bridges.
 
 Trainer 95 minutes: Remember to hydrate and fuel!
 15 minutes easy spinning to warm up.
@@ -102,7 +102,7 @@ Trainer 95 minutes: Remember to hydrate and fuel!
 7 minutes easy spinning to cool down.
 
 ### NOTES
-Total Time: **0 Minutes**
+Time: **0 Mins** &nbsp; Normalized Power: **0W**
 
 &mdash;  
 
