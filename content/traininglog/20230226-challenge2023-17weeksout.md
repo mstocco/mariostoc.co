@@ -60,8 +60,8 @@ A restless sleep and I am still working with a tight hip and sore glute; both on
 I swam with **good focus** this afternoon.
 
 <!---->
-## TUESDAY FEB 28
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY FEB 28 🌦
+Sleep **4** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -71,9 +71,15 @@ Run 60 minutes EASY.
 Mobility 15 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **62 Minutes** &nbsp; Run: **10.2 km**
 
-&mdash;  
+Still not the most restful sleep last night.  Regardless, everything is just a little bit better today.
+
+Shovelled some heavy snow first thing and then later in the afternoon, I went for the east run.
+
+What a difference from [Sunday](javascript:flick('sun');); practically the same route, same time of day, same kind of weather, except everything felt **far more comfortable** today.  Reviewing the activity afterwards, I would have guessed that my pace was quicker than it was.  No matter as my focus was running with good posture, not going fast.
+
+I could feel the knot in my left glute and there is some movement in the talo-navicular joint of my right foot but for a regular, base run, I finished with a big smile.
 
 <!---->
 ## WEDNESDAY MAR 1
