@@ -81,7 +81,7 @@ What a difference from [Sunday](javascript:flick('sun');); practically the same 
 <!----->
 Reviewing the activity afterwards, I would have guessed that my pace was quicker than it was.  No matter, my focus was running with good posture, not going fast.
 
-<p class="agencyvc">MANN AVENUE OUT AND BACK ![Run](/assets/jpg/run-20230228.jpeg) </p>
+<p class="agencyvc">MANN AVENUE OUT AND BACK <img src="/assets/jpg/run-20230228.jpeg" alt="Run" /></p>
 
 <!---->
 ## WEDNESDAY MAR 1
