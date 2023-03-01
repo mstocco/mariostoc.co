@@ -73,14 +73,16 @@ Mobility 15 minutes
 ### NOTES
 Total Time: **62 Minutes** &nbsp; Run: **10.2 km**
 
-Still not the most restful sleep last night.  Regardless, everything is just a little bit better today.
+Not the most restful sleep last night.  Regardless, everything is just a **little bit better** today.
 
-Shovelled some heavy snow first thing and then later in the afternoon, I went for the east run.
+Shovelled some heavy snow before work and later in the afternoon, I went for the easy run.
 
-What a difference from [Sunday](javascript:flick('sun');); practically the same route, same time of day, same kind of weather, except everything felt **far more comfortable** today.  Reviewing the activity afterwards, I would have guessed that my pace was quicker than it was.  No matter as my focus was running with good posture, not going fast.
+What a difference from [Sunday](javascript:flick('sun');); practically the same route, same time of day, same kind of weather, except everything felt **far more comfortable** today.  I could feel the knot in my left glute and there is some movement in the talo-navicular joint of my right foot but for a regular, base run, I finished with a big smile.
+<!----->
+Reviewing the activity afterwards, I would have guessed that my pace was quicker than it was.  No matter as my focus was running with good posture, not going fast.
 
-I could feel the knot in my left glute and there is some movement in the talo-navicular joint of my right foot but for a regular, base run, I finished with a big smile.
-
+### MANN AVENUE OUT AND BACK
+![Run](/assets/jpg/image.jpeg)
 <!---->
 ## WEDNESDAY MAR 1
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
