@@ -85,8 +85,8 @@ Reviewing the activity afterwards, I would have guessed that my pace was quicker
 <img src="/assets/jpg/run-20230228.jpeg" alt="Run" />
 
 <!---->
-## WEDNESDAY MAR 1
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY MAR 1 ☁️
+Sleep **4** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -104,7 +104,7 @@ Trainer 95 minutes: Remember to hydrate and fuel!
 ### NOTES
 Time: **0 Mins** &nbsp; Normalized Power: **0W**
 
-&mdash;  
+Awake at 0400 and was able to get an hour more after a while.
 
 <!---->
 ## THURSDAY MAR 2
