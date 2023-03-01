@@ -77,12 +77,12 @@ Not the most restful sleep last night.  Regardless, everything is just a **littl
 
 Shovelled some heavy snow before work and later in the afternoon, I went for the easy run.
 
-What a difference from [Sunday](javascript:flick('sun');); practically the same route, same time of day, same kind of weather, except everything felt **far more comfortable** today.  I could feel the knot in my left glute and there is some movement in the talo-navicular joint of my right foot but for a regular, base run, I finished with a big smile.
+What a difference from [Sunday](javascript:flick('sun');); practically the same route, same time of day, same kind of weather, except everything felt far more **comfortable today**.  I could still feel the knot in my left glute and there is some soreness in my right talo-navicular joint but for a regular, base run, I finished it with a big smile.
 <!----->
-Reviewing the activity afterwards, I would have guessed that my pace was quicker than it was.  No matter as my focus was running with good posture, not going fast.
+Reviewing the activity afterwards, I would have guessed that my pace was quicker than it was.  No matter, my focus was running with good posture, not going fast.
 
 ### MANN AVENUE OUT AND BACK
-![Run](/assets/jpg/image.jpeg)
+![Run](/assets/jpg/run-20230228.jpeg)
 <!---->
 ## WEDNESDAY MAR 1
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
