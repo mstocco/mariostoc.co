@@ -117,8 +117,8 @@ I lost a minute of saddle time for a bio-break.
 ![Bike](/assets/jpg/bike-20230301.jpeg)
 
 <!---->
-## THURSDAY MAR 2
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY MAR 2 🌧
+Sleep **4** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -137,9 +137,9 @@ Pre-Run: Dead bugs, breathing, and Glute Bridges.
 Run 45 minutes EASY. Running home from the pool, on the treadmill, or another time of tday. It all works for me.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Swim: &mdash; &nbsp; Run: &mdash;
 
-&mdash;  
+The coughing over the past few days has subsided and I am my watch has been recording my resting heart-rate closer to pre-COVID numbers.
 
 <!---->
 ## FRIDAY MAR 3
