@@ -139,7 +139,7 @@ Run 45 minutes EASY. Running home from the pool, on the treadmill, or another ti
 ### NOTES
 Total Time: **0 Minutes** &nbsp; Swim: &mdash; &nbsp; Run: &mdash;
 
-The coughing over the past few days has subsided and I am my watch has been recording my resting heart-rate closer to pre-COVID numbers.
+The coughing has started to subside and I my resting heart-rate almost back to pre-COVID numbers.
 
 <!---->
 ## FRIDAY MAR 3
