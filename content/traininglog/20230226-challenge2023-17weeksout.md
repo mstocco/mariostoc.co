@@ -104,7 +104,7 @@ Trainer 95 minutes: Remember to hydrate and fuel!
 ### NOTES
 Time: **94 Mins** &nbsp; Normalized Power: **137W**
 
-Awake at 0400.  Fortunately, I  was able to get another hour of sleep after a while.
+Awake at 0400.  Fortunately, I was able to get another hour of sleep after a while.
 <!----->
 Back on the trainer late in the afternoon.  I need to remember the order in which to turn on the electronics to get the right device to control the _"smart trainer"_.
 
@@ -114,7 +114,7 @@ I continued with the 2019 coverage of _Challenge Roth_ on YouTube.  The top men 
 
 I lost a minute of saddle time for a bio-break.
 
-![Bike](/assets/jpg/image.jpeg)
+![Bike](/assets/jpg/bike-20230301.jpeg)
 
 <!---->
 ## THURSDAY MAR 2
