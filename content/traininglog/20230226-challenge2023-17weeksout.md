@@ -22,20 +22,25 @@ Sleep **3** | Fatigue **4** | Stress **4** | Soreness **4**
 
 ### PLANNED WORKOUT
 1st: Pre-Bike: Dead bugs, Glute Bridges.  
-Ride 80 minutes easy. Just spin. Trainer or rollers. Whatever sounds fun.
+Ride 80 minutes easy. Just spin. Trainer or rollers. Whatever 
+sounds fun.
 
-2nd: Run 50 minutes EASY. Ideally this is off the bike. But whatever works with the schedule works with me.
+2nd: Run 50 minutes EASY. Ideally this is off the bike. But 
+whatever works with the schedule works with me.
 
 ### NOTES
 Total Time: **130 Mins** &nbsp; Run: **8km** &nbsp; NP: **118W**
 
 Wedding expo first, then the run, then the spin.
 
-Impending weather and daylight was my motivation to run first.  My **legs felt heavy** right away; no choice but to run easy up to [Panama Hill](javascript:flkty.select(2);) and back.    I had a gel ~30 minutes in.
+Impending weather and daylight was my motivation to run first. 
+My **legs felt heavy** right away; no choice but to run easy 
+up to [Panama Hill](javascript:flkty.select(2);) and back. 
+I had a gel ~30 minutes in.
 
-I was on the trainer shortly after; **tired legs** for this activity too.  I had a bottle with 70g of carb mix consumed in the first hour, and just water for the last 20 minutes.
-
-Pasta dinner flowed the ride.
+I was on the trainer shortly after; **tired legs** for this 
+activity too.  I had a bottle with 70g of carb mix consumed in 
+the first hour, and just water for the last 20 minutes.
 
 <!---->
 ## MONDAY FEB 27 🌧
@@ -55,7 +60,9 @@ Mobility 25 minutes
 ### NOTES
 Total Time: **59 Minutes** &nbsp; Swim: **2500m**
 
-A restless sleep and I am still working with a tight hip and sore glute; both on the left side.  My throat is sore and I am STILL coughing.
+A restless sleep and I am still working with a tight hip and 
+sore glute; both on the left side.  My throat is sore and I am 
+STILL coughing.
 
 I swam with **good focus** this afternoon.
 
@@ -73,13 +80,22 @@ Mobility 15 minutes
 ### NOTES
 Total Time: **62 Minutes** &nbsp; Run: **10.2 km**
 
-Not the most restful sleep last night.  Regardless, everything is just a **little bit better** today.
+Not the most restful sleep last night.  Regardless, everything 
+is just a **little bit better** today.
 
-Shovelled some heavy snow before work then late this afternoon, I went for the easy run.
+Shovelled some heavy snow before work then late this afternoon, 
+I went for the easy run.
 
-What a difference from [Sunday](javascript:flick('sun');).  Practically the same route, same time of day, same kind of weather, except today, everything felt far more **comfortable**.  I could still feel the knot in my left glute and there is some soreness in my right talo-navicular joint. Regardless, for a regular, base run, I finished it with a big smile.
+What a difference from [Sunday](javascript:flick('sun');). 
+Practically the same route, same time of day, same kind of 
+weather, except today, everything felt far more **comfortable**. 
+I could still feel the knot in my left glute and there is some 
+soreness in my right talo-navicular joint. Regardless, for a 
+regular, base run, I finished it with a big smile.
 <!----->
-Reviewing the activity afterwards, I would have guessed that my pace was quicker than it was.  No matter, my focus was running with good posture, not going fast.
+Reviewing the activity afterwards, I would have guessed that 
+my pace was quicker than it was.  No matter, my focus was 
+running with good posture, not going fast.
 
 ### MANN AVENUE OUT AND BACK
 <img src="/assets/jpg/run-20230228.jpeg" alt="Run" />
@@ -104,13 +120,20 @@ Trainer 95 minutes: Remember to hydrate and fuel!
 ### NOTES
 Time: **94 Mins** &nbsp; Normalized Power: **137W**
 
-Awake at 0400.  Fortunately, I was able to get another hour of sleep after a while.
+Awake at 0400.  Fortunately, I was able to get another hour of 
+sleep after a while.
 <!----->
-Back on the trainer late in the afternoon.  I need to remember the order in which to turn on the electronics to get the right device to control the _"smart trainer"_.
+Back on the trainer late in the afternoon.  I need to remember 
+the order in which to turn on the electronics to get the right 
+device to control the _"smart trainer"_.
 
-Dead bugs and glute bridges first as I can still feel that left hip flexor not as strong/healthy as it should be.  Once pedalling, it is not bothered.
+Dead bugs and glute bridges first as I can still feel that 
+left hip flexor not as strong/healthy as it should be.  Once 
+pedalling, it is not bothered.
 
-I continued with the 2019 coverage of _Challenge Roth_ on YouTube.  The top men have started the run; LCB has crested _Solar Hill_ on her final lap.
+I continued with the 2019 coverage of _Challenge Roth_ on 
+YouTube.  The top men have started the run; LCB has crested 
+_Solar Hill_ on her final lap.
 
 I lost a minute of saddle time for a bio-break.
 
@@ -137,9 +160,16 @@ Pre-Run: Dead bugs, breathing, and Glute Bridges.
 Run 45 minutes EASY. Running home from the pool, on the treadmill, or another time of tday. It all works for me.
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Swim: &mdash; &nbsp; Run: &mdash;
+Total Time: **0 Minutes** &nbsp; Swim: **&mdash;** &nbsp; Run: **&mdash;**
 
-The coughing has started to subside and I my resting heart-rate almost back to pre-COVID numbers.
+The cough has started to subside and my resting heartrate is 
+close to pre-COVID numbers.
+<!----->
+In the pool...
+
+
+On the run...
+
 
 <!---->
 ## FRIDAY MAR 3
