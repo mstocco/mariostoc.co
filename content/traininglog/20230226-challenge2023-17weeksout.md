@@ -102,9 +102,19 @@ Trainer 95 minutes: Remember to hydrate and fuel!
 7 minutes easy spinning to cool down.
 
 ### NOTES
-Time: **0 Mins** &nbsp; Normalized Power: **0W**
+Time: **94 Mins** &nbsp; Normalized Power: **137W**
 
-Awake at 0400 and was able to get an hour more after a while.
+Awake at 0400.  Fortunately, I  was able to get another hour of sleep after a while.
+<!----->
+Back on the trainer late in the afternoon.  I need to remember the order in which to turn on the electronics to get the right device to control the _"smart trainer"_.
+
+Dead bugs and glute bridges first as I can still feel that left hip flexor not as strong/healthy as it should be.  Once pedalling, it is not bothered.
+
+I continued with the 2019 coverage of _Challenge Roth_ on YouTube.  The top men have started the run; LCB has crested _Solar Hill_ on her final lap.
+
+I lost a minute of saddle time for a bio-break.
+
+![Bike](/assets/jpg/image.jpeg)
 
 <!---->
 ## THURSDAY MAR 2
