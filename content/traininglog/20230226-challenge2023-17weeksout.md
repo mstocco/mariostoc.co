@@ -160,7 +160,7 @@ Pre-Run: Dead bugs, breathing, and Glute Bridges.
 Run 45 minutes EASY. Running home from the pool, on the treadmill, or another time of tday. It all works for me.
 
 ### NOTES
-Total Time: **108 Mins** &nbsp; Swim(s): **2300m** &nbsp; Run: **9 km**
+Ttl Time: **108 Mins** &nbsp; Swim(s): **2300m** &nbsp; Run: **9 km**
 
 The cough has started to subside and my resting heartrate is 
 close to pre-COVID numbers.
