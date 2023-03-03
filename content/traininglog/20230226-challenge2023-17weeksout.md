@@ -179,7 +179,7 @@ On the longer jog home, I dealt with a side stitch for the longest time.  It eve
 
 ---
 
-Although the activities were broken up, this was a solid afternoon.   My left hip complex did ok.
+Although the 2 workouts were broken up over 4 activities, this was a solid afternoon.   My left hip complex finished up ok.
 
 <!---->
 ## FRIDAY MAR 3 🌧
