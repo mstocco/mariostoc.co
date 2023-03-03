@@ -182,8 +182,8 @@ On the longer jog home, I dealt with a side stitch for the longest time.  It eve
 Although the activities were broken up, this was a solid afternoon.   My left hip complex did ok.
 
 <!---->
-## FRIDAY MAR 3
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY MAR 3 🌧
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -198,9 +198,9 @@ Trainer 80 minutes:
 Mobility 18 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Mins** &nbsp; Normalized Power: **&mdash;**
 
-&mdash;  
+Just as I am about to get ahead of one niggle (left hip) another pops up.  I woke up this morning with an angry rhomboid major (right side).
 
 <!---->
 ## SATURDAY MAR 4
