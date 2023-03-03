@@ -171,7 +171,9 @@ In the pool, I knew I only had a limited amount of time with the 50m lanes in.  
 
 I hopped out and re-worked the workout in my watch to work with the 25m lanes.  It wasn't long before I was back in the water to do the hard 50m set.  Even the shorter lengths couldn't help me from feeling gassed on the hard efforts.
 
-On the longer jog home, I dealt with a side stitch for the longest time.
+On the longer jog home, I dealt with a side stitch for the longest time.  It eventually passed and the final kilometres were easy and rhythmic.
+
+Although the activities were broken up, this was a **solid afternoon**. 
 
 
 <!---->
