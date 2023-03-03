@@ -177,8 +177,9 @@ I hopped out and re-worked the workout in my watch to work with the 25m lanes.  
 
 On the longer jog home, I dealt with a side stitch for the longest time.  It eventually passed and the final kilometres were **easy and rhythmic**.
 
-Although the activities were broken up, this was a solid afternoon.   My left hip complex did ok.
+---
 
+Although the activities were broken up, this was a solid afternoon.   My left hip complex did ok.
 
 <!---->
 ## FRIDAY MAR 3
