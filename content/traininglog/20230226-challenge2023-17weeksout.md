@@ -167,13 +167,17 @@ close to pre-COVID numbers.
 <!----->
 Commute to the pool on foot for 3.8 km _"warm up"_; I felt pretty good; effort was easy. Even a solid hail storm couldn't wreck my **good mood**.
 
+---
+
 In the pool, I knew I only had a limited amount of time with the 50m lanes in.  I made the most of it and got through to the end of the 9x50m descend set.  **Effort was good**, focus was on point.  My friend Batuhan was in the lane beside me and that helped with the motivation.
 
 I hopped out and re-worked the workout in my watch to work with the 25m lanes.  It wasn't long before I was back in the water to do the hard 50m set.  Even the shorter lengths couldn't help me from **feeling gassed** on the hard efforts.
 
+---
+
 On the longer jog home, I dealt with a side stitch for the longest time.  It eventually passed and the final kilometres were **easy and rhythmic**.
 
-Although the activities were broken up, this was a solid afternoon. 
+Although the activities were broken up, this was a solid afternoon.   My left hip complex did ok.
 
 
 <!---->
