@@ -206,10 +206,12 @@ I woke up this morning with an angry rhomboid major (right side); it stayed that
 <!----->
 Fortunately, that rhomboid isn't needed much while turning my legs over on the trainer.
 
-I rode the workout **exactly as written**, holding 120 RPM on the first rounds and averaging 50 RPM on the big gear reps.  I continued with the 2019 Roth coverage on YouTube; the men's leader has turned off the canal and is making his way back to town.  The clock on him was ~06:45:00; depending on the start wave that I am assigned in June, I may not see the leader on the run course.
+I rode the workout **exactly as written**, non-ERG mode, holding 120 RPM on the first rounds and averaging 50 RPM on the big gear reps.
 
-### CHART
-![Bike](/assets/jpg/image.jpeg)
+I continued with the 2019 Roth coverage on YouTube; the men's leader has turned off the canal and is making his way back to town.  The clock on him was ~06:45:00; depending on the start wave that I am assigned in June, I may not see the leader on the run course.
+
+### WORKOUT 
+![Bike](/assets/jpg/bike-20230303.jpeg)
 
 <!---->
 ## SATURDAY MAR 4
