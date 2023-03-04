@@ -200,11 +200,13 @@ Mobility 18 minutes
 ### NOTES
 Total Time: **80 Mins** &nbsp; Normalized Power: **143W**
 
-Just as I am about to get ahead of one niggle (left hip) another pops up.  I woke up this morning with an angry rhomboid major (right side).
+Just as I am about to get ahead of one niggle (left hip) another pops up.
+
+I woke up this morning with an angry rhomboid major (right side); it stayed that way all day.
 <!----->
 Fortunately, that rhomboid isn't needed much while turning my legs over on the trainer.
 
-I rode the workout exactly as written, holding 120 RPM on the first rounds and averaging 50 RPM on the big gear reps.  I continued with the 2019 Roth coverage on YouTube; the men's leader has turned off the canal and is making his way back to town.  The clock on him was ~06:45:00; depending on the start wave that I am assigned in June, I may not see the leader on the run course.
+I rode the workout **exactly as written**, holding 120 RPM on the first rounds and averaging 50 RPM on the big gear reps.  I continued with the 2019 Roth coverage on YouTube; the men's leader has turned off the canal and is making his way back to town.  The clock on him was ~06:45:00; depending on the start wave that I am assigned in June, I may not see the leader on the run course.
 
 ### CHART
 ![Bike](/assets/jpg/image.jpeg)
@@ -215,9 +217,21 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Order is up to you.
+
+Swim 2600: 
+200 easy free to warm up. 
+6x 50 swim w/ buoy and paddle-fist drill. Focus on rotation AND using your forearm to catch. R :20 after each. 
+8x 50 descend 1-4, 5-8. 1: Easy, 2: IM effort, 3: ½ IM effort, 4: 1k effort. R :15 after each. 
+100 easy free. 
+6x 250 aerobic/steady w/ 2x sighting per 25. Finding a rhythm in your breathing and sighting. R :45 after each. 
+2x 50 super easy to cool down.
+
+Pre-Run: Dead bugs, Glute Bridges and :30 Plank, and :30 on each side for side plank. Keep your hips level and your rips/hips connected. Just like on the dead bugs.
+
+Run 65 minutes. Easy effort. Terrain is up to you. Whatever feels good and is a fun route. 
 
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+&mdash;
