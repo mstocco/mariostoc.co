@@ -198,9 +198,16 @@ Trainer 80 minutes:
 Mobility 18 minutes
 
 ### NOTES
-Total Time: **0 Mins** &nbsp; Normalized Power: **&mdash;**
+Total Time: **80 Mins** &nbsp; Normalized Power: **143W**
 
 Just as I am about to get ahead of one niggle (left hip) another pops up.  I woke up this morning with an angry rhomboid major (right side).
+<!----->
+Fortunately, that rhomboid isn't needed much while turning my legs over on the trainer.
+
+I rode the workout exactly as written, holding 120 RPM on the first rounds and averaging 50 RPM on the big gear reps.  I continued with the 2019 Roth coverage on YouTube; the men's leader has turned off the canal and is making his way back to town.  The clock on him was ~06:45:00; depending on the start wave that I am assigned in June, I may not see the leader on the run course.
+
+### CHART
+![Bike](/assets/jpg/image.jpeg)
 
 <!---->
 ## SATURDAY MAR 4
