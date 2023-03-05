@@ -7,12 +7,22 @@ Week beginning [Sunday, February 26, 2023](javascript:flick('sun');)
 Get to the niggles before the niggles get to me.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **11 Hours** <small>(and 15 seconds)</small>
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **CONSISTENT**
 
-&mdash;
+My goal of managing the niggles was _almost_ accomplished.
+I worked through the hip flexor and [a rhomboid flare up](javascript:flick('fri');)
+but the very challenging knot in my leg glute is as stubborn 
+as I am. That niggle will be carried over to [next week](challenge2023-16weeksout).
+
+This is the first week that I can confidently say COVID is in 
+my rearview mirror.
+
+The weather has been colder than normal; we had snow on 
+[Tuesday](javascript:flick('tue');) and hail on [Thursday](javascript:flick('thu');). 
+
+Hard to imagine I'll be in a lake in a few months.
 
 ![At the north end of the flats is a small hill with a stand of really cool Garry oak trees.](/assets/jpg/IMG_4627-977x550.jpeg Quercus garryana)
 
@@ -122,10 +132,11 @@ Time: **94 Mins** &nbsp; Normalized Power: **137W**
 
 Awake at 0400.  Fortunately, I was able to get another hour of 
 sleep after a while.
+
+Back on the trainer late in the afternoon.
 <!----->
-Back on the trainer late in the afternoon.  I need to remember 
-the order in which to turn on the electronics to get the right 
-device to control the _"smart trainer"_.
+I need to remember the order in which to turn on the electronics 
+to get the right device to control the _"smart trainer"_.
 
 Dead bugs and glute bridges first as I can still feel that 
 left hip flexor not as strong/healthy as it should be.  Once 
@@ -165,21 +176,33 @@ Time: **108 Mins** &nbsp; Swim(s): **2300m** &nbsp; Run(s): **9 km**
 The cough has started to subside and my resting heartrate is 
 close to pre-COVID numbers.
 <!----->
-Commute to the pool on foot for 3.8 km _"warm up"_; I felt pretty good; effort was easy. Even a solid hail storm couldn't wreck my **good mood**.
+Commute to the pool on foot for 3.8 km _"warm up"_; I felt 
+pretty good; effort was easy. Even a solid hail storm couldn't 
+wreck my **good mood**.
 
 ---
 
-In the pool, I knew I only had a limited amount of time with the 50m lanes in.  I made the most of it and got through to the end of the 9x50m descend set.  **Effort was good**, focus was on point.  My friend Batuhan was in the lane beside me and that helped with the motivation.
+In the pool, I knew I only had a limited amount of time with 
+the 50m lanes in.  I made the most of it and got through to 
+the end of the 9x50m descend set.  **Effort was good**, focus 
+was on point.  My friend Batuhan was in the lane beside me and 
+that helped with the motivation.
 
-I hopped out and re-worked the workout in my watch to work with the 25m lanes.  It wasn't long before I was back in the water to do the hard 50m set.  Even the shorter lengths couldn't help me from **feeling gassed** on the hard efforts.
+I hopped out and re-worked the workout in my watch to work 
+with the 25m lanes.  It wasn't long before I was back in the 
+water to do the hard 50m set.  Even the shorter lengths 
+couldn't help me from **feeling gassed** on the hard efforts.
 
 ---
 
-On the longer jog home, I dealt with a side stitch for the longest time.  It eventually passed and the final kilometres were **easy and rhythmic**.
+On the longer jog home, I dealt with a side stitch for the 
+longest time.  It eventually passed and the final kilometres 
+were **easy and rhythmic**.
 
 ---
 
-Although the 2 workouts were broken up over 4 activities, this was a solid afternoon.   My left hip complex finished up ok.
+Although the 2 workouts were broken up over 4 activities, this 
+was a solid afternoon.   My left hip complex finished up ok.
 
 <!---->
 ## FRIDAY MAR 3 🌧
@@ -200,18 +223,29 @@ Mobility 18 minutes
 ### NOTES
 Total Time: **80 Mins** &nbsp; Normalized Power: **143W**
 
-Just as I am about to get ahead of one niggle (left hip) another pops up.
+Just as I am about to get ahead of one niggle (left hip) 
+another pops up.
 
-I woke up this morning with an angry rhomboid major (right side); it stayed that way all day.
+I woke up this morning with an angry rhomboid major (right 
+side); it stayed that way all day.
 <!----->
-Fortunately, that rhomboid isn't needed much while turning my legs over on the trainer.
+Fortunately, that rhomboid isn't needed much while turning my 
+legs over on the trainer.
 
-I rode the workout **exactly as written**, non-ERG mode, holding 120 RPM on the first rounds and averaging 50 RPM on the big gear reps.
+I rode the workout **exactly as written**, non-ERG mode, 
+holding 120 RPM on the first rounds and averaging 50 RPM on 
+the big gear reps.
 
-I continued with the 2019 Roth coverage on YouTube; the men's leader has turned off the canal and is making his way back to town.  The clock on him was ~06:45:00; depending on the start wave that I am assigned in June, I may not see the leader on the run course.
+This felt like a base level workout.
 
-### WORKOUT 
+### 80 MINUTES 
 ![Bike](/assets/jpg/bike-20230303.jpeg)
+
+On the big screen, I continued with the 2019 Roth coverage.
+The men's leader has turned off the canal and is making his 
+way back to town.  The race clock following him was ~06:45:00; 
+so depending on the start wave I am assigned in June, I may 
+not see the men's race leader on the run course. 😕
 
 <!---->
 ## SATURDAY MAR 4
@@ -221,7 +255,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### PLANNED WORKOUT
 Order is up to you.
 
-Swim 2600: 
+Swim 2600:  
 200 easy free to warm up. 
 6x 50 swim w/ buoy and paddle-fist drill. Focus on rotation AND using your forearm to catch. R :20 after each. 
 8x 50 descend 1-4, 5-8. 1: Easy, 2: IM effort, 3: ½ IM effort, 4: 1k effort. R :15 after each. 
@@ -231,9 +265,52 @@ Swim 2600:
 
 Pre-Run: Dead bugs, Glute Bridges and :30 Plank, and :30 on each side for side plank. Keep your hips level and your rips/hips connected. Just like on the dead bugs.
 
-Run 65 minutes. Easy effort. Terrain is up to you. Whatever feels good and is a fun route. 
+Run 65 minutes.  
+Easy effort. Terrain is up to you. Whatever feels good and is a fun route. 
 
+<!----->
 ### NOTES
-Total Time: **0 Minutes**
+Time: **120 Mins** &nbsp; Swim: **2800m** &nbsp; Run: **9.4 km**
 
-&mdash;
+_Crystal Pool_ at a time when the lanes change break up the 
+swim [again](javascript:flick('thu');).  This time I was at 
+the 2000m mark of the workout; I may have called it good 
+enough if I was pressed for time.  
+
+Like [Thursday](javascript:flick('thu');), the staff were 
+quick with the ropes and I was back in the water with a 
+reprogrammed watch to get me the balance of the workout... 
+plus a bit more.
+
+I am glad that I kept going because I had four of the 250m 
+reps done in the 25m lane with 2 to go in the 50m lane.  
+
+Those first four 250m reps, short course reps were **super 
+consistent**; stopping the watch with at 4:43.5, &nbsp;4:43.5, 
+&nbsp;4:41.5 and 4:43.8.
+
+The remaining 250m reps done in the long course lane were 
+4:40.0 and 4:39.6.
+
+The perceived effort stayed the same.
+I was **really stoked** to finish the swim this way. 
+<!----->
+Who would have guessed that 3.5 seconds would bring me so much 
+joy on a Saturday afternoon?
+
+
+---
+
+The run was a **super easy pace** north on my regular gravel 
+route, turning around at 30 minutes and in keeping with the 
+consistancy theme from the pool, I returned to my start point, 
+7 seconds ahead of making it a perfect split.  
+
+I realized after the fact that this was to be a 65 minute run. 
+Hopefully the extra 200m in the pool makes it a wash.
+
+---
+
+My left glute is sore.  That knot is angry.  Everything else 
+feels like it is in good working order.
+
