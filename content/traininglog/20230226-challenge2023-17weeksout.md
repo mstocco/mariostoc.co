@@ -16,8 +16,8 @@ I worked through the hip flexor and [a rhomboid flare up](javascript:flick('fri'
 but the very challenging knot in my leg glute is as stubborn 
 as I am. That niggle will be carried over to [next week](challenge2023-16weeksout).
 
-This is the first week that I can confidently say COVID is in 
-my rearview mirror.
+This is the first week that I can confidently say **COVID is in 
+my rearview mirror**.
 
 The weather has been colder than normal; we had snow on 
 [Tuesday](javascript:flick('tue');) and hail on [Thursday](javascript:flick('thu');). 
@@ -279,8 +279,8 @@ enough if I was pressed for time.
 
 Like [Thursday](javascript:flick('thu');), the staff were 
 quick with the ropes and I was quickly back in the water with a 
-reprogrammed watch for the balance of the workout...  
-plus a bit more.
+reprogrammed watch for the balance of the workout...  plus a 
+bit more.
 
 I am glad that I kept going because I had four of the 250m 
 reps done in the 25m lane with 2 to go in the 50m lane.  
