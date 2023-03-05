@@ -248,8 +248,8 @@ so depending on the start wave I am assigned in June, I may
 not see the men's race leader on the run course. 😕
 
 <!---->
-## SATURDAY MAR 4
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY MAR 4 💨
+Sleep **3** | Fatigue **3** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -272,14 +272,14 @@ Easy effort. Terrain is up to you. Whatever feels good and is a fun route.
 ### NOTES
 Time: **120 Mins** &nbsp; Swim: **2800m** &nbsp; Run: **9.4 km**
 
-_Crystal Pool_ at a time when the lanes change break up the 
+_Crystal Pool_ at a time when the lanes change broke up the 
 swim [again](javascript:flick('thu');).  This time I was at 
 the 2000m mark of the workout; I may have called it good 
-enough if I was pressed for time.  
+enough if I was pressed for time.
 
 Like [Thursday](javascript:flick('thu');), the staff were 
-quick with the ropes and I was back in the water with a 
-reprogrammed watch to get me the balance of the workout... 
+quick with the ropes and I was quickly back in the water with a 
+reprogrammed watch for the balance of the workout...  
 plus a bit more.
 
 I am glad that I kept going because I had four of the 250m 
@@ -298,7 +298,6 @@ I was **really stoked** to finish the swim this way.
 Who would have guessed that 3.5 seconds would bring me so much 
 joy on a Saturday afternoon?
 
-
 ---
 
 The run was a **super easy pace** north on my regular gravel 
@@ -311,6 +310,5 @@ Hopefully the extra 200m in the pool makes it a wash.
 
 ---
 
-My left glute is sore.  That knot is angry.  Everything else 
+My **left glute max is sore**.  That knot is angry.  Everything else 
 feels like it is in good working order.
-
