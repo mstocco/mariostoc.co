@@ -16,20 +16,21 @@ I feel like I was...
 
 ![](/assets/jpg/II-9x550.jpeg)
 
-## SUNDAY MAR 5
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SUNDAY MAR 5 🌤
+Sleep **4** | Fatigue **3** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Pre-Bike: Dead bugs, breathing, and Glute Bridges. 
+Pre-Bike: Dead bugs, glute bridges.
+ 
 Ride 2:45-3:15 on the MTB. 
 Fuel regularly, hydrate well, dress to stay warm, have fun. 
-Effort is easy to steady. With harder sections as needed on the trail/road 
+Effort is easy to steady. With harder sections as needed on the trail/road. 
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes**. &nbsp; Ascent: **0m**
 
-&mdash;  
+A left glute sore enough to affect my sleep.
 
 <!---->
 ## MONDAY MAR 6
