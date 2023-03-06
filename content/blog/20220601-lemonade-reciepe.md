@@ -1,27 +1,28 @@
 # My 90g Lemonade Reciepe
-
-Based off of Maurten's marketing claim of 5:4 glucose fructose ratio, here is how I mix up a bottle for a bike ride...
+Based off of Maurten's marketing claim of 5:4 glucose to 
+fructose ratio, here is how I mix up a bottle for a bike 
+ride...
 
 ## Ingredients
-
-* Western Family Lemonade drink mix
-* Sugar
-* Maltodextrin
-* Water
+ &nbsp; Western Family Lemonade drink mix  
+ &nbsp; Sugar  
+ &nbsp; Maltodextrin  
+ &nbsp; Water
 
 ## Directions
+Mix the dry ingredients in your favourite water bottle using 
+the following amounts:  
+ &nbsp; 42g of Table sugar.  
+ &nbsp; 38g of Lemonade drink mix.  
+ &nbsp; 10g of Maltodextrin
 
-Mix the following together in a standard 710ml water bottle.  
-38g of lemonade drink mix.  
-42g of table sugar.  
-10g of Maltodextrin
+&lowast;<small>If it is going to be hot outside, add a dash 
+of table salt.</small>
 
-<small>&star; If it is going to be hot outside, add a dash of table salt.</small>
-
-Maltodextrin has the tendency to clump; throughly mixing DRY with the other granules greatly reduces the clumping.
+Maltodextrin will clump when wet; throughly mixing all the
+dry ingredients first, greatly reduces this clumping.
 
 Add 2/3 water to the bottle and shake vigorously.
 
 Top up the bottle with water and ride.
 
-Makes one bottle.
