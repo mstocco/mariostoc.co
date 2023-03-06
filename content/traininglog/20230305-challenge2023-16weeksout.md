@@ -4,7 +4,8 @@ Week beginning [Sunday, March 5, 2023](javascript:flick('sun');)
 **16** weeks out from race day.
 
 ## WEEKLY GOAL
-Layer on another consistent week.  Coach decided 3 swims, 4 bikes, and 3 runs was enough for this week.
+Layer on another consistent week.  Coach decided 3 swims, 
+4 bikes, and 3 runs was enough for this week.
 
 ## SUMMARY
 Total Time: **0 Hours**
@@ -25,18 +26,33 @@ Pre-Bike: Dead bugs, glute bridges.
  
 Ride 2:45-3:15 on the MTB. 
 Fuel regularly, hydrate well, dress to stay warm, have fun. 
-Effort is easy to steady. With harder sections as needed on the trail/road. 
+Effort is easy to steady. With harder sections as needed on 
+the trail/road. 
 
 ### NOTES
 Total Time: **165 Minutes**. &nbsp; Ascent: **799m**
 
 A left glute sore enough to affect my sleep.
 
-Today was something new; my cousin's husband and my friend, Chris G. accompanied me up the mountain.
+Today was something new; my cousin's husband and my friend, 
+Chris G. accompanied me up the mountain.
 
-We pedalled up to the north end of Thetis as Chris had never ridden those trails before.  The route was essentially _Bellamy Trail_ up to _Munn Road_.  I wanted to show Chris the _Kinghorn Cabin_ but the route was snowed out.  We headed down _Munn_ to the south entrance of _Hartland_ where we rode up _Fun Trail_, down _Botton Feeder_ and exited the park via _Executive West_.
+We pedalled up to the north end of Thetis as Chris had never 
+ridden those trails before.  The route was essentially 
+_Bellamy Trail_ up to _Munn Road_.  I wanted to show Chris the 
+_Kinghorn Cabin_ but the route was snowed out.
+<!----->
+![Bike](/assets/jpg/bike-20230305.jpeg)
 
-Chris was happy that we ended the ride back at my place and that he didn't have to ride all the way back to his home in _Oak Bay_.  I agreed with him.  This was a fun ride
+We headed down _Munn_ to the south entrance of _Hartland_ 
+where we rode up _Fun Trail_, down _Botton Feeder_ and exited 
+the park via _Executive West_.
+
+Chris was happy that we ended the ride back at my place and 
+that he didn't have to ride all the way back to his home in 
+_Oak Bay_.  I agreed with him.  This was a fun ride.
+
+---
 
 Interestingly, my left glute was less sore this evening.
 
@@ -46,7 +62,9 @@ Sleep **3** | Fatigue **4** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Pre-Ride: Dead bugs, Glute Bridges and 0:30 Planks.  Keep your hips level and your ribs/hips connected. Just like on the dead bugs.
+Pre-Ride: Dead bugs, Glute Bridges and 0:30 Planks.  Keep 
+your hips level and your ribs/hips connected. Just like on 
+the dead bugs.
 
 Ride 60 minutes EASY. 
 Inside or outside. Just keep the effort EASY. 
@@ -56,7 +74,8 @@ Mobility 21 minutes
 ### NOTES
 Total Time: **0 Mins** &nbsp; Normalized Power: **0W**
 
-I felt rested by the time I got out of bed.  Rhomboid is a bit stiff. 🤔
+I felt rested by the time I got out of bed.  Rhomboid is a 
+bit stiff, left glute is less sore.🤔
 
 
 <!---->
