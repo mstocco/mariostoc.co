@@ -43,14 +43,13 @@ _Bellamy Trail_ up to _Munn Road_.  I wanted to show Chris the
 _Kinghorn Cabin_ but the route was snowed out.
 <!----->
 ![Bike](/assets/jpg/bike-20230305.jpeg)
+We headed down _Munn_ to the south entrance of _Hartland_; 
+then rode up _"Fun Trail"_, down _"Botton Feeder"_ and exited 
+the park via _"Executive West"_.
 
-We headed down _Munn_ to the south entrance of _Hartland_ 
-where we rode up _Fun Trail_, down _Botton Feeder_ and exited 
-the park via _Executive West_.
-
-Chris was happy that we ended the ride back at my place and 
-that he didn't have to ride all the way back to his home in 
-_Oak Bay_.  I agreed with him.  This was a fun ride.
+Chris said he was happy to end the ride back at my place and 
+that not ride all the way back to his home in _Oak Bay_.  I agreed 
+with him.  This was a fun ride.
 
 ---
 
@@ -72,15 +71,17 @@ Inside or outside. Just keep the effort EASY.
 Mobility 21 minutes
 
 ### NOTES
-Total Time: **0 Mins** &nbsp; Normalized Power: **0W**
+Total Time: **40 Mins** &nbsp; Normalized Power: **0W**
 
 I felt rested by the time I got out of bed.  Rhomboid is a 
 bit stiff, left glute is less sore.🤔
 
+Busy day on the keyboard and I really didn't have the energy to jump on the bike after work.
 
+I spun lightly and stretched before bed.
 <!---->
-## TUESDAY MAR 7
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY MAR 7 🌤
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -97,9 +98,9 @@ Run 45 minutes easy. Can be to/from the pool for a total of 45 minutes...or it c
 Either way, keep the effort EASY.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Mins** &nbsp;Swim: **0000m** &nbsp;Run(s): **0.0 km**
 
-&mdash;  
+More restful sleep.  
 
 <!---->
 ## WEDNESDAY MAR 8
