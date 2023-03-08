@@ -102,16 +102,16 @@ Time: **112 Mins** &nbsp;Swim: **2600m** &nbsp;Run(s): **8.7 km**
 
 More restful sleep.
 
-Late leaving the house this afternoon but the jog to the pool was **easy effort**.
-
+Late leaving the house but the jog to the pool was **easy effort** and I made good time.
+<!----->
 I started the swim in a 50m lane and round of the drill set done before the ropes were swapped to the 25m format.
 
 For the 12x50m efforts, got into a groove with the short rests.  Combined, I got an extra 200m of swimming and ~6 minutes of rest in between activities.
 
 I was feeling a bit gassed to start the jog home and stayed patient until an easy rhythm could be found.
 <!---->
-## WEDNESDAY MAR 8
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY MAR 8 🌤
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -125,9 +125,9 @@ Ride 1:45 on the trainer: Calories and hydration on deck​
 10 minutes easy riding to cool down.
 
 ### NOTES
-Total Time: **0 Minutes**
+Time: **0 Mins** &nbsp; Normalized Power: **0W**
 
-&mdash;  
+Better sleep and the knot I've been fighting in my left glute max is now a knot in piriformis; been here before.
 
 <!---->
 ## THURSDAY MAR 9
