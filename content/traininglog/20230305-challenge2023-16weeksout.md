@@ -98,10 +98,17 @@ Run 45 minutes easy. Can be to/from the pool for a total of 45 minutes...or it c
 Either way, keep the effort EASY.
 
 ### NOTES
-Total Time: **0 Mins** &nbsp;Swim: **0000m** &nbsp;Run(s): **0.0 km**
+Time: **112 Mins** &nbsp;Swim: **2600m** &nbsp;Run(s): **8.7 km**
 
-More restful sleep.  
+More restful sleep.
 
+Late leaving the house this afternoon but the jog to the pool was **easy effort**.
+
+I started the swim in a 50m lane and round of the drill set done before the ropes were swapped to the 25m format.
+
+For the 12x50m efforts, got into a groove with the short rests.  Combined, I got an extra 200m of swimming and ~6 minutes of rest in between activities.
+
+I was feeling a bit gassed to start the jog home and stayed patient until an easy rhythm could be found.
 <!---->
 ## WEDNESDAY MAR 8
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
