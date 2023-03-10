@@ -130,7 +130,7 @@ Time: **105 Mins** &nbsp; Normalized Power: **133W**
 
 Better sleep and the knot I've been fighting in my left glute max is now a knot in piriformis; been here before.
 
-Effort was matched to the workout but my legs were tired and my numbers, a bit lower than [last week](challenge2023-16weeksout?wed).
+Effort was per the workout but tired legs meant the numbers were lower than [last week](challenge2023-17weeksout?wed).
 
 <!---->
 ## THURSDAY MAR 9 ⛅️
@@ -151,9 +151,9 @@ Hilly route. Or as hilly as you can make it if you're going to/from the pool.
 Remember to hydrate and fuel up during the run and after the swim (if this is after the swim)
 
 ### NOTES
-<mark>Time: **0 Mins** </mark> Swim: [Friday](javascript:flick('fri');) Run: 0 km
+<mark>Time: **0 Mins** &nbsp;Run: **0 km**</mark> &nbsp;Swim: [Friday&rarr;](javascript:flick('fri');) 
 
-Rough day.  I was packed and heading out the door for the swim when my truck wouldn't start.  Carina's car was not an option either.
+Rough day.  I headed out the door for the swim but my truck wouldn't start.  Carina's car was not an option either.
 
 <!---->
 ## FRIDAY MAR 10 🌧
