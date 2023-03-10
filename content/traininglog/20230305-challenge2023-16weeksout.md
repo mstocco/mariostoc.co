@@ -130,8 +130,8 @@ Time: **0 Mins** &nbsp; Normalized Power: **0W**
 Better sleep and the knot I've been fighting in my left glute max is now a knot in piriformis; been here before.
 
 <!---->
-## THURSDAY MAR 9
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY MAR 9 ⛅️
+Sleep **3** | Fatigue **3** | Stress **5** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -148,13 +148,13 @@ Hilly route. Or as hilly as you can make it if you're going to/from the pool.
 Remember to hydrate and fuel up during the run and after the swim (if this is after the swim)
 
 ### NOTES
-Total Time: **0 Minutes**
+<mark>Time: **0 Mins** </mark> Swim: [Friday](javascript:flick('fri');) Run: 0 km
 
-&mdash;  
+Rough day.  I was packed and heading out the door for the swim when my truck wouldn't start.  Carina's car was not an option either.
 
 <!---->
-## FRIDAY MAR 10
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY MAR 10 🌧
+Sleep **5** | Fatigue **2** | Stress **4** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -165,9 +165,9 @@ Any bike you like.
 Mobility 15 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **40 Minutes** &nbsp; Swim: **2000m**
 
-&mdash;  
+Yesterday's swim workout this morning at 0540.  Why not, I wasn't sleeping anyway.
 
 <!---->
 ## SATURDAY MAR 11
@@ -180,4 +180,4 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+&mdash;
