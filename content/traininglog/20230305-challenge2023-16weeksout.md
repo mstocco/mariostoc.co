@@ -174,6 +174,8 @@ Total Time: **40 Minutes** &nbsp; Swim: **2000m**
 
 Yesterday's swim workout this morning at 0540.  Why not, I wasn't sleeping anyway.
 
+I really wanted to swim that 1200m rep and measure myself against my previous 1000m PR.  Alas, it didn't go that fast today.
+
 <!---->
 ## SATURDAY MAR 11
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
