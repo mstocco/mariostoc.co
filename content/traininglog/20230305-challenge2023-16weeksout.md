@@ -71,14 +71,14 @@ Inside or outside. Just keep the effort EASY.
 Mobility 21 minutes
 
 ### NOTES
-Total Time: **40 Mins** &nbsp; Normalized Power: **0W**
+Total Time: **40 Mins** &nbsp; Normalized Power: **101W**
 
 I felt rested by the time I got out of bed.  Rhomboid is a 
 bit stiff, left glute is less sore.🤔
 
 Busy day on the keyboard and I really didn't have the energy to jump on the bike after work.
 
-I spun lightly and stretched before bed.
+I spun lightly and stretched before crawling into bed.
 <!---->
 ## TUESDAY MAR 7 🌤
 Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**
@@ -108,7 +108,8 @@ I started the swim in a 50m lane and round of the drill set done before the rope
 
 For the 12x50m efforts, got into a groove with the short rests.  Combined, I got an extra 200m of swimming and ~6 minutes of rest in between activities.
 
-I was feeling a bit gassed to start the jog home and stayed patient until an easy rhythm could be found.
+I was feeling a bit gassed to start the jog home and stayed patient until an easy rhythm was found.
+
 <!---->
 ## WEDNESDAY MAR 8 🌤
 Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
@@ -125,9 +126,11 @@ Ride 1:45 on the trainer: Calories and hydration on deck​
 10 minutes easy riding to cool down.
 
 ### NOTES
-Time: **0 Mins** &nbsp; Normalized Power: **0W**
+Time: **105 Mins** &nbsp; Normalized Power: **133W**
 
 Better sleep and the knot I've been fighting in my left glute max is now a knot in piriformis; been here before.
+
+Effort was matched to the workout but my legs were tired and my numbers, a bit lower than [last week](challenge2023-16weeksout?wed).
 
 <!---->
 ## THURSDAY MAR 9 ⛅️
@@ -142,7 +145,7 @@ Swim 2000:
 1200 aerobic/steady w/ your best rotation/breathing/rhythm you can muster...while still being aerobically in control of the effort. 
 4x 50 super easy to cool down. 
 
-Pre-Run: Dead bugs, breathing, Glute Bridges.....and :30 Plank, and :30 on each side for side plank. Keep your hips level and your rips/hips connected. Just like on the dead bugs.
+Pre-Run: Dead bugs, Glute Bridges and :30 Planks.  
 Run 55 minutes in total. 
 Hilly route. Or as hilly as you can make it if you're going to/from the pool. 
 Remember to hydrate and fuel up during the run and after the swim (if this is after the swim)
