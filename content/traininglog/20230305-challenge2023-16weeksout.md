@@ -78,7 +78,8 @@ bit stiff, left glute is less sore.🤔
 
 Busy day on the keyboard and I really didn't have the energy to jump on the bike after work.
 
-I spun lightly and stretched before crawling into bed.
+I spun lightly on the trainer, then hit the yoga mat for a stretch, then crawled into bed.
+
 <!---->
 ## TUESDAY MAR 7 🌤
 Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**
@@ -145,13 +146,14 @@ Swim 2000:
 1200 aerobic/steady w/ your best rotation/breathing/rhythm you can muster...while still being aerobically in control of the effort. 
 4x 50 super easy to cool down. 
 
-Pre-Run: Dead bugs, Glute Bridges and :30 Planks.  
+Pre-Run: Dead bugs, Glute Bridges and Planks.
+
 Run 55 minutes in total. 
 Hilly route. Or as hilly as you can make it if you're going to/from the pool. 
 Remember to hydrate and fuel up during the run and after the swim (if this is after the swim)
 
 ### NOTES
-<mark>Time: **0 Mins** &nbsp;Run: **0 km**</mark> &nbsp;Swim: [Friday&rarr;](javascript:flick('fri');) 
+<mark>Time: **0 Mins** &nbsp; Run: **0 km**</mark> &nbsp; Swim: [Friday&rarr;](javascript:flick('fri');) 
 
 Rough day.  I headed out the door for the swim but my truck wouldn't start.  Carina's car was not an option either.
 
