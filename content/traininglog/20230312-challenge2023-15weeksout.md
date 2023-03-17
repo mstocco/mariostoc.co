@@ -30,7 +30,7 @@ Weather sucked, and before I could pull my head out of the computer code, it was
 
 <!---->
 ## MONDAY MAR 13
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **5** | Fatigue **2** | Stress **4** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -42,17 +42,19 @@ Total Time: **0 Minutes**
 &mdash;  
 
 <!---->
-## TUESDAY MAR 14
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY MAR 14 ☀️
+Sleep **4** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash;  
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp;Swim: **2950m** &nbsp;Run: **11.7 km**
 
-&mdash;  
+Pretty good swim although I didn't get to the pool quick enough to get it all done in LCM; 2000m in the long format.  The break in between the lane change was ~4 minutes and I swam an extra easy 50m before restarting the workout for the remaining 900m.
+
+I drove to the pool and ran outside in the sunshine.  Summit Park is close and I did 3 trips up the steep section of Summit Ave, 3 trips up The Rise and 3 trips the length of Topaz.  I missed hitting start on the watch; this was ~700m longer than recorded on Garmin.  I **felt ready good** and had a runner's high through to bedtime.  
 
 <!---->
 ## WEDNESDAY MAR 15 🌤
