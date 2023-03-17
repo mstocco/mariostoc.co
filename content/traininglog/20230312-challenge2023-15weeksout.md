@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![Daylight Savings been and blessing and a curse.](/assets/jpg/IMG_4717-977x550.jpeg NEAR THE SUMMIT OF STEWART MOUNTAIN)
+![Daylight Savings is both a blessing and a curse.  Sleep has been challenged but I got a nice sunset ride in.](/assets/jpg/IMG_4717-977x550.jpeg NEAR THE SUMMIT OF STEWART MOUNTAIN)
 
 ## SUNDAY MAR 12
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
