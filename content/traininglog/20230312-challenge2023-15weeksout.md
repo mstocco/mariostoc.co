@@ -50,7 +50,7 @@ Sleep **4** | Fatigue **3** | Stress **3** | Soreness **4**
 &mdash;  
 
 ### NOTES
-Total Time: **135 Mins** &nbsp;Swim: **2950m** &nbsp;Run: **11.7 km**
+Time: **135 Mins** &nbsp;Swim: **2950m** &nbsp;Run: **11.7 km**
 
 Pretty good swim although I didn't get to the pool quick enough to get it all done in LCM; 2000m in the long format.  The break in between the lane change was ~4 minutes and I swam an extra easy 50m before restarting the workout for the remaining 900m.
 
@@ -91,7 +91,7 @@ I ran south of the pool this afternoon with the goals of getting in some hills, 
 
 <!---->
 ## FRIDAY MAR 17
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -100,7 +100,7 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+The knot in my right trap/rhomboid is really stiff this morning.
 
 <!---->
 ## SATURDAY MAR 18
