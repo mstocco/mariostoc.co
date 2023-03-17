@@ -37,9 +37,9 @@ Sleep **5** | Fatigue **2** | Stress **4** | Soreness **5**
 &mdash;  
 
 ### NOTES
-Total Time: **0 Minutes**
+Spin Time: **130 Mins** &nbsp; Normalized Power: **125W**
 
-&mdash;  
+Indoor ride after work.  I put the trainer on free-ride, put a full length movie on from Netflix and just pedalled.  Mixed in some standing and changed the resistance slightly from time to time. 
 
 <!---->
 ## TUESDAY MAR 14 ☀️
