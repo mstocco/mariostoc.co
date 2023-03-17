@@ -50,7 +50,7 @@ Sleep **4** | Fatigue **3** | Stress **3** | Soreness **4**
 &mdash;  
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp;Swim: **2950m** &nbsp;Run: **11.7 km**
+Total Time: **135 Mins** &nbsp;Swim: **2950m** &nbsp;Run: **11.7 km**
 
 Pretty good swim although I didn't get to the pool quick enough to get it all done in LCM; 2000m in the long format.  The break in between the lane change was ~4 minutes and I swam an extra easy 50m before restarting the workout for the remaining 900m.
 
