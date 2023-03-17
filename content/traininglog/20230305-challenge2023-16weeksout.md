@@ -177,12 +177,19 @@ Yesterday's swim workout this morning at 0540.  Why not, I wasn't sleeping anywa
 I really wanted to swim that 1200m rep and measure myself against my previous 1000m PR.  Alas, it didn't go that fast today.
 
 <!---->
-## SATURDAY MAR 11
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY MAR 11 ⛅️
+Sleep **2** | Fatigue **3** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Swim 2200: 
+300 easy swim, 200 swim w/ buoy, 100 kick. 
+4 rounds (50 build easy to strong. R :20, 50 as 25 Strong/Fast/25 EASY. R :20)
+4 rounds (50 Paddle-fist drill. R :10. 200 aerobic/smooth w/ sighting 3x per 50. R :30 after each) 
+4x 50 easy to stretch out and cool down. 
+
+Pre-Run: Dead bugs, breathing, Glute Bridges.....and :45 Normal Plank, and :45 on each side for side plank. Keep your hips level and your rips/hips connected. Just like on the dead bugs.
+Run 70 minutes. Easy effort. Rolling to hilly terrain.
 
 ### NOTES
 Total Time: **0 Minutes**

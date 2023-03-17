@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![Daylight Savings been and blessing and a curse.](/assets/jpg/IMG_4717-977x550.jpeg NEAR THE SUMMIT OF STEWART MOUNTAIN)
 
 ## SUNDAY MAR 12
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
@@ -24,9 +24,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 &mdash;  
 
 ### NOTES
-Total Time: **0 Minutes**
+<mark>Total Time: **0 Minutes** </mark>
 
-&mdash;  
+Weather sucked, and before I could pull my head out of the computer code, it was 7pm.
 
 <!---->
 ## MONDAY MAR 13
@@ -68,17 +68,21 @@ Total Time: **0 Minutes**
 &mdash;  
 
 <!---->
-## THURSDAY MAR 16
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY MAR 16 🌤
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+&mdash;
 
 ### NOTES
-Total Time: **0 Minutes**
+Time: **105 Mins** &nbsp; Swim: **2100m** &nbsp; Run: **10.4 km**
 
-&mdash;  
+A better sleep last night but the knot in my trap is still aggravated.
+
+Got the workout done just but the ropes were moved from 50m to 25m.  I found a groove on the 12th of 16 lengths (800m rep); I wish I could have held on to that groove longer.
+
+I ran south of the pool this afternoon with the goals of getting in some hills, keeping it easy and drawing a GPS track that never intersects.  Got all three goals checked off and I **felt really good** in doing so.
 
 <!---->
 ## FRIDAY MAR 17
