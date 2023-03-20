@@ -33,12 +33,13 @@ Total Time: **183 Minutes** &nbsp; Ride: **61.3 km**
 
 Afternoon spin out to [Roche Cove](javascript:flkty.select(2);) on the XC bike.  I locked out the suspension and it made a difference.  Weather started warm but the increasing cloud blew in, it got cooler; even had the odd rain drop on the way home.
 
-Packed 3 bottles, 2 with my [lemonade recipe](/blog/lemonade-recipe).  90g per bottle mix with no gut issues at ~125 BPM effort; confident that I could go even sweeter.
+Packed 3 bottles, 2 with my [lemonade recipe](/blog/lemonade-recipe).  90g per bottle mix with no gut issues at ~125 BPM effort; confident that I could go sweeter.
 <!----->
 Legs felt tired during the start of the ride, then felt good through the second hour.  My sit bones were the sorest body part rolling into hour three.
 
 I was on dinner duty when I got home so, no run off the bike.  5 minutes before the ride ended, my legs felt like a run off the bike would NOT be productive.  5 minutes after I got home, my legs felt like that run would have been pretty doable.  After standing in the kitchen cooking for an hour, my legs had enough and I needed to sit down.
 
+### THE GOOSE
 ![Bike](/assets/jpg/image.jpeg)
 <!---->
 ## MONDAY MAR 20 🌧
