@@ -14,10 +14,10 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![Nice day for a bike ride.](/assets/jpg/IMG_4729-977x550.jpeg ROCHE COVE, BC)
 
-## SUNDAY MAR 19
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SUNDAY MAR 19 ☁️
+Sleep **2** | Fatigue **4** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
