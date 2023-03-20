@@ -1,4 +1,4 @@
-# My 90g Lemonade Reciepe
+# My 90g Lemonade Recipe
 Based off of Maurten's marketing claim of 5:4 glucose to 
 fructose ratio, here is how I mix up a bottle for a bike 
 ride...
@@ -20,7 +20,7 @@ the following amounts:
 of table salt.</small>
 
 Maltodextrin will clump when wet; throughly mixing all the
-dry ingredients first, greatly reduces this clumping.
+dry ingredients while dry, greatly reduces this clumping.
 
 Add 2/3 water to the bottle and shake vigorously.
 
