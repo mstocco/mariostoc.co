@@ -24,7 +24,15 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+1st: Run 30 minutes EASY.
+
+2nd: Stretching 25 minutes
+
+3rd: Ride 2:30 on the MTB. 
+Good day to head down the Goose, Lochside, or the Great Trail. 
+Keep the effort easy. Legs might be pretty tired from running back-to-back. So we want to keep the muscle load relativley low. 
+Remember to eat and drink early.
+Stay Warm.  Have fun. 
 
 ### NOTES
 <mark>Total Time: **0 Minutes** </mark>
@@ -39,7 +47,9 @@ Sleep **5** | Fatigue **2** | Stress **4** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Ride 60 minutes EASY!
+
+Stretching 20 minutes
 
 ### NOTES
 Spin Time: **130 Mins** &nbsp; Normalized Power: **125W**
@@ -52,7 +62,14 @@ Sleep **4** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Swim 2900: 
+2 rounds (100 easy free, 100 easy w/ buoy, 50 steady kick. Rest as needed)
+6x 100 aerobic/smooth w/ Strong final 25 meters on each rep. R :20 after each. 
+2x 50 easy to stretch out. 
+4x 400 as 75 @ ½ IM effort/focus, 25 cruise-relaxed. R 1:30 after each. 
+2x 50 easy to cool down. 
+
+Run 45 minutes EASY
 
 ### NOTES
 Time: **135 Mins** &nbsp;Swim: **2950m** &nbsp;Run: **11.7 km**
@@ -67,7 +84,14 @@ Sleep **4** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Ride 1:45 on the MTB. 
+Get yourself outside. 
+No "intervals" but.....goal is to warm up over to your favorite hill.. (as long as you enjoy the descent, it is ok with me) 
+And ride about 1 hour going up and down the same climb. Solid effort. No specific pace, just "climbing on a MTB" pace. 
+You should be a touch out of breathe, but also in control and able to go harder at any time. 
+Remember to bring some calories and to drink. Even if it's cold and weight! 
+
+Hopefully you can have some fun with this session.
 
 ### NOTES
 Moving Time: **105 Mins**  &nbsp; Accent: **550m**
@@ -83,7 +107,20 @@ Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;
+Swim 2100: 
+200 easy swim. 
+2x 50 shark-fin drill. 
+100 smooth w/ focus on rotation. 
+2x 50 Paddle-fist drill. 
+100 smooth w/ focus on wrist below elbow. 
+6x 50 Descend 1-3, 4-6 1: IM effort, 2: ½ IM effort, 3: 1k effort. R :15 after each. 
+100 EASY. 
+800 meters @ ½ IM effort/focus. Should be a solid push, but you'd still have 1100 to go in a race. So no dying for air when you're done! 
+6x 50 super easy to stretch out and cool down.
+
+Run is NOT to/from the pool. Unless you get driven to the pool and run the long way home. 
+Pre-Run: Dead bugs, breathing, Glute Bridges.....and :45 Normal Plank, and :45 on each side for side plank. Keep your hips level and your rips/hips connected. Just like on the dead bugs.
+Run 60 minutes. Easy effort. Hilly route. Remember food/water. Especially if you're running after swimming
 
 ### NOTES
 Time: **105 Mins** &nbsp; Swim: **2100m** &nbsp; Run: **10.4 km**
@@ -100,7 +137,10 @@ Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Ride 75 minutes EASY. 
+Any bike. Any terrain. Just keep the effort EASY. 
+
+Stretching 20 minutes
 
 ### NOTES
 Total Time: **0 Mins** &nbsp; Normalized Power: **0W** 
