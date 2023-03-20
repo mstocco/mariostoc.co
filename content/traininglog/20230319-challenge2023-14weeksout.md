@@ -40,7 +40,7 @@ Legs felt tired during the start of the ride, then felt good through the second 
 I was on dinner duty when I got home so, no run off the bike.  5 minutes before the ride ended, my legs felt like a run off the bike would NOT be productive.  5 minutes after I got home, my legs felt like that run would have been pretty doable.  After standing in the kitchen cooking for an hour, my legs had enough and I needed to sit down.
 
 ### THE GOOSE
-![Bike](/assets/jpg/image.jpeg)
+![Bike](/assets/jpg/bike-20230319.jpeg)
 <!---->
 ## MONDAY MAR 20 🌧
 Sleep **2** | Fatigue **4** | Stress **3** | Soreness **3**
