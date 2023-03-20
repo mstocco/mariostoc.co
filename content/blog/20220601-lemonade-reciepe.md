@@ -26,3 +26,4 @@ Add 2/3 water to the bottle and shake vigorously.
 
 Top up the bottle with water and ride.
 
+![](/assets/jpg/IMG_1788-439x550.jpeg)
