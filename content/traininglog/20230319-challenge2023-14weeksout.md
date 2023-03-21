@@ -4,7 +4,7 @@ Week beginning [Sunday, March 19, 2023](javascript:flick('sun');)
 **14** weeks out from race day.
 
 ## WEEKLY GOAL
-To journal as I go vs filling things in at the end of the week.
+To journal as I go instead of filling things in at the end of the week. Get a road bike ready.
 
 ## SUMMARY
 Total Time: **0 Hours**
