@@ -147,18 +147,9 @@ class Navigation(NAV):
 
 	def traininglogSubmenu(self):
 		ul = UL({'class':'alt','style':'font-size:0.75em;margin:15px 0 0 60px;'})
-		if hasattr(self, 'current'):
-			anchor = A({'href':'/traininglog/latest'})
-			anchor.innerHTML = 'CURRENT TRAINING WEEK'
-		else:
-			anchor = A({'href':'/traininglog/previous'})
-			anchor.innerHTML = 'PREVIOUS TRAINING WEEK'
-		li = LI({'class':'item'})
-		li.append(anchor)
-		ul.append(li)
 
 		anchor = A({'href':'/traininglog/calendar'})
-		anchor.innerHTML = 'VIEW FULL CALENDAR'
+		anchor.innerHTML = 'FULL TRAINING CALENDAR'
 		li = LI({'class':'item'})
 		li.append(anchor)
 		ul.append(li)
@@ -170,6 +161,16 @@ class Navigation(NAV):
 				li = LI({'class':'item'})
 				li.append(anchor)
 				ul.append(li)
+
+		for optional in ['before','after','lastyear']:
+			if hasattr(self, optional):
+				option = getattr(self, optional)
+				anchor = A({'href': option['href']})
+				anchor.innerHTML = option['name']
+				li = LI({'class':'item'})
+				li.append(anchor)
+				ul.append(li)
+
 		return ul.tohtml()
 
 	def tohtml(self):
@@ -219,7 +220,7 @@ class PageFooter(FOOTER):
 	""" Footer for the bottom of the webpage.
 	"""
 	def tohtml(self):
-		copyright = P("Copyright &copy; 2022 Mario Stocco &nbsp; All rights reserved.")
+		copyright = P("Copyright &copy; 2023 Mario Stocco &nbsp; All rights reserved.")
 		self.append(copyright)
 		return HTML5Tag.tohtml(self)
 
