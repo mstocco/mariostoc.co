@@ -115,5 +115,7 @@ footer p {font-size:0.7em;color#aaa;margin-left:10px;}
  border-bottom:1px solid orange;margin-bottom:0;
  }
  .synopsis {}
- 
 
+.timestamp {margin-top:-3px;font-size:0.85em;}
+.continue {font-size:0.85em;text-align:right;margin:-16px 0 16px 0;}
+.continue-line {font-size:0.85em;text-align:right;margin:-16px 0 16px 0;border-bottom:1px solid black;padding-bottom:12px;}
