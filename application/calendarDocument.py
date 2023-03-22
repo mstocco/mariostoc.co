@@ -19,7 +19,7 @@ class CalendarMonth(DIV):
 
 		keydates = []
 		#keydates.append(date(2023,1,22))	# CV Half Marathon
-		keydates.append(date(2023,3,12))	# CV Half Marathon
+		#keydates.append(date(2023,3,12))	# CV Half Marathon
 		keydates.append(date(2023,4,23))	# TC10K
 
 		offdays = []
