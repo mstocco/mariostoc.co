@@ -77,12 +77,13 @@ made our time in Cervia an absolutely wonderful experience.
 <!---->
 ## Seafood, Pasta and the Beach
 
-Arriving late Sunday night, we had Monday to Friday to adjust 
-to a 9 hour time change. Vacation life in an Italian seaside 
-village made that easy.
 ![Canale Emissario delle Saline](/assets/jpg/IMG_3423.jpeg)
 
-I got some swimming, biking and running in too.
+Arriving late Sunday night, we had Monday to Friday to adjust 
+to a 9 hour time change. A vacation in an Italian seaside 
+village made that easy. I got some swimming, biking and 
+running in too.
+
 ![Bagno Oba Oba Beach](/assets/jpg/IMG_3511.jpeg)
 
 <!---->
@@ -90,85 +91,91 @@ I got some swimming, biking and running in too.
 
 ![Sunrise on Race Day](/assets/jpg/IMG_3487.jpeg)
 I think I slept well all things considering.  My first task 
-is to carry water bottles to my bike.
+is to carry my water bottles to my bike.
 
-If you have read any other race reports for IRONMAN Italy, 
-you already know that the transition area is very long. 
-Everyone is made to enter the transition from the end 
+If you have read any other race report for IRONMAN Italy, 
+you already know that the transition area is very long. This 
+year, everyone is made to enter the transition from the end 
 furthest from the swim start.  It is a full mile of walking 
 just getting to my bike.
 
-Back at the hotel an anxious feeling is 
-taking hold.  I work through it, put my wetsuit on and after 
+Bike is ready and I head back to the hotel. An anxious feeling 
+is taking hold. I work through it and put my wetsuit on. After 
 a bite of a croissant and a sip of a cappuccino, I walk 
 across the street to the starting pens.
 
 <!---->
 ## The Swim: Enter the Medusa
 
-Yesterday, I watched crew set the remaining buoys for the 
-clockwise, "L" shaped swim course.  From the vantage point of 
-my hotel room (6 floors up), the distance from the first turn 
-buoy to the southernmost turn buoy (the longest leg) showed me 
-just how long the swim is going to be.  Seeing   
-the entire of the swim course from above was intimidating.  I had 
-swam the distance in training but that was in a lake and 
-without this picture.
+Yesterday, from my hotel room (6 floors up), I watched the 
+crew set the buoys of the clockwise, **&#8976;** shaped swim 
+course.  Seeing the entirity of the swim course from above was 
+a bit intimidating for me.
 
-I figure my swim time to be around 80 minutes so I set myself 
-up at the back of the 1:10/1:20 corral.  Behind me are the 1:20-1:30 and 1:30+ corrals; maybe a couple hundred people.  
+I am still processing yesterday's feeling about the swim 
+course. The sound system near the start line is pumping music 
+like a nightclub. I use that to drown out my anxiousness. 
 
-Slowly the masses shuffle toward the starting gates where 8 athletes are being released 
-every 12 seconds.  It is almost my turn and I take a one last glance behind me. 
-There are just a couple dozen people left to enter the water.
+I estimate my swim time to be somewhere around 80 minutes. I 
+find a spot in the 1:10/1:20 corral.  Behind me are the 
+1:20-1:30 and 1:30+ corrals; maybe a couple hundred people.  
+
+Slowly the masses shuffle toward the starting gates where 8 
+athletes are being released every 12 seconds.
+
+It is almost my turn and I take a one last glance behind me. 
+There are just a couple dozen people left to enter the water. 
 
 I am starting at the back of the pack.
 
 <!---->
 ![Go Go Go](/assets/jpg/IMG_3759.jpeg)
-There is a building, _"thigh high"_ swell rolling in this 
-morning (guessed based on the swim marshals on stand up 
-paddle boards).  This makes sighting the first buoy a touch more 
-challenging. Fortunately, there is a sailboat further out with a mast 
-that I am able to use.  Two days ago, I swam out to the 
-first buoy in choppy conditions in 9 minutes;  
-with the swell, it oddly feels like I am there quicker and with less 
-effort.
+There is a _"thigh high"_ swell rolling in this morning 
+(guessed based on the swim marshals on stand up paddle boards). 
+This makes sighting the first buoy a touch more challenging. 
+Fortunately, a sailboat is further out and I am able to use 
+its mast to sight off of.
 
-At the first turn buoy, I stop to dump some water out of 
-my goggles; then begin the long leg to the southern turn buoy.
+Two days ago, it took me 9 minutes to swim to the first buoy. 
+With this morning's swell, it oddly feels like I am there 
+quicker, with less effort.
 
-<!---->
-I am hoping to "find some feet" for a bit of help through the 
-water.  This never happened.  The crowd I am sharing the water with seem 
-nervous.  It is swim around one 
-person to have to swim around the next.  Time to swim my own line, 30m off the buoys.
-
-Getting to the south end of the swim course means a turn 
-toward the beach. The next buoy being a right turn back north. 
-I am swimming effortlessly by myself but at 
-the turns, there is the some congestion with other 
-swimmers.
-
-One thing that I really need to make peace with was the 
-jellyfish; or _medusa_ in Italian.  I have done well to this point.
-
-A stinging line from my chin to my right ear on let's me know they are not harmless.
-
-It isn't bad; the vaseline I applied to my 
-face, hands and feet beforehand is helping.  Overall, there are far 
-fewer jellyfish today compared to the swims earlier 
-in the week.
+I stop to dump the water out of my goggles before getting to 
+work on the long leg to the southern turn buoy.
 
 <!---->
-My line on the way north to the final turn buoy is not  
-my best.  There is a red fisherman's buoy that pulled me 
-and the others off the offical swim course and after the final 
-turn, I made a mistake of swimming in with the swell and not 
-quite toward the swim exit.
+I think I need to "find some feet" for a bit of help through 
+the water; no luck. The crowd I am sharing the water with seem 
+oddly nervous. I swim around one person, then to swim around 
+the next.
 
-70 minutes in the water, and now I am crossing the timing mat; 
-I feel like I could have swam that loop again.
+New tactic; I swim my own line in clean water, 30m off the 
+buoys. This works.
+
+Getting to the south end of the swim course means a right turn 
+toward the beach. The next buoy being a right turn back north.
+
+I am swimming effortlessly by myself but at the turns, it is 
+congested with other swimmers.
+
+One thing that I really need to make peace with are the 
+jellyfish; or _medusa_ in Italian.  I am handling them well 
+today but stinging line from my chin to my right ear on let's 
+me know they are not harmless.
+
+The stinging is tolerable; the vaseline I applied to my face, 
+hands and feet beforehand is helping.  Overall, there are
+fewer jellyfish today compared to swims earlier this week.
+
+<!---->
+My line to the final turn buoy is not my best. A confusing, 
+red fisherman's buoy has pulled me and a number of others, a 
+little bit off the offical swim course.
+
+At the buoy, I turn left for the home stretch.
+
+Just over 70 minutes, I am upright and crossing the timing 
+mat; I feel like I could swim that loop again.
 
 ![Swim Finish](/assets/jpg/IMG_0851.jpeg)
 
@@ -177,34 +184,38 @@ I feel like I could have swam that loop again.
 
 ![My bike in transition](/assets/jpg/IMG_3485.jpeg)
 
-Just out of the water, I jog the soft sand to the 
-transition area.  A quick bio break in a free port-o-john now 
-where did I rack my bike?  It is a long trek to my 
-bike and a long trek to the bike exit, everything goes 
-smoothly.
+Just out of the water, I jog the soft sand to the transition 
+area.  A quick bio break in a available port-o-john and now 
+where did I rack my bike?
+
+It is a long trek to my bike, then a long trek to the bike exit, 
+everything in transition goes smoothly.
 
 <!---->
 ## The Bike
 
 Riding out of _Cervia_ is a series of roundabouts before the 
 road turns west toward the salt flats.  Were there flamingos 
-to be seen?  Yes, hundreds and that is pretty cool.
+to be seen?   
 
-Just like any morning ride after a pool workout, I was 
-expecting my legs to feel heavy for the first bit of the ride.  Today 
-is no different.  It feels like there isn't much juice to 
-squeeze and it doesn't take long for everyone that 
-I passed in the water to return the favour; lots of people whiz by me on 
-the ride out of town.
+Yes, hundreds and that is pretty cool.
 
-Regardless to how awful my legs are feeling, I stick to an effort 
-that I think is appropriate. I open a gel and continue toward 
+Just like any morning ride after a pool workout, I my legs 
+feel heavy for the first bit of the ride.  Today, maybe a bit 
+heavier; it feels like there isn't much juice to squeeze.
+
+All the people that I passed during the swim are starting to 
+return the favour.  Lots of people whiz by me on the way out 
+of town.
+
+Regardless how awful my legs feel, I stick to an effort that 
+I think is appropriate. I open a gel and continue toward 
 _SS3bis_ (the expressway closed just for the race).
 
-I am astonished by the amount of litter on the course; 
-dropped bottles, dropped flat kits, strewn about the road.  What 
-looked like a new pair of Oakley sunglasses randomly discarded 
-has me start a monetary tally in my head to pass the time.
+It is astonishing the amount of litter on the course; dropped 
+bottles, dropped flat kits, stuff strewn about the road. A 
+nice pair of Oakley sunglasses randomly discarded and I start 
+a monetary tally of the _"leave-behinds"_ to help pass the time.
 
 <!---->
 I reach _SS3bis_ (20 km into the ride).  I am expecting 
@@ -215,62 +226,69 @@ either.  Nothing to do except pedal and eat.
 ![Riding out of Cervia](/assets/jpg/IMG_0852.jpeg)
 
 <!---->
-At the 30km mark, the ride crosses over to the southbound lanes.  The is an aid station handing out just water in huge 1.5L bottles.
+At the 30km mark, the ride crosses over to the southbound 
+lanes of the expressway. A slight tailwind helps the effort 
+going south. I am spending time sitting up while my legs 
+continue to feel quite unhappy.
 
-A slight tailwind helps the effort going south. I am spending time sitting up while my 
-legs continue to feel quite unhappy.
+I open another gel and just as I am about to enjoy it,  I am 
+stung by a small wasp!  Once on the lip and once on the tip of 
+my tongue.  This little guy gets me better than the jellyfish.
 
-I open another gel and just as I am about to enjoy it,  I am stung by a small wasp!  Once on the 
-lip and once on the tip of my tongue.  That little guy gets me better 
-than the jellyfish did.
+At the south end of the expressway, the bike course exits to 
+the west, leading up to the town of _Forlimpopoli_.  My lip 
+still hurts enough that I've forgotten about my legs. 
 
-At the south end of the expressway, the bike course exits to the west, leading up to the town of _Forlimpopoli_.  My lip still hurts enough that I've forgotten about my legs. 
+_Rocca Albornoziana_, an amazing 14th century fortress is on 
+my left and to my right, a second Aid Station is handing out 
+water and calories.  I stock up with a couple gels for the 
+next section of the course.
 
-_Rocca Albornoziana_, an amazing 14th century fortress is my left and to my right, a second Aid Station is handing water and calories.  I stock up with a couple gels for the next section of the course.
-
-The scenery through this section of the bike course is picturesque; vineyards, trees, views and a false flat to the foot of 
-_"the hill"_.
-
-Back home, I have a hill that mimics the ride up to _Bertinoro_; 
-I feel prepared and my legs have come around (sugar 
-intake catching up with the effort perhaps).  
+The scenery through this section of the bike course is 
+picturesque; vineyards, trees, along a quaint country road 
+leading to _"the hill"_ and up to the village of _Bertinoro_.
 
 <!---->
 ![The Argon 18s](/assets/jpg/IMG_0853.jpeg)
 
 The community support is growing the closer I get up to the 
-village at the top of the climb.  The time in _Bertinoro_ is brief, but the music is pumping and 
-people are cheering in before the route turns back downhill.
+village at the top of the climb. I keep the effort in check. 
 
-From _Bertinoro_, down to the flats near _Santa Maria delle 
-Grazie di Fornò_ and back to the northbound lanes of the 
-expressway, I feeling like I found a nice groove.  It is a long  strip of expressway heading 
-to the north end of the bike course.  It feels like time is going by 
-quickly.  Before long, I am at the 
-north end making the turn for my second trip south.
+_Bertinoro_, just like back at the beach, has music pumping, 
+people cheering but before you can soak it in, the route 
+turns back downhill.
+
+The route flattens again near _Santa Maria delle Grazie di 
+Fornò_ and makes a return to the closed expressway. Riding 
+northbound, it feels like I am on autopilot.  
 
 <!---->
-At this point in the ride, it is getting later in the 
-afternoon.  In the distance, a dark, ominous thunderstorm 
-is forming to the southeast, near the town of _Cesentico_.  I am 
-relieved to see _Bertinoro_ to the southwest, still basking in sunshine.
+Time flies by and I before I know it, it is time to retrace 
+the route south.
 
-After a quick restock of gels at the aid station in 
-_Forlimpopoli_, I am heading toward _Bertinoro_ for the my second trip up the hill. 
+It is getting later in the afternoon. Off in the distance, a 
+ominous thunderstorm is forming near the town of _Cesentico_; 
+to the east of where I am heading. _Bertinoro_ to my southwest, 
+is still basking in sunshine.
+
+I am looking forward to climbing that hill one more time; it 
+is a nice break from the mostly flat bike course.
 
 One drop, quickly turns into two and after making a lefthand 
-turn at the foot of the hill, drops turn to rain.  With the 
+turn at the foot of the hill, drops turn to rain.  With a loud 
 crack of thunder right overhead, the rain turns into a deluge 
-and the road up to the village becomes a river in almost an 
-instant.
+and the road up to _Bertinoro_ becomes a river in an instant.
 
-The music is still pumping but the crowd in _Bertinoro_ is nowhere to be seen.  I would be taking cover from this storm too. 
-My second descent off the hill is an extremely precarious exercise in wet braking with carbon rims.
+The music is still pumping but the crowd in _Bertinoro_ is 
+nowhere to be seen.  I would be taking cover from this storm too.
 
+My second descent off the hill is an precarious exercise 
+braking in wet with carbon rims.
+
+<!---->
 The momentum that I enjoyed flying down this hill two and half 
 hours earlier, is not to be had this time; my focus is staying upright. 
 
-<!---->
 I am off the hill and the rain continues to hammer down.  Despite 
 living in a wet part of the world, I have never pedalled a 
 bike in the type of rain that was falling from the skies this 
@@ -284,10 +302,11 @@ Some sections, I ride the centreline because the lane was awash.
 
 Even the flamingos in the salt flats had left to find shelter.
 
-The rain finally eases just as I roll into _Cervia_. 
+The rain finally eases just as I roll into _Cervia_.
+
 Despite the foul weather, that last 40km is a new personal best 
-(1:16:57 @31.2 kph).  My mood is great and I (almost) don't 
-want this bike ride to end.
+(1:16:57 @31.2 kph).  My mood is great and I don't want this 
+bike ride to end.
 
 <!---->
 ## T2
@@ -312,41 +331,63 @@ _Viale Cristoforo Colombo_, the cheering is electric.
 
 My task is to walk the aid stations and pick away at the 
 distance in between.  That works through the first 19km 
-(about 2 hours). Now the clockwork effort of the run starts to turn into a slow fade.  I give myself permission 
-to walk.  Interestingly, I am ok with it.
+(about 2 hours). Now the clockwork effort of this run becomes 
+a slow fade to a shuffle.  I give myself permission to walk.
+
+Interestingly, I am ok with it.
 
 ![Run Rabbit Run](/assets/jpg/IMG_0856-3.jpeg)
 
 <!---->
-The aid stations have Maurten gels, water, Gatorade, a  
-Red Bull branded cola, bananas and some energy bar that I am not familiar 
-with.  I stick to what was known to me, the Maurten Gels for 
-as long as I can. The further down the road I go, the 
-more I want something sweeter.  Gatorade is the first to 
-disagree with my gut.  I switch to the cola which sits ok 
-with me until the last lap.
+The aid stations have Maurten gels, water, Gatorade, a Red 
+Bull branded cola, bananas and some energy bar that I am not 
+familiar with. I stick to what was known to me, the Maurten 
+Gels for as long as I can. 
 
-![5 days before my 50th birthday.](/assets/jpg/IMG_0854-550x550.jpeg Thirteen Hours, Twenty-two Minutes)
+The further down the road I go, the more I want something 
+sweeter.  Gatorade is the first to disagree with my gut.  I 
+switch to the cola which sits ok with me until the last lap.
 
-The sun has dropped below the horizon and dusk is turning into night.  Most of the crowds that lined the streets earlier 
+The sun is long below the horizon; dusk is turning into 
+night.  Most of the crowds that lined the streets earlier 
 are gone.  I suspect half were athletes now in bed, getting 
 some sleep before the 70.3 tomorrow. The other half being 
 family of the particpants of this event, most of whom have 
 already crossed the finish line.
 
-I am on my last trip around this 4 lap course, making my way to _Milano Maritima_.  I grab a banana from an Aid Station, it is the only thing that seems to sit with my stomach now.  My abs are sore, my quads are especially sore.  6 kilometres to go.
+I am on my last trip around this 4 lap course, making my way 
+to _Milano Maritima_.  I grab a banana from an Aid Station, it 
+is the only thing that seems to sit with my stomach now.
 
-My sad shuffle once again turns into a walk.  Something in italian is said to me; I look to my left and another athlete passes me, encouraging me to run with him.  Despite the language barrier between us, we worked together to 
-push through the soreness.  I stay on his shoulder as we weave through the north end of the course.  He spends some time on my hip as we make the final turn south.  We walk the final Aid Station.  It is now just one table with product, most of the tables have been disassembled and packed up for the night.
+My abs are sore, my quads are especially sore.
 
-I never get to a _"dark spot"_ mentally (whatever that means); I was in Italy after all and thankful for the moment, 
-the people and the unique experience I was having.
+My sad shuffle once again turns into a walk.
 
-A little more than a kilometre to go, I see my biggest fan up ahead.  Carina gives me a kiss, hands 
-me a Canadian flag and races me to the finish.  She'll beat me 
-there tonight.
+<!---->
+Something in Italian is said to me.  To my left, another 
+athlete passes me and he encourages me to run with him. 
+Despite the language barrier, we work together to push 
+through the soreness.
 
----
+I stay on his shoulder as we weave through the north end of 
+the course.  He spends some time on my hip as we make the 
+final turn south.
+
+We walk the final Aid Station.  It is now just one table with 
+a bit of product, the tents and most of the tables have been 
+disassembled and packed up for the night.
+
+I check my watch, I am going to finish.
+
+I never get to a _"dark spot"_ mentally (whatever that means); 
+I was in Italy after all and thankful for the moment, the 
+people and the unique experience I was having.
+
+A little more than a kilometre to go, I see my biggest fan up 
+ahead.  Carina gives me a kiss, hands me a Canadian flag before 
+racing me to the finish.  She'll beat me there tonight.
+
+![5 days before my 50th birthday.](/assets/jpg/IMG_0854-550x550.jpeg Thirteen Hours, Twenty-two Minutes)
 
 ## Final Thoughts
 
