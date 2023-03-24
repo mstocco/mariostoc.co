@@ -137,10 +137,11 @@ Run: Can be to/from the pool. Or easy after the swim.
 45 minutes of total running. Whatever is easy and fun.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **100 Mins** &nbsp; Swim: **2800m** &nbsp; Run: **6.2 km**
 
-&mdash;  
+The run started out as not fun, heavy legs for the first 11 minutes before I found a rhythm.  It was fun from that point right up to the 40 minute mark when I rolled my right ankle on a rut that I didn't see.  I hobbled home.
 
+<a href="https://youtu.be/GxP3NT9YP2E" target="_blank">Doc On The Run Video</a>
 <!---->
 ## FRIDAY MAR 24
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
