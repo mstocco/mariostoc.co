@@ -30,6 +30,12 @@ class CalendarMonth(DIV):
 		offdays.append(date(2023,1,24))		# COVID
 		offdays.append(date(2023,1,25))		# COVID
 
+		offdays.append(date(2023,3,24))		# Broke Foot
+		offdays.append(date(2023,3,25))		# Broke Foot
+		offdays.append(date(2023,3,26))		# Broke Foot
+		offdays.append(date(2023,3,27))		# Broke Foot
+		offdays.append(date(2023,3,28))		# Broke Foot
+
 		goalrace = triathlons[0]
 		imitaly = date(2021,9,18)
 		trainingStart = date(2022,10,2)
