@@ -52,4 +52,4 @@ in stock and their pricing was competitive.
 
 <p class="continue"><br /><a href="new-tt-bike-build">next, putting it all together &rarr;</a></p>
 
-![](/assets/jpg/IMG_-977x550.jpeg New frameset and parts laid out before assembly)
+![](/assets/jpg/IMG_4641-977x550.jpeg New frameset and parts laid out before assembly)
