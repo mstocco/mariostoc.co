@@ -1,24 +1,62 @@
-![1941 - 2020](/assets/jpg/joe-stocco-393x550.jpg Joe Stocco)
+<!--
+# Things I've Written
+-->
 
-# Obituary for Joseph Stocco
+## Obituary for Joseph Stocco
+<p class="timestamp">Thu Aug 14 2020</p>
 
-<br />
-With broken hearts and sadness his family announces the peaceful passing of Joseph Stocco, father, husband, brother, community leader, and entrepreneur, at the age of 78 years at Richmond General Hospital on Friday August 14, 2020.
+With broken hearts and sadness his family announces the 
+peaceful passing of Joseph Stocco, father, husband, brother, 
+community leader, and entrepreneur, at the age of 78 years at 
+Richmond General Hospital on Friday August 14, 2020.
 
-Born Guiseppe Stocco in the village of Panettieri, Southern Italy on September 1st, 1941, to Massimo and Teresa Stocco.  Joe immigrated to Canada in 1952 with his mother, his eldest sister Maria and younger brothers, Carmen and Carlo to settle with their father in Nipigon, Ontario.  There the family would grow, with the addition of his sister Gina.
+Born Guiseppe Stocco in the village of Panettieri, Southern 
+Italy on September 1st, 1941, to Massimo and Teresa Stocco. 
+Joe immigrated to Canada in 1952...
 
-Joe was a driven man, always on the lookout for a project to bring to life. He had numerous ventures, starting as a delivery driver for local companies in Nipigon. He served as Reeve of Nipigon for a time in the 1960s.  He soon moved from employee to entrepreneur and hotelier, owning the Village Inn (Red Rock, Ontario) then the Woodlands Inn (Longlac, Ontario).
+<p class="continue"><a href="my-fathers-obituary">continue reading &rarr;</a></p>
+
+![Joe Stocco](/assets/jpg/joe-stocco-340.jpeg)
 
 <!---->
-In 1985, Joe rejoined his brothers Carmen and Carlo when he relocated his family to the Cowichan Valley on Vancouver Island.  Joe purchased the Thunderbird Motor Inn (Duncan, BC) along with The Inn at the Water Resort (Cowichan Bay, BC).  He also laid the groundwork for what is now the Duncan Lakes Golf Course.
+## NEW TT BIKE - KICKING TIRES
+<p class="timestamp">Mon Dec 10 2022</p>
 
-From his adolescence, Joe took to the beautiful outdoors of Northwestern Ontario and developed a love for fishing.  Rain or shine and regardless of attire, he found happiness with a rod in one hand and a minnow bucket in the other.  His many adventures fishing in Ontario for pickerel became adventures fishing for chinook salmon off the west coast of Vancouver Island.
+The noise of the bicycle marketing machine is super hard to 
+ignore.  Do I even need a new bike? Really?
 
-Joe will be lovingly remembered by his family: Wife Mary Thang of Richmond, BC, son Mario Stocco (Carina Diller) of Victoria, BC, daughter Lisa Stocco of Courtenay, BC, sisters Mary (Sam) Cicchitano and Gina (Gordon) Sutton of Thunder Bay, Ontario, brother Carlo (Paula) Stocco and sister-in-law Betty Stocco of Duncan BC, his nieces and nephews, Dino Cicchitano
+Truth is I don't _need_ a new bike but looking at the time and 
+effort being invested in my triathlon habit, upgrading the toy 
+that I spend the most time with might be nice! 
+
+<p class="continue-line"><a href="new-tt-bike-kicking-tires">continue reading &rarr;</a></p>
+
+## NEW TT BIKE - I BOUGHT A FRAMESET
+<p class="timestamp">Mon Dec 26 2022</p>
+
+After all of my inner machinations regarding this bike or that 
+frame, it looks like it is a Boxing Day Sale for the win...
+
+<p class="continue"><a href="new-tt-bike-e118tri">continue reading &rarr;</a></p>
+
+![Argon 18 E-118 Tri+](/assets/jpg/e118tri-340.jpeg)
 
 <!---->
-and Linda (Peter) Kibzey of Thunder Bay, Ontario, Christopher (Carrie) Stocco of Surrey, BC, Tania (David) Keeler and Angie (Chris) Gagne of Victoria, BC, Jason Sutton of Thunder Bay, Ontario and Jennifer (Marcus) Walker of St. Joseph, Minnesota.
+## NEW TT BIKE - GOING WITH ULTEGRA
+<p class="timestamp">Tue Feb 7 2022</p>
 
-A private viewing will be held Thursday, August 20th, 2020, at Richmond Funeral Home from 9:00 am to 9:45 am followed by cremation.  Should friends desire, memorial donations may be made to the Richmond Hospital Foundation https://www.richmondhospitalfoundation.com/.
+<img src="/assets/svg/ultegra.svg" alt="ULTEGRA" />
 
+Ultegra uses fundamentally the same mechanical componentry as 
+Shimano's flagship Dura-Ace groupset but let's be honest, SRAM 
+was really never going to make my short list of components.
+
+Here is was my rational for this purchase...
+
+<p class="continue-line"><a href="new-tt-bike-ultegra">continue reading &rarr;</a></p>
+
+## New Bike - Putting it all together
+<p class="timestamp">Tue Mar 7 2023</p>
+<p style="font-size:0.85em;text-align:right;padding-bottom:12px;">
+<a href="">continue reading &rarr;</a></p>
 
