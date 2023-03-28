@@ -14,11 +14,14 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/IMG_1801-977x550.jpeg)
+![Site of the avulsion fracture to my right cuboid](/assets/jpg/IMG_1801-977x550.jpeg LIFE WITH A BUM WHEEL)
 
-## SUNDAY MAR 26 ☀️
+## SUNDAY MAR 26 🌦
+
 ## MONDAY MAR 27 ☀️
+
 ## TUESDAY MAR 28 🌤
+
 ### NOTES
 Met with Dr P.J. Dryden at the VGH Orthopaedic Clinic this morning.
 
