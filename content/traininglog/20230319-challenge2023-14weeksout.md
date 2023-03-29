@@ -68,9 +68,14 @@ Just keep it EASY.
 Mobility 21 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Time: **60 Mins** &nbsp; Normalized Power: **134W**
 
 Another good night of sleep.
+
+I rode the trainer set on free-ride, spinning easy after work. 
+My legs felt better than I expected.
+
+![Bike](/assets/jpg/image.jpeg)
 
 <!---->
 ## TUESDAY MAR 21
@@ -86,16 +91,29 @@ Swim 2100:
 21x50 as 2 @ Strong-high turnover-high focus, 1 @ EASY.  R :15 
 after each. 150 super relaxed and easy to cool down. 
 
-Pre-Run: Dead bugs, Glute Bridges, 45 Planks
-
+Pre-Run: Dead bugs, Glute Bridges, 45 Planks  
 Run 60 minutes. Purposely hilly effort. 
 Cedar hills is great. But so are a bunch of routes. Just make 
 sure the effort is easy, but the terrain/route is challenging.
 
 ### NOTES
-Total Time: **0 Minutes**
+Time: **137 Mins** &nbsp; Swim: **2200m** &nbsp; Run: **10.0 km**
 
-&mdash;  
+I got 2000m of long course in before the rope change. There 
+was 9 minutes of rest before restarting in a 25m lane.
+
+<!----->
+Felt ok in the water, right deltoid a bit irritated; ended 
+with 2 focused sessions in.
+
+I ran from the pool using Summit Avenue and The Rise as my 
+purposely hilly route.  Effort was easy, running felt easy 
+after a few minutes and once off the hill and back to the flat 
+road near the pool, I felt really strong.
+
+Solid afternoon.
+
+![Run](/assets/jpg/image.jpeg)
 
 <!---->
 ## WEDNESDAY MAR 22
@@ -111,14 +129,34 @@ On the Uphill's: Strong effort. All clear to let your HR get
 up. You can chose 1-3 longer hills. This is NOT a race uphill 
 but, you should be getting the HR up, the respiratory rate up, 
 and start wondering where the top of these darn climbs are.  
-&middot; Fuel! Still do this. Even on an MTB ride. 
+&bull; Fuel! Still do this. Even on an MTB ride. 
 
 Mobility 15 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **130 Minutes** &nbsp; Ride: **Inside**
 
-&mdash;  
+Time was not on my side this afternoon.
+
+I needed to pick up Carina at _Harbour Air_ right in what 
+would have been the middle of a 3 hour ride.
+<!----->
+Instead, I rode the trainer twice; once late afternoon and 
+once after dinner.
+
+I loaded the Fulgaz app on the Apple TV then rode segments of 
+the simulated St. George 70.3 course.  Of the 3 big hills, I 
+got up and over the first two smaller hills (there looks to be 
+a BIG hill near the end).
+
+First session was 64 minutes (139W NP)  
+
+Second session was 66 minutes (140W NP)
+
+Fulgaz (the app) crashed around the 55 minute point of the 
+second ride. I was recording the effort with my Garmin Edge 
+and it took over driving the smart trainer and I rode 
+free-ride for the next 10 minutes.
 
 <!---->
 ## THURSDAY MAR 23
@@ -139,35 +177,53 @@ Run: Can be to/from the pool. Or easy after the swim.
 ### NOTES
 Total Time: **100 Mins** &nbsp;Swim: **2800m** &nbsp;Run: **6.2 km**
 
-The run started out as laboured, heavy legs for the first 11 minutes before I found a rhythm.  It was fun from that point right up to 40 minutes when I rolled my right ankle on a rut that I didn't see.  I hobbled home. 
-<a href="https://youtu.be/GxP3NT9YP2E" target="_blank">Doc On The Run Video</a>
+I didn't even try to cram lengths into a 50m lane.
+
+I went a bit later and did this workout SCM. It was productive 
+time in the water and 8x200m were focused, fun and challenging.
+
+<!----->
+The weather is cold, windy and threatening to rain. I haven't 
+run on dirt in a while, so to prevent a niggle, I decided to 
+drive back home and run from there.
+
+Oh the irony...
+
+The run started out as laboured, heavy legs for the first 11 
+minutes before I found a rhythm.  It was fun from that point 
+right up to 40 minutes when I rolled my right ankle on a rut 
+that I didn't see.
+
+I hobbled home.
+
+![Run](/assets/jpg/image.jpeg)
+
 <!---->
 ## FRIDAY MAR 24
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+Off training.
 
 ### PLANNED WORKOUT
-EASY spin to end the week.   
+
+<strike>EASY spin to end the week.   
 Bike of your choice. Ride 75 minutes. If you're outside, 
 avoid any hills that are going to tire you out.  Otherwise, 
-the goal is fun and relaxing. 
+the goal is fun and relaxing.</strike>
 
-Stretching 20 minutes
+<strike>Stretching 20 minutes</strike>
 
 ### NOTES
-Total Time: **0 Minutes**
 
-&mdash;  
+7.5 hours in the Emergency Room at Vic General.  X-Rays, CT 
+Scan and left with an Aircast on my foot.
 
-<!---->
+<div style="min-height:30px;"></div>
+
+---
+
 ## SATURDAY MAR 25
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+
+Off training.
 
 ### PLANNED WORKOUT
 &mdash;  
 
-### NOTES
-Total Time: **0 Minutes**
-
-&mdash;  
