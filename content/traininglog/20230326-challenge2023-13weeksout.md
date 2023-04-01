@@ -40,34 +40,48 @@ sprained foot and I am cleared for swimming and biking but...
 
 **NO RUNNING for the next month**.
 
-## WEDNESDAY MAR 29 ☀️ 
+
+<h2 style="margin-top:18px;">WEDNESDAY MAR 29 ☀️</h2> 
 <p style="padding:0 0 4px 180px;margin:-21px 0 7px 0;border-bottom:1px solid #ddd;">Off training</p>
 
+<!---->
 ## THURSDAY MAR 30 🌤
-<p style="padding-left:180px;margin-top:-21px;">Off training</p>
-
-<!---->
-## FRIDAY MAR 31
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **-** | Fatigue **-** | Stress **-** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash;  
 
 ### NOTES
-Total Time: **0 Minutes**
+Time: **60 Mins** &nbsp; Normalized Power: **99W**
 
-&mdash;  
+Got on to the bike first, then put on my shoes.  I pedalled with a bit of trainer assisted for the first bit before zeroing out the grade for the last half.  Tried standing very briefly; not there yet.
 
+![Ride](/assets/jpg/image.jpeg)
 <!---->
-## SATURDAY APR 1
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY MAR 31 ☁️
+Sleep **-** | Fatigue **-** | Stress **-** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash;  
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Swim: **2100m**
 
+Voice in the back of my head said to skip the pool today.  Looked at the swim volume next week and that anxious voice was squashed.
+
+Swam very gingerly, got the workout done with a better headspace to swim again on [Sunday](challenge2023-12weeksout?sun) 
+
+<!---->
+## SATURDAY APR 1 ☀️
+Sleep **4** | Fatigue **3** | Stress **3** | Soreness **5**
+<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+
+### PLANNED WORKOUT
 &mdash;  
+
+### NOTES
+Time: **0 Mins** &nbsp; Normalized Power: **100W**
+
+Foot is noticeably less swollen today.
