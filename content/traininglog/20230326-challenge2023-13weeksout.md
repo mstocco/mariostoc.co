@@ -50,7 +50,8 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Ride 60 minutes easy. Ideally on the trainer. No risk of crashing. And no need to take your foot out of your pedal on short notice. 
+This probably won't be necessary in a few more days, but good to be patient for the time being.
 
 ### NOTES
 Time: **60 Mins** &nbsp; Normalized Power: **99W**
@@ -64,7 +65,12 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Swim 2100: 
+10x 50 easy swimming. R :20. Taking your time on each wall. Seeing how things feel. 
+10x 50 easy swimming w/ buoy. Still taking your time on the walls. R :20. 
+9x 100 Descend 1-3, 4-6, 7-9 as 1-Easy, 2-Moderate, 3-1500 effort. R :20 after each.   
+**Take the turns carefully and with a one foot push-off​**  
+4x 50 super easy to stretch out and cool down.
 
 ### NOTES
 Total Time: **0 Minutes** &nbsp; Swim: **2100m**
@@ -74,14 +80,19 @@ Voice in the back of my head said to skip the pool today.  Looked at the swim vo
 Swam very gingerly, got the workout done with a better headspace to swim again on [Sunday](challenge2023-12weeksout?sun) 
 
 <!---->
-## SATURDAY APR 1 ☀️
+## SATURDAY APR 1 🌦
 Sleep **4** | Fatigue **3** | Stress **3** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Ride 2:00 EASY on the Trainer. 
+Matt isn't announcing this race. Sounds like you're in for some Dede time. 
+
+Mobility 30 minutes.
 
 ### NOTES
-Time: **0 Mins** &nbsp; Normalized Power: **100W**
+Time: **130 Mins** &nbsp; Normalized Power: **100W**
 
 Foot is noticeably less swollen today.
+
+I got on the bike and 40 minutes into the ride, Carina called.  She was stranded as our car wouldn't start.  I rode the balance of the time (plus 10 mins) when we got everything sorted and back home.  Free-ride set on a simulated level gradient (no trainer assist today).  Watched _"Pulp Fiction"_ to pass the time.  Saddle pressure was the discomfort.
