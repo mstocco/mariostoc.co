@@ -24,7 +24,8 @@ Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
 Swim 2600: 
 10x 100 aerobic/smooth. Odds: Swim, Evens: w/ buoy. R :20 after each. 
 6x 50 as 25 fist drill/25 strong finish to stroke. R :20 after each. 
-6x 200 aerobic/smooth w/ 2x sighting per 50. Not a ton of sighting. But enough to practice and play with your breathing around the sighting. R :40 after each. 
+6x 200 aerobic/smooth w/ 2x sighting per 50. Not a ton of sighting. 
+But enough to practice and play with your breathing around the sighting. R :40 after each. 
 2x 50 super easy to cool down. 
 
 Pre-Ride: Dead bugs, breathing, Glute Bridges
@@ -32,24 +33,48 @@ Ride 60 minutes EASY. On the trainer.
 Spinning the legs.
 
 ### NOTES
-Total Time: **0 Mins** &nbsp;Swim: **0m** &nbsp; Trainer: **0W NP**
-&mdash
+Time: **120 Mins** &nbsp;Trainer: **129W** &nbsp;Swim: **2600m**
+
+I rode the trainer first (time management).  I felt better 
+than I thought I would.  I dropped the nose of my saddle down 
+to relieve some of the pressure the I was feeling lately.
+<!---->
+I watched a GCN short film that followed a 28 year old 
+American in his quest to secure a pro-cycling contract by 
+racing in Belgium.  Getting lost in a well presented cycling 
+story while turning my legs over was fun.
+
+---
+
+In the pool however, I was feeling the effort of the ride. 
+_Mercury Rising_ had a group workout in the lane beside me. 
+That perked me up and gave me some peers to compare against.
+Their workout ended; 10 minutes later, the coach jumped 
+in the lane and demolished whatever ego I had built swimming 
+alongside her athletes.
+
+25 strong finish to stroke may be a HUGE basket of fruit to 
+pick.  Noticed it approaching the wall and reviewing the 
+activity now that I am home...
+![Swim](/assets/jpg/image.jpeg)
 
 <!---->
 ## MONDAY APR 3
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Pre-Ride: Dead bugs, breathing, Glute Bridges
+Pre-Ride: Dead bugs, Glute Bridges
+
 Ride 60 minutes EASY. 
-Either inside or on the road bike on teh Lochside (aka: Flat and low stress)
+Either inside or on the road bike on the Lochside  
+(aka: Flat and low stress)
 
 Mobility 15 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
-
+Total Time: **0 Minutes** &nbsp; Trainer: **0W NP**
+ 
 &mdash;  
 
 <!---->
