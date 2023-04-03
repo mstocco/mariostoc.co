@@ -56,10 +56,10 @@ alongside her athletes.
 25 strong finish to stroke may be a HUGE basket of fruit to 
 pick.  Noticed it approaching the wall and reviewing the 
 activity now that I am home...
-![Swim](/assets/jpg/image.jpeg)
+![Swim](/assets/jpg/swim-20230402.jpeg)
 
 <!---->
-## MONDAY APR 3
+## MONDAY APR 3 ⛅️
 Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 

@@ -71,7 +71,7 @@ pedalled with a bit of trainer assisted (-1% grade) at
 first before zeroing out the grade to finish up.
 
 Tried standing very briefly; not there yet.
-![Ride](/assets/jpg/image.jpeg)
+![Ride](/assets/jpg/bike-20230330.jpeg)
 
 <!---->
 ## FRIDAY MAR 31 ☁️
