@@ -71,6 +71,7 @@ pedalled with a bit of trainer assisted (-1% grade) at
 first before zeroing out the grade to finish up.
 
 Tried standing very briefly; not there yet.
+
 ![Ride](/assets/jpg/bike-20230330.jpeg)
 
 <!---->
@@ -98,7 +99,6 @@ Barely kicking makes me more aware of how low my legs have
 sunk in the water.
 Swam very gingerly, got the workout done with a better headspace 
 to swim again on [Sunday](challenge2023-12weeksout?sun). 
-
 
 <!---->
 ## SATURDAY APR 1 🌦
