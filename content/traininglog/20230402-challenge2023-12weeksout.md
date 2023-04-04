@@ -73,13 +73,15 @@ Either inside or on the road bike on the Lochside
 Mobility 15 minutes
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Trainer: **0W NP**
+Total Time: **60 Mins** &nbsp; Trainer: **127W NP**
  
-&mdash;  
+I jumped on the trainer, loaded the IM Copenhagen course into Fulgaz (because its flat) and then checked out the first part of that route from the lagoon, out of the city and up the coast.  Video was recorded in the early spring and with the weather and road conditions, it looked a lot like a flatter version of Victoria.
+
+No fan and I just let the seat pour.
 
 <!---->
-## TUESDAY APR 4
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY APR 4 ⛅️
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -92,7 +94,7 @@ Swim 2800:
 Mobility 17 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Swim: **0000m**
 
 &mdash;  
 
