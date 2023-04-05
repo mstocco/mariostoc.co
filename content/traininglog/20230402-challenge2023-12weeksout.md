@@ -96,7 +96,7 @@ Mobility 17 minutes
 ### NOTES
 Total Time: **50 Minutes** &nbsp; Swim: **2600m**
 
-Had to swim short course this afternoon as work had me later than expected.  I swam the workout but NOT the cooldown as I needed to take a leak.  By the time I limped to the bathroom, I didn't feel like limping back to the pool deck for the last 200m; I hit the showers.
+Swam _SCM_ this afternoon as work had me longer than planned; completed the workout but NOT the cooldown as I needed to pee.  After getting to the changeroom, I didn't feel like limping back to the pool deck for the last 200m; I hit the showers.
 
 Guy in the lane beside me asked, "How is it that I can breath every fourth stroke?"  I didn't have a good answer for him because I never thought about it before.
 
