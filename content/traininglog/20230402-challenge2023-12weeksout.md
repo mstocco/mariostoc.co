@@ -77,7 +77,7 @@ Total Time: **60 Mins** &nbsp; Trainer: **127W NP**
  
 I jumped on the trainer, loaded the IM Copenhagen course into Fulgaz (because its flat) and then checked out the first part of that route from the lagoon, out of the city and up the coast.  Video was recorded in the early spring and with the weather and road conditions, it looked a lot like a flatter version of Victoria.
 
-No fan and I just let the seat pour.
+No fan and I just let the sweat pour.
 
 <!---->
 ## TUESDAY APR 4 ⛅️
@@ -94,13 +94,15 @@ Swim 2800:
 Mobility 17 minutes
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Swim: **0000m**
+Total Time: **50 Minutes** &nbsp; Swim: **2600m**
 
-&mdash;  
+Had to swim short course this afternoon as work had me later than expected.  I swam the workout but NOT the cooldown as I needed to take a leak.  By the time I limped to the bathroom, I didn't feel like limping back to the pool deck for the last 200m; I hit the showers.
+
+Guy in the lane beside me asked, "How is it that I can breath every fourth stroke?"  I didn't have a good answer for him because I never thought about it before.
 
 <!---->
-## WEDNESDAY APR 5
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY APR 5 ☁️
+Sleep **2** | Fatigue **3** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -112,9 +114,9 @@ Flat route.
 Mobility 13 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Ride: **&mdash;**
 
-&mdash;  
+Most of the discolouration in my foot is gone apart from a distinct dark bruise on the lateral side of the cuboid.
 
 <!---->
 ## THURSDAY APR 6
