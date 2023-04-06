@@ -114,9 +114,11 @@ Flat route.
 Mobility 13 minutes
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Ride: **&mdash;**
+Time: **90 Mins** &nbsp; Trainer: **143W NP**
 
 Most of the discolouration in my foot is gone apart from a distinct dark bruise on the lateral side of the cuboid.
+
+I watched the movie Moneyball while sitting on the trainer afterwork.  I had the fan going today and things felt easier.
 
 <!---->
 ## THURSDAY APR 6
