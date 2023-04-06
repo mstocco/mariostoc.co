@@ -120,7 +120,7 @@ Most of the discolouration in my foot is gone apart from a distinct dark bruise 
 
 I watched the movie _Moneyball_ while sitting on the trainer afterwork.  I had the fan going today and things felt easier.
 
-No pain in my foot but the exercise did move the blood around; the discolouration is visible and no just local to the cuboid area.
+No pain in my foot but the exercise did move the blood around; the discolouration is visible beyond the cuboid area.
 
 <!---->
 ## THURSDAY APR 6 🌧
@@ -143,7 +143,7 @@ Any bike will work for this ride.
 ### NOTES
 Total Time: **0 Minutes** &nbsp;Swim: **0m** &nbsp;Ride: **&mdash;**
 
-Headache woke me up at 0540 today.
+Headache woke me up at 0540 today.  I noticed my right hip flexor is sore too.
 
 <!---->
 ## FRIDAY APR 7
