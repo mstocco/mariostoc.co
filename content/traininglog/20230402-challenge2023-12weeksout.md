@@ -118,11 +118,13 @@ Time: **90 Mins** &nbsp; Trainer: **143W NP**
 
 Most of the discolouration in my foot is gone apart from a distinct dark bruise on the lateral side of the cuboid.
 
-I watched the movie Moneyball while sitting on the trainer afterwork.  I had the fan going today and things felt easier.
+I watched the movie _Moneyball_ while sitting on the trainer afterwork.  I had the fan going today and things felt easier.
+
+No pain in my foot but the exercise did move the blood around; the discolouration is visible and no just local to the cuboid area.
 
 <!---->
-## THURSDAY APR 6
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY APR 6 🌧
+Sleep **4** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -139,9 +141,9 @@ OR....Easy spin to the pool. Long way home. Either way. Keep it easy. Have fun.
 Any bike will work for this ride.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp;Swim: **0m** &nbsp;Ride: **&mdash;**
 
-&mdash;  
+Headache woke me up at 0540 today.
 
 <!---->
 ## FRIDAY APR 7
