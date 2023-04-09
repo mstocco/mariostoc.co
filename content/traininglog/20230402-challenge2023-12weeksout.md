@@ -7,14 +7,17 @@ Week beginning [Sunday, April 2, 2023](javascript:flick('sun');)
 Ride my bikes (plural), protect my injured foot and stretch.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **11.75 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **LIMPING LESS**
 
-&mdash;
+By the end of this week, I am in the boot less but still being cautious with my right foot.  The swelling has mostly receded but the local discolouration is still visible.
 
-![](/assets/jpg/II-9x550.jpeg)
+First week to take my current TT bike off the trainer and put it on the road; Velofix still has the new one but I think it is close to being done.
+
+The weather still feels cooler than normal.
+
+![The blossoms were out on our the plum tree in the backyard.](/assets/jpg/IMG_4753-977x550.jpeg Prunus domestica)
 
 ## SUNDAY APR 2 🌧
 Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
@@ -160,19 +163,31 @@ Effort is EASY. But getting out for a solid weekday ride.
 Mobility 18 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **75 Minutes** 
 
-&mdash;  
+First ride outside on the TT bike this season.  I picked a windy day to remind myself of what an aero wheel feels like to do it too.  Pretty interesting to feel the contrast of same bike, same setup inside versus outside too.
+
+I left the bike in the house hoping (weather permitting) that I can take this bike for a spin again [tomorrow](javascript:flick('sat');).
 
 <!---->
-## SATURDAY APR 8
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY APR 8 🌦
+Sleep **2** | Fatigue **2** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 &mdash;  
 
 ### NOTES
-Total Time: **0 Minutes**
+Moving Time: **180 Minutes**
 
-&mdash;  
+Another day with the TT bike outside.  Today however, I wearing tights and an undershirt in addition to my Santini jacket.
+
+I effort was super easy and I headed north up the Lochside route.  The weather blowing in from _Haro Strait_ was telling and I heading inland to _Elk Lake_.  It got wetter from there, or at least until _Interurban Road_.
+
+I was under 90 minutes until I was back in my neighbourhood, so I headed west on the _Goose_ up to _Langford_.
+
+I swung back to _Colwood_ on my was to _Esquimalt_ when the rain started again.  Wet and starting to get cold, I headed home and put the bike on the trainer for the balance of the scheduled 3 hours.
+
+I would get into the aerobars from time to time but the majority of the time outside, I was sitting up.
+
+
