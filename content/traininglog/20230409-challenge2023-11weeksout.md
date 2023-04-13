@@ -56,7 +56,7 @@ I loaded the Super League London Race on YouTube for entertainment. Steady effor
 
 At 76 minutes, my right foot said, "No mas!"
 
-Reviewing the L/R balance data, the foot was hinting that it was getting tired.
+Reviewing the L/R balance data, the foot was hinting that it was getting tired.  Started ~50/50 and gradually measured to around ~61/39.
 
 #### HEARTRATE CHART
 ![Bike](/assets/jpg/bike-20230410.jpeg)
