@@ -21,8 +21,7 @@ Sleep **4** | Fatigue **4** | Stress **5** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Ride 60 mintues EASY. 
-Inside or outside. As long as it's an easy effort, it works. 
+Ride 60 mintues EASY. Inside or outside.
 
 Swim 3000: 
 3x 100 relaxed free. Rest as needed. 
@@ -51,9 +50,9 @@ Great day for the trainer. But any bike, inside or out, will work.
 Mobility 25 minutes.
 
 ### NOTES
-Time: **79 Mins** Normalized Power: **120W**
+Time: **79 Mins** &nbsp; Normalized Power: **131W**
 
-&mdash;  
+Steady effort on the trainer with one bio-break at 30 minutes.  I loaded the Super League London Race on YouTube for entertainment.
 
 <!---->
 ## TUESDAY APR 11 🌤️
@@ -93,7 +92,7 @@ Have fun.
 ### NOTES
 Total Time: **128 Minutes** &nbsp; Ride: **Trainer** 
 
-Dentist appointment 1400.  Cleaning and a diagnosis of a molar sensitivity.  The appointment ran long and I am being referred to a root specialist (who knew?).
+Dentist appointment 1400 that ran long; The result being a referral to a root specialist.
 
 By the time I got home, I was really hungry and not in much of a mood for dodging showers.  I finally jumped on the trainer at 1900.  I loaded up Rouvy and after a 7 minute warm-up, I rode a measured effort of the first 2 hours of the simulated Roth course.
 
