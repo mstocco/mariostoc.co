@@ -52,13 +52,11 @@ Mobility 25 minutes.
 ### NOTES
 Time: **79 Mins** &nbsp; Normalized Power: **131W**
 
-I loaded the Super League London Race on YouTube for entertainment.
-  
-Steady effort on the trainer with one bio-break at 30 minutes.
+I loaded the Super League London Race on YouTube for entertainment. Steady effort on the trainer with one bio-break at 30 minutes.
 
 At 76 minutes, my right foot said, "No mas!"  I pedalled for a couple more minutes before calling it a done for today.
 
-Looking at the activity in Garmin, the L/R balance was hinting that the foot was getting tired today.
+Looking at the activity in Garmin, the L/R balance was hinting that the foot was getting tired.
 
 #### HEARTRATE CHART
 ![Bike](/assets/jpg/bike-20230410.jpeg)
@@ -94,9 +92,7 @@ Sleep **4** | Fatigue **-** | Stress **-** | Soreness **-**
 Ride 2:00 on MTB or Road bike. 
 Aim for rolling terrain. 
 Water front or the goose would be two solid options. 
-Easy to steady effort. 
-Remember to eat! Stay warm. 
-Have fun.
+Easy to steady effort.
 
 ### NOTES
 Total Time: **128 Minutes** &nbsp; Ride: **Trainer** 
