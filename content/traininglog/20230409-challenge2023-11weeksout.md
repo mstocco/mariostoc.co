@@ -54,9 +54,9 @@ Time: **79 Mins** &nbsp; Normalized Power: **131W**
 
 I loaded the Super League London Race on YouTube for entertainment. Steady effort on the trainer with one bio-break at 30 minutes.
 
-At 76 minutes, my right foot said, "No mas!"  I pedalled for a couple more minutes before calling it a done for today.
+At 76 minutes, my right foot said, "No mas!"
 
-Looking at the activity in Garmin, the L/R balance was hinting that the foot was getting tired.
+Reviewing the L/R balance data, the foot was hinting that it was getting tired.
 
 #### HEARTRATE CHART
 ![Bike](/assets/jpg/bike-20230410.jpeg)
