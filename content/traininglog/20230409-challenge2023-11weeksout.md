@@ -54,6 +54,11 @@ Time: **79 Mins** &nbsp; Normalized Power: **131W**
 
 Steady effort on the trainer with one bio-break at 30 minutes.  I loaded the Super League London Race on YouTube for entertainment.
 
+At 76 minutes, my right foot said, "No mas!"  
+
+#### HEARTRATE CHART
+![Bike](/assets/jpg/bike-20230410.jpeg)
+
 <!---->
 ## TUESDAY APR 11 🌤️
 Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
