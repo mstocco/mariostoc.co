@@ -34,7 +34,7 @@ Swim 3000:
 ### NOTES
 Total Time: **41 Minutes** &nbsp; Swim: **1900m**
 
-Pool was practically empty apart from 4 triathletes.  A conversation broke out with 3 of us with scheduled races on June 25th (they are signed up for Coeur d'Alene).
+A practically empty pool apart from 4 triathletes.  A conversation broke out; 3 of us have scheduled races on June 25th (others doing Coeur d'Alene).
 
 Hosted the family for Easter Dinner and once the day was done, I went to bed instead of sitting on the trainer.
 
