@@ -52,9 +52,13 @@ Mobility 25 minutes.
 ### NOTES
 Time: **79 Mins** &nbsp; Normalized Power: **131W**
 
-Steady effort on the trainer with one bio-break at 30 minutes.  I loaded the Super League London Race on YouTube for entertainment.
+I loaded the Super League London Race on YouTube for entertainment.
+  
+Steady effort on the trainer with one bio-break at 30 minutes.
 
-At 76 minutes, my right foot said, "No mas!"  
+At 76 minutes, my right foot said, "No mas!"  I pedalled for a couple more minutes before calling it a done for today.
+
+Looking at the activity in Garmin, the L/R balance was hinting that the foot was getting tired today.
 
 #### HEARTRATE CHART
 ![Bike](/assets/jpg/bike-20230410.jpeg)
@@ -101,6 +105,7 @@ Dentist appointment 1400 that ran long; The result being a referral to a root sp
 
 By the time I got home, I was really hungry and not in much of a mood for dodging showers.  I finally jumped on the trainer at 1900.  I loaded up Rouvy and after a 7 minute warm-up, I rode a measured effort of the first 2 hours of the simulated Roth course.
 
+#### SIMULATED ELEVATION
 ![bike](/assets/jpg/bike-20230412.jpeg) 
 
 <!---->
