@@ -13,7 +13,10 @@ I feel like I was **DUATHLETE in training**
 
 Despite an incomplete day on [Sunday](javascript:flick('sun');), I pulled off a **solid week** with my longest swim and longest ride of the year (so far).
 
-My cuboid has local swelling and a hint of discolouration.  Walking is just starting to become natural, with less of a limp BUT I am not ready to kick in the pool.
+My cuboid has local swelling and a hint of discolouration.  Walking is just starting to become natural, with less of a limp BUT I am not ready to kick in the pool and the voice in my head says "don't even think about running, even to cross a street."
+
+I re-load the Roth Bike Course to keep the route _"fresh"_ in my head this week.
+![Rouvy Logo](/assets/svg/rouvy.svg)
 
 ![Cherry blossoms lining the entrance to Parry Bay Farm Market](/assets/jpg/IMG_4781-977x550.jpeg LINDHOLM ROAD, METCHOSIN)
 
@@ -145,7 +148,7 @@ Finished work later so I jumped on Rouvy and continued where I left off [Wednesd
 
 This simulation does seem to align with my real-world expectations.  Example, if I combine these 2 rides, I'd finish the first lap in about ~3:05:00.  Let's say a second lap is ~3:15:00.  Add 7 minutes to get to the turn off at _Eckersmühlen_ then 8 minutes into T2.
 
-~6:35:00 is believable considering the bike times at [Ironman Italy](/racereports/2021-ironman-italy) and [Ironman Canada](/racereports/2022-ironman-canada).  Time will tell.
+~6:35:00 is believable considering the bike times at [Ironman Italy](/racereports/2021-ironman-italy-emilia-romagna) and [Ironman Canada](/racereports/2022-ironman-canada-penticton).  Time will tell.
 
 <!---->
 ## SATURDAY APR 15 🌧
@@ -164,8 +167,8 @@ Moving Time: **275 Mins** &nbsp; Ride: **92 km**
 
 Left on the Goose and I could feel [yesterday](javascript:flick('fri');) still in my legs.  I pressed on looking at the grey sky to the west.  I reached the Sooke Road crossing with 15 minutes until my turnaround time.  That turnaround point came and went and I pressed on.  I was feeling pretty good, I had lots of very sugary water and gels and the weather was tolerable.
 
-I got almost to the 52km marker where a nice spot opened up, overlooking the _Sooke River_.  I stopped for about 10 minutes, had a gel then put on some gore-tex for the trip back to Victoria.
-
+At the 52km marker, a nice spot opened up above the _Sooke River_.  I stopped for 10 minutes, had a gel then put on the gore-tex for the trip back to Victoria.
+<!----->
 Dull ache in my quads that I haven't felt since [Penticton](/racereports/2022-ironman-canada-penticton) and ischial tuberosities that were extremely disappointed with my decision to ride longer than scheduled.
 
-I urinated a lot today.  At one point, I wasn't getting more than 6km before the urge had me pulled over on the rural sections of _The Goose_.
+I urinated a lot today.  At one point on the trip back, I wasn't getting more than 6km down the trail before the urge had me pulled over.  Rural _Galloping Goose_ is awesome for this.
