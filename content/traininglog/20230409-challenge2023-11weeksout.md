@@ -16,7 +16,7 @@ Despite an incomplete day on [Sunday](javascript:flick('sun');), I pulled off a 
 My cuboid has local swelling and a hint of discolouration.  Walking is just starting to become natural, with less of a limp BUT I am not ready to kick in the pool and the voice in my head says "don't even think about running, even to cross a street."
 
 I re-load the Roth Bike Course to keep the route _"fresh"_ in my head this week.
-![Rouvy Logo](/assets/svg/rouvy.svg)
+<img alt="Rouvy Logo" src="/assets/svg/rouvy.svg" style="float:left;" />
 
 ![Cherry blossoms lining the entrance to Parry Bay Farm Market](/assets/jpg/IMG_4781-977x550.jpeg LINDHOLM ROAD, METCHOSIN)
 
