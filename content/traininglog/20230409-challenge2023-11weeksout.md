@@ -11,14 +11,23 @@ Total Time: **13 Hours**
 
 I feel like I was **DUATHLETE in training**
 
-Despite an incomplete day on [Sunday](javascript:flick('sun');), I pulled off a **solid week** with my longest swim and longest ride of the year (so far).
+Despite an incomplete day on [Sunday](javascript:flick('sun');), 
+I pulled off a **solid week** with my longest swim and longest 
+ride of the year (so far).
 
-My cuboid has local swelling and a hint of discolouration.  Walking is just starting to become natural, with less of a limp BUT I am not ready to kick in the pool and the voice in my head says "don't even think about running, even to cross a street."
+My cuboid has local swelling and a hint of discolouration. 
+Walking is just starting to become natural, with less of a 
+limp BUT I am not ready to kick in the pool and the voice in 
+my head says "don't even think about running, even to cross 
+a street."
 
-I re-load the Roth Bike Course to keep the route _"fresh"_ in my head this week.
-<img alt="Rouvy Logo" src="/assets/svg/rouvy.svg" style="float:left;" />
+<div style="text-align:center;border-bottom:1px solid #eee;">
+<img alt="Rouvy Logo" src="/assets/svg/rouvy.svg" style="width:65px;" />
+</div>
+On the trainer, I re-load the _"Roth Bike Course"_ to keep the 
+route _"fresh"_ in my head this week.
 
-![Cherry blossoms lining the entrance to Parry Bay Farm Market](/assets/jpg/IMG_4781-977x550.jpeg LINDHOLM ROAD, METCHOSIN)
+![Cherry blossoms lining the entrance to Parry Bay Farm Market on Saturday morning.](/assets/jpg/IMG_4781-977x550.jpeg LINDHOLM ROAD, METCHOSIN)
 
 ## SUNDAY APR 9 🐣
 Sleep **4** | Fatigue **4** | Stress **5** | Soreness **4**
@@ -38,9 +47,12 @@ Swim 3000:
 ### NOTES
 Total Time: **41 Minutes** &nbsp; Swim: **1900m**
 
-A practically empty pool apart from 4 triathletes.  A conversation broke out; 3 of us have scheduled races on June 25th (others doing Coeur d'Alene).
+A practically empty pool apart from 4 triathletes.  A 
+conversation broke out; 3 of us have scheduled races on June 
+25th (others doing Coeur d'Alene).
 
-Hosted the family for Easter Dinner and once the day was done, I went to bed instead of sitting on the trainer.
+Hosted the family for Easter Dinner and once the day was done, 
+I was ready for bed.
 
 <!---->
 ## MONDAY APR 10 ☁️
@@ -56,11 +68,15 @@ Mobility 25 minutes.
 ### NOTES
 Time: **79 Mins** &nbsp; Normalized Power: **131W**
 
-I loaded the Super League London Race on YouTube for entertainment. Steady effort on the trainer with one bio-break at 30 minutes.
+I loaded the Super League London Race on YouTube for 
+entertainment. Steady effort on the trainer with one bio-break 
+at 30 minutes.
 
 At 76 minutes, my right foot said, "No mas!"
 
-Reviewing the L/R balance data, the foot was hinting that it was getting tired.  Started ~50/50 and gradually measured to around ~61/39.
+Reviewing the L/R balance data, the foot was hinting that it 
+was getting tired.  Started ~50/50 and gradually measured to 
+around ~61/39.
 
 #### HEARTRATE CHART
 ![Bike](/assets/jpg/bike-20230410.jpeg)
@@ -81,11 +97,14 @@ Swim 3000:
 ### NOTES
 Total Time: **68 Minutes** &nbsp; Swim: **3000m**
 
-Still walking with lots of care and still barely kicking while in the water.
+Still walking with lots of care and still barely kicking while 
+in the water.
 
-One of the 150m reps was extended to 200m; my body was in _Crystal Pool_ but my head was in _Elk Lake_.  Good times.
+One of the 150m reps was extended to 200m; my body was in 
+_Crystal Pool_ but my head was in _Elk Lake_.  Good times.
 
-I thought about riding the trainer but I am feeling the swim this evening.
+I thought about riding the trainer but I am feeling the swim 
+this evening.
 
 <!---->
 ## WEDNESDAY APR 12 🌤️
@@ -101,12 +120,17 @@ Easy to steady effort.
 ### NOTES
 Total Time: **128 Minutes** &nbsp; Ride: **Trainer** 
 
-Dentist appointment 1400 that ran long; The result being a referral to a root specialist.
+Dentist appointment 1400 that ran long; The result being a 
+referral to a root specialist.
 
-By the time I got home, I was really hungry and not in much of a mood for dodging showers.  I finally jumped on the trainer at 1900.  I loaded up Rouvy and after a 7 minute warm-up, I rode a measured effort of the first 2 hours of the simulated Roth course.
+By the time I got home, I was really hungry and not in much of 
+a mood for dodging showers.  I finally jumped on the trainer 
+at 1900.  I loaded up Rouvy and after a 7 minute warm-up, I 
+rode a measured effort of the first 2 hours of the simulated 
+Roth course.
 
 #### SIMULATED ELEVATION
-![bike](/assets/jpg/bike-20230412.jpeg) 
+![Bike](/assets/jpg/bike-20230412.jpeg) 
 
 <!---->
 ## THURSDAY APR 13 ⛅️
@@ -125,11 +149,15 @@ Swim 2800:
 Mobility 21 minutes
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Swim: **3050m**
+Total Time: **74 Minutes** &nbsp; Swim: **3050m**
 
-I swam the first 1900m in the 50m lanes.  Had a really curious pain in my right ankle join; not the cuboid but enough to slow me down.  The pain cleared by the time I started in the 25m lanes so who knows.
+I swam the first 1900m in the 50m lanes.  Had a really curious 
+pain in my right ankle join; not the cuboid but enough to slow 
+me down.  The pain cleared by the time I started in the 25m 
+lanes so who knows.
 
-High turnover nets me about 5 seconds per 50m; lots of extra work for not a whole lot of time.  My guess is my coach would say that's swimming.  Regardless, today was a solid workout in the pool.
+High turnover nets me about 5 seconds per 50m; lots of extra 
+work for not a whole lot of time.
 
 <!---->
 ## FRIDAY APR 14 🌤
@@ -144,11 +172,21 @@ Easy to steady effort. Getting in some good volume this week.
 ### NOTES
 Time: **90 Mins** &nbsp; Normalized Power: **130W**
 
-Finished work later so I jumped on Rouvy and continued where I left off [Wednesday](javascript:flick('wed');).  Unlike that ride, tonight I felt better than typical and rode a bit more pressure on the pedals.
+Finished work later so I jumped on Rouvy and continued where I 
+left off [Wednesday](javascript:flick('wed');).  Unlike that 
+ride, tonight I felt better than typical and rode a bit more 
+pressure on the pedals.
 
-This simulation does seem to align with my real-world expectations.  Example, if I combine these 2 rides, I'd finish the first lap in about ~3:05:00.  Let's say a second lap is ~3:15:00.  Add 7 minutes to get to the turn off at _Eckersmühlen_ then 8 minutes into T2.
+This simulation does seem to align with my real-world 
+expectations.  Example, if I combine these 2 rides, I'd finish 
+the first lap in about ~3:05:00.  Let's say a second lap is 
+~3:15:00.  Add 7 minutes to get to the turn off at _Eckersmühlen_ 
+then 8 minutes into T2.
 
-~6:35:00 is believable considering the bike times at [Ironman Italy](/racereports/2021-ironman-italy-emilia-romagna) and [Ironman Canada](/racereports/2022-ironman-canada-penticton).  Time will tell.
+~6:35:00 is believable considering the bike times at 
+[Ironman Italy](/racereports/2021-ironman-italy-emilia-romagna) and 
+[Ironman Canada](/racereports/2022-ironman-canada-penticton). 
+Time will tell.
 
 <!---->
 ## SATURDAY APR 15 🌧
@@ -160,15 +198,35 @@ Long ride on MTB.
 3:30-3:50. Easy to steady ride. On the Goose would be great. 
 Fueling early and often. 
 Drinking often. 
-Dressing to stay warm! (and somewhat dry)
+Dressing to stay warm! (and dry)
 
 ### NOTES
 Moving Time: **275 Mins** &nbsp; Ride: **92 km**
 
-Left on the Goose and I could feel [yesterday](javascript:flick('fri');) still in my legs.  I pressed on looking at the grey sky to the west.  I reached the Sooke Road crossing with 15 minutes until my turnaround time.  That turnaround point came and went and I pressed on.  I was feeling pretty good, I had lots of very sugary water and gels and the weather was tolerable.
+Left on the Goose and I could feel [yesterday](javascript:flick('fri');) 
+still in my legs.  I pressed on looking at the grey sky to the west. 
+I reached the Sooke Road crossing with 15 minutes until my turnaround 
+time.  That turnaround point came and went and I pressed on.  I was 
+feeling pretty good, I had lots of very sugary water and gels and the 
+weather was tolerable.
 
-At the 52km marker, a nice spot opened up above the _Sooke River_.  I stopped for 10 minutes, had a gel then put on the gore-tex for the trip back to Victoria.
+At the 52km marker, a nice spot opened up above the _Sooke River_. 
+I stopped for 10 minutes, had a gel then put on the gore-tex for 
+the trip back to Victoria.
 <!----->
-Dull ache in my quads that I haven't felt since [Penticton](/racereports/2022-ironman-canada-penticton) and ischial tuberosities that were extremely disappointed with my decision to ride longer than scheduled.
+This afternoon, I finally became reacquainted with a dull ache 
+in my quads; something that I haven't felt since 
+[Penticton](/racereports/2022-ironman-canada-penticton).  My 
+ischial tuberosities were also extremely disappointed with my 
+decision to ride longer than scheduled.
 
-I urinated a lot today.  At one point on the trip back, I wasn't getting more than 6km down the trail before the urge had me pulled over.  Rural _Galloping Goose_ is awesome for this.
+#### SOOKE POTHOLES
+![Bike](/assets/jpg/bike-20230415.jpeg)
+
+I stopped to urinate a lot today.  At one point on the trip 
+back, I wasn't getting more than 6km down the trail before the 
+urge had me pulled over (again).  Rural _Galloping Goose_ is 
+awesome for this.
+
+
+76.6 Kg before the ride, just 76.4 afterwards.
