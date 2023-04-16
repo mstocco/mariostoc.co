@@ -7,14 +7,15 @@ Week beginning [Sunday, April 9, 2023](javascript:flick('sun');)
 Swim, bike and heal.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **13 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **DUATHLETE in training**
 
-&mdash;
+Despite an incomplete day on [Sunday](javascript:flick('sun');), I pulled off a **solid week** with my longest swim and longest ride of the year (so far).
 
-![](/assets/jpg/II-9x550.jpeg)
+My cuboid has local swelling and a hint of discolouration.  Walking is just starting to become natural, with less of a limp BUT I am not ready to kick in the pool.
+
+![Cherry blossoms lining the entrance to Parry Bay Farm Market](/assets/jpg/IMG_4781-977x550.jpeg LINDHOLM ROAD, METCHOSIN)
 
 ## SUNDAY APR 9 🐣
 Sleep **4** | Fatigue **4** | Stress **5** | Soreness **4**
@@ -121,13 +122,15 @@ Swim 2800:
 Mobility 21 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Swim: **3050m**
 
-&mdash;  
+I swam the first 1900m in the 50m lanes.  Had a really curious pain in my right ankle join; not the cuboid but enough to slow me down.  The pain cleared by the time I started in the 25m lanes so who knows.
+
+High turnover nets me about 5 seconds per 50m; lots of extra work for not a whole lot of time.  My guess is my coach would say that's swimming.  Regardless, today was a solid workout in the pool.
 
 <!---->
-## FRIDAY APR 14
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY APR 14 🌤
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -136,19 +139,33 @@ Rolling terrain. Same as Wednesday, but not as long.
 Easy to steady effort. Getting in some good volume this week.
 
 ### NOTES
-Total Time: **0 Minutes**
+Time: **90 Mins** &nbsp; Normalized Power: **130W**
 
-&mdash;  
+Finished work later so I jumped on Rouvy and continued where I left off [Wednesday](javascript:flick('wed');).  Unlike that ride, tonight I felt better than typical and rode a bit more pressure on the pedals.
+
+This simulation does seem to align with my real-world expectations.  Example, if I combine these 2 rides, I'd finish the first lap in about ~3:05:00.  Let's say a second lap is ~3:15:00.  Add 7 minutes to get to the turn off at _Eckersmühlen_ then 8 minutes into T2.
+
+~6:35:00 is believable considering the bike times at [Ironman Italy](/racereports/2021-ironman-italy) and [Ironman Canada](/racereports/2022-ironman-canada).  Time will tell.
 
 <!---->
-## SATURDAY APR 15
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY APR 15 🌧
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Long ride on MTB.   
+3:30-3:50. Easy to steady ride. On the Goose would be great. 
+Fueling early and often. 
+Drinking often. 
+Dressing to stay warm! (and somewhat dry)
 
 ### NOTES
-Total Time: **0 Minutes**
+Moving Time: **275 Mins** &nbsp; Ride: **92 km**
 
-&mdash;  
+Left on the Goose and I could feel [yesterday](javascript:flick('fri');) still in my legs.  I pressed on looking at the grey sky to the west.  I reached the Sooke Road crossing with 15 minutes until my turnaround time.  That turnaround point came and went and I pressed on.  I was feeling pretty good, I had lots of very sugary water and gels and the weather was tolerable.
+
+I got almost to the 52km marker where a nice spot opened up, overlooking the _Sooke River_.  I stopped for about 10 minutes, had a gel then put on some gore-tex for the trip back to Victoria.
+
+Dull ache in my quads that I haven't felt since [Penticton](/racereports/2022-ironman-canada-penticton) and ischial tuberosities that were extremely disappointed with my decision to ride longer than scheduled.
+
+I urinated a lot today.  At one point, I wasn't getting more than 6km before the urge had me pulled over on the rural sections of _The Goose_.
