@@ -42,9 +42,10 @@ The pool was a chaotic this afternoon.  _Mercury Rinsing_ took over a couple lan
 To slot in, I would stop/start the activity on the watch so my rest times were off too.  This felt like a race.
 
 
+
 <!---->
-## MONDAY APR 17
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## MONDAY APR 17 🌧
+Sleep **4** | Fatigue **4** | Stress **3** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -52,9 +53,8 @@ Ride 70 minutes EASY.
 On the trainer, or outside, on any bike you like.
 
 ### NOTES
-Total Time: **0 Minutes**
-
-&mdash;  
+Total Time: **0 Mins** &nbsp; Normalized Power: **0W**
+  
 
 <!---->
 ## TUESDAY APR 18
