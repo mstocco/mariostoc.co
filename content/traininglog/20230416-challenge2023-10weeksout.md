@@ -16,8 +16,8 @@ I feel like I was...
 
 ![](/assets/jpg/II-9x550.jpeg)
 
-## SUNDAY APR 16
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SUNDAY APR 16 🌦
+Sleep **3** | Fatigue **5** | Stress **2** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -33,9 +33,14 @@ Trainer ~ 60 minutes. EASY spinning.
 On one of the TT bikes would be great. Which one, is up to you.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **71 Minutes** &nbsp; Swim: **3200m**
 
-&mdash;  
+Quads very much affected by the fun I had [yesterday](challenge2023-11weeksout?sat).  Dead bugs before the pool let me know that my right hip flexor and my left QL are annoyed with me today as well.
+
+The pool was a chaotic this afternoon.  _Mercury Rinsing_ took over a couple lanes and my next best fit was in a lane that was moving faster than is typical for me.  I'd do okay hanging off feet for a length but with a single leg push off the wall, I was left behind.  
+
+To slot in, I would stop/start the activity on the watch so my rest times were off too.  This felt like a race.
+
 
 <!---->
 ## MONDAY APR 17

@@ -203,10 +203,10 @@ Dressing to stay warm! (and dry)
 ### NOTES
 Moving Time: **275 Mins** &nbsp; Ride: **92 km**
 
-Left on the Goose and I could feel [yesterday](javascript:flick('fri');) 
-still in my legs.  I pressed on looking at the grey sky to the west. 
-I reached the Sooke Road crossing with 15 minutes until my turnaround 
-time.  That turnaround point came and went and I pressed on.  I was 
+West on _The Goose_ and I could feel [yesterday](javascript:flick('fri');) 
+lingering in my legs.  I pressed on looking at the foreshadowing grey sky. 
+I reached the _Sooke Road_ crossing with 15 minutes until my turnaround 
+time.  That turnaround point came and went as I pressed on.  I was 
 feeling pretty good, I had lots of very sugary water and gels and the 
 weather was tolerable.
 
@@ -227,6 +227,5 @@ I stopped to urinate a lot today.  At one point on the trip
 back, I wasn't getting more than 6km down the trail before the 
 urge had me pulled over (again).  Rural _Galloping Goose_ is 
 awesome for this.
-
 
 76.6 Kg before the ride, just 76.4 afterwards.
