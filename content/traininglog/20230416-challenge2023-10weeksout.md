@@ -53,12 +53,15 @@ Ride 70 minutes EASY.
 On the trainer, or outside, on any bike you like.
 
 ### NOTES
-Total Time: **0 Mins** &nbsp; Normalized Power: **0W**
-  
+Total Time: **76 Mins** &nbsp; Normalized Power: **128W**
+
+New TT Bike was delivered today.  I futzed with adjusting the seat and aerobars, getting measurements close to my original bike.  I didn't take it outside; the weather was dry but very windy and very cold.
+
+After dinner, I jumped on the trainer and started riding Rouvy where I last left off on the Roth bike course.  The app crashed about 15 minutes in but I did have the activity being recorded simultaneously on my head unit.  It was 15 minutes of simulated terrain then an hour of steady, easy effort pedalling.
 
 <!---->
-## TUESDAY APR 18
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY APR 18 🌦
+Sleep **3** | Fatigue **4** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -74,9 +77,19 @@ Swim 2900:
 Mobility 22 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **61 Minutes** &nbsp; Swim: **2700m**
 
-&mdash;  
+Weight over the past 5 days has trended in the wrong direction, incrementing a little bit each day from 76.0 Kg [last Friday](challenge2023-11weeksout?fri) to 77.6 this morning.  This _"no running"_ injury is messing with my mood too.  
+
+Or maybe its just the cold, wet weather.  Snow on the _Malahat_ this morning.
+
+Jumping into a 50m lane to start the workout, I found out how hard the swim on [Sunday](javascript:flick('sun');) was.  Shoulders, triceps and lats were less than comfortable with movement.  I did attempt the 100m kick; no pain during but I was about 45 seconds slower for the 100m; glad I tried it, glad to only to have to do one.
+
+Despite today's stiff upper body, I did my best with the 50m fast reps.  The effort was there, the times were anything but fast.
+
+I got 3 of 5 of the main set in before the lane change over.  Straight to the restroom, straight back into the pool (25m).  I was not up for more hard efforts so I swam an easy 300 then an easy 200 and called it a day.
+
+I saw Batu on the way out, he confirmed that his workout on [Sunday](javascript:flick('sun');) that I was sharing the lane with was hard for him and his swim partner.
 
 <!---->
 ## WEDNESDAY APR 19
