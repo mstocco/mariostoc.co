@@ -92,8 +92,8 @@ I got 3 of 5 of the main set in before the lane change over.  Straight to the re
 I saw Batu on the way out, he confirmed that his workout on [Sunday](javascript:flick('sun');) that I was sharing the lane with was hard for him and his swim partner.
 
 <!---->
-## WEDNESDAY APR 19
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY APR 19 🌦
+Sleep **3** | Fatigue **4** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -105,9 +105,19 @@ Effort is just 'Steady uphill chugging" Aka: Stronger than a flat road spin, but
 Eat lots. Drink lots. Have fun.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **135 Minutes** Accent: **600m**
 
-&mdash;  
+Coin flip to decide the XC bike or the new TT Bike...  XC bike for the win.
+
+I headed up to the fire roads of _Thetis Park_ paying attention to the total ascent metric on the head unit.  I stayed off the single track initially, sticking with the goal of getting metres.
+
+Pacing the climb up _Scafe Hill Trail_ got me a PR on the Strava Segement _"Twin Peaks"_.  Just a few months ago, getting up this hill in one go was beyond my fitness.
+
+Back down to _Bellamy Trail_ then to the gate at _Davies Road_ in just under an hour with 420m of gain in the bank.  I looped back to the park via _Frank's Trail_.  I took a short venture off the fire road via _"Better Than The Road"_ and looked at _"Mostly Open"_ before the voice in my head reminded me that injuries are not my friend.
+
+Although I was dry, I certainly needed to put on the gilet for the trip off the hill; it is still cooler than it should be. 
+
+Solid ride and I am not feeling shattered like [Saturday](challenge2023-11weeksout?sat).
 
 <!---->
 ## THURSDAY APR 20
