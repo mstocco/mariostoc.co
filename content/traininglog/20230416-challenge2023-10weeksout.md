@@ -120,8 +120,8 @@ Although I was dry, I certainly needed to put on the gilet for the trip off the 
 Solid ride and I am not feeling shattered like [Saturday](challenge2023-11weeksout?sat).
 
 <!---->
-## THURSDAY APR 20
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY APR 20 ☁️
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
