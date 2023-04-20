@@ -30,7 +30,7 @@ Swim 3200:
 2x 50 super easy to cool down. 
 
 Trainer ~ 60 minutes. EASY spinning. 
-On one of the TT bikes would be great. Which one, is up to you.
+One of the TT bikes would be great, up to you.
 
 ### NOTES
 Total Time: **71 Minutes** &nbsp; Swim: **3200m**
@@ -48,9 +48,13 @@ I was left behind.
 To slot in, I would stop/start the activity on the watch so my 
 rest times were off too.  This felt like a race.
 
+Heartrate data accounted for the missing 200m.
+![Swim](/assets/jpg/swim-20230416.jpeg)
+
 ---
 
 Not much energy left for the trainer.
+
 
 <!---->
 ## MONDAY APR 17 🌧
@@ -138,19 +142,28 @@ Effort is just 'Steady uphill chugging" Aka: Stronger than a flat road spin, but
 Eat lots. Drink lots. Have fun.
 
 ### NOTES
-Total Time: **135 Minutes** Accent: **600m**
+Total Time: **135 Minutes** &nbsp; Accent: **676m**
 
 I headed up to the fire roads of _Thetis Park_ paying attention 
 to the total ascent metric on the head unit.  I stayed off the 
 single track initially, sticking with the goal of getting metres.
 <!----->
-Pacing the climb up _Scafe Hill Trail_ got me a PR on the Strava Segement _"Twin Peaks"_.  Just a few months ago, getting up this hill in one go was beyond my fitness.
+Pacing the climb up _Scafe Hill Trail_ got me a PR on the 
+Strava Segement _"Twin Peaks"_.  Just a few months ago, 
+getting up this hill in one go was beyond my fitness.
 
-Back down to _Bellamy Trail_ then to the gate at _Davies Road_ in just under an hour with 420m of gain in the bank.  I looped back to the park via _Frank's Trail_.  I took a short venture off the fire road via _"Better Than The Road"_ and looked at _"Mostly Open"_ before the voice in my head reminded me that injuries are not my friend.
+Back down to _Bellamy Trail_ then to the gate at _Davies Road_ 
+in just under an hour with 420m of gain in the bank.  I looped 
+back to the park via _Frank's Trail_.  I took a short venture 
+off the fire road via _"Better Than The Road"_ and looked at 
+_"Mostly Open"_ before the voice in my head reminded me that 
+injuries are not my friend.
 
-Although I was dry, I certainly needed to put on the gilet for the trip off the hill; it is still cooler than it should be. 
+Although I was dry, I certainly needed to put on the gilet for 
+the trip off the hill; it is still cooler than it should be. 
 
-Solid ride and I am feeling far more refreshed afterwards, unlike [last Saturday](challenge2023-11weeksout?sat).
+Solid ride and I am feeling far more refreshed afterwards, 
+unlike [last Saturday](challenge2023-11weeksout?sat).
 
 <!---->
 ## THURSDAY APR 20 ☁️
