@@ -1,4 +1,4 @@
-# CHALLENGE ROTH TRAINING - 2023
+u CHALLENGE ROTH TRAINING - 2023
 Week beginning [Sunday, April 16, 2023](javascript:flick('sun');)
 
 **10** weeks out from race day.
@@ -48,6 +48,10 @@ I was left behind.
 To slot in, I would stop/start the activity on the watch so my 
 rest times were off too.  This felt like a race.
 
+---
+
+Not much energy left for the trainer.
+
 <!---->
 ## MONDAY APR 17 🌧
 Sleep **4** | Fatigue **4** | Stress **3** | Soreness **5**
@@ -92,11 +96,10 @@ Mobility 22 minutes
 Total Time: **61 Minutes** &nbsp; Swim: **2700m**
 
 Weight over the past 5 days has trended in the wrong 
-direction, incrementing a little bit each day from 76.0 Kg 
-[last Friday](challenge2023-11weeksout?fri) to 77.6 this 
-morning.
+direction. It has incremented a little bit each day, 
+from 76.0 Kg late last week, to 77.6 this morning.
 
-This _"no running"_ injury is messing with my mood too.  
+This no running injury is messing with my mood.
 <!----->
 Or maybe its just the cold, wet weather.  Snow on the _Malahat_ 
 this morning.
@@ -117,9 +120,9 @@ Straight to the restroom, straight back into the pool (25m).
 I was not up for more hard efforts so I swam an easy 300 then 
 an easy 200 and called it a day.
 
-I saw Batu on the way out, he confirmed that his workout on 
-[Sunday](javascript:flick('sun');) that I was sharing the lane 
-with was hard for him and his swim partner.
+I saw Batu on the way out; he confirmed that his workout 
+[last Sunday](javascript:flick('sun');) (I shared the lane 
+with) was fast for him and his swim partner.
 
 <!---->
 ## WEDNESDAY APR 19 🌦
@@ -137,8 +140,6 @@ Eat lots. Drink lots. Have fun.
 ### NOTES
 Total Time: **135 Minutes** Accent: **600m**
 
-<!--Coin flip to decide the XC bike or the new TT Bike...  XC bike for the win.-->
-
 I headed up to the fire roads of _Thetis Park_ paying attention 
 to the total ascent metric on the head unit.  I stayed off the 
 single track initially, sticking with the goal of getting metres.
@@ -149,7 +150,7 @@ Back down to _Bellamy Trail_ then to the gate at _Davies Road_ in just under an 
 
 Although I was dry, I certainly needed to put on the gilet for the trip off the hill; it is still cooler than it should be. 
 
-Solid ride and I am not feeling shattered like [Saturday](challenge2023-11weeksout?sat).
+Solid ride and I am feeling far more refreshed afterwards, unlike [last Saturday](challenge2023-11weeksout?sat).
 
 <!---->
 ## THURSDAY APR 20 ☁️
