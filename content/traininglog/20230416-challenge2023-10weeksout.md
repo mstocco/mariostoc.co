@@ -166,7 +166,7 @@ Solid ride and I am feeling far more refreshed afterwards,
 unlike [last Saturday](challenge2023-11weeksout?sat).
 
 <!---->
-## THURSDAY APR 20 ☁️
+## THURSDAY APR 20 🌧
 Sleep **3** | Fatigue **3** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -182,13 +182,19 @@ Swim 3100:
 Mobility 16 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **70 Minutes** &nbsp; Swim: **3100m**
 
-&mdash;  
+Overall, I felt better in the pool today with a touch (slightly) more effort going into the kick.  I forgot the paddles and replaced with the fist drill.  
+
+Lane change fell just before the half way point of the workout and the lifeguards were not as quick as the last few weeks.  Regardless, I got the full distance in ending right as the lane reservations kicked in (4pm).
+
+Every 300m lane became progressively easier, feeling more connected with the act of swimming.  I was pretty happy with this time in the water.
+
+Weather was blustery; I drove to the pool.
 
 <!---->
-## FRIDAY APR 21
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY APR 21 🌧
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -199,7 +205,7 @@ Keep the effort EASY!
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+&mdash;
 
 <!---->
 ## SATURDAY APR 22
