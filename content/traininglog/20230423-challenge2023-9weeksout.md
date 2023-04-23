@@ -4,7 +4,7 @@ Week beginning [Sunday, April 23, 2023](javascript:flick('sun');)
 **9** weeks out from race day.
 
 ## WEEKLY GOAL
-&mdash;
+Swim, Bike and lets see what the doc says...
 
 ## SUMMARY
 Total Time: **0 Hours**
@@ -16,8 +16,8 @@ I feel like I was...
 
 ![](/assets/jpg/II-9x550.jpeg)
 
-## SUNDAY APR 23
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SUNDAY APR 23 🌦
+Sleep **3** | Fatigue **5** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -32,9 +32,13 @@ Swim 3200:
 Trainer ~ 60 minutes. EASY spinning.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Swim: **3200m** 
 
-&mdash;  
+All LCM today but recorded as 2 activities in Garmin because I hit a button on the watch by mistake.  The pool was a bit of a gong-shop today with a reduced amount of lanes (down to one double lane for the last 30 minutes).  
+
+Regardless, I swam at my own pace and spent a good amount of time working on the catch/pull with my non-dominant hand.
+
+I was stiff from the ride [yesterday](challenge2023-10weeksout?sat) but I left the pool feeling great this afternoon.
 
 <!---->
 ## MONDAY APR 24
