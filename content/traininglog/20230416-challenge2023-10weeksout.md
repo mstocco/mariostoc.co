@@ -231,7 +231,7 @@ Total Time: **325 Minutes** &nbsp; Ride: **102 km**
 I watched IM Texas through to the 30km mark of the women's race.  Finally a bit more texture to the rain clouds out west; time to pedal the bike.
 
 I focused on being strict with the effort for the ride out toward _Matheson Lake_.  An odd slight tailwind pushed me west and I felt like I was making better time compared to [last week](challenge2023-11weeksout?sat) because of it.
-
+<!----->
 Pee breaks were as plentiful as last week too, urges coming in pretty much the same points on the trail too.  Hooray for consistency. 
 
 Bottles had my [Lemonade Recipe](/blog/lemonade-recipe) mixed to a 100g ratio and I packed a bag of _Maynards Fuzzy Peach_ with me.  I thought I noticed the extra sugar in the first hour but no gut issues.
