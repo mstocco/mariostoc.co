@@ -187,7 +187,7 @@ Mobility 16 minutes
 ### NOTES
 Total Time: **70 Minutes** &nbsp; Swim: **3100m**
 
-Overall, I felt better in the pool today with a touch (slightly) more effort going into the kick.  I forgot the paddles and replaced with the fist drill.  
+I felt better in the pool today with a touch (slightly) more effort going into the kick.  I forgot the paddles and replaced with the fist drill.  
 
 Lane change fell just before the half way point of the workout and the lifeguards were not as quick as the last few weeks.  Regardless, I got the full distance in ending right as the lane reservations kicked in (4pm).
 
@@ -213,7 +213,7 @@ First venture out of the neighbourhood with the new TT Bike.  I brought a torque
 Jumped on the trainer for 30 minutes because I was home early.
 
 <!---->
-## SATURDAY APR 22
+## SATURDAY APR 22 🌧
 Sleep **4** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -238,6 +238,6 @@ Bottles had my [Lemonade Recipe](/blog/lemonade-recipe) mixed to a 100g ratio an
 
 2 Hours to the first (smaller) trestle heading up to [The Red Gate](javascript:flkty.select(2);).  From this point on the way back home, it took me 2 hours and 7 minutes.
 
-I had the same dull ache in my quads as last week except it came on a little later and a little less intense (to start).  By the time I crossed _Rocky Point Road_, I was getting wet, a little cold and the false flat effort coming up from _Matheson Lake_ really was the end game for the quads.
+I had the same dull ache in my quads as last week except it came on a little later and a little less intense (to start).  By the time I crossed _Rocky Point Road_, I was getting wet, a little cold and the false flat effort coming up from _Roche Cove_ really was the end game for the quads today.  According to Stava, there was a PR on that segment so maybe I misjudged my fitness. 
 
-Another solid ride (for me) in the books.
+Another **solid ride** (for me) to close off the calendar week.
