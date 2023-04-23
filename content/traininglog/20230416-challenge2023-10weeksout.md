@@ -1,4 +1,4 @@
-u CHALLENGE ROTH TRAINING - 2023
+CHALLENGE ROTH TRAINING - 2023
 Week beginning [Sunday, April 16, 2023](javascript:flick('sun');)
 
 **10** weeks out from race day.
@@ -7,14 +7,17 @@ Week beginning [Sunday, April 16, 2023](javascript:flick('sun');)
 Same as [last week](challenge2023-11weeksout), swim, bike, heal.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **14 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **RIDING BIKES**
 
-&mdash;
+Without the added stress of running, I am feeling like the bike fitness is starting to develop.
 
-![](/assets/jpg/II-9x550.jpeg)
+Despite still only using one leg at the wall, this might have been the first week that I started to feel a little more connected in the pool too.
+
+Velofix delivered my new TT Bike on [Monday](javascript:flick('mon');).  There are still a few things to sort on it, saddle, handlebar tape and aerobar tweaks.  About an hour on the road and I am feeling consciously competent with the full-synchro Di2 shifting on this bike.  
+
+![Northern terminus for the Galloping Goose Regional Trail](/assets/jpg/IMG_4789-977x550.jpeg The Red Gate)
 
 ## SUNDAY APR 16 🌦
 Sleep **3** | Fatigue **5** | Stress **2** | Soreness **4**
@@ -203,19 +206,38 @@ Ideally on the TT bike.
 Keep the effort EASY!
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Saddle Time: **~90 Minutes**
 
-&mdash;
+First venture out of the neighbourhood with the new TT Bike.  I brought a torque wrench with me and I did need to adjust the saddle once.  I am going to replace it with the Selle Italia Watt saddle on the old bike before the next outdoor ride. 
+
+Jumped on the trainer for 30 minutes because I was home early.
 
 <!---->
 ## SATURDAY APR 22
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **4** | Fatigue **3** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Long Ride on MTB. 
+Goal: 4 hours. Easy to steady pedaling. 
+Allowed: Making it to the Redgate. This may be over five hours of pedaling. That is ok, as long as you're having a good time, and the body is holding up. 
+Fuel early. Fuel often. 
+Hydrate as much as needed. 
+Dress to stay warm and dry.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **325 Minutes** &nbsp; Ride: **102 km**
 
-&mdash;  
+I watched IM Texas through to the 30km mark of the women's race.  Finally a bit more texture to the rain clouds out west; time to pedal the bike.
+
+I focused on being strict with the effort for the ride out toward _Matheson Lake_.  An odd slight tailwind pushed me west and I felt like I was making better time compared to [last week](challenge2023-11weeksout?sat) because of it.
+
+Pee breaks were as plentiful as last week too, urges coming in pretty much the same points on the trail too.  Hooray for consistency. 
+
+Bottles had my [Lemonade Recipe](/blog/lemonade-recipe) mixed to a 100g ratio and I packed a bag of _Maynards Fuzzy Peach_ with me.  I thought I noticed the extra sugar in the first hour but no gut issues.
+
+2 Hours to the first (smaller) trestle heading up to [The Red Gate](javascript:flkty.select(2);).  From this point on the way back home, it took me 2 hours and 7 minutes.
+
+I had the same dull ache in my quads as last week except it came on a little later and a little less intense (to start).  By the time I crossed _Rocky Point Road_, I was getting wet, a little cold and the false flat effort coming up from _Matheson Lake_ really was the end game for the quads.
+
+Another solid ride (for me) in the books.
