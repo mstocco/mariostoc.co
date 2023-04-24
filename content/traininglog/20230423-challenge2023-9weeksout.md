@@ -40,9 +40,11 @@ Regardless, I swam at my own pace and spent a good amount of time working on the
 
 I was stiff from the ride [yesterday](challenge2023-10weeksout?sat) but I left the pool feeling great this afternoon.
 
+40 minutes with the new TT Bike on the rollers after dinner.
+ 
 <!---->
-## MONDAY APR 24
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## MONDAY APR 24 🌤
+Sleep **2** | Fatigue **4** | Stress **3** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -51,9 +53,9 @@ Ideally on the TT bike. And outside.
 But the trainer works if you're short on time or the weather is bad.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Ride: **0 km**
 
-&mdash;  
+Good sleep last night but my quads are still a bit stiff from the [long ride](challenge2023-10weeksout?sat) two days ago.
 
 <!---->
 ## TUESDAY APR 25
