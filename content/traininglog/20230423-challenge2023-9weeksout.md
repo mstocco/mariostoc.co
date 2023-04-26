@@ -58,8 +58,8 @@ Total Time: **0 Minutes** &nbsp; Ride: **0 km**
 Good sleep last night but my quads are still a bit stiff from the [long ride](challenge2023-10weeksout?sat) two days ago.
 
 <!---->
-## TUESDAY APR 25
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY APR 25 🌤
+Sleep **4** | Fatigue **4** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -74,13 +74,19 @@ Swim 3000:
 Mobility 20 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **63 Minutes** &nbsp; Swim: **2900m**
 
-&mdash;  
+Got the swim in, minus the 100m cooldown, just before the lane change from 50 to 25m.  I didn't feel fresh to start and this was a _"just get it done"_ afternoon.
+
+The first 1000 in 19:40, the second with a touch more urgency in 19:29.  I expected this to have been faster but reality is what it is.
+
+Attempted the kickboard rep and I wasn't wholly confident with my right foot; no pain, just a little voice in my head.
+
+I slept from 1700 to 2030; best afternoon nap ever.
 
 <!---->
-## WEDNESDAY APR 26
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY APR 26 🌦
+Sleep **2** | Fatigue **4** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -92,10 +98,10 @@ Easy to steady effort. Trying to be as comfortable as possible.
 Inside option: 2:15 on Trainer. Riding the Roth course. 
 Chugging along. Covering ground. 
 
-Eat lots. Drink lots. Have fun.
+6Eat lots. Drink lots. Have fun.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Ride: **0 km**
 
 &mdash;  
 <!----->
