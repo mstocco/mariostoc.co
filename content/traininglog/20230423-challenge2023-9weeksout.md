@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![The new bike build is almost done.  Last few things would be trimming the aerobars, etc.](/assets/jpg/IMG_4794-977x550 ARGON 18 E-118Tri+)
+![The new bike build is almost done.  Last few things would be trimming the aerobars, etc.](/assets/jpg/IMG_4794-977x550.jpeg ARGON 18 E-118Tri+)
 
 ## SUNDAY APR 23 🌦
 Sleep **3** | Fatigue **5** | Stress **3** | Soreness **4**
@@ -32,16 +32,17 @@ Swim 3200:
 Trainer ~ 60 minutes. EASY spinning.
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Swim: **3200m** 
+Total Time: **114 Minutes** &nbsp; Swim: **3200m** 
 
 All LCM today but recorded as 2 activities in Garmin because I hit a button on the watch by mistake.  The pool was a bit of a gong-shop today with a reduced amount of lanes (down to one double lane for the last 30 minutes).  
 
 Regardless, I swam at my own pace and spent a good amount of time working on the catch/pull with my non-dominant hand.
-
+<!----->
 I was stiff from the ride [yesterday](challenge2023-10weeksout?sat) but I left the pool feeling great this afternoon.
 
 40 minutes with the new TT Bike on the rollers after dinner.
- 
+![](/assets/jpg/image.jpeg)
+
 <!---->
 ## MONDAY APR 24 🌤
 Sleep **2** | Fatigue **4** | Stress **3** | Soreness **5**
@@ -53,9 +54,13 @@ Ideally on the TT bike. And outside.
 But the trainer works if you're short on time or the weather is bad.
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Ride: **0 km**
+Total Time: **73 Minutes** &nbsp; Ride: **29 km**
 
 Good sleep last night but my quads are still a bit stiff from the [long ride](challenge2023-10weeksout?sat) two days ago.
+
+Outside on the [new TT Bike](javascript:flkty.select(2);) for a counterclockwise trip around the waterfront.
+
+![](/assets/jpg/image.jpeg)
 
 <!---->
 ## TUESDAY APR 25 🌤
@@ -70,8 +75,6 @@ Swim 3000:
 2x 1000 continuous as 200 aerobic/smooth/50 @ 1500 effort. R 2:30 after each. 
 100 steady kick. Kicking test. 
 100 extra easy to cool down.
-
-Mobility 20 minutes
 
 ### NOTES
 Total Time: **63 Minutes** &nbsp; Swim: **2900m**
@@ -109,7 +112,7 @@ It was wet this morning and to calm myself before going to the hospital, I rode 
 <!----->
 ### Questions for the Doctor
  
-1. In the healing process, What stage is the bone at?  No stage specified (asked once directly, once indirectly).  Foot was tested to be stable in both lateral directions.
+1. In the healing process, What stage is the bone at?  <span style="color:cornflowerblue;">No stage specified (asked once directly, once indirectly).  Foot was tested to be stable in both lateral directions.</span>
 2. Are you cleared to have the boot off at all times? If so, what shows you're ready for that? If not, what shows you need more time?  Yes, the boot is no longer required.
 3. Are you allowed to do "purposeful walking"? Aka-Walk 30-90 minutes, for exercise.  Yes.  Start with 5 minutes and pain is to be my guide.
 4. Are you allowed to do purposeful running, or run/walking"? Remind them you run regularly, and exercise regularly. If you are NOT allowed, why, and how soon do they think you will be allowed?  I am cleared for a slow ramp to full activites. 
