@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![The new bike build is almost done.  Last few things would be trimming the aerobars, etc.](/assets/jpg/IMG_4794-977x550 ARGON 18 E-118Tri+)
 
 ## SUNDAY APR 23 🌦
 Sleep **3** | Fatigue **5** | Stress **3** | Soreness **4**
@@ -98,22 +98,27 @@ Easy to steady effort. Trying to be as comfortable as possible.
 Inside option: 2:15 on Trainer. Riding the Roth course. 
 Chugging along. Covering ground. 
 
-6Eat lots. Drink lots. Have fun.
+Eat lots. Drink lots. Have fun.
 
 ### NOTES
 Total Time: **0 Minutes** &nbsp; Ride: **0 km**
 
-&mdash;  
+It was wet this morning and to calm myself before going to the hospital, I rode the Roth course (including the hill up _Greding_) for 75 minutes.  Legs felt pretty good.
+
+
 <!----->
 ### Questions for the Doctor
  
-1. In the healing process, What stage is the bone at? 
-2. Are you cleared to have the boot off at all times? If so, what shows you're ready for that? If not, what shows you need more time? 
-3. Are you allowed to do "purposeful walking"? Aka-Walk 30-90 minutes, for exercise. 
-4. Are you allowed to do purposeful running, or run/walking"? Remind them you run regularly, and exercise regularly. If you are NOT allowed, why, and how soon do they think you will be allowed? 
-5. Are there any activities to avoid at this point? 
-6. Do they recommend you going to a physio? If yes, why? If no, why?
+1. In the healing process, What stage is the bone at?  No stage specified (asked once directly, once indirectly).  Foot was tested to be stable in both lateral directions.
+2. Are you cleared to have the boot off at all times? If so, what shows you're ready for that? If not, what shows you need more time?  Yes, the boot is no longer required.
+3. Are you allowed to do "purposeful walking"? Aka-Walk 30-90 minutes, for exercise.  Yes.  Start with 5 minutes and pain is to be my guide.
+4. Are you allowed to do purposeful running, or run/walking"? Remind them you run regularly, and exercise regularly. If you are NOT allowed, why, and how soon do they think you will be allowed?  I am cleared for a slow ramp to full activites. 
+5. Are there any activities to avoid at this point? No ladders or activities without the rigidity of a shoe (not specific to carbon shoes).
+6. Do they recommend you going to a physio? If yes, why? If no, why?  No physio needed.
 
+
+<!----->
+![X-Ray](/assets/jpg/xray-20230426.jpeg)
 <!---->
 ## THURSDAY APR 27
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
