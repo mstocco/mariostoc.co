@@ -104,27 +104,25 @@ Chugging along. Covering ground.
 Eat lots. Drink lots. Have fun.
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Ride: **0 km**
+Total Ride Times: **195 Minutes** &nbsp; Outside: **53 km**
 
-It was wet this morning and to calm myself before going to the hospital, I rode the Roth course (including the hill up _Greding_) for 75 minutes.  Legs felt pretty good.
-
+It was wet this morning and to calm myself before going to the hospital, I rode the Roth course (including the hill up _Greding_) for 75 minutes.  Legs felt pretty good.  I couldn't get this activity imported into Garmin.
 
 <!----->
 ### Questions for the Doctor
  
-1. The healing process, What stage is the bone at?<br /><span style="color:cornflowerblue;">No stage specified (asked once directly, once indirectly).  Foot was tested to be stable in both lateral directions.</span>
+1. What stage is the bone at?<br /><span style="color:cornflowerblue;">No stage specified (asked once directly, once indirectly).  Foot was tested to be stable in both lateral directions.</span>
 2. Are you cleared to have the boot off at all times? If so, what shows you're ready for that? If not, what shows you need more time?<br /><span style="color:cornflowerblue;">Yes, the boot is no longer required.</span>
-3. Are you allowed to do "purposeful walking"? Aka-Walk 30-90 minutes, for exercise.<br /><span style="color:cornflowerblue;">Yes.  Start with 5 minutes and pain is to be my guide.</span>
+3. Are you allowed to do "purposeful walking"? Aka-Walk 30-90 minutes, for exercise.<br /><span style="color:cornflowerblue;">Yes.  Start with 5 minutes, then 10 and pain is to be my guide.</span>
 4. Are you allowed to do purposeful running, or run/walking"? Remind them you run regularly, and exercise regularly. If you are NOT allowed, why, and how soon do they think you will be allowed?<br /><span style="color:cornflowerblue;">I am cleared for a slow ramp to full activities.</span>
-5. Are there any activities to avoid at this point?<span style="color:cornflowerblue;">No ladders or activities without the rigidity of a shoe (not specific to carbon shoes).</span>
-6. Do they recommend you going to a physio? If yes, why? If no, why?<span style="color:cornflowerblue;">No physio needed.</span>
-
+5. Are there any activities to avoid at this point? <span style="color:cornflowerblue;">No ladders or activities without the rigidity of a shoe (not specific to carbon shoes).</span>
+6. Do they recommend you going to a physio? If yes, why? If no, why? <span style="color:cornflowerblue;">No physio needed.</span>
 
 <!----->
 ![X-Ray](/assets/jpg/xray-20230426.jpeg)
 <!---->
-## THURSDAY APR 27
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY APR 27 ☀️
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
