@@ -120,6 +120,15 @@ It was wet this morning and to calm myself before going to the hospital, I rode 
 
 <!----->
 ![X-Ray](/assets/jpg/xray-20230426.jpeg)
+<!----->
+#### LATE AFTERNOON RIDE
+
+I took the new TT Bike for a spin up to _Tulista Park_ in _Sidney_.  No particular pace or effort, just having fun and riding as much as I could in the aerobars.
+
+There was a few times when I was on it a bit.  The long stretch south of _Cy Hampton Park_ I tried to reel in a guy on an e-bike;  sadly he turned off on a side street before I caught him.  Then there was a young guy on a gravel bike that felt the need to wheel suck.  I tucked in and dropped him.
+
+My left QL is going to need some addressing as I ride in aero more.
+
 <!---->
 ## THURSDAY APR 27 ☀️
 Sleep **3** | Fatigue **3** | Stress **4** | Soreness **4**
