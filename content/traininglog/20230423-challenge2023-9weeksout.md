@@ -34,11 +34,16 @@ Trainer ~ 60 minutes. EASY spinning.
 ### NOTES
 Total Time: **114 Minutes** &nbsp; Swim: **3200m** 
 
-All LCM today but recorded as 2 activities in Garmin because I hit a button on the watch by mistake.  The pool was a bit of a gong-shop today with a reduced amount of lanes (down to one double lane for the last 30 minutes).  
+All LCM today but recorded as 2 activities in Garmin because I 
+hit a button on the watch by mistake.  The pool was a bit of a 
+gong-shop today with a reduced amount of lanes (down to one 
+double lane for the last 30 minutes).  
 
-Regardless, I swam at my own pace and spent a good amount of time working on the catch/pull with my non-dominant hand.
+Regardless, I swam at my own pace and spent a good amount of 
+time working on the catch/pull with my non-dominant hand.
 <!----->
-I was stiff from the ride [yesterday](challenge2023-10weeksout?sat) but I left the pool feeling great this afternoon.
+I was stiff from the ride [yesterday](challenge2023-10weeksout?sat) 
+but I left the pool feeling great this afternoon.
 
 40 minutes with the new TT Bike on the rollers after dinner.
 ![](/assets/jpg/image.jpeg)
@@ -56,9 +61,11 @@ But the trainer works if you're short on time or the weather is bad.
 ### NOTES
 Total Time: **73 Minutes** &nbsp; Ride: **29 km**
 
-Good sleep last night but my quads are still a bit stiff from the [long ride](challenge2023-10weeksout?sat) two days ago.
+Good sleep last night but my quads are still a bit stiff from 
+the [long ride](challenge2023-10weeksout?sat) two days ago.
 
-Outside on the [new TT Bike](javascript:flkty.select(2);) for a counterclockwise trip around the waterfront.
+Outside on the [new TT Bike](javascript:flkty.select(2);) for 
+a counterclockwise trip around the waterfront.
 
 ![](/assets/jpg/image.jpeg)
 
@@ -79,11 +86,16 @@ Swim 3000:
 ### NOTES
 Total Time: **63 Minutes** &nbsp; Swim: **2900m**
 
-Got the swim in, minus the 100m cooldown, just before the lane change from 50 to 25m.  I didn't feel fresh to start and this was a _"just get it done"_ afternoon.
+Got the swim in, minus the 100m cooldown, just before the lane 
+change from 50 to 25m.  I didn't feel fresh to start and this 
+was a _"just get it done"_ afternoon.
 
-The first 1000 in 19:40, the second with a touch more urgency in 19:29.  I expected this to have been faster but reality is what it is.
+The first 1000 in 19:40, the second with a touch more urgency 
+in 19:29.  I expected this to have been faster but reality is 
+what it is.
 
-Attempted the kickboard rep and I wasn't wholly confident with my right foot; no pain, just a little voice in my head.
+Attempted the kickboard rep and I wasn't wholly confident with 
+my right foot; no pain, just a little voice in my head.
 
 I slept from 1700 to 2030; best afternoon nap ever.
 
@@ -95,8 +107,9 @@ Sleep **2** | Fatigue **4** | Stress **4** | Soreness **4**
 ### PLANNED WORKOUT
 Pre-Ride: Dead bugs, breathing, Glute Bridges
 Long Ride on a week day.
-Ideal: Ride 2:15-2:30 on TT bike. Heading up the Penisula, or around the waterfront, and then up the Peninsula. 
-Easy to steady effort. Trying to be as comfortable as possible. 
+Ideal: Ride 2:15-2:30 on TT bike. Heading up the Penisula, or 
+around the waterfront, and then up the Peninsula. Easy to 
+steady effort. Trying to be as comfortable as possible. 
 
 Inside option: 2:15 on Trainer. Riding the Roth course. 
 Chugging along. Covering ground. 
@@ -106,7 +119,10 @@ Eat lots. Drink lots. Have fun.
 ### NOTES
 Total Ride Times: **195 Minutes** &nbsp; Outside: **53 km**
 
-It was wet this morning and to calm myself before going to the hospital, I rode the Roth course (including the hill up _Greding_) for 75 minutes.  Legs felt pretty good.  I couldn't get this activity imported into Garmin.
+It was wet this morning and to calm myself before going to the 
+hospital, I rode the Roth course (including the hill up 
+_Greding_) for 75 minutes.  Legs felt pretty good.  I couldn't 
+get this activity imported into _Garmin Connect_.
 
 <!----->
 ### Questions for the Doctor
@@ -123,11 +139,19 @@ It was wet this morning and to calm myself before going to the hospital, I rode 
 <!----->
 #### LATE AFTERNOON RIDE
 
-I took the new TT Bike for a spin up to _Tulista Park_ in _Sidney_.  No particular pace or effort, just having fun and riding as much as I could in the aerobars.
+I took the new TT Bike for a spin up to _Tulista Park_ in 
+_Sidney_.  No particular pace or effort, just having fun and 
+riding as much as I could in the aerobars.
 
-There was a few times when I was on it a bit.  The long stretch south of _Cy Hampton Park_ I tried to reel in a guy on an e-bike;  sadly he turned off on a side street before I caught him.  Then there was a young guy on a gravel bike that felt the need to wheel suck.  I tucked in and dropped him.
+There was a few times when I was on it a bit.  The long 
+stretch south of _Cy Hampton Park_ I tried to reel in a guy on 
+an e-bike;  sadly he turned off on a side street before I 
+caught him.  Then there was a young guy on a gravel bike that 
+felt the need to wheel suck.  I tucked in and dropped him.
 
-My left QL is going to need some addressing as I ride in aero more.
+My left QL is going to need some addressing as I ride in aero 
+more; it had moments of stiffness north of _Mt Newton X-Road_ 
+and on the way back.
 
 <!---->
 ## THURSDAY APR 27 ☀️
@@ -142,15 +166,19 @@ Swim 2700:
 4x 50 gradual build easy to strong. R :20.
 100 steady kick. 
 100 EASY. 
-2 rounds (11x 50 Strong/Fast/Focused. R :20 after each. 150 SUPER easy. Rest 1:00++ after the 150. Just make sure you're recovered and ready to go again) 
-100 Super easy swimming to cool down.
+2 rounds (11x 50 Strong/Fast/Focused. R :20 after each. 150 
+SUPER easy. Rest 1:00++ after the 150. Just make sure you're 
+recovered and ready to go again) 100 Super easy swimming to 
+cool down.
+
+WALK 10 minutes
 
 Mobility 17 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Swim: **0m**
 
-&mdash;  
+The QL is on the tight side this morning.
 
 <!---->
 ## FRIDAY APR 28
@@ -158,14 +186,17 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Ride 90 minutes. Flat to rolling route.
-On the TT bike.
-Another ride on the TT bike. Getting comfortable with it. 
+Pre-Ride: Dead bugs, Breathing, Glute Bridges, 30 second side planks, 30-:60 front planks.
+
+Ride 90 minutes. Flat to rolling route.  On the TT bike. 
+Another ride on the TT bike. Getting comfortable with it.
+
+WALK 10 minutes
 
 Mobility 13 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Ride: **0 km**
 
 &mdash;  
 
@@ -175,9 +206,15 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Pre-Ride: Dead bugs, Glute Bridges.   
+Ride 4:00 on TT bike. 
+Flat to rolling terrain. (Whatever parts of the pennisula you like) 
+In the bars as much as is comfortable. 
+Easy to steady effort. Covering ground! 
+
+WALK 20 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Ride: **0 km**
 
 &mdash;  
