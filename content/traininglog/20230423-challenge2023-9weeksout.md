@@ -180,9 +180,23 @@ Total Time: **0 Minutes** &nbsp; Swim: **0m**
 
 The QL is on the tight side this morning.
 
+With word from the doctor, I took to the water adding a bit more emphasis on kicking.  I pretty much had a full 50m lane all to myself through to the end of the first 11x50, 150m set.  After the lane change, I added 50m of kickboard before completing the workout.
+
+The was a better day effort/focus wise in the pool today.
+
+I took a walk from the pool to _Royal Athletic Park_ and saw what looked like a practice day for the _Victoria Harbourcats_.  Zero issue with the walk.
+
+### BOOM!
+
+Earlier in the day, I lent our extension  ladder to our neighbour.  Just after 20:00, I noticed that it was still leaning against her house, out in the open.  I put on my shoes and walked the ladder back into our garage so it would still be around the next day.  On my way back to the house, I noticed some weeds that could be pulled and in doing so, my lower back went into spasm.
+
+If it wasn't for bad luck, it feels like I would have no luck at all.
+
+😡
+
 <!---->
-## FRIDAY APR 28
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY APR 28 ☀️
+Sleep **3** | Fatigue **3** |<mark> Stress **6** | Soreness **6** </mark>
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -198,7 +212,7 @@ Mobility 13 minutes
 ### NOTES
 Total Time: **0 Minutes** &nbsp; Ride: **0 km**
 
-&mdash;  
+The back is lit up.  I was able to sleep through the night, no issue, no Advil but Advil is definitely on the menu today.
 
 <!---->
 ## SATURDAY APR 29
