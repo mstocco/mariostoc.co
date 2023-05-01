@@ -4,7 +4,8 @@ Week beginning [Sunday, April 30, 2023](javascript:flick('sun');)
 **8** weeks out from race day.
 
 ## WEEKLY GOAL
-&mdash;
+Heal a foot and an angry sacrum.  Breath and trust that I can do this.  
+Time = Pressure
 
 ## SUMMARY
 Total Time: **0 Hours**
@@ -16,8 +17,8 @@ I feel like I was...
 
 ![](/assets/jpg/II-9x550.jpeg)
 
-## SUNDAY APR 30
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SUNDAY APR 30 ⛅️
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -39,13 +40,24 @@ WALK 20 minutes
 Mobility 30 minutes 
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Swim: **3200m**
 
-&mdash;  
+Back is a bit more stiff upon waking.   Probably the 40 minutes on the trainer last night didn't help.
+
+I spent the morning cheer on Carina as she completed the TC10K.  I walked point to point accumulating > 11,000 steps in doing so.
+
+In the pool, I mis-entered the workout, and I missed the 2x50 SF w/Paddes and a 100m.  100m w/best form yielded a 1:42 with minimal, single leg push off the wall and I felt like that was a good representation of me today.  The ladder up to 400m and then back down was completed almost as written; there was a dude that was watching from the pool deck, jumped into my lane and pushed off doing _"froggy kick"_ right in front of me.  I was at 200m of one of the 400m sets when he did it.  I jumped into the other lane and upped my effort to match a young guy's speed (well about my 1/2 IM pace).
+
+Eventually, I moved myself but into the lane that I started in and swam the last bit at my intended pace.
+
+
+
+
+End of the day...
 
 <!---->
-## MONDAY MAY 1
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## MONDAY MAY 1 ⛅️
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -61,7 +73,7 @@ WALK 30 minutes.
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Back (sacrum) is stiff again this morning.
 
 <!---->
 ## TUESDAY MAY 2
