@@ -71,13 +71,16 @@ minutes at Thetis, do it!
 WALK 30 minutes.
 
 ### NOTES
-Total Time: **0 Minutes**
+Walk Time: **28 Minutes** 
 
-Back (sacrum) is stiff again this morning.
+Back (sacrum) is stiff again this morning and consequently, skipped the MTB ride.  I rode the rollers for about 10 minutes as a new saddle arrived (and installed).
+
+I did go for the purposeful walk.  The navicular joint and the flexor hallucis longus (FHL) on the right foot were getting tired as I got close to home.
+
 
 <!---->
-## TUESDAY MAY 2
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY MAY 2 🌤
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **5**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -96,9 +99,9 @@ WALK 30 minutes.
 Mobility 21 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Swim: **0m**
 
-&mdash;  
+Upon waking, my sacrum was moderately stiff; getting better but not great.
 
 <!---->
 ## WEDNESDAY MAY 3
