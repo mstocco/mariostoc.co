@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![Late season daffodils above the Viaduct Marsh.](/assets/jpg/IMG_4830-977x550.jpeg Glendale Trail)
 
 ## SUNDAY MAY 7 🌦
 Sleep **3** | Fatigue **5** | Stress **4** | Soreness **5**
