@@ -8,14 +8,13 @@ Heal a foot and an angry sacrum.  Breath and trust that I can do this.
 Time = Pressure
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **14 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **IN A BATTLE** <small>w/ myself</small>
 
-&mdash;
+Work had me on a training course Monday through Wednesday and it made the schedule predictable through a bit crammed to start the week.  Pressure is mounting inside my head with the wedding and Challenge Roth getting ever closer.  My sore sacrum is proof evident of that pressure.
 
-![](/assets/jpg/II-9x550.jpeg)
+![With a descent tailwind, I flew up to Sidney on Saturday.](/assets/jpg/IMG_4829-977x550.jpeg Canadair CL-13A Sabre 5)
 
 ## SUNDAY APR 30 ⛅️
 Sleep **3** | Fatigue **3** | Stress **4** | Soreness **5**

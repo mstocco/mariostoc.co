@@ -38,7 +38,7 @@ MTB ~ 80 minutes.
 Cruising on whatever kind of dirt sounds entertaining to you!
 
 ### NOTES
-Total Time: **0 Mins** &nbsp;Swim: **3500m** &nbsp;Ride: **20 km**
+Total Time: **160 Mins** &nbsp;Swim: **3500m** &nbsp;Ride: **26 km**
 
 After pancakes for breakfast and some household chores, I looked at the clock and thought that it would be a waste to wait for the lanes at _Crystal Pool_ to open up when there are lanes advertised at _Commonwealth Pool_.  I jumped on the mountain bike and took a gravel route up to _Royal Oak_.
 
@@ -54,9 +54,9 @@ The activity recorded on the watch did not include the 100m kick set.  I did com
 
 Back on the bike for the long way home, I headed up to the north end of _Elk Lake_ on the multi-use trail.
 
-A very large rottweiler wanted to attack me on my bike; it took all the strength of its owner to hold it back with a thick leather leash.  Why do people own animals like that?  This was not the entertainment I was looking for when starting on this route.
+A very large Rottweiler wanted to attack me on my bike; it took all the strength of its owner to hold it back with a thick leather leash.  Why do people own animals like that?  This was not the entertainment I was looking for when starting on this route.
 
-The energy I had in the pool did not translate into energy in my legs; the ride [yesterday](challenge2023-8weeksout?sat) looked after that.  I just pedalled as comfortably as I could to _Sparton Road_, taking the _Centennial Trail_ back to town.
+The energy I had in the pool did not translate into energy in my legs; the ride [yesterday](challenge2023-8weeksout?sat) looked after that.  I just pedalled as comfortably as I could to _Spartan Road_, taking the _Centennial Trail_ back to town.
 
 Solid afternoon but the top of my right foot is noticeably sore tonight.  I hope I didn't over do it today...
 
@@ -75,9 +75,13 @@ Run/Walk 60 minutes:
 Stretching 25 minutes
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Walk/Run: **0 km**
+Total Time: **53 Minutes** &nbsp; Walk/Run: **5.8 km**
 
-&mdash;  
+Foot was sore this morning, still sore in the afternoon and I chalked it up, or pretended it was just nerves seeing the work run on the calendar.
+
+After 20 minutes of walking, I took my first crack at a jog.  The foot was sore after about 10 steps and after I few more, I resigned to walking the balance of that minute.  I tried again and got to the end of the minute the second time.  There is not much strength in that foot and I figured that as long as I am running with my glutes and not pushing hard with the foot, I could make this activity work.
+
+Foot is stiff before going to bed.
 
 <!---->
 ## TUESDAY MAY 9
