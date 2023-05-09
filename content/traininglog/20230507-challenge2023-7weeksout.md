@@ -81,7 +81,9 @@ Total Time: **53 Minutes** &nbsp; Walk/Run: **5.8 km**
 
 Foot was sore this morning, still sore in the afternoon and I chalked it up, or pretended it was just nerves seeing the work run on the calendar.
 
-After 20 minutes of walking, I took my first crack at a jog.  The foot was sore after about 10 steps and after I few more, I resigned to walking the balance of that minute.  I tried again and got to the end of the minute the second time.  There is not much strength in that foot and I figured that as long as I am running with my glutes and not pushing hard with the foot, I could make this activity work.
+After 20 minutes of walking, I took my first attempt at at an easy jog.  The foot was sore after about 10 steps and after I few more, I resigned to walking the balance of that minute.
+<!----->
+I tried again when the watched beeped for rep #2 and and uncomfortably, I made it to the end of the minute.  There is not much strength in that foot and I figured that as long as I am running with my glutes and not pushing hard with the foot, I could make this activity work.
 
 Foot is stiff before going to bed.
 
