@@ -51,7 +51,7 @@ There was a father that led his 2 young daughters that couldn't swim into the la
 Apart from that, I might have had my best swim of this spring/winter; certainly it was the longest pool swim I've ever done.  Effort was good, focus was good, I had a young guy in the lane beside me that pushed me just enough.  During the second 12x100m set, I was faster without the buoy as the model I used slipped and took more to hold square between my adductors.
 
 Last cooldown lengths were relaxed and as fast as any length I'd done all day.  I felt like I could have done another 1000.
-
+<!----->
 The activity recorded on the watch did not include the 100m kick set.  I did complete this before the cool down reps.
 
 Back on the bike for the long way home, I headed up to the north end of _Elk Lake_ on the multi-use trail.
