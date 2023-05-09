@@ -85,6 +85,8 @@ After 20 minutes of walking, I took my first attempt at at an easy jog.  The foo
 <!----->
 I tried again when the watched beeped for rep #2 and and uncomfortably, I made it to the end of the minute.  There is not much strength in that foot and I figured that as long as I am running with my glutes and not pushing hard with the foot, I could make this activity work.
 
+![Walk](/assets/jpg/walkrun-20230508.jpeg)
+
 Foot is stiff before going to bed.
 
 <!---->
