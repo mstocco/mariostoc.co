@@ -40,7 +40,9 @@ Cruising on whatever kind of dirt sounds entertaining to you!
 ### NOTES
 Total Time: **160 Mins** &nbsp;Swim: **3500m** &nbsp;Ride: **26 km**
 
-After pancakes for breakfast and some household chores, I looked at the clock and thought that it would be a waste to wait for the lanes at _Crystal Pool_ to open up when there are lanes advertised at _Commonwealth Pool_.  I jumped on the mountain bike and took a gravel route up to _Royal Oak_.
+After pancakes for breakfast and some household chores, I looked at the clock and thought that it would be a waste to wait for the lanes at _Crystal Pool_ to open up when there are lanes advertised at _Commonwealth Pool_.
+<!----->
+I jumped on the mountain bike and took a gravel route up to _Royal Oak_.
 
 I indeed had a 25m lane mostly to myself this afternoon.  So awesome!
 
@@ -84,8 +86,8 @@ After 20 minutes of walking, I took my first crack at a jog.  The foot was sore 
 Foot is stiff before going to bed.
 
 <!---->
-## TUESDAY MAY 9
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY MAY 9 ⛅️
+Sleep **4** | Fatigue **4** | Stress **5** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -103,7 +105,7 @@ Swim 2500:
 ### NOTES
 Total Time: **0 Mins** &nbsp; Walk: **0 km** &nbsp; Swim: **0m**
 
-&mdash;  
+Foot is sore this morning, but not any more sore that any other recent morning.  That is the good news.
 
 <!---->
 ## WEDNESDAY MAY 10
