@@ -107,14 +107,18 @@ Swim 2500:
 100 extra easy to cool down.
 
 ### NOTES
-Total Time: **0 Mins** &nbsp; Walk: **0 km** &nbsp; Swim: **0m**
+Total Time: **85 Mins** &nbsp;Walk: **2.7 km** &nbsp;Swim: **2500m**
 
 Foot is sore this morning, but not any more sore that any other recent morning.  That is the good news.
+
+During the walk, I had a twinge on the top of my foot after 19 minutes, medial calcaneus twinge at 25 minutes, both cleared some what quickly.
+
+Oddly, the cuboid on my LEFT cuboid was sore in the pool this afternoon.  I couldn't tell you what or where a cuboid is six weeks ago.  Regardless, I swam well (for me) for a second session in a row.  I am feeling a bit more balanced, maybe a bit more like my old self.
 
 <!---->
 ## WEDNESDAY MAY 10
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
-<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
+<sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup> 
 
 ### PLANNED WORKOUT
 Walk ~ 30 minutes. 
