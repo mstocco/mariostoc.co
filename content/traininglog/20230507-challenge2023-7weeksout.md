@@ -113,9 +113,11 @@ Foot is sore this morning, but not any more sore that any other recent morning. 
 
 During the walk, I had a twinge on the top of my foot after 19 minutes, medial calcaneus twinge at 25 minutes, both cleared some what quickly.
 <!----->
-Oddly, the cuboid on my LEFT cuboid was sore in the pool this afternoon.  I couldn't tell you what or where a cuboid is six weeks ago.  Regardless, I swam well (for me) for a second session in a row.  I am feeling more balanced in the water, maybe a bit more like my old self.
+Oddly, the cuboid on my LEFT foot was sore in the pool this afternoon.  I couldn't tell you where or what a cuboid is six weeks ago.  Regardless, I swam well (for me) for a second session in a row.  I am feeling more balanced in the water, maybe a bit more like my old self.
 
 ![Swim](/assets/jpg/swim-20230509.jpeg)
+
+![Walk](/assets/jpg/image.jpeg)
 
 <!---->
 ## WEDNESDAY MAY 10
