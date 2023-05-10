@@ -113,15 +113,15 @@ Foot is sore this morning, but not any more sore that any other recent morning. 
 
 During the walk, I had a twinge on the top of my foot after 19 minutes, medial calcaneus twinge at 25 minutes, both cleared some what quickly.
 <!----->
+![Walk](/assets/jpg/walk-20230509.jpeg)
+
 Oddly, the cuboid on my LEFT foot was sore in the pool this afternoon.  I couldn't tell you where or what a cuboid is six weeks ago.  Regardless, I swam well (for me) for a second session in a row.  I am feeling more balanced in the water, maybe a bit more like my old self.
 
 ![Swim](/assets/jpg/swim-20230509.jpeg)
 
-![Walk](/assets/jpg/image.jpeg)
-
 <!---->
-## WEDNESDAY MAY 10
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY MAY 10 ☀️
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup> 
 
 ### PLANNED WORKOUT
@@ -135,14 +135,13 @@ Easy spin out to Willis Point.
 Effort is around 60 minute climbing pace. 
 Certainly focused, but also, not dying at the end of each rep. 
 Easy spin down for recover. 
-
 Ride a flat/rolling route to get in your miles after this. 
 Eat and drink early and often​
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Ride: **0 km**
 
-&mdash;  
+Right foot feels okay this morning.
 
 <!---->
 ## THURSDAY MAY 11
