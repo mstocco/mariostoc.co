@@ -141,9 +141,11 @@ Eat and drink early and often​
 ### NOTES
 Total Time: **75 Minutes** &nbsp; Ride: **28 km**
 
-It's still not 100% but my right foot feels okay this morning.
+It's still not 100% but my right foot feels okay this morning.  The weakness is in the ankle joint (both sides) and not local where the break in the cuboid happened.
+<!----->
+Not the ride as written as I was short of time this afternoon but I did get to the top of _Langvista Drive_ 3 times.  That hill for me today was about 5&frac12; minutes, on a pretty consistent 12% grade, to the top; not the same as _Willis Point Road_.  Still, I pedalled away feeling like I could have done one more.  Last summer, I couldn't make it to the top once.
 
-Not the ride as written as I was short of time this afternoon but I did get to the top of _Langvista Drive_ 3 times.  < 6 minutes to the top at a consistent 12% grade is not the same as _Willis Point Road_.  Still, I pedalled away feeling like I could have done one more.  Last summer, I couldn't make it to the top once.
+I needed to pick up Carina at the airport but still, I felt guilty that I didn't ride the full 2&frac12; hours.
 
 <!---->
 ## THURSDAY MAY 11 ☀️
