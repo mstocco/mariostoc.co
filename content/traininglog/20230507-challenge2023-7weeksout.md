@@ -139,13 +139,15 @@ Ride a flat/rolling route to get in your miles after this.
 Eat and drink early and often​
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Ride: **0 km**
+Total Time: **75 Minutes** &nbsp; Ride: **28 km**
 
-Right foot feels okay this morning.
+It's still not 100% but my right foot feels okay this morning.
+
+Not the ride as written as I was short of time this afternoon but I did get to the top of _Langvista Drive_ 3 times.  < 6 minutes to the top at a consistent 12% grade is not the same as _Willis Point Road_.  Still, I pedalled away feeling like I could have done one more.  Last summer, I couldn't make it to the top once.
 
 <!---->
-## THURSDAY MAY 11
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY MAY 11 ☀️
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -167,7 +169,7 @@ Run/Walk 60 minutes:
 20 minutes walking to finish up.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** 
 
 &mdash;  
 
