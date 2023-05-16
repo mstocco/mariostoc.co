@@ -7,12 +7,15 @@ Week beginning [Sunday, May 7, 2023](javascript:flick('sun');)
 Avoid the mad dash to the finish (walk before run)
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **15&frac14; Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **GETTING BUSY**
 
-&mdash;
+More time on the TT Bike and I am getting more comfortable with the new format.  There is more work to do though.  Full-synchro Di2 shift point going down the cassette is spot on but I haven't dialled it in the opposite direction.  I think I am getting pretty dialled with the arm pad position too.  Hard lesson in the difference between a valve extension and tube extender learned.
+
+In the pool, I felt like I am becoming a little more proprioceptive and I think I have something to work with to develop a better breathing stroke.  Open water is not far away now.
+
+My right foot is healing slowly.  I have to believe that patience is going to pay off.
 
 ![Late season daffodils above the Viaduct Marsh.](/assets/jpg/IMG_4830-977x550.jpeg Glendale Trail)
 
@@ -171,13 +174,17 @@ Run/Walk 60 minutes:
 20 minutes walking to finish up.
 
 ### NOTES
-Total Time: **0 Minutes** 
+Total Time: **0 Minutes** &nbsp; Swim: **2300m** 
 
-&mdash;  
+LCM this afternoon at _Crystal Pool_ and I got into the 1500 continuous as a race to get it complete before the lane change.  Mission accomplished and I had 2 cool down lengths before ending the workout 200m short of what was written.
+
+Being a bit short in the pool meant being a bit long on the bike commute home.  I rode the E&N Trail and caught the shift change leaving the shipyard.  Ego took over and I found myself in a peloton, then in the front group, then me chasing an e-bike for a race to _Colwood_.  The e-bike won but it was a long way back to third place.
+
+As fast as I thought I was on the bike path, maybe I should have slowed down and read that I was supposed to walk/run instead of riding.  My mistake.
 
 <!---->
-## FRIDAY MAY 12
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY MAY 12 ☀️
+Sleep **4** | Fatigue **5** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -189,19 +196,42 @@ Ride 90 minutes easy on TT bike.
 Flat/rolling terrain. Nice and easy.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **85 Minutes** &nbsp; Ride: **34 km**
 
-&mdash;  
+A couple hours of on my feet doing outside chores (deck furniture, weed eating, mowing, etc), I skipped the walk/run.
+
+I did get of a lap of the waterfront on my TT Bike done.  Legs were pretty tired from chasing that dude on his e-bike [yesterday](javascript:flick('thu');).  Maybe on of the nicest late afternoon of the year for a bike ride.  Light breeze, sunshine and a smile.  Saved some for [tomorrow](javascript:flick('sat');).
 
 <!---->
-## SATURDAY MAY 13
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY MAY 13 ☀️
+Sleep **3** | Fatigue **4** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Run/Walk 35 minutes: 
+10 minutes walking to warm up. 
+10x 1 minute easy running, 1 minute walk after each. 
+5 minutes walking to finish up.
+
+Pre-Ride: Dead bugs, breathing, Glute Bridges...:30 second side planks, :30-:60 front planks.
+Ride 4:00 on TT bike. 
+Really similar to last week. 
+Get in the bars when you're comfortable.
 
 ### NOTES
-Total Time: **0 Minutes**
+Walk/Run: **5 km** &nbsp; Ride: **109 km**   
+Total Time: **~315 Minutes**
 
-&mdash;  
+Apart from a few twinges on the top of my right foot on the first and second rep, I felt fantastic; more sunshine, 19°C and a light breeze.  Still not pushing hard on the first steps to get up to speed; that's ok.
+
+Out on the bike, I headed west, up and over _Humpback Road_ then on to the highway.  I had a really good tailwind pushing me into Sooke and I thought about the effort is will take on the return trip back to town.  First time exploring _Otter Point Road_ and it was great, rolling with some climbs and a long descent back to the ocean.
+
+Highway 14 from _Gordon Beach_ to _Kemp Lake Road_ was sketchy; no shoulder, no white line and hill-billy traffic racing to get somewhere.  Interestingly, the traffic got more relaxed the closer to town I got.
+
+Heading out of town, I contemplated stopping at the last Esso station heading out of town.  I decided to press on and fill up my water bottles at the little convenience store in _East Sooke_.  200m later, I was pushing my bike back to the Esso station to fix my first flat tire of the year.
+
+The valve extender on my rear wheel is actually a _"tube extension"_ and did not fit the Presta chuck of my pump.  By luck, I misplaced by road repair kit and set off on this ride with my MTB repair kit; I had a multi-tool and a pump that does Presta and Schrader valves.  I put my frustrations on hold for a moment, then spent my time figuring out this system.  7 minutes to walk back to the gas station, 28 minutes to change the flat (correctly), and since I was stopped here for so long anyway, I topped up my water bottles before heading back to _Victoria_.
+
+_East Sooke_ features a couple of hills but it was the long climb from _Pedder Bay_ to the top of _Rocky Point Road_ that I really started to feel the fatigue in my quads.  In aero whenever terrain and traffic permitted and not much QL tightness to write about, at least nothing like I was dealing with this time last year.
+
+Apart from the flat tire, this was a good day with lots of stimulus in the legs.
