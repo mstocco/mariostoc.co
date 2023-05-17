@@ -41,7 +41,7 @@ Ride Home ~ About 60-90 mintues of total riding on the day.
 Keep the effort EASY.
 
 ### NOTES
-Total Time: **0 Mins** &nbsp;Swim: **3400m** &nbsp;Ride: **40km**
+Total Time: **150 Mins** &nbsp;Swim: **3400m** &nbsp;Ride: **32 km**
 
 Hint of a headache most of today, might be related to too much sun [yesterday](challenge2023-7weeksout?sat), or the onset of seasonal hay-fever, or who knows...
 
@@ -66,7 +66,7 @@ Pre-Run: Dead bugs, breathing, Glute Bridges...:30 second side planks, :30-:60 f
 Mobility 20 minutes.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **56 Minutes** &nbsp; Walk/Run: **5.9 km**
 
 Super busy day with work and wedding stuff.  The weather was really hot too.
 
@@ -92,13 +92,20 @@ Swim 2500:
 Ride ~ 60ish minutes. Long way home from the pool.
 
 ### NOTES
-Total Time: **0 Mins** &nbsp;Swim: **0000m** &nbsp;Ride: **00 km**
+Total Time: **120 Mins** &nbsp;Swim: **2500m** &nbsp;Ride: **18 km**
 
-Woke feeling refreshed.  Nice!
+Despite a late evening walk/jog, I woke feeling refreshed.  Nice!
+<!----->
+Good intentions on getting to the pool early were dashed and I swam this activity split between a 50m and 25m lane.  Zero congestion in the lanes though.
+
+My energy was just okay to start.  The kickboard rep continues to get better; hip flexors felt the last 15m.  At one point, I forgot to switch from exaggerated rotation to high turnover halfway down the pool.  The 3x50m efforts were better.  I did the first of them in the 50m lane, the last 5 rounds in the 25m lane.
+
+I had an errand to run in Oak Bay so I rode in that direction for the long way home spin.  I was on the mountain bike this afternoon and despite just getting out of the pool, I felt really good.  Not like I remember long rides home from the pool a year ago.
+
 
 <!---->
-## WEDNESDAY MAY 17
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY MAY 17 ☀️
+Sleep **3** | Fatigue **3** | Stress **5** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -117,10 +124,12 @@ Ride a flat/rolling route to get in your miles after this.
 Eat and drink early and often​.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Ride: **0 km**
 
-&mdash;  
+My right foot is a bit sore this morning.  Not a 🚩 just the stiffness that I might feel if I had lots of run volume.
 
+High altitude forest fire smoke in May is a reminder that future IRONMAN prep might have to be early to mid summer races like this year.  I am curious what type of summer Penticton will experience going forward...
+ 
 <!---->
 ## THURSDAY MAY 18
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
