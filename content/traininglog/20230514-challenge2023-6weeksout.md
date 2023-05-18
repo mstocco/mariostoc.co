@@ -16,7 +16,7 @@ I feel like I was...
 
 ![](/assets/jpg/II-9x550.jpeg)
 
-## SUNDAY MAY 14
+## SUNDAY MAY 14 🌤
 Sleep **3** | Fatigue **5** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -41,7 +41,7 @@ Ride Home ~ About 60-90 mintues of total riding on the day.
 Keep the effort EASY.
 
 ### NOTES
-Total Time: **150 Mins** &nbsp;Swim: **3400m** &nbsp;Ride: **32 km**
+Total Time: **150&#8239;Mins** &nbsp;Swim: **3400&#8239;m** &nbsp;Ride: **32&#8239;km**
 
 Hint of a headache most of today, might be related to too much sun [yesterday](challenge2023-7weeksout?sat), or the onset of seasonal hay-fever, or who knows...
 
@@ -66,7 +66,7 @@ Pre-Run: Dead bugs, breathing, Glute Bridges...:30 second side planks, :30-:60 f
 Mobility 20 minutes.
 
 ### NOTES
-Total Time: **56 Minutes** &nbsp; Walk/Run: **5.9 km**
+Total Time: **56 Minutes** &nbsp; Walk/Run: **5.9&#8239;km**
 
 Super busy day with work and wedding stuff.  The weather was really hot too.
 
@@ -92,7 +92,7 @@ Swim 2500:
 Ride ~ 60ish minutes. Long way home from the pool.
 
 ### NOTES
-Total Time: **120 Mins** &nbsp;Swim: **2500m** &nbsp;Ride: **18 km**
+Total Time: **120&#8239;Mins** &nbsp;Swim: **2500&#8239;m** &nbsp;Ride: **18&#8239;km**
 
 Despite a late evening walk/jog, I woke feeling refreshed.  Nice!
 <!----->
@@ -124,7 +124,7 @@ Ride a flat/rolling route to get in your miles after this.
 Eat and drink early and often​.
 
 ### NOTES
-Time: **152 Mins** &nbsp;Ride: **61 km** &nbsp;Accent: **830m**
+Time: **152 Mins** &nbsp;Ride: **61&#8239;km** &nbsp;Accent: **834&#8239;m**
 
 My right foot is a bit sore this morning.  Not a 🚩 just the stiffness that I might feel if I had lots of run volume.
 
@@ -162,7 +162,7 @@ R 2:00 after each.
 4x 50 super easy to cool down.
 
 ### NOTES
-Time: **0 Mins** &nbsp;Swim: **0m** &nbsp;Walk/Run: **0 km**
+Time: **0&#8239;Mins** &nbsp;Swim: **0&#8239;m** &nbsp;Walk/Run: **0&#8239;km**
 
 &mdash;  
 
