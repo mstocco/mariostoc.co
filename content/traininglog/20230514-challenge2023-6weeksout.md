@@ -124,15 +124,21 @@ Ride a flat/rolling route to get in your miles after this.
 Eat and drink early and often​.
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Ride: **0 km**
+Time: **152 Mins** &nbsp;Ride: **61 km** &nbsp;Accent: **830m**
 
 My right foot is a bit sore this morning.  Not a 🚩 just the stiffness that I might feel if I had lots of run volume.
 
 High altitude forest fire smoke in May is a reminder that future IRONMAN prep might have to be early to mid summer races like this year.  I am curious what type of summer Penticton will experience going forward...
- 
+<!----->
+Late afternoon roll out of the driveway, straight down _Interurban Road_ to get out to _Willis Point Road_.   Saanich Police had the road blocked off and were administering a breathalyzer test to someone clearly inebriated.  At least for the first two trips up the hill, I was assured that the traffic racing up behind me was sober.
+
+I rode the hill 4 times, turning around at the entrance to the lake.  The last trip up, I kept going over _Ross Durance Road_ then down into _Langford_.
+
+Legs, body, back, **all felt great** the entire ride.  I spent the first 14 minutes upright before dropping into the aerobars, then was in them whenever traffic and terrain permitted.
+
 <!---->
-## THURSDAY MAY 18
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY MAY 18 ☀️
+Sleep **4** | Fatigue **4** | Stress **5** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -156,7 +162,7 @@ R 2:00 after each.
 4x 50 super easy to cool down.
 
 ### NOTES
-Total Time: **0 Minutes**
+Time: **0 Mins** &nbsp;Swim: **0m** &nbsp;Walk/Run: **0 km**
 
 &mdash;  
 
