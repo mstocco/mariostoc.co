@@ -44,7 +44,7 @@ Keep the effort EASY.
 Total Time: **150&#8239;Mins** &nbsp;Swim: **3400&#8239;m** &nbsp;Ride: **32&#8239;km**
 
 Hint of a headache most of today, might be related to too much sun [yesterday](challenge2023-7weeksout?sat), or the onset of seasonal hay-fever, or who knows...
-
+<!----->
 I rode the TT Bike up to _Sidney_ for a Mother's Day Lunch with the family.  I expected my legs to feel worse though I did intentionally start slow and built into the ride before heading north on the _Pat Bay Highway_.  A slight headwind was partially negated by the highway traffic.
 
 Carina dropped me off at _Commonwealth Pool_ for the swim workout.  I completed it as written though the amount of steps were too great for Garmin to handle in one activity.  The ladder up to 300m sort of dragged but the steps from the second 300 back down felt better.
@@ -66,7 +66,7 @@ Pre-Run: Dead bugs, breathing, Glute Bridges...:30 second side planks, :30-:60 f
 Mobility 20 minutes.
 
 ### NOTES
-Total Time: **56 Minutes** &nbsp; Walk/Run: **5.9&#8239;km**
+Total Time: **56&#8239;Minutes** &nbsp; Walk/Run: **5.9&#8239;km**
 
 Super busy day with work and wedding stuff.  The weather was really hot too.
 
