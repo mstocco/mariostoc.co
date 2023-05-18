@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![This is the venue where Carina and I will tie the knot!](/assets/jpg/IMG_4836-977x550 ESQUIMALT GORGE PARK PAVILION)
+![This is the venue where Carina and I will tie the knot!](/assets/jpg/IMG_4836-977x550.jpeg ESQUIMALT GORGE PARK PAVILION)
 
 ## SUNDAY MAY 14 🌤
 Sleep **3** | Fatigue **5** | Stress **4** | Soreness **4**
