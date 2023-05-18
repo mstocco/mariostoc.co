@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![This is the venue where Carina and I will tie the knot!](/assets/jpg/IMG_4836-977x550 ESQUIMALT GORGE PARK PAVILION)
 
 ## SUNDAY MAY 14 🌤
 Sleep **3** | Fatigue **5** | Stress **4** | Soreness **4**
@@ -126,7 +126,7 @@ Eat and drink early and often​.
 ### NOTES
 Time: **152 Mins** &nbsp;Ride: **61&#8239;km** &nbsp;Accent: **834&#8239;m**
 
-My right foot is a bit sore this morning.  Not a 🚩 just the stiffness that I might feel if I had lots of run volume.
+Right foot is a bit sore this morning.  Not a 🚩 just stiffness that I might feel if I had lots of run volume.  Probably the kick set [yesterday](javascript:flick('tue');).
 
 High altitude forest fire smoke in May is a reminder that future IRONMAN prep might have to be early to mid summer races like this year.  I am curious what type of summer Penticton will experience going forward...
 <!----->
