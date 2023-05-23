@@ -4,7 +4,7 @@ Week beginning [Sunday, May 21, 2023](javascript:flick('sun');)
 **5** weeks out from race day.
 
 ## WEEKLY GOAL
-&mdash;
+Marry my sweetheart then prep for a 70.3
 
 ## SUMMARY
 Total Time: **0 Hours**
@@ -16,41 +16,60 @@ I feel like I was...
 
 ![](/assets/jpg/II-9x550.jpeg)
 
-## SUNDAY MAY 21
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SUNDAY MAY 21 🌤
+Sleep **3** | Fatigue **2** | Stress **6** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Run/Walk 60 minute: 
+10 minutes walking to warm up. 
+20x 1 minute easy running, 1 minute walk after each. 
+
+Wedding!
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **30 Minutes** &nbsp;Walk/Run: **3 km**
 
-&mdash;  
+In my mind, I had a smaller window than I actually had and consequently did half the time i'm my running shoes 
 
 <!---->
-## MONDAY MAY 22
+## MONDAY MAY 22 🌤
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Off day!
 
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Little bit of time in the lap pool at _The Empress_, some walking downtown and an honest to goodness mid-afternoon nap.
 
 <!---->
-## TUESDAY MAY 23
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY MAY 23 ☁️
+Sleep **2** | Fatigue **2** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Swim 2400: 
+300 easy swim, 200 swim w/ buoy, 100 kick. 
+2x 50 Shark-fin drill. R :20. 
+2x 50 Shark-fin drill and Paddle-fist drill. R :30. 
+100 smooth/form focused. 
+8x 50 Descend 1-4, 5-8. R :20. 
+1-Smooth/technique focus, 2-1/2 IM effort, 3-1500 effort, 4-750 effort. 
+100 easy. 
+18x 50 1st/2nd: Strong/Fast, 3rd: Easy. R :20 after each. 
+100 super easy to cool down.
+
+Pre-Run: Dead bugs, breathing, Glute Bridges...:20-:30 second side planks, :30 front planks.
+Run/Walk 60 minutes: 
+15 minutes walking to start. 
+10x 2 minutes easy running, 1 minute walk after each. 
+15 minutes walking to finish.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Swim: **0m** &nbsp; Run/Walk: **0km**
 
 &mdash;  
 
@@ -60,7 +79,12 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Pre-Ride: Dead bugs, breathing, Glute Bridges.
+Ride 1:45 on TT bike. 
+Rolling ~ Waterfront style route. 
+Easy to steady riding. Getting in a nice ride. But nothing super hard or long. 
+
+Walk ~ 30 minutes.
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -73,7 +97,16 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Open Water swim 50ish minutes in the water: 
+2x 3 minutes EASY swimming to warm up/stretch out. Rest as needed. 
+3x 12 minutes continuous, steady effort, spotting often. Consistent turnover. Breath well. 
+R 2:00 after each. 
+
+Pre-Run: Dead bugs, breathing, Glute Bridges...:20-:30 second side planks, :30 front planks.
+Run/Walk 60 minutes: 
+15 minutes walking to start. 
+10x 2 minutes easy running, 1 minute walk after each. 
+15 minutes walking to finish.
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -86,7 +119,11 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Pre-Ride: Dead bugs, breathing, Glute Bridges...:20-:30 second side planks, :30 front planks.
+
+Ride 60 minutes EASY. Flatter route. On the TT bike. 
+
+Mobility 15 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -99,7 +136,9 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Walk ~ 60 minutes. 
+
+Mobility 20 minutes
 
 ### NOTES
 Total Time: **0 Minutes**

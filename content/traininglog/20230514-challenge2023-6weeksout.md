@@ -7,12 +7,13 @@ Week beginning [Sunday, May 14, 2023](javascript:flick('sun');)
 The week before getting **married**!
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **9&14frac; Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **CELEBRATING LIFE**
 
-&mdash;
+Training tapered off as the week ended.  Lots going on with the wedding, staying focused and managing any life stress better than I may have ever done.
+
+Bike ride on [Wednesday](javascript:flick('wed');) was the training highlight of the week and I felt great.
 
 ![This is the venue where Carina and I will tie the knot!](/assets/jpg/IMG_4836-977x550.jpeg ESQUIMALT GORGE PARK PAVILION)
 
@@ -102,7 +103,6 @@ My energy was just okay to start.  The kickboard rep continues to get better; hi
 
 I had an errand to run in Oak Bay so I rode in that direction for the long way home spin.  I was on the mountain bike this afternoon and despite just getting out of the pool, I felt really good.  Not like I remember long rides home from the pool a year ago.
 
-
 <!---->
 ## WEDNESDAY MAY 17 ☀️
 Sleep **3** | Fatigue **3** | Stress **5** | Soreness **3**
@@ -164,10 +164,10 @@ R 2:00 after each.
 ### NOTES
 Time: **0&#8239;Mins** &nbsp;Swim: **0&#8239;m** &nbsp;Walk/Run: **0&#8239;km**
 
-&mdash;  
+I did not train today.  Work and wedding tasks and yard work was done.  Lots of time on feet and is is nice to sit down for a late dinner. 
 
 <!---->
-## FRIDAY MAY 19
+## FRIDAY MAY 19 ☀️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -178,10 +178,10 @@ Whatever bike/location that is easy.
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+I rode with Carina into _Downtown_ for our check-in with her father.  Technically on the bike but low/no stress effort and not a training ride.  2 days to go.    Both cars washed and I had a much needed hair cut.  
 
 <!---->
-## SATURDAY MAY 20
+## SATURDAY MAY 20 ☀️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -189,6 +189,10 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 Walk ~ 1:00. Nice walk around the neighborhood.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **~50 Minutes** &nbsp; Ride: **20.5&#8239;km**
 
-&mdash;  
+A few chores before meeting up with Chris G. for a ride up to the gate at _Westoby Road_.  I rode my TT Bike, he was on his gravel bike and hoping to explore the route I took him on earlier this winter.  He continued once we reached the dirt, I headed back down the hill for an easy out and back spin.
+
+The rest of the day was wedding related.  Big day for Carina and I is [tomorrow](challenge2023-5weeksout?sun)!
+
+The (short) lap pool at _The Empress_ was nice to play in (brief, non structured chance to be horizontal in the water).
