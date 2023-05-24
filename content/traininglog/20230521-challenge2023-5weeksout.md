@@ -31,7 +31,9 @@ Wedding!
 Total Time: **30&#8239;Minutes** &nbsp;Walk/Run: **3&#8239;km**
 
 In my mind, I had a smaller window than I actually had and 
-consequently did half the time i'm my running shoes 
+consequently did half the time i'm my running shoes.
+
+<img src="/assets/jpg/rings-20230521.jpeg" style="vertical-align:bottom;" />
 
 <!---->
 ## MONDAY MAY 22 🌤
@@ -47,6 +49,7 @@ Total Time: **0&#8239;Minutes**
 Little bit of time in the lap pool at _The Empress_, some 
 walking downtown and an honest to goodness mid-afternoon nap.
 
+<img src="/assets/jpg/walk-20230522.jpeg" style="vertical-align:bottom;" />
 <!---->
 ## TUESDAY MAY 23 ☁️
 Sleep **2** | Fatigue **2** | Stress **2** | Soreness **3**
@@ -85,7 +88,7 @@ minute throttle on the activity;
 ![Walk](/assets/jpg/swim/walkrun-20230523.jpeg)
 
 <!---->
-## WEDNESDAY MAY 24
+## WEDNESDAY MAY 24 ☁️
 Sleep **3** | Fatigue **3** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
