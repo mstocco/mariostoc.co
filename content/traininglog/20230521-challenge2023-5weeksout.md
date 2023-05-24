@@ -28,9 +28,10 @@ Run/Walk 60 minute:
 Wedding!
 
 ### NOTES
-Total Time: **30 Minutes** &nbsp;Walk/Run: **3 km**
+Total Time: **30&#8239;Minutes** &nbsp;Walk/Run: **3&#8239;km**
 
-In my mind, I had a smaller window than I actually had and consequently did half the time i'm my running shoes 
+In my mind, I had a smaller window than I actually had and 
+consequently did half the time i'm my running shoes 
 
 <!---->
 ## MONDAY MAY 22 🌤
@@ -41,9 +42,10 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 Off day!
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0&#8239;Minutes**
 
-Little bit of time in the lap pool at _The Empress_, some walking downtown and an honest to goodness mid-afternoon nap.
+Little bit of time in the lap pool at _The Empress_, some 
+walking downtown and an honest to goodness mid-afternoon nap.
 
 <!---->
 ## TUESDAY MAY 23 ☁️
@@ -69,25 +71,35 @@ Run/Walk 60 minutes:
 15 minutes walking to finish.
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Swim: **0m** &nbsp; Run/Walk: **0km**
+Time: **110&#8239;Mins** &nbsp; Swim: **2500&#8239;m** &nbsp; Run/Walk: **6&#8239;km**
 
-&mdash;  
+I actually was a touch quicker in the pool this afternoon even 
+though I felt a touch slower.
+<!----->
+I started in a 50m lane, finished the last 1100&#8239;m in a 
+25m lane.
+![Swim](/assets/jpg/swim/20230523.1.jpeg)
+
+Afternoon nap and a evening walk/run.  I felt good with the 2 
+minute throttle on the activity;
+![Walk](/assets/jpg/swim/walkrun-20230523.jpeg)
 
 <!---->
 ## WEDNESDAY MAY 24
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
 Pre-Ride: Dead bugs, breathing, Glute Bridges.
 Ride 1:45 on TT bike. 
 Rolling ~ Waterfront style route. 
-Easy to steady riding. Getting in a nice ride. But nothing super hard or long. 
+Easy to steady riding. Getting in a nice ride. But nothing 
+super hard or long. 
 
 Walk ~ 30 minutes.
 
 ### NOTES
-Total Time: **0 Minutes**
+Time: **0 Mins** &nbsp;Ride: **0&#8239;km** &nbsp;Walk: **0&#8239;km**
 
 &mdash;  
 
