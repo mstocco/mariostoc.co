@@ -102,9 +102,11 @@ super hard or long.
 Walk ~ 30 minutes.
 
 ### NOTES
-Time: **105&#8239;Mins** &nbsp;Ride: **41&#8239;km** &nbsp;Walk: **0&#8239;km**
+Time: **105&#8239;Mins** &nbsp; Ride: **41&#8239;km** &nbsp; Walk: **0&#8239;km**
 
 Pretty descent tailwind pushed me up the hill into _Langford_.  The route included _Humpback Road_ and a trip on over the _West Shore Parkway_.  Effort was as written (easy) and I would say this was a nice ride in the sunshine and with a bit of practice with the wind.
+
+---
 
 I hosted my cousin for dinner and did not walk an intentional 30 minutes.
 
@@ -134,7 +136,11 @@ I really felt that the weeds below me went past noticeably faster than the tiles
 
 Water temperature was good; the algae in Elk Lake is present though not as bad as last year.  I accidentally chose _"Run"_ to record the activity on my watch and the GPS smoothing algorithm recorded the track way longer and jagged than what was actual.
 
+---
+
 Straight out of the water, I did the walk/run in my Adidas shoes on the north end of the _Elk Lake Trail_.  If this afternoon is any indication, it is going to be incredibly frustrating having to walk on [Sunday](/racereports/2023-victoria-70.3).  Jogging felt really comfortable.   
+
+---
 
 Seeing some out of town athletes and the build out of the IRONMAN event at _Hamsterly Beach_ fired me up.
 <!---->
