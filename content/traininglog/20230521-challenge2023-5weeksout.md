@@ -88,7 +88,7 @@ minute throttle on the activity;
 ![Walk](/assets/jpg/swim/walkrun-20230523.jpeg)
 
 <!---->
-## WEDNESDAY MAY 24 ☁️
+## WEDNESDAY MAY 24 ⛅️
 Sleep **3** | Fatigue **3** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -104,10 +104,12 @@ Walk ~ 30 minutes.
 ### NOTES
 Time: **0 Mins** &nbsp;Ride: **0&#8239;km** &nbsp;Walk: **0&#8239;km**
 
-&mdash;  
+Pretty descent tailwind pushed me up the hill into _Langford_.  The route included _Humpback Road_ and a trip on over the _West Shore Parkway_.  Effort was as written (easy) and I would say this was a nice ride in the sunshine and with a bit of practice with the wind.
+
+I hosted my cousin for dinner and did not walk an intentional 30 minutes.
 
 <!---->
-## THURSDAY MAY 25
+## THURSDAY MAY 25 ☀️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
@@ -124,12 +126,15 @@ Run/Walk 60 minutes:
 15 minutes walking to finish.
 
 ### NOTES
-Total Time: **0 Minutes**
+Time: **120&#8239;Mins** &nbsp; OWS: **~2.4&#8239;km** &nbsp; Walk/Jog: **7&#8239;km**
 
-&mdash;  
+The first open water swim of the season and it could not have gone any better.  My brain picked up on the change in position that the wetsuit affords me (floating my legs higher) and I really felt that the weeds below me went past noticeably faster than the tiles on the bottom of the pool.  Everything worked.  Water temperature was good; the algae in Elk Lake is present though not as bad as last year.
 
+Straight out of the water, I did the walk/run in my Adidas shoes on the north end of the _Elk Lake Trail_.  If this afternoon is any indication, it is going to be incredibly frustrating having to walk on [Sunday](/racereports/2023-victoria-70.3).  Jogging felt really comfortable.   
+
+Seeing some out of town athletes and the build out of the IRONMAN event at _Hamsterly Beach_ fired me up.
 <!---->
-## FRIDAY MAY 26
+## FRIDAY MAY 26 ☀️
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
