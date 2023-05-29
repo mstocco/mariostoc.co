@@ -20,7 +20,7 @@ I feel like I was...
 Sleep **4** | Fatigue **2** | Stress **5** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
-<img src="/assets/svg/ironman-70.3-victoria-logo.svg" height="112.5px" width="255px" />
+<img src="/assets/svg/ironman-70.3-victoria-logo.svg" height="75" width="150px" />
 
 ### NOTES
 Total Time: **7:04:00** &nbsp; Distance: **70.3 miles**
@@ -28,9 +28,9 @@ Total Time: **7:04:00** &nbsp; Distance: **70.3 miles**
 My fastest 1900m swim on Elk Lake.  I broke my 40 km PR and
 finished the bike ~11 minutes quicker than last year.
 
-Then I turned my ego off and walked, a lot!
+Then I turned my ego off and walked, a lot!   
+[/racereports/2023-ironman-70.3-victoria](full race report).
 
-<a href="2023-ironman-70.3-victoria">full race report &rarr;</a>
 <table style="position:absolute;bottom:0;font-size:0.85em;width:340px;border-collapse:collapse;">
  <thead>
   <tr style="border-bottom:1px solid black;">
