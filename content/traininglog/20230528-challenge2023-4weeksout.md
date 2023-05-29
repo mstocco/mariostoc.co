@@ -20,8 +20,6 @@ I feel like I was...
 Sleep **4** | Fatigue **2** | Stress **5** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
-### PLANNED WORKOUT
-
 <img src="/assets/svg/ironman-70.3-victoria-logo.svg" height="112.5px" width="255px" />
 
 ### NOTES
@@ -32,7 +30,7 @@ finished the bike ~11 minutes quicker than last year.
 
 Then I turned my ego off and walked, a lot!
 
-<p class="continue"><a href="2023-ironman-70.3-victoria">full race report &rarr;</a></p>
+<a href="2023-ironman-70.3-victoria">full race report &rarr;</a>
 <table style="position:absolute;bottom:0;font-size:0.85em;width:340px;border-collapse:collapse;">
  <thead>
   <tr style="border-bottom:1px solid black;">
