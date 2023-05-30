@@ -32,8 +32,8 @@ It is all green lights on the drive to _Beaver Lake_; parking
 is easy this year and I am on a bus with some time to spare. 
 Things are going okay, or so I thought.
 
-In transition, I unpacked my bag, placed the bottles in their 
-cages, bike computer on and ready, pumped up the tires and...  
+In transition, I unpack my bag, place the bottles in their 
+cages, bike computer is on and ready, pump up the tires and...  
 _Where is my helmet?_
 
 It's right where I left at the front door. This sport is 
@@ -59,10 +59,10 @@ and one guy frantically tugging on the zipper of his wetsuit.
 
 One length of the lake complete, now for the trip back. I find 
 _"feet to follow"_ for the first time in a triathlon.  Just 
-as I think, _"how perfect is this..."_ my man swims into a 
+as I think, _"how perfect is this..."_, my man swims into a 
 pair of slow swimmers then stops swimming himself.
 
-I swim around the congestion just like that, my gift of a 
+I swim around the congestion and just like that, my gift of a 
 draft in the water is over.
 
 I hit more congestion at the last buoy, just 100 metres from 
@@ -72,21 +72,21 @@ the beach. I wonder, _"people, why stop here?"_
 
 ## THE SAANICH PENINSULA LOOP
 Unlike my helmet, I didn't forget my _Gabba_.  Standing in 
-front of my bike, the air temperature does not feel that cold. 
+front of my bike, the air temperature doesn't feel that cold. 
 Leaving that bit of clothing behind seems to be the right call.
 
 Descending the hill on _Old West Saanich Road_, I can't help 
 but think how easy the climb up was this morning.  I glance at 
-the heartrate number on my bike computer. 137 BPM, I should 
+the heartrate number on my bike computer: 137 BPM. I should 
 think about backing off a bit.
 
 The first aid station is on my right, I zip past making a 
 mental note of how much I've consumed from my concentrated 
 bottle. My calories are on schedule.
 
-_Martindale Road_ to _Tulista Park_ is the longest time to be 
-in the aerobars.  My _quadratus lumborum_ handles the effort 
-along this stretch of road like a champ.
+_Martindale Road_ to _Tulista Park_ is the longest section of the 
+course to be in the aerobars.  My _quadratus lumborum_ is handling 
+the effort along this stretch of road like a champ.
 
 Halfway point of the bike course and I am rolling past the 
 second aid station. Time to swap out an empty water bottle 
@@ -96,26 +96,28 @@ half full; perfect.
 <div style="height:21px;"></div>
 This year, road construction diverts us passed _Downey Road_
 so it is all _West Saanich Road_ heading south into _Brentwood 
-Bay_.  Normally the hills of this section zaps my legs; today, 
+Bay_.  Normally the hills on this segment zaps my legs; today, 
 everything is rolling by very quickly.
 
 Even the climb up _Willis Point Road_ feels easy this morning.
 I breifly stand on the pedals on the incline near _Durrance 
-Lake_; reality of the last +75 kilometres puts me back in the 
-saddle quickly.  Maybe it is best to relax and have another 
-slug from the concentrated bottle. There are a few more hills 
+Lake_; reality of the last ~75 kilometres quickly puts me back in the 
+saddle.  Maybe it is best to relax and have another 
+slug from the concentrated bottle; there are a few more hills 
 left to go after all.
 
-Last punchy hill on _Oldfield Road_ and I am still pressing.
+Last punchy hill on _Oldfield Road_ and I am still pressing; it feels 
+very unfair to pass people this fast, this late in the bike leg.  Most 
+will soon return the favour on the run.
 
-I rolled up to the dismount line on _Brookleigh_.  I feel 
-great; my reward is 2:59:36 on the bike computer!
+I roll up to the dismount line on _Brookleigh_ feeling  
+great; my reward, 2:59:36 on the bike computer!
 
 ---
 
-Last night, I put my bike computer in _"battery saving mode"_ 
-with the idea of NOT having any numbers to distract me, riding 
-(mostly) by RPE.  That worked well.
+Last night, I put my Garmin in _"battery saving mode"_, intentionally 
+turning the screen off so I would _mostly_ ride by RPE.   That worked 
+well.
 
 ![West Saanich Road just north of the airport. 54km done, a hilly 36km to go.](/assets/jpg/IMG_1894-550x550.jpeg BIKE: 2:59:46)
 Before leaving the _Transition Area_, my stomach gurgles. The 
@@ -126,12 +128,13 @@ It is a beeline to the port-o-johns.
 
 ## THE PLANNED WALK/RUN
 In the crowd at the exit of T2, my friends Kevin and Jason 
-spot me and I stop a the fence for a brief _"hello"_.
+spot me and I stop at the fence for a brief _"hello"_.
 
 I catch a negative comment from the back of the peanut 
-gallery, a friend of a friend who doesn't know me or the 
+gallery, likely from a friend of a friend who doesn't know me or the 
 current state of my foot; A previous version of me would have 
 outwardly reacted.
+
 
 I start the planned walk/jog just walking. It was was the best 
 thing for my stomach in the moment.
@@ -171,7 +174,7 @@ spots to my AG, I finished in the 45th percentile. The weather
 was near identical to last year, so where did the improvements 
 in time come from?
 
-* New TT Bike with a new position, Di2 shifting, an extra cog on the rear wheel, 28c tires versus 25c.
+* New TT Bike with a new position, Di2 shifting, an extra cog on the rear wheel, 28c tires versus 25c, etc.
 * A winter on a smart trainer where I am pedalling in the aerobars.
 * Dropping weight.  This time last year, I averaged 79.6 Kg, this past week 76.4 Kg was my average (-7 pounds).
 * Slight changes to the bike course (highway section vs bike path, moving the turnaround on Willis Point versus Downey Road).
@@ -201,5 +204,3 @@ Rolled through all 3 aid stations and no bathroom stops.
 On the walk, sipped water at aid stations, just enough to not 
 upset my bowel. Potato chips on the last lap worked gloriously 
 well!
-
-
