@@ -68,7 +68,8 @@ draft in the water is over.
 I hit more congestion at the last buoy, just 100 metres from 
 the beach. I wonder, _"people, why stop here?"_
 
-<!---->
+![I felt great in the water this morning.](/assets/jpg/IMG_1897-550x550.jpeg SWIM: 33:52)
+
 ## SAANICH PENINSULA LOOP
 Unlike my helmet, I didn't forget my _Gabba_.  Standing in 
 front of my bike, the air temperature does not feel that cold. 
@@ -91,7 +92,7 @@ Halfway point of the bike course and I am rolling past the
 second aid station. Time to swap out an empty water bottle 
 for the bottle behind my seat. The concentrated bottle is now 
 half full. Perfect.
-<!----->
+![54km done, a hilly 36km to go.](/assets/jpg/IMG_1894-550x550.jpeg BIKE: 2:59:46)
 This year, road construction diverts us passed _Downey Road_
 so it is all _West Saanich Road_ heading south into _Brentwood 
 Bay_.  Normally the hills of this section zaps my legs; today, 
@@ -129,7 +130,7 @@ it with me so I press start.
 
 We didn't complete them all, but we did get around the lake in way 
 better time than just walking.
-<!----->
+<!---->
 On the last lap, with just over a kilometre to go, Carina is 
 at the _Rowing Club_ waiting for me to saunter by. She has 
 ridden there on her gravel bike and greets me with a smile and 
@@ -139,7 +140,7 @@ for a bit and make plans with Carina for the rest of the day.
 I run a strong final kilometre to the finish.  I think I have 
 set myself up for a good week of training.
 
-<!---->
+![Strong finish at the end of a long walk](/assets/jpg/-550x550.jpeg RUN&ast;: 3:12:39)
 ## FINAL THOUGHTS
 A 33:42 swim, 20<sup>th</sup> in my Age Group with only one open 
 water swim just a few days ago.  I should be happy with that.
