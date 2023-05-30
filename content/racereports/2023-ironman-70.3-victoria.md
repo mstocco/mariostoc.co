@@ -5,8 +5,10 @@
 ![2023 IRONMAN 70.3 - Victoria](/assets/svg/ironman-70.3-victoria-natcwest-logo.svg)
 <p class="timestamp">May 28, 2023</p>
 
-This was my second time participating in this event. I hope 
-you enjoy the read.
+This was my second year participating in this event and my 
+fourth time completing this distance.
+
+I hope you enjoy the read.
 
 <h3 style="margin:28px 0 4px 0;">SECTIONS</h3>
 <ul class="alt">
@@ -93,7 +95,6 @@ second aid station. Time to swap out an empty water bottle
 for the bottle behind my seat. The concentrated bottle is now 
 half full; perfect.
 <!---->
-<div style="height:21px;"></div>
 This year, road construction diverts us passed _Downey Road_
 so it is all _West Saanich Road_ heading south into _Brentwood 
 Bay_.  Normally the hills on this segment zaps my legs; today, 
@@ -110,14 +111,13 @@ Last punchy hill on _Oldfield Road_ and I am still pressing; it feels
 very unfair to pass people this fast, this late in the bike leg.  Most 
 will soon return the favour on the run.
 
-I roll up to the dismount line on _Brookleigh_ feeling  
-great; my reward, 2:59:36 on the bike computer!
+I roll up to the dismount line on _Brookleigh_ feeling great; 
+my reward, 2:59:36 on the bike computer!
 
----
-
-Last night, I put my Garmin in _"battery saving mode"_, intentionally 
-turning the screen off so I would _mostly_ ride by RPE.   That worked 
-well.
+<p style="border-top:1px solid #bbb;;color:#444;font-size:0.85em;margin-top:16px;">
+Last night, I put my Garmin into <em>"battery saving mode"</em>, 
+automatically turning the screen off with the intention to ride 
+<em>mostly</em> by RPE. That worked out well.</p>
 
 ![West Saanich Road just north of the airport. 54km done, a hilly 36km to go.](/assets/jpg/IMG_1894-550x550.jpeg BIKE: 2:59:46)
 Before leaving the _Transition Area_, my stomach gurgles. The 
@@ -127,22 +127,21 @@ house this morning is back.
 It is a beeline to the port-o-johns.
 
 ## THE PLANNED WALK/RUN
-In the crowd at the exit of T2, my friends Kevin and Jason 
+In the crowd, past the exit of T2, my friends Kevin and Jason 
 spot me and I stop at the fence for a brief _"hello"_.
 
 I catch a negative comment from the back of the peanut 
-gallery, likely from a friend of a friend who doesn't know me or the 
-current state of my foot; A previous version of me would have 
-outwardly reacted.
+gallery, likely from a friend of a friend who doesn't know me 
+or the current state of my foot. A previous version of me 
+would have outwardly reacted.
 
+The start of my planned walk/jog just a walk. It is the best 
+thing for my unhappy bowel right now.
 
-I start the planned walk/jog just walking. It was was the best 
-thing for my stomach in the moment.
-
-A little more than a kilometre in, I catch another walker. 
-Mitch from _Calgary_, is going to complete his life-to-date, 
-bucket list event.  I start the conversation we'll share for 
-the next 19 kilometres.
+A little more than a kilometre in, I catch up to another 
+walker.  Mitch R. from _Calgary_, is going to complete his 
+life-to-date, bucket list event.  I start the conversation 
+we'll share for the next 19 kilometres.
 
 <!---->
 Plugged into my watch is an interval workout, 25 reps, 2 
@@ -158,11 +157,14 @@ better time than only walking.
 On the last lap, with just over a kilometre to go, Carina is 
 at the _Rowing Club_ waiting for me to saunter by. She has 
 ridden there on her gravel bike and greets me with a smile and 
-a kiss.  Mitch continues to get his finish line; I hang back 
-for a bit and make plans with Carina for the rest of the day.
+a kiss.  Mitch continues on to get his finish line; I hang back 
+for a bit and make plans with Carina for the rest of our day.
 
-I run a strong final kilometre to the finish.  I think I have 
-set myself up for a good week of training.
+9&frac12; weeks ago, it was the final kilometre of a training 
+run that left me frustratingly hobbled with a bum wheel. 
+
+Today, from _Eagle Beach_ to the _Red Carpet_,  
+**I finished that run.**
 
 ![Strong final kilometre at the end of a LONG WALK](/assets/jpg/IMG_1891-550x550.jpeg RUN: 3:12:39&ast;)
 ## FINAL THOUGHTS
@@ -179,19 +181,20 @@ in time come from?
 * Dropping weight.  This time last year, I averaged 79.6 Kg, this past week 76.4 Kg was my average (-7 pounds).
 * Slight changes to the bike course (highway section vs bike path, moving the turnaround on Willis Point versus Downey Road).
 * Recently breaking a bone in my foot, putting more emphasis on bike fitness.
-* Putting the experience of the race last year into pratice.
+* Putting the experience of the race last year into practice.
 <!----->
-Maybe my biggest acheivement today is winning the mental 
-battle to **NOT RUN**. That battle of _"could"_ versus 
-_"should"_ played out in my head for 2 trips around the lake.
+My biggest acheivement today is winning the mental battle to 
+NOT RUN. Watching people shuffle past me for 3 hours was 
+tough. The argument of _"could"_ versus _"should"_ played out 
+in my head for almost 2 trips around the lake.
 
-Because of the walking, I feel like I finished with bullets in 
-the chamber, with the option to fire them at a bigger event in 
-just 4 weeks time. 
+With all the walking though, I feel like I finished with 
+bullets in the chamber, having the option to fire them at a 
+bigger event in just 4 weeks time. 
 
 ---
 
-### CALORIES
+### FOOD FOR THOUGHT
 2 bagels and a strong cup of coffee before leaving the house 
 at 0450.
 
