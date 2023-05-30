@@ -11,10 +11,10 @@ you enjoy the read.
 <h3 style="margin:28px 0 4px 0;">SECTIONS</h3>
 <ul class="alt">
  <li><a href="javascript:flkty.select(2);">ANOTHER MORNING MISTAKE</a></li>
- <li><a href="javascript:flkty.select(2);">THE SWIM - ELK LAKE</a></li>
- <li><a href="javascript:flkty.select(3);">SAANICH PENINSULA LOOP</a></li>
- <li><a href="javascript:flkty.select(4);">THE PLANNED WALK/RUN</a></li>
- <li><a href="javascript:flkty.select(5);">FINAL THOUGHTS</a></li>
+ <li><a href="javascript:flkty.select(3);">THE SWIM - ELK LAKE</a></li>
+ <li><a href="javascript:flkty.select(5);">THE SAANICH PENINSULA LOOP</a></li>
+ <li><a href="javascript:flkty.select(8);">THE PLANNED WALK/RUN</a></li>
+ <li><a href="javascript:flkty.select(11);">FINAL THOUGHTS</a></li>
 </ul>
 
 <!---->
@@ -68,9 +68,9 @@ draft in the water is over.
 I hit more congestion at the last buoy, just 100 metres from 
 the beach. I wonder, _"people, why stop here?"_
 
-![I felt great in the water this morning.](/assets/jpg/IMG_1897-550x550.jpeg SWIM: 33:52)
+![I felt GREAT in the water this morning.](/assets/jpg/IMG_1897-550x550.jpeg SWIM: 33:52)
 
-## SAANICH PENINSULA LOOP
+## THE SAANICH PENINSULA LOOP
 Unlike my helmet, I didn't forget my _Gabba_.  Standing in 
 front of my bike, the air temperature does not feel that cold. 
 Leaving that bit of clothing behind seems to be the right call.
@@ -91,8 +91,9 @@ along this stretch of road like a champ.
 Halfway point of the bike course and I am rolling past the 
 second aid station. Time to swap out an empty water bottle 
 for the bottle behind my seat. The concentrated bottle is now 
-half full. Perfect.
-![54km done, a hilly 36km to go.](/assets/jpg/IMG_1894-550x550.jpeg BIKE: 2:59:46)
+half full; perfect.
+<!---->
+<div style="height:21px;"></div>
 This year, road construction diverts us passed _Downey Road_
 so it is all _West Saanich Road_ heading south into _Brentwood 
 Bay_.  Normally the hills of this section zaps my legs; today, 
@@ -110,27 +111,47 @@ Last punchy hill on _Oldfield Road_ and I am still pressing.
 I rolled up to the dismount line on _Brookleigh_.  I feel 
 great; my reward is 2:59:36 on the bike computer!
 
-<!---->
-## THE PLANNED WALK/RUN
-Before leaving the _Transition Area_, my stomach gurgles. That 
+---
+
+Last night, I put my bike computer in _"battery saving mode"_ 
+with the idea of NOT having any numbers to distract me, riding 
+(mostly) by RPE.  That worked well.
+
+![West Saanich Road just north of the airport. 54km done, a hilly 36km to go.](/assets/jpg/IMG_1894-550x550.jpeg BIKE: 2:59:46)
+Before leaving the _Transition Area_, my stomach gurgles. The 
 same dangerous gurgle that presented itself before I left the 
-house this morning is back. It is a beeline to the port-o-johns.
+house this morning is back.
+
+It is a beeline to the port-o-johns.
+
+## THE PLANNED WALK/RUN
+In the crowd at the exit of T2, my friends Kevin and Jason 
+spot me and I stop a the fence for a brief _"hello"_.
+
+I catch a negative comment from the back of the peanut 
+gallery, a friend of a friend who doesn't know me or the 
+current state of my foot; A previous version of me would have 
+outwardly reacted.
 
 I start the planned walk/jog just walking. It was was the best 
 thing for my stomach in the moment.
 
-A little more than a kilometre in, I catch up to another walker. 
+A little more than a kilometre in, I catch another walker. 
 Mitch from _Calgary_, is going to complete his life-to-date, 
-bucket list event and I start the conversation we'll share for 
+bucket list event.  I start the conversation we'll share for 
 the next 19 kilometres.
 
+<!---->
 Plugged into my watch is an interval workout, 25 reps, 2 
 minutes of jogging, 1 minute of walking.  Mitch is keen on doing 
 it with me so I press start.
 
+The jogging with Mitch is at _his pace_ and it is a super easy 
+effort for me.  This helps me more than it hurts me.
+
 We didn't complete them all, but we did get around the lake in way 
-better time than just walking.
-<!---->
+better time than only walking.
+
 On the last lap, with just over a kilometre to go, Carina is 
 at the _Rowing Club_ waiting for me to saunter by. She has 
 ridden there on her gravel bike and greets me with a smile and 
@@ -140,33 +161,45 @@ for a bit and make plans with Carina for the rest of the day.
 I run a strong final kilometre to the finish.  I think I have 
 set myself up for a good week of training.
 
-![Strong finish at the end of a long walk](/assets/jpg/-550x550.jpeg RUN&ast;: 3:12:39)
+![Strong final kilometre at the end of a LONG WALK](/assets/jpg/IMG_1891-550x550.jpeg RUN: 3:12:39&ast;)
 ## FINAL THOUGHTS
 A 33:42 swim, 20<sup>th</sup> in my Age Group with only one open 
-water swim just a few days ago.  I should be happy with that.
+water swim just a few days ago.  I think that is pretty good.
 
 The bike is another beast to disect.  Although I gave back 31 
 spots to my AG, I finished in the 45th percentile. The weather 
-was near identical to last year, where did this year's 
-improvements in time come from?
+was near identical to last year, so where did the improvements 
+in time come from?
 
 * New TT Bike with a new position, Di2 shifting, an extra cog on the rear wheel, 28c tires versus 25c.
 * A winter on a smart trainer where I am pedalling in the aerobars.
 * Dropping weight.  This time last year, I averaged 79.6 Kg, this past week 76.4 Kg was my average (-7 pounds).
 * Slight changes to the bike course (highway section vs bike path, moving the turnaround on Willis Point versus Downey Road).
 * Recently breaking a bone in my foot, putting more emphasis on bike fitness.
-* Maybe I am just fitter.
+* Putting the experience of the race last year into pratice.
 <!----->
 Maybe my biggest acheivement today is winning the mental 
-battle to **NOT RUN**. 
-
-I caught a comment from the peanut gallery, a friend of a 
-friend who doesn't know me or the current state of my foot; 
-A previous version of me would have outwardly reacted.
-
-Still, the battle of _"could"_ versus _"should"_ played out in 
-my head for 2 trips around the lake.
+battle to **NOT RUN**. That battle of _"could"_ versus 
+_"should"_ played out in my head for 2 trips around the lake.
 
 Because of the walking, I feel like I finished with bullets in 
 the chamber, with the option to fire them at a bigger event in 
 just 4 weeks time. 
+
+---
+
+### CALORIES
+2 bagels and a strong cup of coffee before leaving the house 
+at 0450.
+
+Nothing before the swim.
+
+On the bike, 1.5&#8239;L of plain water and 450&#8239;ml of 
+maple syrup mixed with a splash of coffee in a third bottle. 
+Rolled through all 3 aid stations and no bathroom stops.
+
+On the walk, sipped water at aid stations, just enough to not 
+upset my bowel. Potato chips on the last lap worked gloriously 
+well!
+
+
