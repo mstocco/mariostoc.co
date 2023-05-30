@@ -3,7 +3,7 @@
 
 <br />If you are reading this, it is highly likely that you already know me, but if you don't, here is the quick scoop...
 
-I live and work in _Victoria, British Columbia_ and I am engaged to the sweetest woman ever!
+I live and work in _Victoria, British Columbia_ and I am <strike>engaged</strike> married to the sweetest woman ever!
 
 I am currently employed as a Systems Architect at _Distributel, a division of Bell Canada_, working on a number of initiatives around our best-in-market telecommunications platform. 
 
