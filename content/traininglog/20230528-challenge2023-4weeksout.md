@@ -28,8 +28,9 @@ Total Time: **7:04:00** &nbsp; Distance: **70.3 miles**
 My fastest 1900m swim on Elk Lake.  I broke my 40 km PR and
 finished the bike ~11 minutes quicker than last year.
 
-Then I turned my ego off and walked, a lot!   
-[Full Race Report](/racereports/2023-ironman-70.3-victoria).
+Then I turned my ego off and walked, a lot!
+
+[Full Race Report](/racereports/2023-ironman-70.3-victoria)
 
 <table style="position:absolute;bottom:0;font-size:0.85em;width:340px;border-collapse:collapse;">
  <thead>

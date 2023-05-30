@@ -7,14 +7,17 @@ Week beginning [Sunday, May 21, 2023](javascript:flick('sun');)
 Marry my sweetheart then prep for a 70.3
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **7 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **PEAKING**
 
-&mdash;
+This week I married Carina at an intimate ceremony in front of close friends and family and live streamed to other loved ones across the world.  Pretty awesome feeling for the two of us.
 
-![](/assets/jpg/II-9x550.jpeg)
+This made for a natural dip in the training schedule and I feel like I am the better for it.  The lighter load going into this year's [Victoria 70.3](/racereports/2023-ironman-70.3-victoria) certainly will help.
+
+I felt fresh on a bike ride up to Langford and go into a lake for the first time this spring/summer.  Things are pretty awesome.
+
+![From Lands End Road looking to the northwest is the Cowichan Valley and the place I grew up.](/assets/jpg/IMG_4918-977x550.jpeg Satellite Channel Ecological Reserve)
 
 ## SUNDAY MAY 21 🌤
 Sleep **3** | Fatigue **2** | Stress **6** | Soreness **3**
