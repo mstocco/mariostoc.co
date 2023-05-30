@@ -14,7 +14,7 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![Certainly not perfect but a really solid day with many positive things to build on.](/assets/jpg/IMG_1892-977x550.jpeg 2023 IRONMAN 70.3 &mdash; VICTORIA)
 
 ## SUNDAY MAY 28 ☀️
 Sleep **4** | Fatigue **2** | Stress **5** | Soreness **3**
@@ -59,7 +59,7 @@ Then I turned my ego off and walked, a lot!
 
 <!---->
 ## MONDAY MAY 29 ☀️
-Sleep **3** | Fatigue **4** | Stress **3** | Soreness **3**
+Sleep **3** | Fatigue **5** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -68,11 +68,11 @@ Off or walk 10-40 minutes.
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+I got caught up with work and some things household related.  No formal walk but I was definitely not sitting all day.
 
 <!---->
-## TUESDAY MAY 30
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY MAY 30 🌤
+Sleep **4** | Fatigue **4** | Stress **4** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
