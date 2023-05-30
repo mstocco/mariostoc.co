@@ -4,7 +4,7 @@ Week beginning [Sunday, May 28, 2023](javascript:flick('sun');)
 **4** weeks out from race day.
 
 ## WEEKLY GOAL
-&mdash;
+Race well, tend to the right ankle.
 
 ## SUMMARY
 Total Time: **0 Hours**
@@ -63,7 +63,7 @@ Sleep **3** | Fatigue **4** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Off or walk 10-40 minutes.
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -76,7 +76,17 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Swim 1600: 
+300 easy swim. 
+200 w/ buoy. 
+100 kick. 
+6 rounds (50 as 25 fist drill/25 smooth r :20, 100 aerobic/steady. R :20)
+2x 50 easy to cool down. 
+
+Run/Walk 40 minutes: 
+5 minute walk to loosen up. 
+10x 2 minutes easy running, 1 minute walk after each. 
+5 minute walk to cool down
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -89,7 +99,11 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Pre-Ride: Dead bugs, breathing, Glute Bridges.
+Fun MTB ride ~ 80-90 minutes. 
+Head over to Thetis. Keep things easy. Have fun. 
+
+Mobility 21 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -102,7 +116,17 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Swim 2000: 
+3 rounds (100 easy free, 100 easy w/ buoy. R :20 after each) 
+2 rounds (50 steady kick, 100 easy swim. R :15 after each) 
+3 rounds (100 steady/smooth. 100 as 75 steady/smooth/25 higher turnover, 100 as 50 steady/smooth/50 higher turnover. R :20 after each)
+4x 50 super easy to cool down. 
+
+Pre-Run: Dead bugs, breathing, Glute Bridges...:20-:30 second side planks, :30 front planks.
+Run/Walk 40 minutes: 
+5 minute walk to loosen up. 
+10x 2 minutes easy running, 1 minute walk after each. 
+5 minute walk to cool down.
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -115,7 +139,17 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Pre-Ride: Dead bugs, breathing, Glute Bridges.
+Brick Ride: 
+Ride 2:30. Flat/rolling route. (nothing too hilly) 
+Easy effort. 
+On the TT bike. 
+Fueling/eating, just like on Sunday! (Or add Maple Syrup if you like) 
+
+Off the bike: 45 minutes Run/Walk
+5 minutes walking to loosen up. 
+9x 3 minutes easy running, 1 minute walk after each. 
+4 minutes walking to finish up.
 
 ### NOTES
 Total Time: **0 Minutes**

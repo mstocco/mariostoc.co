@@ -7,7 +7,7 @@ Week beginning [Sunday, May 21, 2023](javascript:flick('sun');)
 Marry my sweetheart then prep for a 70.3
 
 ## SUMMARY
-Total Time: **7 Hours**
+Total Time: **7&#8239;Hours**
 
 I feel like I was **PEAKING**
 
@@ -179,13 +179,16 @@ Ride 60 minutes EASY. Flatter route. On the TT bike.
 Mobility 15 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **42&#8239;Minutes** &nbsp; Ride: **17&#8239;km**
 
-&mdash;  
+Ran a bit short on time as I was playing bike mechanic.  Rear carrier now has a CO<sub>2</sub> and tire lever set bolted on.  A spare tube with a long enough extension to work on the back wheel is secured back there too.
 
+New latex tubes installed and the chain cleaned and oiled.  I also replaced the uncut aero-bars with the pair from my old bike; they fit the position I've been playing with on the new bike.  The TT Bike looks ready to race now.
+
+The ride was a loop of the _Goose/E&N bike paths_ to confirm everything works.  I did pick up a shard of glass, heard it then stopped to pick it out of the tire casing before it pierced the brand new tube.  Luck is on my side this week. 
 <!---->
-## SATURDAY MAY 27
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY MAY 27 ☀️
+Sleep **2** | Fatigue **2** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -194,6 +197,10 @@ Walk ~ 60 minutes.
 Mobility 20 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **35&#8239;Minutes** &nbsp; Walk: **3.5&#8239;km**
 
-&mdash;  
+I rode from _Beaver Lake_ to the bike check-in at _Hamsterly Beach_.  I honestly would have loved to go for a longer ride today; save it for [tomorrow](/racereports/2023-ironman-70.3-victoria).
+
+After mulling about the _"Village"_, I decided skip the bus ride back to the parking lot and to make today's walk a trek on the running path instead.  Took me a less time than I thought but it was during the heat of the day and my shoulders were starting to burn.  
+
+I napped, maybe an hour, before dinner.  
