@@ -44,8 +44,8 @@ Then I turned my ego off and walked, a lot!
   </tr>
  </thead>
  <tbody>
-  <tr><td>Swim</td><td style="text-align:right;">  33:52</td><td style="text-align:right;"> 20</td><td style="text-align:right;"> 301</td></tr>
-  <tr><td>Bike</td><td style="text-align:right;">2:59:46</td><td style="text-align:right;"> 51</td><td style="text-align:right;"> 551</td></tr>
+  <tr><td>Swim</td><td style="text-align:right;"> 🏆 33:52</td><td style="text-align:right;"> 20</td><td style="text-align:right;"> 301</td></tr>
+  <tr><td>Bike</td><td style="text-align:right;"> 🏆 2:59:46</td><td style="text-align:right;"> 51</td><td style="text-align:right;"> 551</td></tr>
   <tr><td>Run&ast;</td><td style="text-align:right;">3:12:39</td><td style="text-align:right;">111</td><td style="text-align:right;">1542</td></tr>
   <tr><td>T1/T2  </td><td style="text-align:right;"> 5:09/12:36</td><td colspan="2"></td></tr>
  </tbody>
@@ -70,7 +70,9 @@ Off or walk 10-40 minutes.
 ### NOTES
 Total Time: **0 Minutes**
 
-I got caught up with work and some things household related.  No formal walk but I was definitely not sitting all day.
+I got caught up with work and some things household related.
+
+No formal walk but I was definitely moving around throughout the day.
 
 <!---->
 ## TUESDAY MAY 30 🌤
@@ -93,9 +95,9 @@ Run/Walk 40 minutes:
 ### NOTES
 Total Time: **60 Minutes** &nbsp; Walk/Run: **7.2 km**
  
-Missed my afternoon swim window.  In lieu, I added 20 minutes of walking to my _"second"_ workout.  Legs are tired and maybe I was landing heavy; my right ankle felt weak during the last few reps.   Pretty consistent 5:30/km during the 2 minute reps; I would have honestly guessed 6:30/km.  The clock in my head is way off.
+Missed my afternoon swim window.  In lieu, I added 20 minutes of walking to my _"second"_ workout.  Tired legs and maybe I was landing heavy, my right ankle felt weaker during the last few reps.   Pretty consistent 5:30/km during the 2 minute reps; I would have honestly guessed 6:30/km.  The clock in my head is way off.
 
-Angry tissue flair up around my right clavicle; swimming may not have worked earlier regardless.
+Angry tissue flair up around my right clavicle; swimming may not have worked earlier today.
 
 <!---->
 ## WEDNESDAY MAY 31 ⛅️
