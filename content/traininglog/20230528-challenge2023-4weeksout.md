@@ -20,7 +20,9 @@ I feel like I was...
 Sleep **4** | Fatigue **2** | Stress **5** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
-<img src="/assets/svg/ironman-70.3-victoria-logo.svg" height="75" width="150px" />
+### PLANNED WORKOUT
+<a href="/racereports/2023-ironman-70.3-victoria">
+<img src="/assets/svg/ironman-70.3-victoria-logo.svg" height="50" width="100px" /></a>
 
 ### NOTES
 Total Time: **7:04:00** &nbsp; Distance: **70.3 miles**
@@ -89,9 +91,11 @@ Run/Walk 40 minutes:
 5 minute walk to cool down
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **60 Minutes** &nbsp; Walk/Run: **7.2 km**
+ 
+Between work and chores, I was late getting out the door for the swim.  Later in the evening I found a nasty hot spot, right where my broken clavicle is.  Swimming may not have worked today.
 
-&mdash;  
+In lieu (before noticing the clavicle), I added an extra 20 minutes of walking to my _"second"_ workout.  Legs are a bit tired and maybe I was landing a bit heavy this afternoon; my right ankle felt weaker for the later 2 minute reps.   Pretty consistent 5:30/km during the 2 minute reps; I would have honestly guessed 6:30/km.  The clock in my head is way off.  
 
 <!---->
 ## WEDNESDAY MAY 31
