@@ -12,17 +12,17 @@ class CalendarMonth(DIV):
 	"""
 	def __init__(self, yyyy, mm):
 
+
 		triathlons = []
+		keydates = []
+		offdays = []
+		
 		triathlons.append(date(2023,6,25))    # Challenge Roth
 		triathlons.append(date(2023,5,28))    # Victoria 70.3
-		triathlons.append(date(2023,5,14))    # Westwood Standard
 
-		keydates = []
-		#keydates.append(date(2023,1,22))	# CV Half Marathon
-		#keydates.append(date(2023,3,12))	# CV Half Marathon
 		keydates.append(date(2023,4,23))	# TC10K
+		keydates.append(date(2023,5,21))	# Marriage
 
-		offdays = []
 		offdays.append(date(2023,1,20))		# COVID
 		offdays.append(date(2023,1,21))		# COVID
 		offdays.append(date(2023,1,22))		# COVID
@@ -42,50 +42,56 @@ class CalendarMonth(DIV):
 		trainingStart = date(2022,10,2)
 
 		dateobj = date(yyyy, mm, 1)
-		h4 = H4({'style':'margin:0;'})
-		h4.innerHTML = dateobj.strftime('%B %Y')
-		self.innerHTML = h4.tohtml()
+
+		self.innerHTML = H4(dateobj.strftime('%B %Y')).tohtml()
 	
+		table = TABLE()
 		thead = THEAD()
+		tbody = TBODY()
+
 		tr = TR()
-		style = 'text-align:left;'
-		for h in ['Week','Su','Mo','Tu','We','Th','Fr','Sa']:
-			td = TD({'style':style})
+		tr.append(TD('Week'))
+		for h in ['Su','Mo','Tu','We','Th','Fr','Sa']:
+			td = TD({'class':'day'})
 			td.innerHTML = h
 			tr.append(td)
-			style = 'text-align:right;'
 		thead.append(tr)
 
-		tbody = TBODY()
 		tr = TR()
 		daynum = 0
 		calObj = Calendar(6)	# Sunday being the first day of the week
 		for calDate in calObj.itermonthdates(yyyy, mm):
-			td = TD()
+			td = TD({'class':'day'})
 			style = {'style':'text-align:right;padding:0 2px;margin:0;width:25px;'}
 			if calDate.month != mm:
+				td.style = 'color:#ddd;'
 				style['style'] = '%scolor:#ddd;' % style['style']
 			elif calDate.month == 9:
 				if calDate == imitaly:
 					style['style'] = '%sfont-weight:bold;text-decoration:underline;font-size:1.17em;background-color:#33B8FF;' % style['style']
 				else:
+					td.style = 'color:#ddd;'
 					style['style'] = '%scolor:#ddd;' % style['style']
 			else:
 				if calDate <= date.today():
 					if calDate < trainingStart:
+						td.style = 'color:#ddd;'
 						style['style'] = '%scolor:#ddd;' % style['style']
 					elif calDate > date(2021,11,13) and calDate < date(2021,12,19):
+						td.style = 'color:orange;'
 						style['style'] = '%scolor:orange;' % style['style']
 					else:
+						td.style = 'background-color:greenyellow;'
 						style['style'] = '%sbackground-color:greenyellow;' % style['style']
 				if calDate in triathlons:
-					style['style'] = '%sfont-weight:bold;text-decoration:underline;font-size:1.17em;background-color:#33B8FF;' % style['style']
+					td.style = 'font-weight:bold;text-decoration:underline;font-size:1.17em;background-color:#33B8FF;'
 				elif calDate in keydates:
+					td.style = 'font-weight:bold;text-decoration:underline;font-size:1.17em;background-color:#BCE8FF;'
 					style['style'] = '%sfont-weight:bold;text-decoration:underline;font-size:1.17em;background-color:#BCE8FF;' % style['style']
 				elif calDate in offdays:
-					style['style'] = '%s;text-decoration:line-through;background-color:#FFFF66;' % style['style']
+					td.style = 'text-decoration:line-through;background-color:#FFFF66;'
 
-			td.style = style['style']
+			#td.style = style['style']
 			td.innerHTML = str(calDate.day)
 			if daynum % 7 == 0:
 				wtg = goalrace - calDate
@@ -95,7 +101,7 @@ class CalendarMonth(DIV):
 				#href = 'ironman2022-%dweeksout' % weeknum
 				href = 'challenge2023-%dweeksout' % weeknum
 
-				wk = TD({'style':'text-align:center;padding:0 2px;margin:0;width:35px;'})
+				wk = TD({'style':'text-align:center;width:35px;'})
 				if weeknum < 47:
 					wk.append(str(weeknum))
 					if weeknum < 2:
@@ -124,7 +130,6 @@ class CalendarMonth(DIV):
 			daynum = (daynum + 1)
 		tbody.append(tr)
 		
-		table = TABLE({'style':'font-size:0.8em;border-collapse:collapse;margin-top:-5px;'})
 		table.append(thead)
 		table.append(tbody)
 		div = DIV({'style':'height:162px;'})
@@ -132,6 +137,7 @@ class CalendarMonth(DIV):
 			div.style = 'height:152px;border-bottom:1px solid #ddd;'
 		div.append(table)
 		self.append(div)
+		self._class = 'month'
 
 
 class CalendarMonths(DIV):
@@ -139,7 +145,7 @@ class CalendarMonths(DIV):
 	    to the tile and calendars.
 	"""
 	def __init__(self):
-		self._class = 'carousel-cell text'
+		self._class = 'carousel-cell cal'
 		self.style = 'width:265px;'
 		self.innerHTML = ''
 
@@ -176,7 +182,6 @@ class IronmanCalendar(TemplateDocument):
 		carouselCells.append(CalendarMonths())
 		carouselCells.append(CalendarMonths())
 		
-		
 		div = DIV({'style':'height:32px;'})
 		#carouselCells[3].append(div)
 		carouselCells[2].append(div)
@@ -202,4 +207,11 @@ class IronmanCalendar(TemplateDocument):
 		self.carousel.append(CarouselImage('![](/assets/jpg/IMG_1336-549x550.jpeg)'))
 		self.carousel.append(CarouselLast())
 
+		style = STYLE()
+		style.append(' .cal {width:265px;margin:0 0 0 10px;} ')
+		style.append(' .cal .month div {height:152px;} ')
+		style.append(' .cal .month h4 {margin:0;} ')
+		style.append(' .cal .month div table {font-size:0.8em;border-collapse:collapse;margin-top:-5px;} ')
+		style.append(' .cal .month .day {text-align:right;width:25px;} ')
 
+		self.head.append(style)
