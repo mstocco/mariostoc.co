@@ -93,13 +93,13 @@ Run/Walk 40 minutes:
 ### NOTES
 Total Time: **60 Minutes** &nbsp; Walk/Run: **7.2 km**
  
-Between work and chores, I was late getting out the door for the swim.  Later in the evening I found a nasty hot spot, right where my broken clavicle is.  Swimming may not have worked today.
+Missed my afternoon swim window.  In lieu, I added 20 minutes of walking to my _"second"_ workout.  Legs are tired and maybe I was landing heavy; my right ankle felt weak during the last few reps.   Pretty consistent 5:30/km during the 2 minute reps; I would have honestly guessed 6:30/km.  The clock in my head is way off.
 
-In lieu (before noticing the clavicle), I added an extra 20 minutes of walking to my _"second"_ workout.  Legs are a bit tired and maybe I was landing a bit heavy this afternoon; my right ankle felt weaker for the later 2 minute reps.   Pretty consistent 5:30/km during the 2 minute reps; I would have honestly guessed 6:30/km.  The clock in my head is way off.  
+I am dealing with some angry tissue around my right clavicle; swimming may not have worked today regardless.
 
 <!---->
-## WEDNESDAY MAY 31
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY MAY 31 ⛅️
+Sleep **3** | Fatigue **4** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -110,9 +110,9 @@ Head over to Thetis. Keep things easy. Have fun.
 Mobility 21 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; MTB Ride: **00 km**
 
-&mdash;  
+The hot spot of the superior fibers of my trapezius (right clavicle) is still there but less acute this morning.  My right ankle feels better than I expected.
 
 <!---->
 ## THURSDAY JUN 1
