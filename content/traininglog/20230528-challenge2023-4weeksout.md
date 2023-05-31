@@ -95,7 +95,7 @@ Total Time: **60 Minutes** &nbsp; Walk/Run: **7.2 km**
  
 Missed my afternoon swim window.  In lieu, I added 20 minutes of walking to my _"second"_ workout.  Legs are tired and maybe I was landing heavy; my right ankle felt weak during the last few reps.   Pretty consistent 5:30/km during the 2 minute reps; I would have honestly guessed 6:30/km.  The clock in my head is way off.
 
-I am dealing with some angry tissue around my right clavicle; swimming may not have worked today regardless.
+Angry tissue flair up around my right clavicle; swimming may not have worked earlier regardless.
 
 <!---->
 ## WEDNESDAY MAY 31 ⛅️

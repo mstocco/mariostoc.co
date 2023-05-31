@@ -101,7 +101,7 @@ Bay_.  Normally the hills on this segment zaps my legs; today,
 everything is rolling by very quickly.
 
 Even the climb up _Willis Point Road_ feels easy this morning.
-I breifly stand on the pedals on the incline near _Durrance 
+I briefly stand on the pedals on the incline near _Durrance 
 Lake_; reality of the last ~75 kilometres quickly puts me back in the 
 saddle.  Maybe it is best to relax and have another 
 slug from the concentrated bottle; there are a few more hills 
