@@ -85,7 +85,7 @@ Swim 1600:
 200 w/ buoy. 
 100 kick. 
 6 rounds (50 as 25 fist drill/25 smooth r :20, 100 aerobic/steady. R :20)
-2x 50 easy to cool down. 
+2x 50 easy cool down 
 
 Run/Walk 40 minutes: 
 5 minute walk to loosen up. 
