@@ -163,7 +163,25 @@ I rode from the stop sign at the base of the hill, 47m up to a manhole cover at 
 Each trip down the hill was consistently a minute and a half of rest (not 3 minutes).  Each time up was with a bit more intensity, except I blew up midway on the fourth climb and paid for it on the top half.  The 5th time up was paced way better. 
 
 ### Climb Stats
-<table style="width:330px;"><thead><tr><td style="width:20px;"></td><td style="font-size:0.8em;">Time</td><td style="text-align:right;font-size:0.8em;">Avg KPH</td><td style="text-align:right;font-size:0.8em;">Avg BPM</td><td style="text-align:right;font-size:0.8em;">Max BPM</td><td style="text-align:right;font-size:0.8em;">Est Power</td></tr></thead><tbody><tr><td style="">1</td><td style="text-align:right;">3:21</td><td style="text-align:right;">10.7</td><td style="text-align:right;">130</td><td style="text-align:right;">138</td><td style="text-align:right;">218w</td></tr><tr><td style="">2</td><td style="text-align:right;">2:57</td><td style="text-align:right;">11.8</td><td style="text-align:right;">134</td><td style="text-align:right;">146</td><td style="text-align:right;">235w</td></tr><tr><td style="">3</td><td style="text-align:right;">2:44</td><td style="text-align:right;">12.7</td><td style="text-align:right;">142</td><td style="text-align:right;">153</td><td style="text-align:right;">257w</td></tr><tr><td style="">4</td><td style="text-align:right;">2:45</td><td style="text-align:right;">12.7</td><td style="text-align:right;">145</td><td style="text-align:right;">153</td><td style="text-align:right;">255w</td></tr><tr><td style="">5</td><td style="text-align:right;">2:38</td><td style="text-align:right;">13.3</td><td style="text-align:right;">148</td><td style="text-align:right;">158</td><td style="text-align:right;">268w</td></tr></tbody></table>
+<table>
+ <thead>
+  <tr>
+   <th style="width:20px;"></td>
+   <th>Time</td>
+   <th style="text-align:right;">Avg KPH</td>
+   <th style="text-align:right;">Avg BPM</td>
+   <th style="text-align:right;">Max BPM</td>
+   <th style="text-align:right;">Est Power</td>
+  </tr>
+ </thead>
+ <tbody>
+  <tr><td>1</td><td style="text-align:right;">3:21</td><td style="text-align:right;">10.7</td><td style="text-align:right;">130</td><td style="text-align:right;">138</td><td style="text-align:right;">218w</td></tr>
+  <tr><td>2</td><td style="text-align:right;">2:57</td><td style="text-align:right;">11.8</td><td style="text-align:right;">134</td><td style="text-align:right;">146</td><td style="text-align:right;">235w</td></tr>
+  <tr><td>3</td><td style="text-align:right;">2:44</td><td style="text-align:right;">12.7</td><td style="text-align:right;">142</td><td style="text-align:right;">153</td><td style="text-align:right;">257w</td></tr>
+  <tr><td>4</td><td style="text-align:right;">2:45</td><td style="text-align:right;">12.7</td><td style="text-align:right;">145</td><td style="text-align:right;">153</td><td style="text-align:right;">255w</td></tr>
+  <tr><td>5</td><td style="text-align:right;">2:38</td><td style="text-align:right;">13.3</td><td style="text-align:right;">148</td><td style="text-align:right;">158</td><td style="text-align:right;">268w</td></tr>
+ </tbody>
+</table>
 <!---->
 ### Silverstone Strava Segment
 ![Strava Segment Chart](/assets/jpg/climb5-20210422.jpeg)

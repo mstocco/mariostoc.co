@@ -4,18 +4,25 @@ Week beginning [Sunday, July 17, 2022](javascript:flick('sun');)
 **6** weeks out from race day.
 
 ## WEEKLY GOAL
-Recover from the race on [Sunday](javascript:flick('sun');) before the hopefully a really big 4 weeks.
+Recover from the race on [Sunday](javascript:flick('sun');) 
+before the hopefully a really big 4 weeks.
 
 ## SUMMARY
 Total Time: **14 Hours**
 
 I feel like I was **READY FOR WHAT'S NEXT**
 
-I think this was an pretty good week considering I how I absorbed the effort from the [race](racereports/2022-victoria-half) on [Sunday](javascript:flick('sun');).
+I think this was an pretty good week considering I how I 
+absorbed the effort from the [race](racereports/2022-victoria-half) 
+on [Sunday](javascript:flick('sun');).
 
-Later in the week, I missed a run on [Thursday](javascript:flick('thu');) as my toe still needed more rest.  That rest led to my most comfortable run since its injury on [Saturday](javascript:flick('sat');).
+Later in the week, I missed a run on [Thursday](javascript:flick('thu');) 
+as my toe still needed more rest.  That rest led to my most 
+comfortable run since its injury on [Saturday](javascript:flick('sat');).
 
-I did have a bit of a motivational struggle getting out the door on [Friday](javascript:flick('fri');) but finished the ride on a high.
+I did have a bit of a motivational struggle getting out the 
+door on [Friday](javascript:flick('fri');) but finished the 
+ride on a high.
 
 ![With my friend Kevin Nuun in hot pursuit, we are about to roll up to the dismount line together.](/assets/jpg/IMG_1215-977x550.jpeg BROOKLEIGH ROAD, SAANICH, BC)
 
@@ -27,25 +34,43 @@ Sleep **2** | Fatigue **2** | Stress **2** | Soreness **3**
 [2022 Victoria Half](/racereports/2022-victoria-half)
 
 ### NOTES
-Total Time: **3:02:34**  
-142/256 Overall  
-110/162 Gender (M)  
-13/17 Division (M5054)
+Total Time: **6:02:34** &nbsp; Distance: **69 miles**
 
-<hr />
+The weather was 13ºC and overcast at the start, 20ºC and sunny 
+at the finish line.  No wind throughout the day.
 
-<table>
-<tr><td>Swim</td><td style="text-align:right;font-weight:bold; width:125px;">0:35:25</td></tr>
-<tr><td>T1</td><td style="text-align:right;font-weight:bold;">0:04:48</td></tr>
-<tr><td>Bike</td><td style="text-align:right;font-weight:bold;">3:04:22</td></tr>
-<tr><td>T2</td><td style="text-align:right;font-weight:bold;">0:03:32</td></tr>
-<tr><td>Run</td><td style="text-align:right;font-weight:bold;">2:14:25</td></tr>
-</table>
-
-Weather:  
-13ºC and overcast at the start, 20ºC and sunny at the finish line.  No wind throughout the day.
+This was a fun day!
 
 Full race report [here](/racereports/2022-victoria-half).
+
+<table>
+ <thead>
+  <tr>
+   <th style="width:25%;"></th>
+   <th style="width:25%;text-align:right;">Time</th>
+   <th style="width:25%;text-align:right;">M50-54</th>
+   <th style="width:25%;text-align:right;">Overall</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr><td>Swim</td><td style="text-align:right;">  35:25</td><td style="text-align:right;">-</td><td style="text-align:right;">-</td></tr>
+  <tr><td>Bike</td><td style="text-align:right;">3:04:22</td><td style="text-align:right;">-</td><td style="text-align:right;">-</td></tr>
+  <tr><td>Run </td><td style="text-align:right;">2:14:29</td><td style="text-align:right;">-</td><td style="text-align:right;">-</td></tr>
+  <tr><td>T1/T2</td><td style="text-align:right;">4:48 / 3:32</td><td colspan="2"></td></tr>
+ </tbody>
+ <tfoot>
+   <td>Overall</td>
+   <td style="font-weight:bold;text-align:right;">6:02:34</td>
+   <td style="font-weight:bold;text-align:right;">110/162</td>
+   <td style="font-weight:bold;text-align:right;">143/257</td>
+  </tr>
+  <tr>
+   <td colspan="2">Percentile</td>
+   <td style="text-align:right;">68</td>
+   <td style="text-align:right;">55</td>
+  </tr>
+ </tfoot>
+</table>
 
 <!---->
 ## MONDAY JUL 18 ☀️

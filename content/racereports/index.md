@@ -12,16 +12,16 @@ Below is a list of past events that I have entered.
 [2021 IRONMAN Italy - Emilia Romagna](javascript:flkty.select(3);)
 
 ---
-
-[2022 Victoria Half](javascript:flkty.select(5);)  
-[2022 IRONMAN 70.3 - Victoria](javascript:flkty.select(5);)  
-[2021 Victoria Half](javascript:flkty.select(6);)
+[2023 IRONMAN 70.3 - Victoria](javascript:flkty.select(5);)  
+[2022 Victoria Half](javascript:flkty.select(6);)  
+[2022 IRONMAN 70.3 - Victoria](javascript:flkty.select(6);)  
+[2021 Victoria Half](javascript:flkty.select(7);)
 
 ## RUNNING
-[2019 Victoria Marathon](javascript:flkty.select(8);)  
-[2019 Calgary Marathon](javascript:flkty.select(8);)  
-[2018 Vancouver Marathon](javascript:flkty.select(9);)  
-[2017 Victoria Marathon](javascript:flkty.select(9);)
+[2019 Victoria Marathon](javascript:flkty.select(9);)  
+[2019 Calgary Marathon](javascript:flkty.select(9);)  
+[2018 Vancouver Marathon](javascript:flkty.select(10);)  
+[2017 Victoria Marathon](javascript:flkty.select(10);)
 
 <!---->
 <img src="/assets/svg/ironman-canada-logo.svg" height="75px" width="170px" />
@@ -41,9 +41,9 @@ maybe one of the fun runs in my life.
 Penticton was awesome.
 
 <p class="continue"><a href="2022-ironman-canada-penticton">full race report &rarr;</a></p>
-<table style="position:absolute;bottom:0;font-size:0.85em;width:340px;border-collapse:collapse;">
+<table style="position:absolute;bottom:0;">
  <thead>
-  <tr style="border-bottom:1px solid black;">
+  <tr>
    <th style="width:25%;"></th>
    <th style="width:25%;text-align:right;">Time</th>
    <th style="width:25%;text-align:right;">M50-54</th>
@@ -58,7 +58,7 @@ Penticton was awesome.
   <tr><td>T2  </td><td style="text-align:right;">  14:35</td><td colspan="2"></td></tr>
  </tbody>
  <tfoot>
-  <tr style="border-top:1px solid black;">
+  <tr>
    <td>Overall</td>
    <td style="font-weight:bold;text-align:right;">13:32:06</td>
    <td style="font-weight:bold;text-align:right;">  86/168</td>
@@ -86,9 +86,9 @@ Comfortable jog for 19km, then maintained a huge smile through to the finish.
 
 <p class="continue"><a href="2021-ironman-italy-emilia-romagna">full race report &rarr;</a></p>
 
-<table style="position:absolute;bottom:0;font-size:0.85em;width:340px;border-collapse:collapse;">
+<table style="position:absolute;bottom:0;">
  <thead>
-  <tr style="border-bottom:1px solid black;">
+  <tr>
    <th style="width:25%;"></th>
    <th style="width:25%;text-align:right;">Time</th>
    <th style="width:25%;text-align:right;">M50-54</th>
@@ -103,7 +103,7 @@ Comfortable jog for 19km, then maintained a huge smile through to the finish.
   <tr><td>T2  </td><td style="text-align:right;">  14:25</td><td colspan="2"></td></tr>
  </tbody>
  <tfoot>
-  <tr style="border-top:1px solid black;">
+  <tr>
    <td>Overall</td>
    <td style="font-weight:bold;text-align:right;"> 13:22:09</td>
    <td style="font-weight:bold;text-align:right;">  197/244</td>
@@ -113,15 +113,55 @@ Comfortable jog for 19km, then maintained a huge smile through to the finish.
 </table>
 
 ![](/assets/jpg/II-9x550.jpeg)
+<img src="/assets/svg/ironman-70.3-victoria-logo.svg" height="75px" width="170px" />
+
+---
+
+## 2023 IRONMAN 70.3 - VICTORIA
+<p class="timestamp"> Sunday, May 28, 2023</p>
+
+### SUMMARY
+My fastest 1900m swim on Elk Lake.  I broke my 40 km PR and 
+finished the bike ~11 minutes quicker than last year.
+
+Then I turned my ego off and walked, a lot!
+
+&ast; The plan was to jog 50 minutes and walk the balance.
+<p class="continue"><a href="2023-ironman-70.3-victoria">full race report &rarr;</a></p>
+<table style="position:absolute;bottom:0;">
+ <thead>
+  <tr>
+   <th style="width:25%;"></th>
+   <th style="width:25%;text-align:right;">Time</th>
+   <th style="width:25%;text-align:right;">M50-54</th>
+   <th style="width:25%;text-align:right;">Overall</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr><td>Swim    </td><td style="text-align:right;">  33:52</td><td style="text-align:right;"> 20</td><td style="text-align:right;"> 301</td></tr>
+  <tr><td>Bike    </td><td style="text-align:right;">2:59:46</td><td style="text-align:right;"> 51</td><td style="text-align:right;"> 551</td></tr>
+  <tr><td>Run&ast;</td><td style="text-align:right;">3:12:39</td><td style="text-align:right;">111</td><td style="text-align:right;">1542</td></tr>
+  <tr><td>T1/T2   </td><td style="text-align:right;">5:09 / 12:36</td><td colspan="2"></td></tr>
+ </tbody>
+ <tfoot>
+  <tr>
+   <td>Overall</td>
+   <td style="font-weight:bold;text-align:right;">  7:04:00</td>
+   <td style="font-weight:bold;text-align:right;">   91/115</td>
+   <td style="font-weight:bold;text-align:right;">1290/1607</td>
+  </tr>
+ </tfoot>
+</table>
+<!---->
 ## 2022 Victoria Half
 <p class="timestamp" style="margin-bottom:5px;">Sunday, July 17, 2022</p>
 
 Seven weeks after 70.3 Victoria, I did not improve the run despite a _"healed"_ pinkie toe.
 
 <p class="continue"><a href="2022-victoria-half">full race report &rarr;</a></p>
-<table style="font-size:0.85em;width:340px;border-collapse:collapse;margin-bottom:44px;">
+<table style="margin-bottom:44px;">
  <thead>
-  <tr style="border-bottom:1px solid black;">
+  <tr>
    <th style="width:25%;"></th>
    <th style="width:25%;text-align:right;">Time</th>
    <th style="width:25%;text-align:right;">M50-54</th>
@@ -135,7 +175,7 @@ Seven weeks after 70.3 Victoria, I did not improve the run despite a _"healed"_ 
   <tr><td>T1/T2</td><td style="text-align:right;">4:48 / 3:32</td><td colspan="2"></td></tr>
  </tbody>
  <tfoot>
-  <tr style="border-top:1px solid black;">
+  <tr>
    <td>Overall</td>
    <td style="font-weight:bold;text-align:right;">6:02:34</td>
    <td style="font-weight:bold;text-align:right;">110/162</td>
@@ -150,9 +190,9 @@ Seven weeks after 70.3 Victoria, I did not improve the run despite a _"healed"_ 
 Broke my little toe before leaving the house.
 
 <p class="continue"><a href="2022-ironman-703-victoria">full race report &rarr;</a></p>
-<table style="position:absolute;bottom:0;font-size:0.85em;width:340px;border-collapse:collapse;">
+<table style="position:absolute;bottom:0;">
  <thead>
-  <tr style="border-bottom:1px solid black;">
+  <tr>
    <th style="width:25%;"></th>
    <th style="width:25%;text-align:right;">Time</th>
    <th style="width:25%;text-align:right;">M50-54</th>
@@ -166,7 +206,7 @@ Broke my little toe before leaving the house.
   <tr><td>T1/T2</td><td style="text-align:right;">7:59 / 5:45</td><td colspan="2"></td></tr>
  </tbody>
  <tfoot>
-  <tr style="border-top:1px solid black;">
+  <tr>
    <td>Overall</td>
    <td style="font-weight:bold;text-align:right;"> 6:14:37</td>
    <td style="font-weight:bold;text-align:right;">  69/120</td>
@@ -185,9 +225,9 @@ Pinnacle had the buoys out on the lake, I rode the 70.3 Victoria
 bike course and felt amazing on second lap of the lake.
 
 <p class="continue"><a href="2021-victoria-half">full report &rarr;</a></p>
-<table style="font-size:0.85em;width:340px;border-collapse:collapse;">
+<table>
  <thead>
-  <tr style="border-bottom:1px solid black;">
+  <tr>
    <th style="width:34%;"></th>
    <th style="width:33%;text-align:right;">Time</th>
    <th style="width:33%;text-align:right;">Pace</th>
@@ -199,7 +239,7 @@ bike course and felt amazing on second lap of the lake.
   <tr><td>Run </td><td style="text-align:right;">1:59:52</td><td style="text-align:right;">  5:45/km</td></tr>
  </tbody>
  <tfoot>
-  <tr style="border-top:1px solid black;">
+  <tr>
    <td>Estimated</td><td style="font-weight:bold;text-align:right;">~6:15:00</td><td></td>
   </tr>
  </tfoot>

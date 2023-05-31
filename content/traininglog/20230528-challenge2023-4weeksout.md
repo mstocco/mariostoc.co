@@ -34,9 +34,9 @@ Then I turned my ego off and walked, a lot!
 
 [Full Race Report](/racereports/2023-ironman-70.3-victoria)
 
-<table style="position:absolute;bottom:0;font-size:0.85em;width:340px;border-collapse:collapse;">
+<table style="position:absolute;bottom:0;">
  <thead>
-  <tr style="border-bottom:1px solid black;">
+  <tr>
    <th style="width:25%;"></th>
    <th style="width:25%;text-align:right;">Time</th>
    <th style="width:25%;text-align:right;">M50-54</th>
@@ -50,7 +50,7 @@ Then I turned my ego off and walked, a lot!
   <tr><td>T1/T2  </td><td style="text-align:right;"> 5:09/12:36</td><td colspan="2"></td></tr>
  </tbody>
  <tfoot>
-  <tr style="border-top:1px solid black;">
+  <tr>
    <td>Overall</td>
    <td style="font-weight:bold;text-align:right;">  7:04:00</td>
    <td style="font-weight:bold;text-align:right;">   91/115</td>

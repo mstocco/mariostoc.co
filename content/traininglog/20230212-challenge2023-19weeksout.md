@@ -163,9 +163,15 @@ One thing that my mistake with the 2 minute efforts revealed was
 the delta in heartrate vs cadence and what it feels like to transfer 
 effort from my heart and lungs into my legs.
 
-<table style="border-collapse: collapse;">
+<table>
  <thead>
-  <tr class="agencyvc"><td style="text-align:center;">Rep</td><td style="width:90px;text-align:right;">RPM</td><td style="width:74px;text-align:right;">Avg HR</td><td style="width:70px;text-align:right;">W/KG</td><td style="width:68px;text-align:right;">AVG KPH</td></tr>
+  <tr>
+   <th style="text-align:center;">Rep</th>
+   <th style="width:86px;text-align:right;">RPM</th>
+   <th style="width:74px;text-align:right;">Avg HR</th>
+   <th style="width:70px;text-align:right;">W/KG</th>
+   <th style="width:72px;text-align:right;">Avg KPH</th>
+  </tr>
  </thead>
  <tbody>
   <tr style="background-color:whitesmoke;"><td style="text-align:center;">3</td><td style="text-align:right;">99</td><td style="text-align:right;">125</td><td style="text-align:right;">2.54</td><td style="text-align:right;">34.7</td></tr>
@@ -174,8 +180,6 @@ effort from my heart and lungs into my legs.
   <tr><td style="text-align:center;">6</td><td style="text-align:right;">62</td><td style="text-align:right;">117</td><td style="text-align:right;">2.49</td><td style="text-align:right;">34.4</td></tr>
  </tbody>
 </table>
-
----
 
 I would not rate this workout as my favourite; my 
 interface with the saddle was aggravated tonight. 
