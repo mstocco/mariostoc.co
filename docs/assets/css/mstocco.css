@@ -50,6 +50,11 @@ ul.alt li:first-child {border-top:0;padding-top:0;}
 .text p a {color:#06c;text-decoration:none}
 .text p a:visited {color:#06c;text-decoration:none}
 .text p a:hover {color:#06c;text-decoration:underline}
+
+.text table {width:340px;font-size:0.85em;border-collapse:collapse;}
+.text table thead tr {border-bottom:1px solid black;}
+.text table tfoot tr {border-top:1px solid black;}
+
 .image {background-size:contain;}
 .imagebanner {position:relative;height:550px;}
 .banner {position:absolute;background-color:rgba(0,0,0,.34);color:white;bottom:0;height:30px;margin:0;padding:10px;width:100%;}
@@ -119,3 +124,6 @@ footer p {font-size:0.7em;color#aaa;margin-left:10px;}
 .timestamp {margin-top:-3px;font-size:0.85em;}
 .continue {font-size:0.85em;text-align:right;margin:-16px 0 16px 0;}
 .continue-line {font-size:0.85em;text-align:right;margin:-16px 0 16px 0;border-bottom:1px solid black;padding-bottom:12px;}
+
+
+
