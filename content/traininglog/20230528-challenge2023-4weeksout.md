@@ -118,7 +118,7 @@ The superior fibers of my trapezius (at the right clavicle) is still sore, but l
 
 Late start to the ride as I was in town picking up a lower stack runner for my ankle. 
 
-Took 31 minutes to get up to the gate at _Westoby Road_; bit of a headwind, bit of [Sunday](javascript:flick('sun');) still in my legs.  I felt stronger the longer I rode and explored a new bit of single track.  The _Scotch Broom_ has taken over and some trails are impassable now.
+31 minutes to the _Westoby Road Gate_; bit of a headwind, bit of [Sunday](javascript:flick('sun');) still in my legs.  I felt stronger the longer I rode and explored a new bit of single track.  The _Scotch Broom_ has taken over and some trails are impassable now.
 
 <!---->
 ## THURSDAY JUN 1
