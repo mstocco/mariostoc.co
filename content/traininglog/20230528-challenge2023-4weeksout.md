@@ -37,22 +37,24 @@ Then I turned my ego off and walked, a lot!
 <table style="position:absolute;bottom:0;">
  <thead>
   <tr>
-   <th style="width:25%;"></th>
+   <th style="width:20%;"></th>
    <th style="width:25%;text-align:right;">Time</th>
+   <th style="width:5%;"></th>
    <th style="width:25%;text-align:right;">M50-54</th>
    <th style="width:25%;text-align:right;">Overall</th>
   </tr>
  </thead>
  <tbody>
-  <tr><td>Swim</td><td style="text-align:right;"> 🏆 33:52</td><td style="text-align:right;"> 20</td><td style="text-align:right;"> 301</td></tr>
-  <tr><td>Bike</td><td style="text-align:right;"> 🏆 2:59:46</td><td style="text-align:right;"> 51</td><td style="text-align:right;"> 551</td></tr>
-  <tr><td>Run&ast;</td><td style="text-align:right;">3:12:39</td><td style="text-align:right;">111</td><td style="text-align:right;">1542</td></tr>
-  <tr><td>T1/T2  </td><td style="text-align:right;"> 5:09/12:36</td><td colspan="2"></td></tr>
+  <tr><td>Swim</td><td style="text-align:right;">  33:52</td><td>🏆</td><td style="text-align:right;"> 20</td><td style="text-align:right;"> 301</td></tr>
+  <tr><td>Bike</td><td style="text-align:right;"> 2:59:46</td><td>🏆</td><td style="text-align:right;"> 51</td><td style="text-align:right;"> 551</td></tr>
+  <tr><td>Run&ast;</td><td style="text-align:right;">3:12:39</td><td></td><td style="text-align:right;">111</td><td style="text-align:right;">1542</td></tr>
+  <tr><td>T1/T2  </td><td style="text-align:right;"> 5:09/12:36</td><td colspan="3"></td></tr>
  </tbody>
  <tfoot>
   <tr>
    <td>Overall</td>
    <td style="font-weight:bold;text-align:right;">  7:04:00</td>
+   <td></td>
    <td style="font-weight:bold;text-align:right;">   91/115</td>
    <td style="font-weight:bold;text-align:right;">1290/1607</td>
   </tr>
