@@ -37,10 +37,10 @@ Then I turned my ego off and walked, a lot!
 <table style="position:absolute;bottom:0;">
  <thead>
   <tr>
-   <th style="width:20%;"></th>
+   <th style="width:25%;"></th>
    <th style="width:25%;text-align:right;">Time</th>
    <th style="width:5%;"></th>
-   <th style="width:25%;text-align:right;">M50-54</th>
+   <th style="width:20%;text-align:right;">M50-54</th>
    <th style="width:25%;text-align:right;">Overall</th>
   </tr>
  </thead>
