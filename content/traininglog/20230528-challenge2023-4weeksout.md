@@ -123,8 +123,8 @@ Late start to the ride as I was in town picking up a lower stack runner for my a
 31 minutes to the _Westoby Road Gate_; bit of a headwind, bit of [Sunday](javascript:flick('sun');) still in my legs.  I felt stronger the longer I rode and explored a new bit of single track.  The _Scotch Broom_ has taken over and some trails are impassable now.
 
 <!---->
-## THURSDAY JUN 1
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY JUN 1 ☀️
+Sleep **3** | Fatigue **3** | Stress **5** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -141,9 +141,9 @@ Run/Walk 40 minutes:
 5 minute walk to cool down.
 
 ### NOTES
-Total Time: **0 Minutes**
+Time: **0&#8239;Mins** &nbsp; Swim: **0&#8239;m** &nbsp; Walk/Run: **0&#8239;km**
 
-&mdash;  
+Sleep through the night but had a groggy morning.
 
 <!---->
 ## FRIDAY JUN 2
