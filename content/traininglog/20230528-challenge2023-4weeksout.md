@@ -112,9 +112,11 @@ Head over to Thetis. Keep things easy. Have fun.
 Mobility 21 minutes
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; MTB Ride: **00 km**
+Total Time: **105 Minutes** &nbsp; MTB Ride: **25 km**
 
-The hot spot of the superior fibers of my trapezius (right clavicle) is still there but less acute this morning.  My right ankle feels better than I expected.
+The superior fibers of my trapezius (at the right clavicle) is still sore, but less acute this morning.  My right ankle feels better than I expected.
+
+Late start to the ride as I was in town pickup up a lower stack runner for my ankle.  Took 31 minutes to get up to the gate at _Westoby Road_; bit of a headwind, bit of [Sunday](javascript:flick('sun');) still in my legs.  I felt stronger the longer I rode and explored a new bit of single track.  The Scotch Broom has taken over and some trails are almost impassable now.
 
 <!---->
 ## THURSDAY JUN 1
