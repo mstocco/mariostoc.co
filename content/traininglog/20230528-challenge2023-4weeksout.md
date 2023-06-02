@@ -27,7 +27,7 @@ Sleep **4** | Fatigue **2** | Stress **5** | Soreness **3**
 ### NOTES
 Total Time: **7:04:00** &nbsp; Distance: **70.3 miles**
 
-My fastest 1900m swim on Elk Lake.  I broke my 40 km PR and
+My fastest 1900&#8239;m swim on Elk Lake.  I broke my 40&#8239;km PR and
 finished the bike ~11 minutes quicker than last year.
 
 Then I turned my ego off and walked, a lot!
@@ -95,7 +95,7 @@ Run/Walk 40 minutes:
 5 minute walk to cool down
 
 ### NOTES
-Total Time: **60 Minutes** &nbsp; Walk/Run: **7.2 km**
+Total Time: **60 Minutes** &nbsp; Walk/Run: **7.2&#8239;km**
  
 Missed my afternoon swim window.  In lieu, I added 20 minutes of walking to my _"second"_ workout.  Tired legs and maybe I was landing heavy, my right ankle felt weaker during the last few reps.   Pretty consistent 5:30/km during the 2 minute reps; I would have honestly guessed 6:30/km.  The clock in my head is way off.
 
@@ -114,7 +114,7 @@ Head over to Thetis. Keep things easy. Have fun.
 Mobility 21 minutes
 
 ### NOTES
-Total Time: **105 Minutes** &nbsp; MTB Ride: **25 km**
+Total Time: **105 Minutes** &nbsp; MTB Ride: **25&#8239;km**
 
 The superior fibers of my trapezius (at the right clavicle) is still sore, but less acute this morning.  My right ankle feels better than I expected.
 
@@ -143,11 +143,18 @@ Run/Walk 40 minutes:
 ### NOTES
 Time: **0&#8239;Mins** &nbsp; Swim: **0&#8239;m** &nbsp; Walk/Run: **0&#8239;km**
 
-Sleep through the night but had a groggy morning.
+Sleep through the night but had a groggy morning.  Productive day at work before going to the pool.
+<!----->
+First 100m length (warm up) was done in 1:39 and I was pretty consistent in getting low 1:40s (or better) for the entire workout.  This despite my right elbow being sore from an interaction with a rock during the MTB ride [last night](javascript:flick('wed');).
 
+Could it be that the swimming in the wetsuit reset the _"level"_ in my head?  Or maybe the uptick in speed is due to having shaved my legs for the race.  Whatever, this was a fun workout.
+
+I did the run from _Crystal Pool_ to _Royal Jubilee Hospital_ and back.  Flat route with different underfoot variations from the sidewalks.  This was a new shoe day.  Effort was relaxed and I am really liking the rhythm of 2 minutes on, 1 off as I use it to give me a positive reset for my run posture.
+
+![Adidas Takumi Sen 8](/assets/jpg/image.jpeg)
 <!---->
-## FRIDAY JUN 2
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY JUN 2 ☀️
+Sleep **4** | Fatigue **3** | Stress **4** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -166,7 +173,9 @@ Off the bike: 45 minutes Run/Walk
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+Another groggy morning; night sweats last night too.  I am congested and I don't know if it is a cold coming on or seasonal allergies (which haven't really appeared so far this year).
+
+Right ankle feels pretty good this morning.
 
 <!---->
 ## SATURDAY JUN 3
