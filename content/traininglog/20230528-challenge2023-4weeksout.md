@@ -145,7 +145,7 @@ Time: **97&#8239;Mins** &nbsp; Swim: **2000&#8239;m** &nbsp; Walk/Run: **5.3&#82
 
 Sleep through the night but had a groggy morning.  Productive day at work before going to the pool.  Weather is sunny but just  17&deg;C. 
 <!----->
-First 100m length (warm up) was done in 1:39 and I was pretty consistent in getting low 1:40s (or better) for the entire workout.  This despite my right elbow being sore from an interaction with a rock during the MTB ride [last night](javascript:flick('wed');).
+First 100m length (warm up) was done in 1:39 and I was pretty consistent in getting low 1:40s (or better) for the entire workout.  This, despite my right elbow being sore from an interaction with a rock during the MTB ride [last night](javascript:flick('wed');).
 
 Could it be that the swimming in the wetsuit reset the _"level"_ in my head?  Or maybe the uptick in speed is due to having shaved my legs for the race.  Whatever, this was **a fun workout**.
 
@@ -171,11 +171,17 @@ Off the bike: 45 minutes Run/Walk
 4 minutes walking to finish up.
 
 ### NOTES
-Total Time: **0 Minutes**
+Time: **0 Mins** &nbsp;Ride: **00.0&#8239;km** &nbsp;Walk/Run: **0.0&#8239;km**
 
 Another groggy morning; night sweats last night too.  I am congested and I don't know if it is a cold coming on or seasonal allergies (which haven't really appeared so far this year).
 
 Right ankle feels pretty good this morning.
+<!----->
+(ride)
+
+---
+
+(walk/run)
 
 <!---->
 ## SATURDAY JUN 3
