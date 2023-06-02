@@ -143,7 +143,7 @@ Run/Walk 40 minutes:
 ### NOTES
 Time: **0&#8239;Mins** &nbsp; Swim: **0&#8239;m** &nbsp; Walk/Run: **0&#8239;km**
 
-Sleep through the night but had a groggy morning.  Productive day at work before going to the pool.
+Sleep through the night but had a groggy morning.  Productive day at work before going to the pool.  Weather is sunny but just  17&deg;C. 
 <!----->
 First 100m length (warm up) was done in 1:39 and I was pretty consistent in getting low 1:40s (or better) for the entire workout.  This despite my right elbow being sore from an interaction with a rock during the MTB ride [last night](javascript:flick('wed');).
 
@@ -151,7 +151,7 @@ Could it be that the swimming in the wetsuit reset the _"level"_ in my head?  Or
 
 I did the run from _Crystal Pool_ to _Royal Jubilee Hospital_ and back.  Flat route with different underfoot variations from the sidewalks.  This was a new shoe day.  Effort was relaxed and I am really liking the rhythm of 2 minutes on, 1 off as I use it to give me a positive reset for my run posture.
 
-![Adidas Takumi Sen 8](/assets/jpg/image.jpeg)
+![Adidas Takumi Sen 8](/assets/jpg/adidas-takumi-sen-8-340.jpeg)
 <!---->
 ## FRIDAY JUN 2 ☀️
 Sleep **4** | Fatigue **3** | Stress **4** | Soreness **3**
