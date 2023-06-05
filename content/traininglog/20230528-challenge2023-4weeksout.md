@@ -7,12 +7,15 @@ Week beginning [Sunday, May 28, 2023](javascript:flick('sun');)
 Race well, tend to the right ankle.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **16 Hours&ast;**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **RUNNING!**
 
-&mdash;
+Maybe the biggest week so for this spring.  Total hours is somewhat askew with the walking at the [70.3](/racereports/2023-ironman-70.3-victoria) but the real reason for me to be stoked is on [Friday](javascript:flick('fri');), the scheduled Run/Walk featured more minutes running than walking and I had my first _"runner's high"_ in forever.
+
+I finished the week with pretty dead legs riding to and from _Thetis Lake_.
+
+Goal for this week was accomplished. 
 
 ![Certainly not perfect but a really solid day with many positive things to build on.](/assets/jpg/IMG_1892-977x550.jpeg 2023 IRONMAN 70.3 &mdash; VICTORIA)
 
@@ -184,14 +187,26 @@ Right ankle feels pretty good this morning.
 (walk/run)
 
 <!---->
-## SATURDAY JUN 3
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY JUN 3 ☀️
+Sleep **6** | Fatigue **5** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Pre-Swim: Dead bugs, breathing, Glute Bridges...:20-:30 second side planks, :30 front planks.
+
+1st: Open Water swim 75 minutes: 
+3x 4 minutes easy swimming to warm up/loosen up. R 1:00 after each. 
+3x 18 minutes @ IM effort/focus. Swimming in straight lines and finding a nice sustainable rhythm. 
+Rest 2:00 after each. 
+Then you're done after the last rep. 
+
+2nd: Ride 60 minutes. EASY. 
+This can be any bike. Nice and easy. 
+It could even be a nice spin from the lake. 
+
+3rd: Mobility 25 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Time: **125&#8239;Mins** &nbsp; OWS: **~3500&#8239;m** &nbsp; Ride: **15&#8239;km**
 
 &mdash;  
