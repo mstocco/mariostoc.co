@@ -54,7 +54,6 @@ bottle adds to the stand over height and even with cleats, I
 have no clearance there.  If I continue with this setup, I'll 
 need to add a bungee (easy to do) as I did eject a bottle on 
 the bumpy _Selkirk Trestle_.
-
 ![Bike](/assets/jpg/bike-20230604.jpeg)
 
 <!----->
@@ -71,7 +70,10 @@ injury site was a bit sore too.  My lumbar and QL was solid
 the whole time.  I never thought to include the _"Total Ascent"_ 
 metric on the head unit; I road the hills based on feel and 
 accumulated 1875&#8239;m by the end.
+
+#### RIDE ELEVATION PROFILE
 ![Ride Elevation](/assets/jpg/accent-20230604.jpeg)
+
 ---
 
 On the scale, before the walk, I was 100g heavier than when I 
