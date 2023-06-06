@@ -57,7 +57,9 @@ the bumpy _Selkirk Trestle_.
 ![Bike](/assets/jpg/bike-20230604.jpeg)
 
 <!----->
-The ride itself was **solid**.  Lots of climbings on practically 
+#### RIDE ELEVATION PROFILE
+![Ride Elevation](/assets/jpg/accent-20230604.jpeg)
+The ride was **solid**.  Lots of climbing on practically 
 empty roads [out west](javascript:flkty.select(2);), in aero 
 for the _Happy Valley Road_ segment back to _Langford_.  The 
 trip up and over _Munn Road_ then the length of _Prospect Lake 
@@ -65,22 +67,18 @@ Road_ was a _Strava PR_.  I spent the bulk of my time (safety
 permitting) in the aero-bars through _Central Saanich_ and 
 felt (relatively) strong, even after 5 hours.
 
-Quads, glutes (both sides) fatigued.  Right ankle near the 
-injury site was a bit sore too.  My lumbar and QL was solid 
+Quads, glutes (both sides) fatigued; right ankle, near the 
+injury site, was a bit sore too.  My lumbar/QL was rock solid 
 the whole time.  I never thought to include the _"Total Ascent"_ 
 metric on the head unit; I road the hills based on feel and 
-accumulated 1875&#8239;m by the end.
-
-#### RIDE ELEVATION PROFILE
-![Ride Elevation](/assets/jpg/accent-20230604.jpeg)
+accumulated **1875&#8239;m** of climbing.
 
 ---
 
 On the scale, before the walk, I was 100g heavier than when I 
 left, +6 hours earlier.
 
-The ankle didn't care for the downhill after +20 minutes of 
-walking.
+The ankle was bothered around 20 minutes into the walk.
 
 <!---->
 ## MONDAY JUN 5 ☀️
