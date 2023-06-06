@@ -38,7 +38,9 @@ Time: **0 Mins** &nbsp; Ride: **133&#8239;km** &nbsp; Walk: **3&#8239;km**
 
 Spectated Kelly's first triathlon at SCP.  Looked like a well put on event.
 
-I put the aero-bottle cages on and added a regular cage to the top tube.  Then I also experimented with a concentrated bottle of tailwind.  The tailwind was a failure; way too salty.  On my second pee stop, I dumped the remainder and rolled with my lemonade recipe mixed thick (250g in 300ml water).  Before I left home, I grabbed a bag of Maynards Watermelon candy so I had a ton of sugar with me.
+I put the aero-bottle cages on and added a regular cage to the top tube.  Then I also experimented with a concentrated bottle of tailwind.
+<!----->
+The tailwind was a failure; way too salty.  On my second pee stop, I dumped the remainder and rolled with my lemonade recipe mixed thick (250g in 300ml water).  Before I left home, I grabbed a bag of Maynards Watermelon candy so I had a ton of sugar with me.
 
 The water bottle on the top tube wasn't perfect either.  The bottle adds to the stand over height and even with cleats, I have no clearance there.  If I continue with this setup, I'll need to add a bungee (easy to do) as I did eject a bottle on the bumpy _Selkirk Trestle_.
 
@@ -66,9 +68,13 @@ Pre-Run: Dead bugs, breathing, Glute Bridges...:20-:30 second side planks, :30 f
 Mobility 15 minutes
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Run: **0&#8230;km**
+Total Time: **60 Minutes** &nbsp; Run/Walk: **8.7&#8239;km**
 
-Descent sleep but my right ankle is on the sore side from the ride [yesterday](javascript:flick('sun');); my quads and glutes are pretty smoked too. 
+Descent sleep but my right ankle is on the sore side from the ride [yesterday](javascript:flick('sun');); my quads and glutes are pretty smoked too.
+
+Those heavy, heavy legs took their sweet time out on the run.  Probably took until the 5th rep before I sort of felt normal; the soreness in my ankle started to subside then too.  I made it through to the end as written. 
+
+When jogging, pace was 5:43/km for 7.00&#8239;km and it was a warm 27&deg;C.
 
 <!---->
 ## TUESDAY JUN 6
