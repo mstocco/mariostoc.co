@@ -25,32 +25,60 @@ Sleep **4** | Fatigue **3** | Stress **2** | Soreness **3**
 
 1st: Ride 6:00. 
 LONG RIDE. 
-Distance over elevation gain. 
-But you have the all clear to hunt out 1000-1500 meters of elevation gain. 
-Shorter climbs are preferred.   
+Distance over elevation gain, but you have the all clear to 
+hunt out 1000-1500 meters of elevation gain. Shorter climbs 
+are preferred.   
 &sat;Eating and drinking often. 
 
 2nd: Off the bike: WALK ~ 30 minutes. Stretch out the legs. 
 See how you feel going from the TT bike to being on your feet.
 
 ### NOTES
-Time: **0 Mins** &nbsp; Ride: **133&#8239;km** &nbsp; Walk: **3&#8239;km**
+Time: **6.5 Hrs** &nbsp; Ride: **135&#8239;km** &nbsp; Walk: **3&#8239;km**
 
-Spectated Kelly's first triathlon at SCP.  Looked like a well put on event.
+Spectated Kelly's first triathlon at SCP.  Looked like a well 
+put on event.
 
-I put the aero-bottle cages on and added a regular cage to the top tube.  Then I also experimented with a concentrated bottle of tailwind.
+I put the aero-bottle cages on and added a regular cage to the 
+top tube.  Then I also experimented with a concentrated bottle 
+of Tailwind.
 <!----->
-The tailwind was a failure; way too salty.  On my second pee stop, I dumped the remainder and rolled with my lemonade recipe mixed thick (250g in 300ml water).  Before I left home, I grabbed a bag of Maynards Watermelon candy so I had a ton of sugar with me.
+The Tailwind was a failure; way too salty.  On my second pee 
+stop, I dumped the remainder and rolled with my lemonade 
+recipe mixed thick (250g in 300ml water).  Before I left home, 
+I grabbed a bag of _Maynards Watermelon_ candy so I had a ton 
+of sugar with me.
 
-The water bottle on the top tube wasn't perfect either.  The bottle adds to the stand over height and even with cleats, I have no clearance there.  If I continue with this setup, I'll need to add a bungee (easy to do) as I did eject a bottle on the bumpy _Selkirk Trestle_.
+The water bottle on the top tube wasn't perfect either.  The 
+bottle adds to the stand over height and even with cleats, I 
+have no clearance there.  If I continue with this setup, I'll 
+need to add a bungee (easy to do) as I did eject a bottle on 
+the bumpy _Selkirk Trestle_.
 
-The ride itself was **solid**.  Lots of climbings on practically empty roads [out west](javascript:flkty.select(2);), in aero for the _Happy Valley Road_ segment back to _Langford_.  The trip up and over _Munn Road_ then the length of _Prospect Lake Road_ was a _Strava PR_.  I spent the bulk of my time (safety permitting) in the aero-bars through _Central Saanich_ and felt (relatively) strong, even after 5 hours.
+![Bike](/assets/jpg/bike-20230604.jpeg)
 
-Quads, glutes (both sides) fatigued.  Right ankle near the injury site was a bit sore too.  My lumbar and QL was solid the whole time.  I never thought to include the _"Total Ascent"_ metric on the head unit; I road the hills based on feel and accumulated 1875&#8239;m by the end.
+<!----->
+The ride itself was **solid**.  Lots of climbings on practically 
+empty roads [out west](javascript:flkty.select(2);), in aero 
+for the _Happy Valley Road_ segment back to _Langford_.  The 
+trip up and over _Munn Road_ then the length of _Prospect Lake 
+Road_ was a _Strava PR_.  I spent the bulk of my time (safety 
+permitting) in the aero-bars through _Central Saanich_ and 
+felt (relatively) strong, even after 5 hours.
 
-On the scale, before the walk, I was 100g heavier than when I left, +6 hours earlier.
+Quads, glutes (both sides) fatigued.  Right ankle near the 
+injury site was a bit sore too.  My lumbar and QL was solid 
+the whole time.  I never thought to include the _"Total Ascent"_ 
+metric on the head unit; I road the hills based on feel and 
+accumulated 1875&#8239;m by the end.
+![Ride Elevation](/assets/jpg/accent-20230604.jpeg)
+---
 
-The ankle didn't care for the downhill after +20 minutes of walking.
+On the scale, before the walk, I was 100g heavier than when I 
+left, +6 hours earlier.
+
+The ankle didn't care for the downhill after +20 minutes of 
+walking.
 
 <!---->
 ## MONDAY JUN 5 ☀️
@@ -58,8 +86,8 @@ Sleep **3** | Fatigue **5** | Stress **3** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-Pre-Run: Dead bugs, breathing, Glute Bridges...:20-:30 second side planks, :30 front planks.
-
+<!--Pre-Run: Dead bugs, breathing, Glute Bridges...:20-:30 second side planks, :30 front planks.
+-->
 60 minutes on your feet: 
 5 minutes walking to warm up. 
 10x 4 minutes easy running, 1 minute walk after each. 
@@ -70,15 +98,21 @@ Mobility 15 minutes
 ### NOTES
 Total Time: **60 Minutes** &nbsp; Run/Walk: **8.7&#8239;km**
 
-Descent sleep but my right ankle is on the sore side from the ride [yesterday](javascript:flick('sun');); my quads and glutes are pretty smoked too.
+Descent sleep but my right ankle is on the sore side from the 
+ride [yesterday](javascript:flick('sun');); my quads and 
+glutes are pretty smoked too.
 
-Those heavy, heavy legs took their sweet time out on the run.  Probably took until the 5th rep before I sort of felt normal; the soreness in my ankle started to subside then too.  I made it through to the end as written. 
+Those heavy, heavy legs took their sweet time out on the run. 
+Probably took until the 5th rep before I sort of felt normal; 
+the soreness in my ankle started to subside then too.  I made 
+it through to the end as written. 
 
-When jogging, pace was 5:43/km for 7.00&#8239;km and it was a warm 27&deg;C.
+When jogging, pace was 5:43/km for 7.00&#8239;km and it was a 
+warm 27&deg;C.
 
 <!---->
-## TUESDAY JUN 6
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY JUN 6 ☀️
+Sleep **3** | Fatigue **4** | Stress **4** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
