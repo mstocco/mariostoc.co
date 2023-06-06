@@ -36,11 +36,9 @@ See how you feel going from the TT bike to being on your feet.
 ### NOTES
 Time: **6.5 Hrs** &nbsp; Ride: **135&#8239;km** &nbsp; Walk: **3&#8239;km**
 
-Spectated Kelly's first triathlon at SCP.  Looked like a well 
-put on event.
-
-I put the aero-bottle cages on and added a regular cage to the 
-top tube.  Then I also experimented with a concentrated bottle 
+After cheering on Kelly at her first triathlon at SCP, I put the 
+aero-bottle cages on and added a regular cage to the 
+top tube.  I also experimented with a concentrated bottle 
 of Tailwind.
 <!----->
 The Tailwind was a failure; way too salty.  On my second pee 
