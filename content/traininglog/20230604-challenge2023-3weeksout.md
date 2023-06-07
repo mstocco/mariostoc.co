@@ -123,10 +123,11 @@ Swim 3100:
 4x 50 super easy to cool down.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **55 Minutes** &nbsp; Swim: **3100 metres**
 
-&mdash;  
+I'd like to say this was _"just a workout"_ but I did have fun with it, first racing the staff to squeeze as many 100&#8239;m reps in before they changed the ropes to the 25&#8239;m format.  Because of how the workout was written, I didn't have to reprogram the watch for the balance of the workout; I was able to manually record the SCM lengths with just the lap button. 
 
+Good workout.
 <!---->
 ## WEDNESDAY JUN 7
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
