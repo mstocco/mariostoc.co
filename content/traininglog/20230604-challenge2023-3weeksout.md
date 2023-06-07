@@ -125,9 +125,9 @@ Swim 3100:
 ### NOTES
 Total Time: **67 Minutes** &nbsp; Swim: **3100 metres**
 
-Initially, this started as _"just a workout"_ but I did have fun with it, first racing the staff to squeeze as many 100&#8239;m reps in before they changed the ropes to the 25&#8239;m format.  Also, how the workout was written, I didn't have to reprogram the watch for the balance of the workout; I was able to manually record the SCM lengths with just the lap button. 
+Initially, this started as _"just a workout"_ but I did have fun with it, racing the staff to squeeze as many 100&#8239;m reps in before they changed the ropes to the 25&#8239;m format.  Also, how the workout was written, I didn't have to reprogram the watch for the balance of the workout; I was able to manually record the SCM lengths with just the lap button. 
 
-Good workout.
+Good workout.  Little bit of [Sunday](javascript:flick('sun');) still lingering.
 <!---->
 ## WEDNESDAY JUN 7
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
