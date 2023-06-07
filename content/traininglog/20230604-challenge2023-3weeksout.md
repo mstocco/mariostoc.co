@@ -129,8 +129,8 @@ Initially, this started as _"just a workout"_ but I did have fun with it, racing
 
 Good workout.  Little bit of [Sunday](javascript:flick('sun');) still lingering.
 <!---->
-## WEDNESDAY JUN 7
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY JUN 7 ☀️
+Sleep **3** | Fatigue **4** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -149,9 +149,9 @@ Off the bike: 60 minutes Run/Walk.
 5 minutes walking to cool down/finish up
 
 ### NOTES
-Total Time: **0 Minutes**
+Time: **0&#8239;Mins** &nbsp; Ride: **0&#8239;km** &nbsp; Run/Walk: **0.0&#8239;km**
 
-&mdash;  
+Woke up a bit groggy and with itchy eyes; the farmers are cutting hay is officially allergy season for me.
 
 <!---->
 ## THURSDAY JUN 8
