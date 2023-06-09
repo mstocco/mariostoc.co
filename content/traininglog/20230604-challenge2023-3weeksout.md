@@ -174,13 +174,17 @@ Walk ~ 45 minutes. Any time of day. Where ever it fits in.
 No need to run on this day. But we do want some time on the feet.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **40 Minutes** &nbsp; Walking: **40 minutes**
 
-&mdash;  
+The swim was a miss.  Long day on the keyboard and I was a bit spaced while leaving the house.
+
+I rode to the pool, got into my swim trunks only to find that I left my goggles at home.  I was back on the bike for the ride of shame.  I made it to _Straight Up Cycles_ for some retail therapy to get over my mistake.
+
+Carina and I walked to and from I'll Greco for dinner.  
 
 <!---->
-## FRIDAY JUN 9
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY JUN 9 🌧
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -202,7 +206,19 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Pre-Swim: Dead bugs, breathing, Glute Bridges...:20-:30 second side planks, :30 front planks.
+
+1st: Open Water Swim 75 minutes: 
+2x 4 minutes easy swimming to warm up/loosen up. R 1:00 after each. 
+6x 9 minutes @ IM effort/focus. R 1:00 after each. 
+3-5 minutes super easy to cool down/stretch out. 
+
+2nd: Run/Walk 75 minutes: 
+10 minutes walking to loosen up. 
+12x 4 minutes easy running, 1 minute walk after each. 
+5 minutes walking to cool down. 
+
+Stretching 21 minutes
 
 ### NOTES
 Total Time: **0 Minutes**
