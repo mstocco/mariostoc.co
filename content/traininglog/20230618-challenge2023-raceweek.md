@@ -19,7 +19,14 @@ Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
-&mdash;  
+Pre-Ride: Dead bugs, breathing, Glute Bridges. 
+Ride 3:00. If possible, ride some of the course! 
+Easy to steady effort. 
+Spending time in the bars and getting the lay of the land. 
+Race day fueling and hydration​
+
+Run/Walk off the bike: 40 minutes: 
+8 rounds (1 minute walk, 4 minutes easy running) 
 
 ### NOTES
 Total Time: **0 Minutes**
