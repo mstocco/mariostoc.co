@@ -7,12 +7,15 @@ Week beginning [Sunday, June 4, 2023](javascript:flick('sun');)
 Pour it on.  I can recover on the plane next week.
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **15.5 Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **GETTING CLOSE TO THE END**
 
-&mdash;
+Big effort day to start the week and as the week progressed, my mind moved further towards organizing for the trip to Europe and less toward training.  This was mostly stress management.
+
+My right ankle continues to receive incremental load and honestly, I am thankful for it.  The structure of the foot is likely thankful too.
+
+I missed two swims; one my error, the other a rainout and pre-trip chores ate into the time window for the swim.
 
 ![I went exploring East Sooke with the bike on Sunday and grabbed this picture of Mount Matheson.](/assets/jpg/IMG_4948-977x550.jpeg SOOKE HANGER DRIVE)
 
@@ -154,8 +157,8 @@ Time: **0&#8239;Mins** &nbsp; Ride: **0&#8239;km** &nbsp; Run/Walk: **0.0&#8239;
 Woke up a bit groggy and with itchy eyes; the farmers are cutting hay is officially allergy season for me.
 
 <!---->
-## THURSDAY JUN 8
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY JUN 8 ☀️
+Sleep **3** | Fatigue **4** | Stress **5** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -196,13 +199,21 @@ Getting ready for a big weekend before you take off to Germany.
 Walk 30 minutes. This could be anytime of day.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **84 Mins** &nbsp; Ride: **32&#8239;km**
 
-&mdash;  
+Rain.  Real west coast rain falling from the sky.
+
+I found a somewhat dry weather window to get out for the ride.  Wore my gillet over summer kit, packed arm warmers and put them on pretty early into the ride.  It was cold resulting in two pee stops.
+
+I stayed mostly on the bike path.  It has not rained in a long while and I wasn't interested in finding out how much oil has washed onto the road's shoulder.
+
+Interestingly, it was drier in _Langford_ compared to _Esquimalt_; weather was blowing in from the _SE_.
+
+**Effort was super easy.**
 
 <!---->
-## SATURDAY JUN 10
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY JUN 10 🌧
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -221,6 +232,14 @@ Pre-Swim: Dead bugs, breathing, Glute Bridges...:20-:30 second side planks, :30 
 Stretching 21 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **70 Minutes** &nbsp; Run/Walk: **9.9&#8239;km**
 
-&mdash;  
+More rain.  Heavy again too.
+
+Brent from _Velofix_ was here early to give the TT Bike a once over before the trip.  Rear hub was adjusted, headset was inspected.  We talked about disassembly/assembly.  Once he was done, I dunged out and cleaned the garage; I have been meaning to do this for a long time and now that its done, it feels like a huge weight off.
+
+Then with the rain continuing to fall, I started the process of stripping the chain of all grease and waxing it.  Although time consuming, I think this worked out and the long ride [tomorrow](challenge2023-2weeksout?sun) will be a good test.
+
+Missing the open water swim gave me a chance to re-glue some small tears in my wetsuit.
+
+Weather cleared after dinner and I was able to get the Run/Walk in.  Feet were tire, probably from being on them for the majority of the day.  Everything loosened up by the 3rd rep and I was able to comfortably jog out all the reps.  Came up a bit short on time because I misread the 10 minute warm up for just 5 minutes.
