@@ -16,8 +16,8 @@ I feel like I was...
 
 ![](/assets/jpg/II-9x550.jpeg)
 
-## SUNDAY JUN 11
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SUNDAY JUN 11 ☀️
+Sleep **3** | Fatigue **3** | Stress **5** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -29,7 +29,7 @@ Goal is to cover distance. Spend a good amount of time in the bars.
 Race day fueling and hydration.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Ride
 
 &mdash;  
 
