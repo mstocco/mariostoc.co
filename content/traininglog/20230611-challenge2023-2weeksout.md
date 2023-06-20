@@ -178,6 +178,6 @@ Swim 3500:
 Walk 3.6k home. 
 
 ### NOTES
-Time: **87&#8239;Mins** &nbsp; Swim: **4300&#8239;m** &nbsp; Steps: **15834** <small>12.5&#8239;km</small>
+Time: **87&#8239;Mins** &nbsp;Swim: **4300&#8239;m** &nbsp;Steps: **15834** <small>12.5&#8239;km</small>
 
 &mdash;  
