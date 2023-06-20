@@ -90,11 +90,13 @@ Hydrate and stretch more.
 ### NOTES
 Total Time: **0 Minutes**
 
-Ok.  Luftahanza had my bike case **right beside me** before we left _Terminal 1_ on a bus out to the plane.  The bike sat there while we departed for Nürnberg.  For the rest of the afternoon, I watched the bike move to the _"Lost & Found"_ area in Frankfurt's _Terminal 2_ before heading back to other side of _Terminal 1_ later in the evening.
+Lufthansa had my bike case **right beside me** before we left _Frankfurt's Terminal 1_ for a bus ride out to the plane.  The bike sat there while we departed for Nürnberg.
 
-We took the _U-Bahn_ back to the airport to retrieve the bike at midnight.
+For the rest of the afternoon, my _Apple AirTag_ informed me as the bike moved about _Frankfurt Airport_, out to the _"Lost & Found"_ area in  _Terminal 2_ before heading back to other side of _Terminal 1_ later in the evening.
 
-Not cool.
+We took the _U-Bahn_ back to the airport to retrieve the bike at midnight as it was sent on the last flight of the night.
+
+Not cool Lufthansa.  😡
 
 <!---->
 ## THURSDAY JUN 15 ☀️
@@ -118,10 +120,10 @@ Walk 3.6k home.
 Stretching 15 minutes
 
 ### NOTES
-Time: **0 Minutes** &nbsp;Swim: **2700&#8239;m** &nbsp; Steps: **20188** <small>15.7&#8239;km</small>
+Time: **61 Mins** &nbsp;Swim: **2700&#8239;m** &nbsp; Steps: **20188** <small>15.7&#8239;km</small>
 
-A 50m outdoor pool?  Let's go!
-
+A [50m outdoor pool](javascript:flkty.select(2);)?  Let's go!
+<!----->
 The stadium swimming _"baths"_ were part of a large sports and leisure park created in the 1920s.  Originally a 100&#8239;m pool and diving platform, it remained undamaged during WW2 and it was refurbished into the park it is today in 1999.
 
 The pools are made from stainless steel and I found that with a little bit of sunshine, I could see my form in the reflection off the bottom.  The water temperature was maybe a touch cooler than the competition pool at _Commonwealth Pool_ back home.
