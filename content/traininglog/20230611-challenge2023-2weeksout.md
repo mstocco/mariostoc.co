@@ -76,7 +76,7 @@ Hydrate and stretch whenever you can.
 ### NOTES
 Total Time: **0 Minutes**
 
-![YYJ](/assets/jpg/image.jpeg)
+![YYJ](/assets/jpg/yyj-20230613.jpeg)
 
 <!---->
 ## WEDNESDAY JUN 14 🌤
