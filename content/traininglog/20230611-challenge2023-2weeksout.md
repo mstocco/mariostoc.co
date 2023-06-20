@@ -129,7 +129,9 @@ The stadium swimming _"baths"_ were part of a large sports and leisure park crea
 
 The pools are made from stainless steel and I found that with a little bit of sunshine, I could see my form in the reflection off the bottom.  The water temperature was maybe a touch cooler than the competition pool at _Commonwealth Pool_ back home.
 
-Today, I felt fast in the water.  I did the workout from memory and missed two of the four easy lengths in between the 10x100m sets.
+Today, I **felt fast** in the water.  I did the workout from memory and missed two of the four easy lengths in between the 10x100m sets.
+
+---
 
 Walked roughly 8&#8239;km to and from the pool plus a night walking the around the _Altstadt_.
 
@@ -156,7 +158,19 @@ Time: **185 Mins** &nbsp;Ride: **53&#8239;km** &nbsp;Run/Walk: **&#8239;km**
 
 Carina's second cousin, Martin is a cyclist and he took me for a tour of the Nürnberg area this afternoon.
 
-<!---->
+<!----->
+It took a short time to exit the city but once we did, I was introduced to the cycling infrastructure like I'd haven't seen.  Bike paths for seemingly endless miles alongside the main highways.
+
+We made our way northeast through the village of _Rückersdorf_, then northwesterly through the _Günthersbüler Forst_ before landing in Martin's hometown of _Heroldsberg_.  We then travelled through Carina's father's home village of _Buchenbühl_ before returning to _Nürnberg_.  
+
+Riding with Martin was a lot of fun.
+
+---
+
+We spent some time visiting after the ride and once I did get my runners on, I felt really good cruising on the pedestrian path along _Münchener Straße_.
+
+![Approaching the high point of the ride.](/assets/jpg/IMG_4975-733x550.jpeg Höhenstraße, Tauchersreuth)
+
 ## SATURDAY JUN 17 ☀️
 Sleep **4** | Fatigue **3** | Stress **2** | Soreness **2**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
