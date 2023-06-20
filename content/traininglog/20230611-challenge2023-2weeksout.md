@@ -154,7 +154,7 @@ Run/Walk 46 minutes:
 Stretching 15 minutes
 
 ### NOTES
-Time: **185 Mins** &nbsp;Ride: **53&#8239;km** &nbsp;Run/Walk: **&#8239;km**
+Time: **185 Mins** &nbsp;Ride: **53&#8239;km** &nbsp;Run/Walk: **6.6&#8239;km**
 
 Carina's second cousin, Martin is a cyclist and he took me for a tour of the Nürnberg area this afternoon.
 
