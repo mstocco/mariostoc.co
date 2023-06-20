@@ -38,15 +38,15 @@ Time: **6:27:46** &nbsp; Ride: **151&#8239;km** &nbsp; Ascent: **1550&#8239;m**
 
 Today's ride was probably the route my coach asked for [last Sunday](challenge2023-3weeksout?sun).
 
-I headed out on the _E&N Rail Trail_ and struck up a conversation with an random roadie on his way to _Colwood_; he had never taken this bike path before.
+I struck up a conversation with a random roadie on his way to _Colwood_; he had never taken the _E&N Rail Trail_ before.
 <!----->
 I loosely followed last week's route but spent less time on the hills.  For example, I rode a fraction of the hills around _Labonne Road_ and took _Ross-Durrance Road_ instead of the top part of _Munn_.
 
 I fuelled with a bottle with just 2 packets of _Tailwind_ stretched with sugar; it sat better but still wasn't great tasting.  The second bottle was my typical lemonade, mixed thick.
 
-I looped the peninsula via _Lands End Road_ before heading south.  Overall, I **felt pretty good** today; maybe a little in saddle area...
+I looped the peninsula via _Lands End Road_ before heading south.  Overall, I **felt pretty good** today; maybe a little bothered in the saddle area...
 
-![Bike](/assets/jpg/bike-20230611.jpeg) _"Squirt"_ chain wax seemed to work well.
+![Bike](/assets/jpg/bike-20230611.jpeg) That _"Squirt"_ chain wax seemed to work well.
 
 <!---->
 ## MONDAY JUN 12 ☀️
@@ -65,6 +65,7 @@ Getting things organized for the flight overseas is **priority one**.  I am feel
 
 No walk or stretching but with a tiny window at _Crystal Pool_, I got in some lengths; nothing structured, nothing long, just doing what I can to get some purposeful movement in without piling on more stress.
 
+Bags packed and then I noticed my cycling shoes in the kitchen...
 <!---->
 ## TUESDAY JUN 13 🌤
 Sleep **3** | Fatigue **3** | Stress **4** | Soreness **3**
@@ -119,7 +120,8 @@ Swim 2800:
 Stretching 15 minutes
 
 ### NOTES
-Time: **61 Mins** &nbsp;Swim: **2700&#8239;m** &nbsp;<small>Steps: 20188 (15.7&#8239;km)</small>
+Swim Time: **61 Mins** &nbsp; Distance: **2700&#8239;m**  
+Steps: **20188**<small> (Estimated 15.7&#8239;km)</small>
 
 A [50m outdoor pool](javascript:flkty.select(2);)?  Let's go!
 <!----->
@@ -195,11 +197,13 @@ Swim 4300:
 2x 1200 @ IM effort/focus. Sighting 3x per 50. R 2:00 after each. 
 4x 50 EASY to cool down.
 
-### NOTES
-Total Time: **87&#8239;Mins** &nbsp;Swim: **4300&#8239;m** &nbsp;<small>🏆 Longest Swim</small>  
-Steps: **15834** (12.5&#8239;km)
+### NOTES 🏆
+Swim Time: **87&#8239;Mins** &nbsp; Distance: **4300&#8239;m** <small> (longest ever)</small>  
+Steps: **15834** (Estimated 12.5&#8239;km)
 
-Getting sweaty during the walk to the pool made getting the wetsuit on a real chore.  I've fixed/reglued 7 tears in the suit so far this season and I am noticing more after today.  Something for the Santa Claus list...
+Getting sweaty during the walk to the pool made getting the wetsuit on a real chore.
+<!----->
+I've fixed/reglued 7 tears in the suit so far this season and I am noticing more after today.  Something for the Santa Claus list...
 
 Once in the suit, I made the corporate decision to keep it on for the duration of the workout.  I haven't spent much time in it so far this year; I am glad I did.  Little nuances with the feel of the suit made themselves known that I hadn't yet picked up in a lake (or saltwater).
 
