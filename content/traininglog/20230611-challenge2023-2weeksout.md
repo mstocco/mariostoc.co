@@ -7,14 +7,13 @@ Week beginning [Sunday, June 11, 2023](javascript:flick('sun');)
 Get to, then adjust to life in Nürnberg. 
 
 ## SUMMARY
-Total Time: **0 Hours**
+Total Time: **13&frac34; Hours**
 
-I feel like I was...
-<br /><sup>(completed at the end of the week)</sup>
+I feel like I was **FLYING HIGH**
 
-&mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+
+![Definitely an awesome pool to get a workout in.  Saturday I did 4300&#8239;m here](/assets/jpg/II-9x550.jpeg NürnbergBad - Stadionbad)
 
 ## SUNDAY JUN 11 ☀️
 Sleep **3** | Fatigue **3** | Stress **5** | Soreness **3**
@@ -29,13 +28,21 @@ Goal is to cover distance. Spend a good amount of time in the bars.
 Race day fueling and hydration.
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp; Ride
+Time: **6:27:46** &nbsp; Ride: **151&#8239;km** &nbsp; Ascent: **1550&#8239;m**
 
-&mdash;  
+Probably the route my coach asked for [last Sunday](challenge2023-3weeksout?sun).
+
+I headed out on the _E&N Rail Trail_ with an random roadie on his way to _Colwood_ from the _John Dean_ area.  He had never taken this bike path before and we talked about my upcoming event in [Roth](/racereports/2023-challenge-roth).
+
+From there, I loosely followed last week's route but spent less time on the hills.  For example, I rode a fraction of _Labonne Road_ and took _Ross-Durrance Road_ instead of the top part of _Munn_.
+
+I fuelled with a bottle with just 2 packets of _Tailwind_ stretched with sugar; it sat better but still wasn't great tasting.  The second bottle was my typical lemonade, mixed thick.
+
+I looped the peninsula via _Lands End Road_ before heading south.  Overall, I felt pretty good today.
 
 <!---->
-## MONDAY JUN 12
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## MONDAY JUN 12 ☀️
+Sleep **4** | Fatigue **4** | Stress **5** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -44,9 +51,11 @@ Walk ~ 45 minutes. Get out and move your legs a bit.
 Stretching 22 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **25 Minutes** &nbsp; Swim: **1250&#8239;m**
 
-&mdash;  
+Getting things organized for the flight overseas is priority one.  I know I am feeling pressure because I am getting forgetful as the day wears on.
+
+I had a tiny window to go to _Crystal Pool_ and just do some lengths; nothing structured, doing what I can to get some purposeful movement in without piling on more stress.
 
 <!---->
 ## TUESDAY JUN 13
@@ -60,7 +69,7 @@ Hydrate and stretch whenever you can.
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+[YYJ](/assets/jpg/image.jpeg)
 
 <!---->
 ## WEDNESDAY JUN 14
@@ -74,11 +83,11 @@ Hydrate and stretch more.
 ### NOTES
 Total Time: **0 Minutes**
 
-&mdash;  
+
 
 <!---->
-## THURSDAY JUN 15
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## THURSDAY JUN 15 ☀️
+Sleep **4** | Fatigue **2** | Stress **2** | Soreness **2**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -98,13 +107,13 @@ Walk 3.6k home.
 Stretching 15 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Time: **0 Minutes** &nbsp;Swim: **2700&#8239;m** &nbsp; Steps: **20188** <small>15.7&#8239;km</small>
 
 &mdash;  
 
 <!---->
-## FRIDAY JUN 16
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## FRIDAY JUN 16 ☀️
+Sleep **5** | Fatigue **3** | Stress **2** | Soreness **2**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -121,13 +130,13 @@ Run/Walk 46 minutes:
 Stretching 15 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp;Ride: **9
 
 &mdash;  
 
 <!---->
-## SATURDAY JUN 17
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## SATURDAY JUN 17 ☀️
+Sleep **4** | Fatigue **3** | Stress **2** | Soreness **2**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -148,6 +157,6 @@ Swim 3500:
 Walk 3.6k home. 
 
 ### NOTES
-Total Time: **0 Minutes**
+Time: **87&#8239;Mins** &nbsp; Swim: **4300&#8239;m** &nbsp; Steps: **15834** <small>12.5&#8239;km</small>
 
 &mdash;  
