@@ -11,9 +11,13 @@ Total Time: **13&frac34; Hours**
 
 I feel like I was **FLYING HIGH**
 
+After a great ride on [Sunday](javascript:flick('sun');), it was time to pack up and fly to Germany.
 
+New bike, new bike box and lots of experimenting to get things disassembled and packed securely for the trip.  Everything arrived in one piece albeit on the last flight of the day.
 
-![Definitely an awesome pool to get a workout in.  Saturday I did 4300&#8239;m here](/assets/jpg/II-9x550.jpeg NürnbergBad - Stadionbad)
+Exploring Nürnberg is awesome.
+
+![Definitely an awesome pool to get a workout in.  Saturday I did 4300&#8239;m here](/assets/jpg/IMG_4969-977x550.jpeg NürnbergBad - Stadionbad)
 
 ## SUNDAY JUN 11 ☀️
 Sleep **3** | Fatigue **3** | Stress **5** | Soreness **3**
@@ -69,11 +73,11 @@ Hydrate and stretch whenever you can.
 ### NOTES
 Total Time: **0 Minutes**
 
-[YYJ](/assets/jpg/image.jpeg)
+![YYJ](/assets/jpg/image.jpeg)
 
 <!---->
-## WEDNESDAY JUN 14
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY JUN 14 🌤
+Sleep **3** | Fatigue **4** | Stress **6** | Soreness **4**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -83,7 +87,11 @@ Hydrate and stretch more.
 ### NOTES
 Total Time: **0 Minutes**
 
+Ok.  Luftahanza had my bike case **right beside me** before we left _Terminal 1_ on a bus out to the plane.  The bike sat there while we departed for Nürnberg.  For the rest of the afternoon, I watched the bike move to the _"Lost & Found"_ area in Frankfurt's _Terminal 2_ before heading back to other side of _Terminal 1_ later in the evening.
 
+We took the _U-Bahn_ back to the airport to retrieve the bike at midnight.
+
+Not cool.
 
 <!---->
 ## THURSDAY JUN 15 ☀️
@@ -109,7 +117,15 @@ Stretching 15 minutes
 ### NOTES
 Time: **0 Minutes** &nbsp;Swim: **2700&#8239;m** &nbsp; Steps: **20188** <small>15.7&#8239;km</small>
 
-&mdash;  
+A 50m outdoor pool?  Let's go!
+
+The stadium swimming _"baths"_ were part of a large sports and leisure park created in the 1920s.  Originally a 100&#8239;m pool and diving platform, it remained undamaged during WW2 and it was refurbished into the park it is today in 1999.
+
+The pools are made from stainless steel and I found that with a little bit of sunshine, I could see my form in the reflection off the bottom.  The water temperature was maybe a touch cooler than the competition pool at _Commonwealth Pool_ back home.
+
+Today, I felt fast in the water.  I did the workout from memory and missed two of the four easy lengths in between the 10x100m sets.
+
+Walked roughly 8&#8239;km to and from the pool plus a night walking the around the _Altstadt_.
 
 <!---->
 ## FRIDAY JUN 16 ☀️
@@ -130,7 +146,7 @@ Run/Walk 46 minutes:
 Stretching 15 minutes
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp;Ride: **9
+Total Time: **0 Minutes** &nbsp;Ride: **9&#8239;km**
 
 &mdash;  
 
