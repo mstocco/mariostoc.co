@@ -94,7 +94,7 @@ Lufthansa had my bike case **right beside me** before we left _Frankfurt's Termi
 
 For the rest of the afternoon, my _Apple AirTag_ informed me as the bike moved about _Frankfurt Airport_, out to the _"Lost & Found"_ area in  _Terminal 2_ before heading back to other side of _Terminal 1_ later in the evening.
 
-We took the _U-Bahn_ back to the airport to retrieve the bike at **midnight** as it was sent on the last flight.
+We took the _U-Bahn_ back to the airport to retrieve the bike at **midnight** as it was sent on the day's last flight.
 
 Not cool Lufthansa.  😡
 
