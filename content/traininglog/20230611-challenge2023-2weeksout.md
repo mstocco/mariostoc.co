@@ -46,7 +46,7 @@ I fuelled with a bottle with just 2 packets of _Tailwind_ stretched with sugar; 
 
 I looped the peninsula via _Lands End Road_ before heading south.  Overall, I **felt pretty good** today.
 
-The _"Squirt"_ wax on the chain seemed to work out.
+_"Squirt"_ chain wax seemed to work well.
 
 ![](/assets/jpg/image.jpeg)
 
