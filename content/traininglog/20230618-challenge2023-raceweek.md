@@ -2,7 +2,7 @@
 **RACE WEEK**
 
 ## WEEKLY GOAL
-
+Stay calm. Stay in the moment.
 
 ## SUMMARY
 Total Time: **0 Hours**
@@ -37,26 +37,25 @@ A local roadie named Flo caught me and instead of riding off my back wheel, we s
 <!----->
 I was alone for the ride down to _Greding_, up and over the _Kreissstraße RH24_ and didn't see another cyclist going in my direction until _Offenbau_.  A younger guy, tanned with diamonds for calves rolls passed me on a tricked out _Canyon Speedmax_ and offers a me a _"Tschüss"_.  As he headed up the road, I caught a glimpse of his buddy closing in on me too.
 
-Oddly, the gap to the bike in front of me began to shrink and as my shoulder passed _Mr. Speedmax_, I smiled and said, _"Tschüss!" 
+Oddly, the gap to the bike in front of me began to shrink and as my shoulder passed _Mr. Speedmax_, I smiled and said, _"Tschüss!"_
 
 Up the road in the little hamlet of _Eysölden_, I made a wrong turn; my detour let the pair of riders catch me again.  It was obvious to me that they knew the route well and I followed as best I could through to the hill before _Hilpoltstein_.
 
-_Solar Hill_ was a lonely climb today and I was predominantly into a headwind into _Pierheim_.
+_Solar Hill_ was a lonely climb today and it was predominantly into a headwind from there to _Pierheim_.
 
-Energy was starting to go.  It was hot and with no aid stations on the course, water was needed.  On a Sunday, very little was open.
+Energy was starting to go.  It was hot and with no convenience stores (aid stations) on the back half of the loop, water was needed.  On a Sunday afternoon, very little was open.
+<!----->
+Before rolling past the swim start, I decided to pull in and check out the scene.  A crew was in the early process of setting things up.  The water in the canal didn't look so fresh.  I'll be giving my wetsuit an extra rinse after the event.
 
-Before rolling past the swim start, I decided to pull in and check out the scene.  A crew was in the process of setting things up.  The water didn't look so fresh.  I'll be giving my wetsuit an extra rinse after the event.
+The last leg from T1 to T2 (back to _Roth_) is mostly false flat downhill.
 
-The last run to T2 is mostly false flat downhill back to _Roth_.
+I found a bakery that was open.  For €7, I bought two small bottles of water and a local brand of cola.
 
-I found a bakery that was open.  There I bought a couple small bottles of water and a local brand of cola.
+I contemplated riding back to _Nürnberg_; as the crow flies, its just 20&#8239;km.  Google Maps estimated and hour twenty by bike and the route looked complicated.  It's 32°C; I opted for the train instead.
 
-I contemplated riding back to _Nürnberg_ but opted for the train instead.
-
-The ride through the city was short and when I arrived home, I was into my running shoes pretty quickly.
+From _Nürnberg Hbf_ (Central Train Station), the ride through the city was short and when I arrived home, I was into my running shoes pretty quickly.
 
 It was still hot but I did feel relatively good, clicking of the 4 minute reps on the pedestrian path along _Münchener Straße_.
-
 
 <!---->
 ## MONDAY JUN 19 ☀️
@@ -78,13 +77,13 @@ Total Time: **85 Minutes** &nbsp; Run/Walk: **12.4&#8239;km**
 
 Terrible sleep last night.  Up at 0200 and didn't fall back to sleep until the birds started chirping.  Probably drained from dehydration and the long day in the heat [yesterday](javascript:flick('sun');).
 
-Running this afternoon, I felt pretty good; I was expecting to feel a lot worse.
+Running this afternoon, I **felt pretty good**; I was expecting to feel a lot worse.
 <!----->
-I ran to the park and did a lap of _Zeppelinfeld_; it is still a very ominous experience to know what was in the 1930's.  I did some stairs on the _Zeppelinhaupttribüne_ just because.
+I ran to the park and did a lap of _Zeppelinfeld_; it is still a **very ominous experience** to know what was in the 1930's.  I did some stairs on the _Zeppelinhaupttribüne_ just because.
 
 Other things on this run included a run past _Kongresshalle_, a run to the end of _Großen Straße_ finishing up at the front of the _SS-Kaserne_.
 
-![Run](/assets/jpg/image.jpeg)
+![Run](/assets/jpg/run-20230619.jpeg)
 
 <!---->
 ## TUESDAY JUN 20 🌩️
