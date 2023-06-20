@@ -179,22 +179,25 @@ Sleep **4** | Fatigue **3** | Stress **2** | Soreness **2**
 
 ### PLANNED WORKOUT
 Pre-Walk: Dead bugs, breathing, Glute Bridges...:20-:30 second side planks, :30 front planks.
-Walk 3.6k to the pool. 
+Walk 3.6k to/from the pool. 
 
-Swim 3500: 
-300 easy free. 
-200 swim w/ buoy. 
-2x 50 steady kick. 
+Swim 4300: 
+400 easy free. w/ Wetsuit on. (Then off for the remainder) 
+4x 50 as 25 fist drill/25 swim w/ focus on catch. R :20. 
 4x 100 Descend 1-4 as 1-Steady/smooth, 2-1/2 IM effort, 3-1500 effort, 4-1k effort. R :20 after each. 
 100 EASY to cool down. 
-4 rounds (4x 50 Strong effort~ 500 effort/focus. R :20 after each. 50 EASY. R :30)
+2 rounds (4x 50 Strong effort~ 500 effort/focus. R :20 after each. 50 EASY. R :30)
 100 extra easy swimming. 
-1200 @ IM effort/focus. Sighting 3x per 50. 
-2x 50 EASY to cool down. 
-
-Walk 3.6k home. 
+2x 1200 @ IM effort/focus. Sighting 3x per 50. R 2:00 after each. 
+4x 50 EASY to cool down.
 
 ### NOTES
 Time: **87&#8239;Mins** &nbsp;Swim: **4300&#8239;m** &nbsp;<small>Steps: 15834 (12.5&#8239;km)</small>
 
-&mdash;  
+🏆 **Longest Swim** 
+
+Getting sweaty during the walk to the pool made getting the wetsuit on a real chore.  I've fixed/reglued 7 tears in the suit so far this season and I am noticing more after today.  Something for the Santa Claus list...
+
+Once in the suit, I made the corporate decision to keep it on for the duration of the workout.  I haven't spent much time in it so far this year and I am glad I did.  Little nuances with the feel of the suit made themselves known that I hadn't yet picked up in a lake (or saltwater).
+
+I did take the suit off before the cool down lengths and the feel of the water was incredible.
