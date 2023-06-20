@@ -34,7 +34,7 @@ Race day fueling and hydration.
 ### NOTES
 Time: **6:27:46** &nbsp; Ride: **151&#8239;km** &nbsp; Ascent: **1550&#8239;m**
 
-Probably the route my coach asked for [last Sunday](challenge2023-3weeksout?sun).
+Today's ride was probably the route my coach asked for [last Sunday](challenge2023-3weeksout?sun).
 
 I headed out on the _E&N Rail Trail_ with an random roadie on his way to _Colwood_ from the _John Dean_ area.  He had never taken this bike path before and we talked about my upcoming event in [Roth](/racereports/2023-challenge-roth).
 
