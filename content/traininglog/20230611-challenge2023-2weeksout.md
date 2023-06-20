@@ -38,7 +38,7 @@ Today's ride was probably the route my coach asked for [last Sunday](challenge20
 
 I headed out on the _E&N Rail Trail_ with an random roadie on his way to _Colwood_ from the _John Dean_ area.  He had never taken this bike path before and we talked about my upcoming event in [Roth](/racereports/2023-challenge-roth).
 
-From there, I loosely followed last week's route but spent less time on the hills.  For example, I rode a fraction of _Labonne Road_ and took _Ross-Durrance Road_ instead of the top part of _Munn_.
+From there, I loosely followed last week's route but spent less time on the hills.  For example, I rode a fraction of the hills around _Labonne Road_ and took _Ross-Durrance Road_ instead of the top part of _Munn_.
 
 I fuelled with a bottle with just 2 packets of _Tailwind_ stretched with sugar; it sat better but still wasn't great tasting.  The second bottle was my typical lemonade, mixed thick.
 
