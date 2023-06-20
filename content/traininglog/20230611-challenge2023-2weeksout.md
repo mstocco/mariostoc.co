@@ -106,7 +106,7 @@ Sleep **4** | Fatigue **2** | Stress **2** | Soreness **2**
 ### PLANNED WORKOUT
 Sleep all you can.
 
-Walk 3.6k to the pool. 
+Walk 3.6k to/from the pool
 
 Swim 2800: 
 12x 50 easy swimming to warm-up/loosen up. R :20 after each. 
@@ -115,12 +115,10 @@ Swim 2800:
 10x 100 aerobic/steady w/ focus on breathing and a steady rhythm. R :10 after each. Shorter rest...trying to warm-up into your stroke. 
 4x 50 EASY swimming to cool down. 
 
-Walk 3.6k home. 
-
 Stretching 15 minutes
 
 ### NOTES
-Time: **61 Mins** &nbsp;Swim: **2700&#8239;m** &nbsp;Steps: **20188** <small>15.7&#8239;km</small>
+Time: **61 Mins** &nbsp;Swim: **2700&#8239;m** &nbsp;<small>Steps: 20188 (15.7&#8239;km)</small>
 
 A [50m outdoor pool](javascript:flkty.select(2);)?  Let's go!
 <!----->
@@ -151,9 +149,9 @@ Run/Walk 46 minutes:
 Stretching 15 minutes
 
 ### NOTES
-Total Time: **0 Minutes** &nbsp;Ride: **9&#8239;km**
+Time: **185 Mins** &nbsp;Ride: **53&#8239;km** &nbsp;Run/Walk: **&#8239;km**
 
-&mdash;  
+Carina's second cousin, Martin is a cyclist and he took me for a tour of the Nürnberg area this afternoon.
 
 <!---->
 ## SATURDAY JUN 17 ☀️
@@ -178,6 +176,6 @@ Swim 3500:
 Walk 3.6k home. 
 
 ### NOTES
-Time: **87&#8239;Mins** &nbsp;Swim: **4300&#8239;m** &nbsp;Steps: **15834** <small>12.5&#8239;km</small>
+Time: **87&#8239;Mins** &nbsp;Swim: **4300&#8239;m** &nbsp;<small>Steps: 15834 (12.5&#8239;km)</small>
 
 &mdash;  
