@@ -41,10 +41,12 @@ Oddly, the gap to the bike in front of me began to shrink and as my shoulder pas
 
 Up the road in the little hamlet of _Eysölden_, I made a wrong turn; my detour let the pair of riders catch me again.  It was obvious to me that they knew the route well and I followed as best I could through to the hill before _Hilpoltstein_.
 
-_Solar Hill_ was a lonely climb today and it was predominantly into a headwind from there to _Pierheim_.
+One thing about what these guys were doing was that they seemed to pull away from me when things were flat and I'd be back on their wheel when things turned uphill.  If I was to guess, they were riding with the intention of holding a certain power.
 
-Energy was starting to go.  It was hot and with no convenience stores (aid stations) on the back half of the loop, water was needed.  On a Sunday afternoon, very little was open.
+_Solar Hill_ was a lonely climb today and it was predominantly into a headwind from there to _Pierheim_.
 <!----->
+Energy was starting to go.  It was hot and with no convenience stores (aid stations) on the back half of the loop, water was needed.  On a Sunday afternoon, very little was open.
+
 Before rolling past the swim start, I decided to pull in and check out the scene.  A crew was in the early process of setting things up.  The water in the canal didn't look so fresh.  I'll be giving my wetsuit an extra rinse after the event.
 
 The last leg from T1 to T2 (back to _Roth_) is mostly false flat downhill.
