@@ -2,7 +2,7 @@
 **RACE WEEK**
 
 ## WEEKLY GOAL
-&mdash;
+
 
 ## SUMMARY
 Total Time: **0 Hours**
@@ -12,7 +12,7 @@ I feel like I was...
 
 &mdash;
 
-![](/assets/jpg/II-9x550.jpeg)
+![Made it.](/assets/jpg/IMG_5014-977x550.jpeg ROTH, GERMANY)
 
 ## SUNDAY JUN 18 ☀️
 Sleep **5** | Fatigue **4** | Stress **4** | Soreness **3**
@@ -29,12 +29,12 @@ Run/Walk off the bike: 40 minutes:
 8 rounds (1 minute walk, 4 minutes easy running) 
 
 ### NOTES
-Time: **0 Mins** &nbsp; Ride: **100&#8239;km** Run/Walk: **7.7&#8239;km**
+Time: **282 Mins** &nbsp;Ride: **99&#8239;km** &nbsp;Run/Walk: **7.7&#8239;km**
 
 Carina put me on the express train to [Roth](javascript:flkty.select(2);) arriving at noon.  After getting some bearings, finding the Triathlon Park, I set out to _Eckersmühlen_ and the start of my loop.
 
 A local roadie named Flo caught me and instead of riding off my back wheel, we struck up a conversation through to his home just off the race course in _Seiboldsmühle_.
-
+<!----->
 I was alone for the ride down to _Greding_, up and over the _Kreissstraße RH24_ and didn't see another cyclist going in my direction until _Offenbau_.  A younger guy, tanned with diamonds for calves rolls passed me on a tricked out _Canyon Speedmax_ and offers a me a _"Tschüss"_.  As he headed up the road, I caught a glimpse of his buddy closing in on me too.
 
 Oddly, the gap to the bike in front of me began to shrink and as my shoulder passed _Mr. Speedmax_, I smiled and said, _"Tschüss!" 
@@ -76,18 +76,19 @@ Stretching 21 minutes
 ### NOTES
 Total Time: **85 Minutes** &nbsp; Run/Walk: **12.4&#8239;km**
 
-Terrible sleep last night.  Up at 0200 and didn't fall back to sleep until the birds started chirping.  Probably drained from the long day in the heat [yesterday](javascript:flick('sun');).
+Terrible sleep last night.  Up at 0200 and didn't fall back to sleep until the birds started chirping.  Probably drained from dehydration and the long day in the heat [yesterday](javascript:flick('sun');).
 
 Running this afternoon, I felt pretty good; I was expecting to feel a lot worse.
-
+<!----->
 I ran to the park and did a lap of _Zeppelinfeld_; it is still a very ominous experience to know what was in the 1930's.  I did some stairs on the _Zeppelinhaupttribüne_ just because.
 
 Other things on this run included a run past _Kongresshalle_, a run to the end of _Großen Straße_ finishing up at the front of the _SS-Kaserne_.
 
+![Run](/assets/jpg/image.jpeg)
 
 <!---->
-## TUESDAY JUN 20
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY JUN 20 🌩️
+Sleep **3** | Fatigue **3** | Stress **2** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -98,9 +99,9 @@ Wetsuit off>>
 4x 50 super easy to cool down.
 
 ### NOTES
-Total Time: **0 Minutes**
+Total Time: **0 Minutes** &nbsp; Swim: **0000&#8239;m**
 
-&mdash;  
+Asleep by 2300, up at 0430 and I feel refreshed to start the day.
 
 <!---->
 ## WEDNESDAY JUN 21
