@@ -72,7 +72,7 @@ Sleep **3** | Fatigue **3** | Stress **4** | Soreness **3**
 
 ### PLANNED WORKOUT
 Travel Day! 
-Hydrate and stretch whenever you can. 
+Hydrate/stretch whenever you can. 
 
 ### NOTES
 Total Time: **0 Minutes**
@@ -171,6 +171,10 @@ Riding with Martin was a lot of fun.  Although we went over the allotted time (~
 
 We spent some time visiting after the ride and once I did get my runners on, I felt really good cruising on the pedestrian path along _Münchener Straße_.
 
+---
+
+Hay-fever is exceptionally bad tonight.
+
 ![Approaching the high point of the ride.](/assets/jpg/IMG_4975-733x550.jpeg Höhenstraße, Tauchersreuth)
 
 ## SATURDAY JUN 17 ☀️
@@ -192,12 +196,11 @@ Swim 4300:
 4x 50 EASY to cool down.
 
 ### NOTES
-Time: **87&#8239;Mins** &nbsp;Swim: **4300&#8239;m** &nbsp;<small>Steps: 15834 (12.5&#8239;km)</small>
-
-🏆 **Longest Swim** 
+Total Time: **87&#8239;Mins** &nbsp;Swim: **4300&#8239;m** &nbsp;<small>🏆 Longest Swim</small>  
+Steps: **15834** (12.5&#8239;km)
 
 Getting sweaty during the walk to the pool made getting the wetsuit on a real chore.  I've fixed/reglued 7 tears in the suit so far this season and I am noticing more after today.  Something for the Santa Claus list...
 
-Once in the suit, I made the corporate decision to keep it on for the duration of the workout.  I haven't spent much time in it so far this year and I am glad I did.  Little nuances with the feel of the suit made themselves known that I hadn't yet picked up in a lake (or saltwater).
+Once in the suit, I made the corporate decision to keep it on for the duration of the workout.  I haven't spent much time in it so far this year; I am glad I did.  Little nuances with the feel of the suit made themselves known that I hadn't yet picked up in a lake (or saltwater).
 
 I did take the suit off before the cool down lengths and the feel of the water was incredible.
