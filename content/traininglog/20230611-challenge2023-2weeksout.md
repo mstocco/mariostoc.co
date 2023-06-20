@@ -94,7 +94,7 @@ Lufthansa had my bike case **right beside me** before we left _Frankfurt's Termi
 
 For the rest of the afternoon, my _Apple AirTag_ informed me as the bike moved about _Frankfurt Airport_, out to the _"Lost & Found"_ area in  _Terminal 2_ before heading back to other side of _Terminal 1_ later in the evening.
 
-We took the _U-Bahn_ back to the airport to retrieve the bike at midnight as it was sent on the last flight of the night.
+We took the _U-Bahn_ back to the airport to retrieve the bike at **midnight** as it was sent on the last flight.
 
 Not cool Lufthansa.  😡
 
@@ -120,7 +120,7 @@ Walk 3.6k home.
 Stretching 15 minutes
 
 ### NOTES
-Time: **61 Mins** &nbsp;Swim: **2700&#8239;m** &nbsp; Steps: **20188** <small>15.7&#8239;km</small>
+Time: **61 Mins** &nbsp;Swim: **2700&#8239;m** &nbsp;Steps: **20188** <small>15.7&#8239;km</small>
 
 A [50m outdoor pool](javascript:flkty.select(2);)?  Let's go!
 <!----->
