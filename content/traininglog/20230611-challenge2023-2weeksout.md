@@ -34,16 +34,19 @@ Race day fueling and hydration.
 ### NOTES
 Time: **6:27:46** &nbsp; Ride: **151&#8239;km** &nbsp; Ascent: **1550&#8239;m**
 
+[Yesterday](challenge2023-3weeksout?sat), I popped the chain off my bike, stripped it clean and applied _"Squirt"_ on it.  This is the first time I am using a drip wax on a chain and the first time using wax on the road.  Bike chains are only waxed on the track.
+
 Today's ride was probably the route my coach asked for [last Sunday](challenge2023-3weeksout?sun).
 
-I headed out on the _E&N Rail Trail_ with an random roadie on his way to _Colwood_ from the _John Dean_ area.  He had never taken this bike path before and we talked about my upcoming event in [Roth](/racereports/2023-challenge-roth).
-
+I headed out on the _E&N Rail Trail_ and met up an random roadie on his way to _Colwood_ from the _John Dean Park_ area.  He had never taken this bike path before and so we talked about my upcoming event in [Roth](/racereports/2023-challenge-roth).
+<!----->
 From there, I loosely followed last week's route but spent less time on the hills.  For example, I rode a fraction of the hills around _Labonne Road_ and took _Ross-Durrance Road_ instead of the top part of _Munn_.
 
 I fuelled with a bottle with just 2 packets of _Tailwind_ stretched with sugar; it sat better but still wasn't great tasting.  The second bottle was my typical lemonade, mixed thick.
 
-I looped the peninsula via _Lands End Road_ before heading south.  Overall, I felt pretty good today.
+I looped the peninsula via _Lands End Road_ before heading south.  Overall, I **felt pretty good** today.
 
+The drip wax on the chain seemed to work out.  
 <!---->
 ## MONDAY JUN 12 ☀️
 Sleep **4** | Fatigue **4** | Stress **5** | Soreness **4**
@@ -57,13 +60,13 @@ Stretching 22 minutes
 ### NOTES
 Total Time: **25 Minutes** &nbsp; Swim: **1250&#8239;m**
 
-Getting things organized for the flight overseas is priority one.  I know I am feeling pressure because I am getting forgetful as the day wears on.
+Getting things organized for the flight overseas is **priority one**.  I am feeling pressure of the trip because I am getting more forgetful as the day wears on.
 
-I had a tiny window to go to _Crystal Pool_ and just do some lengths; nothing structured, doing what I can to get some purposeful movement in without piling on more stress.
+With a tiny window at _Crystal Pool_, I got in some lengths; nothing structured, nothing long, just doing what I can to get some purposeful movement in without piling on more stress.
 
 <!---->
-## TUESDAY JUN 13
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## TUESDAY JUN 13 🌤
+Sleep **3** | Fatigue **3** | Stress **4** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
