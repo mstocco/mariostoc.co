@@ -15,9 +15,9 @@ After a great ride on [Sunday](javascript:flick('sun');), it was time to pack up
 
 New bike, new bike box and lots of experimenting to get things disassembled and packed securely for the trip.  Everything arrived in one piece albeit on the last flight of the day.
 
-Exploring Nürnberg is awesome.
+Being back in Nürnberg is awesome.
 
-![Definitely an awesome pool to get a workout in.  Saturday I did 4300&#8239;m here](/assets/jpg/IMG_4969-977x550.jpeg NürnbergBad - Stadionbad)
+![Definitely an awesome pool to get a workout in.  Thursday, I did 2700&#8239;m here and Saturday it was a PB 4300&#8239;m.](/assets/jpg/IMG_4969-977x550.jpeg NürnbergBad - Stadionbad)
 
 ## SUNDAY JUN 11 ☀️
 Sleep **3** | Fatigue **3** | Stress **5** | Soreness **3**
@@ -38,15 +38,18 @@ Time: **6:27:46** &nbsp; Ride: **151&#8239;km** &nbsp; Ascent: **1550&#8239;m**
 
 Today's ride was probably the route my coach asked for [last Sunday](challenge2023-3weeksout?sun).
 
-I headed out on the _E&N Rail Trail_ and met up an random roadie on his way to _Colwood_ from the _John Dean Park_ area.  He had never taken this bike path before and so we talked about my upcoming event in [Roth](/racereports/2023-challenge-roth).
+I headed out on the _E&N Rail Trail_ and struck up a conversation with an random roadie on his way to _Colwood_; he had never taken this bike path before.
 <!----->
-From there, I loosely followed last week's route but spent less time on the hills.  For example, I rode a fraction of the hills around _Labonne Road_ and took _Ross-Durrance Road_ instead of the top part of _Munn_.
+I loosely followed last week's route but spent less time on the hills.  For example, I rode a fraction of the hills around _Labonne Road_ and took _Ross-Durrance Road_ instead of the top part of _Munn_.
 
 I fuelled with a bottle with just 2 packets of _Tailwind_ stretched with sugar; it sat better but still wasn't great tasting.  The second bottle was my typical lemonade, mixed thick.
 
 I looped the peninsula via _Lands End Road_ before heading south.  Overall, I **felt pretty good** today.
 
-The drip wax on the chain seemed to work out.  
+The _"Squirt"_ wax on the chain seemed to work out.
+
+![](/assets/jpg/image.jpeg)
+
 <!---->
 ## MONDAY JUN 12 ☀️
 Sleep **4** | Fatigue **4** | Stress **5** | Soreness **4**
@@ -62,7 +65,7 @@ Total Time: **25 Minutes** &nbsp; Swim: **1250&#8239;m**
 
 Getting things organized for the flight overseas is **priority one**.  I am feeling pressure of the trip because I am getting more forgetful as the day wears on.
 
-With a tiny window at _Crystal Pool_, I got in some lengths; nothing structured, nothing long, just doing what I can to get some purposeful movement in without piling on more stress.
+No walk or stretching but with a tiny window at _Crystal Pool_, I got in some lengths; nothing structured, nothing long, just doing what I can to get some purposeful movement in without piling on more stress.
 
 <!---->
 ## TUESDAY JUN 13 🌤
