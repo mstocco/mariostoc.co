@@ -44,7 +44,7 @@ I loosely followed last week's route but spent less time on the hills.  For exam
 
 I fuelled with a bottle with just 2 packets of _Tailwind_ stretched with sugar; it sat better but still wasn't great tasting.  The second bottle was my typical lemonade, mixed thick.
 
-I looped the peninsula via _Lands End Road_ before heading south.  Overall, I **felt pretty good** today; maybe a little bothered in the saddle area...
+I looped the peninsula via _Lands End Road_ before heading south.  Overall, I **felt pretty good**; maybe a little bothered in the saddle area...
 
 ![Bike](/assets/jpg/bike-20230611.jpeg) That _"Squirt"_ chain wax seemed to work well.
 
@@ -198,8 +198,8 @@ Swim 4300:
 4x 50 EASY to cool down.
 
 ### NOTES 🏆
-Swim Time: **87&#8239;Mins** &nbsp; Distance: **4300&#8239;m** <small> (longest ever)</small>  
-Steps: **15834** (Estimated 12.5&#8239;km)
+Swim Time: **87&#8239;Mins** &nbsp;Distance: **4300&#8239;m** <small> (longest)</small>  
+Steps: **15834** <small>(Estimated 12.5&#8239;km)</small>
 
 Getting sweaty during the walk to the pool made getting the wetsuit on a real chore.
 <!----->
@@ -208,3 +208,5 @@ I've fixed/reglued 7 tears in the suit so far this season and I am noticing more
 Once in the suit, I made the corporate decision to keep it on for the duration of the workout.  I haven't spent much time in it so far this year; I am glad I did.  Little nuances with the feel of the suit made themselves known that I hadn't yet picked up in a lake (or saltwater).
 
 I did take the suit off before the cool down lengths and the feel of the water was incredible.
+
+![Swim](/assets/jpg/swim-20230617.jpeg)
