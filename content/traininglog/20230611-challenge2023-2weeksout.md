@@ -44,11 +44,9 @@ I loosely followed last week's route but spent less time on the hills.  For exam
 
 I fuelled with a bottle with just 2 packets of _Tailwind_ stretched with sugar; it sat better but still wasn't great tasting.  The second bottle was my typical lemonade, mixed thick.
 
-I looped the peninsula via _Lands End Road_ before heading south.  Overall, I **felt pretty good** today.
+I looped the peninsula via _Lands End Road_ before heading south.  Overall, I **felt pretty good** today; maybe a little in saddle area...
 
-_"Squirt"_ chain wax seemed to work well.
-
-![](/assets/jpg/image.jpeg)
+![Bike](/assets/jpg/bike-20230611.jpeg) _"Squirt"_ chain wax seemed to work well.
 
 <!---->
 ## MONDAY JUN 12 ☀️
@@ -135,6 +133,10 @@ Today, I **felt fast** in the water.  I did the workout from memory and missed t
 
 Walked roughly 8&#8239;km to and from the pool plus a night walking the around the _Altstadt_.
 
+---
+
+Bike is mostly built; I just need to align the callipers to be ready for [tomorrow](javascript:flick('fri');). 
+
 <!---->
 ## FRIDAY JUN 16 ☀️
 Sleep **5** | Fatigue **3** | Stress **2** | Soreness **2**
@@ -163,7 +165,7 @@ It took a short time to exit the city but once we did, I was introduced to the c
 
 We made our way northeast through the village of _Rückersdorf_, then northwesterly through the _Günthersbüler Forst_ before landing in Martin's hometown of _Heroldsberg_.  We then travelled through Carina's father's home village of _Buchenbühl_ before returning to _Nürnberg_.  
 
-Riding with Martin was a lot of fun.
+Riding with Martin was a lot of fun.  Although we went over the allotted time (~45 minutes), the effort was super easy.
 
 ---
 
