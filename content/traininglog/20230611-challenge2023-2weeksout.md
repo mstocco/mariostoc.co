@@ -165,13 +165,15 @@ Carina's second cousin, Martin is a cyclist and he took me for a tour of the Nü
 ![About to head out for my first bike ride in Germany.](/assets/jpg/IMG_3967-733x550.jpeg WITH MARTIN K.)
 It took a short time to exit the city but once we did, I was introduced to the cycling infrastructure like I'd haven't seen.  Bike paths for seemingly endless miles alongside the main highways.
 
-We made our way northeast through the village of _Rückersdorf_, then northwesterly through the _Günthersbüler Forst_ before landing in Martin's hometown of _Heroldsberg_.  We then travelled through Carina's father's home village of _Buchenbühl_ before returning to _Nürnberg_.  
+We made our way northeast through the village of _Rückersdorf_, then northwesterly through the _Günthersbüler Forst_ before landing in Martin's hometown of _Heroldsberg_.
 
-Riding with Martin was a lot of fun.  Although we went over the allotted time (~45 minutes), the effort was super easy.
+We then travelled through Carina's father's home village of _Buchenbühl_ before returning to _Nürnberg_.  
+
+Riding with Martin was **a lot of fun**.  Although we went over the allotted time (~45 minutes), the effort was **super easy**.
 
 ---
 
-We spent some time visiting after the ride and once I did get my runners on, I felt really good cruising on the pedestrian path along _Münchener Straße_.
+We spent some time visiting after the ride and once I did get my runners on, I **felt really good** cruising on the pedestrian pathway along _Münchener Straße_.
 
 ---
 

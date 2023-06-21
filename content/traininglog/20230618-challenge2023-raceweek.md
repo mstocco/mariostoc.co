@@ -53,12 +53,17 @@ The last leg from T1 to T2 (back to _Roth_) is mostly false flat downhill.
 
 I found a bakery that was open.  For €7, I bought two small bottles of water and a local brand of cola.
 
-I contemplated riding back to _Nürnberg_; as the crow flies, its just 20&#8239;km.  Google Maps estimated and hour twenty by bike and the route looked complicated.  It's 32°C; I opted for the train instead.
+I contemplated riding back to _Nürnberg_; as the crow flies, its just 20&#8239;km.  Google Maps estimated and hour twenty by bike though, plus the route looked complicated.
 
+It's 32°C; I opted for the train instead.
+<!----->
 From _Nürnberg Hbf_ (Central Train Station), the ride through the city was short and when I arrived home, I was into my running shoes pretty quickly.
 
-It was still hot but I did feel relatively good, clicking of the 4 minute reps on the pedestrian path along _Münchener Straße_.
+It was still hot but I did feel **relatively good**, clicking off the 4 minute reps on the pedestrian pathway along _Münchener Straße_ (again).
 
+---
+
+![Bike](/assets/jpg/image.jpeg)
 <!---->
 ## MONDAY JUN 19 ☀️
 Sleep **5** | Fatigue **4** | Stress **3** | Soreness **3**
