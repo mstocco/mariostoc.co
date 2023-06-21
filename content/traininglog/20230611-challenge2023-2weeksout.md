@@ -181,8 +181,7 @@ We spent some time visiting after the ride and once I did get my runners on, I *
 
 Hay-fever is exceptionally bad tonight.
 
-
-
+<!---->
 ## SATURDAY JUN 17 ☀️
 Sleep **4** | Fatigue **3** | Stress **2** | Soreness **2**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
