@@ -110,8 +110,8 @@ By the time we arrived at the pool, it was 30ºC.  I jumped in without the wetsu
 In [May of 2022](ironman2022-15weeksout?fri), I was in a 25m pool and during a 1500&#8239;m rep, I went 18:51 at some point for a 1000&#8239;m PR.  This afternoon in an 50m outdoor pool, I bested that time by 1 second.
 
 <!---->
-## WEDNESDAY JUN 21
-Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
+## WEDNESDAY JUN 21 🌩️
+Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**
 <sup><br />Rate on an scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>
 
 ### PLANNED WORKOUT
@@ -124,10 +124,16 @@ Run/Walk off the bike: 40 minutes:
 Stretching 15 minutes
 
 ### NOTES
-Total Time: **0 Minutes**
+Time: **170 Mins** &nbsp;Ride: **46&#8239;km** &nbsp;Run/Walk: **6.5&8239;km**
 
-&mdash;  
+I rode a bit longer but more than EASY (all caps).  I let Garmin Connect find me a route east of town and I sync'd it with my head unit.  That worked out mostly.  There were a couple of spots where the GPS wasn't as quick and I'd miss a turn (or two).
 
+Despite the odd navigational hiccup, I got to ride on some fantastic German roads, through fields and forests.
+
+Thunderstorms rolling in from the southwest and it was a race to get home.
+
+Very light rain when I started the run, but mostly the weather stayed to the west.  I felt great on the run.
+ 
 <!---->
 ## THURSDAY JUN 22
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
