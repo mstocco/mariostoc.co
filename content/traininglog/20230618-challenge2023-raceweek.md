@@ -105,7 +105,7 @@ Wetsuit off>>
 1000 @ IM effort/focus w/ 4x sighting per 50. Rest all you need. 
 4x 50 super easy to cool down.
 
-### NOTES
+### NOTES 🏆
 Total Time: **40 Minutes** &nbsp; Swim: **2000&#8239;m**  
 Steps: **13003**  <small> Estimated 10&#8239;km</small>
 
@@ -113,8 +113,9 @@ Asleep by 2300, up at 0430 and I feel refreshed to start the day.
 
 By the time we arrived at the pool, it was 30ºC.  I jumped in without the wetsuit and got to work.
 
-In [May of 2022](ironman2022-15weeksout?fri), I was in a 25m pool and during a 1500&#8239;m rep, I went 18:51 at some point for a 1000&#8239;m PR.  This afternoon in an 50m outdoor pool, I bested that time by 1 second.
+In [May of 2022](ironman2022-15weeksout?fri), I was in a 25m pool and during a 1500&#8239;m rep, I went 18:51 at some point for a 1000&#8239;m PR.
 
+This afternoon in an 50m outdoor pool, I bested that time by 1 second.
 <!---->
 ## WEDNESDAY JUN 21 🌩️
 Sleep **3** | Fatigue **3** | Stress **3** | Soreness **3**
