@@ -139,9 +139,9 @@ Despite the odd navigational hiccup, I got to ride on some more fantastic German
 
 Thunderstorms rolling in from the southwest and it was a race to get home.
 
-Very light rain when I started the run, but mostly the weather stayed to the west.  I felt great on the run.
+![Bike](/assets/jpg/bike-20230621.jpeg)
 
-![Bike](/assets/jpg/image.jpeg)
+Very light rain when I started the run, but mostly the weather stayed to the west.  Effort was easy and I felt great on the run.
 
 <!---->
 ## THURSDAY JUN 22
