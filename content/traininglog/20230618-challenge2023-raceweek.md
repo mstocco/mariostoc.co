@@ -124,16 +124,20 @@ Run/Walk off the bike: 40 minutes:
 Stretching 15 minutes
 
 ### NOTES
-Time: **170 Mins** &nbsp;Ride: **46&#8239;km** &nbsp;Run/Walk: **6.5&8239;km**
+Time: **170 Mins** &nbsp;Ride: **46&#8239;km** &nbsp;Run/Walk: **6.5&#8239;km**
 
-I rode a bit longer but more than EASY (all caps).  I let Garmin Connect find me a route east of town and I sync'd it with my head unit.  That worked out mostly.  There were a couple of spots where the GPS wasn't as quick and I'd miss a turn (or two).
+I rode a bit longer but the effort was more than EASY (all caps).
 
-Despite the odd navigational hiccup, I got to ride on some fantastic German roads, through fields and forests.
+Garmin Connect planned a route for me, east of town and I sync'd it with my head unit.  That worked out mostly.  There were a couple of spots where the GPS wasn't as quick and I'd miss a turn (or two).
+<!----->
+Despite the odd navigational hiccup, I got to ride on some more fantastic German roads, passing by wheats fields and forests.
 
 Thunderstorms rolling in from the southwest and it was a race to get home.
 
 Very light rain when I started the run, but mostly the weather stayed to the west.  I felt great on the run.
- 
+
+![Bike](/assets/jpg/image.jpeg)
+
 <!---->
 ## THURSDAY JUN 22
 Sleep **-** | Fatigue **-** | Stress **-** | Soreness **-**
