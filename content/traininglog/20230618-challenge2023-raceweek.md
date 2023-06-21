@@ -57,13 +57,14 @@ I contemplated riding back to _Nürnberg_; as the crow flies, its just 20&#8239;
 
 It's 32°C; I opted for the train instead.
 <!----->
+![Bike](/assets/jpg/bike-20230618.jpeg)
+
+---
+
 From _Nürnberg Hbf_ (Central Train Station), the ride through the city was short and when I arrived home, I was into my running shoes pretty quickly.
 
 It was still hot but I did feel **relatively good**, clicking off the 4 minute reps on the pedestrian pathway along _Münchener Straße_ (again).
 
----
-
-![Bike](/assets/jpg/image.jpeg)
 <!---->
 ## MONDAY JUN 19 ☀️
 Sleep **5** | Fatigue **4** | Stress **3** | Soreness **3**
