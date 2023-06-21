@@ -162,7 +162,7 @@ Time: **185 Mins** &nbsp;Ride: **53&#8239;km** &nbsp;Run/Walk: **6.6&#8239;km**
 
 Carina's second cousin, Martin is a cyclist and he took me for a tour of the Nürnberg area this afternoon.
 
-<!----->
+![About to head out for my first bike ride in Germany.](/assets/jpg/IMG_3967-733x550.jpeg WITH MARTIN K.)
 It took a short time to exit the city but once we did, I was introduced to the cycling infrastructure like I'd haven't seen.  Bike paths for seemingly endless miles alongside the main highways.
 
 We made our way northeast through the village of _Rückersdorf_, then northwesterly through the _Günthersbüler Forst_ before landing in Martin's hometown of _Heroldsberg_.  We then travelled through Carina's father's home village of _Buchenbühl_ before returning to _Nürnberg_.  
@@ -177,7 +177,7 @@ We spent some time visiting after the ride and once I did get my runners on, I f
 
 Hay-fever is exceptionally bad tonight.
 
-![Approaching the high point of the ride.](/assets/jpg/IMG_4975-733x550.jpeg Höhenstraße, Tauchersreuth)
+![Approaching the high point of the ride; the roads and the views are fantastic.](/assets/jpg/IMG_4975-733x550.jpeg Höhenstraße, Tauchersreuth)
 
 ## SATURDAY JUN 17 ☀️
 Sleep **4** | Fatigue **3** | Stress **2** | Soreness **2**
