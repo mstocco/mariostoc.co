@@ -51,13 +51,11 @@ Before rolling past the swim start, I decided to pull in and check out the scene
 
 The last leg from T1 to T2 (back to _Roth_) is mostly false flat downhill.
 
-93&#8239;km for this loop; 766&#8239;m total ascent.
+<p style="border-bottom:1px solid silver;">93&#8239;km for this loop; 766&#8239;m total ascent.</p>
 
----
+I found a bakery that was open.  For €7, I bought two bottles of water and a local brand of cola.
 
-I found a bakery that was open.  For €7, I bought two small bottles of water and a local brand of cola.
-
-I contemplated riding back to _Nürnberg_; as the crow flies, its just 20&#8239;km.  Google Maps estimated and hour twenty by bike though, plus the route looked complicated.
+I contemplated riding back to _Nürnberg_; as the crow flies, its ~29&#8239;km.  Google Maps estimated and hour thirty by bike and the route looked complicated.
 
 🥵 It's 32°C; I opted for the train instead.
 <!----->
