@@ -56,10 +56,10 @@ I found a bakery that was open.  For €7, I bought two small bottles of water a
 I contemplated riding back to _Nürnberg_; as the crow flies, its just 20&#8239;km.  Google Maps estimated and hour twenty by bike though, plus the route looked complicated.
 
 It's 32°C; I opted for the train instead.
+
+🥵
 <!----->
 ![Bike](/assets/jpg/bike-20230618.jpeg)
-
----
 
 From _Nürnberg Hbf_ (Central Train Station), the ride through the city was short and when I arrived home, I was into my running shoes pretty quickly.
 
