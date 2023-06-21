@@ -210,3 +210,7 @@ Once in the suit, I made the corporate decision to keep it on for the duration o
 I did take the suit off before the cool down lengths and the feel of the water was incredible.
 
 ![Swim](/assets/jpg/swim-20230617.jpeg)
+
+---
+
+And now... [RACE WEEK](challenge2023-raceweek)
