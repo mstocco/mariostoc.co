@@ -27,7 +27,9 @@ The alarm goes off, I feel like I'd had just fallen sleep. My iPad is near by an
 
 57... 58... 59...  click.  I am in.
 
-Was is really that easy?  For fun, I open a second browser window; that webpage says the race is sold out.  I complete the registration form on the first page; we are good to go.
+Was is really that easy?
+
+For fun, I open a second browser window; that webpage says the race is sold out.  I complete the registration form on the first page; we are good to go.
 
 Preparation starts 38 weeks out from race day; the bulk of the activities are in the daylight limited winter. 
 
@@ -39,22 +41,26 @@ Maybe the cherry on top during this training build was planning and marrying my 
 
 It could not have been a nicer summer morning in _Franconia_.
 
-The drive from _Nürnberg_ to Parking Area 3 in _Heuberg_ is relatively smooth.  The line of cars on the country road moves slowly but a glance at the clock on the car's dash, there is time.
+The drive from _Nürnberg_ to Parking Area 3 in _Heuberg_ is relatively smooth.  The Autobahn is fast.  The line of cars on the country road moves slowly but a glance at the clock on the car's dash, there is time.
 
 Walking to the swim start there are generally those comfortably strolling to find a spot to spectate and those more anxiously moving to get into the transition area.  I am definitely in the later group.
 
 In the distance, music is pumping from the sound system at the swim start.  It beckons triathletes to the south shore of the canal.
 
+I stop on the bridge and take in the scene.  Roth is no longer a video on YouTube; I am here.
+
 I make a beeline for my bike. Bottles placed, bike computer on and my tires topped up.  Now I have almost two hours to wait; my start time is 0750.
 
 ![Start of the professional race.](/assets/jpg/IMG_1941-770x550.jpeg THE SWIM &mdash; MAIN DANAU KANAL)
 
-Early this spring, I logged into the Challenge Roth Registration site and changed my estimated finish time to a faster time.  The thought was that I'd get myself into a cohort of swimmers that swim roughly the same pace as me.  I also thought I'd get into the water sooner and get a time buffer for the run.  It doesn't work that way at Roth.  Was I placed in a group of faster swimmers?  Yes, but my group is third from last to start.
+Early this spring, I logged into the Challenge Roth Registration site and changed my estimated finish time to a faster time.  The thought was that I'd get myself into a cohort of swimmers that swim roughly the same pace as me.  I also thought I'd get into the water sooner and get a time buffer for the run.
+
+It doesn't work that way at Roth.  Was I placed in a group of faster swimmers?  Yes, but my group is third from last to start.
 
 Group 15 is called.  We form a line and it is a slow procession to the edge of the water.  The water is a near perfect temperature, announced earlier at 21°C. A short swim to the start line and BOOM!  I am swimming with 250 new friends.
 
 Starting this late, the glare from the sun on the eastern leg to the first bridge is blinding.  Buoys on the water are hard to spot in the sun but the first turn is under a bridge; that is pretty easy to see.  I follow the mass of arms and heads.  There is more contact than I've experienced before. I am ok with it.
-
+<!---->
 I never found a definitive an answer regarding the best way to swim this canal.  Some say that close to shore is faster but I've heard that there isn't much of a difference.  For the long leg west, I swim the buoy line.  It appears many more are swimming the shore; I am pretty sure my overall energy expenditure would be higher getting caught up in that mess.
 
 My effort through this entire swim has been easy, really easy.  I recall getting out of the water last year at IRONMAN Canada, I felt like I could swim another lap.  Right now, I am super excited to get on my bike.
@@ -68,44 +74,45 @@ The speed is higher than I envisioned in the beginning.  On my bike computer, I 
 
 My head is up as I approach a crowd navigating the first hill just past ____.  I am passed by a guy, tricked out with a black bike, black trisuit and black helmet with a really long tail and a blacked out visor.  He is standing up, going for broke with maybe 160 kilometres to go.
 
-"The Batman" gets himself tangled with a slower rider and I hear a crunching sound.  He swearing in German and he swerves, swerves some more before hitting the deck with an even louder crunch.  More yelling and fists are clenched.
+"The Batman" gets himself tangled with a slower rider and I hear a crunching sound.  He swearing in German and he swerves, swerves some more before hitting the deck with an even louder crunch of more broken carbon.  Yelling ensues, fists are clenched.
 
 I don't know who was right and who was wrong but course marshal on a motorcycle behind me also witnesses the spectacle.  I leave it to officials to break up the donnybrook.
-
+<!---->
 Now conscious of riders coming up behind me with speed, I hear another disc wheel approaching.  Blue kit, blue bike, it is Patrick Lange with Ben Kanute in tow.  My turn to yell, "Go get him Ben!"
 
-The bike course is net downhill for the 10 kilometre stretch to the village of Greding, home of the "big hill".  On my left, Daniela Ryf goes screaming past me.  She is rock solid and fast!  I note the time, 1 hour, 11 minutes into my ride.  There should be more of the female race coming through soon...
+The bike course is net downhill for the 10 kilometre stretch to the village of _Greding_, home of the "big hill".  On my left, Daniela Ryf goes screaming past me.  She is rock solid and fast!  I note the time, 1 hour, 11 minutes into my ride.  There should be more of the female race coming through soon.
 
-Heading up Greding, I am picking off age groupers that beat me to the base of the hill.  I am almost feeling guilty of how effortless the climb is.
+Heading up _Greding_, I pick off fellow age groupers that beat me to the base of the hill.  I am almost feeling guilty of how effortless the climb is.
 
 I am quickly put in my place; another rider flys by on my left much faster than I am expecting.  I catch the number plate we all have zip tied to the sea tubes of our bikes; number 24.  "Ernie!"
 
-Professional triathlete, Ernest Mantel looks back and flashes me a big smile.  If my mood was good going up this hill, my energy was over the top now.  Ernie and I have a connection as we both share the same coach, Elliot Bassett (Mountain Endurance).  Ernie gives me a fist pump of encouragement before flying over the horizon.  I continue on.
+Professional triathlete, Ernest Mantel looks back and flashes me a big smile.  If my mood was good going up this hill, my energy was over the top now.  Ernie and I have a connection as we both share the same coach, Elliot Bassett (<a href="" target="_blank">Mountain Endurance</a>).  Ernie gives me a fist pump of encouragement before flying over the horizon.  I continue on.
 
-What goes up, must come down.  A set of switchbacks provide a brief moment of fun.  I am passing other age-groupers; a quick glance behind before entering the next corner and I am amazed how much distance I am putting into my cohorts.  I do slow down where an ambulance is attending to someone who wasn't comfortable on the descent.
+What goes up, must come down.  A set of switchbacks provide a brief moment of fun.  I am passing other age-groupers; a quick glance behind before entering the next corner and I am amazed how much distance I am putting into those I am sharing this hill with.  I slow down where an ambulance is attending to someone who wasn't comfortable on the descent.
 
-Through the village of Offenbau I got some perspective into the eventual result of the female race.  Lisa Norden rolls passed me; maybe better than 30 minutes after Daniela Ryf.  I don't think I'll need to ask who will be crowned winner on the day.
+Through the village of _Offenbau_ I got some perspective into the eventual result of the female race.  Lisa Norden rolls passed me; more than 30 minutes after Daniela Ryf.  I don't think I'll need to ask who will be crowned winner on the day.
 
 Chelsea Sodaro would pass me next and gave her a cheer.  It dawns on me that within the professional field, I have only cheered for the American athletes.
 
-
 ![In Hilpoltstein, a slight right turn reveals this view.](/assets/jpg/IMG_1935-770x550.jpeg SOLARER&#8239;BERG)
 
-There is a DJ adding to the atmosphere and as I pedal through the chute and into the crowd lining the hill, the song _"Jump"_ by Van Halen starts.  I played the album _"1984"_ until the vinyl wore out when it was this song was released.  I rode a BMX like my hair was on fire back in those pre-adolescent years.  Suddenly, I was that kid again.
+There is a DJ adding to the atmosphere and as I pedal through the chute and into the crowd lining the hill, the song _"Jump"_ by Van Halen starts.  I played the album _"1984"_ until the vinyl wore out when it was this song was released.  I rode a BMX like my hair was on fire back in those pre-adolescent years.
+
+In an instant, I was that kid again.
 
 From _Morlach_ back into _Hilpostein_, the road is fast and there is a bit of a tailwind.  Carina is waiting on the corner as I make the final turn to complete the first lap of the course.  I am really happy to see her.
 
 Second loop and there is a difference this go around.  Those that just made the left turn in _Eckersmühlen_ are looking at another 85 kilometres and the group energy changes.  I see more people taking breaks on the side of the road.  Faces have less smiles, postures on the bike look more slumped.
 
-The pockets of crowds dotting the countryside road remain enthusiastic.  The volunteers at the aid stations are still happy and enjoying the day.  The easterly headwind down to Greding has a little more oomph and it is getting warm.
+The pockets of crowds dotting the countryside road remain enthusiastic.  The volunteers at the aid stations are still happy and enjoying the day.  The easterly headwind down to _Greding_ has a little more oomph and it is getting warm.
 
 I am right on track with the calories in my water bottles but thirst is no longer a gauge I can rely on; I am now drinking water whether I feel the need or not.
 
-I recognize a couple of faces still cheering at Solar Hill; most of the crowd has left for Roth to watch the professional field at the finish line.  I am up and over Solarberg quicker this time around.
+I recognize a couple of faces still cheering at _Solarer&#8239;Berg_; most of the crowd has left for _Roth_ to watch the professional field at the finish line.  I am up and over this hill quicker this time around.
 
 I have a back and forth with a German participant named Ralf.  He passes me, I pass him back.  This continues for about 10 minutes on the section returning to the swim start.  I think I've dropped him for good on the descent near the locks.
 
-800m before transition, he's reeled me in and gets off the bike ahead of me.
+800m remaining in the bike leg, Ralf reels me in and races into transition ahead of me.
 
 
 ![](/assets/jpg/IMG_1956-770x550.jpeg THE RUN &mdash; THE TEST)
@@ -118,12 +125,12 @@ The plan was always walk out of T2.  5 minutes and I am still walking.  Could I 
 The plan that Elliot and I discussed earlier this week was 4 minutes on, 1 minute walking.  I program this interval for 60 reps into my watch.  Pressing the lap button once starts the workout and from there, I go on auto-pilot.
 
 Beep, beep, beep, beep, beeeeep...
-
+<!---->
 Through 8 kilometres, I am feeling fresh.  Up ahead is a yellow trisuit, I am reeling it in.
 
-On the bike, the bib numbers are worn facing the back; for the run, they are facing forward.  I run along side the yellow tri-suit and blurt out, "Hello Ralf, do you please english?"
+On the bike, the bib numbers are worn facing the back; for the run, they are facing forward.  I run along side the yellow tri-suit and blurt out, "Hello Ralf, do you speak english?"
 
-"Yes, a little.  You are the Canadian..."
+"Yes, a little.  You are The Canadian..."
 
 I explain my run/walk strategy; we chat briefly each time we pass each other.  Eventually, Ralf stops catching me on my walk reps.  I press on.  I thought I'd dropped this guy on the bike and he proved to be resilient then.
 
