@@ -29,25 +29,27 @@ The alarm goes off, I feel like I'd had just fallen sleep. My iPad is near by an
 
 Was is really that easy?  For fun, I open a second browser window; that webpage says the race is sold out.  I complete the registration form on the first page; we are good to go.
 
-Preparation starts 38 weeks out from race day; he bulk of the activities are in the daylight limited winter. 
+Preparation starts 38 weeks out from race day; the bulk of the activities are in the daylight limited winter. 
 
-Consistency is interrupted by COVID at the end of January.  Rolling an ankle and breaking my cuboid threatens to derail everything 13 weeks before the race.
+A very consistent streak is interrupted by COVID at the end of January.  Rolling an ankle and breaking my cuboid threatens to derail everything just 13 weeks before the race.
 
-And I marry my sweetheart on May 21st!
+Maybe the cherry on top during this training build was planning and marrying my sweetheart on May 21st!
 
-![](/assets/jpg/IMG_-770x550.jpeg RACE MORNING)
+![Transition 1](/assets/jpg/IMG_5124-770x550.jpeg RACE MORNING)
 
-It could not have been a nicer summer morning. The drive from _Nürnberg_ to the parking area in _Heuberg_ is relatively smooth.  The line of cars on the country road moves slowly but a glance at the clock on the car's dash, there is time.
+It could not have been a nicer summer morning in _Franconia_.
 
-Walking to the swim start there are generally those comfortably strolling to find a spot to spectate the swim start and those more anxiously moving to get into the transition area.  I am definitely in the later group.
+The drive from _Nürnberg_ to Parking Area 3 in _Heuberg_ is relatively smooth.  The line of cars on the country road moves slowly but a glance at the clock on the car's dash, there is time.
 
-In the distance, music is pumping from the sound system at the swim start.  It beckons triathletes to the shore of the south shore of the canal.
+Walking to the swim start there are generally those comfortably strolling to find a spot to spectate and those more anxiously moving to get into the transition area.  I am definitely in the later group.
 
-I find my bike. Bottles placed, bike computer on and my tires topped up.  Now I have more than an hour to wait; my start time is 0750.
+In the distance, music is pumping from the sound system at the swim start.  It beckons triathletes to the south shore of the canal.
+
+I make a beeline for my bike. Bottles placed, bike computer on and my tires topped up.  Now I have almost two hours to wait; my start time is 0750.
 
 ![Start of the professional race.](/assets/jpg/IMG_1941-770x550.jpeg THE SWIM &mdash; MAIN DANAU KANAL)
 
-Early this spring, I logged into the Challenge Roth Registration site and changed my estimated finish time to a faster time.  The thought was that I'd get myself into a cohort of swimmers that I'd be able to keep up with and get into the water sooner.  It doesn't work that way at Roth.  Was I placed in a group of faster swimmers?  Yes, but my group is third from last to start.
+Early this spring, I logged into the Challenge Roth Registration site and changed my estimated finish time to a faster time.  The thought was that I'd get myself into a cohort of swimmers that swim roughly the same pace as me.  I also thought I'd get into the water sooner and get a time buffer for the run.  It doesn't work that way at Roth.  Was I placed in a group of faster swimmers?  Yes, but my group is third from last to start.
 
 Group 15 is called.  We form a line and it is a slow procession to the edge of the water.  The water is a near perfect temperature, announced earlier at 21°C. A short swim to the start line and BOOM!  I am swimming with 250 new friends.
 
