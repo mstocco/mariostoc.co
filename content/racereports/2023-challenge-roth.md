@@ -17,7 +17,7 @@ I hope you enjoy the read.
  <li><a href="javascript:flkty.select(17);">FINAL THOUGHTS</a></li>
 </ul>
 <h3 style="margin-top:14px;">CHALLENGE ROTH YOUTUBE VIDEO</h3>
-<a href="https://youtu.be/live/GySeS8N3OLw" target="_blank">Full Race DATEV Challenge Roth powered by hep 2023</a>
+<a href="https://youtu.be/live/GySeS8N3OLw" target="_blank">DATEV Challenge Roth powered by hep 2023</a>
 
 <!---->
 
@@ -49,7 +49,9 @@ In the distance, music is pumping from the sound system at the swim start.  It b
 
 I stop on the bridge and take in the scene.  Roth is no longer a video on YouTube; I am here.
 
-I make a beeline for my bike. Bottles placed, bike computer on and my tires topped up.  Now I have almost two hours to wait; my start time is 0750.
+I make a beeline for my bike. Bottles placed, bike computer on and the pressure in my tires topped up.
+
+Now I have almost two hours to wait; my start time is 0750.
 
 ![Start of the professional race.](/assets/jpg/IMG_1941-770x550.jpeg THE SWIM &mdash; MAIN DANAU KANAL)
 
@@ -57,7 +59,9 @@ Early this spring, I logged into the Challenge Roth Registration site and change
 
 It doesn't work that way at Roth.  Was I placed in a group of faster swimmers?  Yes, but my group is third from last to start.
 
-Group 15 is called.  We form a line and it is a slow procession to the edge of the water.  The water is a near perfect temperature, announced earlier at 21°C. A short swim to the start line and BOOM!  I am swimming with 250 new friends.
+The waiting is over as Group 15 is called.  We form a line and it is a slow procession to the edge of the water.
+
+The announced water temperature is a near perfect 21°C. A short swim to the start line and BOOM!  The cannon fires and I am swimming with 250 new friends.
 
 Starting this late, the glare from the sun on the eastern leg to the first bridge is blinding.  Buoys on the water are hard to spot in the sun but the first turn is under a bridge; that is pretty easy to see.  I follow the mass of arms and heads.  There is more contact than I've experienced before. I am ok with it.
 <!---->
@@ -84,8 +88,10 @@ The bike course is net downhill for the 10 kilometre stretch to the village of _
 
 Heading up _Greding_, I pick off fellow age groupers that beat me to the base of the hill.  I am almost feeling guilty of how effortless the climb is.
 
-I am quickly put in my place; another rider flys by on my left much faster than I am expecting.  I catch the number plate we all have zip tied to the sea tubes of our bikes; number 24.  "Ernie!"
+I am quickly put in my place; another rider flys by on my left much faster than I am expecting.  I catch the number plate we all have zip tied to the sea tubes of our bikes; it is number 24.
 
+"Ernie!"
+<!---->
 Professional triathlete, Ernest Mantel looks back and flashes me a big smile.  If my mood was good going up this hill, my energy was over the top now.  Ernie and I have a connection as we both share the same coach, Elliot Bassett (<a href="" target="_blank">Mountain Endurance</a>).  Ernie gives me a fist pump of encouragement before flying over the horizon.  I continue on.
 
 What goes up, must come down.  A set of switchbacks provide a brief moment of fun.  I am passing other age-groupers; a quick glance behind before entering the next corner and I am amazed how much distance I am putting into those I am sharing this hill with.  I slow down where an ambulance is attending to someone who wasn't comfortable on the descent.
@@ -104,7 +110,9 @@ From _Morlach_ back into _Hilpostein_, the road is fast and there is a bit of a 
 
 Second loop and there is a difference this go around.  Those that just made the left turn in _Eckersmühlen_ are looking at another 85 kilometres and the group energy changes.  I see more people taking breaks on the side of the road.  Faces have less smiles, postures on the bike look more slumped.
 
-The pockets of crowds dotting the countryside road remain enthusiastic.  The volunteers at the aid stations are still happy and enjoying the day.  The easterly headwind down to _Greding_ has a little more oomph and it is getting warm.
+The pockets of crowds dotting the countryside road remain enthusiastic.  The volunteers at the aid stations are still happy and enjoying the day.
+<!---->
+The easterly headwind down to _Greding_ has a little more oomph and it is getting warm.
 
 I am right on track with the calories in my water bottles but thirst is no longer a gauge I can rely on; I am now drinking water whether I feel the need or not.
 
@@ -130,7 +138,7 @@ Through 8 kilometres, I am feeling fresh.  Up ahead is a yellow trisuit, I am re
 
 On the bike, the bib numbers are worn facing the back; for the run, they are facing forward.  I run along side the yellow tri-suit and blurt out, "Hello Ralf, do you speak english?"
 
-"Yes, a little.  You are The Canadian..."
+"Yes, a little.  You are _The Canadian_..."
 
 I explain my run/walk strategy; we chat briefly each time we pass each other.  Eventually, Ralf stops catching me on my walk reps.  I press on.  I thought I'd dropped this guy on the bike and he proved to be resilient then.
 
@@ -138,17 +146,19 @@ I explain my run/walk strategy; we chat briefly each time we pass each other.  E
 
 I am drinking water through the aid stations.  The little extra in the cup I pour over my head.
 
-At this aid station, there isn't a volunteer with a gel in hand.  Not to worry as the PowerBar Gels are in the middle table.  One for the road. Green Apple flavour.  This is my first time using PowerBar Gels.  They are sitting well and I am liking the flavours.  Some are caffeinated and I make sure to mix in the non-caffeinated packets.
+At this aid station, there isn't a volunteer with a gel in hand.  Not to worry as the PowerBar Gels are consistently found on the middle table.
+<!--->
+One for the road. Green Apple flavour.  This is my first time using PowerBar Gels.  They are sitting well and I am liking the flavours.  Some are caffeinated and I make sure to mix in the non-caffeinated packets.
 
 My feet are getting tired and I am not feeling fresh but the trek to the north end of the canal seemed longer than this return trip south.  I will take the positives where I can get them.
 
 Through the forest and down the hill.  I am somewhere past the 28 km sign; Carina is here to cheer me on.  We walk together for a bit.  Any worries regarding the ability of my right foot holding strong over the distance are gone.  My confidence in completing this day is high but having Carina beside me for a short walk is just what I need at the moment.
 
-"Ernie!" Instead of blowing past me on the bike, he is now heading back to his home stay. We stop for a bit and he asks how my day is going.  My answer is, "Fantastic!" He tells us about his great day here as well.
+"Ernie!" Instead of blowing past me on the bike, he is now heading back to his home stay. We stop for a bit and he asks how my day is going.  My answer is, "Fantastic!" We learn about his great day here at _Roth_ as well.
 
-My watch has been beeping every fourth and then one minute.  I am back on the workout.  Heading through Roth's old town is a blast.  Lots of turns on old cobblestone streets.  The crowds are still cheering and it is very uplifting.
+My watch has been beeping every fourth and then one minute.  Saying goodbye to Ernie, then to Carina, I am back to my 4 minute interval workout.  Heading through Roth's old town is a blast.  Lots of turns on old cobblestone streets.  The crowds are still cheering and it is very uplifting.
 
-The hill that Ernie cautioned me about is real.  Maybe a 5% grade but it goes forever.  I am chipping away at it, still 4 minutes at a time.
+Ernie cautioned me about _"the hill"_. Maybe a 5% grade but it goes forever.  I am chipping away at it, still 4 minutes at a time.
 
 Out of the corner of my eye, I catch an American flag on the bib of another participant grinding her way up the hill.  I say, "hello."
 
@@ -156,9 +166,11 @@ Whitney is here with her husband and her mom.  This is her 8th full distance tri
 
 IRONMAN Italy, I had Davide to share the pain of the remaining kilometres with.  At IRONMAN Canada, I had the Kevin right on my tail pushing me to the finish.  This year, it is a casual conversation about triathlon that has me forgetting the dull ache in my quadriceps.
 
-Whitney may have been on pace for a PR.  I wish her well as she continues up the road.  I walk for a bit.  If I would just look at the time on my watch, I'd see that I was ahead of my best pace too.  I am content with soaking in the moment.
+Whitney may have been on pace for a PR.  I wish her well as she continues up the road.  I walk for a bit.  If I would just look at the time on my watch, I'd see that I was ahead of my best pace too.  I am content with soaking in the wonderful moment in a charming German town.
 
-From the side of the run course, I hear my name called.  Florain, a local triathlete that I met during my recon ride of the course last Sunday, had been following my progress throughout the day and made his way out to the last couple kilometres of the run, just to cheer me on.  It is his goal to one day participate in his hometown race.  
+From the side of the run course, I hear my name called.
+
+Florain, a local triathlete that I met during my recon ride of the course last Sunday, had been following my progress throughout the day and made his way out to the last couple kilometres of the run, just to cheer me on.  It is his goal to one day participate in his hometown race.  
 
 His English is 100 times better than my German.  I hope I an properly conveying how awesome and encouraged I feel with him being to cheer me along, just as he said he would a week ago.
 
@@ -167,7 +179,6 @@ Less than two kilometres to go, the Ryson/Canyon cheering section has the music 
 Crossing the railroad tracks, it is just a few hundred metres to go.  A head of me is a group of three, all wearing the same kit.  I look back to see a lone athlete, maybe 80m back.  If these distances hold, I'll have a finish line picture with just myself in frame.
 
 The race owner, Felix greets me with a huge congratulations as I enter the stadium.
-
 
 The finish line announcer calls out my name and there is time between me and the other finishers for him to share with the crowd that I had just married my sweetheart and that we were in Roth enjoying our honeymoon.
 
