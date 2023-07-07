@@ -149,7 +149,7 @@ During the bike leg, the bib numbers are worn facing toward the back; for the ru
 
 "Yes, a little.  You are _The Canadian_..."
 
-I explain my run/walk strategy; we chat briefly each time we pass each other.  Eventually, Ralf stops catching me on my walk reps.  I press on.  I thought I'd dropped this guy on the bike and he proved to be resilient then.
+I explain my run/walk strategy; we chat briefly each time we pass each other.  Eventually, Ralf stops catching me on my walk reps.  I thought I'd dropped this guy on the bike and he proved to be resilient then; I press on.
 
 15 kilometres into the run and this path along the canal continues further than I can see.  Things are quiet.  Less people talking.  The sun is intense.
 
@@ -168,7 +168,7 @@ Through the forest and down the hill.  I am somewhere past the 28 km sign; Carin
 My watch has been beeping every fourth and then one minute.  Saying goodbye to Ernie, then to Carina, I am back to my 4 minute interval workout.  Heading through Roth's old town is a blast.  Lots of turns on old cobblestone streets.  The crowds are still cheering and it is very uplifting.
 
 Ernie cautioned me about _"the hill"_. Maybe a 5% grade but it goes forever.  I am chipping away at it, still 4 minutes at a time.
-
+<!---->
 Out of the corner of my eye, I catch an American flag on the bib of another participant grinding her way up the hill.  I say, "hello."
 
 Whitney is here with her husband and her mom.  This is her 8th full distance triathlon, it is her mother's 30th!  Whitney has been to Victoria for our local 70.3 and the conversation starts from there.
