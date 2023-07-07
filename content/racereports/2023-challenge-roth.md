@@ -51,7 +51,7 @@ I stop on the bridge and take in the scene.  Roth is no longer a video on YouTub
 
 I make a beeline for my bike. Bottles placed, bike computer on and the pressure in my tires topped up.
 
-Now I have almost two hours to wait; my start time is 0750.
+Almost two hours to wait; my start time is 0750.
 
 ![Start of the professional race.](/assets/jpg/IMG_1941-770x550.jpeg THE SWIM &mdash; MAIN DANAU KANAL)
 
@@ -63,9 +63,13 @@ The waiting is over as Group 15 is called.  We form a line and it is a slow proc
 
 The announced water temperature is a near perfect 21°C. A short swim to the start line and BOOM!  The cannon fires and I am swimming with 250 new friends.
 
-Starting this late, the glare from the sun on the eastern leg to the first bridge is blinding.  Buoys on the water are hard to spot in the sun but the first turn is under a bridge; that is pretty easy to see.  I follow the mass of arms and heads.  There is more contact than I've experienced before. I am ok with it.
+Starting this late, the glare from the sun on the eastern leg to the first bridge is blinding.  Buoys on the water are hard to spot in the sun but the first turn is under a bridge; that is pretty easy to see.
 <!---->
-I never found a definitive an answer regarding the best way to swim this canal.  Some say that close to shore is faster but I've heard that there isn't much of a difference.  For the long leg west, I swim the buoy line.  It appears many more are swimming the shore; I am pretty sure my overall energy expenditure would be higher getting caught up in that mess.
+I follow the mass of arms and heads.  There is more contact than I've experienced before. I am ok with it.
+
+I never found the definitive answer regarding the best way to swim this canal.  Some say that close to shore is faster.  Conversely, I've heard that there isn't much of a difference.  For the long leg west, I swim the buoy line.  It appears many more are swimming the shore; I am pretty sure my overall energy expenditure would be higher getting caught up in that mess.
+
+
 
 My effort through this entire swim has been easy, really easy.  I recall getting out of the water last year at IRONMAN Canada, I felt like I could swim another lap.  Right now, I am super excited to get on my bike.
 
@@ -76,25 +80,27 @@ Transition is smooth and I am riding my bike over the bridge.  I have bike legs 
 
 The speed is higher than I envisioned in the beginning.  On my bike computer, I have one predominant metric displayed.  My heart-rate is in the low 130s, I could get it lower.
 
-My head is up as I approach a crowd navigating the first hill just past ____.  I am passed by a guy, tricked out with a black bike, black trisuit and black helmet with a really long tail and a blacked out visor.  He is standing up, going for broke with maybe 160 kilometres to go.
+My head is up as I approach a crowd of cyclists navigating the first solid hill past _Heideck_.  I am passed by a guy, tricked out with a black bike, black trisuit and black helmet with a really long tail and a blacked out visor.  He is standing up, going for broke with maybe 160 kilometres to go.
 
-"The Batman" gets himself tangled with a slower rider and I hear a crunching sound.  He swearing in German and he swerves, swerves some more before hitting the deck with an even louder crunch of more broken carbon.  Yelling ensues, fists are clenched.
+"The Batman" pedals himself into a slower rider and I hear a crunching sound.  He swearing in German and he swerves, swerves some more before hitting the deck with an even louder crunch of more broken carbon.  Yelling ensues, fists are clenched.
 
 I don't know who was right and who was wrong but course marshal on a motorcycle behind me also witnesses the spectacle.  I leave it to officials to break up the donnybrook.
 <!---->
-Now conscious of riders coming up behind me with speed, I hear another disc wheel approaching.  Blue kit, blue bike, it is Patrick Lange with Ben Kanute in tow.  My turn to yell, "Go get him Ben!"
+Now conscious of riders coming up behind me with speed, I hear another disc wheel approaching.  Blue kit, blue bike, it is Patrick Lange with Ben Kanute in tow.
+
+My turn to yell, _"Go get him Ben!"_
 
 The bike course is net downhill for the 10 kilometre stretch to the village of _Greding_, home of the "big hill".  On my left, Daniela Ryf goes screaming past me.  She is rock solid and fast!  I note the time, 1 hour, 11 minutes into my ride.  There should be more of the female race coming through soon.
 
 Heading up _Greding_, I pick off fellow age groupers that beat me to the base of the hill.  I am almost feeling guilty of how effortless the climb is.
 
-I am quickly put in my place; another rider flys by on my left much faster than I am expecting.  I catch the number plate we all have zip tied to the sea tubes of our bikes; it is number 24.
+I am quickly put in my place; another rider flys by on my left much faster than I am expecting.  I see a flash of pink on the trisuit and catch the number plate all athletes have zip tied to the sea tubes of our bikes; it is number 24.
 
-"Ernie!"
+_"Hey Ernie!"_
 <!---->
 Professional triathlete, Ernest Mantel looks back and flashes me a big smile.  If my mood was good going up this hill, my energy was over the top now.  Ernie and I have a connection as we both share the same coach, Elliot Bassett (<a href="" target="_blank">Mountain Endurance</a>).  Ernie gives me a fist pump of encouragement before flying over the horizon.  I continue on.
 
-What goes up, must come down.  A set of switchbacks provide a brief moment of fun.  I am passing other age-groupers; a quick glance behind before entering the next corner and I am amazed how much distance I am putting into those I am sharing this hill with.  I slow down where an ambulance is attending to someone who wasn't comfortable on the descent.
+What goes up, must come down.  A set of switchbacks provide a brief moment of fun.  I am passing other age-groupers; a quick glance behind before entering the next corner and I am amazed how much distance I am putting into those I am sharing this hill with.  An ambulance attends to someone who wasn't comfortable on the descent.
 
 Through the village of _Offenbau_ I got some perspective into the eventual result of the female race.  Lisa Norden rolls passed me; more than 30 minutes after Daniela Ryf.  I don't think I'll need to ask who will be crowned winner on the day.
 
