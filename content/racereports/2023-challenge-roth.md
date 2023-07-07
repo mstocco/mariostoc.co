@@ -10,10 +10,10 @@ I hope you enjoy the read.
 
 <h3 style="margin:28px 0 4px 0;">SECTIONS</h3>
 <ul class="alt">
- <li><a href="javascript:flkty.select(2);">RACE MORNING</a></li>
- <li><a href="javascript:flkty.select(4);">THE SWIM - MAIN DANAU KANAL</a></li>
- <li><a href="javascript:flkty.select(9);">THE BIKE - TWO LOOPS</a></li>
- <li><a href="javascript:flkty.select(16);">THE RUN - THE TEST</a></li>
+ <li><a href="javascript:flkty.select(3);">RACE MORNING</a></li>
+ <li><a href="javascript:flkty.select(5);">THE SWIM - MAIN DANAU KANAL</a></li>
+ <li><a href="javascript:flkty.select(8);">THE BIKE - TWO LOOPS OF LANDKREIS ROTH</a></li>
+ <li><a href="javascript:flkty.select(15);">THE RUN - THE TEST</a></li>
  <li><a href="javascript:flkty.select(17);">FINAL THOUGHTS</a></li>
 </ul>
 <h3 style="margin-top:14px;">CHALLENGE ROTH YOUTUBE VIDEO</h3>
@@ -74,7 +74,7 @@ I never found the definitive answer regarding the best way to swim this canal.  
 My effort through this entire swim has been easy, really easy.  I recall getting out of the water last year at IRONMAN Canada, I felt like I could swim another lap.  Right now, I am super excited to get on my bike.
 
 
-![](/assets/jpg/IMG_1945-770x550.jpeg THE BIKE &mdash; TWO LOOPS)
+![The two loops of the District of Roth](/assets/jpg/IMG_1945-770x550.jpeg THE BIKE &mdash; TWO LOOPS OF LANDKREIS ROTH)
 
 Transition is smooth and I am riding my bike over the bridge.  I have bike legs right from the first pedal stroke. 
 
@@ -94,13 +94,13 @@ The bike course is net downhill for the 10 kilometre stretch to the village of _
 
 Heading up _Greding_, I pick off fellow age groupers that beat me to the base of the hill.  I am almost feeling guilty of how effortless the climb is.
 
-I am quickly put in my place; another rider flys by on my left much faster than I am expecting.  I see a flash of pink on the trisuit and catch the number plate all athletes have zip tied to the sea tubes of our bikes; it is number 24.
+I am quickly put in my place; another rider flys by on my left much faster than I am expecting.  I see a flash of pink on the tri-suit and catch the number plate all athletes have zip tied to the sea tubes of our bikes; it is number 24.
 
-_"Hey Ernie!"_
+_"Way to go Ernie!"_
 <!---->
 Professional triathlete, Ernest Mantel looks back and flashes me a big smile.  If my mood was good going up this hill, my energy was over the top now.  Ernie and I have a connection as we both share the same coach, Elliot Bassett (<a href="" target="_blank">Mountain Endurance</a>).  Ernie gives me a fist pump of encouragement before flying over the horizon.  I continue on.
 
-What goes up, must come down.  A set of switchbacks provide a brief moment of fun.  I am passing other age-groupers; a quick glance behind before entering the next corner and I am amazed how much distance I am putting into those I am sharing this hill with.  An ambulance attends to someone who wasn't comfortable on the descent.
+What goes up, must come down.  A set of switchbacks provide a brief moment of fun.  I am passing other age-groupers; a quick glance behind before entering the next corner and I am amazed how much distance I am putting into those I am sharing this hill with.
 
 Through the village of _Offenbau_ I got some perspective into the eventual result of the female race.  Lisa Norden rolls passed me; more than 30 minutes after Daniela Ryf.  I don't think I'll need to ask who will be crowned winner on the day.
 
@@ -116,15 +116,18 @@ From _Morlach_ back into _Hilpostein_, the road is fast and there is a bit of a 
 
 Second loop and there is a difference this go around.  Those that just made the left turn in _Eckersmühlen_ are looking at another 85 kilometres and the group energy changes.  I see more people taking breaks on the side of the road.  Faces have less smiles, postures on the bike look more slumped.
 
-The pockets of crowds dotting the countryside road remain enthusiastic.  The volunteers at the aid stations are still happy and enjoying the day.
-<!---->
 The easterly headwind down to _Greding_ has a little more oomph and it is getting warm.
+<!---->
 
-I am right on track with the calories in my water bottles but thirst is no longer a gauge I can rely on; I am now drinking water whether I feel the need or not.
+The pockets of crowds dotting the countryside road remain enthusiastic.  The volunteers at the aid stations are still happy and enjoying the day.
 
-I recognize a couple of faces still cheering at _Solarer&#8239;Berg_; most of the crowd has left for _Roth_ to watch the professional field at the finish line.  I am up and over this hill quicker this time around.
+So far, I am right on track with the calories thirst however, is no longer a gauge I think I can rely on. I am drinking water whether I feel the need or not.
 
-I have a back and forth with a German participant named Ralf.  He passes me, I pass him back.  This continues for about 10 minutes on the section returning to the swim start.  I think I've dropped him for good on the descent near the locks.
+The aid stations on the bike course are frequent and I am never out of water thankfully.
+
+I recognize a couple of faces still cheering at _Solarer&#8239;Berg_; most of the crowd has left for _Roth_ to watch the professional field at the finish line.  With more room, I am up and over this hill quicker this time around.
+
+I notice a German participant named Ralf.  He passes me near _Morlach_, I pass him back on the section into _Hilpostein_.  Our back and forth continues the section returning to the swim start.  I think I've dropped him for good on the descent near the locks.
 
 800m remaining in the bike leg, Ralf reels me in and races into transition ahead of me.
 
@@ -136,13 +139,13 @@ My race starts now but it doesn't seem that way to the spectators lining the str
 
 The plan was always walk out of T2.  5 minutes and I am still walking.  Could I start here, sure but there is a downhill that probably would do more harm than good to jog down right now.  I hit the lap button at 10 minutes.
 
-The plan that Elliot and I discussed earlier this week was 4 minutes on, 1 minute walking.  I program this interval for 60 reps into my watch.  Pressing the lap button once starts the workout and from there, I go on auto-pilot.
+The plan that Elliot and I discussed a few days ago was 4 minutes on, 1 minute walking.  I program this interval for 60 reps into my watch.  Pressing the lap button once starts the workout and from there, I go on auto-pilot.
 
 Beep, beep, beep, beep, beeeeep...
 <!---->
-Through 8 kilometres, I am feeling fresh.  Up ahead is a yellow trisuit, I am reeling it in.
+Through 8 kilometres, I am feeling fresh.  Up ahead seems to be a familiar yellow trisuit, I am closing in on it.
 
-On the bike, the bib numbers are worn facing the back; for the run, they are facing forward.  I run along side the yellow tri-suit and blurt out, "Hello Ralf, do you speak english?"
+During the bike leg, the bib numbers are worn facing toward the back; for the run, they are facing forward.  I run along side the yellow tri-suit and blurt out, "Hello Ralf, do you speak english?"
 
 "Yes, a little.  You are _The Canadian_..."
 
