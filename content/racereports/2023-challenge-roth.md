@@ -151,13 +151,13 @@ During the bike leg, the bib numbers are worn facing toward the back; for the ru
 
 I explain my run/walk strategy; we chat briefly each time we pass each other.  Eventually, Ralf stops catching me on my walk reps.  I press on.  I thought I'd dropped this guy on the bike and he proved to be resilient then.
 
-15 kilometres into the run and this path along the canal continues further than I can see.  Things are quiet.  Less people talking.  The day is setting in.
+15 kilometres into the run and this path along the canal continues further than I can see.  Things are quiet.  Less people talking.  The sun is intense.
 
 I am drinking water through the aid stations.  The little extra in the cup I pour over my head.
 
 At this aid station, there isn't a volunteer with a gel in hand.  Not to worry as the PowerBar Gels are consistently found on the middle table.
-<!--->
-One for the road. Green Apple flavour.  This is my first time using PowerBar Gels.  They are sitting well and I am liking the flavours.  Some are caffeinated and I make sure to mix in the non-caffeinated packets.
+<!---->
+I grab one for the road. Green Apple flavour.  This is my first time using PowerBar Gels.  They are sitting well and I am liking the flavours.  Some are caffeinated and I make sure to mix in the non-caffeinated packets.
 
 My feet are getting tired and I am not feeling fresh but the trek to the north end of the canal seemed longer than this return trip south.  I will take the positives where I can get them.
 
