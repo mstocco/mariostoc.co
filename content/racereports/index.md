@@ -8,21 +8,67 @@ fortitude and really, just to have some fun.
 Below is a list of past events that I have entered.
 
 ## TRIATHLON
-[2022 IRONMAN Canada - Penticton](javascript:flkty.select(2);)  
-[2021 IRONMAN Italy - Emilia Romagna](javascript:flkty.select(3);)
+[2023 Victoria Sprint](2023-victoria-sprint) 🏆 <small>(1<sup>st</sup> M50-59)</small>   
+
+[2023 DATEV Challenge Roth](javascript:flkty.select(2);)  
+[2022 IRONMAN Canada - Penticton](javascript:flkty.select(3);)  
+[2021 IRONMAN Italy - Emilia Romagna](javascript:flkty.select(4);)
 
 ---
-[2023 IRONMAN 70.3 - Victoria](javascript:flkty.select(5);)  
-[2022 Victoria Half](javascript:flkty.select(6);)  
-[2022 IRONMAN 70.3 - Victoria](javascript:flkty.select(6);)  
-[2021 Victoria Half](javascript:flkty.select(7);)
+[2023 IRONMAN 70.3 - Victoria](javascript:flkty.select(6);)  
+[2022 Victoria Half](javascript:flkty.select(7);)  
+[2022 IRONMAN 70.3 - Victoria](javascript:flkty.select(7);)  
+[2021 Victoria Half (virtual)](javascript:flkty.select(8);)
 
 ## RUNNING
-[2019 Victoria Marathon](javascript:flkty.select(9);)  
-[2019 Calgary Marathon](javascript:flkty.select(9);)  
-[2018 Vancouver Marathon](javascript:flkty.select(10);)  
-[2017 Victoria Marathon](javascript:flkty.select(10);)
+[2019 Victoria Marathon](javascript:flkty.select(10);)  
+[2019 Calgary Marathon](javascript:flkty.select(10);)  
+[2018 Vancouver Marathon](javascript:flkty.select(11);)  
+[2017 Victoria Marathon](javascript:flkty.select(11);)
 
+<!---->
+<img src="/assets/svg/challenge-roth-logo.svg" height="75px" width="170px" />
+
+---
+
+## 2023 DATEV CHALLENGE ROTH
+<p class="timestamp"> Sunday, June 25, 2023</p>
+
+### SUMMARY
+I was literally walking into the unknown.
+
+Weeks of swimming without kicking, pushing off the wall with 
+one foot.  Riding the indoor trainer because I couldn't unclip 
+in a hurry if I was outside.  And walking, lot's of walking.
+
+Roth was special.
+
+<p class="continue"><a href="2023-challenge-roth">full race report &rarr;</a></p>
+<table style="position:absolute;bottom:0;">
+ <thead>
+  <tr>
+   <th style="width:25%;"></th>
+   <th style="width:25%;text-align:right;">Time</th>
+   <th style="width:25%;text-align:right;">M50-54</th>
+   <th style="width:25%;text-align:right;">Overall</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr><td>Swim</td><td style="text-align:right;">1:12:21</td><td style="text-align:right;"> -</td><td style="text-align:right;">1293</td></tr>
+  <tr><td>Bike</td><td style="text-align:right;">6:07:59</td><td style="text-align:right;"> -</td><td style="text-align:right;">2303</td></tr>
+  <tr><td>Run </td><td style="text-align:right;">5:10:01</td><td style="text-align:right;"> -</td><td style="text-align:right;">2280</td></tr>
+  <tr><td>T1  </td><td style="text-align:right;">   8:55</td><td colspan="2"></td></tr>
+  <tr><td>T2  </td><td style="text-align:right;">  13:05</td><td colspan="2"></td></tr>
+ </tbody>
+ <tfoot>
+  <tr>
+   <td>Overall</td>
+   <td style="font-weight:bold;text-align:right;"> 12:52:19</td>
+   <td style="font-weight:bold;text-align:right;">  345/449</td>
+   <td style="font-weight:bold;text-align:right;">2290/3271</td>
+  </tr>
+ </tfoot>
+</table>
 <!---->
 <img src="/assets/svg/ironman-canada-logo.svg" height="75px" width="170px" />
 
@@ -215,7 +261,7 @@ Broke my little toe before leaving the house.
  </tfoot>
 </table>
 <!---->
-## 2021 Victoria Half 
+## 2021 Victoria Half (virtual) 
 <p class="timestamp">Sunday, July 18, 2021</p>
 
 Like everything else in the world, COVID cancelled this race 
