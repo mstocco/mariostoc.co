@@ -53,7 +53,7 @@ _Franconia_.
 
 Our destination is a parking area in _Heuberg_. The A9 
 Autobahn is free and clear on the drive from _Nürnberg_. 
-The country road 2225 however, traffic is moving slowly; 
+On country road 2225 however, traffic is moving slowly; 
 a glance at the clock on the car's dash, there is time.
 
 Walking to the swim start there are generally those 
