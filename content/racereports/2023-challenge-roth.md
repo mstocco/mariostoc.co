@@ -46,7 +46,7 @@ derail everything just 13 weeks before the race.
 In addition to the preparation for Challenge Roth was 
 planning, then marrying my sweetheart on May 21st!
 
-![](/assets/jpg/challenge-roth-morning-977x550.jpeg?v3)
+![](/assets/jpg/challenge-roth-morning-977x550.jpeg?v45)
 
 It could not have been a nicer summer morning here in 
 _Franconia_.
@@ -73,7 +73,7 @@ and the pressure in my tires topped up.
 
 Almost _two hours_ to wait; my start time is 0750.
 
-![](/assets/jpg/challenge-roth-swim-977x550.jpeg?v3)
+![](/assets/jpg/challenge-roth-swim-977x550.jpeg?v45)
 
 Early this spring, I logged into the _Challenge Roth_ website 
 and changed my estimated overall finish time to a faster time.
@@ -124,7 +124,7 @@ felt like I could swim another lap.
 
 I feel that way now.
 
-![](/assets/jpg/challenge-roth-bike-977x550.jpeg?v3)
+![](/assets/jpg/challenge-roth-bike-977x550.jpeg?v45)
 
 Transition is smooth and I am riding my bike over the bridge. 
 I have _"bike legs"_ right from the first pedal stroke. 
@@ -202,14 +202,15 @@ cheered for the American athletes.
 ![](/assets/jpg/challenge-roth-solarerberg-977x550.jpeg)
 
 At the end of a chute is a wall of humans; to my left, a DJ 
-adds to the party.  Just as I enter crowd, the intro of Van 
-Halen's  _"Jump"_ begins, as if on cue, as if the DJ picked 
-that song just for me.  When this song was released, I played 
-my copy of that album until the vinyl wore out. 1984. 
+adds to the party. As I enter crowd, as if on cue, as if 
+the DJ picked a song just for me, the intro of Van Halen's 
+_"Jump"_ begins. 
 
-I rode a BMX like my hair was on fire back in those pre-teen years.
+It was 1984 when this song was released, I played my copy of 
+that album until the vinyl wore out. In those pre-teen years, I 
+rode my BMX like my hair was on fire. 
 
-In an instant, I was _that kid_ again.
+In an instant, I am _that kid_ again.
 
 From _Morlach_ back into _Hilpostein_, the road is fast and 
 there is a bit of a tailwind. _Carina_ is waiting on the 
@@ -252,7 +253,7 @@ transition ahead of me.
 
 <p class="continue"><sup>(End of the 2nd Period: &nbsp; Deutschland 1, Canada 0)</sup></p>
 
-![](/assets/jpg/challenge-roth-run-977x550.jpeg?v3)
+![](/assets/jpg/challenge-roth-run-977x550.jpeg?v45)
 
 A volunteer takes my bike; another volunteer hands me my run 
 bag.  The professionals make the change into their running 
@@ -429,7 +430,7 @@ countryside really does feel like home.
 As a first-time participant, the logistics of this race were 
 admittingly a challenge. However, after experiencing _Roth_ 
 and how everything comes together on race day, those logistics 
-are not as big as they seem.  I do it again in a heartbeat.
+are not as big as they seem.  I'd do it again in a heartbeat.
 
 And having a shower at the end of a race?  
 _SO AWESOME!_
@@ -454,9 +455,10 @@ truly felt at home while staying in your place.
 
 ---
 
-Martin Kern, taking the time to show me the nuances of riding 
-on the road in Germany was immeasurable. I really enjoyed our 
-ride out to _Heroldsberg_!
+Martin Kern, I enjoyed our ride to _Heroldsberg_. Taking 
+the time to show me the nuances of riding in Germany was 
+immeasurable to my experience.
+
 
 ---
 
