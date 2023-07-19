@@ -71,7 +71,7 @@ a video on YouTube; I am here.
 I make a beeline for my bike. Bottles placed, bike computer on 
 and the pressure in my tires topped up.
 
-Now almost _two hours_ to wait; my start is at 07:50.
+Now almost _two hours_ to wait; I start at 07:50.
 
 ![](/assets/jpg/challenge-roth-swim-977x550.jpeg?v45)
 
