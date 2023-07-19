@@ -323,8 +323,8 @@ middle table. I grab one for the road, _Green Apple_ flavour.
 Finally heading southbound on the canal, my feet are getting 
 tired and the 4 minute reps are feeling a bit longer.  
 
-A relay runner passes me.  He says something in German and 
-from his body language, it certainly felt like positive words 
+A relay runner passes me.  He says something in German; 
+from his body language, I understand it as positive words 
 of encouragement.
 
 A bit past the 28&#8239;km sign, _Carina_ has found me on the 
@@ -360,8 +360,8 @@ local 70.3 and the conversation starts from there.
 
 <!---->
 At IRONMAN Italy, I had Davide to share the pain of the 
-remaining kilometres with.  At IRONMAN Canada, I had the Kevin 
-right on my tail pushing me to the finish.  This year, it is a 
+remaining kilometres with.  At IRONMAN Canada, I had Kevin 
+right on my tail, pushing me to the finish.  This year, it is a 
 great conversation about triathlon with _Whitney_ that has me 
 forgetting the dull ache in my quadriceps.
 
