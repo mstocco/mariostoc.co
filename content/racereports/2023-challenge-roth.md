@@ -455,9 +455,9 @@ truly felt at home while staying in your place.
 
 ---
 
-Martin Kern, I enjoyed our ride to _Heroldsberg_. Taking 
-the time to show me the nuances of riding in Germany was 
-immeasurable to my experience.
+Martin Kern, I enjoyed our ride out to _Heroldsberg_. Taking 
+the time to show me the nuances of riding around _Nürnberg_ 
+was immeasurable to my experience in Germany.
 
 
 ---
