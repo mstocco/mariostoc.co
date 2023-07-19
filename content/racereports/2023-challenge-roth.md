@@ -61,7 +61,7 @@ comfortably strolling to find a spot to spectate and those
 more anxiously moving to get to thier racked bike.  I am 
 definitely in the later group.
 
-In the distance, music is pumping from the sound system at the 
+In the distance, music is playing from the sound system at the 
 swim start.  It beckons triathletes to the south shore of the 
 canal.
 
