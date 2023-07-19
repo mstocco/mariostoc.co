@@ -54,9 +54,9 @@ was really never going to make my short list of components.
 Here is was my rational for this purchase...
 
 <p class="continue-line"><a href="new-tt-bike-ultegra">continue reading &rarr;</a></p>
-
+<!--
 ## New Bike - Putting it all together
 <p class="timestamp">Tue Mar 7 2023</p>
 <p style="font-size:0.85em;text-align:right;padding-bottom:12px;">
 <a href="">continue reading &rarr;</a></p>
-
+-->
