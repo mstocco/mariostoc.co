@@ -51,10 +51,10 @@ planning, then marrying my sweetheart on May 21st!
 It could not have been a nicer summer morning here in 
 _Franconia_.
 
-Our destination is a parking area in _Heuberg_. Driving from 
-_Nürnberg_, the A9 Autobahn is free and clear.  On the country 
-road 2225 however, traffic is moving slowly; a glance at the 
-clock on the car's dash, there is time.
+Our destination is a parking area in _Heuberg_. The A9 
+Autobahn is free and clear on the drive from _Nürnberg_. 
+The country road 2225 however, traffic is moving slowly; 
+a glance at the clock on the car's dash, there is time.
 
 Walking to the swim start there are generally those 
 comfortably strolling to find a spot to spectate and those 
@@ -71,7 +71,7 @@ a video on YouTube; I am here.
 I make a beeline for my bike. Bottles placed, bike computer on 
 and the pressure in my tires topped up.
 
-Almost _two hours_ to wait; my start time is 0750.
+Now almost _two hours_ to wait; my start is at 0750.
 
 ![](/assets/jpg/challenge-roth-swim-977x550.jpeg?v45)
 
@@ -83,15 +83,15 @@ that swim roughly the same pace as me.
 I also thought that would put me into the water sooner and get 
 a buffer of time for the run. It doesn't work that way here; 
 faster swimmers start later and my group is third from last to 
-go.  
+go.
 
-I watch the professional men head out on the bike to pass the 
-time.
+I watch the professional men exit the water and head out on the 
+bike to pass the time.
 
 Finally my wait is over, _Group 15_ is called.  We form a line 
 and it is a slow procession to the edge of the water. The 
 announced water temperature is 21°C. There is some turbidity 
-but the water is cleaner that I expercted.
+but the water is cleaner that I expected.
 
 A short swim to the start line and _BOOM!_  A cannon fires and 
 I am swimming with 250 new friends.
