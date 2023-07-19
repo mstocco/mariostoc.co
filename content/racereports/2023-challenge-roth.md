@@ -459,7 +459,6 @@ Martin Kern, I enjoyed our ride out to _Heroldsberg_. Taking
 the time to show me the nuances of riding around _Nürnberg_ 
 was immeasurable to my experience in Germany.
 
-
 ---
 
 Carina, the loving person in my life that makes me smile 
