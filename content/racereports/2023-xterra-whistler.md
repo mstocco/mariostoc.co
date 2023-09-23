@@ -23,7 +23,7 @@ start from the beach for the rest of the ~100 age-group
 participants.  I find a spot on the water's edge, swimmer's 
 left.
 
-![](/assets/svg/image-977x550.svg)
+![](/assets/jpg/IMG_6025-977x550.jpeg)
 The horn sounds.  A female athlete goes by my left shoulder 
 like she is shot out of a cannon.  I walk briskly into the 
 water until I am waist deep. Time to dive in.
@@ -73,7 +73,7 @@ _Centennial Trail_ is a fire road with a steep pitch and loose
 rocks.  There is a line that I see and I power to the top of 
 the hill, I am now ahead of my pacer.
 
-![](/assets/svg/image-977x550.svg)
+![](/assets/jpg/IMG_6018-977x550.jpeg)
 A dip into the forest for more single track on a trail called 
 _Ms. Pinky_ leads to a trail called _Toads of the Short 
 Forest_. I pick my lines without the help of someone to follow.
@@ -149,9 +149,10 @@ race.
 The final two kilometres simply flowed. This Xterra thing is 
 pretty fun!
 
-<!---->
+![](/assets/jpg/IMG_6022-977x550.jpeg)
+
 ### FINAL NUMBERS
-<table><!-- style="position:absolute;bottom:0;">-->
+<table style="margin-bottom:12px;">
  <thead>
   <tr>
    <th style="width:25%;"></th>
@@ -177,5 +178,5 @@ pretty fun!
 </table>
 
 ### TRANSITION SETUP
-![](/assets/jpg/image.jpeg)
+![](/assets/jpg/xterra-transition.jpeg)
 
