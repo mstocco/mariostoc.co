@@ -8,6 +8,7 @@ fortitude and really, just to have some fun.
 Below is a list of past events that I have entered.
 
 ## TRIATHLON
+[2023 Xterra Whistler](2023-xterra-whistler)   
 [2023 Victoria Sprint](2023-victoria-sprint) 🏆 <small>(1<sup>st</sup> M50-59)</small>   
 
 [2023 DATEV Challenge Roth](javascript:flkty.select(2);)  
