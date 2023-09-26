@@ -1,0 +1,116 @@
+#!/usr/bin/python3
+
+## Take the markdown that I write and shorten the text lines 
+## to 62 charactors.  It just makes it easier (for me) to 
+## read/glace through when editing from the command line.
+import os
+import sys
+
+class Textfile:
+	def __init__(self, filepath):
+		self.filepath = filepath
+		self.justified = []
+		debug = False
+		codeblock = False
+		cmd = 'cat %s' % self.filepath
+		for line in os.popen(cmd, 'r').readlines():
+			line = line.strip('\r\n')
+			if len(line) < 62:
+				self.justified.append(line)
+			else:
+				allowed = False
+				stripped = line.strip()
+				for allow in ['![', '<', '[','Week beginning']:
+					## Images, html and links allowed to run long
+					if stripped.find(allow) == 0:
+						self.justified.append(line)
+						allowed = True
+						break
+				if allowed: continue
+				
+				## Leave code blocks untouched
+				if stripped.find('```') == 0:
+					self.justified.append(line)
+					if codeblock:
+						codeblock = False
+					else:
+						codeblock = True
+				elif codeblock:
+					self.justified.append(line)
+					continue
+
+				## Shorten long lines here
+				if debug:
+					print('.'.rjust(62))
+					print(line)
+				while len(line) > 62:
+					if line[62] == ' ':
+						newline = line[:63]
+						if (len(line) > 63) and line[63] == ' ':
+							if len(line[63:].strip()) == 0:
+								## Caught line-break .
+								newline = line[:64]
+								if debug: print('++', newline, '++')
+							elif debug:
+								print('--', newline, '--')
+						self.justified.append(newline)
+						line = line[len(newline):]
+					else:
+						for index in range(62, 0, -1):
+							if line[index] == ' ':
+								newline = line[:(index + 1)]
+								if len(line) > 1 and line[(index - 1)] == ' ':
+									## Caught double space midsentence.
+									newline = line[:index]
+									if debug: print('-+', newline, '+--')
+								elif debug:
+									print('->', newline, '<--')
+								line = line[len(newline):].lstrip()
+								self.justified.append(newline)
+								break
+					if len(line) < 63:
+						if debug: print('>>', line, '<<')
+						self.justified.append(line)
+						break
+
+	def rollback(self):
+		cmd = 'mv %s %s' % (self.filepath.replace('.md', '.orig'), self.filepath)
+		os.system(cmd)
+		print(cmd)
+		return
+
+	def write(self):
+		cmd = 'cp %s %s' % (self.filepath, self.filepath.replace('.md', '.orig'))
+		os.system(cmd)
+		print(cmd)
+		fileobj = open(self.filepath, 'w')
+		fileobj.write('\n'.join(self.justified))
+		fileobj.close()
+		print(os.popen('cat %s' % self.filepath, 'r').read())
+		return
+
+	def print(self):
+		return
+		for line in self.justified:
+			print(line)
+		return
+
+def main():
+	
+	if len(sys.argv) == 2 and os.path.isfile(sys.argv[1]):
+		justified = Textfile(sys.argv[1])
+		justified.print()
+		return
+	if len(sys.argv) == 3:
+		if os.path.isfile(sys.argv[2]):
+			justified = Textfile(sys.argv[2])
+			if sys.argv[1].find('-w') == 0 or sys.argv[1].find('--write ') == 0:
+				justified.write()
+			if sys.argv[1].find('-r') == 0 or sys.argv[1].find('--rollback ') == 0:
+				justified.rollback()
+			return
+	print(sys.argv)
+	return
+
+main()
+
