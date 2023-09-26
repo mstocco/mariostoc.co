@@ -1,7 +1,7 @@
 import os
 import json
 from datetime import datetime
-from document import Document
+from document import Document, RedirectDocument
 from innerHTML import *
 from flickity import *
 
@@ -56,6 +56,7 @@ class StaticSiteGenerator:
 				if filename.find('.icloud') > 0: continue
 				if filename.split('.')[-1] == 'md': filenames.append(filename)
 			filenames.sort()
+			if directory == '/traininglog' : trainingfiles = filenames
 
 			if len(directory) > 0:
 				print('->', directory)
@@ -92,7 +93,8 @@ class StaticSiteGenerator:
 		
 		if modified:
 			if traininglog:
-				self.saveActiveDays()
+				self.saveActiveDays(trainingfiles)
+				self.saveRedirects(trainingfiles)
 			self.saveSiteMap()
 			self.saveHumansTxt()
 		return
@@ -156,18 +158,14 @@ class StaticSiteGenerator:
 		fileobj.close()
 		return
 
-	def saveActiveDays(self):
-		traininglog = '%s/traininglog' % self.content
-		filenames = os.listdir(traininglog)
-		filenames.sort()
-
+	def saveActiveDays(self, filenames):
 		active = {'activedays':[]}
 		for filename in filenames:
 			yyyy = int(filename[:4])
 			if yyyy < 2023 and filename.find('challenge') == -1: continue
 
 			weekday = False
-			for line in os.popen('cat %s/%s' % (traininglog, filename), 'r').readlines():
+			for line in os.popen('cat %s/traininglog/%s' % (self.content, filename), 'r').readlines():
 				line = line.strip()
 				for day in ['SUN','MON','TUE','WED','THU','FRI','SAT']:
 					if line.find('## %s' % day) == 0:
@@ -189,3 +187,18 @@ class StaticSiteGenerator:
 		fileobj.close()
 		return
 
+	def saveRedirects(self, filenames):
+		today = int(self.now.strftime('%Y%m%d'))
+		for index in range(len(filenames)):
+			if int(filenames[index][:8]) > today: break
+	
+		for name, delta in (('latest',0), ('prevoius',1)):
+			document = RedirectDocument('/traininglog', name)
+			document.title = '%s Training Week' % name.capitalize()
+			document.url = filenames[(index - delta)][9:].split('.md')[0]
+			if delta == 0:
+				if ((index + 1) <  len(filenames)):
+					document.url += '?%s' % self.now.strftime('%a').lower()
+			document.save(self.public)
+			print(' >>> %s  %s' % (document.documentURI, document.url))
+		return

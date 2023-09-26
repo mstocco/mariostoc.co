@@ -43,11 +43,6 @@ class Document:
 
 
 class RedirectDocument(Document):
-	def template(self):
-		self.documentURI = '/'
-		self.title = 'Mario Stocco'
-		self.url = 'https://mariostoc.co/'
-
 	def tohtml(self):
 		anchor = A({"href":self.url})
 		anchor.innerHTML = " %s" % self.url
