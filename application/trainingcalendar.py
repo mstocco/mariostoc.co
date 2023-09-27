@@ -1,41 +1,24 @@
 #!/usr/bin/python3
 from calendar import Calendar
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta
 from document import Document
 from flickity import *
 from innerHTML import *
 from markdown2 import markdown
-
-#print(style.tohtml())
+import os, json
 
 class HTMLCalendar(DIV):
-
-	def isRaceDate(self, md):
-		if md == date(2024,5,26): return True
-		if md == date(2024,6,30): return True
-		if md == date(2024,7,7):  return True
-		if md == date(2024,8,10): return True
-		if md == date(2024,8,25): return True
-		if md == date(2024,9,22): return True
-		return False
-
-	def getweeknumber(self, md, lastdate):
-		weekdate = lastdate
-		weeknumber = 0
-		weekdelta = timedelta(days=7)
-		while(weekdate > md):
-			weeknumber = (weeknumber + 1)
-			weekdate = (weekdate - weekdelta)
-		if weeknumber == 0: return (0, '-')
-		return (weeknumber, str(weeknumber))
-
-	def build(self, display, thisdate):	
-		cal = Calendar(6)
+	""" The <div></div> that contains a training calender month.
+	"""
+	def build(self, thismonth, thisweek, races):
+		self._class = "month"
+		sunday = 6
+		cal = Calendar(sunday)
 
 		table = TABLE()
-		weekdays = TR()
+		weekdays = TR({"style":"border:0;"})
 		weekdays.append(TD("Week"))
-		for md in cal.itermonthdates(display.year, display.month):
+		for md in cal.itermonthdates(thismonth.year, thismonth.month):
 			weekdays.append('<td class="day">%s</td>' % md.strftime("%a")[:2])
 			if md.weekday() == 5: break
 		table.append(THEAD(weekdays))
@@ -43,38 +26,63 @@ class HTMLCalendar(DIV):
 		tbody = TBODY()
 		tr = TR()
 		currentWeek = False
-		for md in cal.itermonthdates(display.year, display.month):
+		for md in cal.itermonthdates(thismonth.year, thismonth.month):
 			active = False
-			if md.month == display.month:
-				active = True
-			if md.weekday() == 6:
-				n, wn = self.getweeknumber(md, thisdate)
+			if md.month == thismonth.month: active = True
+
+			if md.weekday() == sunday:
+				weeknum = self.getWeekNumber(md, races[0]["racedate"])
 				currentWeek = False
-				if md == thisdate:
-					currentWeek = True
+				if md == thisweek: currentWeek = True
+
 			td = TD({"class":"day","style":""})
 			td.innerHTML = str(md.day)
-			if self.isRaceDate(md): td.style = 'background-color:#cef6c4;font-weight:bold;' #'border-bottom:2px solid red;color:red;font-weight:bold;' #background-color:#30c5ff;text-decoration:underline;'
-			if active and wn != '':
+			if self.isRaceDate(md, races):
+				td.style = 'background-color:#cef6c4;font-weight:bold;'
+			if active and weeknum > 0:
 				td._id = "c%s" % md.strftime("%Y%m%d")
-				td.onclick = "javascript:cellClick(%s,'%s');" % (wn, md.strftime('%a').lower())
+				td.onclick = "javascript:cellClick(%d,'%s');" % (weeknum, md.strftime('%a').lower())
 				if currentWeek:
 					td.onclick = "javascript:flick('%s');" % md.strftime("%a").lower()
+					td.style = "background-color:#fefdba;"
 			else:
-				td.style = "color:#dddddd;"
+				if md != races[0]["racedate"]:
+					td.style = "color:#dddddd;"
 			tr.append(td)
 			if md.weekday() == 5:
-				tr.prepend('<td class="week">%s</td>' % wn)
+				td = TD({"class":"week"})
+				if weeknum > 0:
+					td.innerHTML = str(weeknum)
+					td.onclick = "javascript:cellClick(%d,'');" % weeknum
+				tr.prepend(td)
 				tbody.append(tr)
 				tr = TR()
+	
 		table.append(tbody)
-		tablewrap = DIV({"style":""})
+		tablewrap = DIV()
 		tablewrap.append(table)
-		self.append("<h4>%s</h4>" % display.strftime("%B %Y"))
-		self.append(tablewrap)
+		self.append('<h4>%s</h4>' % thismonth.strftime('%B %Y'))
+		self.append(table)
+		return
+	
+	def isRaceDate(self, md, races):
+		for race in races:
+			if race["racedate"] == md: return True
+		return False
+
+	def getWeekNumber(self, md, weekdate):
+		delta = timedelta(days=7)
+		weeknum = 0
+		while(weekdate > md):
+			weeknum = (weeknum + 1)
+			weekdate = (weekdate - delta)
+		return weeknum
+
 
 class CalendarDocument(Document):
-	def handleMarkdown(self, txt):
+	""" A Flickity web page displays all the months of a training cycle.
+	"""
+	def handleMarkdown(self, txt, races):
 		self.title = "2024 Training Calendar"
 		self.description = "My training calendar from October 2023 through September 2024"
 
@@ -105,7 +113,7 @@ class CalendarDocument(Document):
 		style.append('.cal .month div table {font-size:0.8em;border-collapse:collapse;margin-top:-5px;} ')
 		style.append('.cal .month .day {text-align:right;width:25px;} ')
 		style.append('.cal .month .week {text-align:center;width:35px;}')
-		self.head.append(style)
+		#self.head.append(style)
 
 		firstCell = SECTION({'class':'carousel-cell text','style':'width:300px;'})
 		firstCell.append(self.navigation)
@@ -124,11 +132,11 @@ class CalendarDocument(Document):
 		months.append( ((2023,12),(2024,4),(2024,8)) )
 		months.append( ((2024,1), (2024,5),(2024,9)) )
 		for c in range(len(months)):
-			cell = DIV({"class":"carousel-cell cal", "style":"width:265px;"})
-			cell.append('<div style="height:10px;"></div>')
+			cell = DIV({"class":"carousel-cell cal", "style":"width:265px;padding-left:10px;"})
+			#cell.append('<div style="height:10px;"></div>')
 			for yyyy, mm in months[c]:
 				cal = HTMLCalendar({"class":"month"})
-				cal.build(date(yyyy,mm,1), lastrace)
+				cal.build(date(yyyy,mm,1), lastrace, races)
 				cell.append(cal)
 			self.carousel.append(cell)
 		self.carousel.append(CarouselLast())
@@ -165,8 +173,19 @@ show the best version of me.
 
 """
 
+def decodeRaceDate(empDict):
+	if "racedate" in empDict:
+		#empDict["racedate"] = dateutil.parser.parse(empDict["racedate"])
+		empDict["racedate"] = datetime.strptime(empDict["racedate"], '%Y-%m-%d').date()
+	return empDict
+
 if __name__ == "__main__":
+
+	racefile = os.popen('cat ../docs/assets/racedates.json', 'r')
+	races = json.load(racefile, object_hook=decodeRaceDate)['races']
+
 	calendar = CalendarDocument("/testing", "calendar2024")
-	calendar.handleMarkdown(mdown)
+	calendar.handleMarkdown(mdown, races)
+	calendar.save('../docs')
 	print(calendar.tohtml())
 

@@ -13,11 +13,17 @@ function fetchActiveDays(callback) {
 	httpRequest.send();
 }
 
-function weeklypage(data) {
+function trainingweek(data) {
 	var index = 0;
 	while (index < data.activedays.length) {
 		var id = 'c' + data.activedays[index];
-		document.getElementById(id).style.background = '#ddf3ff';
+		try {
+			var elmt = document.getElementById(id);
+			if (elmt) elmt.style.background = '#ddf3ff';
+		} catch(err) {
+			alert(err);
+			return;
+		}
 		index++;
 	}
 	return;
@@ -28,14 +34,15 @@ function fullcalendar(data) {
 	document.getElementById('tdc').innerHTML = data.totaldays;
 	document.getElementById('adc').innerHTML = data.activedays.length;
 	document.getElementById('adp').innerHTML = pct;
-	weeklypage(data);
+	trainingweek(data);
 	if(screen.availHeight < screen.availWidth) {
     	flkty.select(2);
 	}	
+	return;
 }
 
-
 function cellClick(w,d) {
-	var url = 'triathlon2024-' + w + 'weeksout?' + d;
-	alert(url);
+	var url = '/traininglog/triathlon2024-' + w + 'weeksout?' + d;
+	window.location.assign(url);
+	return;
 }

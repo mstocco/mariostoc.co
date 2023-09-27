@@ -125,9 +125,11 @@ footer p {font-size:0.7em;color#aaa;margin-left:10px;}
 .continue {font-size:0.85em;text-align:right;margin:-16px 0 16px 0;}
 .continue-line {font-size:0.85em;text-align:right;margin:-16px 0 16px 0;border-bottom:1px solid black;padding-bottom:12px;}
 
-.cal {width:265px;margin:0 0 0 10px;} 
-.cal .month div {height:160px;} 
-.cal .month h4 {margin:0;} 
-.cal .month div table {font-size:0.8em;border-collapse:collapse;margin-top:-5px;} 
-.cal .month .day {text-align:right;width:25px;} 
-.cal .month .week {text-align:center;width:35px;}
+
+.month {height:190px;width:265px;}
+.month h4 {margin:-3px 0 0 0;}
+.month table {width:265px; font-size:0.8em;border-collapse:collapse;margin-top:-5px;} 
+.month table thead tr {border:0;}
+.month table .day {text-align:right;width:25px;}
+.month table .week {text-align:center;width:35px;}
+

@@ -63,7 +63,6 @@ class StaticSiteGenerator:
 				if not os.path.isdir('%s%s' % (self.public, directory)):
 					print(' >>>', directory, ' (new directory)')
 					os.mkdir('%s%s' % (self.public, directory))
-	
 			else:
 				print('-> /')
 			for filename in filenames:
@@ -75,7 +74,10 @@ class StaticSiteGenerator:
 					if (modtime > pubtime):
 						## Rewrite webpage with newer content
 						modified = True
-						if directory == '/traininglog' : traininglog = True
+						if directory == '/traininglog' :
+							traininglog = True
+							document.head.append('<script src="/assets/js/trainingcalendar.js"></script>');
+							document.body.onclick = "javascript:fetchActiveDays(trainingweek);"
 						document.domain = self.domain
 						document.lastModified = datetime.fromtimestamp(modtime).ctime()
 						document.handleMarkdown('%s/%s' % (root, filename))
@@ -159,7 +161,7 @@ class StaticSiteGenerator:
 		return
 
 	def saveActiveDays(self, filenames):
-		active = {'activedays':[]}
+		active = {'totaldays':0, 'activedays':[], 'offdays':[]}
 		for filename in filenames:
 			yyyy = int(filename[:4])
 			if yyyy < 2023 and filename.find('challenge') == -1: continue
@@ -179,7 +181,6 @@ class StaticSiteGenerator:
 		start = datetime.strptime(str(active['activedays'][0]), '%Y%m%d')
 		last = datetime.strptime(str(active['activedays'][-1]), '%Y%m%d')
 		active['totaldays'] = (last - start).days
-		active['offdays'] = (active['totaldays'] - len(active['activedays']))
 
 		print(' >>> /assets/activedays.json  activedays: %d' % len(active['activedays']))
 		fileobj = open('%s/assets/activedays.json' % self.public, 'w')
