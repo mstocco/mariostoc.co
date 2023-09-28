@@ -4,17 +4,16 @@ import argparse
 #from innerHTML import *
 #from templateHTML import *
 #from templateDocument import *
-from website import *
+from generator import StaticSiteGenerator
 
-website = Website()
+website = StaticSiteGenerator('mariostoc.co')
 
 ## Command Line Argument Definitions
 parser = argparse.ArgumentParser()
 subparsers = parser.add_subparsers(dest="action", help='________________________')
 subparsers.add_parser('clean', help='Removes previously published documents')
-subparsers.add_parser('publish', help='Walks the content directory and creates documents')
-subparsers.add_parser('makeall', help='Clean and publish')
-subparsers.add_parser('makecurrent', help='Just publish the current training week')
+subparsers.add_parser('deploy', help='Walks the content directory and creates documents')
+subparsers.add_parser('redeploy', help='Clean and deploys')
 parser.parse_args(namespace=website)
 
 ## Let's do this
