@@ -164,10 +164,12 @@ class StaticSiteGenerator:
 		active = {'totaldays':0, 'activedays':[], 'offdays':[]}
 		for filename in filenames:
 			yyyy = int(filename[:4])
-			if yyyy < 2023 and filename.find('challenge') == -1: continue
+			if yyyy < 2024 and filename.find('triathlon') == -1: continue
 
 			weekday = False
-			for line in os.popen('cat %s/traininglog/%s' % (self.content, filename), 'r').readlines():
+			with open('%s/traininglog/%s' % (self.content, filename), 'r', encoding="utf-8") as logfile:
+				lines = logfile.readlines()
+			for line in lines:
 				line = line.strip()
 				for day in ['SUN','MON','TUE','WED','THU','FRI','SAT']:
 					if line.find('## %s' % day) == 0:
@@ -177,13 +179,13 @@ class StaticSiteGenerator:
 					if line.find('Time: **0') == -1:
 						dateobj = datetime.strptime(datestr, "%Y-%b-%d")
 						active['activedays'].append(int(dateobj.strftime("%Y%m%d")))
-
-		start = datetime.strptime(str(active['activedays'][0]), '%Y%m%d')
-		last = datetime.strptime(str(active['activedays'][-1]), '%Y%m%d')
-		active['totaldays'] = (last - start).days
+		if len(active['activedays']) > 0:
+			start = datetime.strptime(str(active['activedays'][0]), '%Y%m%d')
+			last = datetime.strptime(str(active['activedays'][-1]), '%Y%m%d')
+			active['totaldays'] = (last - start).days
 
 		print(' >>> /assets/activedays.json  activedays: %d' % len(active['activedays']))
-		fileobj = open('%s/assets/activedays.json' % self.public, 'w')
+		fileobj = open('%s/assets/activedays.json' % self.public, 'w', encoding="utf-8")
 		fileobj.write(json.dumps(active))
 		fileobj.close()
 		return

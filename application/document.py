@@ -36,7 +36,7 @@ class Document:
 		return
 	
 	def save(self, public):
-		fileobj = open('%s%s' % (public, self.documentURI), 'w')
+		fileobj = open('%s%s' % (public, self.documentURI), 'w', encoding="utf-8")
 		fileobj.write(self.tohtml())
 		fileobj.close()
 		return

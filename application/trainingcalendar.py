@@ -184,8 +184,8 @@ if __name__ == "__main__":
 	racefile = os.popen('cat ../docs/assets/racedates.json', 'r')
 	races = json.load(racefile, object_hook=decodeRaceDate)['races']
 
-	calendar = CalendarDocument("/testing", "calendar2024")
+	calendar = CalendarDocument("/traininglog", "calendar")
 	calendar.handleMarkdown(mdown, races)
 	calendar.save('../docs')
-	print(calendar.tohtml())
+	print('done.')
 
