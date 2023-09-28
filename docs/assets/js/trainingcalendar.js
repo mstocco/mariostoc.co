@@ -26,6 +26,7 @@ function trainingweek(data) {
 		}
 		index++;
 	}
+	scroll();
 	return;
 }
 

@@ -77,7 +77,7 @@ class StaticSiteGenerator:
 						if directory == '/traininglog' :
 							traininglog = True
 							document.head.append('<script src="/assets/js/trainingcalendar.js"></script>');
-							document.body.onclick = "javascript:fetchActiveDays(trainingweek);"
+							document.body.onload = "javascript:fetchActiveDays(trainingweek);"
 						document.domain = self.domain
 						document.lastModified = datetime.fromtimestamp(modtime).ctime()
 						document.handleMarkdown('%s/%s' % (root, filename))
