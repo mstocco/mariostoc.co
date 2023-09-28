@@ -1,6 +1,5 @@
-<!--
-# 2023 Xterra Whistler
--->
+[title]:- 2023 Xterra Whister
+[meta:description]:- Xterra Whistler was my first off-road triathlon and is was a blast.
 
 ![2023 Xterra Whister](/assets/svg/xterra-whistler-logo.svg)
 <p class="timestamp">September 17, 2023</p>
@@ -12,15 +11,14 @@ in about a mile, roll into transition on race morning.  No day
 before bike check-in, just pick the spot you'd like to rack 
 your bike; coffee is just over at that table.
 
-I was expecting the air temperature to be cold.  All week, 
-Whistler has be waking up to ~6°C; this morning it's a balmy 
-9°C.  The plan to stay out of the water is amended and I swim 
-out to a floating dock; a short 5 minutes in and out of the 
-lake.
+I was expecting the temperature to be cold.  All week, 
+Whistler has be waking up to ~5°C; this morning is a balmy 
+9°C. The plan to stay out of the water is amended; I swim 
+out to a floating dock; a short, in and out of the lake.
 
-A small field of elites hit the water first.  It's a mass 
+A small field of elites hit the water. Next is a mass 
 start from the beach for the rest of the ~100 age-group 
-participants.  I find a spot on the water's edge, swimmer's 
+participants. I claim my spot on the water's edge, swimmer's 
 left.
 
 ![](/assets/jpg/IMG_6025-977x550.jpeg)
@@ -183,5 +181,4 @@ race. The final two kilometres simply flowed.
   </tr>
  </tfoot>
 </table>
-
 
