@@ -312,8 +312,8 @@ class FlickityDocument(Document):
 		with open(contentPath, 'r', encoding='utf-8') as fileobj:
 			content = fileobj.read().strip()
 		for line in content.split('\n'):
-			if line.find('<!--: title ') == 0:
-				self.title = line[12:].split('-->')[0].strip()
+			if line.find('[title]:- ') == 0:
+				self.title = line[10:].strip()
 				self.opengraph.title = self.title
 				break
 			if line.find('# ') == 0:
