@@ -13,12 +13,12 @@ before bike check-in, just pick the spot you'd like to rack
 your bike; coffee is just over at that table.
 
 I was expecting the air temperature to be cold.  All week, 
-Whistler has be waking up to ~6°C; this morning it is a balmy 
+Whistler has be waking up to ~6°C; this morning it's a balmy 
 9°C.  The plan to stay out of the water is amended and I swim 
-out to the first floating dock; a quick 5 minutes in and out 
-of the lake.
+out to a floating dock; a short 5 minutes in and out of the 
+lake.
 
-A small field of elites hit the water first.  It is a mass 
+A small field of elites hit the water first.  It's a mass 
 start from the beach for the rest of the ~100 age-group 
 participants.  I find a spot on the water's edge, swimmer's 
 left.
