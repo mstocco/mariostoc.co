@@ -1,6 +1,6 @@
 import os
 import json
-from datetime import datetime
+from datetime import datetime, timezone
 from document import Document, RedirectDocument
 from innerHTML import *
 from flickity import *
@@ -10,7 +10,7 @@ class StaticSiteGenerator:
 		self.domain = domain
 		self.content = os.getcwd() + '/../content'
 		self.public = os.getcwd() + '/../docs'
-		self.now = datetime.today()
+		self.lastModified = datetime.now(timezone.utc).strftime('%Y%m%dT%H%M%SZ')
 
 	def do(self):
 		if hasattr(self, 'action'):
@@ -25,7 +25,7 @@ class StaticSiteGenerator:
 
 	def testpage(self):
 		document = FlickityDocument(self.domain, '', 'testpage.html')
-		document.lastModified = self.now.ctime()
+		document.lastModified = self.lastModified
 		document.handleMarkdown('testpage.md')
 		document.save('./')
 		print(' >>>', document.documentURI, ' mod:', document.lastModified)
@@ -89,7 +89,7 @@ class StaticSiteGenerator:
 							traininglog = True
 							document.head.append('<script src="/assets/js/trainingcalendar.js"></script>');
 							document.body.onload = "javascript:fetchActiveDays(trainingweek);"
-						document.lastModified = datetime.fromtimestamp(modtime).ctime()
+						document.lastModified = datetime.fromtimestamp(modtime).strftime('%Y%m%dT%H%M%SZ')
 						document.handleMarkdown('%s/%s' % (root, filename))
 						document.save(self.public)
 						print(' >>>', document.documentURI, ' mod:', document.lastModified)
@@ -99,6 +99,7 @@ class StaticSiteGenerator:
 					if directory == '/traininglog' : traininglog = True
 					document.domain = self.domain
 					document.lastModified = datetime.now().ctime()
+					document.lastModified = self.lastModified
 					document.handleMarkdown('%s/%s' % (root, filename))
 					document.save(self.public)
 					print(' +++', document.documentURI, '(new)')
@@ -154,7 +155,7 @@ class StaticSiteGenerator:
 		humans.append('  Location: Victoria, BC, Canada')
 		humans.append('')
 		humans.append('/* SITE */')
-		humans.append('  Last update: %s' % self.now.strftime('%Y/%m/%d'))
+		humans.append('  Last update: %s' % self.lastModified)
 		humans.append('  Language: English')
 		humans.append('  Doctype: HTML5')
 		humans.append('  Content Management: git')
@@ -201,7 +202,7 @@ class StaticSiteGenerator:
 		return
 
 	def saveRedirects(self, filenames):
-		today = int(self.now.strftime('%Y%m%d'))
+		today = int(self.lastModified[:8])
 		for index in range(len(filenames)):
 			if int(filenames[index][:8]) > today: break
 	

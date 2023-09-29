@@ -311,20 +311,23 @@ class FlickityDocument(Document):
 	def handleMetaData(self, line):
 		key = line[1:].split(']')[0].strip()
 		value = line.split(']:- ')[1].strip()
-		if key == 'title':
-			self.opengraph.append('og:title', value)
-			self.title = value
-		elif key in ['description','keywords']:
-			self.head.append(META({'name':key.upper(), 'content':value.upper()}))
-			if value == 'description':
+		if len(value) > 0:
+			if key == 'title':
+				self.opengraph.append('og:title', value)
+				self.title = value
+			elif key == 'description':
+				self.head.append(META({'name':key, 'content':value}))
 				self.opengraph.append('og:description', value)
-		else:
-			if key.find('og:') == 0 or key.find('article:') == 0:
+			elif key.find('og:') == 0 or key.find('article:') == 0:
 				if key.find('og:image') == 0:
 					if value.find('.jpeg') > 0: self.opengraph.append('og:image:type', 'image/jpeg')
 					if value.find('http:') == 0: value = value.replace('http:', 'https:')
-					self.opengraph.append('og:url', self.URL)
 				self.opengraph.append(key, value)
+				if not hasattr(self.opengraph, 'og_url'):
+					self.opengraph.append('og:url', self.URL)
+				if key == 'article:published_time':
+					if 'modified_time' not in self.opengraph.article:
+						self.opengraph.append('article:modified_time', self.lastModified)
 
 	def appendCarouselText(self, lines):
 		if len(lines) > 0:
@@ -389,6 +392,8 @@ class FlickityDocument(Document):
 			else:
 				if len(self.title) == 0 and line.find('# ') == 0:
 					self.title = line[2:].strip()
+					if not hasattr(self.opengraph, 'og_title'):
+						self.opengraph.append('og:title', self.title)
 				if contentPath.find('training') == 1:
 					for day in ['SUN','MON','TUE','WED','THU','FRI','SAT']:
 						if line.find('## %s' % day) == 0:
