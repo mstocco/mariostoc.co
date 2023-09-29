@@ -1,9 +1,5 @@
 #!/usr/bin/python3
 import argparse
-
-#from innerHTML import *
-#from templateHTML import *
-#from templateDocument import *
 from generator import StaticSiteGenerator
 
 website = StaticSiteGenerator('mariostoc.co')
