@@ -63,9 +63,9 @@ class StaticSiteGenerator:
 		    4. Create new sitemap.txt and humans.txt files.
 		"""
 		modified = False
-		traininglog = False
+		training = False
 		for root, directory, filenames in self.walk():
-			if directory == '/traininglog':
+			if directory == '/training':
 				trainingfiles = filenames
 
 			if len(directory) > 0:
@@ -85,8 +85,8 @@ class StaticSiteGenerator:
 					if (modtime > pubtime):
 						## Rewrite webpage with newer content
 						modified = True
-						if directory == '/traininglog' :
-							traininglog = True
+						if directory == '/training' :
+							training = True
 							document.head.append('<script src="/assets/js/trainingcalendar.js"></script>');
 							document.body.onload = "javascript:fetchActiveDays(trainingweek);"
 						document.lastModified = datetime.fromtimestamp(modtime).strftime('%Y%m%dT%H%M%SZ')
@@ -96,7 +96,7 @@ class StaticSiteGenerator:
 				else:
 					## Create new static webpage
 					modified = True
-					if directory == '/traininglog' : traininglog = True
+					if directory == '/training' : training = True
 					document.domain = self.domain
 					document.lastModified = datetime.now().ctime()
 					document.lastModified = self.lastModified
@@ -105,7 +105,7 @@ class StaticSiteGenerator:
 					print(' +++', document.documentURI, '(new)')
 		
 		if modified:
-			if traininglog:
+			if training:
 				self.saveActiveDays(trainingfiles)
 				self.saveRedirects(trainingfiles)
 			self.saveSiteMap()
@@ -178,7 +178,7 @@ class StaticSiteGenerator:
 			if yyyy < 2024 and filename.find('triathlon') == -1: continue
 
 			weekday = False
-			with open('%s/traininglog/%s' % (self.content, filename), 'r', encoding="utf-8") as logfile:
+			with open('%s/training/%s' % (self.content, filename), 'r', encoding="utf-8") as logfile:
 				lines = logfile.readlines()
 			for line in lines:
 				line = line.strip()
@@ -207,7 +207,7 @@ class StaticSiteGenerator:
 			if int(filenames[index][:8]) > today: break
 	
 		for name, delta in (('latest',0), ('prevoius',1)):
-			document = RedirectDocument(self.domain, '/traininglog', name)
+			document = RedirectDocument(self.domain, '/training', name)
 			document.title = '%s Training Week' % name.capitalize()
 			document.url = filenames[(index - delta)][9:].split('.md')[0]
 			if delta == 0:

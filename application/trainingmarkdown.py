@@ -109,7 +109,7 @@ class MarkdownFile:
 		lines.append('&mdash;\n\n')
 
 		print(self.filename)
-		fileobj = open('../content/traininglog/%s' % self.filename, 'w', encoding="utf-8")
+		fileobj = open('../content/training/%s' % self.filename, 'w', encoding="utf-8")
 		fileobj.write('\n'.join(lines))
 		fileobj.close()
 

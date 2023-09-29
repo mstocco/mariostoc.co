@@ -136,8 +136,8 @@ class Navigation(NAV):
 	"""
 	def __init__(self):
 		self.links = []
-		self.links.append({'href':'/traininglog/', 'label':'TRAINING LOG'})
-		self.links.append({'href':'/racereports/', 'label':'RACE REPORTS'})
+		self.links.append({'href':'/training/', 'label':'TRAINING LOG'})
+		self.links.append({'href':'/races/', 'label':'RACE REPORTS'})
 		self.links.append({'href':'/blog/', 'label':'THINGS I\'VE WRITTEN'})
 		self.links.append({'href':'/pictures/', 'label':'PICTURES I\'VE TAKEN'})
 		self.links.append({'href':'/about', 'label':'ABOUT ME'})
@@ -146,13 +146,13 @@ class Navigation(NAV):
 		google = FORM({"action":"https://google.com/search"})
 		google.append(input1)
 		google.append(input2)
-		self.traininglog = False
+		self.training = False
 		self.innerHTML = google.tohtml()
 
-	def traininglogSubmenu(self):
+	def trainingSubmenu(self):
 		ul = UL({'class':'alt','style':'font-size:0.75em;margin:15px 0 0 60px;'})
 
-		anchor = A({'href':'/traininglog/calendar'})
+		anchor = A({'href':'/training/calendar'})
 		anchor.innerHTML = 'FULL TRAINING CALENDAR'
 		li = LI({'class':'item'})
 		li.append(anchor)
@@ -185,8 +185,8 @@ class Navigation(NAV):
 			li = LI({"class":"item"})
 			li.append(anchor)
 			if anchor.innerHTML == 'TRAINING LOG':
-				if self.traininglog:
-					li.append(self.traininglogSubmenu())
+				if self.training:
+					li.append(self.trainingSubmenu())
 			ul.append(li)
 		self.append(ul)
 		return HTML5Tag.tohtml(self)
@@ -363,7 +363,7 @@ class FlickityDocument(Document):
 			training = True
 			self.body.onload = 'javascript:getActiveDays(weekday);'
 			week = self.documentURI.split('-')[1].split('week')[0]
-			self.navigation.traininglog = True
+			self.navigation.training = True
 			self.navigation.week = True
 	
 		elif self.documentURI.find('pictures') == 1:
