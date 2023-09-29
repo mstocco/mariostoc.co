@@ -40,10 +40,10 @@ class StaticSiteGenerator:
 		for root, directory, filenames in self.walk():
 			print('->', directory)
 			for filename in filenames:
-				document = Document(directory, filename)
+				document = Document(self.domain, directory, filename)
 				published = '%s%s' % (self.public, document.documentURI)
 				if os.path.isfile(published):
-					print(' ---', document.documentURI, '(delete todo)')
+					print(' ---', document.documentURI, '(deleted)')
 					os.remove(published)
 		return
 
@@ -68,7 +68,7 @@ class StaticSiteGenerator:
 				print('-> /')
 
 			for filename in filenames:
-				document = FlickityDocument(directory, filename)
+				document = FlickityDocument(self.domain, directory, filename)
 				published = '%s%s' % (self.public, document.documentURI)
 				if os.path.isfile(published):
 					pubtime = os.path.getmtime(published)
@@ -198,7 +198,7 @@ class StaticSiteGenerator:
 			if int(filenames[index][:8]) > today: break
 	
 		for name, delta in (('latest',0), ('prevoius',1)):
-			document = RedirectDocument('/traininglog', name)
+			document = RedirectDocument(self.domain, '/traininglog', name)
 			document.title = '%s Training Week' % name.capitalize()
 			document.url = filenames[(index - delta)][9:].split('.md')[0]
 			if delta == 0:
