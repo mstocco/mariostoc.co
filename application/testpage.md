@@ -1,9 +1,9 @@
 [title]:- 
-[description]:- OpenGraph requires og:type and og:image, og:title and og:url inferred.
+[description]:- OpenGraph requires og:image; og:type, og:title and og:url inferred .
 [og:type]:- article
-[og:description]:- This should be minimum 2 sentences, maximum 4.
+[og:description]:- This should be minimum 2 sentences. It could be a maximum of 4.
 [og:image]:- https://mariostoc.co/assets/og/default.jpeg
-[article:published_time]:-
+[article:published_time]:- 20230923T120000Z
 [article:section]:- blog
 
 
