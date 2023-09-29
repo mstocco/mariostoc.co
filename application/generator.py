@@ -21,10 +21,8 @@ class StaticSiteGenerator:
 		self.deploy()
 		return
 
-	def clean(self):
-		""" 1. Walk the content directory looking for markdown files.
-		    2. Delete files generated from a markdown file.
-		"""
+	def walk(self):
+		walked = []
 		for root, dirs, files in os.walk(self.content):
 			directory = '%s' % root.split(self.content)[1]
 			filenames = []
@@ -32,6 +30,14 @@ class StaticSiteGenerator:
 				if filename.find('.icloud') > 0: continue
 				if filename.split('.')[-1] == 'md': filenames.append(filename)
 			filenames.sort()
+			walked.append([root, directory, filenames])
+		return walked
+	
+	def clean(self):
+		""" 1. Walk the content directory looking for markdown files.
+		    2. Delete files generated from a markdown file.
+		"""
+		for root, directory, filenames in self.walk():
 			print('->', directory)
 			for filename in filenames:
 				document = Document(directory, filename)
@@ -49,14 +55,9 @@ class StaticSiteGenerator:
 		"""
 		modified = False
 		traininglog = False
-		for root, dirs, files in os.walk(self.content):
-			directory = '%s' % root.split(self.content)[1]
-			filenames = []
-			for filename in files:
-				if filename.find('.icloud') > 0: continue
-				if filename.split('.')[-1] == 'md': filenames.append(filename)
-			filenames.sort()
-			if directory == '/traininglog' : trainingfiles = filenames
+		for root, directory, filenames in self.walk():
+			if directory == '/traininglog':
+				trainingfiles = filenames
 
 			if len(directory) > 0:
 				print('->', directory)
@@ -65,6 +66,7 @@ class StaticSiteGenerator:
 					os.mkdir('%s%s' % (self.public, directory))
 			else:
 				print('-> /')
+
 			for filename in filenames:
 				document = FlickityDocument(directory, filename)
 				published = '%s%s' % (self.public, document.documentURI)
