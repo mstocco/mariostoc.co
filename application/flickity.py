@@ -388,7 +388,7 @@ class FlickityDocument(Document):
 				self.handleMetaData(line)
 			else:
 				if len(self.title) == 0 and line.find('# ') == 0:
-					self.title = line[2].strip()
+					self.title = line[2:].strip()
 				if contentPath.find('training') == 1:
 					for day in ['SUN','MON','TUE','WED','THU','FRI','SAT']:
 						if line.find('## %s' % day) == 0:
