@@ -14,12 +14,21 @@ class StaticSiteGenerator:
 
 	def do(self):
 		if hasattr(self, 'action'):
+			if self.action == 'testpage':
+				return self.testpage()
 			if self.action == 'clean':
 				return self.clean()
 			if self.action == 'redeploy':
 				self.clean()
 		self.deploy()
 		return
+
+	def testpage(self):
+		document = FlickityDocument(self.domain, '', 'testpage.html')
+		document.lastModified = self.now.ctime()
+		document.handleMarkdown('testpage.md')
+		document.save('./')
+		print(' >>>', document.documentURI, ' mod:', document.lastModified)
 
 	def walk(self):
 		walked = []
@@ -80,7 +89,6 @@ class StaticSiteGenerator:
 							traininglog = True
 							document.head.append('<script src="/assets/js/trainingcalendar.js"></script>');
 							document.body.onload = "javascript:fetchActiveDays(trainingweek);"
-						document.domain = self.domain
 						document.lastModified = datetime.fromtimestamp(modtime).ctime()
 						document.handleMarkdown('%s/%s' % (root, filename))
 						document.save(self.public)
