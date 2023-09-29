@@ -10,17 +10,18 @@ class Document:
 	    called.
 	     
 	"""
-	def __init__(self, directory, filename):
+	def __init__(self, domain, directory, filename):
 		self.doctype = '<!DOCTYPE html>'
 		self.documentElement = HTML({'lang':'en'})
 		self.title = ''
+		self.domain = domain
 		self.documentURI = '%s/%s' % (directory, filename.split('.md')[0])
-		if len(filename) > 9:
-			if filename[:8].isnumeric():
-				self.documentURI = self.documentURI.replace(filename[:9], '')
+		if len(filename) > 9 and filename[:8].isnumeric():
+			self.documentURI = self.documentURI.replace(filename[:9], '')
 		elif filename == 'index.md':
 			self.documentURI = '%s/index.html' % (directory)
 			self.nocache = True
+		self.URL = 'https://%s%s' % (domain, self.documentURI)
 		self.head = HEAD()
 		self.body = BODY()
 		self.characterSet = 'utf-8'
