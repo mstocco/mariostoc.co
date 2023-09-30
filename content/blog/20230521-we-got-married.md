@@ -7,20 +7,14 @@
 [article:section]:- blog
 
 
-![Wedding photography courtesy Naomi Maya https://naomimaya.com/](/assets/jpg/carina-mario-wedding-977x550.jpeg Sunday, May 21, 2023)
+![Wedding photography courtesy Naomi Maya https://naomimaya.com/](/assets/jpg/carina-mario-wedding-gorge-977x550.jpeg Sunday, May 21, 2023)
 
 
 # Carina and Mario
 <p class="timestamp">Sunday, May 21, 2023</p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aene 
-an augue ante, dignissim sed sapien vel, laoreet lobortis lib 
-ero. Suspendisse a tincidunt nunc. Interdum et malesuada fames 
-ac ante ipsum primis in faucibus. Phasellus at lectus velit. 
 
-Maecenas tellus lectus, porttitor ut ex at, vulputate egestas 
-eros. Curabitur in aliquet eros, at dapibus enim. Nulla 
-suscipit ligula non suscipit venenatis. Aenean a ullamcorper 
-augue. Aliquam lacinia vel mauris in dignissim. Curabitur 
-euismod augue vitae lorem euismod varius. Curabitur et ex 
-felis. Sed laoreet ante vitae erat dictum, vel lobortis augue.
+We would like to thank you for making our wedding day incredibly special and unforgettable.  We are so thankful for all the love from our family and friends, and for the support near and far.
+
+We had the best time and will hold the memory of this day close to our hearts.
+
