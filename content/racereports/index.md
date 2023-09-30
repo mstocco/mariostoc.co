@@ -8,7 +8,7 @@ fortitude and really, just to have some fun.
 Below is a list of past events that I have entered.
 
 ## TRIATHLON
-[2023 Xterra Whistler](2023-xterra-whistler)   
+[2023 Xterra Whistler](javascript:flkty.select(6);)  
 [2023 Victoria Sprint](2023-victoria-sprint) 🏆 <small>(1<sup>st</sup> M50-59)</small>   
 
 [2023 DATEV Challenge Roth](javascript:flkty.select(2);)  
@@ -16,16 +16,16 @@ Below is a list of past events that I have entered.
 [2021 IRONMAN Italy - Emilia Romagna](javascript:flkty.select(4);)
 
 ---
-[2023 IRONMAN 70.3 - Victoria](javascript:flkty.select(6);)  
-[2022 Victoria Half](javascript:flkty.select(7);)  
-[2022 IRONMAN 70.3 - Victoria](javascript:flkty.select(7);)  
-[2021 Victoria Half (virtual)](javascript:flkty.select(8);)
+[2023 IRONMAN 70.3 - Victoria](javascript:flkty.select(7);)  
+[2022 Victoria Half](javascript:flkty.select(8);)  
+[2022 IRONMAN 70.3 - Victoria](javascript:flkty.select(8);)  
+[2021 Victoria Half (virtual)](javascript:flkty.select(9);)
 
 ## RUNNING
-[2019 Victoria Marathon](javascript:flkty.select(10);)  
-[2019 Calgary Marathon](javascript:flkty.select(10);)  
-[2018 Vancouver Marathon](javascript:flkty.select(11);)  
-[2017 Victoria Marathon](javascript:flkty.select(11);)
+[2019 Victoria Marathon](javascript:flkty.select(11);)  
+[2019 Calgary Marathon](javascript:flkty.select(11);)  
+[2018 Vancouver Marathon](javascript:flkty.select(12);)  
+[2017 Victoria Marathon](javascript:flkty.select(12);)
 
 <!---->
 <img src="/assets/svg/challenge-roth-logo.svg" height="75px" width="170px" />
@@ -160,6 +160,47 @@ Comfortable jog for 19km, then maintained a huge smile through to the finish.
 </table>
 
 ![](/assets/jpg/II-9x550.jpeg)
+<img src="/assets/svg/xterra-whistler-logo.svg?v2" height="75px" width="170px" />
+
+---
+
+## 2023 XTERRA WHISTLER
+<p class="timestamp"> Sunday, September 17, 2023</p>
+
+### SUMMARY
+My first off-road triathlon!
+
+Lake was cool, the bike course was appropriate for my skillset and I found flow for the last kilometres of the run.
+
+I'd like to do this race again.
+
+<p class="continue"><a href="2023-xterra-whistler">full race report &rarr;</a></p>
+<table style="position:absolute;bottom:0;">
+ <thead>
+  <tr>
+   <th style="width:25%;"></th>
+   <th style="width:25%;text-align:right;">Time</th>
+   <th style="width:25%;text-align:right;">M50-54</th>
+   <th style="width:25%;text-align:right;">Overall</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr><td>Swim </td><td style="text-align:right;">28:39</td><td style="text-align:right;">2</td><td style="text-align:right;">43</td></tr>
+  <tr><td>Bike </td><td style="text-align:right;">1:48:21</td><td style="text-align:right;">4</td><td style="text-align:right;">56</td></tr>
+  <tr><td>Run  </td><td style="text-align:right;">1:16:32</td><td style="text-align:right;">4</td><td style="text-align:right;">77</td></tr>
+  <tr><td>T1/T2</td><td style="text-align:right;">2:55 / 1:52</td><td colspan="2"></td></tr>
+ </tbody>
+ <tfoot>
+  <tr>
+   <td>Overall</td>
+   <td style="font-weight:bold;text-align:right;">3:38:17</td>
+   <td style="font-weight:bold;text-align:right;">   4/7</td>
+   <td style="font-weight:bold;text-align:right;">59/107</td>
+  </tr>
+ </tfoot>
+</table>
+
+<!---->
 <img src="/assets/svg/ironman-70.3-victoria-logo.svg" height="75px" width="170px" />
 
 ---
@@ -173,7 +214,7 @@ finished the bike ~11 minutes quicker than last year.
 
 Then I turned my ego off and walked, a lot!
 
-&ast; The plan was to jog 50 minutes and walk the balance.
+&ast; The plan was to jog 50 minutes then walk.
 <p class="continue"><a href="2023-ironman-70.3-victoria">full race report &rarr;</a></p>
 <table style="position:absolute;bottom:0;">
  <thead>
@@ -236,7 +277,7 @@ Seven weeks after 70.3 Victoria, I did not improve the run despite a _"healed"_ 
 
 Broke my little toe before leaving the house.
 
-<p class="continue"><a href="2022-ironman-703-victoria">full race report &rarr;</a></p>
+<p class="continue"><a href="2022-ironman-70.3-victoria">full race report &rarr;</a></p>
 <table style="position:absolute;bottom:0;">
  <thead>
   <tr>

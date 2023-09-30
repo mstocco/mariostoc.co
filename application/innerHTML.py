@@ -1,38 +1,8 @@
 #!/usr/bin/python3
 
-## Classes that make up the two basic elements of a webpage:
-##   The Document and the Elements it contains.
-##
-## Both classes have a tohtml() method that returns the 
+## HTML5Tags have a tohtml() method that returns the 
 ## string representation of the class, formatted as 
-## valid HTML5.
-
-
-class HTML5Document:
-	""" A very minimalistic impmlementation of an HTML DOM Document.
-	    There is a DOCTYPE declaration and an HTML element that
-	    contains a HEAD and BODY element.  The title attribute gets
-	    written in as a TITLE element when the tohtml() methods is
-	    called.
-	     
-	"""
-	def __init__(self):
-		self.doctype = '<!DOCTYPE html>'
-		self.documentElement = HTML({'lang':'en'})
-		self.head = HEAD()
-		self.body = BODY()
-		self.title = ''
-		self.characterSet = 'utf-8'
-		if callable(self.template):
-			self.template()
-
-	def tohtml(self):
-		""" Put it all together and print to stdout.
-		"""
-		self.head.prepend(TITLE(self.title))
-		self.documentElement.append(self.head)
-		self.documentElement.append(self.body)
-		return '%s%s' % (self.doctype, self.documentElement.tohtml())
+## valid HTML5 of coures.
 
 
 class HTML5Tag:

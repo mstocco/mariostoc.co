@@ -1,6 +1,5 @@
-<!--
-# 2023 Xterra Whistler
--->
+[title]:- 2023 Xterra Whister
+[meta:description]:- Xterra Whistler was my first off-road triathlon and is was a blast.
 
 ![2023 Xterra Whister](/assets/svg/xterra-whistler-logo.svg)
 <p class="timestamp">September 17, 2023</p>
@@ -12,15 +11,14 @@ in about a mile, roll into transition on race morning.  No day
 before bike check-in, just pick the spot you'd like to rack 
 your bike; coffee is just over at that table.
 
-I was expecting the air temperature to be cold.  All week, 
-Whistler has be waking up to ~6°C; this morning it's a balmy 
-9°C.  The plan to stay out of the water is amended and I swim 
-out to a floating dock; a short 5 minutes in and out of the 
-lake.
+I was expecting the temperature to be cold.  All week, 
+Whistler has be waking up to ~5°C; this morning is a balmy 
+9°C. The plan to stay out of the water is amended; I swim 
+out to a floating dock; a short, in and out of the lake.
 
-A small field of elites hit the water first.  It's a mass 
+A small field of elites hit the water. Next is a mass 
 start from the beach for the rest of the ~100 age-group 
-participants.  I find a spot on the water's edge, swimmer's 
+participants. I claim my spot on the water's edge, swimmer's 
 left.
 
 ![](/assets/jpg/IMG_6025-977x550.jpeg)
@@ -98,8 +96,8 @@ from my water bottle.
 First lap is almost done but not before riding _Fountain of 
 Love_.  Behind me, someone askes to ride through. I find space 
 and a guy powers by. He's in my age division. I press to match 
-his pace when a rock, or a root, or whatever, puts me hard on 
-the ground.  
+his pace but a rock, or a root, or whatever, puts me hard on 
+the ground. 
 
 <!---->
 I pick myself up quickly and get back on my bike but 3rd place 
@@ -108,7 +106,7 @@ just rode around the corner and out of site.
 First lap of the bike is done and I am back on the sandy 
 corners of _Tin Pants_.  Another woman, this one in the F40-45 
 division is charging hard.  I follow her line; she's pulls me 
-back to the leader of the F35-39 division.
+back up to the leader of the F35-39 division.
 
 Second time up _Centennial_, I pass both women.
 
@@ -116,13 +114,13 @@ Maybe it was my fuelling, maybe it was being just a bit more
 familiar with the trails on the second lap, but male or 
 female, I am not passed on the bike course again.
 
-I'm in _Transition_, left shoe on, right shoe on.  I notice 
+I'm in transition, left shoe on, right shoe on.  I notice 
 that F35-39 is still relentlessly in pursuit.  I hightail it 
 out on to the run course.
 
-The trail is gradual uphill for the first kilometre.  Without 
-the sound of wheels and suspension bounce over terrain, it is 
-very peaceful.
+The trail is a gradual uphill for the first kilometre. 
+Without the sound of wheels and suspension bouncing over 
+terrain, it is very peaceful.
 
 I hear footsteps. F35-39 passes me for good.  
 _"Hey, great ride."_ &nbsp; I get a fist pump, _"You too!"_
@@ -137,26 +135,26 @@ carry on.
 I was told I'd know that I'd reach the _WALL_ when I got 
 there.  Yes, it is pretty evident.  I walk up.
 
-A rocky and loose decent off the hill continues to the aid 
-station.  I am being passed by a number of people.  I am not 
-counting, my attention is focused on being safe and not 
-turning an ankle.
+A rocky and loose decent off the hill continues back to the 
+aid station.  I am being passed by a number of people; I have 
+stopped counting. My attention is focused on being safe and 
+not turning an ankle.
 
-A _Zoot_ trisuit passes me.  The age written on her calf let's 
+A _Zoot_ trisuit passes me.  The number on her calf let's 
 me know she's my age.  She runs with rhythm.  Her name is 
 _Linda_ and I try to keep up.
 
 I see where her foot hits the trail, I do my best to put my 
 foot there too.  In a minute or two, I forget about my sore 
-knees, my fatigued quads or the fact that I was even in a 
+knees, my fatigued quads and the fact that I was even in a 
 race. The final two kilometres simply flowed.
 
-**Verdict:** Xterra Whistler is a lot of fun!
+**Verdict:** Xterra Whistler is a lot of fun! &nbsp; <small>(2024???)</small>
 
 ![](/assets/jpg/IMG_6022-977x550.jpeg)
 
 ### SETUP IN TRANSITION
-![](/assets/jpg/xterra-transition.jpeg)
+![My transition setup](/assets/jpg/xterra-transition.jpeg)
 
 ### FINAL NUMBERS
 <table style="margin-bottom:12px;">
@@ -183,5 +181,4 @@ race. The final two kilometres simply flowed.
   </tr>
  </tfoot>
 </table>
-
 
