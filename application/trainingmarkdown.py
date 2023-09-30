@@ -18,24 +18,20 @@ class MarkdownFile:
 		lastrace = races[0]
 		prefix = thisdate.strftime("%Y%m%d")
 		weeksout = math.ceil((lastrace["racedate"] - thisdate).days / 7)
-		self.filename = "%s-triathlon2024-%dweeksout.md" % (prefix, weeksout)
-		if weeksout < 2:
-			racecode = '-'.join(lastrace["race"].split(" ")[:2]).lower()
-			self.filename = "%s-%s-raceweek.md" % (prefix, racecode)
-			if weeksout < 1:
-				self.filename = "%s-%s.md" % (prefix, racecode)
-	
+		
+		self.filename = '%s-2024-%d-weeks-out.md' % (prefix, weeksout)
+		if weeksout < 2:  self.filename = '%s-2024-race-week.md' % prefix
+		if weeksout < 1:  self.filename = '%s-2024-season-end.md' % prefix
+
 		## Calendars (appended near the end of the file)
 		month1 = HTMLCalendar()
 		month2 = HTMLCalendar()
 		if thisdate.month == 10:
 			month1.build(thisdate, thisdate, races)
 			month2.build((thisdate + timedelta(days=31)), thisdate, races)
-
 		elif thisdate.month == 9:
 			month1.build((thisdate - timedelta(days=30)), thisdate, races)
 			month2.build(thisdate, thisdate, races)
-		
 		else:
 			if thisdate.day > 15:
 				# This month and next month""
@@ -45,24 +41,58 @@ class MarkdownFile:
 				# Last month and this month
 				month1.build((thisdate - timedelta(days=21)), thisdate, races)
 				month2.build(thisdate, thisdate, races)
-		
-		## Weekly Summary
-		if weeksout == 1:
-			lines = ["# %s RACEWEEK %d" % (thisrace["race"].upper(), thisrace["racedate"].year)]
-		else:
-			lines = ["# %s TRAINING %d" % (thisrace["race"], lastrace["racedate"].year)]
-		lines.append("Week begining [%s %d, %d](javascript:flick('sun');)\n" % (thisdate.strftime("%A, %B"), thisdate.day, thisdate.year))
-		
+
+
+
+
+
+		abdyyyy = '%s %d, %d' % (thisdate.strftime('%A, %B'), thisdate.day, thisdate.year)
+		ogdesc = 'My triathlon training week beginning %s.' % abdyyyy
+
+
+
 		upnext = []
-		daysout = (nextrace["racedate"] - thisdate).days
+		daysout = (thisrace["racedate"] - thisdate).days
+		#print(self.filename, '\tthis: %s %s' % (thisrace['racedate'], thisrace['race']), '\tnext: %s %s' % (nextrace['racedate'], nextrace['race']))
+		title = '%d %s Training' % (lastrace['racedate'].year, thisrace['race'])
 		if daysout < 22:
-			if daysout == 1:
-				upnext.append("%s tomorrow" % thisrace["race"])
+			if daysout == 0:
+				title = 'Training Log 2024'
+				fullday = thisrace['racedate'].strftime('%A')
+				upnext.append('%s on [%s](javascript:flick(\'sun\');)' % (thisrace['race'], fullday))
+				ogdesc = '%s The %s race is this %s!' % (ogdesc, thisrace['race'], fullday)
+			elif daysout == 1:
+				upnext.append('%s tomorrow' % thisrace['race'])
+				ogdesc = '%s The %s race is tomorrow!' % (ogdesc, thisrace['race'])
 			else:
-				upnext.append("**%d days** until %s" % (daysout, nextrace["race"]))
+				if daysout < 8:
+					title = '%d %s Race Week' % (thisrace['racedate'].year, thisrace['race'])
+				upnext.append('**%d days** until %s' % (daysout, nextrace["race"]))
+				ogdesc = '%s %d days until %s.' % (ogdesc, daysout, nextrace['race'])
 		else:
-			nextweeks = math.ceil((nextrace["racedate"] - thisdate).days / 7)
-			upnext.append("%d weeks until %s" % (nextweeks, nextrace["race"]))
+			nextweeks = math.ceil((nextrace['racedate'] - thisdate).days / 7)
+			upnext.append('%d weeks until %s' % (nextweeks, nextrace['race']))
+			ogdesc = '%s %d weeks until %s.' % (ogdesc, nextweeks, nextrace['race'])
+			
+
+
+		lines = []
+		lines.append('[title]:- %s' % title)
+		lines.append('[description]:- Triathlon training week beginning %s' % abdyyyy)
+		lines.append('[og:image]:: https://mariostocco/assets/og/training-triathlon-2024-week-%d' % weeksout)
+		lines.append('[og:description]:- %s.' % (ogdesc))
+		lines.append('[article:published_time]:- 20230930T235959Z')
+		lines.append('[article:section]:- triathlon training 2024')
+		lines.append('\n\n')
+
+
+		
+		if weeksout == 1:
+			lines.append('# %d %s RACEWEEK' % (thisrace['racedate'].year, thisrace['race'].upper()))
+		else:
+			lines.append('# %s' % title.upper())
+		lines.append("Week beginning [%s](javascript:flick('sun');)\n" % abdyyyy)
+
 		if thisrace["racedate"] < lastrace["racedate"]:
 			weeksout = math.ceil((lastrace["racedate"] - thisdate).days / 7)
 			lines[-1] = "%s  " % lines[-1]
@@ -74,7 +104,7 @@ class MarkdownFile:
 		lines.append("### SUMMARY")
 		lines.append("Total Training Time: **0.0&#8239;hours**\n")
 		lines.append("I feel like I was... <!--LAGGING  MAINTAINING  BUILDING  PEAKING  OVERREACHING-->\n")
-		lines.append("&mdash;\n")
+		lines.append("&mdash;\n\n\n\n\n")
 		lines.append("![](/assets/svg/image-977x550.svg)\n")
 		
 		## Individual days of this week
@@ -108,7 +138,7 @@ class MarkdownFile:
 		lines.append("#### MISCELLANEOUS STUFF")
 		lines.append('&mdash;\n\n')
 
-		print(self.filename)
+		##print(self.filename)
 		fileobj = open('../content/training/%s' % self.filename, 'w', encoding="utf-8")
 		fileobj.write('\n'.join(lines))
 		fileobj.close()

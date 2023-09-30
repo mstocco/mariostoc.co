@@ -87,8 +87,6 @@ class StaticSiteGenerator:
 						modified = True
 						if directory == '/training' :
 							training = True
-							document.head.append('<script src="/assets/js/trainingcalendar.js"></script>');
-							document.body.onload = "javascript:fetchActiveDays(trainingweek);"
 						document.lastModified = datetime.fromtimestamp(modtime).strftime('%Y%m%dT%H%M%SZ')
 						document.handleMarkdown('%s/%s' % (root, filename))
 						document.save(self.public)
@@ -98,7 +96,6 @@ class StaticSiteGenerator:
 					modified = True
 					if directory == '/training' : training = True
 					document.domain = self.domain
-					document.lastModified = datetime.now().ctime()
 					document.lastModified = self.lastModified
 					document.handleMarkdown('%s/%s' % (root, filename))
 					document.save(self.public)
@@ -210,9 +207,6 @@ class StaticSiteGenerator:
 			document = RedirectDocument(self.domain, '/training', name)
 			document.title = '%s Training Week' % name.capitalize()
 			document.url = filenames[(index - delta)][9:].split('.md')[0]
-			if delta == 0:
-				if ((index + 1) <  len(filenames)):
-					document.url += '?%s' % self.now.strftime('%a').lower()
 			document.save(self.public)
 			print(' >>> %s  %s' % (document.documentURI, document.url))
 		return

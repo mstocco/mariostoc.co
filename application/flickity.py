@@ -369,7 +369,8 @@ class FlickityDocument(Document):
 	
 		if self.documentURI.find('training') == 1:
 			training = True
-			self.body.onload = 'javascript:getActiveDays(weekday);'
+			self.head.append('<script src="/assets/js/trainingcalendar.js"></script>');
+			self.body.onload = "javascript:fetchActiveDays(trainingweek);"
 			week = self.documentURI.split('-')[1].split('week')[0]
 			self.navigation.training = True
 			self.navigation.week = True
