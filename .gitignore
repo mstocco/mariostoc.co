@@ -1,7 +1,13 @@
 /docs/about
-/docs/traininglog/*
+/docs/humans.txt
+/docs/sitemap.txt
+/docs/training/*
+/docs/races/*
 /docs/blog/*
 /docs/pictures/*
 /docs/racereports/*
+/docs/traininglog/*
+/content/traininglog/*
+/content/racereports/*
 *.pyc
 xaa
