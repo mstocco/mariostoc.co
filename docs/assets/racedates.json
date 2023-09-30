@@ -2,12 +2,13 @@
  "races": [
   {"racedate": "2024-09-22", "race": "XTERRA Whistler"}, 
   {"racedate": "2024-08-25", "race": "IRONMAN Canada Penticton"}, 
+  {"racedate": "2024-07-07", "race": "XTERRA Victoria"}, 
+  {"racedate": "2024-06-30", "race": "Cowichan Challenge"}, 
+  {"racedate": "2024-05-26", "race": "70.3 Victoria"}
+ ],"maybes": [
   {"racedate": "2024-08-10", "race": "XTERRA Sleeping Giant"}, 
   {"racedate": "2024-07-21", "race": "Challenge Cap Quebec"}, 
   {"racedate": "2024-07-20", "race": "Challenge Cap Quebec"}, 
-  {"racedate": "2024-07-07", "race": "XTERRA Victoria"}, 
-  {"racedate": "2024-06-30", "race": "Cowichan Challenge"}, 
-  {"racedate": "2024-06-23", "race": "70.3 Mont-Tremblant"}, 
-  {"racedate": "2024-05-26", "race": "70.3 Victoria"}
+  {"racedate": "2024-06-23", "race": "70.3 Mont-Tremblant"}
  ]
 }

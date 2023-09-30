@@ -136,8 +136,8 @@ class Navigation(NAV):
 	"""
 	def __init__(self):
 		self.links = []
-		self.links.append({'href':'/traininglog/', 'label':'TRAINING LOG'})
-		self.links.append({'href':'/racereports/', 'label':'RACE REPORTS'})
+		self.links.append({'href':'/training/', 'label':'TRAINING LOG'})
+		self.links.append({'href':'/races/', 'label':'RACE REPORTS'})
 		self.links.append({'href':'/blog/', 'label':'THINGS I\'VE WRITTEN'})
 		self.links.append({'href':'/pictures/', 'label':'PICTURES I\'VE TAKEN'})
 		self.links.append({'href':'/about', 'label':'ABOUT ME'})
@@ -146,13 +146,13 @@ class Navigation(NAV):
 		google = FORM({"action":"https://google.com/search"})
 		google.append(input1)
 		google.append(input2)
-		self.traininglog = False
+		self.training = False
 		self.innerHTML = google.tohtml()
 
-	def traininglogSubmenu(self):
+	def trainingSubmenu(self):
 		ul = UL({'class':'alt','style':'font-size:0.75em;margin:15px 0 0 60px;'})
 
-		anchor = A({'href':'/traininglog/calendar'})
+		anchor = A({'href':'/training/calendar'})
 		anchor.innerHTML = 'FULL TRAINING CALENDAR'
 		li = LI({'class':'item'})
 		li.append(anchor)
@@ -185,8 +185,8 @@ class Navigation(NAV):
 			li = LI({"class":"item"})
 			li.append(anchor)
 			if anchor.innerHTML == 'TRAINING LOG':
-				if self.traininglog:
-					li.append(self.traininglogSubmenu())
+				if self.training:
+					li.append(self.trainingSubmenu())
 			ul.append(li)
 		self.append(ul)
 		return HTML5Tag.tohtml(self)
@@ -261,35 +261,104 @@ class OpenGraph:
 	    HEAD tag of a Document.
 	"""
 	def __init__(self):
-		self.image = ''
-		self.title = ''
-		self.url = ''
-	
+		self.article = {'author':'https://mariostoc.co/about'}
+		self.og_type = 'article'
+
 	def append(self, prop, content):
 		value = content.strip()
 		if len(value) > 0:
+			if prop.find('article') == 0:
+				for key in ['author','published_time','modified_time','expiration_time','section']:
+					if prop.find(key) > 0:
+						self.article[key] = value
+						return
 			attr = prop.replace(':', '_')
 			setattr(self, attr, value)
 		return
 
 	def tohtml(self):
-		html = ''
-		if len(self.image) > 0:
-			if len(self.title) > 0:
-				if len(self.url) > 0:
-					html = META({'property':'og:type','content':'article'}).tohtml()
-					if not hasattr(self, 'article_author'):
-						metatag = META({'property':'og:article:author', 'content':'Mario Stocco'})
-						html = html + metatag.tohtml()
-					for key, content in self.__dict__.items():
-						property = 'og:%s' % key.replace('_', ':')
-						metatag = META({'property':property, 'content':content})
-						html = html + metatag.tohtml()
-		return html
+		""" The manatory properties required for the document:
+			og:title - The title of your object as it should appear in the graph.
+			og:type - The type of your object, e.g., "article".
+			og:image - An image URL representing your 1200x630 object within the graph.
+			og:url - The canonical URL of your object; e.g. "https://www.imdb.com/title/tt0117500/"
+		"""
+		tags = []
+		for key in ['og_title','og_type','og_image','og_url']:
+			if key in self.__dict__.keys():
+				meta = META({'property':key.replace('_', ':'), 'content':self.__dict__[key]})
+				tags.append(meta.tohtml())
+
+		if len(tags) == 4:
+			if 'og_description' in self.__dict__.keys():
+				tags.append('<meta property="og:description" content="%s" />' % self.og_description)
+
+			if self.og_type == 'article':
+				"""	article:published_time - datetime - When the article was first published.
+					article:modified_time - datetime - When the article was last changed.
+					article:expiration_time - datetime - When the article is out of date after.
+					article:author - profile array - Writers of the article.
+					article:section - string - A high-level section name. E.g. Technology
+				"""
+				for key in ['published_time','modified_time','expiration_time','author','section']:
+					if key in self.article:
+						tags.append(META({'property':'article:%s' % key, 'content':self.article[key]}).tohtml())
+			return ''.join(tags)
+		return ''
 
 
 class FlickityDocument(Document):
-	def handleMarkdown(self, contentPath):		
+	def handleMetaData(self, line):
+		key = line[1:].split(']')[0].strip()
+		value = line.split(']:- ')[1].strip()
+		if len(value) > 0:
+			if key == 'title':
+				self.opengraph.append('og:title', value)
+				self.title = value
+			elif key == 'description':
+				self.head.append(META({'name':key, 'content':value}))
+				self.opengraph.append('og:description', value)
+			elif key.find('og:') == 0 or key.find('article:') == 0:
+				if key.find('og:image') == 0:
+					if value.find('.jpeg') > 0: self.opengraph.append('og:image:type', 'image/jpeg')
+					if value.find('http:') == 0: value = value.replace('http:', 'https:')
+				self.opengraph.append(key, value)
+				if not hasattr(self.opengraph, 'og_url'):
+					self.opengraph.append('og:url', self.URL)
+				if key == 'article:published_time':
+					if 'modified_time' not in self.opengraph.article:
+						self.opengraph.append('article:modified_time', self.lastModified)
+
+	def appendCarouselText(self, lines):
+		if len(lines) > 0:
+			div = DIV({'class':'carousel-cell text', 'width':340})
+			div.append(self.formatHTML('\n'.join(lines)))
+			if self.documentURI.find('training') == 1 and div.length > 7:
+				for day in ['SUN','MON','TUE','WED','THU','FRI','SAT']:
+					h2 = '<h2>%s' % day
+					if div.innerHTML[:7] == h2:
+						div._id = day.lower()
+						if day != 'SUN':
+							div.style = 'border-left:1px solid silver;padding-left:9px;'
+						break
+			self.carousel.append(div)
+			return True
+		return False
+
+	def formatHTML(self, text):
+		if text.find('```') > 0:
+			return markdown(text)
+		lines = []
+		for line in markdown(text).split('\n'):
+			line = line.strip()
+			if len(line) > 1:
+				if line[-1] != '>': line = line + ' '
+				elif line[-2] == '/': line = line + ' '
+			lines.append(line)
+		return ''.join(lines)
+
+	def handleMarkdown(self, contentPath):
+		## Elements of this flickity themed page
 		self.masthead = Masthead()
 		self.navigation = Navigation()
 		self.carousel = Carousel()
@@ -297,105 +366,66 @@ class FlickityDocument(Document):
 		self.javascript = FlickityJS()
 		self.socialIcons = SocialIcons()
 		self.opengraph = OpenGraph()
-
-		if self.documentURI.find('pictures') > 0:
+	
+		if self.documentURI.find('training') == 1:
+			training = True
+			self.head.append('<script src="/assets/js/trainingcalendar.js"></script>');
+			self.body.onload = "javascript:fetchActiveDays(trainingweek);"
+			week = self.documentURI.split('-')[1].split('week')[0]
+			self.navigation.training = True
+			self.navigation.week = True
+	
+		elif self.documentURI.find('pictures') == 1:
 			self.javascript.flkty['initialIndex'] = 2
 
-		traininglog = False
-		if self.documentURI.find('traininglog') > 0:
-			traininglog = True
-			self.body.onload = 'javascript:scroll();'
-			week = self.documentURI.split('-')[1].split('week')[0]
-			self.navigation.traininglog = True
-			self.navigation.week = week
-				
 		with open(contentPath, 'r', encoding='utf-8') as fileobj:
-			content = fileobj.read().strip()
-		for line in content.split('\n'):
-			if line.find('[title]:- ') == 0:
-				self.title = line[10:].strip()
-				self.opengraph.title = self.title
-				break
-			if line.find('# ') == 0:
-				self.title = line.replace('#', '').strip()
-				self.opengraph.title = self.title
-				break
+			content = fileobj.readlines()
 
 		lines = []
-		for line in content.split('\n'):
-			if getattr(self, 'title', None):
-				if line.strip() in ['<!---->','<!----->']:
-					section = CarouselText('\n'.join(lines))
-					if contentPath.find('blog') > 0:
-						section.style = 'padding-left:10px;'
-					if contentPath.find('traininglog') > 1:
-						if section.innerHTML.find('<h2>SUN') == 0:
-							section._id = 'sun'
-						else:
-							for day in ['MON','TUE','WED','THU','FRI','SAT']:
-								if section.innerHTML.find('<h2>%s' % day) == 0:
-									section.style = 'border-left:3px solid #e6e6e6;padding-left:7px;'
-									section._id = day.lower()
-					self.carousel.append(section)
-					lines = []
-					if line.find('<!----->') == 0:
-						lines.append('<div style="height:27px;"></div>')
-				elif line.find('![') == 0 and line.find('x550') > 1:
-					if len(lines) > 0:
-						self.carousel.append(CarouselText('\n'.join(lines)))
-					self.carousel.append(CarouselImage(line))
-					lines = []
-				else:
-					if line.find('<!--') == 0 and line.find(': ') > 5:
-						if line.find('<!--og:') == 0:
-							property = line[7:].split(': ')[0]
-							content = line.split(': ')[1].split('-->')[0]
-							self.opengraph.append(property, content)
-							continue
-						if line.find('<!--description') == 0:
-							self.description = line.split(': ')[1].split('-->')[0].strip()
-							if not hasattr(self.opengraph, 'description'):
-								self.opengraph.append('description', self.description)
-							continue
-					lines.append(line)
+		for line in content:
+			line = line.rstrip('\r\n')
+			if line.find('<!----') == 0:
+				if self.appendCarouselText(lines): lines = []
+				if line.find('<!----->') == 0:
+					lines.append('<div style="height:27px;"></div>')
+	
+			elif line.find('x550') > 0 and line.find('![') == 0:
+				if self.appendCarouselText(lines): lines = []
+				image = CarouselImage(line)
+				if hasattr(image, 'title') and len(self.title) == 0:
+					self.title = image.title
+				self.carousel.append(image)
+
+			elif line.find(']:- ') > 3 and line[0] == '[':
+				self.handleMetaData(line)
 			else:
-				if line.find('![') == 0 and line.find('x550') > 1:
-					carouselimg = CarouselImage(line)
-					if hasattr(carouselimg, 'title'):
-						self.title = carouselimg.title
-						self.opengraph.title = self.title
-					self.carousel.append(carouselimg)
-				else:
-					self.title = line.replace('#', '').strip()
-					lines.append(line)
-		if len(lines) > 0:
-			section = CarouselText('\n'.join(lines))
-			if contentPath.find('traininglog') > 1:
-				if section.innerHTML.find('<h2>SAT') == 0:
-					section.style = 'border-left:3px solid #e6e6e6;padding-left:7px;'
-					section._id = 'sat'
-			self.carousel.append(section)
+				if len(self.title) == 0 and line.find('# ') == 0:
+					self.title = line[2:].strip()
+					if not hasattr(self.opengraph, 'og_title'):
+						self.opengraph.append('og:title', self.title)
+				lines.append(line)
+		self.appendCarouselText(lines)
+
 		firstCell = SECTION({'class':'carousel-cell text','style':'width:300px;'})
 		firstCell.append(self.navigation)
 		firstCell.append(self.socialIcons)
 		self.carousel.prepend(firstCell)
 		self.carousel.append(CarouselLast())
 
-		self.head.append(META({"http_equiv":"Content-Type","content":"text/html;charset=utf-8"}))
+		self.head.prepend(META({"name":"author","content":"Mario Stocco"}))
+		self.head.prepend(META({"name":"generator","content":"Mario Stocco"}))
+		self.head.prepend(META({"name":"copyright","content":"© 2023 Mario Stocco"}))
+		self.head.prepend(META({"name":"viewport","content":"width=device-width,initial-scale=1,user-scalable=no"}))
 		if hasattr(self, 'nocache'):
-			self.head.append(META({"http_equiv":"Pragma","content":"no-cache"}))
-			self.head.append(META({"http_equiv":"Expires","content":"-1"}))
-		else:
-			self.head.append(META({"name":"revised","content":self.lastModified}))
-		self.head.append(META({"name":"viewport","content":"width=device-width,initial-scale=1,user-scalable=no"}))
-		self.head.append(META({"name":"Author","content":"Mario Stocco"}))
-		self.head.append(META({"name":"Copyright","content":"© 2023 Mario Stocco"}))
-		if hasattr(self, 'description'):
-			self.head.append(META({'name':'Description','content':self.description}))
+			self.head.prepend(META({"http_equiv":"Expires","content":"-1"}))
+			self.head.prepend(META({"http_equiv":"Pragma","content":"no-cache"}))
+		self.head.prepend(META({"http_equiv":"Content-Type","content":"text/html;charset=utf-8"}))
+
+		self.head.append(self.opengraph)
 		self.head.append(LINK({'rel':'stylesheet','type':'text/css','media':'screen','href':'/assets/css/flickity.min.css'}))
 		self.head.append(LINK({'rel':'stylesheet','type':'text/css','media':'screen','href':'/assets/css/mstocco.css'}))
 		self.head.append(SCRIPT({"src":"/assets/js/flickity.pkgd.min.js"}))
-		
+	
 		horizon = DIV({"class":"horizon"})
 		content = DIV({"class":"content"})
 		content.append(self.masthead)

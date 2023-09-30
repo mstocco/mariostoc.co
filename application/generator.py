@@ -1,6 +1,6 @@
 import os
 import json
-from datetime import datetime
+from datetime import datetime, timezone
 from document import Document, RedirectDocument
 from innerHTML import *
 from flickity import *
@@ -10,10 +10,12 @@ class StaticSiteGenerator:
 		self.domain = domain
 		self.content = os.getcwd() + '/../content'
 		self.public = os.getcwd() + '/../docs'
-		self.now = datetime.today()
+		self.lastModified = datetime.now(timezone.utc).strftime('%Y%m%dT%H%M%SZ')
 
 	def do(self):
 		if hasattr(self, 'action'):
+			if self.action == 'testpage':
+				return self.testpage()
 			if self.action == 'clean':
 				return self.clean()
 			if self.action == 'redeploy':
@@ -21,10 +23,15 @@ class StaticSiteGenerator:
 		self.deploy()
 		return
 
-	def clean(self):
-		""" 1. Walk the content directory looking for markdown files.
-		    2. Delete files generated from a markdown file.
-		"""
+	def testpage(self):
+		document = FlickityDocument(self.domain, '', 'testpage.html')
+		document.lastModified = self.lastModified
+		document.handleMarkdown('testpage.md')
+		document.save('./')
+		print(' >>>', document.documentURI, ' mod:', document.lastModified)
+
+	def walk(self):
+		walked = []
 		for root, dirs, files in os.walk(self.content):
 			directory = '%s' % root.split(self.content)[1]
 			filenames = []
@@ -32,12 +39,20 @@ class StaticSiteGenerator:
 				if filename.find('.icloud') > 0: continue
 				if filename.split('.')[-1] == 'md': filenames.append(filename)
 			filenames.sort()
+			walked.append([root, directory, filenames])
+		return walked
+	
+	def clean(self):
+		""" 1. Walk the content directory looking for markdown files.
+		    2. Delete files generated from a markdown file.
+		"""
+		for root, directory, filenames in self.walk():
 			print('->', directory)
 			for filename in filenames:
-				document = Document(directory, filename)
+				document = Document(self.domain, directory, filename)
 				published = '%s%s' % (self.public, document.documentURI)
 				if os.path.isfile(published):
-					print(' ---', document.documentURI, '(delete todo)')
+					print(' ---', document.documentURI, '(deleted)')
 					os.remove(published)
 		return
 
@@ -48,15 +63,10 @@ class StaticSiteGenerator:
 		    4. Create new sitemap.txt and humans.txt files.
 		"""
 		modified = False
-		traininglog = False
-		for root, dirs, files in os.walk(self.content):
-			directory = '%s' % root.split(self.content)[1]
-			filenames = []
-			for filename in files:
-				if filename.find('.icloud') > 0: continue
-				if filename.split('.')[-1] == 'md': filenames.append(filename)
-			filenames.sort()
-			if directory == '/traininglog' : trainingfiles = filenames
+		training = False
+		for root, directory, filenames in self.walk():
+			if directory == '/training':
+				trainingfiles = filenames
 
 			if len(directory) > 0:
 				print('->', directory)
@@ -65,8 +75,9 @@ class StaticSiteGenerator:
 					os.mkdir('%s%s' % (self.public, directory))
 			else:
 				print('-> /')
+
 			for filename in filenames:
-				document = FlickityDocument(directory, filename)
+				document = FlickityDocument(self.domain, directory, filename)
 				published = '%s%s' % (self.public, document.documentURI)
 				if os.path.isfile(published):
 					pubtime = os.path.getmtime(published)
@@ -74,27 +85,24 @@ class StaticSiteGenerator:
 					if (modtime > pubtime):
 						## Rewrite webpage with newer content
 						modified = True
-						if directory == '/traininglog' :
-							traininglog = True
-							document.head.append('<script src="/assets/js/trainingcalendar.js"></script>');
-							document.body.onload = "javascript:fetchActiveDays(trainingweek);"
-						document.domain = self.domain
-						document.lastModified = datetime.fromtimestamp(modtime).ctime()
+						if directory == '/training' :
+							training = True
+						document.lastModified = datetime.fromtimestamp(modtime).strftime('%Y%m%dT%H%M%SZ')
 						document.handleMarkdown('%s/%s' % (root, filename))
 						document.save(self.public)
 						print(' >>>', document.documentURI, ' mod:', document.lastModified)
 				else:
 					## Create new static webpage
 					modified = True
-					if directory == '/traininglog' : traininglog = True
+					if directory == '/training' : training = True
 					document.domain = self.domain
-					document.lastModified = datetime.now().ctime()
+					document.lastModified = self.lastModified
 					document.handleMarkdown('%s/%s' % (root, filename))
 					document.save(self.public)
 					print(' +++', document.documentURI, '(new)')
 		
 		if modified:
-			if traininglog:
+			if training:
 				self.saveActiveDays(trainingfiles)
 				self.saveRedirects(trainingfiles)
 			self.saveSiteMap()
@@ -109,7 +117,7 @@ class StaticSiteGenerator:
 	def saveSiteMap(self):
 		sitemap = []
 		for root, dirs, files in os.walk(self.public, topdown=True):
-			for hidden in ['assets','pictures']:
+			for hidden in ['assets','pictures','traininglog','racereports']:
 				if hidden in dirs: dirs.remove(hidden)
 			dirs = dirs.sort()
 
@@ -124,6 +132,7 @@ class StaticSiteGenerator:
 				if filename.find('.htm') > 0: continue
 				if filename.find('.ico') > 0: continue
 				if filename.find('.jso') > 0: continue
+				if filename in ['latest','previous']: continue
 				urls.append('https://%s%s/%s' % (self.domain, directory, filename))
 			
 			urls.sort()
@@ -144,7 +153,7 @@ class StaticSiteGenerator:
 		humans.append('  Location: Victoria, BC, Canada')
 		humans.append('')
 		humans.append('/* SITE */')
-		humans.append('  Last update: %s' % self.now.strftime('%Y/%m/%d'))
+		humans.append('  Last update: %s' % self.lastModified)
 		humans.append('  Language: English')
 		humans.append('  Doctype: HTML5')
 		humans.append('  Content Management: git')
@@ -167,7 +176,7 @@ class StaticSiteGenerator:
 			if yyyy < 2024 and filename.find('triathlon') == -1: continue
 
 			weekday = False
-			with open('%s/traininglog/%s' % (self.content, filename), 'r', encoding="utf-8") as logfile:
+			with open('%s/training/%s' % (self.content, filename), 'r', encoding="utf-8") as logfile:
 				lines = logfile.readlines()
 			for line in lines:
 				line = line.strip()
@@ -191,17 +200,14 @@ class StaticSiteGenerator:
 		return
 
 	def saveRedirects(self, filenames):
-		today = int(self.now.strftime('%Y%m%d'))
+		today = int(self.lastModified[:8])
 		for index in range(len(filenames)):
 			if int(filenames[index][:8]) > today: break
 	
-		for name, delta in (('latest',0), ('prevoius',1)):
-			document = RedirectDocument('/traininglog', name)
+		for name, delta in (('latest',0), ('previous',1)):
+			document = RedirectDocument(self.domain, '/training', name)
 			document.title = '%s Training Week' % name.capitalize()
 			document.url = filenames[(index - delta)][9:].split('.md')[0]
-			if delta == 0:
-				if ((index + 1) <  len(filenames)):
-					document.url += '?%s' % self.now.strftime('%a').lower()
 			document.save(self.public)
 			print(' >>> %s  %s' % (document.documentURI, document.url))
 		return

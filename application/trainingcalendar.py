@@ -97,9 +97,10 @@ class CalendarDocument(Document):
 		self.head.append(META({"http_equiv":"Pragma","content":"no-cache"}))
 		self.head.append(META({"http_equiv":"Expires","content":"-1"}))
 		self.head.append(META({"name":"viewport","content":"width=device-width,initial-scale=1,user-scalable=no"}))
-		self.head.append(META({"name":"Author","content":"Mario Stocco"}))
-		self.head.append(META({"name":"Copyright","content":"© 2023 Mario Stocco"}))
-		self.head.append(META({'name':'Description','content':self.description}))
+		self.head.append(META({"name":"author","content":"Mario Stocco"}))
+		self.head.append(META({"name":"copyright","content":"© 2023 Mario Stocco"}))
+		self.head.append(META({'name':'description','content':self.description}))
+		self.head.append(META({'name':'generator','content':'An iPad Pro and a bit of Python'}))
 		self.head.append(LINK({'rel':'stylesheet','type':'text/css','media':'screen','href':'/assets/css/flickity.min.css'}))
 		self.head.append(LINK({'rel':'stylesheet','type':'text/css','media':'screen','href':'/assets/css/mstocco.css'}))
 		self.head.append(SCRIPT({"src":"/assets/js/flickity.pkgd.min.js"}))
@@ -184,7 +185,7 @@ if __name__ == "__main__":
 	racefile = os.popen('cat ../docs/assets/racedates.json', 'r')
 	races = json.load(racefile, object_hook=decodeRaceDate)['races']
 
-	calendar = CalendarDocument("/traininglog", "calendar")
+	calendar = CalendarDocument('mariostoc.co', '/training', 'calendar')
 	calendar.handleMarkdown(mdown, races)
 	calendar.save('../docs')
 	print('done.')

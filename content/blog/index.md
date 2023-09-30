@@ -1,6 +1,5 @@
-<!--
-# Things I've Written
--->
+[title]:- Things I've Written
+[description]:- Things I've written.
 
 ## Obituary for Joseph Stocco
 <p class="timestamp">Thu Aug 14 2020</p>
