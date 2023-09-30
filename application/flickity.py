@@ -333,6 +333,14 @@ class FlickityDocument(Document):
 		if len(lines) > 0:
 			div = DIV({'class':'carousel-cell text', 'width':340})
 			div.append(self.formatHTML('\n'.join(lines)))
+			if self.documentURI.find('training') == 1 and div.length > 7:
+				for day in ['SUN','MON','TUE','WED','THU','FRI','SAT']:
+					h2 = '<h2>%s' % day
+					if div.innerHTML[:7] == h2:
+						div._id = day.lower()
+						if day != 'SUN':
+							div.style = 'border-left:1px solid silver;padding-left:9px;'
+						break
 			self.carousel.append(div)
 			return True
 		return False
@@ -394,12 +402,6 @@ class FlickityDocument(Document):
 					self.title = line[2:].strip()
 					if not hasattr(self.opengraph, 'og_title'):
 						self.opengraph.append('og:title', self.title)
-				if contentPath.find('training') == 1:
-					for day in ['SUN','MON','TUE','WED','THU','FRI','SAT']:
-						if line.find('## %s' % day) == 0:
-							div._id = day.lower()
-							if day != 'SUN': div.style = 'border-left:2px solid #e6e6e6;padding-left:8px;'
-							break
 				lines.append(line)
 		self.appendCarouselText(lines)
 
