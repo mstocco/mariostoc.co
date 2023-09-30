@@ -331,18 +331,20 @@ class FlickityDocument(Document):
 
 	def appendCarouselText(self, lines):
 		if len(lines) > 0:
-			div = DIV({'class':'carousel-cell text', 'width':340})
-			div.append(self.formatHTML('\n'.join(lines)))
-			if self.documentURI.find('training') == 1 and div.length > 7:
-				for day in ['SUN','MON','TUE','WED','THU','FRI','SAT']:
-					h2 = '<h2>%s' % day
-					if div.innerHTML[:7] == h2:
-						div._id = day.lower()
-						if day != 'SUN':
-							div.style = 'border-left:1px solid silver;padding-left:9px;'
-						break
-			self.carousel.append(div)
-			return True
+			html = self.formatHTML('\n'.join(lines))
+			if len(html.strip()) > 0:
+				div = DIV({'class':'carousel-cell text', 'width':340})
+				div.innerHTML = html
+				if self.documentURI.find('training') == 1 and div.length > 7:
+					for day in ['SUN','MON','TUE','WED','THU','FRI','SAT']:
+						h2 = '<h2>%s' % day
+						if div.innerHTML[:7] == h2:
+							div._id = day.lower()
+							if day != 'SUN':
+								div.style = 'border-left:1px solid silver;padding-left:9px;'
+							break
+				self.carousel.append(div)
+				return True
 		return False
 
 	def formatHTML(self, text):
@@ -355,7 +357,9 @@ class FlickityDocument(Document):
 				if line[-1] != '>': line = line + ' '
 				elif line[-2] == '/': line = line + ' '
 			lines.append(line)
-		return ''.join(lines)
+		html = ''.join(lines)
+		if html == '<p></p>': return ''
+		return html
 
 	def handleMarkdown(self, contentPath):
 		## Elements of this flickity themed page
