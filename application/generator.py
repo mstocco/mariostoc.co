@@ -117,7 +117,7 @@ class StaticSiteGenerator:
 	def saveSiteMap(self):
 		sitemap = []
 		for root, dirs, files in os.walk(self.public, topdown=True):
-			for hidden in ['assets','pictures']:
+			for hidden in ['assets','pictures','traininglog','racereports']:
 				if hidden in dirs: dirs.remove(hidden)
 			dirs = dirs.sort()
 
@@ -132,6 +132,7 @@ class StaticSiteGenerator:
 				if filename.find('.htm') > 0: continue
 				if filename.find('.ico') > 0: continue
 				if filename.find('.jso') > 0: continue
+				if filename in ['latest','previous']: continue
 				urls.append('https://%s%s/%s' % (self.domain, directory, filename))
 			
 			urls.sort()
@@ -203,7 +204,7 @@ class StaticSiteGenerator:
 		for index in range(len(filenames)):
 			if int(filenames[index][:8]) > today: break
 	
-		for name, delta in (('latest',0), ('prevoius',1)):
+		for name, delta in (('latest',0), ('previous',1)):
 			document = RedirectDocument(self.domain, '/training', name)
 			document.title = '%s Training Week' % name.capitalize()
 			document.url = filenames[(index - delta)][9:].split('.md')[0]
