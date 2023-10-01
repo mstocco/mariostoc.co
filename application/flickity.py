@@ -333,6 +333,10 @@ class FlickityDocument(Document):
 		if len(lines) > 0:
 			html = self.formatHTML('\n'.join(lines))
 			if len(html.strip()) > 0:
+				if html.find('<div class="carousel') == 0:
+					self.carousel.append(html)
+					return True
+
 				div = DIV({'class':'carousel-cell text', 'width':340})
 				div.innerHTML = html
 				if self.documentURI.find('training') == 1 and div.length > 7:
