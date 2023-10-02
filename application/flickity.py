@@ -332,20 +332,25 @@ class FlickityDocument(Document):
 	def appendCarouselText(self, lines):
 		if len(lines) > 0:
 			html = self.formatHTML('\n'.join(lines))
-			if len(html.strip()) > 0:
+			stripped = html.strip()
+
+			if len(stripped) > 0:
 				if html.find('<div class="carousel') == 0:
-					self.carousel.append(html)
+					## Flickity specific HTML found in markdown
+					self.carousel.append(stripped)
 					return True
 
+				## Create a new Carousel Text Cell
 				div = DIV({'class':'carousel-cell text', 'width':340})
 				div.innerHTML = html
-				if self.documentURI.find('training') == 1 and div.length > 7:
-					for day in ['SUN','MON','TUE','WED','THU','FRI','SAT']:
-						h2 = '<h2>%s' % day
-						if div.innerHTML[:7] == h2:
-							div._id = day.lower()
-							if day != 'SUN':
-								div.style = 'border-left:1px solid silver;padding-left:9px;'
+				if self.documentURI.find('training'):
+					## Calendar Week ID and Border Left
+					headers = ['<h2>SUN','<h2>MON','<h2>TUE','<h2>WED','<h2>THU','<h2>FRI','<h2>SAT']
+					for h2 in headers:
+						if stripped.find(h2) == 0:
+							div._id = h2[4:].lower()
+							if headers.index(h2) > 0:
+								div.style = 'border-left:1px solid gainsboro;padding-left:9px;'
 							break
 				self.carousel.append(div)
 				return True
@@ -377,7 +382,7 @@ class FlickityDocument(Document):
 	
 		if self.documentURI.find('training') == 1:
 			training = True
-			self.head.append('<script src="/assets/js/trainingcalendar.js"></script>');
+			self.head.append('<script src="/assets/js/trainingcalendar.js?v2"></script>');
 			self.body.onload = "javascript:fetchActiveDays(trainingweek);"
 			week = self.documentURI.split('-')[1].split('week')[0]
 			self.navigation.training = True

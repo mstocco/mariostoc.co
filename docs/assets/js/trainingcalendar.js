@@ -21,7 +21,6 @@ function trainingweek(data) {
 			var elmt = document.getElementById(id);
 			if (elmt) elmt.style.background = '#ddf3ff';
 		} catch(err) {
-			alert(err);
 			return;
 		}
 		index++;
@@ -43,7 +42,7 @@ function fullcalendar(data) {
 }
 
 function cellClick(w,d) {
-	var url = '/traininglog/triathlon2024-' + w + 'weeksout?' + d;
+	var url = '/training/2024-' + w + '-weeks-out?' + d;
 	window.location.assign(url);
 	return;
 }
