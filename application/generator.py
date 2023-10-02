@@ -170,11 +170,16 @@ class StaticSiteGenerator:
 		return
 
 	def saveActiveDays(self, filenames):
+		"""	Run through the current markdown files of the 
+			current training year, looking for Day/Time 
+			entries.  Write the totals to a JSON file. 
+		"""
 		active = {'totaldays':0, 'activedays':[], 'offdays':[]}
 		for filename in filenames:
+			yyyymm = int(filename[:6])
+			if yyyymm < 202310: continue
+		
 			yyyy = int(filename[:4])
-			if yyyy < 2024 and filename.find('triathlon') == -1: continue
-
 			weekday = False
 			with open('%s/training/%s' % (self.content, filename), 'r', encoding="utf-8") as logfile:
 				lines = logfile.readlines()
@@ -192,6 +197,8 @@ class StaticSiteGenerator:
 			start = datetime.strptime(str(active['activedays'][0]), '%Y%m%d')
 			last = datetime.strptime(str(active['activedays'][-1]), '%Y%m%d')
 			active['totaldays'] = (last - start).days
+			if active['totaldays'] < len(active['activedays']):
+				active['totaldays'] = len(active['activedays'])
 
 		print(' >>> /assets/activedays.json  activedays: %d' % len(active['activedays']))
 		fileobj = open('%s/assets/activedays.json' % self.public, 'w', encoding="utf-8")
