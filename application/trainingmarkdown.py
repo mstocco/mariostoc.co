@@ -24,6 +24,7 @@ class MarkdownFile:
 		if weeksout < 1:  self.filename = '%s-2024-season-end.md' % prefix
 
 		## Calendars (appended near the end of the file)
+		##
 		month1 = HTMLCalendar()
 		month2 = HTMLCalendar()
 		if thisdate.month == 10:
@@ -43,17 +44,12 @@ class MarkdownFile:
 				month2.build(thisdate, thisdate, races)
 
 
-
-
-
+		## Build some descriptive content
+		##
 		abdyyyy = '%s %d, %d' % (thisdate.strftime('%A, %B'), thisdate.day, thisdate.year)
 		ogdesc = 'My triathlon training week beginning %s.' % abdyyyy
-
-
-
 		upnext = []
 		daysout = (thisrace["racedate"] - thisdate).days
-		#print(self.filename, '\tthis: %s %s' % (thisrace['racedate'], thisrace['race']), '\tnext: %s %s' % (nextrace['racedate'], nextrace['race']))
 		title = '%d %s Training' % (lastrace['racedate'].year, thisrace['race'])
 		if daysout < 22:
 			if daysout == 0:
@@ -75,17 +71,16 @@ class MarkdownFile:
 			ogdesc = '%s %d weeks until %s.' % (ogdesc, nextweeks, nextrace['race'])
 			
 
-
+		## Start building the Markdown, line by line
+		##
 		lines = []
-		lines.append('[title]:- %s' % title)
+		lines.append('[title]:- %s - Week %d' % (title, weeksout))
 		lines.append('[description]:- Triathlon training week beginning %s' % abdyyyy)
-		lines.append('[og:image]:: https://mariostocco/assets/og/training-triathlon-2024-week-%d' % weeksout)
-		lines.append('[og:description]:- %s.' % (ogdesc))
+		lines.append('[og:image]:: https://mariostocco/assets/og/training-2024-%d-weeks-out.jpeg' % weeksout)
+		lines.append('[og:description]:- %s' % (ogdesc))
 		lines.append('[article:published_time]:- 20230930T235959Z')
-		lines.append('[article:section]:- triathlon training 2024')
+		lines.append('[article:section]:- 2024 Training')
 		lines.append('\n\n')
-
-
 		
 		if weeksout == 1:
 			lines.append('# %d %s RACEWEEK' % (thisrace['racedate'].year, thisrace['race'].upper()))
@@ -138,13 +133,12 @@ class MarkdownFile:
 		lines.append("#### MISCELLANEOUS STUFF")
 		lines.append('&mdash;\n\n')
 
-		##print(self.filename)
+		## Save the Markdown
+		##
 		fileobj = open('../content/training/%s' % self.filename, 'w', encoding="utf-8")
 		fileobj.write('\n'.join(lines))
 		fileobj.close()
-
 		return
-		print("\n".join(lines))
 
 
 def main():
