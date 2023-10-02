@@ -19,7 +19,7 @@ function trainingweek(data) {
 		var id = 'c' + data.activedays[index];
 		try {
 			var elmt = document.getElementById(id);
-			if (elmt) elmt.style.background = '#ddf3ff';
+			if (elmt) elmt.style.background = '#c9e6ff';
 		} catch(err) {
 			return;
 		}
