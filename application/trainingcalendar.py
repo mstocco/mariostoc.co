@@ -44,7 +44,7 @@ class HTMLCalendar(DIV):
 				td.onclick = "javascript:cellClick(%d,'%s');" % (weeknum, md.strftime('%a').lower())
 				if currentWeek:
 					td.onclick = "javascript:flick('%s');" % md.strftime("%a").lower()
-					td.style = "background-color:#fefdba;"
+					td.style = "background-color:aliceblue;"
 			else:
 				if md != races[0]["racedate"]:
 					td.style = "color:#dddddd;"
