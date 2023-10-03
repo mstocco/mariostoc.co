@@ -209,9 +209,10 @@ class StaticSiteGenerator:
 	def saveRedirects(self, filenames):
 		today = int(self.lastModified[:8])
 		for index in range(len(filenames)):
-			if int(filenames[index][:8]) > today: break
+			if int(filenames[index][:8]) > today:
+				break
 	
-		for name, delta in (('latest',0), ('previous',1)):
+		for name, delta in (('latest',1), ('previous',2)):
 			document = RedirectDocument(self.domain, '/training', name)
 			document.title = '%s Training Week' % name.capitalize()
 			document.url = filenames[(index - delta)][9:].split('.md')[0]
