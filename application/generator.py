@@ -7,6 +7,7 @@ from flickity import *
 
 class StaticSiteGenerator:
 	def __init__(self, domain):
+		os.chdir('/home/mstocco/mariostoc.co/application')
 		self.domain = domain
 		self.content = os.getcwd() + '/../content'
 		self.public = os.getcwd() + '/../docs'
