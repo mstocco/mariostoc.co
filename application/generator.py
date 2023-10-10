@@ -196,7 +196,7 @@ class StaticSiteGenerator:
 						active['activedays'].append(int(dateobj.strftime("%Y%m%d")))
 		if len(active['activedays']) > 0:
 			start = datetime.strptime(str(active['activedays'][0]), '%Y%m%d')
-			last = datetime.strptime(str(active['activedays'][-1]), '%Y%m%d')
+			last = datetime.strptime(self.lastModified[:8], '%Y%m%d')
 			active['totaldays'] = (last - start).days
 			if active['totaldays'] < len(active['activedays']):
 				active['totaldays'] = len(active['activedays'])
