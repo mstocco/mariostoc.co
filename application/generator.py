@@ -212,11 +212,14 @@ class StaticSiteGenerator:
 		for index in range(len(filenames)):
 			if int(filenames[index][:8]) > today:
 				break
-	
+
 		for name, delta in (('latest',1), ('previous',2)):
 			document = RedirectDocument(self.domain, '/training', name)
 			document.title = '%s Training Week' % name.capitalize()
 			document.url = filenames[(index - delta)][9:].split('.md')[0]
+			if delta == 1:
+				qstring = '?%s' % datetime.now().strftime('%a').lower()
+				document.url += qstring
 			document.save(self.public)
 			print(' >>> %s  %s' % (document.documentURI, document.url))
 		return
