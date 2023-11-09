@@ -250,7 +250,7 @@ class FlickityJS(SCRIPT):
 		self.append(" freeScroll:true")
 		self.append("});")
 		self.append("function toggle(){if(flkty.selectedIndex>0){flkty.select(0);}else{flkty.select(1);}};")
-		self.append("function flick(id){for(i=0;i < flkty.cells.length; i++){if(flkty.cells[i]['element']['id'] == id){flkty.select(i);break;};};};")
+		self.append("function flick(id){for(i=0;i < flkty.cells.length; i++){if(flkty.cells[i]['element']['id'] == id){flkty.select(i);return;};};flkty.select(1);};")
 		self.append("function scroll(){var id=window.location.search.substr(1).split('=')[0];if(id){flick(id);};};")
 		return HTML5Tag.tohtml(self)
 
