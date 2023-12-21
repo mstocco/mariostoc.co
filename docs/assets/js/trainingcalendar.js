@@ -25,6 +25,22 @@ function trainingweek(data) {
 		}
 		index++;
 	}
+	index = 0;
+	while (index < data.offdays.length) {
+		var id = 'c' + data.offdays[index];
+		try {
+			var elmt = document.getElementById(id);
+			if (elmt) {
+				if (elmt.style.background != '#c9e6ff') {
+					elmt.style.textDecoration = 'line-through';
+				}
+				elmt.style.background = '#ffeef7';
+			}
+		} catch(err) {
+			return;
+		}
+		index++;
+	}
 	scroll();
 	return;
 }

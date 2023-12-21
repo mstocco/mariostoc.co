@@ -176,6 +176,11 @@ class StaticSiteGenerator:
 			entries.  Write the totals to a JSON file. 
 		"""
 		active = {'totaldays':0, 'activedays':[], 'offdays':[]}
+
+		offdays = '%s/assets/offdays.json' % self.public
+		if os.path.isfile(offdays):
+			active['offdays'] = json.load(os.popen('cat %s' % offdays, 'r'))['offdays']
+
 		for filename in filenames:
 			yyyymm = int(filename[:6])
 			if yyyymm < 202310: continue
