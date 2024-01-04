@@ -194,6 +194,7 @@ class StaticSiteGenerator:
 				for day in ['SUN','MON','TUE','WED','THU','FRI','SAT']:
 					if line.find('## %s' % day) == 0:
 						weekday = True
+						if yyyy == 2023 and line.find('JAN') > 0: yyyy = 2024
 						datestr = '%s-%s' % (yyyy, '-'.join(line.split(' ')[2:4]))
 				if weekday and line.find('Time: **') > -1:
 					if line.find('Time: **0') == -1:
