@@ -98,7 +98,7 @@ class CalendarDocument(Document):
 		self.head.append(META({"http_equiv":"Expires","content":"-1"}))
 		self.head.append(META({"name":"viewport","content":"width=device-width,initial-scale=1,user-scalable=no"}))
 		self.head.append(META({"name":"author","content":"Mario Stocco"}))
-		self.head.append(META({"name":"copyright","content":"© 2023 Mario Stocco"}))
+		self.head.append(META({"name":"copyright","content":"© 2024 Mario Stocco"}))
 		self.head.append(META({'name':'description','content':self.description}))
 		self.head.append(META({'name':'generator','content':'An iPad Pro and a bit of Python'}))
 		self.head.append(LINK({'rel':'stylesheet','type':'text/css','media':'screen','href':'/assets/css/flickity.min.css'}))
