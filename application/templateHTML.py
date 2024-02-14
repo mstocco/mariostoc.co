@@ -132,7 +132,7 @@ class Navigation(NAV):
 	"""
 	def __init__(self):
 		self.links = []
-		self.links.append({'href':'/traininglog/', 'label':'TRAINING LOG'})
+		self.links.append({'href':'/training/', 'label':'TRAINING LOG'})
 		self.links.append({'href':'/racereports/', 'label':'RACE REPORTS'})
 		self.links.append({'href':'/blog/', 'label':'THINGS I\'VE WRITTEN'})
 		self.links.append({'href':'/pictures/', 'label':'PICTURES I\'VE TAKEN'})

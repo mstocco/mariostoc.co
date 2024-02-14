@@ -9,7 +9,7 @@ I am currently employed as a Systems Architect at _Distributel, a division of Be
 
 Before _Distributel_, I spent well over a decade as a contractor for hire, building custom tele-<wbr />communication solutions for customers from Florida to California and all across Canada.
 
-In my free time, I can be found _running, biking, swimming_ and then documenting it all [here](/traininglog/).
+In my free time, I can be found _running, biking, swimming_ and then documenting it all [here](/training/).
 
 <p style="margin-top:68px;font-size:0.82em;font-weight:bold;">&#9667; SWIPE HORIZONTALLY &#9657;</p>
 
