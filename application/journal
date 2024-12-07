@@ -1,0 +1,285 @@
+#!/usr/bin/python3
+from datetime import date, timedelta
+from time import time
+import argparse
+import os
+
+
+class MarkdownFile:
+	def __init__(self, filename):
+		self.filename = filename
+		self.lines = []
+		index = 0
+		with open(filename, "r") as fileobj:    
+			for line in fileobj.read().splitlines():
+				if len(line) > 2 and line[-2:] == '  ':
+					line = line.rstrip() + '  '
+				else:
+					line = line.rstrip()
+				self.lines.append({'index':index, 'line':line, 'edit':False})
+				index = (index + 1)
+
+	def editLine(self, d):
+		for line in self.lines:
+			if line['line'].find(d) == 0:
+				line['edit'] = True
+				return line['line']
+		raise SystemExit('Line not found.\n')
+
+	def editBlock(self, d1, d2, d3):
+		index = 0
+		block = []
+		for line in self.lines:
+			if index > 0:
+				if index > 1:
+					if line['line'].find(d3) == 0: break
+					block.append(line['line'])
+					line['edit'] = True
+				elif line['line'].find(d2) == 0:
+					print(line['line'])
+					index = 2
+			elif line['line'].find(d1) == 0:
+				if d1 == d2: index = 1
+				index = (index + 1)
+				print(line['line'])
+
+		for line in block:
+			print(line)
+		print(''.ljust(40, '_'))
+		return block
+
+	def save(self, block):
+		edit = []
+		insert = False
+		for line in self.lines:
+			if line['edit']:
+				if insert: continue
+				for newline in block:
+					edit.append(newline)
+					print('>', newline)
+				insert = True
+			else:
+				edit.append(line['line'])
+
+		with open(self.filename, "w") as fileobj:
+			fileobj.write('\n'.join(edit))
+		return
+
+
+class JournalEntry:
+	def __init__(self):
+		self.today = date.fromtimestamp(time())
+
+	def getMarkdownFile(self):
+		sunday = self.today
+		weekday = self.today.isoweekday()
+		if weekday < 7:
+			sunday = self.today - timedelta(days=weekday)
+		prefix = sunday.strftime('%Y%m%d')
+		directory = '/home/mstocco/mariostoc.co/content/training/'
+		for filename in os.listdir(directory):
+			if filename.find(prefix) == 0:
+				print('edit:', filename)
+				fullpath = directory + filename
+				return MarkdownFile(fullpath)
+		raise SystemExit('Markdown file not found.\n')
+	
+	def getMultiline(self, lines):
+		print(''.ljust(40,'_'))
+		print('Enter/Paste content. Ctrl-D or :w to save.')
+		while True:
+			try:
+				line = input()
+				print('')
+				if line.find(':w') == 0:
+					break
+			except EOFError:
+				break
+			if len(line) > 2 and line[-2:] == '  ':
+				lines.append(line.rstrip() + '  ')
+			else:
+				line = line.rstrip()
+				if len(line) == 0:
+					if len(lines[-1]) == 0:
+						continue
+				lines.append(line)
+				if line.find('<!----') == -1:
+					lines.append('')
+		return lines
+
+
+	def getMorningNumbers(self, d1, d2, d3):
+		block = self.markdown.editBlock(d1, d2, d3)
+		morning = []
+		print('Rate on a scale 1-7  1=best 7=worst  +5 is a warning')
+		for key in ['Sleep','Fatigue','Stress','Soreness']:
+			value = int(input('%s: ' % key)[0])
+			morning.append('%s **%d**' % (key, value))
+		lines = ['%s' % ' | '.join(morning)]
+		lines.append('<sup><br />Rate on a scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>')
+		lines.append('')
+		return self.markdown.save(lines)
+
+	def edit(self):
+		if self.yesterday:
+			self.today = self.today - timedelta(days=1)
+		elif self.date:
+			yyyy, mm, dd = self.date.split('-')
+			self.today = date(int(yyyy), int(mm), int(dd))
+		self.markdown = self.getMarkdownFile()
+		
+		if self.section == 'focus': return self.editSingleLine('# ', '### CURRENT FOCUS', '### SUMMARY')
+		if self.section == 'summary': return self.editSummary()
+		if self.section == 'image': return self.editImageText()
+
+		else:
+			d1 = '## %s %d' % (self.today.strftime('%A %b').upper(), self.today.day)
+			d2 = '### WORKOUT'
+			d3 = '<!---->'
+			if self.section == 'morning': return self.editMorningNumbers(d1)
+			if self.section == 'notes': return self.editNotes(d1)	
+			if self.section == 'workout': d3 = '### NOTES'
+			block = self.markdown.editBlock(d1, d2, d3)
+			print('%s\n...\n%s' % (d1, d2))
+			for line in block:
+				print(line)
+			if self.append:
+				lines = self.getMultiline(block)
+			else:
+				lines = self.getMultiline([])
+			self.markdown.save(lines)
+			return
+		print('done.\n')
+		return
+
+	def editSingleLine(self, d1, d2, d3):
+		block = self.markdown.editBlock(d1, d2, d3)
+		print(d2)
+		for line in block:
+			print(line)
+		print('')
+		line = input('newline > ')
+		self.markdown.save([line.strip(), ''])
+	
+	def editMultiline(self, lines, d3=''):
+		print('Enter/Paste content. Ctrl-D or :w to save.')
+		while True:
+			try:
+				line = input()
+				print('')
+				if line.find(':w') == 0:
+					break
+			except EOFError:
+				break
+			if len(line) > 2 and line[-2:] == '  ':
+				lines.append(line.rstrip() + '  ')
+			else:
+				lines.append(line.rstrip())
+				if line.find('<!----') == -1: lines.append('')
+		if d3.find('## ') == 0: lines.append('<!---->')
+		self.markdown.save(lines)
+	
+	def editMorningNumbers(self, d1):
+		block = self.markdown.editBlock(d1, d1, '<sup>')
+		morning = []
+		print('Rate on a scale 1-7  1=best 7=worst  +5 is a warning')
+		for key in ['Sleep','Fatigue','Stress','Soreness']:
+			value = int(input('%s: ' % key)[0])
+			morning.append('%s **%d**' % (key, value))
+		return self.markdown.save(['%s' % ' | '.join(morning)])
+	
+	def getNumber(self, phrase, attempt=1):
+		try:
+			value = input('%s: ' % phrase).strip()
+			if len(value) == 0: return ''
+			float(value)
+		except:
+			if attempt > 1: return ''
+			print('need a number\n')
+			return self.getNumber(phrase, 2)
+		return value
+	
+	def getDistance(self, phrase):
+		distance = self.getNumber(phrase)
+		if len(distance) > 0:
+			metric = ' km'
+			if float(distance) > 200.0: metric = ' m'
+		return distance + metric
+
+	def editNotes(self, d1):
+		block = self.markdown.editBlock(d1, '### NOTES', '<!---->')
+		notes = []
+		if self.append:
+			print('%s\n...\n### NOTES' % d1)
+			for line in block:
+				print(line)
+		else:
+			block.clear()
+			mins = self.getNumber('time in mins')
+			if len(mins) > 0:
+				distance = self.getDistance('distance')
+				if len(distance) == 0:
+					watts = self.getNumber('normalized power')
+					if len(watts) == 0:
+						effort = input('effort: ').strip()
+						if len(effort) == 0:
+							notes.append('Training Time: **%s minutes**' % mins)
+						else:
+							notes.append('Time: **%s mins** &nbsp; Effort: **%s**' % (mins, effort.lower()))
+					else:
+						notes.append('Time: **%s mins** &nbsp;Normalized Power: **%s W**' % (mins, watts))
+				else:
+					notes.append('Time: **%s mins** &nbsp; Distance: **%s**' % (mins, distance.lower()))
+				notes.append('')
+		notes.extend(self.getMultiline(block))
+		self.markdown.save(notes)
+		return
+		
+		for line in notes:
+			print('+', line)
+		if d3.find('## ') == 0: lines.append('<!---->')
+		print(d1, d2, d3)
+
+	def editSummary(self):
+		#self.getMultiline('# ','### SUMMARY', '![')
+		if not self.append:
+			hours = input('Training Time in hours: ').strip()
+			felt = input('Felt like you were: ').strip()
+			if len(felt) > 0:
+				if len(hours) > 0:
+					lines.append('Total time: **%s hours**  ' % hours)
+					lines.append('I felt like I was **%s**' % felt.upper())
+				elif len(hours) > 0:
+					lines.append('Training time: **%s&thinsp;hours**' % hours)
+			if len(hours) > 0: lines.append('')
+	
+
+	def editImageText(self):
+		line = self.markdown.editLine('![')
+		img = {}
+		img['path'] = line.split('(')[1].split(' ')[0]
+		img['title'] = line.split(img['path'])[1].split(')')[0]
+		img['alt'] = line.split('[')[1].split(']')[0]
+		for key, val in img.items():
+			print('%s:\t%s' % (key, val))
+		print(''.ljust(40,'_'))		
+		for key in img.keys():
+			val = input('%s> ' % key)
+			if len(val) == 0:
+				val = img[key]
+			else:
+				img[key] = val.strip()
+		if img['path'].find('/') == -1:
+			if img['path'].find('.jpeg') > 0:
+				img['path'] = '/assets/jpg/%s' % img['path']
+		image = '![%s](%s %s)' % (img['alt'], img['path'], img['title'])
+		return self.markdown.save([image])
+
+entry = JournalEntry()
+parser = argparse.ArgumentParser()
+parser.add_argument('--yesterday', action='store_true')
+parser.add_argument('--date', type=str, help='YYYY-MM-DD')
+parser.add_argument('--append', action='store_true')
+parser.add_argument('section', type=str, choices=['morning','workout','notes','focus','summary','image','day'])
+args = parser.parse_args(namespace=entry)
+entry.edit()
