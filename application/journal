@@ -234,25 +234,27 @@ class JournalEntry:
 		notes.extend(self.getMultiline(block))
 		self.markdown.save(notes)
 		return
-		
-		for line in notes:
-			print('+', line)
-		if d3.find('## ') == 0: lines.append('<!---->')
-		print(d1, d2, d3)
 
 	def editSummary(self):
-		#self.getMultiline('# ','### SUMMARY', '![')
-		if not self.append:
-			hours = input('Training Time in hours: ').strip()
-			felt = input('Felt like you were: ').strip()
-			if len(felt) > 0:
-				if len(hours) > 0:
-					lines.append('Total time: **%s hours**  ' % hours)
-					lines.append('I felt like I was **%s**' % felt.upper())
-				elif len(hours) > 0:
-					lines.append('Training time: **%s&thinsp;hours**' % hours)
-			if len(hours) > 0: lines.append('')
-	
+		block= self.markdown.editBlock('#', '### SUMMARY', '![')
+		summary = []
+		if self.append:
+			print('### NOTES')
+			for line in block:
+				print(line)
+		else:
+			block.clear()
+			hours = self.getNumber('training hours')
+			tldr = input('this week tldr: ').strip()
+			if len(tldr) > 0:
+				if len(hours) > 0: summary.append('Total time: **%s hours**  ' % hours)
+				summary.append('I felt like I was **%s**' % tldr.upper())
+			elif len(hours) > 0:
+				summary.append('Training time: **%s hours**' % hours)
+			if len(summary) > 0: summary.append('')
+		summary.extend(self.getMultiline(block))
+		self.markdown.save(summary)
+		return
 
 	def editImageText(self):
 		line = self.markdown.editLine('![')
