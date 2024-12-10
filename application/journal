@@ -230,7 +230,13 @@ class JournalEntry:
 						notes.append('Time: **%s mins** &nbsp;Normalized Power: **%s W**' % (mins, watts))
 				else:
 					notes.append('Time: **%s mins** &nbsp; Distance: **%s**' % (mins, distance.lower()))
-				notes.append('')
+			temp = self.getNumber('temperature')
+			if len(temp) > 0:
+				conditions = input('conditions: ').strip()
+				if len(conditions) > 0:
+					if len(notes) == 1: notes[0] = notes[0] + '  '
+					notes.append('Weather: **%s°C** %s' % (temp, conditions))
+			if len(notes) > 0: notes.append('')
 		notes.extend(self.getMultiline(block))
 		self.markdown.save(notes)
 		return

@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# coding: utf-8
 
 from trainingcalendar import HTMLCalendar
 from datetime import timedelta, datetime, date
@@ -128,6 +129,7 @@ class MarkdownFile:
 		lines.append('\n\n---\n\n')
 		lines.append(month1.tohtml())
 		lines.append(month2.tohtml())
+		lines.append('<script>var yyyy=%d;</script>' % lastrace['racedate'].year)
 
 		## Save the Markdown
 		fileobj = open('../content/training/%s' % self.filename, 'w', encoding="utf-8")
@@ -139,6 +141,7 @@ class MarkdownFile:
 def main():
 	racefile = os.popen('cat ../docs/assets/racedates-2025.json', 'r')
 	races = json.load(racefile, object_hook=decodeRaceDate)['races']
+	
 	lastrace = races[0]
 	nextrace = races[0]
 	thisrace = races[0]

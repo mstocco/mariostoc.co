@@ -78,7 +78,6 @@ class HTMLCalendar(DIV):
 			weekdate = (weekdate - delta)
 		return weeknum
 
-
 class CalendarDocument(Document):
 	""" A Flickity web page displays all the months of a training cycle.
 	"""
@@ -105,7 +104,7 @@ class CalendarDocument(Document):
 		self.head.append(LINK({'rel':'stylesheet','type':'text/css','media':'screen','href':'/assets/css/mstocco.css'}))
 		self.head.append(SCRIPT({"src":"/assets/js/flickity.pkgd.min.js"}))
 		self.head.append(SCRIPT({"src":"/assets/js/trainingcalendar.js"}))
-
+		self.head.append(SCRIPT('var yyyy=%d' % races[0]['racedate'].year))
 		self.body.onload = "javascript:fetchActiveDays(fullcalendar);"
 		style = STYLE()
 		style.append('.cal {width:265px;margin:0 0 0 10px;} ')
@@ -121,7 +120,28 @@ class CalendarDocument(Document):
 		firstCell.append(self.socialIcons)
 		self.carousel.append(firstCell)
 
-		textcell = CarouselText(txt)
+		racelist = []
+		for race in races:
+			racename = race['race']
+			racedate = '%s %d, %d' % (race['racedate'].strftime('%b'), race['racedate'].day, race['racedate'].year)
+			event = '&middot; %s, %s' % (racename, racedate)
+			if 'a' in race:
+				#event = '<span style="background-color:#ddf3ff;font-weight:bold;">%s &nbsp;</span>' % event
+				event = '<span style="background-color:#cef6c4;font-weight:bold;">%s &nbsp;</span>' % event
+			racelist.append('%s<br />' % event)
+		racelist.reverse()
+		
+		lines = []
+		for line in txt.split('\n'):
+			lines.append(line)
+			if line.find('### RACE CALENDAR') == 0:
+				lines.append('<div style="font-size:0.85em;padding-bottom:20px;">')
+				for race in racelist:
+					lines.append(race)
+				lines.append('</div>')
+
+
+		textcell = CarouselText('\n'.join(lines))
 		textcell._class = "carousel-cell cal"
 		textcell.style = "width:265px;"
 		self.carousel.append(textcell)
@@ -154,26 +174,22 @@ class CalendarDocument(Document):
 
 mdown = """
 
-# TRIATHLON CALENDAR - 2025
+# TRAINING CALENDAR - 2025
 
 Calendar days in: <strong id="tdc">&mdash;</strong>  
 Active days: <strong id="adc">&mdash;</strong> &nbsp; <small id="adp" style="padding:2px 2px 2px 10px;background-color:#ddf3ff;">0%</small>
 
-#### Next Race
-To be determined...
+### RACE CALENDAR
+
 
 ## ANNUAL GOAL
-No IRONMAN races on the calendar this year; if _"they"_ were
-to run IM Canada - Penticton this year, _"they"_ would have
-already had my money.
+No IRONMAN races on the calendar this year.
+If those in charge held IM Canada - Penticton again in 2025, they would have my money already.
 
 Queue up XTERRA Victoria this summer and the 2025 Age-Group
-World Champs in Wollongong, Australia in the (our) fall.
+World Champs in Wollongong, Australia in October.
 
 Let's go.
-
-## PERIODIC SUMMARY
-&mdash;
 
 """
 
@@ -185,10 +201,10 @@ def decodeRaceDate(empDict):
 
 if __name__ == "__main__":
 
-	racefile = os.popen('cat ../docs/assets/racedates-2025.json', 'r')
+	racefile = os.popen('cat ../docs/assets/racedates.json', 'r')
 	races = json.load(racefile, object_hook=decodeRaceDate)['races']
 
-	calendar = CalendarDocument('mariostoc.co', '/training', 'calendar-2025')
+	calendar = CalendarDocument('mariostoc.co', '/training', 'calendar')
 	calendar.handleMarkdown(mdown, races)
 	calendar.save('../docs')
 	print('done.')
