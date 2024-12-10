@@ -58,7 +58,7 @@ function fullcalendar(data) {
 }
 
 function cellClick(w,d) {
-	var url = '/training/2024-' + w + '-weeks-out?' + d;
+	var url = '/training/'+yyyy+'-'+w+'-weeks-out?'+d;
 	window.location.assign(url);
 	return;
 }
