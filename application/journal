@@ -6,11 +6,12 @@ import os
 
 
 class MarkdownFile:
-	def __init__(self, filename):
+	def __init__(self, directory, filename):
 		self.filename = filename
+		self.filepath = directory + filename
 		self.lines = []
 		index = 0
-		with open(filename, "r") as fileobj:    
+		with open(self.filepath, "r") as fileobj:    
 			for line in fileobj.read().splitlines():
 				if len(line) > 2 and line[-2:] == '  ':
 					line = line.rstrip() + '  '
@@ -48,7 +49,7 @@ class MarkdownFile:
 		print(''.ljust(40, '_'))
 		return block
 
-	def save(self, block):
+	def save(self, block, commit):
 		edit = []
 		insert = False
 		for line in self.lines:
@@ -61,8 +62,19 @@ class MarkdownFile:
 			else:
 				edit.append(line['line'])
 
-		with open(self.filename, "w") as fileobj:
+		with open(self.filepath, "w") as fileobj:
 			fileobj.write('\n'.join(edit))
+		return
+
+	def commit(self):
+		os.chdir('/home/mstocco/mariostoc.co')
+		for line in os.popen('git status', 'r').readlines():
+			if line.find(self.filename) > 0:
+				os.popen('git add content/training/%s' % self.filename, 'r')
+				os.popen('git commit -m "Update %s"' % self.filename, 'r')
+				print('\n\n  git push\n\n')
+				return
+		print('Nothing to commit.')
 		return
 
 
@@ -79,9 +91,8 @@ class JournalEntry:
 		directory = '/home/mstocco/mariostoc.co/content/training/'
 		for filename in os.listdir(directory):
 			if filename.find(prefix) == 0:
-				print('edit:', filename)
-				fullpath = directory + filename
-				return MarkdownFile(fullpath)
+				print(filename)
+				return MarkdownFile(directory, filename)
 		raise SystemExit('Markdown file not found.\n')
 	
 	def getMultiline(self, lines):
@@ -106,19 +117,25 @@ class JournalEntry:
 				if line.find('<!----') == -1:
 					lines.append('')
 		return lines
-
-
-	def getMorningNumbers(self, d1, d2, d3):
-		block = self.markdown.editBlock(d1, d2, d3)
-		morning = []
-		print('Rate on a scale 1-7  1=best 7=worst  +5 is a warning')
-		for key in ['Sleep','Fatigue','Stress','Soreness']:
-			value = int(input('%s: ' % key)[0])
-			morning.append('%s **%d**' % (key, value))
-		lines = ['%s' % ' | '.join(morning)]
-		lines.append('<sup><br />Rate on a scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>')
-		lines.append('')
-		return self.markdown.save(lines)
+	
+	def getNumber(self, phrase, attempt=1):
+		try:
+			value = input('%s: ' % phrase).strip()
+			if len(value) == 0: return ''
+			float(value)
+		except:
+			if attempt > 1: return ''
+			print('need a number\n')
+			return self.getNumber(phrase, 2)
+		return value
+	
+	def getDistance(self, phrase):
+		distance = self.getNumber(phrase)
+		if len(distance) > 0:
+			metric = ' km'
+			if float(distance) > 299.0: metric = ' m'
+			return distance + metric
+		return ''
 
 	def edit(self):
 		if self.yesterday:
@@ -127,6 +144,9 @@ class JournalEntry:
 			yyyy, mm, dd = self.date.split('-')
 			self.today = date(int(yyyy), int(mm), int(dd))
 		self.markdown = self.getMarkdownFile()
+
+		if self.section == 'commit':
+			return self.markdown.commit()
 		
 		if self.section == 'focus': return self.editSingleLine('# ', '### CURRENT FOCUS', '### SUMMARY')
 		if self.section == 'summary': return self.editSummary()
@@ -147,7 +167,7 @@ class JournalEntry:
 				lines = self.getMultiline(block)
 			else:
 				lines = self.getMultiline([])
-			self.markdown.save(lines)
+			self.markdown.save(lines, self.commit)
 			return
 		print('done.\n')
 		return
@@ -166,7 +186,6 @@ class JournalEntry:
 		while True:
 			try:
 				line = input()
-				print('')
 				if line.find(':w') == 0:
 					break
 			except EOFError:
@@ -175,36 +194,22 @@ class JournalEntry:
 				lines.append(line.rstrip() + '  ')
 			else:
 				lines.append(line.rstrip())
-				if line.find('<!----') == -1: lines.append('')
+				if line.find('<!----') == -1:
+					lines.append('')
+					print('')
 		if d3.find('## ') == 0: lines.append('<!---->')
 		self.markdown.save(lines)
+		if self.commit: self.gitCommit()
 	
 	def editMorningNumbers(self, d1):
-		block = self.markdown.editBlock(d1, d1, '<sup>')
 		morning = []
+		block = self.markdown.editBlock(d1, d1, '<sup>')
 		print('Rate on a scale 1-7  1=best 7=worst  +5 is a warning')
-		for key in ['Sleep','Fatigue','Stress','Soreness']:
-			value = int(input('%s: ' % key)[0])
-			morning.append('%s **%d**' % (key, value))
-		return self.markdown.save(['%s' % ' | '.join(morning)])
-	
-	def getNumber(self, phrase, attempt=1):
-		try:
-			value = input('%s: ' % phrase).strip()
-			if len(value) == 0: return ''
-			float(value)
-		except:
-			if attempt > 1: return ''
-			print('need a number\n')
-			return self.getNumber(phrase, 2)
-		return value
-	
-	def getDistance(self, phrase):
-		distance = self.getNumber(phrase)
-		if len(distance) > 0:
-			metric = ' km'
-			if float(distance) > 200.0: metric = ' m'
-		return distance + metric
+		for key in ['sleep','fatigue','stress','soreness']:
+			value = int(self.getNumber(key))
+			morning.append('%s **%d**' % (key.capitalize(), value))
+		self.markdown.save(['%s' % ' | '.join(morning)], self.commit)
+		return
 
 	def editNotes(self, d1):
 		block = self.markdown.editBlock(d1, '### NOTES', '<!---->')
@@ -225,11 +230,11 @@ class JournalEntry:
 						if len(effort) == 0:
 							notes.append('Training Time: **%s minutes**' % mins)
 						else:
-							notes.append('Time: **%s mins** &nbsp; Effort: **%s**' % (mins, effort.lower()))
+							notes.append('Time: **%s minutes** &nbsp; Effort: **%s**' % (mins, effort.lower()))
 					else:
-						notes.append('Time: **%s mins** &nbsp;Normalized Power: **%s W**' % (mins, watts))
+						notes.append('Time: **%s minutes** &nbsp; Normalized Power: **%s W**' % (mins, watts))
 				else:
-					notes.append('Time: **%s mins** &nbsp; Distance: **%s**' % (mins, distance.lower()))
+					notes.append('Time: **%s minutes** &nbsp; Distance: **%s**' % (mins, distance.lower()))
 			temp = self.getNumber('temperature')
 			if len(temp) > 0:
 				conditions = input('conditions: ').strip()
@@ -238,14 +243,14 @@ class JournalEntry:
 					notes.append('Weather: **%s°C** %s' % (temp, conditions))
 			if len(notes) > 0: notes.append('')
 		notes.extend(self.getMultiline(block))
-		self.markdown.save(notes)
+		self.markdown.save(notes, self.commit)
 		return
 
 	def editSummary(self):
 		block= self.markdown.editBlock('#', '### SUMMARY', '![')
 		summary = []
 		if self.append:
-			print('### NOTES')
+			print('### SUMMARY')
 			for line in block:
 				print(line)
 		else:
@@ -259,35 +264,45 @@ class JournalEntry:
 				summary.append('Training time: **%s hours**' % hours)
 			if len(summary) > 0: summary.append('')
 		summary.extend(self.getMultiline(block))
-		self.markdown.save(summary)
+		self.markdown.save(summary, self.commit)
 		return
 
 	def editImageText(self):
 		line = self.markdown.editLine('![')
 		img = {}
-		img['path'] = line.split('(')[1].split(' ')[0]
+		img['src'] = line.split('(')[1].split(' ')[0]
 		img['title'] = line.split(img['path'])[1].split(')')[0]
 		img['alt'] = line.split('[')[1].split(']')[0]
-		for key, val in img.items():
-			print('%s:\t%s' % (key, val))
+		for key, val in img.items(): print('%s:\t%s' % (key, val))
 		print(''.ljust(40,'_'))		
 		for key in img.keys():
-			val = input('%s> ' % key)
-			if len(val) == 0:
-				val = img[key]
-			else:
-				img[key] = val.strip()
-		if img['path'].find('/') == -1:
-			if img['path'].find('.jpeg') > 0:
-				img['path'] = '/assets/jpg/%s' % img['path']
-		image = '![%s](%s %s)' % (img['alt'], img['path'], img['title'])
-		return self.markdown.save([image])
+			img[key] = input('%s> ' % key).strip()
+		if img['src'].find('/') == -1:
+			if img['src'].find('.jpeg') > 0:
+				img['src'] = '/assets/jpg/%s' % img['src']
+		image = '![%s](%s %s)' % (img['alt'], img['src'], img['title'])
+		self.markdown.save([image], self.commit)
+		return 
+
+class Old:
+	def getMorningNumbers(self, d1, d2, d3):
+		block = self.markdown.editBlock(d1, d2, d3)
+		morning = []
+		print('Rate on a scale 1-7  1=best 7=worst  +5 is a warning')
+		for key in ['Sleep','Fatigue','Stress','Soreness']:
+			value = int(input('%s: ' % key)[0])
+			morning.append('%s **%d**' % (key, value))
+		lines = ['%s' % ' | '.join(morning)]
+		lines.append('<sup><br />Rate on a scale 1-7 &nbsp; 1=best 7=worst &nbsp; +5 is a warning</sup>')
+		lines.append('')
+		return self.markdown.save(lines)
 
 entry = JournalEntry()
 parser = argparse.ArgumentParser()
 parser.add_argument('--yesterday', action='store_true')
 parser.add_argument('--date', type=str, help='YYYY-MM-DD')
 parser.add_argument('--append', action='store_true')
-parser.add_argument('section', type=str, choices=['morning','workout','notes','focus','summary','image','day'])
+parser.add_argument('--commit', action='store_true')
+parser.add_argument('section', type=str, choices=['morning','workout','notes','focus','summary','image','day', 'commit'])
 args = parser.parse_args(namespace=entry)
 entry.edit()
