@@ -1,0 +1,264 @@
+#!/usr/bin/python3
+
+import argparse
+import sys
+import math
+from xml.dom.minidom import parse as parseXml
+from os.path import abspath
+from enum import Enum
+
+## https://gitlab.com/l3u/gpx2svg/-/blob/master/gpx2svg?ref_type=heads
+
+
+class Projection(Enum):
+	Mercator = 0
+	WGS84 = 1
+
+class SVGTrack:
+
+	def parse(self, gpxfile):
+		try:
+			gpx = parseXml(gpxfile)
+		except IOError as error:
+			raise SystemExit('Error reading file: {}. Terminating.'.format(error), file = sys.stderr)
+		except:
+			print('Error while parsing XML data:', file = sys.stderr)
+			print(sys.exc_info(), file = sys.stderr)
+			raise SystemExit('Terminating.')
+
+		self.outfile = '/home/mstocco/mariostoc.co/docs/assets/svg/%s' % gpxfile.replace('.gpx', '.svg')
+		self.gpsData = []
+		for track in gpx.getElementsByTagName('trk'):
+			for trackseg in track.getElementsByTagName('trkseg'):
+				trackSegData = []
+				for point in trackseg.getElementsByTagName('trkpt'):
+					lon = float(point.attributes['lon'].value)
+					lat = float(point.attributes['lat'].value)
+					trackSegData.append((lon, lat))
+				if len(trackSegData) > 0:
+					self.gpsData.append(trackSegData)
+
+	def calcProjection(self):
+		projectedData = []
+		for segment in self.gpsData:
+			projectedSegment = []
+			for coord in segment:
+				projectedSegment.append(self.mercatorProjection(coord))
+			projectedData.append(projectedSegment)
+		return projectedData
+
+	def mercatorProjection(self, coord):
+		"""Calculate the Mercator projection of a coordinate pair"""
+		r = 6378137.0
+		x = r * coord[0] * math.pi / 180.0
+		y = r * math.log(math.tan((math.pi / 4.0) + ((coord[1] * math.pi / 180.0) / 2.0)))
+		return x, y
+
+	def extentOfProjectedData(self, gpsData):
+		"""Get the extent of a dataset and return the resulting minX, maxX, minY, maxY"""
+		minX = maxX = gpsData[0][0][0]
+		minY = maxY = gpsData[0][0][1]
+		for segment in gpsData:
+			for coord in segment:
+				if coord[0] < minX: minX = coord[0]
+				if coord[0] > maxX: maxX = coord[0]
+				if coord[1] < minY: minY = coord[1]
+				if coord[1] > maxY: maxY = coord[1]
+		return minX, maxX, minY, maxY
+
+	def moveProjectedData(self, projectedData):
+		"""Move a dataset to 0,0 and return it with the resulting width and height"""
+		# Find the minimum and maximum x and y coordinates
+		minX, maxX, minY, maxY = self.extentOfProjectedData(projectedData)
+		# Move the GPS data to 0,0
+		movedGpsData = []
+		for segment in projectedData:
+			movedSegment = []
+			for coord in segment:
+				movedSegment.append((coord[0] - minX, coord[1] - minY))
+			movedGpsData.append(movedSegment)
+		# Return the moved data and it's width and height
+		return movedGpsData, maxX - minX, maxY - minY
+
+	def searchCircularSegments(self, gpsData):
+		"""Splits a GPS dataset to tracks that are circular and other tracks"""
+		circularSegments = []
+		straightSegments = []
+		for segment in gpsData:
+			if segment[0] == segment[len(segment) - 1]:
+				circularSegments.append(segment)
+			else:
+				straightSegments.append(segment)
+		return circularSegments, straightSegments
+
+	def combineSegmentPairs(self, gpsData):
+		"""Combine segment pairs to one bigger segment"""
+		combinedData = []
+		# Walk through the GPS data and search for segment pairs
+		# that end with the starting point of another track
+		while len(gpsData) > 0:
+			# Get one segment from the source GPS data
+			firstTrackData = gpsData.pop()
+			foundMatch = False
+			# Try to find a matching segment
+			for i in range(len(gpsData)):
+				if firstTrackData[len(firstTrackData) - 1] == gpsData[i][0]:
+					# There is a matching segment, so break here
+					foundMatch = True
+					break
+
+		if foundMatch == True:
+			# We found a pair of segments with one shared point, so pop the data of the second
+			# segment from the source GPS data and create a new segment containing all data, but
+			# without the overlapping point
+			firstTrackData.pop()
+			combinedData.append(firstTrackData + gpsData[i])
+			gpsData.pop(i)
+		else:
+			# No segment with a shared point was found, so just append the data to the output
+			combinedData.append(firstTrackData)
+		return self.searchCircularSegments(combinedData)
+
+	def combineSegments(self, gpsData):
+		"""Combine all segments of a GPS dataset that can be combined"""
+		# Search for circular segments. We can't combine them with any other segment.
+		circularSegments, remainingSegments = self.searchCircularSegments(gpsData)
+
+		# Search for segments that can be combined
+		while True:
+			# Look how many tracks we have now
+			segmentsBefore = len(remainingSegments)
+			# Search for segments that can be combined
+			newCircularSegments, remainingSegments = self.combineSegmentPairs(remainingSegments)
+			# Add newly found circular segments to processedSegments -- they can't be used anymore
+			circularSegments = circularSegments + newCircularSegments
+			if segmentsBefore == len(remainingSegments):
+				# combineSegmentPairs() did not reduce the number of tracks anymore,
+				# so we can't combine more tracks and can stop here
+				break
+		return circularSegments + remainingSegments
+
+	def chronologyJoinSegments(self, gpsData):
+		"""Join all segments to a big one in the order defined by the GPX file."""
+		joinedSegment = []
+		for segment in gpsData:
+			joinedSegment += segment
+		return [joinedSegment]
+
+	def scaleCoords(self, coord, height, scale):
+		"""Return a scaled pair of coordinates"""
+		return coord[0] * scale, (coord[1] * -1 + height) * scale
+
+	def generateScaledSegment(self, segment, height, scale):
+		"""Create the coordinate part of an SVG path string from a GPS data segment"""
+		for coord in segment:
+			yield self.scaleCoords(coord, height, scale)
+
+	def writeSvgData(self, gpsData, width, height):
+		"""Output the SVG data -- quick 'n' dirty, without messing around with dom stuff ;-)"""
+
+		# Pass the cmdArgs settings to nicer variables
+		maxPixels = self.maxpixels
+		outfile = self.outfile
+		# Calculate the scale factor we need to fit the requested maximal output size
+		if width <= maxPixels and height <= maxPixels:
+			scale = 1
+			sw = width
+			sh = height
+		elif width > height:
+			scale = maxPixels / width
+			sw = maxPixels
+			sh = int((height * scale) + 1)
+		else:
+			scale = maxPixels / height
+			sh = maxPixels
+			sw = int((width * scale) + 1)
+
+		# Open the requested output file or map to /dev/stdout
+		if outfile == '/dev/stdout':
+			fp = sys.stdout
+		else:
+			try:
+				fp = open(self.outfile, 'w')
+			except IOError as error:
+				print("Can't open output file: {}. Terminating.".format(error), file = sys.stderr)
+				sys.exit(1)
+
+		# Header data
+		attrs = {'xmlns':'http://www.w3.org/2000/svg', 'version':'1.1','viewBox':'0 0 %d %d' % (sw, sh)}
+		units = 'px'
+		attrs['width'] = '%dpx' % sw
+		attrs['height'] = '%dpx' % sh
+
+		svgroot = 'svg'
+		for key, value in attrs.items():
+			svgroot = '%s %s="%s"' % (svgroot, key, value)
+		fp.write('<?xml version="1.0" encoding="UTF-8" standalone="no"?>\n')
+		fp.write('<%s>\n' % svgroot)
+		print('<%s>\n' % svgroot)
+
+		# Process all track segments and generate ids and path drawing commands for them
+		# First, we split the data to circular and straight segments
+		circularSegments, straightSegments = self.searchCircularSegments(gpsData)
+		realCircularSegments = []
+		for segment in circularSegments:
+			# We can leave out the last point, because it's equal to the first one
+			segment.pop()
+			if len(segment) > 1:
+				realCircularSegments.append(segment)
+		circularSegments = realCircularSegments
+
+		# Draw all circular segments
+		if len(circularSegments) > 0:
+			fp.write('<g>\n')
+			for segment in circularSegments:
+				fp.write('<path d="M')
+				for x, y in self.generateScaledSegment(segment, height, scale):
+					fp.write(' {} {}'.format(x, y))
+				fp.write(' Z" style="fill:none;stroke:%s";stroke-width:%s/>\n' % (self.colour, self.stroke))
+			fp.write('</g>\n')
+
+		# Draw all un-closed paths
+		if len(straightSegments) > 0:
+			fp.write('<g>\n')
+			for segment in straightSegments:
+				fp.write('<path d="M')
+				for x, y in self.generateScaledSegment(segment, height, scale):
+					fp.write(' {} {}'.format(x, y))
+				fp.write('" style="fill:white;stroke:%s;stroke-width:%s"/>\n' % (self.colour, self.stroke))
+			fp.write('</g>\n')
+
+		# Close the XML
+		fp.write('</svg>\n')
+
+		# Close the file if necessary
+		if fp != sys.stdout:
+			fp.close()
+
+	def write(self):
+		projection = Projection.Mercator
+		self.parse(self.gpxfile)
+
+		# Calculate a plane projection for a GPS dataset.
+		# Move the projected data to the 0,0 origin of a cartesial coordinate system
+		# and get the raw width and height of the resulting vector data
+		cartesialData, width, height = self.moveProjectedData(self.calcProjection())
+
+		self.writeSvgData(cartesialData, width, height)
+		return
+
+
+
+
+svg = SVGTrack()
+parser = argparse.ArgumentParser()
+parser.add_argument('--join', action='store_true')
+parser.add_argument('--colour', type=str, default='#333333')
+parser.add_argument('--stroke', type=int, default=1)
+parser.add_argument('--maxpixels', type=int, default=550)
+parser.add_argument('gpxfile', type=str)
+args = parser.parse_args(namespace=svg)
+svg.write()
+
+
+
