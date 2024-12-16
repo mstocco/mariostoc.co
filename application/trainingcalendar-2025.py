@@ -104,7 +104,7 @@ class CalendarDocument(Document):
 		self.head.append(LINK({'rel':'stylesheet','type':'text/css','media':'screen','href':'/assets/css/mstocco.css'}))
 		self.head.append(SCRIPT({"src":"/assets/js/flickity.pkgd.min.js"}))
 		self.head.append(SCRIPT({"src":"/assets/js/trainingcalendar.js"}))
-		self.head.append(SCRIPT('var yyyy=%d' % races[0]['racedate'].year))
+		self.head.append(SCRIPT('var yyyy=%d;' % races[0]['racedate'].year))
 		self.body.onload = "javascript:fetchActiveDays(fullcalendar);"
 		style = STYLE()
 		style.append('.cal {width:265px;margin:0 0 0 10px;} ')

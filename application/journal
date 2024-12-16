@@ -179,7 +179,7 @@ class JournalEntry:
 			print(line)
 		print('')
 		line = input('newline > ')
-		self.markdown.save([line.strip(), ''])
+		self.markdown.save([line.strip(), ''], self.commit)
 	
 	def editMultiline(self, lines, d3=''):
 		print('Enter/Paste content. Ctrl-D or :w to save.')
