@@ -7,7 +7,7 @@
 from document import Document
 from markdown2 import markdown
 from innerHTML import *
-
+from time import time
 
 class Masthead(HEADER):
 	""" Seen above the Flickity Carousel.
@@ -233,7 +233,6 @@ class FlickityJS(SCRIPT):
 	""" Javascript Tag included in the body of the document.
 	"""
 	def __init__(self):
-		self._type = 'text/javascript'
 		self.flkty = {}
 		self.flkty['initialIndex'] = 1
 	
@@ -382,9 +381,10 @@ class FlickityDocument(Document):
 	
 		if self.documentURI.find('training') == 1:
 			training = True
-			self.head.append('<script src="/assets/js/trainingcalendar.js?v2"></script>');
+			self.head.append('<script src="/assets/js/trainingcalendar.js?%d"></script>' % int(time()));
 			self.body.onload = "javascript:fetchActiveDays(trainingweek);"
-			week = self.documentURI.split('-')[1].split('week')[0]
+			#week = self.documentURI.split('-')[1].split('week')[0]
+			#week = self.documentURI.split('weeks')[0].split
 			self.navigation.training = True
 			self.navigation.week = True
 	

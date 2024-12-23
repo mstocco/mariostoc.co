@@ -1,0 +1,17 @@
+{
+ "races": [
+  {"racedate": "2025-10-15", "race": "AG World Champs"}, 
+  {"racedate": "2025-07-07", "race": "XTERRA Victoria"}, 
+  {"racedate": "2025-06-29", "race": "Cowichan Challenge"} 
+ ],
+ "maybes": [
+  {"racedate": "2025-09-15", "race": "Cultus Lake Triathlon"},
+  {"racedate": "2025-09-07", "race": "XTERRA Sleeping Giant"},
+  {"racedate": "2025-08-03", "race": "Elk Lake Triathlon"},
+  {"racedate": "2025-07-20", "race": "Peach Classic Triathlon"},
+  {"racedate": "2025-07-13", "race": "Victoria Half & Sprint"},
+  {"racedate": "2025-06-22", "race": "QF Qualicum Beach Triathlon"},
+  {"racedate": "2025-06-07", "race": "Oliver Sprint & Standard"},
+  {"racedate": "2025-05-11", "race": "Westwood Lake Triathlon"} 
+ ]
+}

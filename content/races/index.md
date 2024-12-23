@@ -8,25 +8,69 @@ fortitude and really, just to have some fun.
 Below is a list of past events that I have entered.
 
 ## TRIATHLON
-[2023 Xterra Whistler](javascript:flkty.select(6);)  
+[2023 Xterra Whistler](javascript:flkty.select(7);)  
 [2023 Victoria Sprint](2023-victoria-sprint) 🏆 <small>(1<sup>st</sup> M50-59)</small>   
 
-[2023 DATEV Challenge Roth](javascript:flkty.select(2);)  
-[2022 IRONMAN Canada - Penticton](javascript:flkty.select(3);)  
-[2021 IRONMAN Italy - Emilia Romagna](javascript:flkty.select(4);)
+[2024 IRONMAN Canada - Penticton](javascript:flkty.select(2);)  
+[2023 DATEV Challenge Roth](javascript:flkty.select(3);)  
+[2022 IRONMAN Canada - Penticton](javascript:flkty.select(4);)  
+[2021 IRONMAN Italy - Emilia Romagna](javascript:flkty.select(5);)
 
 ---
-[2023 IRONMAN 70.3 - Victoria](javascript:flkty.select(7);)  
-[2022 Victoria Half](javascript:flkty.select(8);)  
-[2022 IRONMAN 70.3 - Victoria](javascript:flkty.select(8);)  
-[2021 Victoria Half (virtual)](javascript:flkty.select(9);)
+[2023 IRONMAN 70.3 - Victoria](javascript:flkty.select(8);)  
+[2022 Victoria Half](javascript:flkty.select(9);)  
+[2022 IRONMAN 70.3 - Victoria](javascript:flkty.select(9);)  
+[2021 Victoria Half (virtual)](javascript:flkty.select(10);)
 
 ## RUNNING
-[2019 Victoria Marathon](javascript:flkty.select(11);)  
-[2019 Calgary Marathon](javascript:flkty.select(11);)  
-[2018 Vancouver Marathon](javascript:flkty.select(12);)  
-[2017 Victoria Marathon](javascript:flkty.select(12);)
+[2019 Victoria Marathon](javascript:flkty.select(12);)  
+[2019 Calgary Marathon](javascript:flkty.select(12);)  
+[2018 Vancouver Marathon](javascript:flkty.select(13);)  
+[2017 Victoria Marathon](javascript:flkty.select(13);)
 
+<!---->
+<img src="/assets/svg/ironman-canada-2024.svg" height="75px" width="170px" />
+
+---
+
+## 2024 IRONMAN CANADA - PENTICTON
+<p class="timestamp"> Sunday, August 28, 2022</p>
+
+### SUMMARY
+The final chapter in a storied event.
+
+A storm rolled in Saturday and flipped the lake.  Water 
+temperature on Sunday morning was reported at 13°C and thus, 
+the swim was cancelled.
+
+Penticton was awesome.
+
+<p class="continue"><a href="2024-ironman-canada-penticton">full race report &rarr;</a></p>
+<table style="position:absolute;bottom:0;">
+ <thead>
+  <tr>
+   <th style="width:25%;"></th>
+   <th style="width:25%;text-align:right;">Time</th>
+   <th style="width:25%;text-align:right;">M50-54</th>
+   <th style="width:25%;text-align:right;">Overall</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr><td>Swim</td><td style="text-align:right;">&mdash;</td><td style="text-align:right;">&mdash;</td><td style="text-align:right;">&mdash;</td></tr>
+  <tr><td>Bike</td><td style="text-align:right;">6:58:35</td><td style="text-align:right;">106</td><td style="text-align:right;">646</td></tr>
+  <tr><td>Run </td><td style="text-align:right;">5:37:21</td><td style="text-align:right;"> 86</td><td style="text-align:right;">636</td></tr>
+  <tr><td>T1  </td><td style="text-align:right;">&mdash;</td><td colspan="2"></td></tr>
+  <tr><td>T2  </td><td style="text-align:right;">  15:53</td><td colspan="2"></td></tr>
+ </tbody>
+ <tfoot>
+  <tr>
+   <td>Overall</td>
+   <td style="font-weight:bold;text-align:right;">12:51:49</td>
+   <td style="font-weight:bold;text-align:right;">  50/86</td>
+   <td style="font-weight:bold;text-align:right;">679/1029</td>
+  </tr>
+ </tfoot>
+</table>
 <!---->
 <img src="/assets/svg/challenge-roth-logo.svg" height="75px" width="170px" />
 
