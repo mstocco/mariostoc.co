@@ -42,8 +42,8 @@ side-stitch during the swim, otherwise felt good.
 
 <!---->
 On the bike, I was passed by _Niki S._ on _Oldfield Road_. 
-She was quick heading to the top of _Old West Saanich Road_ 
-but I returned the favour before getting down to the bottom of 
+She was quick heading to the top of _Old West Saanich Road_ but
+I returned the favour before getting down to the bottom of 
 the hill.
 
 From that point on, I became her _"rabbit"_ that she'd 
@@ -53,8 +53,8 @@ My heart-rate was on average 145&#8239;BPM, uphills into the
 150's.  Fun, but way higher than I typically ride at.
 
 Once into my running shoes, I settled into a comfortable 
-_5:10/km_ pace on the trail.  _Niki_ would pass me for good 
-early into the run; I'd get passed by a couple more men but 
+_5:10/km_ pace on the trail.  Early into the run, _Niki_ would
+pass me for good. I was passed by a two more men but 
 that's it.
 
 After the turnaround, I watched who in the outbound crowd 
