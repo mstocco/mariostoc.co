@@ -19,11 +19,9 @@
 <body onload="javascript:scroll();">
  <div class="horizon">
   <div class="content">
-
    <header class="masthead">
     <div class="icon" role="button" onclick="javascript:toggle();"><svg focusable="false" viewbox="0 0 20 20"><path d="M0,16.666H20V14.444H0ZM0,11.111H20V8.888H0ZM0,3.333V5.5555H20V3.333Z"></path></svg></div><a href="/" class="mariostocco">MARIO STOCCO</a>
    </header>
-
    <main id="carousel" class="carousel">
     <section class="carousel-cell text" style="width:300px;">
      <nav>
@@ -58,35 +56,30 @@
       <div id="icon-github"><a href="https://github.com/mstocco" target="_blank" rel="noreferrer"><img src="/assets/img/github.svg" alt="GitHub" /></a></div>
      </div>
     </section>
-
     <div class="carousel-cell text">
-     <h2>ABOUT THIS TRAINING LOG</h2>
-     <p>I kept a paper training journal when I was younger; I still have most of those notes today and it is fun for me to re-read them.</p>
-     <p>Since taking up triathlon, I thought it would be a good idea to start writing things down again but instead of paper, I created this digital format.</p>
-     <h2>RELEVANCY</h2>
+     <h1>TRAINING LOG</h1>
+     <p>There are many internet services for tracking physical exercise; I have accounts with a few of those platforms.  They are effective at organizing datapoints collected from an electronic device.</p>
+     <p>The inconvience of a week-long outage on one of those platform prompted me to build this training journal.</p>
+     <p>What I created was a journal focused on the daily/weekly experience of training and less about the numbers.</p>
+	 <h3>HOW IT WORKS (TLDR)</h3>
+     <p>The two most important weeks are always my <a href="latest">CURRENT</a> and <a href="previous">PREVIOUS</a> weeks of training.</p>
+     <p>A <a href="calendar">CALENDAR</a> gives an overview of time invested/remaining until the last race of the year.</p>
+     <p>Simple text files, one per week, are used to jot down daily activities.  The text is written in a shorthand format called <em>"markdown"</em>.</p>
+	 <p>An <a href="javascript:flkty.select(2);">application</a> reads the text files, producing this training journal (and entire website).</p>
+    </div>
+    <div class="carousel-cell text">
+     <p style="margin-top:22px;">The application I created for myself is called a <em>Static Site Generator</em>. If you are interested, the computer code for all of this is hosted and downloadable via <a href="https://github.com/mstocco/mariostoc.co" target="_blank">GitHub</a></p>
+	 <h3>RELEVANCY</h3>
      <ul class="alt">
       <li>Those embarked on their own similar journey and want to read about my process.</li>
       <li>My boss who may be wondering <em>"the real reason"</em> we are getting too close to our project's deadline.</li>
       <li>Most importantly, this training log is relevant for me, as a record my experiences, the hurdles I face, the victories won and importanly, the bonds formed along the way.</li>
      </ul>
-     <h3>PREVIOUS RACE</h3>
-     <p><a href="/races/2023-challenge-roth">2023 DATEV Challenge Roth</a></p>
-     <h3>CURRENTLY TRAINING FOR</h3>
-	 <p>TBD</p>
+	 <h3>2025 TRAINING FOCUS</h3>
+	 <img src="/assets/svg/wtagc2025-logo.svg" style="margin:3px 0 0 40px;width:60%;" />
+	 <p>Previous years ended with an Ironman distance event.  In 2025, I am looking forward to a whole different challenge.</p>
     </div>
-
-    <div class="carousel-cell text">
-     <h2>HOW IT WORKS</h2>
-     <p>As a computer programmer, I thought it'd be fun to write my own journaling system.  This system takes the date of my next big race and works back from there.</p>
-     <p>A simple text file is generated for every week leading up to that race.  With that weekly text file, I jot down a weekly goal, a summary, post a photo or two and document the daily workouts.</p>
-     <p>As I add things thoughout the week, the system converts the text file into a webpage host on this site.</p>
-     <p>The two most important weeks are always my <a href="latest">CURRENT</a> and <a href="previous">PREVIOUS</a> weeks of training.  Quick links to both of those webpages are updated as well.</p>
-     <p>I also have a handy <a href="calendar">CALENDAR</a> that gives me a overview of time invested, time remaining until my next race.</p>
-     <p>If you are interested, the computer code for all of this is hosted and downloadable via <a href="https://github.com/mstocco/mariostoc.co" target="_blank">GitHub</a></p>
-    </div>
-
     <div class="carousel-cell image" style="width:549px;background-image:url(/assets/jpg/IMG_1891-549x550.jpeg)"></div>
-
     <aside class="carousel-cell last" style="width:50%">
      <div style="width:95%;margin-top:245px;">
       <div onclick="javascript:toggle();" style="margin-left:75%" role="button">
@@ -95,9 +88,8 @@
      </div>
     </aside>
    </main>
-
    <footer>
-    <p>Copyright &copy; 2023 Mario Stocco &nbsp; All rights reserved.</p>
+    <p>Copyright &copy; MMXXV Mario Stocco &nbsp; All rights reserved.</p>
    </footer>
   </div>
  </div>
