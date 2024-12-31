@@ -34,16 +34,16 @@ Below is a list of past events that I have entered.
 ---
 
 ## 2024 IRONMAN CANADA - PENTICTON
-<p class="timestamp"> Sunday, August 28, 2022</p>
+<p class="timestamp"> Sunday, August 25, 2024</p>
 
 ### SUMMARY
-The final chapter in a storied event.
+The final chapter in Penticton's storied event.
 
 A storm rolled in Saturday and flipped the lake.  Water 
 temperature on Sunday morning was reported at 13°C and thus, 
 the swim was cancelled.
 
-Penticton was awesome.
+IRONMAN Canada - Penticton will be missed.
 
 <p class="continue"><a href="2024-ironman-canada-penticton">full race report &rarr;</a></p>
 <table style="position:absolute;bottom:0;">
@@ -86,7 +86,7 @@ Weeks of swimming without kicking, pushing off the wall with
 one foot.  Riding the indoor trainer because I couldn't unclip 
 in a hurry if I was outside.  And walking, lot's of walking.
 
-Roth was special.
+Roth was a world-class experience.
 
 <p class="continue"><a href="2023-challenge-roth">full race report &rarr;</a></p>
 <table style="position:absolute;bottom:0;">
