@@ -5,7 +5,7 @@
 
 I live and work in _Victoria, British Columbia_ and I am <strike>engaged</strike> married to the sweetest woman ever!
 
-I am currently employed as a Systems Architect at _Distributel, a division of Bell Canada_, working on a number of initiatives around our best-in-market telecommunications platform. 
+I am currently employed as a Senior Voice Architect at _Distributel, a division of Bell Canada_, working on a number of initiatives around our best-in-market telecommunications platform. 
 
 Before _Distributel_, I spent well over a decade as a contractor for hire, building custom tele-<wbr />communication solutions for customers from Florida to California and all across Canada.
 
