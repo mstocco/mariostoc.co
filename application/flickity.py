@@ -224,7 +224,7 @@ class PageFooter(FOOTER):
 	""" Footer for the bottom of the webpage.
 	"""
 	def tohtml(self):
-		copyright = P("Copyright &copy; MMXXIV Mario Stocco &nbsp; All rights reserved.")
+		copyright = P("Copyright &copy; MMXXV Mario Stocco &nbsp; All rights reserved.")
 		self.append(copyright)
 		return HTML5Tag.tohtml(self)
 
@@ -427,7 +427,7 @@ class FlickityDocument(Document):
 
 		self.head.prepend(META({"name":"author","content":"Mario Stocco"}))
 		self.head.prepend(META({"name":"generator","content":"Mario Stocco"}))
-		self.head.prepend(META({"name":"copyright","content":"© 2024 Mario Stocco"}))
+		self.head.prepend(META({"name":"copyright","content":"© 2025 Mario Stocco"}))
 		self.head.prepend(META({"name":"viewport","content":"width=device-width,initial-scale=1,user-scalable=no"}))
 		if hasattr(self, 'nocache'):
 			self.head.prepend(META({"http_equiv":"Expires","content":"-1"}))
